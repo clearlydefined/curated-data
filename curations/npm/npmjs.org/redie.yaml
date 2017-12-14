@@ -1,4 +1,7 @@
 0.3.0:
   copyright: bar
 0.2.0:
-  copyright: bar
+  copyright: bat
+type: npm
+provider: npmjs.org
+name: redie
