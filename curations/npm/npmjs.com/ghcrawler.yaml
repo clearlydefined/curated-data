@@ -1,0 +1,7 @@
+package:
+  type: npm
+  provider: npmjs.com
+  name: ghcrawler
+revisions:
+  0.2.0:
+    name: this is a test2
