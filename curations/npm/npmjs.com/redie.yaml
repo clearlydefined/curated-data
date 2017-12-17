@@ -5,3 +5,5 @@ package:
 revisions:
   0.3.0:
     name: this is a test2
+  0.2.0:
+    name: this is a test2
