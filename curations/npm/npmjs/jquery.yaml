@@ -1,0 +1,14 @@
+package:
+  type: npm
+  provider: npmjs
+  name: jquery
+revisions:
+  3.2.16:
+    described:
+      dimensions:
+        test:
+          - test/
+        dev:
+          - types/**/*.d.ts
+        data: []
+        shipping: []
