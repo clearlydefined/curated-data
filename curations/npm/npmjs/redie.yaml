@@ -1,0 +1,13 @@
+package:
+  type: npm
+  provider: npmjs
+  name: redie
+revisions:
+  0.3.0:
+    described:
+      dimensions:
+        test:
+          - test/
+        dev:
+          - types/**/*.d.ts
+        data: []
