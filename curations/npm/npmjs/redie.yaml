@@ -7,6 +7,6 @@ revisions:
     described:
       dimensions:
         test: ['test/']
-        dev: ['types/**/*.d.ts'
+        dev: ['types/**/*.d.ts']
         data: []
  
