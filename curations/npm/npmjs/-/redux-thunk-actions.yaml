@@ -1,0 +1,13 @@
+coordinates:
+  name: redux-thunk-actions
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.6:
+    described:
+      sourceLocation:
+        provider: github
+        revision: cb5933d3218d700a3f4af3d2a22bddb8839f0332
+        type: git
+        url: 'https://github.com/machadogj/redux-thunk-actions'
