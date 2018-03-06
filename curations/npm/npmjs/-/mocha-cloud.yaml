@@ -1,0 +1,13 @@
+coordinates:
+  name: mocha-cloud
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1:
+    described:
+      sourceLocation:
+        provider: github
+        revision: 080ecd89f90f1ed01a7c135526f9371eb4e21e00
+        type: git
+        url: 'https://github.com/tj/mocha-cloud'
