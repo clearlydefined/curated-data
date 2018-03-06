@@ -1,0 +1,13 @@
+coordinates:
+  name: s3-prototype
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.5:
+    described:
+      sourceLocation:
+        provider: github
+        revision: aab9ba0641339ceea6d711d65e9607bc5526433f
+        type: git
+        url: 'https://github.com/HBOCodeLabs/s3-prototype'
