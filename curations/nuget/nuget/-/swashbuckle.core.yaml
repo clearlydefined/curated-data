@@ -1,0 +1,11 @@
+coordinates:
+  name: swashbuckle.core
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  5.6.0:
+    described:
+      releaseDate: 2017/07/08
+    licensed:
+      declared: BSD-3-Clause
