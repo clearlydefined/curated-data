@@ -1,0 +1,17 @@
+coordinates:
+  name: xunit.runner.msbuild
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.0:
+    described:
+      releaseDate: 2015.09.27
+      sourceLocation:
+        provider: github
+        revision: 47fdc2669ae6aa28f6d642e202840193dfc7dbd7
+        type: git
+        url: >-
+          https://github.com/xunit/xunit/commit/47fdc2669ae6aa28f6d642e202840193dfc7dbd7/commit/47fdc2669ae6aa28f6d642e202840193dfc7dbd7/commit/47fdc2669ae6aa28f6d642e202840193dfc7dbd7
+    licensed:
+      declared: Apache-2.0
