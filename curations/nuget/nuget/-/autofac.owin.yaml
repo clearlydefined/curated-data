@@ -6,7 +6,7 @@ coordinates:
 revisions:
   4.0.0:
     described:
-      releaseDate: 2016.06.29
+      releaseDate: '2016-06-29'
       sourceLocation:
         provider: github
         revision: 27a62994e5d794b5610354fd5fa613c36fa11961
