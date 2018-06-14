@@ -1,0 +1,11 @@
+coordinates:
+  name: respond
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.2:
+    described:
+      releaseDate: '2014-02-25'
+    licensed:
+      declared: MIT
