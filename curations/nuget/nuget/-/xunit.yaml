@@ -6,7 +6,7 @@ coordinates:
 revisions:
   2.1.0:
     described:
-      releaseDate: 2015/09/27
+      releaseDate: 2015.09.27
       sourceLocation:
         provider: github
         revision: 47fdc2669ae6aa28f6d642e202840193dfc7dbd7
