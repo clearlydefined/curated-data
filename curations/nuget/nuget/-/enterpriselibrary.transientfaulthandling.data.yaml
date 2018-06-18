@@ -1,0 +1,16 @@
+coordinates:
+  name: enterpriselibrary.transientfaulthandling.data
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.1304.0:
+    described:
+      releaseDate: '2013-04-26'
+    licensed:
+      declared: MS-PL
+  6.0.1304.1:
+    described:
+      releaseDate: '2014-05-24'
+    licensed:
+      declared: MS-PL
