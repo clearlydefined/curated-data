@@ -1,0 +1,26 @@
+coordinates:
+  name: xunit.abstractions
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0:
+    described:
+      releaseDate: '2015-03-16'
+      sourceLocation:
+        provider: github
+        revision: 9f4fe30892c3a62cc8aea23e1e7cef8dd08c0b0f
+        type: git
+        url: 'https://github.com/xunit/xunit/commit/9f4fe30892c3a62cc8aea23e1e7cef8dd08c0b0f'
+    licensed:
+      declared: Apache-2.0
+  2.0.1:
+    described:
+      releaseDate: '2016-08-09'
+      sourceLocation:
+        provider: github
+        revision: 2671cc4378301e0fa0ac51e530f19530af565016
+        type: git
+        url: 'https://github.com/xunit/xunit/commit/2671cc4378301e0fa0ac51e530f19530af565016'
+    licensed:
+      declared: Apache-2.0
