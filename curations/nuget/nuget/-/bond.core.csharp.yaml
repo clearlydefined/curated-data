@@ -1,0 +1,11 @@
+coordinates:
+  name: bond.core.csharp
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.0:
+    described:
+      releaseDate: '2016-09-13'
+    licensed:
+      declared: MIT
