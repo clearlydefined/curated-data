@@ -1,0 +1,61 @@
+coordinates:
+  name: moq
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.1510.2205:
+    described:
+      releaseDate: '2015-10-22'
+      sourceLocation:
+        provider: github
+        revision: 71cf92ff113e08511512e0bf19c754d98dab218e
+        type: git
+        url: 'https://github.com/moq/moq4/commit/71cf92ff113e08511512e0bf19c754d98dab218e'
+    licensed:
+      declared: BSD-3-Clause
+  4.5.21:
+    described:
+      releaseDate: '2016-08-12'
+      sourceLocation:
+        provider: github
+        revision: 756bf4e3e7b213c6d819ae7acd5e04280a07a040
+        type: git
+        url: 'https://github.com/moq/moq4/commit/756bf4e3e7b213c6d819ae7acd5e04280a07a040'
+    licensed:
+      declared: BSD-3-Clause
+  4.5.23:
+    described:
+      releaseDate: '2016-10-11'
+      sourceLocation:
+        provider: github
+        revision: 8772a49d4565a03d8455685f5633ffed80bb2cc9
+        type: git
+        url: 'https://github.com/moq/moq4/commit/8772a49d4565a03d8455685f5633ffed80bb2cc9'
+    licensed:
+      declared: BSD-3-Clause
+  4.7.1:
+    described:
+      releaseDate: '2017-02-28'
+      sourceLocation:
+        provider: github
+        revision: b776fc2216a591427f4ffe9d3453eeebf9581b3d
+        type: git
+        url: 'https://github.com/moq/moq4/commit/b776fc2216a591427f4ffe9d3453eeebf9581b3d'
+    licensed:
+      declared: BSD-3-Clause
+  4.7.145:
+    described:
+      releaseDate: '2017-11-06'
+    licensed:
+      declared: BSD-3-Clause
+  4.7.8:
+    described:
+      releaseDate: '2017-03-26'
+    licensed:
+      declared: BSD-3-Clause
+  4.7.99:
+    described:
+      releaseDate: '2017-07-17'
+    licensed:
+      declared: BSD-3-Clause
