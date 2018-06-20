@@ -19,9 +19,9 @@ revisions:
       releaseDate: '2015-12-14'
       sourceLocation:
         provider: github
-        revision: '519d24bf11ada94a704c3e17a38040148c7d198c#diff-3cad75c1724fdc11c997c0c87f54ee2a'
+        revision: '519d24bf11ada94a704c3e17a38040148c7d198c'
         type: git
-        url: 'https://github.com/davidebbo/WebActivator/commit/519d24bf11ada94a704c3e17a38040148c7d198c#diff-3cad75c1724fdc11c997c0c87f54ee2a'
+        url: 'https://github.com/davidebbo/WebActivator/commit/519d24bf11ada94a704c3e17a38040148c7d198c'
     licensed:
       declared: Apache-2.0
   2.2.0:
@@ -29,8 +29,8 @@ revisions:
       releaseDate: '2016-10-05'
       sourceLocation:
         provider: github
-        revision: '8a21247a5bdc61af3077bafceac602a9cb236875#diff-3cad75c1724fdc11c997c0c87f54ee2a'
+        revision: '8a21247a5bdc61af3077bafceac602a9cb236875'
         type: git
-        url: 'https://github.com/davidebbo/WebActivator/commit/8a21247a5bdc61af3077bafceac602a9cb236875#diff-3cad75c1724fdc11c997c0c87f54ee2a'
+        url: 'https://github.com/davidebbo/WebActivator/commit/8a21247a5bdc61af3077bafceac602a9cb236875'
     licensed:
       declared: Apache-2.0
