@@ -6,6 +6,6 @@ coordinates:
 revisions:
   5.0.0:
     described:
-      releaseDate: 2016/09/13
+      releaseDate: '2016-09-13'
     licensed:
       declared: MIT
