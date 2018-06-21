@@ -1,0 +1,16 @@
+coordinates:
+  name: actionparameteralias
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.0:
+    described:
+      releaseDate: '2012-02-29'
+      sourceLocation:
+        provider: github
+        revision: eb88faa8e9734b10b4da9d50201d671bce271ba9
+        type: git
+        url: 'https://bitbucket.org/jeffreypalermo/action-parameter-alias/commits/eb88faa8e9734b10b4da9d50201d671bce271ba9'
+    licensed:
+      declared: Apache 2.0
