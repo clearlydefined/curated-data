@@ -1,0 +1,9 @@
+coordinates:
+  name: react-router
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  2.6.1:
+    licensed:
+      declared: MITT
