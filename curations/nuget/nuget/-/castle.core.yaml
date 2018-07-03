@@ -4,6 +4,16 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  4.0.0:
+    described:
+      releaseDate: '2017-01-24'
+      sourceLocation:
+        provider: github
+        revision: d2e45241beea3d8ceadaa3e5e247e172ba1f01e6
+        type: git
+        url: 'https://github.com/castleproject/Core/commit/d2e45241beea3d8ceadaa3e5e247e172ba1f01e6'
+    licensed:
+      declared: Apache-2.0
   4.1.1:
     described:
       releaseDate: '2017-07-12'
