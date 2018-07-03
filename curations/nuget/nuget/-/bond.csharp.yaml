@@ -34,3 +34,8 @@ revisions:
       releaseDate: '2016-11-15'
     licensed:
       declared: MIT
+  7.0.1:
+    described:
+      releaseDate: '2017-10-26'
+    licensed:
+      declared: MIT
