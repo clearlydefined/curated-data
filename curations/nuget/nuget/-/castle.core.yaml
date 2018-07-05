@@ -12,6 +12,14 @@ revisions:
         revision: 5a794b93a28219f03d2984355880a4d131bd1dc9
         type: git
         url: 'https://github.com/castleproject/Core/commit/5a794b93a28219f03d2984355880a4d131bd1dc9'
+  4.0.0:
+    described:
+      releaseDate: '2017-01-24'
+      sourceLocation:
+        provider: github
+        revision: d2e45241beea3d8ceadaa3e5e247e172ba1f01e6
+        type: git
+        url: 'https://github.com/castleproject/Core/commit/d2e45241beea3d8ceadaa3e5e247e172ba1f01e6'
     licensed:
       declared: Apache-2.0
   4.1.1:
