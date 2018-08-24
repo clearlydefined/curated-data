@@ -1,0 +1,13 @@
+coordinates:
+  name: icons
+  namespace: '@uifabric'
+  provider: npmjs
+  type: npm
+revisions:
+  6.0.3:
+    described:
+      sourceLocation:
+        provider: github
+        revision: ff8d8fd3c7b12e886d03940baaa4b87161d2d621
+        type: git
+        url: 'https://github.com/OfficeDev/office-ui-fabric-react'
