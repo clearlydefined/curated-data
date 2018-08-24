@@ -1,0 +1,9 @@
+coordinates:
+  name: xamarin.guiunitng
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  3.7.1.2:
+    licensed:
+      declared: MIT
