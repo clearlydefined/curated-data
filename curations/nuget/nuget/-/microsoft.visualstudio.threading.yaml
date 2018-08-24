@@ -1,0 +1,9 @@
+coordinates:
+  name: microsoft.visualstudio.threading
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  15.6.46:
+    licensed:
+      declared: MIT
