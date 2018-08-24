@@ -1,0 +1,9 @@
+coordinates:
+  name: sharpsvn.1.8-x86
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  1.8013.3694.107:
+    licensed:
+      declared: Apache-2.0
