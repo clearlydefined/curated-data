@@ -1,0 +1,9 @@
+coordinates:
+  name: newtonsoft.json
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  8.0.3:
+    licensed:
+      declared: MIT
