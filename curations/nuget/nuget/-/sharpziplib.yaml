@@ -1,0 +1,9 @@
+coordinates:
+  name: sharpziplib
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  0.86.0:
+    licensed:
+      declared: MIT
