@@ -1,0 +1,9 @@
+coordinates:
+  name: mono.cecil
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.0-beta7:
+    licensed:
+      declared: MIT
