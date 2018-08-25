@@ -1,0 +1,9 @@
+coordinates:
+  name: log4net
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.3:
+    licensed:
+      declared: Apache-2.0
