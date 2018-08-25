@@ -1,0 +1,9 @@
+coordinates:
+  name: refit
+  namespace: reactiveui
+  provider: github
+  type: git
+revisions:
+  c2e3678332e3edcd5e8be07969b7f5398062725d:
+    licensed:
+      declared: MIT

@@ -1,12 +1,9 @@
 coordinates:
-  name: microsoft.visualstudio.validation
+  name: microsoft.visualstudio.threading
   namespace: null
   provider: nuget
   type: nuget
 revisions:
-  15.3.15:
-    licensed:
-      declared: MIT
-  15.3.32:
+  15.6.46:
     licensed:
       declared: MIT
