@@ -1,0 +1,9 @@
+coordinates:
+  name: system.identitymodel.tokens.jwt
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.2.206221351:
+    licensed:
+      declared: MIT
