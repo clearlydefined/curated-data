@@ -1,0 +1,9 @@
+coordinates:
+  name: xamarin.android.support.animated.vector.drawable
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  27.0.2:
+    licensed:
+      declared: MIT
