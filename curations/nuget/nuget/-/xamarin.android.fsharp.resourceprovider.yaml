@@ -1,0 +1,9 @@
+coordinates:
+  name: xamarin.android.fsharp.resourceprovider
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.25:
+    licensed:
+      declared: MIT
