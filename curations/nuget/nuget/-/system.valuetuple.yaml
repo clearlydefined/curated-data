@@ -1,0 +1,9 @@
+coordinates:
+  name: system.valuetuple
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  4.4.0:
+    licensed:
+      declared: MIT
