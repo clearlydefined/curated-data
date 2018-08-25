@@ -1,0 +1,9 @@
+coordinates:
+  name: xam.plugin.connectivity
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.2:
+    licensed:
+      declared: MIT
