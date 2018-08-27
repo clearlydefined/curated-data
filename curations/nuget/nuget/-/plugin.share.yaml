@@ -1,0 +1,9 @@
+coordinates:
+  name: plugin.share
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.1:
+    licensed:
+      declared: MIT
