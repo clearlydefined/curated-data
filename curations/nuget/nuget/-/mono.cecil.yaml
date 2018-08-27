@@ -1,12 +1,12 @@
 coordinates:
-  name: microsoft.visualstudio.validation
+  name: mono.cecil
   namespace: null
   provider: nuget
   type: nuget
 revisions:
-  15.3.15:
+  0.10.0-beta7:
     licensed:
       declared: MIT
-  15.3.32:
+  0.10.0:
     licensed:
       declared: MIT

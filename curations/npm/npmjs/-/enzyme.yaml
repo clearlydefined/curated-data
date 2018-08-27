@@ -1,0 +1,13 @@
+coordinates:
+  name: enzyme
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  3.4.4:
+    described:
+      sourceLocation:
+        provider: github
+        revision: df864e18fc0cf1f5a8de88e3e09a6aab09fe17d0
+        type: git
+        url: 'https://github.com/airbnb/enzyme'

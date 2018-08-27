@@ -1,12 +1,9 @@
 coordinates:
-  name: polly
+  name: antlr3
   namespace: null
   provider: nuget
   type: nuget
 revisions:
-  5.1.0:
-    licensed:
-      declared: BSD-3-Clause
-  5.3.0:
+  3.5.2-beta2:
     licensed:
       declared: BSD-3-Clause
