@@ -1,0 +1,9 @@
+coordinates:
+  name: strongnamer
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.6:
+    licensed:
+      declared: MIT
