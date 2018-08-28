@@ -1,0 +1,9 @@
+coordinates:
+  name: spdx-expression-parse.js
+  namespace: jslicense
+  provider: github
+  type: git
+revisions:
+  063e2d555cc5aef6c433c7dce7c543894476bcb8:
+    described:
+      releaseDate: '2018-02-26'
