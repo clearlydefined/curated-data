@@ -1,0 +1,8 @@
+coordinates:
+  name: Newtonsoft.Json
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.2:
+    licensed:
+      declared: MIT
