@@ -1,0 +1,9 @@
+coordinates:
+  name: xwt.gtk
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.5:
+    licensed:
+      declared: MIT
