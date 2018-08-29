@@ -1,5 +1,5 @@
 coordinates:
-  name: liteguard
+  name: LiteGuard
   namespace: null
   provider: nuget
   type: nuget
