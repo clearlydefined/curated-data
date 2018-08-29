@@ -1,5 +1,5 @@
 coordinates:
-  name: system.reflection.metadata
+  name: System.Reflection.Metadata
   namespace: null
   provider: nuget
   type: nuget
