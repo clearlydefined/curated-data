@@ -1,9 +1,9 @@
 coordinates:
-  name: jetbrains.sharpziplib.stripped
+  name: ICSharpCode.Decompiler
   namespace: null
   provider: nuget
   type: nuget
 revisions:
-  0.87.20170615.10:
+  3.1.0.3652:
     licensed:
       declared: MIT
