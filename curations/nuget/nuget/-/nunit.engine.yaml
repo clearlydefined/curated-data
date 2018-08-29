@@ -1,9 +1,0 @@
-coordinates:
-  name: nunit.engine
-  namespace: null
-  provider: nuget
-  type: nuget
-revisions:
-  3.0.1:
-    licensed:
-      declared: MIT

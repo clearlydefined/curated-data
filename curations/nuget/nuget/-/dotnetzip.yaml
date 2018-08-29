@@ -1,9 +1,0 @@
-coordinates:
-  name: dotnetzip
-  namespace: null
-  provider: nuget
-  type: nuget
-revisions:
-  1.9.3:
-    licensed:
-      declared: MS-PL

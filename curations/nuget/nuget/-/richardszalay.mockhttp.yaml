@@ -1,9 +1,0 @@
-coordinates:
-  name: richardszalay.mockhttp
-  namespace: null
-  provider: nuget
-  type: nuget
-revisions:
-  3.2.1:
-    licensed:
-      declared: MIT

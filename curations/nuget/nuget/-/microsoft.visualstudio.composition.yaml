@@ -1,9 +1,0 @@
-coordinates:
-  name: microsoft.visualstudio.composition
-  namespace: null
-  provider: nuget
-  type: nuget
-revisions:
-  15.6.36:
-    licensed:
-      declared: MIT
