@@ -1,12 +1,9 @@
 coordinates:
-  name: microsoft.visualstudio.validation
+  name: richardszalay.mockhttp
   namespace: null
   provider: nuget
   type: nuget
 revisions:
-  15.3.15:
-    licensed:
-      declared: MIT
-  15.3.32:
+  3.2.1:
     licensed:
       declared: MIT

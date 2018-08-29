@@ -1,12 +1,18 @@
 coordinates:
-  name: microsoft.visualstudio.validation
+  name: newtonsoft.json
   namespace: null
   provider: nuget
   type: nuget
 revisions:
-  15.3.15:
+  6.0.8:
     licensed:
       declared: MIT
-  15.3.32:
+  8.0.3:
+    licensed:
+      declared: MIT
+  9.0.1:
+    licensed:
+      declared: MIT
+  10.0.3:
     licensed:
       declared: MIT

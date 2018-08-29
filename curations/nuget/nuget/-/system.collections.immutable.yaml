@@ -1,12 +1,9 @@
 coordinates:
-  name: microsoft.visualstudio.validation
+  name: system.collections.immutable
   namespace: null
   provider: nuget
   type: nuget
 revisions:
-  15.3.15:
-    licensed:
-      declared: MIT
-  15.3.32:
+  1.5.0:
     licensed:
       declared: MIT

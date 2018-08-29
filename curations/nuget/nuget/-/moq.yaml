@@ -44,6 +44,9 @@ revisions:
         url: 'https://github.com/moq/moq4/commit/b776fc2216a591427f4ffe9d3453eeebf9581b3d'
     licensed:
       declared: BSD-3-Clause
+  4.7.142:
+    licensed:
+      declared: BSD-3-Clause
   4.7.145:
     described:
       releaseDate: '2017-11-06'

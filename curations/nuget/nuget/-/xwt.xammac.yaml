@@ -1,12 +1,9 @@
 coordinates:
-  name: microsoft.visualstudio.validation
+  name: xwt.xammac
   namespace: null
   provider: nuget
   type: nuget
 revisions:
-  15.3.15:
-    licensed:
-      declared: MIT
-  15.3.32:
+  0.2.73:
     licensed:
       declared: MIT
