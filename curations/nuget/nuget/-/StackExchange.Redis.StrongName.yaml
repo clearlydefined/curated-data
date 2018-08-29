@@ -1,5 +1,5 @@
 coordinates:
-  name: stackexchange.redis.strongname
+  name: StackExchange.Redis.StrongName
   namespace: null
   provider: nuget
   type: nuget
