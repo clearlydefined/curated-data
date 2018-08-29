@@ -1,5 +1,5 @@
 coordinates:
-  name: xamarin.android.fsharp.resourceprovider
+  name: Xamarin.Android.FSharp.ResourceProvider
   namespace: null
   provider: nuget
   type: nuget
