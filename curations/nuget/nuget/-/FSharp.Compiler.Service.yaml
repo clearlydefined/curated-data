@@ -1,5 +1,5 @@
 coordinates:
-  name: fsharp.compiler.service
+  name: FSharp.Compiler.Service
   namespace: null
   provider: nuget
   type: nuget
