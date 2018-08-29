@@ -1,5 +1,5 @@
 coordinates:
-  name: microsoft.identitymodel.clients.activedirectory
+  name: Microsoft.IdentityModel.Clients.ActiveDirectory
   namespace: null
   provider: nuget
   type: nuget
