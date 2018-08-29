@@ -1,0 +1,9 @@
+coordinates:
+  name: Xamarin.Android.Arch.Core.Common
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT

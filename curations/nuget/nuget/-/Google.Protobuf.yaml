@@ -1,0 +1,9 @@
+coordinates:
+  name: Google.Protobuf
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.0:
+    licensed:
+      declared: BSD-3-Clause
