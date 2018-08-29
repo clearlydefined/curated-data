@@ -1,5 +1,5 @@
 coordinates:
-  name: system.identitymodel.tokens.jwt
+  name: System.IdentityModel.Tokens.Jwt
   namespace: null
   provider: nuget
   type: nuget
