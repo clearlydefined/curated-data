@@ -1,5 +1,5 @@
 coordinates:
-  name: system.io.abstractions
+  name: System.IO.Abstractions
   namespace: null
   provider: nuget
   type: nuget
