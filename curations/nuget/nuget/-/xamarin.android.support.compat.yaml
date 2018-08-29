@@ -1,0 +1,9 @@
+coordinates:
+  name: xamarin.android.support.compat
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  27.0.2:
+    licensed:
+      declared: MIT
