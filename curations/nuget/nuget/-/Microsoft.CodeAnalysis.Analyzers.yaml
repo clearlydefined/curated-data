@@ -1,5 +1,5 @@
 coordinates:
-  name: microsoft.codeanalysis.analyzers
+  name: Microsoft.CodeAnalysis.Analyzers
   namespace: null
   provider: nuget
   type: nuget
