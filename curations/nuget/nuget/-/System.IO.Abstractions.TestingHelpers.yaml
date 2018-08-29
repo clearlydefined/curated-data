@@ -1,5 +1,5 @@
 coordinates:
-  name: system.io.abstractions.testinghelpers
+  name: System.IO.Abstractions.TestingHelpers
   namespace: null
   provider: nuget
   type: nuget
