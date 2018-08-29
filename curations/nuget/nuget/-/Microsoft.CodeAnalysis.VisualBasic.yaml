@@ -1,5 +1,5 @@
 coordinates:
-  name: microsoft.codeanalysis.visualbasic
+  name: Microsoft.CodeAnalysis.VisualBasic
   namespace: null
   provider: nuget
   type: nuget
