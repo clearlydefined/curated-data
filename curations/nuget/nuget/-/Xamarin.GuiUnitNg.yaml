@@ -1,5 +1,5 @@
 coordinates:
-  name: xamarin.guiunitng
+  name: Xamarin.GuiUnitNg
   namespace: null
   provider: nuget
   type: nuget
