@@ -1,5 +1,5 @@
 coordinates:
-  name: microsoft.codeanalysis.workspaces.common
+  name: Microsoft.CodeAnalysis.Workspaces.Common
   namespace: null
   provider: nuget
   type: nuget
