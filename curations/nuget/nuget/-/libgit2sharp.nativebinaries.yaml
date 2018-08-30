@@ -1,9 +1,0 @@
-coordinates:
-  name: libgit2sharp.nativebinaries
-  namespace: null
-  provider: nuget
-  type: nuget
-revisions:
-  1.0.81:
-    licensed:
-      declared: GPL-2.0

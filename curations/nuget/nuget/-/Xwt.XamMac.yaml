@@ -1,0 +1,9 @@
+coordinates:
+  name: Xwt.XamMac
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.73:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: ICSharpCode.NRefactory
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  5.5.1:
+    licensed:
+      declared: MIT

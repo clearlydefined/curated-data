@@ -1,9 +1,0 @@
-coordinates:
-  name: zlib.portable
-  namespace: null
-  provider: nuget
-  type: nuget
-revisions:
-  1.10.0:
-    licensed:
-      declared: Zlib

@@ -1,9 +1,0 @@
-coordinates:
-  name: icsharpcode.decompiler
-  namespace: null
-  provider: nuget
-  type: nuget
-revisions:
-  3.1.0.3652:
-    licensed:
-      declared: MIT

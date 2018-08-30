@@ -1,9 +1,0 @@
-coordinates:
-  name: plugin.currentactivity
-  namespace: null
-  provider: nuget
-  type: nuget
-revisions:
-  1.0.1:
-    licensed:
-      declared: MIT

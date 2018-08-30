@@ -1,0 +1,16 @@
+coordinates:
+  name: StackExchange.Redis.StrongName
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.608:
+    described:
+      releaseDate: '2016-10-06'
+      sourceLocation:
+        provider: github
+        revision: 1f514259be17897c22cbe73dc7b929ade458e56d
+        type: git
+        url: 'https://github.com/StackExchange/StackExchange.Redis/commit/1f514259be17897c22cbe73dc7b929ade458e56d'
+    licensed:
+      declared: MIT

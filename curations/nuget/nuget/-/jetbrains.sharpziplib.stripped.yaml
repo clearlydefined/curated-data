@@ -1,9 +1,0 @@
-coordinates:
-  name: jetbrains.sharpziplib.stripped
-  namespace: null
-  provider: nuget
-  type: nuget
-revisions:
-  0.87.20170615.10:
-    licensed:
-      declared: MIT

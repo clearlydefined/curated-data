@@ -1,0 +1,9 @@
+coordinates:
+  name: WindowsAzure.Storage
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  9.3.0:
+    licensed:
+      declared: Apache-2.0
