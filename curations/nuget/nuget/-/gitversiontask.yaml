@@ -1,9 +1,0 @@
-coordinates:
-  name: gitversiontask
-  namespace: null
-  provider: nuget
-  type: nuget
-revisions:
-  4.0.0-beta0012:
-    licensed:
-      declared: MIT

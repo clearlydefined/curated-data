@@ -1,9 +1,0 @@
-coordinates:
-  name: nunit.runners
-  namespace: null
-  provider: nuget
-  type: nuget
-revisions:
-  2.6.4:
-    licensed:
-      declared: Zlib
