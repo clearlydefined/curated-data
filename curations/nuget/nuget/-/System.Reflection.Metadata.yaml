@@ -1,0 +1,9 @@
+coordinates:
+  name: System.Reflection.Metadata
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  1.6.0:
+    licensed:
+      declared: MIT
