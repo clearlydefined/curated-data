@@ -1,0 +1,14 @@
+coordinates:
+  name: extract-opts
+  provider: npmjs
+  type: npm
+revisions:
+  2.2.0:
+    files:
+      - attributions:
+          - 'Copyright (c) 2011-2012 Benjamin Lupton (http://balupton.com) <b@lupton.cc>'
+          - 'Copyright © 2013+ Bevry Pty Ltd us@bevry.me '
+        license: MIT
+        path: package/LICENSE.md
+    licensed:
+      declared: MIT
