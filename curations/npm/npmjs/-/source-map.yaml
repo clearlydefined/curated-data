@@ -1,0 +1,8 @@
+coordinates:
+  name: source-map
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.43:
+    licensed:
+      declared: BSD-3-Clause-Attribution
