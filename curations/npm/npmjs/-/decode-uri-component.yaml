@@ -1,0 +1,17 @@
+coordinates:
+  name: decode-uri-component
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.0:
+    files:
+      - attributions:
+          - Copyright (c) Sam Verschueren <sam.verschueren@gmail.com>
+          - ddd
+        license: MIT
+        path: package/license
+      - attributions:
+          - '(c) Sam Verschueren (https://github.com/SamVerschueren)'
+          - zzz
+        license: MIT
+        path: package/readme.md
