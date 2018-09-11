@@ -1,0 +1,11 @@
+coordinates:
+  name: cliui
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.0:
+    files:
+      - attributions:
+          - 'Copyright (c) 2015, Contributors'
+        license: ISC
+        path: package/LICENSE.txt
