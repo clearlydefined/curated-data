@@ -1,0 +1,9 @@
+coordinates:
+  name: ManagedEsent
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.4:
+    licensed:
+      declared: MS-PL
