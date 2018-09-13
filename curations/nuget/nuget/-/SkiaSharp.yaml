@@ -1,0 +1,8 @@
+coordinates:
+  name: SkiaSharp
+  provider: nuget
+  type: nuget
+revisions:
+  1.58.0:
+    licensed:
+      declared: MIT
