@@ -1,6 +1,5 @@
 coordinates:
   name: Microsoft.IdentityModel.Clients.ActiveDirectory
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -17,5 +16,8 @@ revisions:
         revision: eddfa8ebda9e734efdc42ea6d41ea98bc7c998f3
         type: git
         url: 'https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/commit/eddfa8ebda9e734efdc42ea6d41ea98bc7c998f3'
+    licensed:
+      declared: MIT
+  3.17.3:
     licensed:
       declared: MIT
