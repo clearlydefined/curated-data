@@ -1,0 +1,8 @@
+coordinates:
+  name: NETStandard.Library
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.3:
+    licensed:
+      declared: MIT
