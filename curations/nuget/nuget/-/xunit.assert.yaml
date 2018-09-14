@@ -1,6 +1,5 @@
 coordinates:
   name: xunit.assert
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -12,5 +11,8 @@ revisions:
         revision: 47fdc2669ae6aa28f6d642e202840193dfc7dbd7
         type: git
         url: 'https://github.com/xunit/xunit'
+    licensed:
+      declared: Apache-2.0
+  2.3.1:
     licensed:
       declared: Apache-2.0
