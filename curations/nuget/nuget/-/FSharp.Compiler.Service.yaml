@@ -1,0 +1,8 @@
+coordinates:
+  name: FSharp.Compiler.Service
+  provider: nuget
+  type: nuget
+revisions:
+  23.0.1:
+    licensed:
+      declared: MIT
