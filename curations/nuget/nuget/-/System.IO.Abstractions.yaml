@@ -1,0 +1,9 @@
+coordinates:
+  name: System.IO.Abstractions
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.0.174:
+    licensed:
+      declared: MIT
