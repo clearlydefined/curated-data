@@ -1,0 +1,8 @@
+coordinates:
+  name: SharpZipLib
+  provider: nuget
+  type: nuget
+revisions:
+  0.86.0:
+    licensed:
+      declared: GPL-2.0-with-classpath-exception
