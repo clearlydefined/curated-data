@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Extensions.FileProviders.Abstractions
+  name: Microsoft.AspNetCore.Http
   provider: nuget
   type: nuget
 revisions:
   2.0.0:
-    licensed:
-      declared: Apache-2.0
-  2.0.1:
     licensed:
       declared: Apache-2.0
