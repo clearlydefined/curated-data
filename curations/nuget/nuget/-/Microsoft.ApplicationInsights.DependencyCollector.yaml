@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.ApplicationInsights.DependencyCollector
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.1:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: System.IdentityModel.Tokens.Jwt
+  provider: nuget
+  type: nuget
+revisions:
+  5.1.4:
+    licensed:
+      declared: MIT
