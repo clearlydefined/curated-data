@@ -1,0 +1,9 @@
+coordinates:
+  name: junit
+  namespace: junit
+  provider: mavencentral
+  type: maven
+revisions:
+  '4.12':
+    licensed:
+      declared: EPL-1.0
