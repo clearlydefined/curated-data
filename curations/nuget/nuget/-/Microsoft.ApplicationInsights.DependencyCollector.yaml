@@ -1,11 +1,8 @@
 coordinates:
-  name: NETStandard.Library
+  name: Microsoft.ApplicationInsights.DependencyCollector
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  2.0.3:
+  2.4.1:
     licensed:
       declared: MIT

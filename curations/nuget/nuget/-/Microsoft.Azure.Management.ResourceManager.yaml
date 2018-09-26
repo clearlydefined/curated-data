@@ -1,11 +1,8 @@
 coordinates:
-  name: NETStandard.Library
+  name: Microsoft.Azure.Management.ResourceManager
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  2.0.3:
+  1.5.0-preview:
     licensed:
       declared: MIT

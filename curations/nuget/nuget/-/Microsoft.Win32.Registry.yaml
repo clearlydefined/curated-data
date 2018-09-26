@@ -1,11 +1,8 @@
 coordinates:
-  name: NETStandard.Library
+  name: Microsoft.Win32.Registry
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  2.0.3:
+  4.4.0:
     licensed:
       declared: MIT

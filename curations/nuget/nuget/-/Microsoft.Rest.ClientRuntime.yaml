@@ -1,11 +1,8 @@
 coordinates:
-  name: NETStandard.Library
+  name: Microsoft.Rest.ClientRuntime
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  2.0.3:
+  2.3.8:
     licensed:
       declared: MIT

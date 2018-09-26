@@ -1,11 +1,8 @@
 coordinates:
-  name: NETStandard.Library
+  name: Microsoft.ApplicationInsights
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  2.0.3:
+  2.4.0:
     licensed:
       declared: MIT
