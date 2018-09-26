@@ -8,9 +8,11 @@ revisions:
     described:
       releaseDate: '2016-09-12'
       sourceLocation:
-        url: https://github.com/jwtk/jjwt/commit/c86c775caf411385f1fb8b98340008baed93419d
-        type: git
+        name: jjwt
+        namespace: jwtk
         provider: github
         revision: c86c775caf411385f1fb8b98340008baed93419d
+        type: git
+        url: https://github.com/jwtk/jjwt/commit/c86c775caf411385f1fb8b98340008baed93419d
     licensed:
       declared: Apache-2.0
