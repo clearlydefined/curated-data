@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Rest.ClientRuntime
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.8:
+    licensed:
+      declared: MIT
