@@ -1,11 +1,8 @@
 coordinates:
-  name: System.Reflection.Metadata
+  name: System.Spatial
   provider: nuget
   type: nuget
 revisions:
-  1.5.0:
-    licensed:
-      declared: MIT
-  1.6.0:
+  5.8.2:
     licensed:
       declared: MIT
