@@ -1,0 +1,11 @@
+coordinates:
+  name: esutils
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    licensed:
+      declared: BSD-2-Clause
+  2.0.2:
+    licensed:
+      declared: BSD-2-Clause
