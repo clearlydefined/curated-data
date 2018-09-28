@@ -1,0 +1,11 @@
+coordinates:
+  name: estraverse
+  provider: npmjs
+  type: npm
+revisions:
+  1.3.2:
+    licensed:
+      declared: BSD-2-Clause
+  1.5.1:
+    licensed:
+      declared: BSD-2-Clause
