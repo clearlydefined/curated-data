@@ -1,8 +1,0 @@
-coordinates:
-  name: JSV
-  provider: npmjs
-  type: npm
-revisions:
-  4.0.2:
-    licensed:
-      declared: BSD-2-Clause-FreeBSD
