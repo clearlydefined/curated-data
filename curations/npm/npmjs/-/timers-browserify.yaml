@@ -1,0 +1,8 @@
+coordinates:
+  name: timers-browserify
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.10:
+    licensed:
+      declared: MIT
