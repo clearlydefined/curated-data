@@ -1,0 +1,8 @@
+coordinates:
+  name: stack-trace
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.9:
+    licensed:
+      declared: MIT
