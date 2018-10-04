@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.NETCore.App
+  name: Microsoft.Azure.Management.DataLake.Store
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  2.1.0:
+  2.2.1:
     licensed:
       declared: MIT
