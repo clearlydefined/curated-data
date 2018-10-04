@@ -1,0 +1,36 @@
+coordinates:
+  name: WebActivatorEx
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0:
+    described:
+      releaseDate: '2013-02-09'
+      sourceLocation:
+        provider: github
+        revision: 45dc98c86e5f551ef6b8356b7bc184d259dda798
+        type: git
+        url: 'https://github.com/davidebbo/WebActivator/commit/45dc98c86e5f551ef6b8356b7bc184d259dda798'
+    licensed:
+      declared: MS-PL
+  2.1.0:
+    described:
+      releaseDate: '2015-12-14'
+      sourceLocation:
+        provider: github
+        revision: '519d24bf11ada94a704c3e17a38040148c7d198c'
+        type: git
+        url: 'https://github.com/davidebbo/WebActivator/commit/519d24bf11ada94a704c3e17a38040148c7d198c'
+    licensed:
+      declared: Apache-2.0
+  2.2.0:
+    described:
+      releaseDate: '2016-10-05'
+      sourceLocation:
+        provider: github
+        revision: '8a21247a5bdc61af3077bafceac602a9cb236875'
+        type: git
+        url: 'https://github.com/davidebbo/WebActivator/commit/8a21247a5bdc61af3077bafceac602a9cb236875'
+    licensed:
+      declared: Apache-2.0

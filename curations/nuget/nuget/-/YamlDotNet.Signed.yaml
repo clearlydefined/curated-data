@@ -1,0 +1,9 @@
+coordinates:
+  name: YamlDotNet.Signed
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.1-pre291:
+    licensed:
+      declared: MIT

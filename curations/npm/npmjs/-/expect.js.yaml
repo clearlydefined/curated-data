@@ -1,0 +1,8 @@
+coordinates:
+  name: expect.js
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.0:
+    licensed:
+      declared: MIT

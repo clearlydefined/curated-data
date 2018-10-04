@@ -1,0 +1,9 @@
+coordinates:
+  name: spdx-expression-parse
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.0:
+    described:
+      releaseDate: '2018-02-26'
