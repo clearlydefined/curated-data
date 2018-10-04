@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.VisualStudio.Threading
+  name: Microsoft.VisualStudio.Threading.Analyzers
   provider: nuget
   type: nuget
 revisions:
-  15.3.20:
-    licensed:
-      declared: MIT
   15.6.46:
     licensed:
       declared: MIT
