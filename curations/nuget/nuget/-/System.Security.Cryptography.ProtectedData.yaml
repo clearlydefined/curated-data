@@ -1,8 +1,8 @@
 coordinates:
-  name: System.Spatial
+  name: System.Security.Cryptography.ProtectedData
   provider: nuget
   type: nuget
 revisions:
-  5.8.2:
+  4.4.0:
     licensed:
       declared: MIT
