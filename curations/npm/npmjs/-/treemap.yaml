@@ -1,0 +1,10 @@
+coordinates:
+  name: treemap
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.4:
+    described:
+      facets:
+        tests:
+          - test_treemap.js
