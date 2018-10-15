@@ -1,0 +1,9 @@
+coordinates:
+  name: maven-core
+  namespace: org.apache.maven
+  provider: mavencentral
+  type: maven
+revisions:
+  3.5.4:
+    licensed:
+      declared: Apache-2.0
