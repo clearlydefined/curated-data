@@ -1,0 +1,9 @@
+coordinates:
+  name: log4j
+  namespace: log4j
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.2.15:
+    licensed:
+      declared: Apache-2.0
