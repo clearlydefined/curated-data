@@ -1,0 +1,17 @@
+coordinates:
+  name: gson
+  namespace: com.google.code.gson
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.7.1:
+    described:
+      sourceLocation:
+        name: gson
+        namespace: google
+        provider: github
+        revision: gson-1.7.1
+        type: git
+        url: 'https://github.com/google/gson/tree/gson-1.7.1'
+    licensed:
+      declared: Apache-2.0
