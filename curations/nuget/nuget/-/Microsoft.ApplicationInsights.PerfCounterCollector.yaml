@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.ApplicationInsights.PerfCounterCollector
+  provider: nuget
+  type: nuget
+revisions:
+  2.7.2:
+    licensed:
+      declared: MIT
