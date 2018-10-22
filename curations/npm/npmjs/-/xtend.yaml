@@ -1,0 +1,11 @@
+coordinates:
+  name: xtend
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.2:
+    licensed:
+      declared: MIT
+  2.2.0:
+    licensed:
+      declared: MIT
