@@ -1,0 +1,8 @@
+coordinates:
+  name: split
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.10:
+    licensed:
+      declared: MIT

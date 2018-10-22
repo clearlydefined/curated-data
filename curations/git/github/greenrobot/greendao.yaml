@@ -1,0 +1,9 @@
+coordinates:
+  name: greendao
+  namespace: greenrobot
+  provider: github
+  type: git
+revisions:
+  8615fd3f74155c84f5d095ee7088d710c3b164ac:
+    licensed:
+      declared: Apache-2.0

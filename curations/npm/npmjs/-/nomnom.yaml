@@ -1,0 +1,8 @@
+coordinates:
+  name: nomnom
+  provider: npmjs
+  type: npm
+revisions:
+  1.8.1:
+    licensed:
+      declared: MIT

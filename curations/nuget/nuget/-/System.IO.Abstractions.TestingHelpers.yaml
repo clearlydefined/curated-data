@@ -1,0 +1,8 @@
+coordinates:
+  name: System.IO.Abstractions.TestingHelpers
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.0.174:
+    licensed:
+      declared: MS-PL

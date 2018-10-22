@@ -1,0 +1,9 @@
+coordinates:
+  name: NUnitLite
+  namespace: null
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.0:
+    licensed:
+      declared: MIT

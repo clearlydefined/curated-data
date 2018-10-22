@@ -1,0 +1,8 @@
+coordinates:
+  name: System.Threading.Tasks.Extensions
+  provider: nuget
+  type: nuget
+revisions:
+  4.4.0:
+    licensed:
+      declared: MIT
