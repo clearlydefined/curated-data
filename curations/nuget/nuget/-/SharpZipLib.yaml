@@ -1,5 +1,6 @@
 coordinates:
   name: SharpZipLib
+  namespace: null
   provider: nuget
   type: nuget
 revisions:
