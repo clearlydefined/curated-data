@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.AspNetCore.Html.Abstractions
+  name: Microsoft.AspNetCore.HostFiltering
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: Apache-2.0
   2.1.1:
     licensed:
       declared: Apache-2.0
