@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.ApplicationInsights
+  name: Bond.Compiler.CSharp
   provider: nuget
   type: nuget
 revisions:
-  2.4.0:
-    licensed:
-      declared: MIT
-  2.7.2:
+  8.0.0:
     licensed:
       declared: MIT

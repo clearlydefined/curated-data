@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.ApplicationInsights
+  name: MessagePack
   provider: nuget
   type: nuget
 revisions:
-  2.4.0:
-    licensed:
-      declared: MIT
-  2.7.2:
+  1.7.3.4:
     licensed:
       declared: MIT
