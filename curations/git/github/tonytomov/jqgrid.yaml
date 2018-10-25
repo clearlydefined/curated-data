@@ -1,0 +1,9 @@
+coordinates:
+  name: jqgrid
+  namespace: tonytomov
+  provider: github
+  type: git
+revisions:
+  361af3db2d25368c8a3b25224cad6a702e10e5fd:
+    licensed:
+      declared: CC-BY-NC-3.0
