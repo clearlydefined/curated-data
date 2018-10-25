@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.IdentityModel.Protocols
+  name: Microsoft.IdentityModel.Xml
   provider: nuget
   type: nuget
 revisions:
-  2.1.4:
-    licensed:
-      declared: MIT
   5.2.0:
     licensed:
       declared: MIT
