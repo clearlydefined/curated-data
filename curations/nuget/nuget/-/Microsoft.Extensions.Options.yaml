@@ -9,3 +9,6 @@ revisions:
   2.1.0-preview1-final:
     licensed:
       declared: Apache-2.0
+  2.1.1:
+    licensed:
+      declared: Apache-2.0
