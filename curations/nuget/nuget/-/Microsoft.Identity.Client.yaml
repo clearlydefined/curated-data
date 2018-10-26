@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Identity.Client
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.2-preview0008:
+    licensed:
+      declared: MIT
