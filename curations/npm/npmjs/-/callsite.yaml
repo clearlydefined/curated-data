@@ -1,11 +1,8 @@
 coordinates:
-  name: enhanced-resolve
+  name: callsite
   provider: npmjs
   type: npm
 revisions:
-  3.3.0:
-    licensed:
-      declared: MIT
-  3.4.1:
+  1.0.0:
     licensed:
       declared: MIT

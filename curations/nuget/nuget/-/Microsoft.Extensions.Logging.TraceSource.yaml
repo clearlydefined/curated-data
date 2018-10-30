@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Extensions.Logging.Abstractions
+  name: Microsoft.Extensions.Logging.TraceSource
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: Apache-2.0
   2.1.1:
     licensed:
       declared: Apache-2.0
