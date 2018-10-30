@@ -1,0 +1,8 @@
+coordinates:
+  name: jQuery.Validation
+  provider: nuget
+  type: nuget
+revisions:
+  1.13.1:
+    licensed:
+      declared: MIT and BSD-3-Clause
