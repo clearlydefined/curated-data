@@ -9,3 +9,6 @@ revisions:
   5.2.0-preview1-408290725:
     licensed:
       declared: MIT
+  5.2.1:
+    licensed:
+      declared: MIT
