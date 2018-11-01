@@ -7,3 +7,14 @@ revisions:
   361af3db2d25368c8a3b25224cad6a702e10e5fd:
     licensed:
       declared: CC-BY-NC-3.0
+    files:
+      - attributions:
+          - 'Copyright (c) 2008, Tony Tomov, tony@trirand.com'
+          - 'Copyright (c) 2007,2008 Brice Burgess <bhb@iceburg.net>'
+        license: ''
+        path: js/minified/jqModal.js
+      - attributions:
+          - 'Copyright (c) 2008, Tony Tomov, tony@trirand.com'
+          - 'Copyright (c) 2007 Brice Burgess <bhb@iceburg.net>, http://www.iceburg.net'
+        license: ''
+        path: js/minified/jqDnR.js

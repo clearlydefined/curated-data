@@ -1,0 +1,8 @@
+coordinates:
+  name: min-document
+  provider: npmjs
+  type: npm
+revisions:
+  2.19.0:
+    licensed:
+      declared: MIT

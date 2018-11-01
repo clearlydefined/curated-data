@@ -1,0 +1,8 @@
+coordinates:
+  name: dom-walk
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.1:
+    licensed:
+      declared: MIT

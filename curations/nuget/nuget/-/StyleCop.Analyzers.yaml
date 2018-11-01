@@ -1,6 +1,5 @@
 coordinates:
   name: StyleCop.Analyzers
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -17,5 +16,8 @@ revisions:
         revision: 21559d870f78956a08d15e05ad1e52b445f8c2c9
         type: git
         url: 'https://github.com/DotNetAnalyzers/StyleCopAnalyzers/commit/21559d870f78956a08d15e05ad1e52b445f8c2c9'
+    licensed:
+      declared: Apache-2.0
+  1.1.0-beta004:
     licensed:
       declared: Apache-2.0
