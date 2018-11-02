@@ -1,0 +1,8 @@
+coordinates:
+  name: JSNLog.AspNetCore
+  provider: nuget
+  type: nuget
+revisions:
+  99.0.0:
+    licensed:
+      declared: MIT
