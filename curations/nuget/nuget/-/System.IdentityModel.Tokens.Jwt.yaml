@@ -1,6 +1,5 @@
 coordinates:
   name: System.IdentityModel.Tokens.Jwt
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -8,5 +7,8 @@ revisions:
     licensed:
       declared: Apache-2.0
   5.1.4:
+    licensed:
+      declared: MIT
+  5.2.1:
     licensed:
       declared: MIT
