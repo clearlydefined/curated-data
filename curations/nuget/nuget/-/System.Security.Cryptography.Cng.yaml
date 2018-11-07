@@ -1,0 +1,8 @@
+coordinates:
+  name: System.Security.Cryptography.Cng
+  provider: nuget
+  type: nuget
+revisions:
+  4.5.0:
+    licensed:
+      declared: MIT
