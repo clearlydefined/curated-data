@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Win32.Registry
+  name: Microsoft.Toolkit.Uwp.UI.Controls
   provider: nuget
   type: nuget
 revisions:
-  4.4.0:
-    licensed:
-      declared: MIT
-  4.5.0:
+  4.0.0:
     licensed:
       declared: MIT
