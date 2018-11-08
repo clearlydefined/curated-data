@@ -8,4 +8,7 @@ revisions:
       declared: MIT
   4.5.0:
     licensed:
-      declared: 'MIT '
+      declared: MIT
+  4.5.1:
+    licensed:
+      declared: MIT
