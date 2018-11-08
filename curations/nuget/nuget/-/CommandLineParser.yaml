@@ -1,6 +1,5 @@
 coordinates:
   name: CommandLineParser
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -12,5 +11,8 @@ revisions:
         revision: 205094c0c135ab5b6816f3eb0e6a84ddced5b0e2
         type: git
         url: 'https://github.com/gsscoder/commandline/commit/205094c0c135ab5b6816f3eb0e6a84ddced5b0e2'
+    licensed:
+      declared: MIT
+  2.2.1:
     licensed:
       declared: MIT
