@@ -1,0 +1,14 @@
+coordinates:
+  name: aalto-xml
+  namespace: fasterxml
+  provider: github
+  type: git
+revisions:
+  90a1408a8fbfb37e53b714495ff97b8baa7313e1:
+    files:
+      - license: Apache-2.0
+        path: lib/stax-api-1.0.1.jar
+      - license: CPL-1.0
+        path: lib/test/junit-3.8.1.jar
+      - license: BSD-3-Clause
+        path: lib/stax2-api-3.1.1.jar
