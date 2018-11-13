@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Extensions.DiagnosticAdapter
+  name: Microsoft.Extensions.Logging.AzureAppServices
   provider: nuget
   type: nuget
 revisions:
   2.0.0:
-    licensed:
-      declared: Apache-2.0
-  2.1.0:
     licensed:
       declared: Apache-2.0
