@@ -1,0 +1,9 @@
+coordinates:
+  name: jetty.project
+  namespace: eclipse
+  provider: github
+  type: git
+revisions:
+  d737e1c638653988ce7d8e5bfb89859347e1c306:
+    licensed:
+      declared: Apache-2.0 OR EPL-1.0
