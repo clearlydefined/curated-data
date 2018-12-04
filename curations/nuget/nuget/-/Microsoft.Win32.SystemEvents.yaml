@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Win32.SystemEvents
+  provider: nuget
+  type: nuget
+revisions:
+  4.5.0:
+    licensed:
+      declared: MIT
