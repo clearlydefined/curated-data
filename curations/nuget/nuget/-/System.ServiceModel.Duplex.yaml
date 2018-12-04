@@ -1,0 +1,8 @@
+coordinates:
+  name: System.ServiceModel.Duplex
+  provider: nuget
+  type: nuget
+revisions:
+  4.5.3:
+    licensed:
+      declared: MIT
