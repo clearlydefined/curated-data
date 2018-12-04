@@ -1,6 +1,5 @@
 coordinates:
   name: Bond.Runtime.CSharp
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -25,6 +24,9 @@ revisions:
     licensed:
       declared: MIT
   3.0.7:
+    licensed:
+      declared: MIT
+  4.2.1:
     licensed:
       declared: MIT
   5.0.0:
