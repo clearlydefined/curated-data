@@ -1,9 +1,11 @@
 coordinates:
   name: Bond.Core.CSharp
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
+  4.2.1:
+    licensed:
+      declared: MIT
   5.0.0:
     described:
       releaseDate: '2016-09-13'
