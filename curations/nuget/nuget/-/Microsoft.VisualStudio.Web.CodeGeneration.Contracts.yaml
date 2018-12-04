@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Web.CodeGeneration.Contracts
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.2:
+    licensed:
+      declared: Apache-2.0
