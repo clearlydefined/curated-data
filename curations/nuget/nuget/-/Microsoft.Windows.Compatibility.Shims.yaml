@@ -1,12 +1,8 @@
 coordinates:
-  name: Moment.js
+  name: Microsoft.Windows.Compatibility.Shims
   provider: nuget
   type: nuget
 revisions:
-  2.18.2:
+  2.0.0:
     licensed:
       declared: MIT
-  2.19.3:
-    licensed:
-      declared: MIT
-      

@@ -1,12 +1,8 @@
 coordinates:
-  name: Moment.js
+  name: Microsoft.Win32.SystemEvents
   provider: nuget
   type: nuget
 revisions:
-  2.18.2:
+  4.5.0:
     licensed:
       declared: MIT
-  2.19.3:
-    licensed:
-      declared: MIT
-      
