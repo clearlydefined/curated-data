@@ -1,0 +1,17 @@
+coordinates:
+  name: jackson-annotations
+  namespace: com.fasterxml.jackson.core
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.8.9:
+    described:
+      sourceLocation:
+        name: jackson-annotations
+        namespace: fasterxml
+        provider: github
+        revision: 1fea28c594dfbfbc4ad6d810a4ad865d30cb5d2b
+        type: git
+        url: 'https://github.com/fasterxml/jackson-annotations/commit/1fea28c594dfbfbc4ad6d810a4ad865d30cb5d2b'
+    licensed:
+      declared: Apache-2.0
