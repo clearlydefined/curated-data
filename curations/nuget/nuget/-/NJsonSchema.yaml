@@ -1,0 +1,8 @@
+coordinates:
+  name: NJsonSchema
+  provider: nuget
+  type: nuget
+revisions:
+  9.12.2:
+    licensed:
+      declared: MIT

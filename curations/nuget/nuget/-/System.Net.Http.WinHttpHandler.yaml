@@ -1,11 +1,8 @@
 coordinates:
-  name: System.Security.Cryptography.Pkcs
+  name: System.Net.Http.WinHttpHandler
   provider: nuget
   type: nuget
 revisions:
-  4.5.0:
-    licensed:
-      declared: MIT
   4.5.1:
     licensed:
       declared: MIT
