@@ -1,11 +1,8 @@
 coordinates:
-  name: System.Security.Cryptography.ProtectedData
+  name: System.Data.DataSetExtensions
   provider: nuget
   type: nuget
 revisions:
-  4.4.0:
-    licensed:
-      declared: MIT
   4.5.0:
     licensed:
       declared: MIT
