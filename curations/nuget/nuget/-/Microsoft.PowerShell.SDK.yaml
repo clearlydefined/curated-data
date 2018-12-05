@@ -3,6 +3,16 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  6.0.4:
+    described:
+      releaseDate: '2018-08-10'
+      sourceLocation:
+        name: powershell
+        namespace: powershell
+        provider: github
+        revision: 03a89b80ee25c8b3cf239dca00aa30a45421c55d
+        type: git
+        url: 'https://github.com/powershell/powershell/commit/03a89b80ee25c8b3cf239dca00aa30a45421c55d'
   6.1.0:
     licensed:
       declared: MIT
