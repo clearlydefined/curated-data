@@ -1,0 +1,9 @@
+coordinates:
+  name: jackson-core
+  namespace: com.fasterxml.jackson.core
+  provider: mavencentral
+  type: maven
+revisions:
+  2.5.2:
+    licensed:
+      declared: Apache-2.0
