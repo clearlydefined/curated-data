@@ -15,3 +15,14 @@ revisions:
         url: 'https://github.com/FasterXML/jackson-core/tree/jackson-core-2.5.2'
     licensed:
       declared: Apache-2.0
+  2.8.9:
+    described:
+      sourceLocation:
+        name: jackson-core
+        namespace: fasterxml
+        provider: github
+        revision: 4d1c109708f39d031c09b2eecdd21de2e1c80570
+        type: git
+        url: 'https://github.com/fasterxml/jackson-core/commit/4d1c109708f39d031c09b2eecdd21de2e1c80570'
+    licensed:
+      declared: Apache-2.0
