@@ -1,0 +1,17 @@
+coordinates:
+  name: jopt-simple
+  namespace: net.sf.jopt-simple
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  5.0.3:
+    described:
+      sourceLocation:
+        name: jopt-simple
+        namespace: jopt-simple
+        provider: github
+        revision: b52b94611dba126a8236a10277d15676e31ab5f6
+        type: git
+        url: 'https://github.com/jopt-simple/jopt-simple/commit/b52b94611dba126a8236a10277d15676e31ab5f6'
+    licensed:
+      declared: MIT
