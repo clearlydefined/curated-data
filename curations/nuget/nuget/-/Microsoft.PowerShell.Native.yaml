@@ -4,5 +4,14 @@ coordinates:
   type: nuget
 revisions:
   6.1.0:
+    described:
+      releaseDate: '2018-08-16'
+      sourceLocation:
+        name: powershell-native
+        namespace: powershell
+        provider: github
+        revision: de522db756c632f113db1ecc92728efb274854d6
+        type: git
+        url: 'https://github.com/powershell/powershell-native/commit/de522db756c632f113db1ecc92728efb274854d6'
     licensed:
       declared: MIT
