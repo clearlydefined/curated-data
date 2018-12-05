@@ -1,11 +1,12 @@
 coordinates:
-  name: Microsoft.Toolkit
+  name: Moment.js
   provider: nuget
   type: nuget
 revisions:
-  2.2.0:
+  2.18.2:
     licensed:
       declared: MIT
-  4.0.0:
+  2.19.3:
     licensed:
       declared: MIT
+      

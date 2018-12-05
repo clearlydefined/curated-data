@@ -1,6 +1,5 @@
 coordinates:
   name: Moq
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -60,5 +59,11 @@ revisions:
   4.7.99:
     described:
       releaseDate: '2017-07-17'
+    licensed:
+      declared: BSD-3-Clause
+  4.8.2:
+    licensed:
+      declared: BSD-3-Clause
+  4.9.0:
     licensed:
       declared: BSD-3-Clause
