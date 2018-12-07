@@ -11,6 +11,9 @@ revisions:
       releaseDate: '2016-11-18'
     licensed:
       declared: Apache-2.0
+  2.28.4:
+    licensed:
+      declared: Apache-2.0
   3.13.9:
     described:
       releaseDate: '2017-03-22'
