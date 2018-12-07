@@ -1,0 +1,8 @@
+coordinates:
+  name: DotNetty.Codecs
+  provider: nuget
+  type: nuget
+revisions:
+  0.4.8:
+    licensed:
+      declared: MIT
