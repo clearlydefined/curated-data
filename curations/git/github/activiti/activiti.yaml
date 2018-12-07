@@ -1,0 +1,9 @@
+coordinates:
+  name: activiti
+  namespace: activiti
+  provider: github
+  type: git
+revisions:
+  2bd372bbaac918962694dc58b7c4e3feaedfdfa7:
+    licensed:
+      declared: Apache-2.0
