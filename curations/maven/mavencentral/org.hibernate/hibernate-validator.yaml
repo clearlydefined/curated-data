@@ -1,0 +1,17 @@
+coordinates:
+  name: hibernate-validator
+  namespace: org.hibernate
+  provider: mavencentral
+  type: maven
+revisions:
+  6.0.7.Final:
+    described:
+      sourceLocation:
+        name: hibernate-validator
+        namespace: hibernate
+        provider: github
+        revision: 1553e9fc48b1ad33151f8c46971a313d055932a7
+        type: git
+        url: 'https://github.com/hibernate/hibernate-validator/commit/1553e9fc48b1ad33151f8c46971a313d055932a7'
+    licensed:
+      declared: Apache-2.0
