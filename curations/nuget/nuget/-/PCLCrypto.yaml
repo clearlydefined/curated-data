@@ -1,0 +1,8 @@
+coordinates:
+  name: PCLCrypto
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.147:
+    licensed:
+      declared: MS-PL
