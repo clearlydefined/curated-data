@@ -1,0 +1,9 @@
+coordinates:
+  name: adm-zip
+  namespace: cthackers
+  provider: github
+  type: git
+revisions:
+  d8ed9063262309b700d0cfa1979d948aa3ac515c:
+    licensed:
+      declared: MIT
