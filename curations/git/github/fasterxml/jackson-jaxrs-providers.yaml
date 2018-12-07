@@ -1,0 +1,9 @@
+coordinates:
+  name: jackson-jaxrs-providers
+  namespace: fasterxml
+  provider: github
+  type: git
+revisions:
+  c7e21d98338e33bdcc026cafc2334da27819fa8a:
+    licensed:
+      declared: Apache-2.0
