@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Management.Resources
+  provider: nuget
+  type: nuget
+revisions:
+  2.18.7-preview:
+    licensed:
+      declared: Apache-2.0
