@@ -1,0 +1,17 @@
+coordinates:
+  name: jackson-databind
+  namespace: com.fasterxml.jackson.core
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.8.9:
+    described:
+      sourceLocation:
+        name: jackson-databind
+        namespace: fasterxml
+        provider: github
+        revision: c45ed8c4cbf6c29317bf4cf562558884fa698eec
+        type: git
+        url: 'https://github.com/fasterxml/jackson-databind/commit/c45ed8c4cbf6c29317bf4cf562558884fa698eec'
+    licensed:
+      declared: Apache-2.0
