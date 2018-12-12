@@ -1,0 +1,8 @@
+coordinates:
+  name: CSharpTest.Net.Collections
+  provider: nuget
+  type: nuget
+revisions:
+  14.906.1403.1082:
+    licensed:
+      declared: Apache-2.0
