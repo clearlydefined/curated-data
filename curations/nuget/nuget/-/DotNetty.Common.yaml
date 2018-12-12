@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Data.OData
+  name: DotNetty.Common
   provider: nuget
   type: nuget
 revisions:
-  5.6.4:
-    licensed:
-      declared: MIT
-  5.8.2:
+  0.4.8:
     licensed:
       declared: MIT

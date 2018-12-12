@@ -1,11 +1,8 @@
 coordinates:
-  name: log4net
+  name: Microsoft.WindowsAzure.Management.TrafficManager
   provider: nuget
   type: nuget
 revisions:
-  2.0.3:
-    licensed:
-      declared: Apache-2.0
-  2.0.5:
+  0.16.1-preview:
     licensed:
       declared: Apache-2.0

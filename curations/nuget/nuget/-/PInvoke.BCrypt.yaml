@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Data.OData
+  name: PInvoke.BCrypt
   provider: nuget
   type: nuget
 revisions:
-  5.6.4:
-    licensed:
-      declared: MIT
-  5.8.2:
+  0.3.2:
     licensed:
       declared: MIT

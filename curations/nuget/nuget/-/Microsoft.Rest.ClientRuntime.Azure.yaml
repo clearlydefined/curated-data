@@ -6,7 +6,13 @@ revisions:
   3.3.10:
     licensed:
       declared: MIT
+  3.3.11:
+    licensed:
+      declared: MIT
   3.3.12:
+    licensed:
+      declared: MIT
+  3.3.2:
     licensed:
       declared: MIT
   3.3.7:
