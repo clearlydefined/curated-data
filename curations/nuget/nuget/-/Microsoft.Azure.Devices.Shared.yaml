@@ -5,4 +5,7 @@ coordinates:
 revisions:
   1.1.1:
     licensed:
+      declared: MIT  
+  1.3.0:
+    licensed:
       declared: MIT
