@@ -1,6 +1,5 @@
 coordinates:
   name: Microsoft.Azure.KeyVault
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -32,5 +31,8 @@ revisions:
         revision: a69a0eedd660396c2b57ac1bf9a2d1fa1c462e2a
         type: git
         url: 'https://github.com/Azure/azure-sdk-for-net/commit/a69a0eedd660396c2b57ac1bf9a2d1fa1c462e2a'
+    licensed:
+      declared: MIT
+  3.0.0:
     licensed:
       declared: MIT
