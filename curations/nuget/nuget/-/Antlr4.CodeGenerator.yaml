@@ -1,11 +1,8 @@
 coordinates:
-  name: Antlr4
+  name: Antlr4.CodeGenerator
   provider: nuget
   type: nuget
 revisions:
-  4.3.0:
-    licensed:
-      declared: BSD-3-Clause
   4.6.4:
     licensed:
       declared: BSD-3-Clause

@@ -1,11 +1,11 @@
 coordinates:
-  name: Microsoft.Azure.Management.DataLake.Store
+  name: Hyak.Common
   provider: nuget
   type: nuget
 revisions:
-  1.0.4:
+  1.0.2:
     licensed:
-      declared: MIT
-  2.2.1:
+      declared: Apache-2.0
+  1.1.3:
     licensed:
       declared: MIT
