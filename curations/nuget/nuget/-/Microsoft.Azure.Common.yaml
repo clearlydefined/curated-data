@@ -1,6 +1,5 @@
 coordinates:
   name: Microsoft.Azure.Common
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -24,3 +23,6 @@ revisions:
         url: 'https://github.com/Azure/azure-sdk-for-net/commit/bc4c8269e00093e678313a227ad29c3dba94387a'
     licensed:
       declared: Apache-2.0
+  2.1.4:
+    licensed:
+      declared: MIT

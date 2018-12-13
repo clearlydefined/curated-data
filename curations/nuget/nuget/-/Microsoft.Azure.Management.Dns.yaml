@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Management.Dns
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.0-preview:
+    licensed:
+      declared: MIT
