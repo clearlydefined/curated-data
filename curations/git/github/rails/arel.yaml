@@ -1,0 +1,9 @@
+coordinates:
+  name: arel
+  namespace: rails
+  provider: github
+  type: git
+revisions:
+  5a75bcaf67613b4241a3223b734ed4dc8526df6c:
+    licensed:
+      declared: MIT
