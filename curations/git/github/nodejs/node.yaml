@@ -1,0 +1,30 @@
+coordinates:
+  name: node
+  namespace: nodejs
+  provider: github
+  type: git
+revisions:
+  30d9e9fdd9d4c33d3d95a129d021cd8b5b91eddb:
+    files:
+      - attributions:
+          - 'Copyright (c) 2007, 2008 gnombat@users.sourceforge.net'
+        license: GPL-3.0
+        path: doc/sh_main.js
+  38c72d4e29574dec5205bcf23c2a85efe65331a4:
+    files:
+      - attributions:
+          - 'Copyright (c) 2007, 2008 gnombat@users.sourceforge.net'
+        license: GPL-3.0
+        path: doc/sh_main.js
+  b0e5f195dfce3e2b99f5091373d49f6616682596:
+    files:
+      - attributions:
+          - 'Copyright (c) 2007, 2008 gnombat@users.sourceforge.net'
+        license: GPL-3.0
+        path: doc/sh_main.js
+  d4982f6f5e4a9a703127489a553b8d782997ea43:
+    files:
+      - attributions:
+          - 'Copyright (c) 2007, 2008 gnombat@users.sourceforge.net'
+        license: GPL-3.0
+        path: doc/sh_main.js
