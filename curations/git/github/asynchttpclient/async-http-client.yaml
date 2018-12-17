@@ -1,0 +1,9 @@
+coordinates:
+  name: async-http-client
+  namespace: asynchttpclient
+  provider: github
+  type: git
+revisions:
+  cee7964fdbd1878f08c82dd0c12196b9297e21de:
+    licensed:
+      declared: Apache-2.0
