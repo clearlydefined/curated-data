@@ -1,0 +1,9 @@
+coordinates:
+  name: agentkeepalive
+  namespace: node-modules
+  provider: github
+  type: git
+revisions:
+  b1c40a349f156e862896e6f3631b0dd95c5a27f7:
+    licensed:
+      declared: MIT
