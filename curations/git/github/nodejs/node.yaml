@@ -1,0 +1,12 @@
+coordinates:
+  name: node
+  namespace: nodejs
+  provider: github
+  type: git
+revisions:
+  38c72d4e29574dec5205bcf23c2a85efe65331a4:
+    files:
+      - attributions:
+          - 'Copyright (c) 2007, 2008 gnombat@users.sourceforge.net'
+        license: GPL-3.0
+        path: doc/sh_main.js
