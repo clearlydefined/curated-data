@@ -1,0 +1,8 @@
+coordinates:
+  name: json-schema
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.3:
+    licensed:
+      declared: AFL-2.1 OR BSD-3-Clause
