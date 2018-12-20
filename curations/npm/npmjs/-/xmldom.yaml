@@ -1,0 +1,8 @@
+coordinates:
+  name: xmldom
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.27:
+    licensed:
+      declared: LGPL-2.0 OR MIT
