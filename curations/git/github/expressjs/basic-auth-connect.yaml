@@ -1,0 +1,9 @@
+coordinates:
+  name: basic-auth-connect
+  namespace: expressjs
+  provider: github
+  type: git
+revisions:
+  7a0b814741446933cf78a303fd269b4f54d74f12:
+    licensed:
+      declared: MIT
