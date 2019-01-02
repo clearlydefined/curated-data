@@ -1,0 +1,16 @@
+coordinates:
+  name: jquery.custom-scrollbar
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.3:
+    described:
+      sourceLocation:
+        name: malihu-custom-scrollbar-plugin
+        namespace: malihu
+        provider: github
+        revision: 424a816d396e09c1bcb8375039df267ff1daff5d
+        type: git
+        url: 'https://github.com/malihu/malihu-custom-scrollbar-plugin/commit/424a816d396e09c1bcb8375039df267ff1daff5d'
+    licensed:
+      declared: MIT
