@@ -1,0 +1,9 @@
+coordinates:
+  name: copycss
+  namespace: moagrius
+  provider: github
+  type: git
+revisions:
+  827cc865ebe484e19fe6d4b372ed7149f5bb13a9:
+    licensed:
+      declared: MIT
