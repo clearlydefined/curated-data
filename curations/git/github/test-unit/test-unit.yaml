@@ -5,5 +5,15 @@ coordinates:
   type: git
 revisions:
   c004319558db37f5f6426ea52668920690ceb9a8:
+    files:
+      - attributions:
+          - Copyright (c) 2001-2008 Python Software Foundation
+          - Copyright (c) 2008-2011 Kouhei Sutou
+        license: GPL-2.0 OR LGPL-2.1-or-later OR Python-2.0
+        path: lib/test/unit/diff.rb
+      - attributions:
+          - Copyright (c) 2012-2015 Kouhei Sutou <kou@clear-code.com>
+        license: GPL-2.0 OR LGPL-2.1-or-later
+        path: lib/test-unit.rb
     licensed:
       declared: GPL-2.0-only
