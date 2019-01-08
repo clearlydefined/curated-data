@@ -1,0 +1,9 @@
+coordinates:
+  name: test-unit
+  namespace: test-unit
+  provider: github
+  type: git
+revisions:
+  c004319558db37f5f6426ea52668920690ceb9a8:
+    licensed:
+      declared: GPL-2.0-only
