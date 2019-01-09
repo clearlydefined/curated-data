@@ -1,0 +1,9 @@
+coordinates:
+  name: big.js
+  namespace: mikemcl
+  provider: github
+  type: git
+revisions:
+  86268e96b3dbf6db8ce319489f410277d9d4ea1b:
+    licensed:
+      declared: MIT
