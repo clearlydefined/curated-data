@@ -1,6 +1,5 @@
 coordinates:
   name: Microsoft.VisualStudio.Validation
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -8,5 +7,11 @@ revisions:
     licensed:
       declared: MIT
   15.3.32:
+    licensed:
+      declared: MIT
+  15.3.53:
+    licensed:
+      declared: MIT
+  15.3.58:
     licensed:
       declared: MIT
