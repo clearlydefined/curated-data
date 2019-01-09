@@ -1,14 +1,11 @@
 coordinates:
-  name: Microsoft.VisualStudio.Threading
+  name: StreamJsonRpc
   provider: nuget
   type: nuget
 revisions:
-  15.3.20:
+  1.3.23:
     licensed:
       declared: MIT
-  15.6.46:
-    licensed:
-      declared: MIT
-  15.8.122:
+  1.4.44-beta:
     licensed:
       declared: MIT

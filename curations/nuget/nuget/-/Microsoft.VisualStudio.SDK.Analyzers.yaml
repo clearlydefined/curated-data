@@ -1,11 +1,8 @@
 coordinates:
-  name: System.CodeDom
+  name: Microsoft.VisualStudio.SDK.Analyzers
   provider: nuget
   type: nuget
 revisions:
-  4.4.0:
-    licensed:
-      declared: MIT
-  4.5.0:
+  15.8.31:
     licensed:
       declared: MIT

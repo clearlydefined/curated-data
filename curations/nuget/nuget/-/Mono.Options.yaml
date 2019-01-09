@@ -1,11 +1,8 @@
 coordinates:
-  name: System.CodeDom
+  name: Mono.Options
   provider: nuget
   type: nuget
 revisions:
-  4.4.0:
-    licensed:
-      declared: MIT
-  4.5.0:
+  5.3.0.1:
     licensed:
       declared: MIT
