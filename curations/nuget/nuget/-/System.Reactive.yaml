@@ -16,3 +16,6 @@ revisions:
         url: 'https://github.com/Reactive-Extensions/Rx.NET/commit/e0b6af3e204feb8aa13841a8a873d78ae6c43467'
     licensed:
       declared: Apache-2.0
+  4.1.0:
+    licensed:
+      declared: Apache-2.0
