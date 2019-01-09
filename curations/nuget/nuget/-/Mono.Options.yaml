@@ -1,0 +1,8 @@
+coordinates:
+  name: Mono.Options
+  provider: nuget
+  type: nuget
+revisions:
+  5.3.0.1:
+    licensed:
+      declared: MIT
