@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.SDK.Analyzers
+  provider: nuget
+  type: nuget
+revisions:
+  15.8.31:
+    licensed:
+      declared: MIT
