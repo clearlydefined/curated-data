@@ -13,6 +13,9 @@ revisions:
         url: 'https://github.com/Microsoft/bond/commit/ee7f38245619e1fd690817918dcd05e05da263ab'
     licensed:
       declared: MIT
+  3.0.5:
+    licensed:
+      declared: MIT
   3.0.6:
     described:
       releaseDate: '2015-04-28'
