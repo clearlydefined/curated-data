@@ -1,0 +1,8 @@
+coordinates:
+  name: cli-color
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.3:
+    licensed:
+      declared: ISC
