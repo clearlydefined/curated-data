@@ -1,11 +1,8 @@
 coordinates:
-  name: colors
+  name: cli-table
   provider: npmjs
   type: npm
 revisions:
-  0.5.1:
-    licensed:
-      declared: MIT
-  0.6.2:
+  0.3.1:
     licensed:
       declared: MIT
