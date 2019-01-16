@@ -15,7 +15,7 @@ revisions:
       declared: BSD-3-Clause
   4.5.10:
     licensed:
-      declared: BSD-2-Clause
+      declared: BSD-3-Clause
   4.5.21:
     described:
       releaseDate: '2016-08-12'
@@ -38,7 +38,7 @@ revisions:
       declared: BSD-3-Clause
   4.5.28:
     licensed:
-      declared: BSD-2-Clause
+      declared: BSD-3-Clause
   4.7.1:
     described:
       releaseDate: '2017-02-28'
