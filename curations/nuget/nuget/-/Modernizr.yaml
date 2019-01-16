@@ -6,3 +6,6 @@ revisions:
   2.6.2:
     licensed:
       declared: MIT OR BSD-3-Clause
+  2.8.3:
+    licensed:
+      declared: MIT
