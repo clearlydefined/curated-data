@@ -13,6 +13,9 @@ revisions:
         url: 'https://github.com/moq/moq4/commit/71cf92ff113e08511512e0bf19c754d98dab218e'
     licensed:
       declared: BSD-3-Clause
+  4.5.10:
+    licensed:
+      declared: BSD-2-Clause
   4.5.21:
     described:
       releaseDate: '2016-08-12'
@@ -33,6 +36,9 @@ revisions:
         url: 'https://github.com/moq/moq4/commit/8772a49d4565a03d8455685f5633ffed80bb2cc9'
     licensed:
       declared: BSD-3-Clause
+  4.5.28:
+    licensed:
+      declared: BSD-2-Clause
   4.7.1:
     described:
       releaseDate: '2017-02-28'
