@@ -1,0 +1,9 @@
+coordinates:
+  name: php-src
+  namespace: php
+  provider: github
+  type: git
+revisions:
+  c16ea99f5de90081f25034c19b5c89896fb38bd4:
+    licensed:
+      declared: PHP-3.01
