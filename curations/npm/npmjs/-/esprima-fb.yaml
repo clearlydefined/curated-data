@@ -1,0 +1,8 @@
+coordinates:
+  name: esprima-fb
+  provider: npmjs
+  type: npm
+revisions:
+  12001.1.0-dev-harmony-fb:
+    licensed:
+      declared: BSD-2-Clause
