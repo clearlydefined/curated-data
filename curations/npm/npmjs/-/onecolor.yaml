@@ -1,0 +1,8 @@
+coordinates:
+  name: onecolor
+  provider: npmjs
+  type: npm
+revisions:
+  2.5.0:
+    licensed:
+      declared: BSD-2-Clause
