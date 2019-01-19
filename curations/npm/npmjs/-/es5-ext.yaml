@@ -1,0 +1,8 @@
+coordinates:
+  name: es5-ext
+  provider: npmjs
+  type: npm
+revisions:
+  0.9.2:
+    licensed:
+      declared: ISC
