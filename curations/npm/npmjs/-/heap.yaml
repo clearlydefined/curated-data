@@ -1,0 +1,8 @@
+coordinates:
+  name: heap
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.6:
+    licensed:
+      declared: NOASSERTION
