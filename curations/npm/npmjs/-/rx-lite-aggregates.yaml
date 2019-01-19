@@ -1,0 +1,8 @@
+coordinates:
+  name: rx-lite-aggregates
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.8:
+    licensed:
+      declared: Apache-2.0
