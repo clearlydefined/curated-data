@@ -5,4 +5,4 @@ coordinates:
 revisions:
   0.9.2:
     licensed:
-      declared: ISC
+      declared: MIT
