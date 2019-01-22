@@ -1,0 +1,8 @@
+coordinates:
+  name: vinyl
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.6:
+    licensed:
+      declared: MIT
