@@ -1,0 +1,8 @@
+coordinates:
+  name: webpack-core
+  provider: npmjs
+  type: npm
+revisions:
+  0.6.9:
+    licensed:
+      declared: MIT
