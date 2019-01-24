@@ -1,8 +1,8 @@
 coordinates:
-  name: ua-parser-js
+  name: signals
   provider: npmjs
   type: npm
 revisions:
-  0.7.10:
+  1.0.0:
     licensed:
-      declared: GPL-2.0 OR MIT
+      declared: MIT

@@ -1,8 +1,8 @@
 coordinates:
-  name: ua-parser-js
+  name: rx-lite-aggregates
   provider: npmjs
   type: npm
 revisions:
-  0.7.10:
+  4.0.8:
     licensed:
-      declared: GPL-2.0 OR MIT
+      declared: Apache-2.0
