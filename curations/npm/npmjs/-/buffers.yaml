@@ -1,8 +1,8 @@
 coordinates:
-  name: ua-parser-js
+  name: buffers
   provider: npmjs
   type: npm
 revisions:
-  0.7.10:
+  0.1.1:
     licensed:
-      declared: GPL-2.0 OR MIT
+      declared: MIT

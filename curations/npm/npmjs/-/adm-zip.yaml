@@ -1,14 +1,11 @@
 coordinates:
-  name: enhanced-resolve
+  name: adm-zip
   provider: npmjs
   type: npm
 revisions:
-  0.9.1:
+  0.4.4:
     licensed:
       declared: MIT
-  3.3.0:
-    licensed:
-      declared: MIT
-  3.4.1:
+  0.4.7:
     licensed:
       declared: MIT

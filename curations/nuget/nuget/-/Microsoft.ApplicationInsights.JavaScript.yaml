@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.ApplicationInsights.JavaScript
+  provider: nuget
+  type: nuget
+revisions:
+  0.11.0-build09387:
+    licensed:
+      declared: NONE

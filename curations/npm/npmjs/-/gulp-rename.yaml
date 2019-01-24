@@ -1,8 +1,8 @@
 coordinates:
-  name: ua-parser-js
+  name: gulp-rename
   provider: npmjs
   type: npm
 revisions:
-  0.7.10:
+  1.2.2:
     licensed:
-      declared: GPL-2.0 OR MIT
+      declared: MIT
