@@ -1,0 +1,14 @@
+coordinates:
+  name: geomotion
+  provider: rubygems
+  type: gem
+revisions:
+  0.15.0:
+    described:
+      sourceLocation:
+        name: geomotion
+        namespace: clayallsopp
+        provider: github
+        revision: 7c339a4f4518a37c6740cbf3721d9d05f1faf8f3
+        type: git
+        url: 'https://github.com/clayallsopp/geomotion/commit/7c339a4f4518a37c6740cbf3721d9d05f1faf8f3'
