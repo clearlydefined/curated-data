@@ -1,0 +1,8 @@
+coordinates:
+  name: repeat-string
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.2:
+    licensed:
+      declared: MIT

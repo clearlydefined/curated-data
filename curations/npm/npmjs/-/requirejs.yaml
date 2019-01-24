@@ -1,0 +1,8 @@
+coordinates:
+  name: requirejs
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.22:
+    licensed:
+      declared: MIT OR BSD-3-Clause
