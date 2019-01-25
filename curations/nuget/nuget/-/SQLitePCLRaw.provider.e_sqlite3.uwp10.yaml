@@ -1,11 +1,8 @@
 coordinates:
-  name: SQLitePCLRaw.core
+  name: SQLitePCLRaw.provider.e_sqlite3.uwp10
   provider: nuget
   type: nuget
 revisions:
-  1.1.11:
-    licensed:
-      declared: Apache-2.0
   1.1.2:
     licensed:
       declared: Apache-2.0

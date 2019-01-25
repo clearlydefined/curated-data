@@ -1,0 +1,8 @@
+coordinates:
+  name: runtime.win10-x86.Microsoft.NETCore.UniversalWindowsPlatform
+  provider: nuget
+  type: nuget
+revisions:
+  6.2.3:
+    licensed:
+      declared: MIT

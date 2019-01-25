@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.NETCore.UniversalWindowsPlatform
+  provider: nuget
+  type: nuget
+revisions:
+  6.1.9:
+    licensed:
+      declared: MIT
