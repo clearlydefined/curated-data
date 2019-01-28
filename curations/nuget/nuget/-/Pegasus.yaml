@@ -1,0 +1,8 @@
+coordinates:
+  name: Pegasus
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.14:
+    licensed:
+      declared: MIT
