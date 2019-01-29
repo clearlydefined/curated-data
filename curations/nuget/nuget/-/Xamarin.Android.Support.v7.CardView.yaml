@@ -1,9 +1,11 @@
 coordinates:
   name: Xamarin.Android.Support.v7.CardView
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
   27.0.2:
+    licensed:
+      declared: MIT
+  27.0.2.1:
     licensed:
       declared: MIT
