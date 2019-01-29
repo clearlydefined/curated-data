@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Android.Support.v13
+  provider: nuget
+  type: nuget
+revisions:
+  27.0.2.1:
+    licensed:
+      declared: MIT
