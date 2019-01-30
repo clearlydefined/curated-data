@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Swift4.MetalKIt
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.1:
+    licensed:
+      declared: Apache-2.0

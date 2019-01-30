@@ -1,11 +1,8 @@
 coordinates:
-  name: Xam.Plugins.Settings
+  name: Xamarin.Android.Support.v8.RenderScript
   provider: nuget
   type: nuget
 revisions:
-  3.0.1:
-    licensed:
-      declared: MIT
-  3.1.1:
+  25.4.0.2:
     licensed:
       declared: MIT
