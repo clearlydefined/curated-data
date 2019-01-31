@@ -4,5 +4,8 @@ coordinates:
   type: npm
 revisions:
   0.5.8:
+    files:
+      - license: W3C
+        path: package/examples/strict.dtd
     licensed:
-      declared: 'BSD-2-Clause'
+      declared: BSD-2-Clause
