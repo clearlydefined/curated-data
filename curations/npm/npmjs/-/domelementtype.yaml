@@ -1,0 +1,16 @@
+coordinates:
+  name: domelementtype
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.3:
+    described:
+      sourceLocation:
+        name: domelementtype
+        namespace: fb55
+        provider: github
+        revision: 012a97a1d38737e0
+        type: git
+        url: 'https://github.com/fb55/domelementtype/commit/012a97a1d38737e0'
+    licensed:
+      declared: BSD-2-Clause
