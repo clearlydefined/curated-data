@@ -1,0 +1,16 @@
+coordinates:
+  name: xmlhttprequest-ssl
+  provider: npmjs
+  type: npm
+revisions:
+  1.5.3:
+    described:
+      sourceLocation:
+        name: node-xmlhttprequest
+        namespace: mjwwit
+        provider: github
+        revision: b0fa1e0ddb900e28cf6cfbf8f6ade2babc4a12f9
+        type: git
+        url: 'https://github.com/mjwwit/node-xmlhttprequest/commit/b0fa1e0ddb900e28cf6cfbf8f6ade2babc4a12f9'
+    licensed:
+      declared: MIT
