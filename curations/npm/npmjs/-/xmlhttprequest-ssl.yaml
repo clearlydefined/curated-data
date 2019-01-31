@@ -9,8 +9,8 @@ revisions:
         name: node-xmlhttprequest
         namespace: mjwwit
         provider: github
-        revision: b0fa1e0ddb900e28cf6cfbf8f6ade2babc4a12f9
+        revision: d35e16183e162f3c67b29191ab20e4c81db68742
         type: git
-        url: 'https://github.com/mjwwit/node-xmlhttprequest/commit/b0fa1e0ddb900e28cf6cfbf8f6ade2babc4a12f9'
+        url: 'https://github.com/mjwwit/node-XMLHttpRequest/commit/d35e16183e162f3c67b29191ab20e4c81db68742'
     licensed:
       declared: MIT
