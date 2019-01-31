@@ -1,0 +1,8 @@
+coordinates:
+  name: json3
+  provider: npmjs
+  type: npm
+revisions:
+  3.3.2:
+    licensed:
+      declared: MIT
