@@ -7,6 +7,7 @@ revisions:
     files:
       - attributions:
           - Copyright 2016 Lucas Teixeira
+          - Copyright 2017 Lucas Teixeira
         license: ''
         path: Xamarin.Swift4.Core.nuspec
     licensed:
