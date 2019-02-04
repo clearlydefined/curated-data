@@ -14,3 +14,6 @@ revisions:
         url: 'https://github.com/fb55/domelementtype/commit/012a97a1d38737e0'
     licensed:
       declared: BSD-2-Clause
+  1.3.0:
+    licensed:
+      declared: BSD-2-Clause
