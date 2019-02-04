@@ -4,5 +4,10 @@ coordinates:
   type: nuget
 revisions:
   25.4.0.2:
+    files:
+      - attributions:
+          - Copyright (c) .NET Foundation Contributors
+        license: ''
+        path: Xamarin.Android.Support.v8.RenderScript.nuspec
     licensed:
       declared: MIT
