@@ -7,5 +7,10 @@ revisions:
     licensed:
       declared: MIT
   27.0.2.1:
+    files:
+      - attributions:
+          - Copyright (c) .NET Foundation Contributors
+        license: ''
+        path: Xamarin.Android.Support.Core.Utils.nuspec
     licensed:
       declared: MIT

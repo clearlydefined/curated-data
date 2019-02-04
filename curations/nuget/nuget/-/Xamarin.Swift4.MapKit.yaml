@@ -4,5 +4,11 @@ coordinates:
   type: nuget
 revisions:
   4.0.1:
+    files:
+      - attributions:
+          - 'Copyright 2016 Lucas Teixeira'
+          - 'Copyright 2017 Lucas Teixeira'
+        license: ''
+        path: Xamarin.Swift4.MapKit.nuspec
     licensed:
       declared: Apache-2.0

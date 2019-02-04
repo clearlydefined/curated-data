@@ -4,5 +4,10 @@ coordinates:
   type: nuget
 revisions:
   1.1.2:
+    files:
+      - attributions:
+          - Copyright (c) .NET Foundation Contributors
+        license: ''
+        path: Xamarin.Android.Support.Constraint.Layout.nuspec
     licensed:
       declared: MIT
