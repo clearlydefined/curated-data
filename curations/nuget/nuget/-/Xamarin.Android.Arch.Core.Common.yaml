@@ -7,5 +7,10 @@ revisions:
     licensed:
       declared: MIT
   1.0.0.1:
+    files:
+      - attributions:
+          - Copyright (c) .NET Foundation Contributors
+        license: ''
+        path: Xamarin.Android.Arch.Core.Common.nuspec
     licensed:
       declared: MIT
