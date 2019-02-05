@@ -4,5 +4,12 @@ coordinates:
   type: nuget
 revisions:
   0.3.2:
+    files:
+      - attributions:
+          - 'Copyright © Andrew Arnott, andrewarnott@gmail.com, http://github.com/aarnott'
+          - 'Copyright © Julien Roncaglia, julien@roncaglia.fr, https://github.com/vbfox'
+          - 'Copyright © Mathias Lykkegaard Lorenzen, mathias.lorenzen@live.com, https://github.com/ffMathy'
+        license: ''
+        path: PInvoke.BCrypt.nuspec
     licensed:
       declared: MIT
