@@ -1,0 +1,14 @@
+coordinates:
+  name: tiny-attribution-generator
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.5:
+    described:
+      sourceLocation:
+        name: tiny-attribution-generator
+        namespace: amzn
+        provider: github
+        revision: 9e4a499757299b72ef4d8c9ef315041ad4a504d2
+        type: git
+        url: 'https://github.com/amzn/tiny-attribution-generator/commit/9e4a499757299b72ef4d8c9ef315041ad4a504d2'
