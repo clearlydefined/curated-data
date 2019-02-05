@@ -4,5 +4,10 @@ coordinates:
   type: nuget
 revisions:
   2.0.147:
+    files:
+      - attributions:
+          - Copyright © Andrew Arnott
+        license: ''
+        path: PCLCrypto.nuspec
     licensed:
       declared: MS-PL
