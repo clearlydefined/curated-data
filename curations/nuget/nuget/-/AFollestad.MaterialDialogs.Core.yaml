@@ -4,5 +4,10 @@ coordinates:
   type: nuget
 revisions:
   0.9.6:
+    files:
+      - attributions:
+          - Copyright (c) 2016 Dominik Minta
+        license: ''
+        path: AFollestad.MaterialDialogs.Core.nuspec
     licensed:
       declared: MIT
