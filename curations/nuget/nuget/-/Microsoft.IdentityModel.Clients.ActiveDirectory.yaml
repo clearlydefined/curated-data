@@ -46,5 +46,10 @@ revisions:
     licensed:
       declared: MIT
   3.19.8:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation
+        license: ''
+        path: Microsoft.IdentityModel.Clients.ActiveDirectory.nuspec
     licensed:
       declared: MIT
