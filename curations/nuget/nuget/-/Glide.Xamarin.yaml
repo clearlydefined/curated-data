@@ -1,0 +1,11 @@
+coordinates:
+  name: Glide.Xamarin
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.1:
+    files:
+      - attributions:
+          - Copyright (c) 2017 Beray Bentesen
+        license: ''
+        path: Glide.Xamarin.nuspec
