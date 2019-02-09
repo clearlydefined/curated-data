@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Protobuf.Tools
+  provider: nuget
+  type: nuget
+revisions:
+  3.6.1:
+    licensed:
+      declared: BSD-3-Clause
