@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Azure.EventHubs
+  name: Microsoft.Azure.DataLake.Store
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  2.1.0:
+  1.1.3:
     licensed:
       declared: MIT

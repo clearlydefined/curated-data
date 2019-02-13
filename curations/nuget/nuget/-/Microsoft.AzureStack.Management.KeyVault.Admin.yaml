@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Azure.EventHubs
+  name: Microsoft.AzureStack.Management.KeyVault.Admin
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  2.1.0:
+  0.1.0-preview:
     licensed:
       declared: MIT
