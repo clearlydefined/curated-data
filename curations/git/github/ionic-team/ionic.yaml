@@ -1,0 +1,9 @@
+coordinates:
+  name: ionic
+  namespace: ionic-team
+  provider: github
+  type: git
+revisions:
+  c463b065c79481939de958ec6eb9c7827c62ec2f:
+    licensed:
+      declared: MIT
