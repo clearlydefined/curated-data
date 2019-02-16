@@ -1,0 +1,8 @@
+coordinates:
+  name: jquery.TypeScript.DefinitelyTyped
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.3:
+    licensed:
+      declared: MIT
