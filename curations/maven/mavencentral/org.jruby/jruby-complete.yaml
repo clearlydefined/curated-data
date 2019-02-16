@@ -1,0 +1,9 @@
+coordinates:
+  name: jruby-complete
+  namespace: org.jruby
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.13:
+    licensed:
+      declared: ''
