@@ -1,0 +1,9 @@
+coordinates:
+  name: jemalloc
+  namespace: jemalloc
+  provider: github
+  type: git
+revisions:
+  e02b83cc5e3c4d30f93dba945162e3aa58d962d6:
+    licensed:
+      declared: BSD-2-Clause
