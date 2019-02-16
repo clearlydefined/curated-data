@@ -1,0 +1,9 @@
+coordinates:
+  name: gsl
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  cee3125af7208258d024a75e24f73977eddaec5b:
+    licensed:
+      declared: MIT
