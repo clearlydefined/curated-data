@@ -1,9 +1,11 @@
 coordinates:
   name: Antlr
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
+  3.4.1.9004:
+    licensed:
+      declared: NONE
   3.5.0.2:
     described:
       releaseDate: '2013-09-12'
