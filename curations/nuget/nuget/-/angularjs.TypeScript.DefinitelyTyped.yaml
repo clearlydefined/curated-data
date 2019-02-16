@@ -1,0 +1,8 @@
+coordinates:
+  name: angularjs.TypeScript.DefinitelyTyped
+  provider: nuget
+  type: nuget
+revisions:
+  4.3.3:
+    licensed:
+      declared: MIT
