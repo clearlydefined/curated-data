@@ -1,0 +1,8 @@
+coordinates:
+  name: css-loader
+  provider: npmjs
+  type: npm
+revisions:
+  0.9.1:
+    licensed:
+      declared: MIT
