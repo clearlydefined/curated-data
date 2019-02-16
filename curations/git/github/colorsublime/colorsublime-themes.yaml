@@ -1,0 +1,9 @@
+coordinates:
+  name: colorsublime-themes
+  namespace: colorsublime
+  provider: github
+  type: git
+revisions:
+  c10fdd8b144486b7a4f3cb4e2251c66df222a825:
+    licensed:
+      declared: MIT
