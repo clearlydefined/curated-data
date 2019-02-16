@@ -1,0 +1,9 @@
+coordinates:
+  name: clang-cindex-python3
+  namespace: wjakob
+  provider: github
+  type: git
+revisions:
+  6a00cbc4a9b8e68b71caf7f774b3f9c753ae84d5:
+    licensed:
+      declared: NCSA
