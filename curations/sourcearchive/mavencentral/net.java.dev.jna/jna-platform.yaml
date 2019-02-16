@@ -1,0 +1,9 @@
+coordinates:
+  name: jna-platform
+  namespace: net.java.dev.jna
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  4.1.0:
+    licensed:
+      declared: LGPL-2.1 AND Apache-2.0
