@@ -1,0 +1,9 @@
+coordinates:
+  name: date
+  namespace: howardhinnant
+  provider: github
+  type: git
+revisions:
+  e7e1482087f58913b80a20b04d5c58d9d6d90155:
+    licensed:
+      declared: MIT
