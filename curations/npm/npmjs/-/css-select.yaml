@@ -1,0 +1,8 @@
+coordinates:
+  name: css-select
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.0:
+    licensed:
+      declared: BSD-2-Clause
