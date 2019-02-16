@@ -1,0 +1,8 @@
+coordinates:
+  name: js-base64
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.9:
+    licensed:
+      declared: BSD-3-Clause
