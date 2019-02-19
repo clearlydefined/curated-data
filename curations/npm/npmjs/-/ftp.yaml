@@ -1,0 +1,8 @@
+coordinates:
+  name: ftp
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.10:
+    licensed:
+      declared: MIT
