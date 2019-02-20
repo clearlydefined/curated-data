@@ -1,0 +1,9 @@
+coordinates:
+  name: sac
+  namespace: org.w3c.css
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.3':
+    licensed:
+      declared: W3C
