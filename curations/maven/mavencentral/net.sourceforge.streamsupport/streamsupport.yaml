@@ -1,0 +1,9 @@
+coordinates:
+  name: streamsupport
+  namespace: net.sourceforge.streamsupport
+  provider: mavencentral
+  type: maven
+revisions:
+  1.5.1:
+    licensed:
+      declared: GPL-2.0-with-classpath-exception
