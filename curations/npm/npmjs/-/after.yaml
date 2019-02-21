@@ -1,0 +1,8 @@
+coordinates:
+  name: after
+  provider: npmjs
+  type: npm
+revisions:
+  0.8.1:
+    licensed:
+      declared: MIT
