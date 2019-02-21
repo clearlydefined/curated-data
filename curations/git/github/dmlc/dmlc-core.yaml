@@ -1,0 +1,9 @@
+coordinates:
+  name: dmlc-core
+  namespace: dmlc
+  provider: github
+  type: git
+revisions:
+  4d49691f1a9d944c3b0aa5e63f1db3cad1f941f8:
+    licensed:
+      declared: Apache-2.0
