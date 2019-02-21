@@ -1,0 +1,9 @@
+coordinates:
+  name: checkstyle
+  namespace: com.puppycrawl.tools
+  provider: mavencentral
+  type: maven
+revisions:
+  '6.12':
+    licensed:
+      declared: LGPL-2.1-only
