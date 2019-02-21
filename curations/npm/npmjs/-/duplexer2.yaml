@@ -1,0 +1,8 @@
+coordinates:
+  name: duplexer2
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.2:
+    licensed:
+      declared: BSD-3-Clause

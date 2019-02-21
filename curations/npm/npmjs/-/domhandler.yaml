@@ -1,11 +1,8 @@
 coordinates:
-  name: domutils
+  name: domhandler
   provider: npmjs
   type: npm
 revisions:
-  1.1.6:
-    licensed:
-      declared: BSD-2-Clause
-  1.5.1:
+  2.1.0:
     licensed:
       declared: BSD-2-Clause
