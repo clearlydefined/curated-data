@@ -1,0 +1,9 @@
+coordinates:
+  name: halideir
+  namespace: dmlc
+  provider: github
+  type: git
+revisions:
+  e4a4c02764d37c9c3db0d64c4996651a3ef9513c:
+    licensed:
+      declared: MIT
