@@ -1,0 +1,8 @@
+coordinates:
+  name: jstimezonedetect
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.6:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: jison
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.13:
+    licensed:
+      declared: MIT
