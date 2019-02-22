@@ -7,6 +7,11 @@ revisions:
     licensed:
       declared: MIT
   2.0.7:
+    files:
+      - attributions:
+          - Copyright (c) 2015 .NET Foundation
+        license: MIT
+        path: LICENSE.TXT
     licensed:
       declared: MIT
   2.1.0:
@@ -22,5 +27,10 @@ revisions:
     licensed:
       declared: MIT
   2.1.7:
+    files:
+      - attributions:
+          - Copyright (c) 2015 .NET Foundation
+        license: MIT
+        path: LICENSE.TXT
     licensed:
       declared: MIT
