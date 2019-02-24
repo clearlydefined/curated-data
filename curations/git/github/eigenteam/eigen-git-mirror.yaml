@@ -1,0 +1,9 @@
+coordinates:
+  name: eigen-git-mirror
+  namespace: eigenteam
+  provider: github
+  type: git
+revisions:
+  cf794d3b741a6278df169e58461f8529f43bce5d:
+    licensed:
+      declared: MPL-2.0 AND LGPL-2.1
