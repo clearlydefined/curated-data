@@ -1,0 +1,9 @@
+coordinates:
+  name: leveldb
+  namespace: google
+  provider: github
+  type: git
+revisions:
+  a53934a3ae1244679f812d998a4f16f2c7f309a6:
+    licensed:
+      declared: BSD-3-Clause

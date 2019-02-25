@@ -1,0 +1,9 @@
+coordinates:
+  name: libpng
+  namespace: glennrp
+  provider: github
+  type: git
+revisions:
+  eddf9023206dc40974c26f589ee2ad63a4227a1e:
+    licensed:
+      declared: Libpng

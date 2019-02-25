@@ -1,0 +1,8 @@
+coordinates:
+  name: less-vars-to-js
+  provider: npmjs
+  type: npm
+revisions:
+  1.3.0:
+    licensed:
+      declared: MIT
