@@ -1,0 +1,30 @@
+coordinates:
+  name: jsts
+  namespace: bjornharrtell
+  provider: github
+  type: git
+revisions:
+  1307dbf2e53cee1670d965abe06d736e4e887946:
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause
+  258b53b039134e862ae800b441133d52e3a89404:
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause
+  44b9cd1d036507d22600bcc61efc70a6d8214f69:
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause
+  6ce70e63d87a7afbe5db0c9ee9f7dbbb2814d29c:
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause
+  93f117d64666dd0fa5b3014359e8b8060120ef2c:
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause
+  9be7f169b991c8879cb97ff8430127697b72c368:
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause
+  ac4d0f6e2409b9b6c4e9e5e3082e691304c4490a:
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause
+  f363091a4788b01a4f3f65a35999d7317f202514:
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause
