@@ -1,0 +1,12 @@
+coordinates:
+  name: junit
+  namespace: junit
+  provider: mavencentral
+  type: maven
+revisions:
+  '4.11':
+    licensed:
+      declared: CPL-1.0
+  '4.4':
+    licensed:
+      declared: CPL-1.0
