@@ -16,5 +16,10 @@ revisions:
     licensed:
       declared: Apache-2.0
   2.2.0:
+    files:
+      - attributions:
+          - Copyright (c) .NET Foundation. All rights reserved.
+        license: ''
+        path: Microsoft.Extensions.FileProviders.Composite.nuspec
     licensed:
       declared: Apache-2.0
