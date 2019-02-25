@@ -1,0 +1,9 @@
+coordinates:
+  name: microsoft-graph-client
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.0:
+    licensed:
+      declared: MIT
