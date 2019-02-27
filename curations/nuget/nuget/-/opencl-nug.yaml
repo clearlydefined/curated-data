@@ -1,0 +1,8 @@
+coordinates:
+  name: opencl-nug
+  provider: nuget
+  type: nuget
+revisions:
+  0.777.12:
+    licensed:
+      declared: GPL-3.0
