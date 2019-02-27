@@ -1,0 +1,8 @@
+coordinates:
+  name: pyaml
+  provider: pypi
+  type: pypi
+revisions:
+  17.8.0:
+    licensed:
+      declared: WTFPL
