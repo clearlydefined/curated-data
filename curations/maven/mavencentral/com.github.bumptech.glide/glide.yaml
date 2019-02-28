@@ -1,0 +1,9 @@
+coordinates:
+  name: glide
+  namespace: com.github.bumptech.glide
+  provider: mavencentral
+  type: maven
+revisions:
+  4.8.0:
+    licensed:
+      declared: BSD-2-Clause
