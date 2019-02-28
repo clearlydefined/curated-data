@@ -1,0 +1,9 @@
+coordinates:
+  name: github_auth
+  namespace: yoshuawuyts
+  provider: github
+  type: git
+revisions:
+  cc676daad2bb473e88005091033258121b133e6d:
+    licensed:
+      declared: Apache-2.0 OR MIT
