@@ -1,0 +1,9 @@
+coordinates:
+  name: libebml
+  namespace: matroska-org
+  provider: github
+  type: git
+revisions:
+  87b4d4f787d6b444f29a3a9e854b916d10080c96:
+    licensed:
+      declared: LGPL-2.1-or-later
