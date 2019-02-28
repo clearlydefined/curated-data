@@ -1,0 +1,9 @@
+coordinates:
+  name: component
+  namespace: component
+  provider: github
+  type: git
+revisions:
+  03823566dd2ed26bd04daf82a9b6458b0ec7affa:
+    licensed:
+      declared: MIT
