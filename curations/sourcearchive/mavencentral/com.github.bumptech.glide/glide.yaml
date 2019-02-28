@@ -1,0 +1,17 @@
+coordinates:
+  name: glide
+  namespace: com.github.bumptech.glide
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  4.8.0:
+    described:
+      sourceLocation:
+        name: glide
+        namespace: bumptech
+        provider: github
+        revision: 914996cac11108ec1a02c21a10af53ebc4980d7f
+        type: git
+        url: 'https://github.com/bumptech/glide/commit/914996cac11108ec1a02c21a10af53ebc4980d7f'
+    licensed:
+      declared: BSD-2-Clause
