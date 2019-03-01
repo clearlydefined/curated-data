@@ -6,3 +6,11 @@ revisions:
   1.0.481:
     licensed:
       declared: MIT
+  1.2.6:
+    files:
+      - attributions:
+          - Copyright (c) 2014 Stack Exchange
+        license: ''
+        path: StackExchange.Redis.nuspec
+    licensed:
+      declared: MIT
