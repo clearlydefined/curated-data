@@ -1,0 +1,20 @@
+coordinates:
+  name: django
+  namespace: django
+  provider: github
+  type: git
+revisions:
+  e7ad40fcf4b103bb5134f6a94eb86a4e10e53cb3:
+    files:
+      - license: OFL-1.1
+        path: docs/_theme/djangodocs/static/fontawesome/webfonts/fa-brands-400.woff
+      - license: CC-BY-4.0
+        path: docs/_theme/djangodocs/static/fontawesome/webfonts/fa-brands-400.svg
+      - license: OFL-1.1
+        path: docs/_theme/djangodocs/static/fontawesome/webfonts/fa-brands-400.ttf
+      - license: OFL-1.1
+        path: docs/_theme/djangodocs/static/fontawesome/webfonts/fa-brands-400.eot
+      - license: OFL-1.1
+        path: docs/_theme/djangodocs/static/fontawesome/webfonts/fa-brands-400.woff2
+      - license: 'MIT AND OFL-1.1 AND CC-BY-4.0 '
+        path: docs/_theme/djangodocs/static/fontawesome/LICENSE.txt
