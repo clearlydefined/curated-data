@@ -1,0 +1,50 @@
+coordinates:
+  name: presto
+  namespace: prestodb
+  provider: github
+  type: git
+revisions:
+  ba3080f3f7da6e7174f5d18d8b8ad5cb2e75c8a0:
+    files:
+      - attributions:
+          - 'Copyright 2013-present, Facebook, Inc.'
+          - 'Copyright 2013-present, Facebook, Inc. All rights reserved.'
+        license: BSD-2-Clause-Patent
+        path: presto-main/src/main/resources/webapp/vendor/react/react-dom-server-15.0.1.js
+      - attributions:
+          - 'Copyright 2013-present, Facebook, Inc.'
+          - 'Copyright 2013-present, Facebook, Inc. All rights reserved.'
+        license: BSD-2-Clause-Patent
+        path: presto-main/src/main/resources/webapp/vendor/react/react-dom-15.0.1.js
+      - attributions:
+          - 'Copyright 2014-2015, Facebook, Inc.'
+          - 'Copyright 2013-present Facebook, Inc.'
+          - 'Copyright 2013-present, Facebook, Inc.'
+          - 'Copyright 2015-present, Facebook, Inc.'
+          - 'Copyright 2014-present, Facebook, Inc.'
+          - 'Copyright 2016-present, Facebook, Inc.'
+          - 'Copyright (c) 2013-present, Facebook, Inc.'
+          - 'Copyright 2014-2015, Facebook, Inc. All rights reserved.'
+          - 'Copyright 2013-present Facebook, Inc. All rights reserved.'
+          - 'Copyright 2013-present, Facebook, Inc. All rights reserved.'
+          - 'Copyright 2015-present, Facebook, Inc. All rights reserved.'
+          - 'Copyright 2014-present, Facebook, Inc. All rights reserved.'
+          - 'Copyright 2016-present, Facebook, Inc. All rights reserved.'
+          - 'Copyright (c) 2013-present, Facebook, Inc. All rights reserved.'
+        license: BSD-2-Clause-Patent
+        path: presto-main/src/main/resources/webapp/vendor/react/react-15.0.1.js
+      - attributions:
+          - 'Copyright 2013-present, Facebook, Inc.'
+          - 'Copyright 2013-present, Facebook, Inc. All rights reserved.'
+        license: BSD-2-Clause-Patent
+        path: presto-main/src/main/resources/webapp/vendor/react/react-15.0.1.min.js
+      - attributions:
+          - 'Copyright 2013-present, Facebook, Inc.'
+          - 'Copyright 2013-present, Facebook, Inc. All rights reserved.'
+        license: BSD-2-Clause-Patent
+        path: presto-main/src/main/resources/webapp/vendor/react/react-dom-15.0.1.min.js
+      - attributions:
+          - 'Copyright 2013-present, Facebook, Inc.'
+          - 'Copyright 2013-present, Facebook, Inc. All rights reserved.'
+        license: BSD-2-Clause-Patent
+        path: presto-main/src/main/resources/webapp/vendor/react/react-dom-server-15.0.1.min.js
