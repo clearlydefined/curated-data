@@ -1,0 +1,13 @@
+coordinates:
+  name: gstreamer
+  namespace: gstreamer
+  provider: github
+  type: git
+revisions:
+  c5f91b6cb1d4530733cbcee6a209e80adc2f2288:
+    files:
+      - attributions:
+          - copyrighted by the Free Software Foundation
+          - 'Copyright (c) 1991 Free Software Foundation, Inc.'
+        license: LGPL-2.0-or-later
+        path: COPYING
