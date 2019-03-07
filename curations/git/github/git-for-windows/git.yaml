@@ -1,0 +1,11 @@
+coordinates:
+  name: git
+  namespace: git-for-windows
+  provider: github
+  type: git
+revisions:
+  2481c4cbe949856f270a3ee80c802f5dd89381aa:
+    described:
+      releaseDate: '2019-02-26'
+    licensed:
+      declared: GPL-2.0-or-later
