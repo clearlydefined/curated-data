@@ -4,6 +4,11 @@ coordinates:
   provider: github
   type: git
 revisions:
+  9222028aaa57ba28beac7103146491a2c3a45d66:
+    described:
+      facets:
+        tests:
+          - tests
   c5f91b6cb1d4530733cbcee6a209e80adc2f2288:
     files:
       - attributions:
