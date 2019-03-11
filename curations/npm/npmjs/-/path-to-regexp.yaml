@@ -1,0 +1,8 @@
+coordinates:
+  name: path-to-regexp
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.2:
+    licensed:
+      declared: MIT
