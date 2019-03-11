@@ -1,0 +1,9 @@
+coordinates:
+  name: james-mime4j
+  namespace: apache
+  provider: github
+  type: git
+revisions:
+  247ee1bc45af78de968bc407c2fff12b40047d21:
+    licensed:
+      declared: Apache-2.0
