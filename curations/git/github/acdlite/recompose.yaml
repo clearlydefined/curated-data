@@ -1,0 +1,9 @@
+coordinates:
+  name: recompose
+  namespace: acdlite
+  provider: github
+  type: git
+revisions:
+  88e89d49b8de648c6315a3b3d0bdd06816997581:
+    licensed:
+      declared: MIT
