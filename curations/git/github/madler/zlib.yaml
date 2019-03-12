@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  9712272c78b9d9c93746d9c8e156a3728c65ca72:
+    licensed:
+      declared: Zlib
   cacf7f1d4e3d44d871b605da3b647f07d718623f:
     licensed:
       declared: Zlib
