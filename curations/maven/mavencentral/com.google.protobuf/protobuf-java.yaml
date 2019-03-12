@@ -1,0 +1,9 @@
+coordinates:
+  name: protobuf-java
+  namespace: com.google.protobuf
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.0:
+    licensed:
+      declared: BSD-2-Clause
