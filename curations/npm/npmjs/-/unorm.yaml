@@ -1,0 +1,8 @@
+coordinates:
+  name: unorm
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.1:
+    licensed:
+      declared: MIT AND GPL-2.0-or-later
