@@ -1,0 +1,8 @@
+coordinates:
+  name: traverse
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.9:
+    licensed:
+      declared: MIT
