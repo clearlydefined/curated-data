@@ -1,11 +1,8 @@
 coordinates:
-  name: nomnom
+  name: metro-resolver
   provider: npmjs
   type: npm
 revisions:
-  1.5.2:
-    licensed:
-      declared: NONE
-  1.8.1:
+  0.30.2:
     licensed:
       declared: MIT

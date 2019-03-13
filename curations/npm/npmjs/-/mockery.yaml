@@ -1,11 +1,8 @@
 coordinates:
-  name: nomnom
+  name: mockery
   provider: npmjs
   type: npm
 revisions:
-  1.5.2:
-    licensed:
-      declared: NONE
-  1.8.1:
+  1.7.0:
     licensed:
       declared: MIT

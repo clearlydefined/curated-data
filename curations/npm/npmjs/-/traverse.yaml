@@ -1,11 +1,8 @@
 coordinates:
-  name: nomnom
+  name: traverse
   provider: npmjs
   type: npm
 revisions:
-  1.5.2:
-    licensed:
-      declared: NONE
-  1.8.1:
+  0.3.9:
     licensed:
       declared: MIT

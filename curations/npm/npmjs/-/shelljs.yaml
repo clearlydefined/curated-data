@@ -1,0 +1,11 @@
+coordinates:
+  name: shelljs
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.0:
+    licensed:
+      declared: BSD-3-Clause
+  0.5.3:
+    licensed:
+      declared: BSD-3-Clause
