@@ -1,0 +1,9 @@
+coordinates:
+  name: openni
+  namespace: openni
+  provider: github
+  type: git
+revisions:
+  d50d0e3fb0a5913185ea03c5fd5268cb4472a2a4:
+    licensed:
+      declared: GPL-3.0 AND LGPL-3.0
