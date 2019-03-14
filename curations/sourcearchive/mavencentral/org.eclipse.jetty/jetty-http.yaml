@@ -1,0 +1,23 @@
+coordinates:
+  name: jetty-http
+  namespace: org.eclipse.jetty
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  9.3.14.v20161028:
+    described:
+      facets:
+        examples:
+          - examples
+        tests:
+          - tests
+      releaseDate: '2016-10-28'
+      sourceLocation:
+        name: jetty.project
+        namespace: eclipse
+        provider: github
+        revision: 14611d2f76be9ebd955bff6cdd38fde4a008a4c3
+        type: git
+        url: 'https://github.com/eclipse/jetty.project/commit/14611d2f76be9ebd955bff6cdd38fde4a008a4c3'
+    licensed:
+      declared: EPL-1.0 AND Apache-2.0
