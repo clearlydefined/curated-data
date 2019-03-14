@@ -11,7 +11,7 @@ revisions:
           - examples
         tests:
           - tests
-      releaseDate: '2016-02-28'
+      releaseDate: '2016-10-28'
       sourceLocation:
         name: jetty.project
         namespace: eclipse
@@ -20,4 +20,4 @@ revisions:
         type: git
         url: 'https://github.com/eclipse/jetty.project/commit/14611d2f76be9ebd955bff6cdd38fde4a008a4c3'
     licensed:
-      declared: EPL-1.0
+      declared: EPL-1.0 AND Apache-2.0
