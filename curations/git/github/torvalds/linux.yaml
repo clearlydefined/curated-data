@@ -1,0 +1,9 @@
+coordinates:
+  name: linux
+  namespace: torvalds
+  provider: github
+  type: git
+revisions:
+  8da5db7ddae1bed11e81ff419496cdea0ad77791:
+    licensed:
+      declared: GPL-2.0-only
