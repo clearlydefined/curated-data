@@ -1,0 +1,8 @@
+coordinates:
+  name: react-native-appboy-sdk
+  provider: npmjs
+  type: npm
+revisions:
+  1.10.0:
+    licensed:
+      declared: NOASSERTION
