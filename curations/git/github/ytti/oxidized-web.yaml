@@ -1,0 +1,9 @@
+coordinates:
+  name: oxidized-web
+  namespace: ytti
+  provider: github
+  type: git
+revisions:
+  5add416a32a2ac34ff8dc23c0e1587a82813b339:
+    licensed:
+      declared: Apache-2.0
