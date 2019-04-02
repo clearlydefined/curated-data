@@ -1,0 +1,14 @@
+coordinates:
+  name: netifaces
+  provider: pypi
+  type: pypi
+revisions:
+  0.10.7:
+    described:
+      sourceLocation:
+        name: netifaces
+        namespace: al45tair
+        provider: github
+        revision: a7c8e4bff6d4c5361dae19fa659b44165722b614
+        type: git
+        url: 'https://github.com/al45tair/netifaces/commit/a7c8e4bff6d4c5361dae19fa659b44165722b614'
