@@ -6,3 +6,12 @@ revisions:
   0.2.10:
     licensed:
       declared: MIT
+  0.3.3:
+    described:
+      sourceLocation:
+        name: split
+        namespace: dominictarr
+        provider: github
+        revision: 3fe392ef2aabce9db7abe8185ec48389ae224883
+        type: git
+        url: 'https://github.com/dominictarr/split/commit/3fe392ef2aabce9db7abe8185ec48389ae224883'
