@@ -1,0 +1,14 @@
+coordinates:
+  name: gulp-jsinspect
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0:
+    described:
+      sourceLocation:
+        name: gulp-jsinspect
+        namespace: alexeyraspopov
+        provider: github
+        revision: d3408e334bba55096312826805d5a19f6bd8f786
+        type: git
+        url: 'https://github.com/alexeyraspopov/gulp-jsinspect/commit/d3408e334bba55096312826805d5a19f6bd8f786'
