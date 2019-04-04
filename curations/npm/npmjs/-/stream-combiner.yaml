@@ -1,0 +1,14 @@
+coordinates:
+  name: stream-combiner
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.4:
+    described:
+      sourceLocation:
+        name: stream-combiner
+        namespace: dominictarr
+        provider: github
+        revision: 18c5fb6bbdf7ce88d46b070b357b06a267293047
+        type: git
+        url: 'https://github.com/dominictarr/stream-combiner/commit/18c5fb6bbdf7ce88d46b070b357b06a267293047'
