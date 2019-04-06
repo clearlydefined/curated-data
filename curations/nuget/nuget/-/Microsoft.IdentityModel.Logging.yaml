@@ -26,3 +26,6 @@ revisions:
         url: 'https://github.com/azuread/azure-activedirectory-identitymodel-extensions-for-dotnet/commit/a8715873df8bf525c89636722e76d69225fe999b'
     licensed:
       declared: MIT
+  5.3.0:
+    licensed:
+      declared: MIT
