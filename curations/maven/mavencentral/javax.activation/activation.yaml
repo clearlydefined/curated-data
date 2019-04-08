@@ -1,0 +1,12 @@
+coordinates:
+  name: activation
+  namespace: javax.activation
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: CDDL-1.0
+  1.1.1:
+    licensed:
+      declared: CDDL-1.0
