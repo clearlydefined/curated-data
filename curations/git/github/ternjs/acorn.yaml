@@ -1,0 +1,9 @@
+coordinates:
+  name: acorn
+  namespace: ternjs
+  provider: github
+  type: git
+revisions:
+  0857d8bb9c3c05e6c8fac9e83fddaefc4f43816f:
+    licensed:
+      declared: MIT
