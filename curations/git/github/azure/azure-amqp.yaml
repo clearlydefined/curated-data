@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-amqp
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  5af755a39c7dd5a4b7f88593f3dfd4305ef6ca3e:
+    licensed:
+      declared: MIT
