@@ -1,0 +1,38 @@
+coordinates:
+  name: lz4
+  namespace: lz4
+  provider: github
+  type: git
+revisions:
+  dfed9fa1d77f0434306d377c4da1f7191d3ba08a:
+    files:
+      - license: BSD-2-Clause AND GPL-2.0
+        path: LICENSE
+      - license: CC0-1.0
+        path: contrib/cmake_unofficial/CMakeLists.txt
+      - attributions:
+          - 'Copyright (c) 2015, Louis P. Santillan <lpsantil@gmail.com>'
+        license: BSD-2-Clause
+        path: contrib/djgpp/Makefile
+      - attributions:
+          - Copyright Kyle Harper
+        license: BSD-2-Clause
+        path: examples/compress_functions.c
+      - attributions:
+          - Copyright Kyle Harper
+        license: BSD-2-Clause
+        path: examples/simple_buffer.c
+      - attributions:
+          - 'Copyright (c) 2011-2014, Yann Collet.'
+        license: BSD-2-Clause
+        path: lib/liblz4.pc.in
+      - attributions:
+          - 'Copyright (c) 2016-present, Przemyslaw Skibinski, Yann Collet, Facebook, Inc.'
+        license: BSD-3-Clause AND NOASSERTION
+        path: tests/test-lz4-speed.py
+      - attributions:
+          - 'Copyright (c) 2011-present, Takayuki Matsuoka'
+        license: GPL-2.0
+        path: tests/test-lz4-versions.py
+    licensed:
+      declared: BSD-2-Clause AND GPL-2.0
