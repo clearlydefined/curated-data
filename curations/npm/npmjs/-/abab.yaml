@@ -1,0 +1,16 @@
+coordinates:
+  name: abab
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0:
+    described:
+      sourceLocation:
+        name: abab
+        namespace: jsdom
+        provider: github
+        revision: b13ba64f359c1160e03e3254afbf7ceb874f5cb1
+        type: git
+        url: 'https://github.com/jsdom/abab/commit/b13ba64f359c1160e03e3254afbf7ceb874f5cb1'
+    licensed:
+      declared: BSD-3-Clause
