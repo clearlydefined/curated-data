@@ -1,0 +1,8 @@
+coordinates:
+  name: LiteDB
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.4:
+    licensed:
+      declared: MIT
