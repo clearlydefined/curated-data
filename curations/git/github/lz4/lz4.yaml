@@ -8,7 +8,7 @@ revisions:
     files:
       - license: BSD-2-Clause AND GPL-2.0
         path: LICENSE
-      - license: NOASSERTION
+      - license: CC0-1.0
         path: contrib/cmake_unofficial/CMakeLists.txt
       - attributions:
           - 'Copyright (c) 2015, Louis P. Santillan <lpsantil@gmail.com>'
