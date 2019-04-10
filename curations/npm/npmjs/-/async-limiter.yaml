@@ -1,0 +1,14 @@
+coordinates:
+  name: async-limiter
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    described:
+      sourceLocation:
+        name: async-limiter
+        namespace: strml
+        provider: github
+        revision: 02c8b498279dc7cc1ecc1c4f6fc9ca320c0ce39b
+        type: git
+        url: 'https://github.com/strml/async-limiter/commit/02c8b498279dc7cc1ecc1c4f6fc9ca320c0ce39b'
