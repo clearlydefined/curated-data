@@ -1,0 +1,17 @@
+coordinates:
+  name: javax.el
+  namespace: org.glassfish
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  3.0.1-b08:
+    described:
+      sourceLocation:
+        name: uel-ri
+        namespace: javaee
+        provider: github
+        revision: 3db30bd3a76056b1fdcc49388f7ef8a5f08706d0
+        type: git
+        url: 'https://github.com/javaee/uel-ri/commit/3db30bd3a76056b1fdcc49388f7ef8a5f08706d0'
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-with-classpath-exception
