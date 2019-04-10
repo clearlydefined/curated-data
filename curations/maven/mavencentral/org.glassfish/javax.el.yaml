@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.el
+  namespace: org.glassfish
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.1-b08:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-with-classpath-exception
