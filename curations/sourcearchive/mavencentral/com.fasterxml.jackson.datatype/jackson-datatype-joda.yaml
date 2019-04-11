@@ -1,0 +1,17 @@
+coordinates:
+  name: jackson-datatype-joda
+  namespace: com.fasterxml.jackson.datatype
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.8.4:
+    described:
+      sourceLocation:
+        name: jackson-datatype-joda
+        namespace: fasterxml
+        provider: github
+        revision: 37d697435b03e9c0c69a20aa00380b31a48e8c37
+        type: git
+        url: 'https://github.com/fasterxml/jackson-datatype-joda/commit/37d697435b03e9c0c69a20aa00380b31a48e8c37'
+    licensed:
+      declared: Apache-2.0
