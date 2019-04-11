@@ -1,0 +1,14 @@
+coordinates:
+  name: spring-ldap
+  namespace: spring-projects
+  provider: github
+  type: git
+revisions:
+  e34028e1e2e3d6dee785853d05454a66bcf22a40:
+    files:
+      - attributions:
+          - '(c) 2005, 2013 jQuery Foundation, Inc.'
+        license: MIT
+        path: samples/user-admin/src/main/webapp/resources/jquery/jquery.min.js
+      - license: NOASSERTION
+        path: lib/ldapbp.jar
