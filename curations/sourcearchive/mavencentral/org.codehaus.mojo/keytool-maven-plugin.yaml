@@ -1,0 +1,17 @@
+coordinates:
+  name: keytool-maven-plugin
+  namespace: org.codehaus.mojo
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  '1.5':
+    described:
+      sourceLocation:
+        name: keytool
+        namespace: mojohaus
+        provider: github
+        revision: 2695a7ead19bb6980a9b1009e7836b9f3ffbbdad
+        type: git
+        url: 'https://github.com/mojohaus/keytool/commit/2695a7ead19bb6980a9b1009e7836b9f3ffbbdad'
+    licensed:
+      declared: Apache-2.0
