@@ -1,0 +1,17 @@
+coordinates:
+  name: jackson-dataformat-xml
+  namespace: com.fasterxml.jackson.dataformat
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.8.4:
+    described:
+      sourceLocation:
+        name: jackson-dataformat-xml
+        namespace: fasterxml
+        provider: github
+        revision: 0521d21d66147a85f17682dcc1fee6a4720c8351
+        type: git
+        url: 'https://github.com/fasterxml/jackson-dataformat-xml/commit/0521d21d66147a85f17682dcc1fee6a4720c8351'
+    licensed:
+      declared: Apache-2.0
