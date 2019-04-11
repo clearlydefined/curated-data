@@ -1,0 +1,17 @@
+coordinates:
+  name: wildfly-common
+  namespace: org.wildfly.common
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.2.0.CR1:
+    described:
+      sourceLocation:
+        name: wildfly-common
+        namespace: wildfly
+        provider: github
+        revision: 0589f59681a910615ecac433809a11f8cd679cae
+        type: git
+        url: 'https://github.com/wildfly/wildfly-common/commit/0589f59681a910615ecac433809a11f8cd679cae'
+    licensed:
+      declared: Apache-2.0
