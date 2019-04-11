@@ -1,0 +1,9 @@
+coordinates:
+  name: wildfly-common
+  namespace: org.wildfly.common
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.0.CR1:
+    licensed:
+      declared: Apache-2.0
