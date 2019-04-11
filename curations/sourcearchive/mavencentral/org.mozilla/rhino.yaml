@@ -1,0 +1,23 @@
+coordinates:
+  name: rhino
+  namespace: org.mozilla
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.7R5:
+    described:
+      facets:
+        data: []
+        examples:
+          - /examples/**
+        tests:
+          - /testsrc/**
+      sourceLocation:
+        name: rhino
+        namespace: mozilla
+        provider: github
+        revision: 584e7ec09c84de6b5e556a450a6b581f087a4aea
+        type: git
+        url: 'https://github.com/mozilla/rhino/commit/584e7ec09c84de6b5e556a450a6b581f087a4aea'
+    licensed:
+      declared: MPL-2.0
