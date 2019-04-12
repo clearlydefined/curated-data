@@ -4,6 +4,17 @@ coordinates:
   provider: mavencentral
   type: sourcearchive
 revisions:
+  2.6.4:
+    described:
+      sourceLocation:
+        name: jackson-annotations
+        namespace: fasterxml
+        provider: github
+        revision: 2678aa5f3ee2455d9edc391cde8fd6170dbb0566
+        type: git
+        url: 'https://github.com/fasterxml/jackson-annotations/commit/2678aa5f3ee2455d9edc391cde8fd6170dbb0566'
+    licensed:
+      declared: Apache-2.0
   2.6.6:
     described:
       sourceLocation:
