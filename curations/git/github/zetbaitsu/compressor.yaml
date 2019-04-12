@@ -1,0 +1,9 @@
+coordinates:
+  name: compressor
+  namespace: zetbaitsu
+  provider: github
+  type: git
+revisions:
+  d69833452767c239f6f5b29a2dc0aca080cf11b2:
+    licensed:
+      declared: Apache-2.0
