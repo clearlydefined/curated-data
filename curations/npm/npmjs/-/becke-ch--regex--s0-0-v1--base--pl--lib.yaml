@@ -1,0 +1,8 @@
+coordinates:
+  name: becke-ch--regex--s0-0-v1--base--pl--lib
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.0:
+    licensed:
+      declared: MIT
