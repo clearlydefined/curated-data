@@ -1,0 +1,8 @@
+coordinates:
+  name: antlr4
+  provider: npmjs
+  type: npm
+revisions:
+  4.7.1:
+    licensed:
+      declared: BSD-3-Clause
