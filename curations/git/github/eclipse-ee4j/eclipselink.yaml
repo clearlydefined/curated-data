@@ -1,0 +1,9 @@
+coordinates:
+  name: eclipselink
+  namespace: eclipse-ee4j
+  provider: github
+  type: git
+revisions:
+  44060b6642658a40a9329b1c0a3138539144f1f7:
+    licensed:
+      declared: EPL-1.0
