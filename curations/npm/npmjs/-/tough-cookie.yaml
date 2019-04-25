@@ -1,0 +1,12 @@
+coordinates:
+  name: tough-cookie
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.0:
+    files:
+      - attributions:
+          - Copyright (c) 2007
+          - 'Copyright (c) 2015, Salesforce.com, Inc.'
+        license: BSD-3-Clause
+        path: package/LICENSE
