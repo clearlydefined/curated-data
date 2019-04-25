@@ -1,0 +1,14 @@
+coordinates:
+  name: async-mutex
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.3:
+    described:
+      sourceLocation:
+        name: async-mutex
+        namespace: dirtyhairy
+        provider: github
+        revision: e03d8ec53dc97c9ea334fd0d72bbf2769b373b3d
+        type: git
+        url: 'https://github.com/dirtyhairy/async-mutex/commit/e03d8ec53dc97c9ea334fd0d72bbf2769b373b3d'
