@@ -1,0 +1,8 @@
+coordinates:
+  name: node-forge
+  provider: npmjs
+  type: npm
+revisions:
+  0.6.38:
+    licensed:
+      declared: BSD-3-Clause OR GPL-2.0-only
