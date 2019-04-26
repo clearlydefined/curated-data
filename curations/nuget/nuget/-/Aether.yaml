@@ -1,0 +1,11 @@
+coordinates:
+  name: Aether
+  provider: nuget
+  type: nuget
+revisions:
+  8.1.1:
+    licensed:
+      declared: MIT
+  8.1.2:
+    licensed:
+      declared: MIT
