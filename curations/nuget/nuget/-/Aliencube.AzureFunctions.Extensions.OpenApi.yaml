@@ -1,0 +1,8 @@
+coordinates:
+  name: Aliencube.AzureFunctions.Extensions.OpenApi
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.2:
+    licensed:
+      declared: MIT
