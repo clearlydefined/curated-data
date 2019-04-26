@@ -1,0 +1,14 @@
+coordinates:
+  name: AsyncEnumerator
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.1:
+    licensed:
+      declared: MIT
+  2.2.2:
+    licensed:
+      declared: MIT
+  3.0.0-beta1:
+    licensed:
+      declared: MIT
