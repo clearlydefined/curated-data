@@ -1,0 +1,38 @@
+coordinates:
+  name: AutoFixture.AutoMoq
+  provider: nuget
+  type: nuget
+revisions:
+  3.44.0:
+    licensed:
+      declared: MIT
+  3.50.1:
+    licensed:
+      declared: MIT
+  3.50.2:
+    licensed:
+      declared: MIT
+  3.50.5:
+    licensed:
+      declared: MIT
+  4.1.0:
+    licensed:
+      declared: MIT
+  4.2.1:
+    licensed:
+      declared: MIT
+  4.4.0:
+    licensed:
+      declared: MIT
+  4.5.0:
+    licensed:
+      declared: MIT
+  4.5.1:
+    licensed:
+      declared: MIT
+  4.6.0:
+    licensed:
+      declared: MIT
+  4.7.0:
+    licensed:
+      declared: MIT
