@@ -1,0 +1,22 @@
+coordinates:
+  name: getconf
+  namespace: polyconseil
+  provider: github
+  type: git
+revisions:
+  0c83f3e72497c0ad60b0826707944918cefcfaef:
+    files:
+      - license: BSD-2-Clause
+        path: tests/test_base.py
+      - license: BSD-2-Clause
+        path: getconf/base.py
+      - license: BSD-2-Clause
+        path: setup.py
+      - license: BSD-2-Clause
+        path: getconf/__init__.py
+      - license: BSD-2-Clause
+        path: getconf/compat.py
+      - license: BSD-2-Clause
+        path: README.rst
+    licensed:
+      declared: BSD-2-Clause
