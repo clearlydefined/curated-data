@@ -1,0 +1,17 @@
+coordinates:
+  name: AdaptiveCards.Rendering.Wpf
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT
+  1.0.3:
+    licensed:
+      declared: MIT
+  1.1.0:
+    licensed:
+      declared: MIT
+  1.1.2:
+    licensed:
+      declared: MIT
