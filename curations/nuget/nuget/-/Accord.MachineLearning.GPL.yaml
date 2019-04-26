@@ -1,0 +1,11 @@
+coordinates:
+  name: Accord.MachineLearning.GPL
+  provider: nuget
+  type: nuget
+revisions:
+  3.7.0:
+    licensed:
+      declared: GPL-3.0
+  3.8.0:
+    licensed:
+      declared: GPL-3.0
