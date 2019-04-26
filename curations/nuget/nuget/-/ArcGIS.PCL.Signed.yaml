@@ -1,0 +1,8 @@
+coordinates:
+  name: ArcGIS.PCL.Signed
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.1:
+    licensed:
+      declared: MIT
