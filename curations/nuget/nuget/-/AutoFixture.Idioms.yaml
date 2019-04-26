@@ -1,0 +1,8 @@
+coordinates:
+  name: AutoFixture.Idioms
+  provider: nuget
+  type: nuget
+revisions:
+  3.50.2:
+    licensed:
+      declared: MIT
