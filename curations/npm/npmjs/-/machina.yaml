@@ -1,0 +1,8 @@
+coordinates:
+  name: machina
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.2:
+    licensed:
+      declared: MIT OR GPL-2.0-or-later
