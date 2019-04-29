@@ -1,0 +1,16 @@
+coordinates:
+  name: net-smtp-proxy
+  provider: rubygems
+  type: gem
+revisions:
+  2.0.0:
+    described:
+      sourceLocation:
+        name: net-smtp-proxy
+        namespace: camertron
+        provider: github
+        revision: f596f67d96bbf0e5866c28c84b7389e3c4c1a222
+        type: git
+        url: 'https://github.com/camertron/net-smtp-proxy/commit/f596f67d96bbf0e5866c28c84b7389e3c4c1a222'
+    licensed:
+      declared: MIT
