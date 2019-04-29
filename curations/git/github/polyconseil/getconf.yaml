@@ -19,4 +19,4 @@ revisions:
       - license: BSD-2-Clause
         path: README.rst
     licensed:
-      declared: BSD-2-Clause
+      declared: BSD-3-Clause
