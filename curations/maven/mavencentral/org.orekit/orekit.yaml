@@ -1,0 +1,12 @@
+coordinates:
+  name: orekit
+  namespace: org.orekit
+  provider: mavencentral
+  type: maven
+revisions:
+  9.3.1:
+    described:
+      releaseDate: '2019-03-16'
+    files:
+      - license: Apache-2.0
+        path: META-INF/LICENSE.txt
