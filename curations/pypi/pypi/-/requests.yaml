@@ -1,0 +1,32 @@
+coordinates:
+  name: requests
+  provider: pypi
+  type: pypi
+revisions:
+  2.20.0:
+    described:
+      sourceLocation:
+        name: requests
+        namespace: kennethreitz
+        provider: github
+        revision: bd840450c0d1e9db3bf62382c15d96378cc3a056
+        type: git
+        url: 'https://github.com/kennethreitz/requests/commit/bd840450c0d1e9db3bf62382c15d96378cc3a056'
+  2.20.1:
+    described:
+      sourceLocation:
+        name: requests
+        namespace: kennethreitz
+        provider: github
+        revision: 6cfbe1aedd56f8c2f9ff8b968efe65b22669795b
+        type: git
+        url: 'https://github.com/kennethreitz/requests/commit/6cfbe1aedd56f8c2f9ff8b968efe65b22669795b'
+  2.21.0:
+    described:
+      sourceLocation:
+        name: requests
+        namespace: kennethreitz
+        provider: github
+        revision: 5a1e738ea9c399c3f59977f2f98b083986d6037a
+        type: git
+        url: 'https://github.com/kennethreitz/requests/commit/5a1e738ea9c399c3f59977f2f98b083986d6037a'
