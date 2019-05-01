@@ -1,0 +1,8 @@
+coordinates:
+  name: Blun.ConfigurationManager
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.5686.2674:
+    licensed:
+      declared: MIT
