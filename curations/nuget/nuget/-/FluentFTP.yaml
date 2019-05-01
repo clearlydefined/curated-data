@@ -1,0 +1,17 @@
+coordinates:
+  name: FluentFTP
+  provider: nuget
+  type: nuget
+revisions:
+  16.5.0:
+    licensed:
+      declared: MIT
+  17.5.0:
+    licensed:
+      declared: MIT
+  19.2.2:
+    licensed:
+      declared: MIT
+  23.1.0:
+    licensed:
+      declared: MIT
