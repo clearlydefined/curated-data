@@ -1,0 +1,11 @@
+coordinates:
+  name: BenchmarkDotNet.Diagnostics.Windows
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.12:
+    licensed:
+      declared: MIT
+  0.11.3:
+    licensed:
+      declared: MIT
