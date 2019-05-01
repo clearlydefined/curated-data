@@ -1,0 +1,8 @@
+coordinates:
+  name: Emgu.CV
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.0.2721:
+    licensed:
+      declared: GPL-3.0
