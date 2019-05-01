@@ -1,0 +1,8 @@
+coordinates:
+  name: com.playfab.csharpgsdk
+  provider: nuget
+  type: nuget
+revisions:
+  0.7.190313:
+    licensed:
+      declared: Apache-2.0
