@@ -1,0 +1,35 @@
+coordinates:
+  name: HtmlSanitizer
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.105:
+    licensed:
+      declared: MIT
+  3.4.156:
+    licensed:
+      declared: MIT
+  4.0.181:
+    licensed:
+      declared: MIT
+  4.0.183:
+    licensed:
+      declared: MIT
+  4.0.185:
+    licensed:
+      declared: MIT
+  4.0.187:
+    licensed:
+      declared: MIT
+  4.0.197:
+    licensed:
+      declared: MIT
+  4.0.199:
+    licensed:
+      declared: MIT
+  4.0.205:
+    licensed:
+      declared: MIT
+  4.0.207:
+    licensed:
+      declared: MIT
