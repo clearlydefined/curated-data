@@ -1,0 +1,14 @@
+coordinates:
+  name: FsLexYacc.Runtime
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.4:
+    licensed:
+      declared: MIT
+  7.0.6:
+    licensed:
+      declared: MIT
+  9.0.2:
+    licensed:
+      declared: MIT
