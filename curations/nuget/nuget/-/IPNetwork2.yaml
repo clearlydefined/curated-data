@@ -1,0 +1,26 @@
+coordinates:
+  name: IPNetwork2
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.3:
+    licensed:
+      declared: BSD-2-Clause
+  2.1.0:
+    licensed:
+      declared: BSD-2-Clause
+  2.1.1:
+    licensed:
+      declared: BSD-2-Clause
+  2.1.2:
+    licensed:
+      declared: BSD-2-Clause
+  2.2.0.78:
+    licensed:
+      declared: BSD-2-Clause
+  2.2.0.94:
+    licensed:
+      declared: BSD-2-Clause
+  2.3.0.97:
+    licensed:
+      declared: BSD-2-Clause
