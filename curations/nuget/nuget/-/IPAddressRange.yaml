@@ -1,0 +1,17 @@
+coordinates:
+  name: IPAddressRange
+  provider: nuget
+  type: nuget
+revisions:
+  1.6.2.7:
+    licensed:
+      declared: MPL-2.0
+  2.0.0.3:
+    licensed:
+      declared: MPL-2.0
+  2.0.0.4:
+    licensed:
+      declared: MPL-2.0
+  3.2.0:
+    licensed:
+      declared: MPL-2.0
