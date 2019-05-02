@@ -1,0 +1,38 @@
+coordinates:
+  name: Microsoft.Azure.Management.TrafficManager
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.3-preview:
+    licensed:
+      declared: MIT
+  1.0.0:
+    licensed:
+      declared: MIT
+  1.1.0:
+    licensed:
+      declared: MIT
+  2.0.2-preview:
+    licensed:
+      declared: MIT
+  2.1.0-preview:
+    licensed:
+      declared: MIT
+  2.2.0-preview:
+    licensed:
+      declared: MIT
+  2.3.0-preview:
+    licensed:
+      declared: MIT
+  2.4.0-preview:
+    licensed:
+      declared: MIT
+  2.5.0:
+    licensed:
+      declared: MIT
+  2.5.2:
+    licensed:
+      declared: MIT
+  2.5.3:
+    licensed:
+      declared: MIT
