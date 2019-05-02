@@ -1,0 +1,20 @@
+coordinates:
+  name: Microsoft.WindowsAzure.Management.HDInsight
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.10:
+    licensed:
+      declared: MIT
+  1.5.12:
+    licensed:
+      declared: MIT
+  1.5.13:
+    licensed:
+      declared: MIT
+  1.5.8:
+    licensed:
+      declared: MIT
+  1.5.9:
+    licensed:
+      declared: MIT
