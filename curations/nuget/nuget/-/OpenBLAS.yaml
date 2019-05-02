@@ -1,0 +1,11 @@
+coordinates:
+  name: OpenBLAS
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.14:
+    licensed:
+      declared: BSD-3-Clause
+  0.2.14.1:
+    licensed:
+      declared: BSD-3-Clause
