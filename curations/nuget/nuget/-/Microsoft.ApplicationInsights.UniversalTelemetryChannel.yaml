@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.ApplicationInsights.UniversalTelemetryChannel
+  provider: nuget
+  type: nuget
+revisions:
+  0.17.2-build00169:
+    licensed:
+      declared: MIT
