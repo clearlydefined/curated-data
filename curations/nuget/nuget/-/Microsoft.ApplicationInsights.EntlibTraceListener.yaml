@@ -1,0 +1,11 @@
+coordinates:
+  name: Microsoft.ApplicationInsights.EntlibTraceListener
+  provider: nuget
+  type: nuget
+revisions:
+  0.4.0-build00213:
+    licensed:
+      declared: MIT
+  0.7.0-build00234:
+    licensed:
+      declared: MIT
