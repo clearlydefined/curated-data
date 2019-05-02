@@ -1,0 +1,17 @@
+coordinates:
+  name: Microsoft.Azure.Cosmos.Table
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.0-preview:
+    licensed:
+      declared: MIT
+  0.10.1-preview:
+    licensed:
+      declared: MIT
+  0.9.1-preview:
+    licensed:
+      declared: MIT
+  1.0.0:
+    licensed:
+      declared: MIT
