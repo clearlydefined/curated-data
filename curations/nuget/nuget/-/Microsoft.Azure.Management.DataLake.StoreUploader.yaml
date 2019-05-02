@@ -1,0 +1,26 @@
+coordinates:
+  name: Microsoft.Azure.Management.DataLake.StoreUploader
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.0-preview:
+    licensed:
+      declared: MIT
+  0.10.1-preview:
+    licensed:
+      declared: MIT
+  0.10.6-preview:
+    licensed:
+      declared: MIT
+  0.10.7-preview:
+    licensed:
+      declared: MIT
+  0.9.6-preview:
+    licensed:
+      declared: MIT
+  1.0.0-preview:
+    licensed:
+      declared: MIT
+  1.0.1-preview:
+    licensed:
+      declared: MIT
