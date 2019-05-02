@@ -3,7 +3,148 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.0.0.2000:
+    licensed:
+      declared: BSD-3-Clause
+  2.0.1.2:
+    licensed:
+      declared: BSD-3-Clause
+  2.1.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.1.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.2.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.2.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.0.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.0.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.1.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.1.2:
+    licensed:
+      declared: BSD-3-Clause
+  4.2.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.2.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.2.2:
+    licensed:
+      declared: BSD-3-Clause
+  4.2.3:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.10:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.11:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.2:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.3:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.4:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.5:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.6:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.7:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.8:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.9:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.10:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.11:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.12:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.13:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.2:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.3:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.4:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.5:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.6:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.8:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.9:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.0-beta07:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.0-rc02:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.0-rc06:
+    licensed:
+      declared: BSD-3-Clause
   4.5.0-rc07:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.10:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.11:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.2:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.3:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.4:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.5:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.6:
     licensed:
       declared: BSD-3-Clause
   4.5.7:
@@ -14,6 +155,36 @@ revisions:
         path: NLog.nuspec
     licensed:
       declared: BSD-3-Clause
+  4.5.8:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.9:
+    licensed:
+      declared: BSD-3-Clause
+  4.6.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.6.0-rc1:
+    licensed:
+      declared: BSD-3-Clause
+  4.6.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.6.2:
+    licensed:
+      declared: BSD-3-Clause
   5.0.0-beta05:
+    licensed:
+      declared: BSD-3-Clause
+  5.0.0-beta06:
+    licensed:
+      declared: BSD-3-Clause
+  5.0.0-beta07:
+    licensed:
+      declared: BSD-3-Clause
+  5.0.0-beta09:
+    licensed:
+      declared: BSD-3-Clause
+  5.0.0-beta11:
     licensed:
       declared: BSD-3-Clause
