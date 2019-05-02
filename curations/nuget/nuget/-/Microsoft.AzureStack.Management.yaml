@@ -1,0 +1,11 @@
+coordinates:
+  name: Microsoft.AzureStack.Management
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.8-preview:
+    licensed:
+      declared: MIT
+  0.9.1-preview:
+    licensed:
+      declared: MIT
