@@ -1,0 +1,11 @@
+coordinates:
+  name: Microsoft.Diagnostics.Instrumentation.Extensions.Intercept
+  provider: nuget
+  type: nuget
+revisions:
+  0.12.0-build02810:
+    licensed:
+      declared: MIT
+  0.13.0-build22724:
+    licensed:
+      declared: MIT
