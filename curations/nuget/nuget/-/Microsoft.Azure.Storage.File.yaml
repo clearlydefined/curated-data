@@ -1,0 +1,14 @@
+coordinates:
+  name: Microsoft.Azure.Storage.File
+  provider: nuget
+  type: nuget
+revisions:
+  9.0.0-preview:
+    licensed:
+      declared: MIT
+  9.4.0-preview:
+    licensed:
+      declared: MIT
+  9.4.2:
+    licensed:
+      declared: MIT
