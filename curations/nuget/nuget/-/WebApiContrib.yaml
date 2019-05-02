@@ -1,0 +1,11 @@
+coordinates:
+  name: WebApiContrib
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.14:
+    licensed:
+      declared: MIT
+  2.0.0:
+    licensed:
+      declared: MIT
