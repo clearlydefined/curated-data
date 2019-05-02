@@ -1,0 +1,38 @@
+coordinates:
+  name: NLog.Web.AspNetCore
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.4:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.0-rc2:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.4:
+    licensed:
+      declared: BSD-3-Clause
+  4.6.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.7.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.7.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.8.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.8.1:
+    licensed:
+      declared: BSD-3-Clause
