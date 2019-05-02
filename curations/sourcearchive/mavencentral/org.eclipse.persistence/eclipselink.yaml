@@ -14,4 +14,4 @@ revisions:
         type: git
         url: 'https://github.com/eclipse-ee4j/eclipselink/commit/44060b6642658a40a9329b1c0a3138539144f1f7'
     licensed:
-      declared: 'EPL-1.0 '
+      declared: 'EPL-1.0 AND BSD-3-Clause'
