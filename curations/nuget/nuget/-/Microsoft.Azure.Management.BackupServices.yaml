@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Management.BackupServices
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.5-preview:
+    licensed:
+      declared: MIT
