@@ -1,0 +1,8 @@
+coordinates:
+  name: PoorMansTSQLFormatter
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.3.1:
+    licensed:
+      declared: AGPL-3.0
