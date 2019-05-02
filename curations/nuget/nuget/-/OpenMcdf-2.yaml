@@ -1,0 +1,8 @@
+coordinates:
+  name: OpenMcdf-2
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.1.5:
+    licensed:
+      declared: MPL-2.0
