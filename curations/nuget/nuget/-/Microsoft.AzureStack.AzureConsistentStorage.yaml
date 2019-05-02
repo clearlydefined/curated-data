@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.AzureStack.AzureConsistentStorage
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.2-preview:
+    licensed:
+      declared: MIT
