@@ -1,0 +1,44 @@
+coordinates:
+  name: Microsoft.Azure.KeyVault.Extensions
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.1-preview:
+    licensed:
+      declared: MIT
+  1.0.0:
+    licensed:
+      declared: MIT
+  1.0.1:
+    licensed:
+      declared: MIT
+  1.0.2:
+    licensed:
+      declared: MIT
+  1.0.3:
+    licensed:
+      declared: MIT
+  1.0.4:
+    licensed:
+      declared: MIT
+  1.0.5:
+    licensed:
+      declared: MIT
+  2.0.4:
+    licensed:
+      declared: MIT
+  2.0.5:
+    licensed:
+      declared: MIT
+  2.4.0-preview:
+    licensed:
+      declared: MIT
+  3.0.0:
+    licensed:
+      declared: MIT
+  3.0.1:
+    licensed:
+      declared: MIT
+  3.0.3:
+    licensed:
+      declared: MIT
