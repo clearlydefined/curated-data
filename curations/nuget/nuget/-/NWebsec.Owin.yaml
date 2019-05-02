@@ -1,0 +1,11 @@
+coordinates:
+  name: NWebsec.Owin
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.1:
+    licensed:
+      declared: BSD-3-Clause
+  3.1.0:
+    licensed:
+      declared: BSD-3-Clause
