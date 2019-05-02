@@ -1,0 +1,29 @@
+coordinates:
+  name: Microsoft.WindowsAzure.Management.WebSites
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.13-preview:
+    licensed:
+      declared: MIT
+  0.9.2-preview:
+    licensed:
+      declared: MIT
+  1.0.0:
+    licensed:
+      declared: MIT
+  2.0.1:
+    licensed:
+      declared: MIT
+  3.0.0:
+    licensed:
+      declared: MIT
+  4.0.0:
+    licensed:
+      declared: MIT
+  4.5.0-prerelease:
+    licensed:
+      declared: MIT
+  5.0.0-prerelease:
+    licensed:
+      declared: MIT
