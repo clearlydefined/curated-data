@@ -1,0 +1,23 @@
+coordinates:
+  name: Microsoft.Azure.Management.ApiManagement
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.2-preview:
+    licensed:
+      declared: MIT
+  2.0.1-preview:
+    licensed:
+      declared: MIT
+  4.0.0-preview:
+    licensed:
+      declared: MIT
+  4.0.3-preview:
+    licensed:
+      declared: MIT
+  4.0.5-preview:
+    licensed:
+      declared: MIT
+  4.0.6-preview:
+    licensed:
+      declared: MIT
