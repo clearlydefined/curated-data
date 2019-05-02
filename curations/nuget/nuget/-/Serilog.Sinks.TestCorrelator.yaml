@@ -1,0 +1,14 @@
+coordinates:
+  name: Serilog.Sinks.TestCorrelator
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.2:
+    licensed:
+      declared: MIT
+  3.0.3:
+    licensed:
+      declared: MIT
+  3.1.0:
+    licensed:
+      declared: MIT
