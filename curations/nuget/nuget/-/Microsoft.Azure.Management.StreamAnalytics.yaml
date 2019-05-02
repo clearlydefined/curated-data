@@ -1,0 +1,35 @@
+coordinates:
+  name: Microsoft.Azure.Management.StreamAnalytics
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.1:
+    licensed:
+      declared: MIT
+  1.7.0:
+    licensed:
+      declared: MIT
+  1.7.1:
+    licensed:
+      declared: MIT
+  1.7.3:
+    licensed:
+      declared: MIT
+  1.8.0:
+    licensed:
+      declared: MIT
+  1.8.1:
+    licensed:
+      declared: MIT
+  1.8.3:
+    licensed:
+      declared: MIT
+  2.0.0:
+    licensed:
+      declared: MIT
+  2.0.1:
+    licensed:
+      declared: MIT
+  2.1.0:
+    licensed:
+      declared: MIT
