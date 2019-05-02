@@ -1,0 +1,38 @@
+coordinates:
+  name: Microsoft.Azure.Management.Batch
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.0:
+    licensed:
+      declared: MIT
+  1.5.0:
+    licensed:
+      declared: MIT
+  2.0.0:
+    licensed:
+      declared: MIT
+  2.1.0:
+    licensed:
+      declared: MIT
+  3.0.0:
+    licensed:
+      declared: MIT
+  4.2.0:
+    licensed:
+      declared: MIT
+  4.2.1:
+    licensed:
+      declared: MIT
+  5.0.0:
+    licensed:
+      declared: MIT
+  5.1.0:
+    licensed:
+      declared: MIT
+  6.0.0:
+    licensed:
+      declared: MIT
+  7.0.0:
+    licensed:
+      declared: MIT
