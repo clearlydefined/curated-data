@@ -1,0 +1,20 @@
+coordinates:
+  name: Argu
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0:
+    licensed:
+      declared: MIT
+  3.7.0:
+    licensed:
+      declared: MIT
+  4.2.1:
+    licensed:
+      declared: MIT
+  5.1.0:
+    licensed:
+      declared: MIT
+  5.2.0:
+    licensed:
+      declared: MIT
