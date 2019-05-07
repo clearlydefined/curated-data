@@ -1,0 +1,9 @@
+coordinates:
+  name: evo-inflector
+  namespace: org.atteo
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.2.2:
+    licensed:
+      declared: Apache-2.0
