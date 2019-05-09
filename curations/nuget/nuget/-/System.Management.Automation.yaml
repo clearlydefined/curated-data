@@ -1,0 +1,8 @@
+coordinates:
+  name: System.Management.Automation
+  provider: nuget
+  type: nuget
+revisions:
+  6.1.7601.17515:
+    licensed:
+      declared: MIT
