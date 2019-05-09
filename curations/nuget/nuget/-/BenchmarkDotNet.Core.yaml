@@ -1,0 +1,35 @@
+coordinates:
+  name: BenchmarkDotNet.Core
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.0:
+    licensed:
+      declared: MIT
+  0.10.10:
+    licensed:
+      declared: MIT
+  0.10.11:
+    licensed:
+      declared: MIT
+  0.10.12:
+    licensed:
+      declared: MIT
+  0.10.13:
+    licensed:
+      declared: MIT
+  0.10.14:
+    licensed:
+      declared: MIT
+  0.10.2:
+    licensed:
+      declared: MIT
+  0.10.3:
+    licensed:
+      declared: MIT
+  0.10.9:
+    licensed:
+      declared: MIT
+  0.9.9:
+    licensed:
+      declared: MIT
