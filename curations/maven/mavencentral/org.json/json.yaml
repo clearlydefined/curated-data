@@ -1,0 +1,9 @@
+coordinates:
+  name: json
+  namespace: org.json
+  provider: mavencentral
+  type: maven
+revisions:
+  '20140107':
+    licensed:
+      declared: JSON
