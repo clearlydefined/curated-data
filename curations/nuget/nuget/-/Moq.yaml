@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  4.2.1402.2112:
+    licensed:
+      declared: BSD-3-Clause
   4.2.1510.2205:
     described:
       releaseDate: '2015-10-22'
