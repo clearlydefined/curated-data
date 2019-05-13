@@ -5,5 +5,13 @@ coordinates:
   type: sourcearchive
 revisions:
   1.2.2:
+    described:
+      sourceLocation:
+        name: evo-inflector
+        namespace: atteo
+        provider: github
+        revision: 066c8caed1e4c42b9b5dd548abdff06373c87548
+        type: git
+        url: 'https://github.com/atteo/evo-inflector/commit/066c8caed1e4c42b9b5dd548abdff06373c87548'
     licensed:
       declared: Apache-2.0
