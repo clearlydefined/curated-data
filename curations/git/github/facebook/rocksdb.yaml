@@ -1,0 +1,9 @@
+coordinates:
+  name: rocksdb
+  namespace: facebook
+  provider: github
+  type: git
+revisions:
+  c2ca7a9f99ac972bb547ef940b0da05da2c4c02d:
+    licensed:
+      declared: Apache-2.0 OR GPL-2.0-or-later
