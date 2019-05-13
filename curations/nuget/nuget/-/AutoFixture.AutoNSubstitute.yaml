@@ -1,0 +1,17 @@
+coordinates:
+  name: AutoFixture.AutoNSubstitute
+  provider: nuget
+  type: nuget
+revisions:
+  3.37.3:
+    licensed:
+      declared: MIT
+  3.50.2:
+    licensed:
+      declared: MIT
+  3.51.0:
+    licensed:
+      declared: MIT
+  4.5.0:
+    licensed:
+      declared: MIT

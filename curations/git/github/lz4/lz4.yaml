@@ -5,6 +5,12 @@ coordinates:
   type: git
 revisions:
   dfed9fa1d77f0434306d377c4da1f7191d3ba08a:
+    described:
+      facets:
+        examples:
+          - examples
+        tests:
+          - tests
     files:
       - license: BSD-2-Clause AND GPL-2.0
         path: LICENSE
