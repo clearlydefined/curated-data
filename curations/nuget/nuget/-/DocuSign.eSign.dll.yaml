@@ -1,0 +1,26 @@
+coordinates:
+  name: DocuSign.eSign.dll
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.6:
+    licensed:
+      declared: MIT
+  2.1.0:
+    licensed:
+      declared: MIT
+  2.1.10:
+    licensed:
+      declared: MIT
+  2.1.7:
+    licensed:
+      declared: MIT
+  2.1.9:
+    licensed:
+      declared: MIT
+  3.0.1:
+    licensed:
+      declared: MIT
+  3.1.3:
+    licensed:
+      declared: MIT
