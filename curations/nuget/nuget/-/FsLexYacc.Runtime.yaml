@@ -5,10 +5,10 @@ coordinates:
 revisions:
   6.0.4:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   7.0.6:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   9.0.2:
     licensed:
       declared: MIT
