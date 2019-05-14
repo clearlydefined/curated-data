@@ -5,34 +5,34 @@ coordinates:
 revisions:
   3.0.2:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   3.1.2:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   3.1.2.5:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   4.0.0.1:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   4.1.0:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   4.1.0.2:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   4.1.18:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   4.1.2:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   4.2.1:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   4.2.3:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   4.3.1:
     licensed:
       declared: MIT
