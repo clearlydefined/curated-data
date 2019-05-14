@@ -1,0 +1,8 @@
+coordinates:
+  name: HockeySDK.WINRT
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.5:
+    licensed:
+      declared: MIT
