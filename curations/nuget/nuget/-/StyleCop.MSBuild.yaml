@@ -1,9 +1,11 @@
 coordinates:
   name: StyleCop.MSBuild
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
+  4.7.54:
+    licensed:
+      declared: MIT
   4.7.54.0:
     described:
       releaseDate: '2016-05-14'

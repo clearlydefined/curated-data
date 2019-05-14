@@ -1,0 +1,8 @@
+coordinates:
+  name: Elmah.Contrib.WebApi
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.10.25:
+    licensed:
+      declared: MS-PL

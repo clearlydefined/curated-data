@@ -1,0 +1,14 @@
+coordinates:
+  name: ts-morph
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.0:
+    described:
+      sourceLocation:
+        name: ts-morph
+        namespace: dsherret
+        provider: github
+        revision: 504b8db49c080da379d2f534170c3bc6f79062e7
+        type: git
+        url: 'https://github.com/dsherret/ts-morph/commit/504b8db49c080da379d2f534170c3bc6f79062e7'

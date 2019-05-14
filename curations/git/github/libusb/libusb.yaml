@@ -1,0 +1,9 @@
+coordinates:
+  name: libusb
+  namespace: libusb
+  provider: github
+  type: git
+revisions:
+  b5991a9e02e59a842a8ea2e0235cf319f2ec6cd1:
+    licensed:
+      declared: LGPL-2.1-or-later

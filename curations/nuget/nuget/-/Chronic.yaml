@@ -1,0 +1,8 @@
+coordinates:
+  name: Chronic
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.2:
+    licensed:
+      declared: MIT

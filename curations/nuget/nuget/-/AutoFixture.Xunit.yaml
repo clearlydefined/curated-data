@@ -1,0 +1,8 @@
+coordinates:
+  name: AutoFixture.Xunit
+  provider: nuget
+  type: nuget
+revisions:
+  3.50.2:
+    licensed:
+      declared: MIT

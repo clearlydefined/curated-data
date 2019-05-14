@@ -1,0 +1,11 @@
+coordinates:
+  name: Deedle
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.5:
+    licensed:
+      declared: BSD-2-Clause
+  2.0.0-beta01:
+    licensed:
+      declared: BSD-2-Clause
