@@ -1,0 +1,9 @@
+coordinates:
+  name: llvm-project
+  namespace: llvm
+  provider: github
+  type: git
+revisions:
+  d2298e74235598f15594fe2c99bbac870a507c59:
+    licensed:
+      declared: NCSA
