@@ -1,0 +1,65 @@
+coordinates:
+  name: LibGit2Sharp
+  provider: nuget
+  type: nuget
+revisions:
+  0.18.1:
+    licensed:
+      declared: MIT
+  0.19.0:
+    licensed:
+      declared: MIT
+  0.21.0.176:
+    licensed:
+      declared: MIT
+  0.22.0:
+    licensed:
+      declared: MIT
+  0.22.0-pre20150716071016:
+    licensed:
+      declared: MIT
+  0.22.0-pre20151023210959:
+    licensed:
+      declared: MIT
+  0.23.0-pre20160922233542:
+    licensed:
+      declared: MIT
+  0.23.1:
+    licensed:
+      declared: MIT
+  0.24.0:
+    licensed:
+      declared: MIT
+  0.24.0-pre20170124092542:
+    licensed:
+      declared: MIT
+  0.24.1:
+    licensed:
+      declared: MIT
+  0.25.0-preview-0033:
+    licensed:
+      declared: MIT
+  0.25.0-preview-0073:
+    licensed:
+      declared: MIT
+  0.25.2:
+    licensed:
+      declared: MIT
+  0.25.3:
+    licensed:
+      declared: MIT
+  0.25.4:
+    licensed:
+      declared: MIT
+  0.26.0-preview-0027:
+    licensed:
+      declared: MIT
+  0.26.0-preview-0062:
+    licensed:
+      declared: MIT
+  0.26.0-preview-0070:
+    licensed:
+      declared: MIT
+  0.26.0-preview-0080:
+    licensed:
+      declared: MIT
