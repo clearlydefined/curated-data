@@ -1,0 +1,9 @@
+coordinates:
+  name: ryu
+  namespace: ulfjack
+  provider: github
+  type: git
+revisions:
+  59661c3f883dfd39cef6dc8eaf2fcbaae53597e8:
+    licensed:
+      declared: Apache-2.0
