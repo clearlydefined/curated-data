@@ -1,0 +1,14 @@
+coordinates:
+  name: MaterialDesignThemes
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.0.1044:
+    licensed:
+      declared: MIT
+  2.4.1.1101:
+    licensed:
+      declared: MIT
+  2.5.0.1205:
+    licensed:
+      declared: MIT
