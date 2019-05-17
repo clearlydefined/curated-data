@@ -1,0 +1,38 @@
+coordinates:
+  name: Microsoft.ApplicationInsights.TraceListener
+  provider: nuget
+  type: nuget
+revisions:
+  0.11.1-build00694:
+    licensed:
+      declared: MIT
+  0.13.2-build00132:
+    licensed:
+      declared: MIT
+  0.14.0-build20632:
+    licensed:
+      declared: MIT
+  1.0.0:
+    licensed:
+      declared: MIT
+  1.1.0:
+    licensed:
+      declared: MIT
+  1.2.1:
+    licensed:
+      declared: MIT
+  1.2.3:
+    licensed:
+      declared: MIT
+  1.2.5:
+    licensed:
+      declared: MIT
+  1.2.6:
+    licensed:
+      declared: MIT
+  2.0.0:
+    licensed:
+      declared: MIT
+  2.1.0:
+    licensed:
+      declared: MIT
