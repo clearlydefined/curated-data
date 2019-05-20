@@ -5,7 +5,7 @@ coordinates:
 revisions:
   0.50.1-prerelease:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   0.50.2-prerelease:
     licensed:
       declared: MIT
