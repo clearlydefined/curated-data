@@ -1,0 +1,29 @@
+coordinates:
+  name: Microsoft.Azure.Graph.RBAC
+  provider: nuget
+  type: nuget
+revisions:
+  1.7.0-preview:
+    licensed:
+      declared: Apache-2.0
+  2.2.0-preview:
+    licensed:
+      declared: MIT
+  2.2.2-preview:
+    licensed:
+      declared: MIT
+  3.2.0-preview:
+    licensed:
+      declared: MIT
+  3.3.0-preview:
+    licensed:
+      declared: MIT
+  3.4.0-preview:
+    licensed:
+      declared: MIT
+  3.5.0-preview:
+    licensed:
+      declared: MIT
+  3.5.1-preview:
+    licensed:
+      declared: MIT
