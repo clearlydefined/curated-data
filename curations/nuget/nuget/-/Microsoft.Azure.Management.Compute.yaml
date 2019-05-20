@@ -95,16 +95,16 @@ revisions:
       declared: MIT
   5.0.1-preview:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   6.0.0-preview:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   7.0.0-preview:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   8.0.0:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   8.2.0:
     licensed:
       declared: MIT
