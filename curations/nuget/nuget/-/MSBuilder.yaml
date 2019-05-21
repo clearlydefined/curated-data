@@ -1,0 +1,11 @@
+coordinates:
+  name: MSBuilder
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.0:
+    licensed:
+      declared: MIT
+  0.2.0:
+    licensed:
+      declared: MIT
