@@ -1,0 +1,23 @@
+coordinates:
+  name: Microsoft.Azure.Storage.Blob
+  provider: nuget
+  type: nuget
+revisions:
+  8.7.0-preview:
+    licensed:
+      declared: MIT
+  9.0.0-preview:
+    licensed:
+      declared: MIT
+  9.4.0:
+    licensed:
+      declared: MIT
+  9.4.0-preview:
+    licensed:
+      declared: MIT
+  9.4.1:
+    licensed:
+      declared: MIT
+  9.4.2:
+    licensed:
+      declared: MIT
