@@ -1,0 +1,32 @@
+coordinates:
+  name: Microsoft.Azure.Management.Logic
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.0-preview:
+    licensed:
+      declared: MIT
+  0.2.0-preview:
+    licensed:
+      declared: MIT
+  0.2.1-preview:
+    licensed:
+      declared: MIT
+  1.0.0:
+    licensed:
+      declared: MIT
+  2.0.0:
+    licensed:
+      declared: MIT
+  2.1.0:
+    licensed:
+      declared: MIT
+  3.0.0:
+    licensed:
+      declared: MIT
+  4.0.0:
+    licensed:
+      declared: MIT
+  4.1.0:
+    licensed:
+      declared: MIT
