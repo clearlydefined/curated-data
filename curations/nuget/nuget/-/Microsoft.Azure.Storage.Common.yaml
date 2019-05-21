@@ -1,0 +1,26 @@
+coordinates:
+  name: Microsoft.Azure.Storage.Common
+  provider: nuget
+  type: nuget
+revisions:
+  8.6.0-preview:
+    licensed:
+      declared: MIT
+  8.7.0.1-preview:
+    licensed:
+      declared: MIT
+  9.0.0-preview:
+    licensed:
+      declared: MIT
+  9.0.0.1-preview:
+    licensed:
+      declared: MIT
+  9.4.0.2-preview:
+    licensed:
+      declared: MIT
+  9.4.1:
+    licensed:
+      declared: MIT
+  9.4.2:
+    licensed:
+      declared: MIT
