@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.ApplicationInsights.StatusMonitorInternal
+  provider: nuget
+  type: nuget
+revisions:
+  1.3.0-build00446:
+    licensed:
+      declared: MIT

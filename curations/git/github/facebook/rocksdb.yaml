@@ -1,0 +1,20 @@
+coordinates:
+  name: rocksdb
+  namespace: facebook
+  provider: github
+  type: git
+revisions:
+  641fae60f63619ed5d0c9d9e4c4ea5a0ffa3e253:
+    files:
+      - attributions:
+          - 'Copyright (c) 2011-present, Facebook, Inc.'
+          - Copyright (c) 2011 the original author or authors.
+        license: Apache-2.0 OR GPL-2.0-only
+        path: java/benchmark/src/main/java/org/rocksdb/benchmark/DbBenchmark.java
+      - attributions:
+          - Copyright (c) 2011 The LevelDB Authors.
+          - 'Copyright (c) 2011-present, Facebook, Inc.'
+        license: BSD-3-Clause
+        path: port/win/win_jemalloc.cc
+    licensed:
+      declared: GPL-2.0-only OR Apache-2.0

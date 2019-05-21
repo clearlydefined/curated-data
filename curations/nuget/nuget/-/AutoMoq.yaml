@@ -1,0 +1,11 @@
+coordinates:
+  name: AutoMoq
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.1:
+    licensed:
+      declared: MIT
+  2.0.0:
+    licensed:
+      declared: MIT

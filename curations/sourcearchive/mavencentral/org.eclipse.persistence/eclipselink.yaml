@@ -1,0 +1,17 @@
+coordinates:
+  name: eclipselink
+  namespace: org.eclipse.persistence
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.6.4-RC1:
+    described:
+      sourceLocation:
+        name: eclipselink
+        namespace: eclipse-ee4j
+        provider: github
+        revision: 44060b6642658a40a9329b1c0a3138539144f1f7
+        type: git
+        url: 'https://github.com/eclipse-ee4j/eclipselink/commit/44060b6642658a40a9329b1c0a3138539144f1f7'
+    licensed:
+      declared: 'EPL-1.0 AND BSD-3-Clause'

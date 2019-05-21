@@ -1,0 +1,35 @@
+coordinates:
+  name: Microsoft.Azure.Insights
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.0-preview:
+    licensed:
+      declared: MIT
+  0.11.0-preview:
+    licensed:
+      declared: MIT
+  0.13.1-preview:
+    licensed:
+      declared: MIT
+  0.14.0-preview:
+    licensed:
+      declared: MIT
+  0.14.1-preview:
+    licensed:
+      declared: MIT
+  0.15.0-preview:
+    licensed:
+      declared: MIT
+  0.16.0-preview:
+    licensed:
+      declared: MIT
+  0.7.2-preview:
+    licensed:
+      declared: MIT
+  0.7.7-preview:
+    licensed:
+      declared: MIT
+  0.9.1-preview:
+    licensed:
+      declared: MIT

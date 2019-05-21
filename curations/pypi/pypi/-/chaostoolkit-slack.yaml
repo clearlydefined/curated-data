@@ -1,0 +1,23 @@
+coordinates:
+  name: chaostoolkit-slack
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.0:
+    described:
+      sourceLocation:
+        name: chaostoolkit-slack
+        namespace: chaostoolkit-incubator
+        provider: github
+        revision: 8693e50db59070e8e1b0a8116d920e34f8e7b7c0
+        type: git
+        url: 'https://github.com/chaostoolkit-incubator/chaostoolkit-slack/commit/8693e50db59070e8e1b0a8116d920e34f8e7b7c0'
+  0.2.0:
+    described:
+      sourceLocation:
+        name: chaostoolkit-slack
+        namespace: chaostoolkit-incubator
+        provider: github
+        revision: 720b8e133f741d20bc56cf1a9597f37b9bc3758c
+        type: git
+        url: 'https://github.com/chaostoolkit-incubator/chaostoolkit-slack/commit/720b8e133f741d20bc56cf1a9597f37b9bc3758c'

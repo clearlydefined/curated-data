@@ -1,0 +1,16 @@
+coordinates:
+  name: Microsoft.AppCenter.Distribute
+  provider: nuget
+  type: nuget
+revisions:
+  1.13.2:
+    described:
+      sourceLocation:
+        name: appcenter-sdk-dotnet
+        namespace: microsoft
+        provider: github
+        revision: c6ed4d663d040c412313e5bcd84dc5d300b4740e
+        type: git
+        url: 'https://github.com/microsoft/appcenter-sdk-dotnet/commit/c6ed4d663d040c412313e5bcd84dc5d300b4740e'
+    licensed:
+      declared: MIT

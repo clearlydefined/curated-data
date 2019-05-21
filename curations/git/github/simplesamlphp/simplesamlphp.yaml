@@ -1,0 +1,50 @@
+coordinates:
+  name: simplesamlphp
+  namespace: simplesamlphp
+  provider: github
+  type: git
+revisions:
+  92de42cb0a25ccbf46f78a0e2f3257272afb8ba2:
+    files:
+      - license: CC-BY-2.5
+        path: www/resources/icons/silk/delete.png
+      - license: CC-BY-2.5
+        path: www/resources/icons/silk/star.png
+      - license: CC-BY-2.5
+        path: www/resources/icons/silk/exclamation.png
+      - license: CC-BY-2.5
+        path: www/resources/icons/silk/readme.txt
+      - license: LGPL-2.1
+        path: www/resources/icons/crystal_project/kchart.32x32.png
+      - attributions:
+          - Copyright (c) 2006-2007 Everaldo Coelho.
+        license: LGPL-2.1
+        path: www/resources/icons/crystal_project/readme.txt
+      - license: GPL-2.0
+        path: www/resources/icons/experience/gtk-dialog-error.48x48.png
+      - license: GPL-2.0
+        path: www/resources/icons/experience/gtk-dialog-error.svg.gz
+      - license: GPL-2.0
+        path: www/resources/icons/experience/gtk-about.64x64.png
+      - license: GPL-2.0
+        path: www/resources/icons/experience/gtk-dialog-authentication.48x48.png
+      - license: CC-BY-2.5
+        path: www/resources/icons/silk/heart.png
+      - license: CC-BY-2.5
+        path: www/resources/icons/silk/magnifier.png
+      - license: CC-BY-2.5
+        path: www/resources/icons/silk/error.png
+      - license: CC-BY-2.5
+        path: www/resources/icons/silk/accept.png
+      - license: LGPL-2.1
+        path: www/resources/icons/crystal_project/date.32x32.png
+      - license: GPL-2.0
+        path: www/resources/icons/experience/gtk-dialog-warning.svg.gz
+      - license: GPL-2.0
+        path: www/resources/icons/experience/gtk-about.svg.gz
+      - license: GPL-2.0
+        path: www/resources/icons/experience/gtk-dialog-authentication.svg.gz
+      - license: GPL-2.0
+        path: www/resources/icons/experience/gtk-dialog-warning.48x48.png
+      - license: GPL-2.0
+        path: www/resources/icons/experience/readme.txt

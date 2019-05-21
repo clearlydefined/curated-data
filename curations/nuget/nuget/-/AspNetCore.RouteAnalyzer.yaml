@@ -1,0 +1,8 @@
+coordinates:
+  name: AspNetCore.RouteAnalyzer
+  provider: nuget
+  type: nuget
+revisions:
+  0.5.3:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: AzureFunctions.Autofac
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.4:
+    licensed:
+      declared: GPL-3.0-only

@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.AspNet.OData.Versioning.ApiExplorer
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0-beta1:
+    licensed:
+      declared: MIT

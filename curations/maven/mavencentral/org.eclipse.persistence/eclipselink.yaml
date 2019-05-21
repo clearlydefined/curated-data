@@ -1,0 +1,9 @@
+coordinates:
+  name: eclipselink
+  namespace: org.eclipse.persistence
+  provider: mavencentral
+  type: maven
+revisions:
+  2.6.4-RC1:
+    licensed:
+      declared: EPL-1.0 AND BSD-3-Clause

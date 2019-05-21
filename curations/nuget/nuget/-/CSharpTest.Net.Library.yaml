@@ -1,0 +1,8 @@
+coordinates:
+  name: CSharpTest.Net.Library
+  provider: nuget
+  type: nuget
+revisions:
+  2.14.126.467:
+    licensed:
+      declared: Apache-2.0

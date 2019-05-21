@@ -1,0 +1,11 @@
+coordinates:
+  name: Azurite
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.3:
+    licensed:
+      declared: MIT
+  2.6.5:
+    licensed:
+      declared: MIT

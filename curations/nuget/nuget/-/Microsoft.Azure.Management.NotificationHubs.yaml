@@ -1,0 +1,14 @@
+coordinates:
+  name: Microsoft.Azure.Management.NotificationHubs
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.0-preview:
+    licensed:
+      declared: MIT
+  2.3.1-preview:
+    licensed:
+      declared: MIT
+  2.3.2-preview:
+    licensed:
+      declared: MIT

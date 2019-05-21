@@ -1,0 +1,8 @@
+coordinates:
+  name: AsyncPowerShell
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.5197.26640:
+    licensed:
+      declared: MIT

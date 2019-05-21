@@ -1,0 +1,12 @@
+coordinates:
+  name: logback-classic
+  namespace: ch.qos.logback
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.0.13:
+    files:
+      - license: EPL-1.0 OR LGPL-2.1-only
+        path: ch/qos/logback/classic/db/names/DBNameResolver.class
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1-only

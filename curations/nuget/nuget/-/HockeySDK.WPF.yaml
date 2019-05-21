@@ -1,0 +1,8 @@
+coordinates:
+  name: HockeySDK.WPF
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.6:
+    licensed:
+      declared: MIT
