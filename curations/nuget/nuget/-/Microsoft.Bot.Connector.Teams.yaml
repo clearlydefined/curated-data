@@ -1,0 +1,14 @@
+coordinates:
+  name: Microsoft.Bot.Connector.Teams
+  provider: nuget
+  type: nuget
+revisions:
+  0.8.0:
+    licensed:
+      declared: MIT
+  0.9.0:
+    licensed:
+      declared: MIT
+  4.0.0-beta1:
+    licensed:
+      declared: MIT
