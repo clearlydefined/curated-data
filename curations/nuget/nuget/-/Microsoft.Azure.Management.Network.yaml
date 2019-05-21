@@ -74,7 +74,7 @@ revisions:
       declared: MIT
   2.0.0-preview:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.0.11-preview:
     licensed:
       declared: MIT
@@ -89,13 +89,13 @@ revisions:
       declared: Apache-2.0
   2.0.3-preview:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.0.8-preview:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.0.9-preview:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   20.0.0-preview:
     licensed:
       declared: MIT
