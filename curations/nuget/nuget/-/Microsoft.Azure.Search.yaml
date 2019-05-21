@@ -5,10 +5,10 @@ coordinates:
 revisions:
   0.10.0-preview:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   0.11.0-preview:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   0.12.0-preview:
     licensed:
       declared: MIT
@@ -17,10 +17,10 @@ revisions:
       declared: MIT
   0.9.6-preview:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   0.9.7-preview:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   1.1.0:
     licensed:
       declared: MIT
