@@ -1,0 +1,11 @@
+coordinates:
+  name: Obfuscar
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.14:
+    licensed:
+      declared: MIT
+  2.2.18:
+    licensed:
+      declared: MIT
