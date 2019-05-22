@@ -1,0 +1,32 @@
+coordinates:
+  name: Nerdbank.Streams
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.188-beta:
+    licensed:
+      declared: MIT
+  2.0.198-beta:
+    licensed:
+      declared: MIT
+  2.0.202-rc:
+    licensed:
+      declared: MIT
+  2.0.206:
+    licensed:
+      declared: MIT
+  2.0.225:
+    licensed:
+      declared: MIT
+  2.1.11-alpha:
+    licensed:
+      declared: MIT
+  2.1.2-alpha:
+    licensed:
+      declared: MIT
+  2.1.28-beta:
+    licensed:
+      declared: MIT
+  2.1.37:
+    licensed:
+      declared: MIT
