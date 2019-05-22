@@ -1,0 +1,20 @@
+coordinates:
+  name: NUnit.Extension.NUnitV2Driver
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.1:
+    licensed:
+      declared: MIT
+  3.4.1:
+    licensed:
+      declared: MIT
+  3.5.0:
+    licensed:
+      declared: MIT
+  3.6.0:
+    licensed:
+      declared: MIT
+  3.7.0:
+    licensed:
+      declared: MIT
