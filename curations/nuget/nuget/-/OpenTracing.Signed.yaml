@@ -1,0 +1,8 @@
+coordinates:
+  name: OpenTracing.Signed
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.4:
+    licensed:
+      declared: Apache-2.0
