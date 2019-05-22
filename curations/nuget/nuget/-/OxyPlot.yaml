@@ -1,0 +1,8 @@
+coordinates:
+  name: OxyPlot
+  provider: nuget
+  type: nuget
+revisions:
+  2014.1.546:
+    licensed:
+      declared: MIT
