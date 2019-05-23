@@ -1,0 +1,32 @@
+coordinates:
+  name: TinyMCE
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.5:
+    licensed:
+      declared: LGPL-2.1
+  4.2.1:
+    licensed:
+      declared: LGPL-2.1
+  4.2.7:
+    licensed:
+      declared: LGPL-2.1
+  4.3.2:
+    licensed:
+      declared: LGPL-2.1
+  4.6.0:
+    licensed:
+      declared: LGPL-2.1
+  4.7.13:
+    licensed:
+      declared: LGPL-2.1
+  4.7.6:
+    licensed:
+      declared: LGPL-2.1
+  4.8.5:
+    licensed:
+      declared: LGPL-2.1
+  4.9.2:
+    licensed:
+      declared: LGPL-2.1
