@@ -1,0 +1,12 @@
+coordinates:
+  name: visible-assertions
+  namespace: rnorth
+  provider: github
+  type: git
+revisions:
+  1e31bd9f2b5c55bad97fb73fb5dff25657a2206a:
+    files:
+      - attributions:
+          - Copyright (c) 2015-2017 Richard North.
+        license: MIT
+        path: README.md
