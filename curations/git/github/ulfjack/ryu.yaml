@@ -5,5 +5,104 @@ coordinates:
   type: git
 revisions:
   59661c3f883dfd39cef6dc8eaf2fcbaae53597e8:
+    files:
+      - license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/BUILD
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/common.h
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/d2fixed.c
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/d2fixed_full_table.h
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/d2s.c
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/d2s.h
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/d2s_full_table.h
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/d2s_intrinsics.h
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/digit_table.h
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/f2s.c
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/generic_128.c
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/generic_128.h
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/ryu.h
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/ryu2.h
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/ryu_generic_128.h
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/benchmark/benchmark.cc
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/benchmark/benchmark_fixed.c
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/benchmark/benchmark_fixed.cc
+      - license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/benchmark/BUILD
+      - license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/tests/BUILD
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/tests/d2fixed_test.cc
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/tests/d2s_intrinsics_test.cc
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/tests/d2s_table_test.cc
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/tests/d2s_test.cc
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/tests/f2s_test.cc
+      - attributions:
+          - Copyright 2018 Ulf Adams
+        license: '(Apache-2.0 OR BSL-1.0) '
+        path: ryu/tests/generic_128_test.cc
     licensed:
       declared: Apache-2.0
