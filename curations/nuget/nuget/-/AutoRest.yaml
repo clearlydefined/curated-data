@@ -1,0 +1,11 @@
+coordinates:
+  name: AutoRest
+  provider: nuget
+  type: nuget
+revisions:
+  0.17.3:
+    licensed:
+      declared: MIT
+  1.2.1:
+    licensed:
+      declared: MIT

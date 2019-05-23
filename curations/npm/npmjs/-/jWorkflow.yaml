@@ -1,0 +1,9 @@
+coordinates:
+  name: jWorkflow
+  provider: npmjs
+  type: npm
+revisions:
+  0.9.0:
+    files:
+      - license: MIT
+        path: package/package.json

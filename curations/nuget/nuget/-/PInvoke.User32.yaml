@@ -1,0 +1,14 @@
+coordinates:
+  name: PInvoke.User32
+  provider: nuget
+  type: nuget
+revisions:
+  0.5.152:
+    licensed:
+      declared: MIT
+  0.5.155:
+    licensed:
+      declared: MIT
+  0.5.184:
+    licensed:
+      declared: MIT

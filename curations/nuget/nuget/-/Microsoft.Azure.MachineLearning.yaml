@@ -1,0 +1,11 @@
+coordinates:
+  name: Microsoft.Azure.MachineLearning
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.1:
+    licensed:
+      declared: MIT
+  0.9.2:
+    licensed:
+      declared: MIT

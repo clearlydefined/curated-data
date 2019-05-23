@@ -1,0 +1,8 @@
+coordinates:
+  name: ladda-bootstrap
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.8:
+    licensed:
+      declared: MIT

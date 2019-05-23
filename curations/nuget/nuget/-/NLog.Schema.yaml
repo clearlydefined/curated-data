@@ -1,0 +1,107 @@
+coordinates:
+  name: NLog.Schema
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.1.2:
+    licensed:
+      declared: BSD-3-Clause
+  2.1.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.2.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.2.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.0.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.0.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.2.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.10:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.4:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.8:
+    licensed:
+      declared: BSD-3-Clause
+  4.3.9:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.11:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.12:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.13:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.2:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.3:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.4:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.6:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.8:
+    licensed:
+      declared: BSD-3-Clause
+  4.4.9:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.0-rc01:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.10:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.11:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.2:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.3:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.4:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.5:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.6:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.7:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.8:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.9:
+    licensed:
+      declared: BSD-3-Clause
+  4.6.2:
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,11 @@
+coordinates:
+  name: Nito.AsyncEx.Interop.WaitHandles
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.0-pre-02:
+    licensed:
+      declared: MIT
+  5.0.0-pre-05:
+    licensed:
+      declared: MIT

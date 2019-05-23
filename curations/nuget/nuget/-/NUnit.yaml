@@ -1,9 +1,59 @@
 coordinates:
   name: NUnit
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
   2.6.4:
     licensed:
       declared: Zlib
+  3.0.0:
+    licensed:
+      declared: MIT
+  3.0.0-beta-2:
+    licensed:
+      declared: MIT
+  3.0.1:
+    licensed:
+      declared: MIT
+  3.10.0:
+    licensed:
+      declared: MIT
+  3.10.1:
+    licensed:
+      declared: MIT
+  3.11.0:
+    licensed:
+      declared: MIT
+  3.2.0:
+    licensed:
+      declared: MIT
+  3.2.1:
+    licensed:
+      declared: MIT
+  3.4.0:
+    licensed:
+      declared: MIT
+  3.4.1:
+    licensed:
+      declared: MIT
+  3.5.0:
+    licensed:
+      declared: MIT
+  3.6.0:
+    licensed:
+      declared: MIT
+  3.6.1:
+    licensed:
+      declared: MIT
+  3.7.0:
+    licensed:
+      declared: MIT
+  3.7.1:
+    licensed:
+      declared: MIT
+  3.8.1:
+    licensed:
+      declared: MIT
+  3.9.0:
+    licensed:
+      declared: MIT

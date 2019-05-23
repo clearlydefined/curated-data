@@ -1,0 +1,23 @@
+coordinates:
+  name: Microsoft.Azure.Batch.Conventions.Files
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.5-preview:
+    licensed:
+      declared: MIT
+  1.0.0:
+    licensed:
+      declared: MIT
+  1.0.1:
+    licensed:
+      declared: MIT
+  3.1.0:
+    licensed:
+      declared: MIT
+  3.2.0:
+    licensed:
+      declared: MIT
+  3.3.0:
+    licensed:
+      declared: MIT

@@ -1,0 +1,35 @@
+coordinates:
+  name: Microsoft.AspNet.WebApi.Versioning
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0:
+    licensed:
+      declared: MIT
+  2.0.1:
+    licensed:
+      declared: MIT
+  2.0.2:
+    licensed:
+      declared: MIT
+  2.0.3:
+    licensed:
+      declared: MIT
+  2.1.0:
+    licensed:
+      declared: MIT
+  2.1.0-beta2:
+    licensed:
+      declared: MIT
+  2.1.0-rc1:
+    licensed:
+      declared: MIT
+  2.2.0:
+    licensed:
+      declared: MIT
+  2.3.0:
+    licensed:
+      declared: MIT
+  3.0.0-beta1:
+    licensed:
+      declared: MIT

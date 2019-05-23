@@ -1,0 +1,62 @@
+coordinates:
+  name: Nerdbank.GitVersioning
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.19:
+    licensed:
+      declared: MIT
+  1.4.30:
+    licensed:
+      declared: MIT
+  1.4.41:
+    licensed:
+      declared: MIT
+  1.5.28-rc:
+    licensed:
+      declared: MIT
+  1.5.46:
+    licensed:
+      declared: MIT
+  1.5.58:
+    licensed:
+      declared: MIT
+  1.5.62:
+    licensed:
+      declared: MIT
+  1.6.35:
+    licensed:
+      declared: MIT
+  2.0.41:
+    licensed:
+      declared: MIT
+  2.1.11:
+    licensed:
+      declared: MIT
+  2.1.16:
+    licensed:
+      declared: MIT
+  2.1.17:
+    licensed:
+      declared: MIT
+  2.1.23:
+    licensed:
+      declared: MIT
+  2.1.65:
+    licensed:
+      declared: MIT
+  2.1.7:
+    licensed:
+      declared: MIT
+  2.1.84:
+    licensed:
+      declared: MIT
+  2.2.13:
+    licensed:
+      declared: MIT
+  2.2.33:
+    licensed:
+      declared: MIT
+  3.0.4-beta:
+    licensed:
+      declared: MIT

@@ -1,0 +1,14 @@
+coordinates:
+  name: Microsoft.ApplicationInsights.Web.TelemetryChannel
+  provider: nuget
+  type: nuget
+revisions:
+  0.17.0:
+    licensed:
+      declared: MIT
+  1.0.0:
+    licensed:
+      declared: MIT
+  1.1.0:
+    licensed:
+      declared: MIT

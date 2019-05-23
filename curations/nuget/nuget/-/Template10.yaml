@@ -1,0 +1,8 @@
+coordinates:
+  name: Template10
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.13-preview-20161207:
+    licensed:
+      declared: Apache-2.0

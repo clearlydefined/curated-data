@@ -1,0 +1,18 @@
+coordinates:
+  name: actframework
+  namespace: actframework
+  provider: github
+  type: git
+revisions:
+  e09438ddc29ab34fc95e736f8052e9f9151385cf:
+    files:
+      - attributions:
+          - (c) JS Foundation and other contributors
+        license: MIT
+        path: src/main/resources/asset/~act/js/jquery.js
+      - license: BSD-3-Clause
+        path: src/main/resources/asset/~act/js/highlight.min.js
+      - attributions:
+          - (c) jQuery Foundation
+        license: MIT
+        path: testapps/GHIssues/src/main/resources/asset/jquery.min.js

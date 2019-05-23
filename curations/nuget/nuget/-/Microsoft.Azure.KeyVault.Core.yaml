@@ -1,9 +1,11 @@
 coordinates:
   name: Microsoft.Azure.KeyVault.Core
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
+  0.9.1-preview:
+    licensed:
+      declared: Apache-2.0
   1.0.0:
     described:
       releaseDate: '2015-07-29'
@@ -14,6 +16,12 @@ revisions:
         url: 'https://github.com/Azure/azure-sdk-for-net/commit/771102a3c4e5b369c9157c78f3c6342a5fa14f40'
     licensed:
       declared: Apache-2.0
+  2.0.2-preview:
+    licensed:
+      declared: MIT
+  2.0.3-preview:
+    licensed:
+      declared: MIT
   2.0.4:
     described:
       releaseDate: '2016-12-07'
@@ -22,5 +30,20 @@ revisions:
         revision: 5ae66289165a99e66a5bc6c3a588d99ad384163c
         type: git
         url: 'https://github.com/Azure/azure-sdk-for-net/commit/5ae66289165a99e66a5bc6c3a588d99ad384163c'
+    licensed:
+      declared: MIT
+  2.0.5-preview:
+    licensed:
+      declared: MIT
+  3.0.0:
+    licensed:
+      declared: MIT
+  3.0.0-alpha:
+    licensed:
+      declared: MIT
+  3.0.1:
+    licensed:
+      declared: MIT
+  3.0.3:
     licensed:
       declared: MIT

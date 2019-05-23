@@ -1,0 +1,12 @@
+coordinates:
+  name: duct-tape
+  namespace: rnorth
+  provider: github
+  type: git
+revisions:
+  46e3e37b259906750f33edd7e5466887cf62c28a:
+    files:
+      - attributions:
+          - Copyright (c) 2014-2015 Richard North.
+        license: MIT
+        path: docs/index.md

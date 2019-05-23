@@ -1,0 +1,8 @@
+coordinates:
+  name: Hopac
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.23:
+    licensed:
+      declared: MIT

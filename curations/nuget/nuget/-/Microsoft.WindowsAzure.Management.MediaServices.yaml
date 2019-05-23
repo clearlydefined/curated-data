@@ -1,0 +1,17 @@
+coordinates:
+  name: Microsoft.WindowsAzure.Management.MediaServices
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: Apache-2.0
+  1.0.3:
+    licensed:
+      declared: Apache-2.0
+  2.0.0:
+    licensed:
+      declared: Apache-2.0
+  4.1.0:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,11 @@
+coordinates:
+  name: HockeySDK.Core
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.5:
+    licensed:
+      declared: MIT
+  4.1.6:
+    licensed:
+      declared: MIT

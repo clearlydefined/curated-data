@@ -1,0 +1,14 @@
+coordinates:
+  name: HelixToolkit.Wpf
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.0:
+    licensed:
+      declared: MIT
+  2.4.0:
+    licensed:
+      declared: MIT
+  2.6.1:
+    licensed:
+      declared: MIT

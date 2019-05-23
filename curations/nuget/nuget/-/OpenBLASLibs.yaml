@@ -1,0 +1,8 @@
+coordinates:
+  name: OpenBLASLibs
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.19.3:
+    licensed:
+      declared: BSD-3-Clause

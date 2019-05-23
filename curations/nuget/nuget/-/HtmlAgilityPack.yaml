@@ -3,12 +3,141 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.10.2:
+    licensed:
+      declared: MIT
+  1.11.0:
+    licensed:
+      declared: MIT
+  1.11.1:
+    licensed:
+      declared: MIT
+  1.11.2:
+    licensed:
+      declared: MIT
+  1.11.3:
+    licensed:
+      declared: MIT
   1.4.6:
     licensed:
       declared: MS-PL
+  1.5.0:
+    licensed:
+      declared: MIT
+  1.5.1:
+    licensed:
+      declared: MIT
+  1.5.4:
+    licensed:
+      declared: MIT
+  1.5.5:
+    licensed:
+      declared: MIT
+  1.6.0:
+    licensed:
+      declared: MIT
+  1.6.10:
+    licensed:
+      declared: MIT
+  1.6.11:
+    licensed:
+      declared: MIT
+  1.6.13:
+    licensed:
+      declared: MIT
+  1.6.15:
+    licensed:
+      declared: MIT
+  1.6.16:
+    licensed:
+      declared: MIT
+  1.6.17:
+    licensed:
+      declared: MIT
+  1.6.2:
+    licensed:
+      declared: MIT
+  1.6.3:
+    licensed:
+      declared: MIT
+  1.6.4:
+    licensed:
+      declared: MIT
   1.6.5:
     licensed:
       declared: MIT
+  1.6.6:
+    licensed:
+      declared: MIT
+  1.6.8:
+    licensed:
+      declared: MIT
+  1.7.0:
+    licensed:
+      declared: MIT
+  1.7.1:
+    licensed:
+      declared: MIT
+  1.7.2:
+    licensed:
+      declared: MIT
+  1.7.3:
+    licensed:
+      declared: MIT
+  1.7.4:
+    licensed:
+      declared: MIT
+  1.8.0:
+    licensed:
+      declared: MIT
+  1.8.1:
+    licensed:
+      declared: MIT
+  1.8.10:
+    licensed:
+      declared: MIT
+  1.8.11:
+    licensed:
+      declared: MIT
+  1.8.12:
+    licensed:
+      declared: MIT
+  1.8.13:
+    licensed:
+      declared: MIT
+  1.8.14:
+    licensed:
+      declared: MIT
   1.8.2:
+    licensed:
+      declared: MIT
+  1.8.3:
+    licensed:
+      declared: MIT
+  1.8.4:
+    licensed:
+      declared: MIT
+  1.8.5:
+    licensed:
+      declared: MIT
+  1.8.6:
+    licensed:
+      declared: MIT
+  1.8.7:
+    licensed:
+      declared: MIT
+  1.8.8:
+    licensed:
+      declared: MIT
+  1.8.9:
+    licensed:
+      declared: MIT
+  1.9.0:
+    licensed:
+      declared: MIT
+  1.9.1:
+    licensed:
+      declared: MIT
+  1.9.2:
     licensed:
       declared: MIT

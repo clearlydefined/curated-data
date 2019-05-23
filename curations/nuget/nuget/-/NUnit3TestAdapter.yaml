@@ -1,0 +1,41 @@
+coordinates:
+  name: NUnit3TestAdapter
+  provider: nuget
+  type: nuget
+revisions:
+  3.10.0:
+    licensed:
+      declared: MIT
+  3.11.0:
+    licensed:
+      declared: MIT
+  3.11.2:
+    licensed:
+      declared: MIT
+  3.12.0:
+    licensed:
+      declared: MIT
+  3.13.0:
+    licensed:
+      declared: MIT
+  3.4.0:
+    licensed:
+      declared: MIT
+  3.4.1:
+    licensed:
+      declared: MIT
+  3.6.0:
+    licensed:
+      declared: MIT
+  3.7.0:
+    licensed:
+      declared: MIT
+  3.8.0:
+    licensed:
+      declared: MIT
+  3.8.0-alpha1:
+    licensed:
+      declared: MIT
+  3.9.0:
+    licensed:
+      declared: MIT

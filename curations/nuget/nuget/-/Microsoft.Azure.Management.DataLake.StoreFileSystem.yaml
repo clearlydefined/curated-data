@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Management.DataLake.StoreFileSystem
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.6-preview:
+    licensed:
+      declared: MIT

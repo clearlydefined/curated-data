@@ -1,0 +1,11 @@
+coordinates:
+  name: Microsoft.Azure.Management.DataLake.AnalyticsJob
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.4-preview:
+    licensed:
+      declared: MIT
+  0.9.6-preview:
+    licensed:
+      declared: MIT

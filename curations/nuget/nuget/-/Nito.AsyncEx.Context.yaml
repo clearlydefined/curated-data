@@ -1,0 +1,14 @@
+coordinates:
+  name: Nito.AsyncEx.Context
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.0:
+    licensed:
+      declared: MIT
+  5.0.0-pre-02:
+    licensed:
+      declared: MIT
+  5.0.0-pre-05:
+    licensed:
+      declared: MIT

@@ -1,0 +1,11 @@
+coordinates:
+  name: CronExpressionDescriptor
+  provider: nuget
+  type: nuget
+revisions:
+  1.19.0:
+    licensed:
+      declared: MIT
+  1.20.0:
+    licensed:
+      declared: MIT

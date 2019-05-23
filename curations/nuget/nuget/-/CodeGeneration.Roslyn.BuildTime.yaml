@@ -1,0 +1,11 @@
+coordinates:
+  name: CodeGeneration.Roslyn.BuildTime
+  provider: nuget
+  type: nuget
+revisions:
+  0.4.74:
+    licensed:
+      declared: MS-PL
+  0.4.88:
+    licensed:
+      declared: MS-PL

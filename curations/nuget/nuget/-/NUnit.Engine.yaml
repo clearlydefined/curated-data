@@ -1,9 +1,26 @@
 coordinates:
   name: NUnit.Engine
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
   3.0.1:
+    licensed:
+      declared: MIT
+  3.10.0:
+    licensed:
+      declared: MIT
+  3.2.0:
+    licensed:
+      declared: MIT
+  3.4.1:
+    licensed:
+      declared: MIT
+  3.7.0:
+    licensed:
+      declared: MIT
+  3.8.0:
+    licensed:
+      declared: MIT
+  3.9.0:
     licensed:
       declared: MIT
