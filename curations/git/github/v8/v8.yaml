@@ -1,0 +1,60 @@
+coordinates:
+  name: v8
+  namespace: v8
+  provider: github
+  type: git
+revisions:
+  0ebd926856731ca46bd7884cf8a7deb2318da137:
+    files:
+      - license: NONE
+        path: tools/mb/README.md
+      - license: NONE
+        path: tools/testrunner/server/daemon.py
+      - attributions:
+          - 'Copyright (c) 1993-2004 by Sun Microsystems, Inc.'
+        license: OTHER
+        path: LICENSE.fdlibm
+      - attributions:
+          - Copyright 2014 the V8 project
+        license: BSD-3-Clause AND OTHER
+        path: src/base/functional.cc
+      - attributions:
+          - Copyright 2016 the V8 project
+          - 'Copyright (c) 1993 by Sun Microsystems, Inc.'
+        license: OTHER
+        path: src/base/ieee754.cc
+      - license: NONE
+        path: src/crankshaft/arm64/OWNERS
+      - license: NONE
+        path: third_party/inspector_protocol/README.v8
+      - license: NONE
+        path: test/inspector/debugger/asm-js-stack-expected.txt
+      - license: NONE
+        path: test/unittests/compiler/ppc/OWNERS
+      - attributions:
+          - Copyright (c) 2005 Tom Wu
+          - Copyright (c) 2003-2005 Tom Wu
+          - Copyright 2009 The Closure Library
+          - '(c) // int putchar(int c) // http://pubs.opengroup.org/onlinepubs/000095399/functions/putchar.html'
+        license: Apache-2.0
+        path: test/mjsunit/asm/embenchen/lua_binarytrees.js
+      - attributions:
+          - Copyright 2008 the V8 project
+        license: BSD-3-Clause
+        path: test/mjsunit/unicode-test.js
+      - attributions:
+          - Copyright 2017 the V8 project
+        license: BSD-3-Clause
+        path: test/test262/local-tests/test/intl402/NumberFormat/fraction-digit-options-read-once.js
+      - attributions:
+          - Copyright 2012 Mozilla Corporation.
+        license: BSD-3-Clause
+        path: test/test262/local-tests/test/intl402/DateTimeFormat/12.1.1_1.js
+      - attributions:
+          - Copyright 2012 Mozilla Corporation.
+        license: BSD-3-Clause
+        path: test/test262/local-tests/test/intl402/NumberFormat/11.1.1_1.js
+      - attributions:
+          - Copyright 2017 the V8 project
+        license: BSD-3-Clause
+        path: test/test262/local-tests/test/intl402/NumberFormat/default-currency-maximum-fraction-digits.js
