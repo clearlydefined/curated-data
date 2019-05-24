@@ -1,0 +1,14 @@
+coordinates:
+  name: psycopg2
+  provider: pypi
+  type: pypi
+revisions:
+  2.8.2:
+    described:
+      sourceLocation:
+        name: psycopg2
+        namespace: psycopg
+        provider: github
+        revision: 324cded1661995cc006e04e2c5e6b00e61ab74ba
+        type: git
+        url: 'https://github.com/psycopg/psycopg2/commit/324cded1661995cc006e04e2c5e6b00e61ab74ba'
