@@ -12,3 +12,150 @@ revisions:
         revision: 324cded1661995cc006e04e2c5e6b00e61ab74ba
         type: git
         url: 'https://github.com/psycopg/psycopg2/commit/324cded1661995cc006e04e2c5e6b00e61ab74ba'
+    files:
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later
+        path: psycopg2-2.8.2/setup.py
+      - attributions:
+          - 'Copyright (c) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
+        license: LGPL-3.0
+        path: psycopg2-2.8.2/doc/COPYING.LESSER
+      - attributions:
+          - Copyright (c) 2012-2019 Daniele Varrazzo <daniele.varrazzo@gmail.com>
+        license: LGPL-3.0-or-later
+        path: psycopg2-2.8.2/lib/_json.py
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_asis.c
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_asis.h
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_binary.c
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_binary.h
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_datetime.c
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_datetime.h
+      - attributions:
+          - Copyright (c) 2004-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_list.c
+      - attributions:
+          - Copyright (c) 2004-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_list.h
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_mxdatetime.c
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_mxdatetime.h
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_pboolean.c
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_pboolean.h
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_pdecimal.c
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_pdecimal.h
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_pfloat.c
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_pfloat.h
+      - attributions:
+          - Copyright (c) 2011-2019 Daniele Varrazzo <daniele.varrazzo@gmail.com>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_pint.c
+      - attributions:
+          - Copyright (c) 2011-2019 Daniele Varrazzo <daniele.varrazzo@gmail.com>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_pint.h
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_qstring.c
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/adapter_qstring.h
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/microprotocols.c
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/microprotocols.h
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/microprotocols_proto.c
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later OR Zlib
+        path: psycopg2-2.8.2/psycopg/microprotocols_proto.h
+      - attributions:
+          - Copyright (c) 2003-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later
+        path: psycopg2-2.8.2/psycopg/python.h
+      - attributions:
+          - Copyright (c) 2015-2019 Daniele Varrazzo <daniele.varrazzo@gmail.com>
+        license: LGPL-3.0-or-later
+        path: psycopg2-2.8.2/psycopg/replication_connection.h
+      - attributions:
+          - Copyright (c) 2010-2019 Daniele Varrazzo <daniele.varrazzo@gmail.com>
+        license: LGPL-3.0-or-later
+        path: psycopg2-2.8.2/scripts/make_errorcodes.py
+      - attributions:
+          - Copyright (c) 2018-2019 Daniele Varrazzo <daniele.varrazzo@gmail.com>
+        license: LGPL-3.0-or-later
+        path: psycopg2-2.8.2/scripts/make_errors.py
+      - attributions:
+          - Copyright (c) 2011-2019 Daniele Varrazzo <daniele.varrazzo@gmail.com>
+        license: LGPL-3.0-or-later
+        path: psycopg2-2.8.2/scripts/refcounter.py
+      - attributions:
+          - Copyright (c) 2004-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later
+        path: psycopg2-2.8.2/tests/test_extras_dictcursor.py
+      - attributions:
+          - Copyright (c) 2017-2019 Daniele Varrazzo <daniele.varrazzo@gmail.com>
+        license: LGPL-3.0-or-later
+        path: psycopg2-2.8.2/tests/test_fast_executemany.py
+      - attributions:
+          - Copyright (c) 2016-2019 Daniele Varrazzo <daniele.varrazzo@gmail.com>
+        license: LGPL-3.0-or-later
+        path: psycopg2-2.8.2/tests/test_ipaddress.py
+      - attributions:
+          - Copyright (c) 2008-2019 Federico Di Gregorio <fog@debian.org>
+        license: LGPL-3.0-or-later
+        path: psycopg2-2.8.2/tests/test_types_extras.py
+    licensed:
+      declared: LGPL-3.0-or-later
