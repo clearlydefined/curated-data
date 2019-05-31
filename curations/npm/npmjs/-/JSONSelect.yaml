@@ -3,6 +3,30 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.2.1:
+    files:
+      - attributions:
+          - 'Copyright (c) 2011, Lloyd Hilaiel, ISC'
+        license: ISC
+        path: package/src/dist/jsonselect.js
+      - attributions:
+          - Copyright (c) 2007 John Fraser.
+          - 'Copyright (c) 2004-2005 John Gruber <http://daringfireball.net/projects/markdown/>'
+        license: BSD-2-Clause
+        path: package/site/js/showdown.js
+      - attributions:
+          - 'Copyright (c) 2011, Lloyd Hilaiel, ISC'
+        license: ISC
+        path: package/src/jsonselect.js
+      - attributions:
+          - 'Copyright 2011, John Resig'
+          - 'Copyright 2011, The Dojo Foundation'
+        license: MIT OR GPL-2.0-only OR BSD-3-Clause
+        path: package/site/js/jquery-1.6.1.min.js
+      - license: OTHER
+        path: package/site/js/json2.js
+    licensed:
+      declared: ISC
   0.4.0:
     licensed:
       declared: ISC
