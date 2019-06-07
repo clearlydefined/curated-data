@@ -1,0 +1,9 @@
+coordinates:
+  name: mongo-csharp-driver
+  namespace: mongodb
+  provider: github
+  type: git
+revisions:
+  v2.4.4:
+    licensed:
+      declared: Apache-2.0
