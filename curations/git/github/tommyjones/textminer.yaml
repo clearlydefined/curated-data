@@ -1,0 +1,9 @@
+coordinates:
+  name: textminer
+  namespace: tommyjones
+  provider: github
+  type: git
+revisions:
+  7ced28c7df42b53599c2467a31d682b6ab146755:
+    licensed:
+      declared: MIT
