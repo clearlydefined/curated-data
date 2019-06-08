@@ -1,0 +1,8 @@
+coordinates:
+  name: tweetnacl
+  provider: npmjs
+  type: npm
+revisions:
+  0.13.3:
+    licensed:
+      declared: NONE
