@@ -1,0 +1,9 @@
+coordinates:
+  name: rsvg
+  namespace: jeroen
+  provider: github
+  type: git
+revisions:
+  94bc90153f8e0efecd684d205b5dadf99bbc9f12:
+    licensed:
+      declared: MIT
