@@ -22,3 +22,14 @@ revisions:
   2.2.1:
     licensed:
       declared: MIT
+  2.4.3:
+    described:
+      sourceLocation:
+        name: commandline
+        namespace: commandlineparser
+        provider: github
+        revision: c606387088a7c38c49af896a4f0c675c13e1e0a6
+        type: git
+        url: 'https://github.com/commandlineparser/commandline/commit/c606387088a7c38c49af896a4f0c675c13e1e0a6'
+    licensed:
+      declared: MIT
