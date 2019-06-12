@@ -4,5 +4,10 @@ coordinates:
   type: nuget
 revisions:
   1.2.2:
+    files:
+      - attributions:
+          - Copyright (c) 2015-2016 Microsoft
+        license: MIT
+        path: Microsoft.IO.RecyclableMemoryStream.nuspec
     licensed:
       declared: MIT
