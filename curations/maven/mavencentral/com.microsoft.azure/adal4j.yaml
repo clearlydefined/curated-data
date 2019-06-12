@@ -7,3 +7,9 @@ revisions:
   1.2.0:
     licensed:
       declared: Apache-2.0
+  1.6.0:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation
+        license: MIT
+        path: META-INF/maven/com.microsoft.azure/adal4j/pom.properties
