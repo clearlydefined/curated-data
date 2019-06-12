@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.AspNet.WebApi.Client
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.30506:
+    licensed:
+      declared: NONE
