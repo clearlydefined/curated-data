@@ -9,3 +9,9 @@ revisions:
         path: cef.redist.x64.nuspec
     licensed:
       declared: BSD-3-Clause
+  3.3239.1723:
+    files:
+      - license: BSD-3-Clause
+        path: cef.redist.x64.nuspec
+    licensed:
+      declared: BSD-3-Clause
