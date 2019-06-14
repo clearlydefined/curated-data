@@ -10,4 +10,4 @@ revisions:
         license: BSD-3-Clause
         path: Microsoft.Maps.MapControl.WPF.nuspec
     licensed:
-      declared: BSD-3-Clause
+      declared: NONE
