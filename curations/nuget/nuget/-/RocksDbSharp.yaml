@@ -1,0 +1,13 @@
+coordinates:
+  name: RocksDbSharp
+  provider: nuget
+  type: nuget
+revisions:
+  5.4.6.10:
+    files:
+      - attributions:
+          - 'Copyright (c) 2015, Warren Falk'
+        license: BSD-2-Clause
+        path: RocksDbSharp.nuspec
+    licensed:
+      declared: BSD-2-Clause
