@@ -1,0 +1,13 @@
+coordinates:
+  name: SyslogNet.Client
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.3:
+    files:
+      - attributions:
+          - Copyright (c) 2013 Andrew Smith
+        license: MIT
+        path: SyslogNet.Client.nuspec
+    licensed:
+      declared: MIT
