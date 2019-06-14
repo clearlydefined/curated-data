@@ -1,0 +1,13 @@
+coordinates:
+  name: RocksDbNative
+  provider: nuget
+  type: nuget
+revisions:
+  5.4.6.10:
+    files:
+      - attributions:
+          - 'Copyright (c) 2015, Warren Falk'
+        license: BSD-2-Clause
+        path: RocksDbNative.nuspec
+    licensed:
+      declared: BSD-2-Clause
