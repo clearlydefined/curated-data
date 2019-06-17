@@ -1,0 +1,16 @@
+coordinates:
+  name: Microsoft.Azure.WebJobs.Script.ExtensionsMetadataGenerator
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.0:
+    described:
+      sourceLocation:
+        name: azure-functions-host
+        namespace: azure
+        provider: github
+        revision: d9f1af298b952204526fbc5d49c92949ba6c53a6
+        type: git
+        url: 'https://github.com/azure/azure-functions-host/commit/d9f1af298b952204526fbc5d49c92949ba6c53a6'
+    licensed:
+      declared: MIT OR Apache-2.0
