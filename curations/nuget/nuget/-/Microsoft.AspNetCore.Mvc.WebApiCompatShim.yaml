@@ -6,3 +6,11 @@ revisions:
   2.1.0:
     licensed:
       declared: Apache-2.0
+  2.2.0:
+    files:
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: Apache-2.0
+        path: Microsoft.AspNetCore.Mvc.WebApiCompatShim.nuspec
+    licensed:
+      declared: Apache-2.0
