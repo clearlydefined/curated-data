@@ -1,0 +1,9 @@
+coordinates:
+  name: jruby
+  namespace: jruby
+  provider: github
+  type: git
+revisions:
+  8a269e34ff3d242ec90fb08061f79c2757a5e157:
+    licensed:
+      declared: EPL-2.0 OR (GPL-2.0 OR LGPL-2.1)
