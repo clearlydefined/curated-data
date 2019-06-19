@@ -1,0 +1,13 @@
+coordinates:
+  name: contextlib2
+  provider: pypi
+  type: pypi
+revisions:
+  0.5.5:
+    files:
+      - license: Python-2.0
+        path: contextlib2-0.5.5/contextlib2.py
+      - license: Python-2.0
+        path: contextlib2-0.5.5/setup.py
+      - license: Python-2.0
+        path: contextlib2-0.5.5/PKG-INFO
