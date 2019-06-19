@@ -22,3 +22,11 @@ revisions:
   2.2.1:
     licensed:
       declared: MIT
+  2.4.3:
+    files:
+      - attributions:
+          - Copyright (c) 2005 - 2015 Giacomo Stelluti Scala & Contributors
+        license: MIT
+        path: CommandLineParser.nuspec
+    licensed:
+      declared: MIT
