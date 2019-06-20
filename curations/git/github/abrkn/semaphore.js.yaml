@@ -1,0 +1,9 @@
+coordinates:
+  name: semaphore.js
+  namespace: abrkn
+  provider: github
+  type: git
+revisions:
+  4b7471c5efc348b3279621e58e0b47b55ac60040:
+    licensed:
+      declared: MIT

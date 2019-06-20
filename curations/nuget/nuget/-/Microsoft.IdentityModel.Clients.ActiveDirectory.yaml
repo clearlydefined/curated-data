@@ -56,3 +56,19 @@ revisions:
         path: Microsoft.IdentityModel.Clients.ActiveDirectory.nuspec
     licensed:
       declared: MIT
+  4.5.0:
+    described:
+      sourceLocation:
+        name: azure-activedirectory-library-for-dotnet
+        namespace: azuread
+        provider: github
+        revision: c52765136be84c393aa0ce69fa590bcf54bda7ff
+        type: git
+        url: 'https://github.com/azuread/azure-activedirectory-library-for-dotnet/commit/c52765136be84c393aa0ce69fa590bcf54bda7ff'
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation
+        license: MIT
+        path: Microsoft.IdentityModel.Clients.ActiveDirectory.nuspec
+    licensed:
+      declared: MIT

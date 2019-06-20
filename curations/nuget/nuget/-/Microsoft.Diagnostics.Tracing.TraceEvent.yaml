@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Diagnostics.Tracing.TraceEvent
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.41:
+    licensed:
+      declared: MIT
