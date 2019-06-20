@@ -1,0 +1,9 @@
+coordinates:
+  name: hdf5
+  namespace: live-clones
+  provider: github
+  type: git
+revisions:
+  f3f29dc7df5f3cc41a5e9462d8c415e540cda3d6:
+    licensed:
+      declared: BSD-3-Clause
