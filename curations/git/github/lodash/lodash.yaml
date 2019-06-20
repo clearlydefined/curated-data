@@ -14,7 +14,7 @@ revisions:
         path: vendor/json-js/json2.js
       - license: NONE
         path: vendor/firebug-lite/skin/xp/shadowAlpha.png
-      - license: MIT
+      - license: MIT AND CC0-1.0
         path: dist/lodash.min.js
-      - license: MIT
+      - license: MIT AND CC0-1.0
         path: dist/lodash.core.min.js
