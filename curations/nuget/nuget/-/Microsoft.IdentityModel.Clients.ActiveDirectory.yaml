@@ -18,6 +18,8 @@ revisions:
     described:
       releaseDate: '2017-03-22'
       sourceLocation:
+        name: azure-activedirectory-library-for-dotnet
+        namespace: azuread
         provider: github
         revision: eddfa8ebda9e734efdc42ea6d41ea98bc7c998f3
         type: git
