@@ -6,7 +6,7 @@ revisions:
   0.2.1:
     files:
       - attributions:
-          - 'Copyright (c) 2011, Lloyd Hilaiel, ISC'
+          - 'Copyright (c) 2011, Lloyd Hilaiel, ISC License'
         license: ISC
         path: package/src/dist/jsonselect.js
       - attributions:
@@ -15,7 +15,7 @@ revisions:
         license: BSD-2-Clause
         path: package/site/js/showdown.js
       - attributions:
-          - 'Copyright (c) 2011, Lloyd Hilaiel, ISC'
+          - 'Copyright (c) 2011, Lloyd Hilaiel, ISC License'
         license: ISC
         path: package/src/jsonselect.js
       - attributions:
