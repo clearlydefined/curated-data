@@ -7,6 +7,8 @@ revisions:
     described:
       releaseDate: '2013-02-27'
       sourceLocation:
+        name: commandline
+        namespace: gsscoder
         provider: github
         revision: 205094c0c135ab5b6816f3eb0e6a84ddced5b0e2
         type: git
