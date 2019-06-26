@@ -1,0 +1,9 @@
+coordinates:
+  name: hapi-structures-v26
+  namespace: ca.uhn.hapi
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.3':
+    licensed:
+      declared: MPL-1.1 OR GPL-3.0-only
