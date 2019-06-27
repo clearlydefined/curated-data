@@ -6,7 +6,7 @@ revisions:
   5.4.6.10:
     files:
       - attributions:
-          - 'Copyright (c) 2015, Warren Falk'
+          - 'Copyright (c) 2015, Warren Falk. All rights reserved.'
         license: BSD-2-Clause
         path: RocksDbNative.nuspec
     licensed:
