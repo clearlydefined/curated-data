@@ -1,0 +1,9 @@
+coordinates:
+  name: grizzly-lzma
+  namespace: com.sun.grizzly
+  provider: mavencentral
+  type: maven
+revisions:
+  1.9.46u1:
+    licensed:
+      declared: GPL-2.0-only OR CDDL-1.1
