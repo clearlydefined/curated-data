@@ -1,0 +1,9 @@
+coordinates:
+  name: plogr
+  namespace: krlmlr
+  provider: github
+  type: git
+revisions:
+  ac3ad19936febb12e1aa5540af29152940eafdf6:
+    licensed:
+      declared: MIT

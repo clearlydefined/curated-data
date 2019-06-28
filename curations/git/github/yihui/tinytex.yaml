@@ -1,0 +1,9 @@
+coordinates:
+  name: tinytex
+  namespace: yihui
+  provider: github
+  type: git
+revisions:
+  0f582c23d9c0b0155e064fd6a4c21a518a763ac9:
+    licensed:
+      declared: MIT

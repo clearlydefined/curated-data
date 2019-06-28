@@ -1,0 +1,13 @@
+coordinates:
+  name: Microsoft.Maps.MapControl.WPF
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.1:
+    files:
+      - attributions:
+          - © 2006-2018 Microsoft
+        license: BSD-3-Clause
+        path: Microsoft.Maps.MapControl.WPF.nuspec
+    licensed:
+      declared: NONE
