@@ -20,7 +20,7 @@ revisions:
         path: vendor/FileSaver.js
       - license: MIT OR GPL-3.0
         path: component.json
-      - license: OTHER
+      - license: NONE
         path: lib/zipEntry.js
       - attributions:
           - (c) 2009-2016 Stuart Knightley <stuart at stuartk.com>
