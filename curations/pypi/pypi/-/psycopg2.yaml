@@ -158,4 +158,4 @@ revisions:
         license: LGPL-3.0-or-later
         path: psycopg2-2.8.2/tests/test_types_extras.py
     licensed:
-      declared: LGPL-3.0-or-later
+      declared: OTHER
