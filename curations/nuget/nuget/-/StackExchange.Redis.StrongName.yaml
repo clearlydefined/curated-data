@@ -15,6 +15,8 @@ revisions:
     described:
       releaseDate: '2016-10-06'
       sourceLocation:
+        name: stackexchange.redis
+        namespace: stackexchange
         provider: github
         revision: 1f514259be17897c22cbe73dc7b929ade458e56d
         type: git
