@@ -1,0 +1,13 @@
+coordinates:
+  name: WinJS
+  provider: nuget
+  type: nuget
+revisions:
+  4.4.0:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation
+        license: MIT
+        path: WinJS.nuspec
+    licensed:
+      declared: MIT
