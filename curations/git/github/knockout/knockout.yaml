@@ -1,0 +1,9 @@
+coordinates:
+  name: knockout
+  namespace: knockout
+  provider: github
+  type: git
+revisions:
+  212376a484f64d32cf49a6aaa4d5eee85aa7653a:
+    licensed:
+      declared: MIT

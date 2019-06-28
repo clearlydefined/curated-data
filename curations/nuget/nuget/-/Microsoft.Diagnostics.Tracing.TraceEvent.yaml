@@ -6,3 +6,19 @@ revisions:
   2.0.41:
     licensed:
       declared: MIT
+  2.0.42:
+    described:
+      sourceLocation:
+        name: perfview
+        namespace: microsoft
+        provider: github
+        revision: 919f5fa7918e5e2dfe7a49ad8b3cbac71c8bbecf
+        type: git
+        url: 'https://github.com/microsoft/perfview/commit/919f5fa7918e5e2dfe7a49ad8b3cbac71c8bbecf'
+    files:
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: Microsoft.Diagnostics.Tracing.TraceEvent.nuspec
+    licensed:
+      declared: MIT

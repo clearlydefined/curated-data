@@ -3,6 +3,14 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.0.414:
+    files:
+      - attributions:
+          - Copyright (c) 2014 Stack Exchange
+        license: MIT
+        path: StackExchange.Redis.StrongName.nuspec
+    licensed:
+      declared: MIT
   1.1.603:
     files:
       - attributions:
@@ -24,5 +32,8 @@ revisions:
     licensed:
       declared: MIT
   1.2.4:
+    licensed:
+      declared: MIT
+  1.2.6:
     licensed:
       declared: MIT
