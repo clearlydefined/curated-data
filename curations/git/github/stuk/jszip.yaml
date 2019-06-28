@@ -29,7 +29,7 @@ revisions:
       - license: MIT OR GPL-3.0
         path: bower.json
       - attributions:
-          - Copyright (c) 1989 - 2007 PKWARE Inc.
+          - Copyright (c) 1989 - 2007 PKWARE Inc., All Rights Reserved.
         license: OTHER
         path: docs/APPNOTE.TXT
       - attributions:
