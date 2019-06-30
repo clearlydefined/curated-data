@@ -13,6 +13,9 @@ revisions:
         url: 'https://github.com/Azure/azure-sdk-for-net/commit/5ae66289165a99e66a5bc6c3a588d99ad384163c'
     licensed:
       declared: MIT
+  2.0.6:
+    licensed:
+      declared: MIT
   2.0.7:
     described:
       releaseDate: '2017-06-28'
