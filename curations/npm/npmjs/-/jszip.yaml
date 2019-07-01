@@ -14,8 +14,7 @@ revisions:
       - license: NONE
         path: package/lib/zipEntry.js
       - attributions:
-          - 'Copyright (c) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
-          - 'Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, Antonio Afonso'
+              - 'Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, Antonio Afonso'
         license: MIT OR GPL-3.0
         path: package/LICENSE.markdown
       - license: MIT OR GPL-3.0
