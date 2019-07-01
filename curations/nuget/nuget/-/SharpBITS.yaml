@@ -1,0 +1,11 @@
+coordinates:
+  name: SharpBITS
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.0:
+    files:
+      - license: BSD-3-Clause
+        path: SharpBITS.nuspec
+    licensed:
+      declared: BSD-3-Clause

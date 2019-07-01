@@ -1,0 +1,9 @@
+coordinates:
+  name: tidyselect
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  8554e22d8ad76fea69676f65badbeecf4624cafc:
+    licensed:
+      declared: GPL-3.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: rlang
+  namespace: r-lib
+  provider: github
+  type: git
+revisions:
+  36bc27901a89236e5b13b73a46043fbef245c7aa:
+    licensed:
+      declared: GPL-3.0-only

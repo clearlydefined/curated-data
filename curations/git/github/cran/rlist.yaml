@@ -1,0 +1,9 @@
+coordinates:
+  name: rlist
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  730a63a998e8683ead593b655b6c0758c9f99d65:
+    licensed:
+      declared: MIT
