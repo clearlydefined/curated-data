@@ -12,7 +12,7 @@ revisions:
           - (c) 1995-2013 Jean-loup Gailly and Mark Adler
           - (c) 2014-2017 Vitaly Puzrin and Andrey Tupitsin
           - (c) 2009-2016 Stuart Knightley <stuart at stuartk.com>
-        license: MIT OR GPL-3.0
+        license: (MIT OR GPL-3.0) AND MIT AND ZLIB
         path: dist/jszip.js
       - license: MIT OR GPL-3.0
         path: README.markdown
@@ -33,7 +33,6 @@ revisions:
         license: OTHER
         path: docs/APPNOTE.TXT
       - attributions:
-          - 'Copyright (c) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
           - 'Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, Antonio Afonso'
         license: MIT OR GPL-3.0
         path: LICENSE.markdown
@@ -41,5 +40,5 @@ revisions:
         path: test/jquery-1.8.3.min.js
       - attributions:
           - (c) 2009-2016 Stuart Knightley <stuart at stuartk.com>
-        license: MIT OR GPL-3.0
+        license: (MIT OR GPL-3.0) AND MIT
         path: lib/license_header.js
