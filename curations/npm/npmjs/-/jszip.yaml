@@ -8,10 +8,10 @@ revisions:
       - license: MIT
         path: package/vendor/FileSaver.js
       - attributions:
-          - (c) 2009-2016 Stuart Knightley <stuart at stuartk.com>
+          - (c) 2009-2016 Stuart Knightley <stuart [at] stuartk.com>
         license: MIT OR GPL-3.0
         path: package/lib/license_header.js
-      - license: OTHER
+      - license: NONE
         path: package/lib/zipEntry.js
       - attributions:
           - 'Copyright (c) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
