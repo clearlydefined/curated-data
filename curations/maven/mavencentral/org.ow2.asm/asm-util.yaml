@@ -1,5 +1,5 @@
 coordinates:
-  name: asm
+  name: asm-util
   namespace: org.ow2.asm
   provider: mavencentral
   type: maven
@@ -10,8 +10,5 @@ revisions:
           - 'Copyright (c) 2000-2011 INRIA, France Telecom All rights reserved.'
         license: ''
         path: META-INF/MANIFEST.MF
-    licensed:
-      declared: BSD-3-Clause
-  5.0.4:
     licensed:
       declared: BSD-3-Clause

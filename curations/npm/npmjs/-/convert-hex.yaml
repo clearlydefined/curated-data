@@ -1,11 +1,8 @@
 coordinates:
-  name: blob
+  name: convert-hex
   provider: npmjs
   type: npm
 revisions:
-  0.0.2:
-    licensed:
-      declared: MIT
-  0.0.4:
+  0.1.0:
     licensed:
       declared: MIT

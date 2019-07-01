@@ -1,11 +1,8 @@
 coordinates:
-  name: blob
+  name: global
   provider: npmjs
   type: npm
 revisions:
-  0.0.2:
-    licensed:
-      declared: MIT
-  0.0.4:
+  2.0.1:
     licensed:
       declared: MIT

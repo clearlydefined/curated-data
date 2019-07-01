@@ -1,11 +1,8 @@
 coordinates:
-  name: blob
+  name: cssstyle
   provider: npmjs
   type: npm
 revisions:
-  0.0.2:
-    licensed:
-      declared: MIT
-  0.0.4:
+  0.2.30:
     licensed:
       declared: MIT
