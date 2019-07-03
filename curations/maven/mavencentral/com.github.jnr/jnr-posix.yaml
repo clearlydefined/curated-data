@@ -1,0 +1,9 @@
+coordinates:
+  name: jnr-posix
+  namespace: com.github.jnr
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.45:
+    licensed:
+      declared: CPL-1.0 AND EPL-2.0 OR (LGPL-2.1 OR GPL-2.0)
