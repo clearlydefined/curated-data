@@ -1,9 +1,11 @@
 coordinates:
   name: RichardSzalay.MockHttp
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
   3.2.1:
+    licensed:
+      declared: MIT
+  5.0.0:
     licensed:
       declared: MIT

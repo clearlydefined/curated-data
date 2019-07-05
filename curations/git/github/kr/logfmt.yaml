@@ -1,0 +1,9 @@
+coordinates:
+  name: logfmt
+  namespace: kr
+  provider: github
+  type: git
+revisions:
+  b84e30acd515aadc4b783ad4ff83aff3299bdfe0:
+    licensed:
+      declared: MIT

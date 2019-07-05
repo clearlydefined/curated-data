@@ -1,0 +1,9 @@
+coordinates:
+  name: stack
+  namespace: go-stack
+  provider: github
+  type: git
+revisions:
+  100eb0c0a9c5b306ca2fb4f165df21d80ada4b82:
+    licensed:
+      declared: Apache-2.0

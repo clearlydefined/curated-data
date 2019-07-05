@@ -1,0 +1,9 @@
+coordinates:
+  name: tokenizers
+  namespace: ropensci
+  provider: github
+  type: git
+revisions:
+  964ed405c03dd63856419bec1a1c618057b1cbe6:
+    licensed:
+      declared: MIT

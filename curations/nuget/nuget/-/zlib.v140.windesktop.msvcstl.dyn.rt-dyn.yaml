@@ -1,0 +1,13 @@
+coordinates:
+  name: zlib.v140.windesktop.msvcstl.dyn.rt-dyn
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.8.8:
+    files:
+      - attributions:
+          - Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler
+        license: Zlib
+        path: zlib.v140.windesktop.msvcstl.dyn.rt-dyn.nuspec
+    licensed:
+      declared: Zlib
