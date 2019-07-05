@@ -1,0 +1,9 @@
+coordinates:
+  name: prettyunits
+  namespace: gaborcsardi
+  provider: github
+  type: git
+revisions:
+  20f029bfa98bb0fa0a27c85814808939ed4d441e:
+    licensed:
+      declared: MIT

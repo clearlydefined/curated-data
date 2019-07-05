@@ -4,6 +4,11 @@ coordinates:
   type: nuget
 revisions:
   10.0.1:
+    files:
+      - attributions:
+          - Copyright (c) 2007 James Newton-King
+        license: MIT
+        path: Newtonsoft.Json.nuspec
     licensed:
       declared: MIT
   10.0.2:
