@@ -5,7 +5,7 @@ coordinates:
 revisions:
   0.2.2:
     licensed:
-      declared: AFL-1.2 OR BSD-3-Clause
+      declared: AFL-2.1 OR BSD-3-Clause
   0.2.3:
     licensed:
       declared: AFL-2.1 OR BSD-3-Clause
