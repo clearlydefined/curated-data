@@ -9,3 +9,11 @@ revisions:
   5.3.0:
     licensed:
       declared: MIT
+  5.4.0:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation
+        license: MIT
+        path: Microsoft.IdentityModel.Protocols.WsFederation.nuspec
+    licensed:
+      declared: MIT

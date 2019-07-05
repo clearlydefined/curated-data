@@ -1,0 +1,13 @@
+coordinates:
+  name: CefSharp.Common
+  provider: nuget
+  type: nuget
+revisions:
+  63.0.3:
+    files:
+      - attributions:
+          - 'Copyright © The CefSharp Authors. '
+        license: BSD-3-Clause
+        path: CefSharp.Common.nuspec
+    licensed:
+      declared: BSD-3-Clause

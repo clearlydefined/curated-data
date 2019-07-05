@@ -1,0 +1,27 @@
+coordinates:
+  name: lodash
+  namespace: lodash
+  provider: github
+  type: git
+revisions:
+  0843bd46ef805dd03c0c8d804630804f3ba0ca3c:
+    files:
+      - attributions:
+          - 'Copyright (c) 2006, Yahoo! Inc.'
+          - 'Copyright (c) 2007, Parakey Inc.'
+          - 'Copyright 2009, The Dojo Foundation'
+          - Copyright (c) 2010-2011 Marcus Westin
+        license: BSD-3-Clause AND (MIT OR BSD-3-Clause OR GPL-2.0-only)
+        path: vendor/firebug-lite/src/firebug-lite-debug.js
+      - license: NONE
+        path: lib/main/build-site.js
+      - license: NONE
+        path: .github/CONTRIBUTING.md
+      - license: OTHER
+        path: vendor/json-js/json2.js
+      - license: NONE
+        path: vendor/firebug-lite/skin/xp/shadowAlpha.png
+      - license: MIT AND CC0-1.0
+        path: dist/lodash.min.js
+      - license: MIT AND CC0-1.0
+        path: dist/lodash.core.min.js

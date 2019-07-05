@@ -1,0 +1,9 @@
+coordinates:
+  name: aspjson
+  namespace: rcdmk
+  provider: github
+  type: git
+revisions:
+  8645d93585fe838277734f6c1fae72b8f52fdc27:
+    licensed:
+      declared: MIT
