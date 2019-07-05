@@ -1,0 +1,15 @@
+coordinates:
+  name: xts
+  namespace: joshuaulrich
+  provider: github
+  type: git
+revisions:
+  cbacd5de87d7cc19fdae26176d49c73585836e22:
+    files:
+      - attributions:
+          - Copyright 2009. Jeffrey A. Ryan.
+          - Copyright (c) 2008 Jeffrey A. Ryan jeff.a.ryan gmail.com
+        license: GPL-2.0-or-later
+        path: R/parse8601.R
+    licensed:
+      declared: GPL-2.0-or-later
