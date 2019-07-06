@@ -1,0 +1,13 @@
+coordinates:
+  name: d3
+  provider: nuget
+  type: nuget
+revisions:
+  4.7.4:
+    files:
+      - attributions:
+          - Copyright 2010-2017 Mike Bostock
+        license: BSD-3-Clause
+        path: d3.nuspec
+    licensed:
+      declared: BSD-3-Clause

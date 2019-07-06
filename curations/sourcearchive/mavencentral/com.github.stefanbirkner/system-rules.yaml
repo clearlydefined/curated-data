@@ -1,0 +1,9 @@
+coordinates:
+  name: system-rules
+  namespace: com.github.stefanbirkner
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.19.0:
+    licensed:
+      declared: CPL-1.0
