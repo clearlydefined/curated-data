@@ -6,10 +6,18 @@ revisions:
   0.3.2:
     files:
       - attributions:
-          - 'Copyright © Andrew Arnott, andrewarnott@gmail.com, http://github.com/aarnott'
-          - 'Copyright © Mathias Lykkegaard Lorenzen, mathias.lorenzen@live.com, https://github.com/ffMathy'
-          - 'Copyright © Julien Roncaglia, julien@roncaglia.fr, https://github.com/vbfox'
+          - 'Copyright ï¿½ Andrew Arnott, andrewarnott@gmail.com, http://github.com/aarnott'
+          - 'Copyright ï¿½ Mathias Lykkegaard Lorenzen, mathias.lorenzen@live.com, https://github.com/ffMathy'
+          - 'Copyright ï¿½ Julien Roncaglia, julien@roncaglia.fr, https://github.com/vbfox'
         license: ''
+        path: PInvoke.NCrypt.nuspec
+    licensed:
+      declared: MIT
+  0.5.184:
+    files:
+      - attributions:
+          - Copyright (c) 2018 All contributors
+        license: MIT
         path: PInvoke.NCrypt.nuspec
     licensed:
       declared: MIT

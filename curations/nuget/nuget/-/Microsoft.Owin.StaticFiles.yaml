@@ -1,0 +1,13 @@
+coordinates:
+  name: Microsoft.Owin.StaticFiles
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.1:
+    files:
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: Apache-2.0
+        path: Microsoft.Owin.StaticFiles.nuspec
+    licensed:
+      declared: Apache-2.0
