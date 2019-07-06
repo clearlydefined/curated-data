@@ -1,0 +1,13 @@
+coordinates:
+  name: SharpCompress
+  provider: nuget
+  type: nuget
+revisions:
+  0.22.0:
+    files:
+      - attributions:
+          - Copyright (c) 2014  Adam Hathcock
+        license: MIT
+        path: SharpCompress.nuspec
+    licensed:
+      declared: MIT
