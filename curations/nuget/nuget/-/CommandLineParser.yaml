@@ -7,6 +7,8 @@ revisions:
     described:
       releaseDate: '2013-02-27'
       sourceLocation:
+        name: commandline
+        namespace: gsscoder
         provider: github
         revision: 205094c0c135ab5b6816f3eb0e6a84ddced5b0e2
         type: git
@@ -20,5 +22,21 @@ revisions:
     licensed:
       declared: MIT
   2.2.1:
+    licensed:
+      declared: MIT
+  2.4.3:
+    files:
+      - attributions:
+          - Copyright (c) 2005 - 2015 Giacomo Stelluti Scala & Contributors
+        license: MIT
+        path: CommandLineParser.nuspec
+    licensed:
+      declared: MIT
+  2.5.0:
+    files:
+      - attributions:
+          - Copyright (c) 2005 - 2018 Giacomo Stelluti Scala & Contributors
+        license: MIT
+        path: CommandLineParser.nuspec
     licensed:
       declared: MIT

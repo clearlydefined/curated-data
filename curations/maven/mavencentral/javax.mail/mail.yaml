@@ -1,0 +1,9 @@
+coordinates:
+  name: mail
+  namespace: javax.mail
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.7:
+    licensed:
+      declared: GPL-2.0-only OR CDDL-1.1
