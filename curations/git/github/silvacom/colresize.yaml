@@ -1,0 +1,9 @@
+coordinates:
+  name: colresize
+  namespace: silvacom
+  provider: github
+  type: git
+revisions:
+  594e1fb4e75ac90eecedc7177804f6acc71bd56d:
+    licensed:
+      declared: MIT

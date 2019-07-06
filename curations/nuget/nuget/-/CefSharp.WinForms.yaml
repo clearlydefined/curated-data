@@ -1,0 +1,13 @@
+coordinates:
+  name: CefSharp.WinForms
+  provider: nuget
+  type: nuget
+revisions:
+  63.0.3:
+    files:
+      - attributions:
+          - Copyright © 2010-2017 The CefSharp Authors.
+        license: BSD-3-Clause
+        path: CefSharp.WinForms.nuspec
+    licensed:
+      declared: BSD-3-Clause
