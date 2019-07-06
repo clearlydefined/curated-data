@@ -1,0 +1,8 @@
+coordinates:
+  name: boost_system-vc141
+  provider: nuget
+  type: nuget
+revisions:
+  1.65.1:
+    licensed:
+      declared: Apache-2.0

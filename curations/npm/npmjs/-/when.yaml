@@ -1,0 +1,8 @@
+coordinates:
+  name: when
+  provider: npmjs
+  type: npm
+revisions:
+  3.6.4:
+    licensed:
+      declared: MIT
