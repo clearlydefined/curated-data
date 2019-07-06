@@ -4,8 +4,11 @@ coordinates:
   type: nuget
 revisions:
   1.2.1:
-    licensed:
+   licensed:
       declared: MIT
+  2.1.0:
+   licensed:
+       declared: MIT
   2.0.0:
     licensed:
       declared: MIT
