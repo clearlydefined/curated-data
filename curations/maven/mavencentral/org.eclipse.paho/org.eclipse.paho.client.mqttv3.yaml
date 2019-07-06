@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.paho.client.mqttv3
+  namespace: org.eclipse.paho
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.0:
+    licensed:
+      declared: EPL-1.0

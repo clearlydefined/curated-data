@@ -1,0 +1,9 @@
+coordinates:
+  name: source-map
+  namespace: mozilla
+  provider: github
+  type: git
+revisions:
+  0314b55e6cad0a3462070123bfdb2dffc05a83e9:
+    licensed:
+      declared: BSD-3-Clause

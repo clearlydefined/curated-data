@@ -1,0 +1,8 @@
+coordinates:
+  name: cssstyle
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.30:
+    licensed:
+      declared: MIT

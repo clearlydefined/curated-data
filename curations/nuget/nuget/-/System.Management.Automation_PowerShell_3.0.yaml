@@ -1,0 +1,8 @@
+coordinates:
+  name: System.Management.Automation_PowerShell_3.0
+  provider: nuget
+  type: nuget
+revisions:
+  6.3.9600.17400:
+    licensed:
+      declared: NONE

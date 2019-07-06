@@ -9,3 +9,22 @@ revisions:
   4.5.1:
     licensed:
       declared: MIT
+  4.5.2:
+    licensed:
+      declared: MIT
+  4.5.3:
+    described:
+      sourceLocation:
+        name: corefx
+        namespace: dotnet
+        provider: github
+        revision: c6cf790234e063b855fcdb50f3fb1b3cfac73275
+        type: git
+        url: 'https://github.com/dotnet/corefx/commit/c6cf790234e063b855fcdb50f3fb1b3cfac73275'
+    files:
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: System.Memory.nuspec
+    licensed:
+      declared: MIT
