@@ -1,0 +1,9 @@
+coordinates:
+  name: logfmt
+  namespace: go-logfmt
+  provider: github
+  type: git
+revisions:
+  d4327190ff838312623b09bfeb50d7c93c8d9c1d:
+    licensed:
+      declared: MIT

@@ -1,0 +1,12 @@
+coordinates:
+  name: tracejs
+  namespace: chrisdickinson
+  provider: github
+  type: git
+revisions:
+  3ac538ba1c750e5fab845093dc14ae87a3a9398b:
+    files:
+      - license: BSD-3-Clause
+        path: package.json
+    licensed:
+      declared: BSD-3-Clause

@@ -9,3 +9,9 @@ revisions:
   1.4.44-beta:
     licensed:
       declared: MIT
+  1.4.46-beta:
+    files:
+      - license: MIT
+        path: StreamJsonRpc.nuspec
+    licensed:
+      declared: MIT
