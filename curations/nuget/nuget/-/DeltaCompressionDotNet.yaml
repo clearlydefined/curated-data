@@ -1,0 +1,19 @@
+coordinates:
+  name: DeltaCompressionDotNet
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.0:
+    described:
+      sourceLocation:
+        name: deltacompressiondotnet
+        namespace: taspeotis
+        provider: github
+        revision: a339eddf0e6d432e036e2d20c91ee227f436d142
+        type: git
+        url: 'https://github.com/taspeotis/deltacompressiondotnet/commit/a339eddf0e6d432e036e2d20c91ee227f436d142'
+    files:
+      - license: MS-PL
+        path: DeltaCompressionDotNet.nuspec
+    licensed:
+      declared: MS-PL

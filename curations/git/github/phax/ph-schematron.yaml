@@ -1,0 +1,44 @@
+coordinates:
+  name: ph-schematron
+  namespace: phax
+  provider: github
+  type: git
+revisions:
+  806b4c7cd0f9cec9f9c509113046ccc2177773ea:
+    files:
+      - attributions:
+          - (c) International Organization
+        license: OTHER
+        path: ph-schematron/src/main/resources/schemas/svrl.xsd
+      - attributions:
+          - (c) International Organization
+        license: OTHER
+        path: ph-schematron-testfiles/src/main/resources/test-sch/schematron-additional-constraints.sch
+      - attributions:
+          - (c) International Organization
+        license: OTHER
+        path: ph-schematron-testfiles/src/main/resources/test-sch/schematron-svrl.sch
+      - attributions:
+          - (c) International Organization
+        license: OTHER
+        path: ph-schematron-validator/src/main/resources/schemas/iso-schematron-2006.rnc
+      - attributions:
+          - (c) International Organization
+        license: OTHER
+        path: ph-schematron-validator/src/main/resources/schemas/svrl-2006.rnc
+      - attributions:
+          - (c) International Organization
+        license: OTHER
+        path: ph-schematron-validator/src/test/resources/schemas/iso-schematron-2006.rng
+      - attributions:
+          - (c) International Organization
+        license: OTHER
+        path: ph-schematron-validator/src/test/resources/schemas/iso-schematron-2006.xsd
+      - attributions:
+          - (c) International Organization
+        license: OTHER
+        path: ph-schematron-validator/src/test/resources/schemas/svrl-2006.rng
+      - attributions:
+          - (c) International Organization
+        license: OTHER
+        path: ph-schematron-validator/src/test/resources/schemas/svrl-2006.xsd
