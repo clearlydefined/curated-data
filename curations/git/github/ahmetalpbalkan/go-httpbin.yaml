@@ -1,0 +1,9 @@
+coordinates:
+  name: go-httpbin
+  namespace: ahmetalpbalkan
+  provider: github
+  type: git
+revisions:
+  8817b883dae18c2cf82e5af7b4d4f4674de24b09:
+    licensed:
+      declared: Apache-2.0

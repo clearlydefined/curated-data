@@ -1,0 +1,11 @@
+coordinates:
+  name: EntityFramework.Extended
+  provider: nuget
+  type: nuget
+revisions:
+  6.1.0.95:
+    files:
+      - license: BSD-3-Clause
+        path: EntityFramework.Extended.nuspec
+    licensed:
+      declared: BSD-3-Clause

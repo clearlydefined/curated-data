@@ -1,0 +1,8 @@
+coordinates:
+  name: pexpect
+  provider: pypi
+  type: pypi
+revisions:
+  4.7.0:
+    licensed:
+      declared: ISC

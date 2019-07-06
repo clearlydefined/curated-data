@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.json
+  namespace: org.glassfish
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.4:
+    licensed:
+      declared: GPL-2.0-only OR CDDL-1.1
