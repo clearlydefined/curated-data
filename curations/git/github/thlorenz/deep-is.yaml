@@ -1,0 +1,9 @@
+coordinates:
+  name: deep-is
+  namespace: thlorenz
+  provider: github
+  type: git
+revisions:
+  f126057628423458636dec9df3d621843b9ac55e:
+    licensed:
+      declared: MIT
