@@ -1,0 +1,9 @@
+coordinates:
+  name: clisymbols
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  8ecc778383c9ef455b744e4bc48d96e002f25b22:
+    licensed:
+      declared: MIT

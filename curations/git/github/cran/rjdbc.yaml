@@ -1,0 +1,9 @@
+coordinates:
+  name: rjdbc
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  46b5fd8be52a8f576081c599c7e9386eeaec5513:
+    licensed:
+      declared: MIT

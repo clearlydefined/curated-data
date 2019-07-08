@@ -3,6 +3,22 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.1.0:
+    described:
+      sourceLocation:
+        name: microsoft.io.recyclablememorystream
+        namespace: microsoft
+        provider: github
+        revision: f204d3efe021b3ab5ae37d57d8aa19f5ea1deee4
+        type: git
+        url: 'https://github.com/microsoft/microsoft.io.recyclablememorystream/commit/f204d3efe021b3ab5ae37d57d8aa19f5ea1deee4'
+    files:
+      - attributions:
+          - Copyright (c) 2015 Microsoft
+        license: MIT
+        path: Microsoft.IO.RecyclableMemoryStream.nuspec
+    licensed:
+      declared: MIT
   1.2.2:
     files:
       - attributions:

@@ -1,0 +1,13 @@
+coordinates:
+  name: PowerShellStandard.Library
+  provider: nuget
+  type: nuget
+revisions:
+  5.1.0:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation. All rights reserved.
+        license: MIT
+        path: PowerShellStandard.Library.nuspec
+    licensed:
+      declared: MIT
