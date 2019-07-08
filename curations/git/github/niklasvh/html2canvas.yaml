@@ -5,20 +5,11 @@ coordinates:
   type: git
 revisions:
   9a6e57aa00e422bf22482dbf56de33d5aada3633:
-    described:
-      facets:
-        doc:
-          - docs/
-        examples:
-          - examples/
-        tests:
-          - tests/
     files:
       - attributions:
-          - Copyright (c) 2015 gatsbyjs
+          - Copyright (c) 2012 Niklas von Hertzen
         license: MIT
-        path: www/LICENSE
+        path: LICENSE
       - attributions:
-          - copyright Joyent
-        license: MIT
+          - copyright Joyent, MIT license
         path: tests/mocha/lib/expect.js
