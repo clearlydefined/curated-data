@@ -7,3 +7,6 @@ revisions:
   '20140107':
     licensed:
       declared: JSON
+  '20180130':
+    licensed:
+      declared: JSON

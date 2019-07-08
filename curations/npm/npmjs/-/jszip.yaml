@@ -1,0 +1,23 @@
+coordinates:
+  name: jszip
+  provider: npmjs
+  type: npm
+revisions:
+  3.2.0:
+    files:
+      - license: MIT
+        path: package/vendor/FileSaver.js
+      - attributions:
+          - (c) 2009-2016 Stuart Knightley <stuart [at] stuartk.com>
+        license: MIT OR GPL-3.0
+        path: package/lib/license_header.js
+      - license: NONE
+        path: package/lib/zipEntry.js
+      - attributions:
+              - 'Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, Antonio Afonso'
+        license: MIT OR GPL-3.0
+        path: package/LICENSE.markdown
+      - license: MIT OR GPL-3.0
+        path: package/README.markdown
+    licensed:
+      declared: MIT OR GPL-3.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: socket.io-adapter
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.1:
+    licensed:
+      declared: MIT
