@@ -1,0 +1,20 @@
+coordinates:
+  name: Microsoft.VisualStudio.SlowCheetah
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.56:
+    licensed:
+      declared: MIT
+  3.0.61:
+    licensed:
+      declared: MIT
+  3.1.61-pre:
+    licensed:
+      declared: MIT
+  3.1.66:
+    licensed:
+      declared: MIT
+  3.2.20:
+    licensed:
+      declared: MIT
