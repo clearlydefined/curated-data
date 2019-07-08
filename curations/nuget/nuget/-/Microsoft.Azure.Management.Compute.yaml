@@ -7,6 +7,9 @@ revisions:
     licensed:
       declared: MIT
   11.3.1-prerelease:
+    files:
+      - license: MIT
+        path: Microsoft.Azure.Management.Compute.nuspec
     licensed:
       declared: MIT
   12.0.0-prerelease:

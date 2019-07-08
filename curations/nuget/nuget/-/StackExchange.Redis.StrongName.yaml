@@ -11,6 +11,14 @@ revisions:
         path: StackExchange.Redis.StrongName.nuspec
     licensed:
       declared: MIT
+  1.1.603:
+    files:
+      - attributions:
+          - Copyright (c) 2014 Stack Exchange
+        license: MIT
+        path: StackExchange.Redis.StrongName.nuspec
+    licensed:
+      declared: MIT
   1.1.608:
     described:
       releaseDate: '2016-10-06'

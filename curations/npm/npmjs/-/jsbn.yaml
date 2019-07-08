@@ -1,0 +1,8 @@
+coordinates:
+  name: jsbn
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.0:
+    licensed:
+      declared: OTHER
