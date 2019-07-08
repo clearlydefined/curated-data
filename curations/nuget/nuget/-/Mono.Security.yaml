@@ -1,0 +1,8 @@
+coordinates:
+  name: Mono.Security
+  provider: nuget
+  type: nuget
+revisions:
+  5.4.0.201:
+    licensed:
+      declared: NONE
