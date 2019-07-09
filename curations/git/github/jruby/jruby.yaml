@@ -5,12 +5,15 @@ coordinates:
   type: git
 revisions:
   8a269e34ff3d242ec90fb08061f79c2757a5e157:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0 OR LGPL-2.1
     files:
       - license: OTHER
         path: core/src/main/java/org/jruby/util/MurmurHash.java
-      - license: (EPL-2.0 OR (GPL-2.0-or-later OR LGPL-2.1-or-later)) AND OTHER
+      - license: (EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND OTHER
         path: core/src/main/java/org/jruby/util/collections/ConcurrentWeakHashMap.java
       - license: OTHER
         path: core/src/main/java/org/jruby/util/collections/NonBlockingHashMapLong.java
       - license: OTHER
         path: core/src/test/java/org/jruby/util/MurmurHashTest.java
+
