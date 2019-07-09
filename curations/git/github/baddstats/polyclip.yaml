@@ -1,0 +1,9 @@
+coordinates:
+  name: polyclip
+  namespace: baddstats
+  provider: github
+  type: git
+revisions:
+  b761addb7a346c8ef7cce2dc26792a8b8f1fc747:
+    licensed:
+      declared: BSL-1.0
