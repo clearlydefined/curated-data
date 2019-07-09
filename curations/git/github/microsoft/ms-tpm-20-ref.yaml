@@ -1,0 +1,12 @@
+coordinates:
+  name: ms-tpm-20-ref
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  6cb570e90317c7927a0c6da86a27777376a9a433:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation
+        license: OTHER
+        path: LICENSE
