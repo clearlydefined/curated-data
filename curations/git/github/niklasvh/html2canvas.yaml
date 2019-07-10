@@ -1,0 +1,15 @@
+coordinates:
+  name: html2canvas
+  namespace: niklasvh
+  provider: github
+  type: git
+revisions:
+  9a6e57aa00e422bf22482dbf56de33d5aada3633:
+    files:
+      - attributions:
+          - Copyright (c) 2012 Niklas von Hertzen
+        license: MIT
+        path: LICENSE
+      - attributions:
+          - copyright Joyent, MIT license
+        path: tests/mocha/lib/expect.js
