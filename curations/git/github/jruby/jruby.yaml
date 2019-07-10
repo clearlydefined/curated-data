@@ -71,7 +71,7 @@ revisions:
         path: lib/ruby/stdlib/ffi/union.rb
       - attributions:
           - Copyright (c) 2008-2010 Wayne Meissner
-        license: CPL-1.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        license: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
         path: lib/ruby/stdlib/ffi/variadic.rb
       - attributions:
           - 'Copyright 2006 by Chad Fowler, Rich Kilmer, Jim Weirich and others.'
