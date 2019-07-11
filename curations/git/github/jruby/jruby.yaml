@@ -6,11 +6,82 @@ coordinates:
 revisions:
   8a269e34ff3d242ec90fb08061f79c2757a5e157:
     files:
+      - license: CPL-1.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: core/src/main/java/org/jruby/embed/osgi/internal/BundleWiringOSGiClassLoaderAdapter.java
+      - license: CPL-1.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: core/src/main/java/org/jruby/embed/osgi/internal/IOSGiClassLoaderAdapter.java
+      - attributions:
+          - Copyright (c) 2002-2011 JRuby Community
+        license: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: core/src/main/java/org/jruby/embed/osgi/internal/JRubyOSGiBundleClassLoader.java
+      - attributions:
+          - Copyright (c) 2002-2011 JRuby Community
+        license: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: core/src/main/java/org/jruby/embed/osgi/internal/OSGiBundleLibrary.java
+      - attributions:
+          - Copyright (c) 2002-2011 JRuby Community
+        license: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: core/src/main/java/org/jruby/embed/osgi/internal/OSGiLoadService.java
+      - license: CPL-1.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: core/src/main/java/org/jruby/embed/osgi/internal/ReflectiveOSGiClassLoaderAdapter.java
+      - attributions:
+          - Copyright (c) 2014 Timur Duehr <tduehr@gmail.com>
+          - Copyright (c) 2004-2005 Thomas E Enebo <enebo@acm.org>
+          - Copyright (c) 2002-2004 Jan Arne Petersen <jpetersen@uni-bonn.de>
+        license: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: core/src/main/java/org/jruby/internal/runtime/methods/NullMethod.java
       - license: OTHER
         path: core/src/main/java/org/jruby/util/MurmurHash.java
-      - license: (EPL-2.0 OR (GPL-2.0-or-later OR LGPL-2.1-or-later)) AND OTHER
+      - license: (EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND OTHER
         path: core/src/main/java/org/jruby/util/collections/ConcurrentWeakHashMap.java
       - license: OTHER
         path: core/src/main/java/org/jruby/util/collections/NonBlockingHashMapLong.java
       - license: OTHER
         path: core/src/test/java/org/jruby/util/MurmurHashTest.java
+      - attributions:
+          - Copyright (c) 2008-2010 Wayne Meissner
+        license: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: lib/ruby/stdlib/ffi/autopointer.rb
+      - attributions:
+          - Copyright (c) 2008 Wayne Meissner
+        license: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: lib/ruby/stdlib/ffi/errno.rb
+      - attributions:
+          - Copyright (c) 2008 JRuby project
+          - Copyright (c) 2007, 2008 Evan Phoenix All rights reserved.
+        license: (EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND BSD-3-Clause
+        path: lib/ruby/stdlib/ffi/ffi.rb
+      - attributions:
+          - Copyright (c) 2008 Wayne Meissner
+        license: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: lib/ruby/stdlib/ffi/io.rb
+      - attributions:
+          - Copyright (c) 2008-2010 Wayne Meissner
+          - Copyright (c) 2008 Luc Heinrich <luc@honk-honk.com>
+        license: (EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND BSD-3-Clause
+        path: lib/ruby/stdlib/ffi/library.rb
+      - attributions:
+          - Copyright (c) 2008-2010 Wayne Meissner
+        license: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: lib/ruby/stdlib/ffi/struct_layout_builder.rb
+      - attributions:
+          - Copyright (c) 2009-2010 Andrea Fazzi
+          - Copyright (c) 2009-2010 Wayne Meissner
+        license: (EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND BSD-3-Clause
+        path: lib/ruby/stdlib/ffi/union.rb
+      - attributions:
+          - Copyright (c) 2008-2010 Wayne Meissner
+        license: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: lib/ruby/stdlib/ffi/variadic.rb
+      - attributions:
+          - Copyright 2006 by Chad Fowler, Rich Kilmer, Jim Weirich and others. All rights reserved.
+        license: OTHER
+        path: lib/ruby/stdlib/rubygems/specification.rb
+      - license: CPL-1.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: maven/jruby/src/templates/osgi_all_inclusive/src/test/java/org/jruby/embed/osgi/test/JRubyOsgiEmbedTest.java
+      - license: CPL-1.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+        path: maven/jruby-complete/src/templates/osgi_many_bundles_with_embedded_gems/test/src/test/java/org/jruby/embed/osgi/test/JRubyOsgiEmbedTest.java
+
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0 OR LGPL-2.1
+
