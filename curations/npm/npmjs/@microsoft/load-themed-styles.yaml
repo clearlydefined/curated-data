@@ -11,3 +11,5 @@ revisions:
         revision: 34c2907306d89153cac65ceacba3bf687e3ff0d7
         type: git
         url: 'https://github.com/Microsoft/web-build-tools'
+        name: web-build-tools
+        namespace: Microsoft
