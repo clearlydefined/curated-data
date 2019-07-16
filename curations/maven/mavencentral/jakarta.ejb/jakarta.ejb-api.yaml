@@ -1,0 +1,44 @@
+coordinates:
+  name: jakarta.ejb-api
+  namespace: jakarta.ejb
+  provider: mavencentral
+  type: maven
+revisions:
+  3.2.5:
+    described:
+      sourceLocation:
+        name: ejb-api
+        namespace: eclipse-ee4j
+        provider: github
+        revision: 5d6d38591e977d876b1d57865d75142374a1859c
+        type: git
+        url: 'https://github.com/eclipse-ee4j/ejb-api/commit/5d6d38591e977d876b1d57865d75142374a1859c'
+    files:
+      - attributions:
+          - 'Copyright (c) 2009, 2018 Oracle and/or its affiliates.'
+        license: ' EPL-2.0 OR GPL-2.0-with-classpath-exception'
+        path: javax/ejb/package.html
+      - attributions:
+          - 'Copyright (c) 2009, 2018 Oracle and/or its affiliates.'
+        license: ' EPL-2.0 OR GPL-2.0-with-classpath-exception'
+        path: javax/ejb/embeddable/package.html
+      - attributions:
+          - 'Copyright (c) 2009, 2018 Oracle and/or its affiliates.'
+        license: ' EPL-2.0 OR GPL-2.0-with-classpath-exception'
+        path: javax/ejb/spi/package.html
+      - attributions:
+          - copyrighted by the Free Software Foundation
+          - 'Copyright (c) 1989, 1991 Free Software Foundation, Inc.'
+        license: EPL-2.0 OR GPL-2.0-with-classpath-exception
+        path: META-INF/LICENSE.md
+      - attributions:
+          - copyrighted by the Free Software Foundation
+          - 'Copyright (c) 1989, 1991 Free Software Foundation, Inc.'
+        license: ' EPL-2.0 OR GPL-2.0-with-classpath-exception'
+        path: META-INF/LICENSE.txt
+      - license: ' EPL-2.0 OR GPL-2.0-with-classpath-exception'
+        path: META-INF/MANIFEST.MF
+      - license: ' EPL-2.0 OR GPL-2.0-with-classpath-exception'
+        path: META-INF/NOTICE.md
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-with-classpath-exception
