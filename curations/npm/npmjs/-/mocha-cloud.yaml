@@ -11,3 +11,5 @@ revisions:
         revision: 080ecd89f90f1ed01a7c135526f9371eb4e21e00
         type: git
         url: 'https://github.com/tj/mocha-cloud'
+        name: mocha-cloud
+        namespace: tj
