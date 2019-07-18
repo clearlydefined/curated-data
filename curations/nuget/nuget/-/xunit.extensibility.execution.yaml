@@ -11,6 +11,8 @@ revisions:
         revision: 47fdc2669ae6aa28f6d642e202840193dfc7dbd7
         type: git
         url: 'https://github.com/xunit/xunit'
+        name: xunit
+        namespace: xunit
     licensed:
       declared: Apache-2.0
   2.2.0:

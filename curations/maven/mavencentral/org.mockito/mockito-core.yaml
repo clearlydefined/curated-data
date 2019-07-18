@@ -1,0 +1,14 @@
+coordinates:
+  name: mockito-core
+  namespace: org.mockito
+  provider: mavencentral
+  type: maven
+revisions:
+  2.8.9:
+    files:
+      - attributions:
+          - Copyright (c) 2007 Mockito contributors
+        license: MIT
+        path: LICENSE
+    licensed:
+      declared: MIT
