@@ -11,7 +11,10 @@ revisions:
         provider: github
         revision: 45dc98c86e5f551ef6b8356b7bc184d259dda798
         type: git
-        url: 'https://github.com/davidebbo/WebActivator/commit/45dc98c86e5f551ef6b8356b7bc184d259dda798'
+        url: >-
+          https://github.com/davidebbo/WebActivator/commit/45dc98c86e5f551ef6b8356b7bc184d259dda798
+        name: WebActivator
+        namespace: davidebbo
     licensed:
       declared: MS-PL
   2.1.0:
@@ -19,9 +22,12 @@ revisions:
       releaseDate: '2015-12-14'
       sourceLocation:
         provider: github
-        revision: '519d24bf11ada94a704c3e17a38040148c7d198c'
+        revision: 519d24bf11ada94a704c3e17a38040148c7d198c
         type: git
-        url: 'https://github.com/davidebbo/WebActivator/commit/519d24bf11ada94a704c3e17a38040148c7d198c'
+        url: >-
+          https://github.com/davidebbo/WebActivator/commit/519d24bf11ada94a704c3e17a38040148c7d198c
+        name: WebActivator
+        namespace: davidebbo
     licensed:
       declared: Apache-2.0
   2.2.0:
@@ -29,8 +35,11 @@ revisions:
       releaseDate: '2016-10-05'
       sourceLocation:
         provider: github
-        revision: '8a21247a5bdc61af3077bafceac602a9cb236875'
+        revision: 8a21247a5bdc61af3077bafceac602a9cb236875
         type: git
-        url: 'https://github.com/davidebbo/WebActivator/commit/8a21247a5bdc61af3077bafceac602a9cb236875'
+        url: >-
+          https://github.com/davidebbo/WebActivator/commit/8a21247a5bdc61af3077bafceac602a9cb236875
+        name: WebActivator
+        namespace: davidebbo
     licensed:
       declared: Apache-2.0
