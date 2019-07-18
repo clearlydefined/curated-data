@@ -1,0 +1,9 @@
+coordinates:
+  name: rapidjson
+  namespace: tencent
+  provider: github
+  type: git
+revisions:
+  17254e090e0dc3d5d1aca8efd6303cdbd07dbae1:
+    licensed:
+      declared: MIT
