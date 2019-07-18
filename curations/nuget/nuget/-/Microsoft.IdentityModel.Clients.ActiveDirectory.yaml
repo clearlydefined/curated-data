@@ -64,6 +64,9 @@ revisions:
         path: Microsoft.IdentityModel.Clients.ActiveDirectory.nuspec
     licensed:
       declared: MIT
+  4.4.1:
+    licensed:
+      declared: MIT
   4.5.0:
     described:
       sourceLocation:
