@@ -16,6 +16,9 @@ revisions:
           - 'Copyright (c) 2007, 2008 gnombat@users.sourceforge.net'
         license: GPL-3.0
         path: doc/sh_main.js
+  7e463500b2483c084d1dbc016806d6f1092ddabf:
+    licensed:
+      declared: MIT
   b0e5f195dfce3e2b99f5091373d49f6616682596:
     files:
       - attributions:

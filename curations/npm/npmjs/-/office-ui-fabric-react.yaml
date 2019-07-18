@@ -11,3 +11,5 @@ revisions:
         revision: 57ce3e716c9f9fa7e62cc00b2a77beb803b20d8e
         type: git
         url: 'https://github.com/OfficeDev/office-ui-fabric-react'
+        name: office-ui-fabric-react
+        namespace: OfficeDev

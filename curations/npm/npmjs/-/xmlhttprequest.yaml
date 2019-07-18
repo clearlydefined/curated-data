@@ -1,0 +1,8 @@
+coordinates:
+  name: xmlhttprequest
+  provider: npmjs
+  type: npm
+revisions:
+  1.5.0:
+    licensed:
+      declared: MIT

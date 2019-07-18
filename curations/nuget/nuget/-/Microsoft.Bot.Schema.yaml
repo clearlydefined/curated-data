@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Bot.Schema
+  provider: nuget
+  type: nuget
+revisions:
+  4.4.5:
+    licensed:
+      declared: MIT

@@ -13,7 +13,10 @@ revisions:
         provider: github
         revision: 771102a3c4e5b369c9157c78f3c6342a5fa14f40
         type: git
-        url: 'https://github.com/Azure/azure-sdk-for-net/commit/771102a3c4e5b369c9157c78f3c6342a5fa14f40'
+        url: >-
+          https://github.com/Azure/azure-sdk-for-net/commit/771102a3c4e5b369c9157c78f3c6342a5fa14f40
+        name: azure-sdk-for-net
+        namespace: Azure
     licensed:
       declared: Apache-2.0
   2.0.2-preview:
@@ -29,7 +32,10 @@ revisions:
         provider: github
         revision: 5ae66289165a99e66a5bc6c3a588d99ad384163c
         type: git
-        url: 'https://github.com/Azure/azure-sdk-for-net/commit/5ae66289165a99e66a5bc6c3a588d99ad384163c'
+        url: >-
+          https://github.com/Azure/azure-sdk-for-net/commit/5ae66289165a99e66a5bc6c3a588d99ad384163c
+        name: azure-sdk-for-net
+        namespace: Azure
     licensed:
       declared: MIT
   2.0.5-preview:

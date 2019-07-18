@@ -1,0 +1,8 @@
+coordinates:
+  name: engine.io-client
+  provider: npmjs
+  type: npm
+revisions:
+  1.5.4:
+    licensed:
+      declared: MIT
