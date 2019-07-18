@@ -11,3 +11,5 @@ revisions:
         revision: cb5933d3218d700a3f4af3d2a22bddb8839f0332
         type: git
         url: 'https://github.com/machadogj/redux-thunk-actions'
+        name: redux-thunk-actions
+        namespace: machadogj

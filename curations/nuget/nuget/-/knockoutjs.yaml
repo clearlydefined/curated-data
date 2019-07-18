@@ -12,5 +12,7 @@ revisions:
         revision: 212376a484f64d32cf49a6aaa4d5eee85aa7653a
         type: git
         url: 'https://github.com/knockout/knockout'
+        name: knockout
+        namespace: knockout
     licensed:
       declared: MIT

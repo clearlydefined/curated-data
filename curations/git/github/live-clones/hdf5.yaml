@@ -1,0 +1,19 @@
+coordinates:
+  name: hdf5
+  namespace: live-clones
+  provider: github
+  type: git
+revisions:
+  f3f29dc7df5f3cc41a5e9462d8c415e540cda3d6:
+    files:
+      - attributions:
+          - 'Copyright (c) 2006-2018, The HDF Group.'
+          - 'Copyright (c) 1998-2006, The Board of Trustees of the University of Illinois.'
+        license: BSD-3-Clause-LBNL
+        path: COPYING
+      - attributions:
+          - 'Copyright (c) 2016, The Regents of the University of California, through Lawrence Berkeley National Laboratory'
+        license: BSD-3-Clause-LBNL
+        path: COPYING_LBNL_HDF5
+    licensed:
+      declared: BSD-3-Clause-LBNL

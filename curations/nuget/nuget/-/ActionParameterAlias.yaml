@@ -11,6 +11,9 @@ revisions:
         provider: github
         revision: eb88faa8e9734b10b4da9d50201d671bce271ba9
         type: git
-        url: 'https://bitbucket.org/jeffreypalermo/action-parameter-alias/commits/eb88faa8e9734b10b4da9d50201d671bce271ba9'
+        url: >-
+          https://bitbucket.org/jeffreypalermo/action-parameter-alias/commits/eb88faa8e9734b10b4da9d50201d671bce271ba9
+        name: action-parameter-alias
+        namespace: jeffreypalermo
     licensed:
       declared: Apache 2.0

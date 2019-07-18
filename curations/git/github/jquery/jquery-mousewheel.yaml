@@ -1,0 +1,9 @@
+coordinates:
+  name: jquery-mousewheel
+  namespace: jquery
+  provider: github
+  type: git
+revisions:
+  a06ef4e1a127795606642c55e22d4f2945edc061:
+    licensed:
+      declared: MIT

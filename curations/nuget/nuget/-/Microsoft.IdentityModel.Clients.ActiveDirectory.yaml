@@ -21,6 +21,8 @@ revisions:
     described:
       releaseDate: '2017-03-22'
       sourceLocation:
+        name: azure-activedirectory-library-for-dotnet
+        namespace: azuread
         provider: github
         revision: eddfa8ebda9e734efdc42ea6d41ea98bc7c998f3
         type: git
@@ -73,5 +75,32 @@ revisions:
           - Copyright (c) Microsoft Corporation
         license: MIT
         path: Microsoft.IdentityModel.Clients.ActiveDirectory.nuspec
+    licensed:
+      declared: MIT
+  4.5.1:
+    described:
+      sourceLocation:
+        name: azure-activedirectory-library-for-dotnet
+        namespace: azuread
+        provider: github
+        revision: 5e8d4df3f35e7c3df899eaf2037d15a866f3531b
+        type: git
+        url: 'https://github.com/azuread/azure-activedirectory-library-for-dotnet/commit/5e8d4df3f35e7c3df899eaf2037d15a866f3531b'
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation
+        license: MIT
+        path: Microsoft.IdentityModel.Clients.ActiveDirectory.nuspec
+    licensed:
+      declared: MIT
+  5.0.5:
+    described:
+      sourceLocation:
+        name: azure-activedirectory-library-for-dotnet
+        namespace: azuread
+        provider: github
+        revision: 99f1dd308ad4ad8aeb3ca90014e0f1c12e219490
+        type: git
+        url: 'https://github.com/azuread/azure-activedirectory-library-for-dotnet/commit/99f1dd308ad4ad8aeb3ca90014e0f1c12e219490'
     licensed:
       declared: MIT
