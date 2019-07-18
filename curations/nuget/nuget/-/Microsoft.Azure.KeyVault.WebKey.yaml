@@ -16,6 +16,9 @@ revisions:
         namespace: Azure
     licensed:
       declared: MIT
+  2.0.6:
+    licensed:
+      declared: MIT
   2.0.7:
     described:
       releaseDate: '2017-06-28'
