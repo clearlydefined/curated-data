@@ -1,0 +1,9 @@
+coordinates:
+  name: secp256k1
+  namespace: bitcoin-core
+  provider: github
+  type: git
+revisions:
+  84973d393ac240a90b2e1a6538c5368202bc2224:
+    licensed:
+      declared: MIT
