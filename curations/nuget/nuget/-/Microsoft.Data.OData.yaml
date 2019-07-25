@@ -12,6 +12,12 @@ revisions:
   5.8.2:
     licensed:
       declared: MIT
+  5.8.3:
+    files:
+      - license: MIT
+        path: Microsoft.Data.OData.nuspec
+    licensed:
+      declared: MIT
   5.8.4:
     licensed:
       declared: mit
