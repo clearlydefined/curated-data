@@ -1,0 +1,9 @@
+coordinates:
+  name: libapps-mirror
+  namespace: libapps
+  provider: github
+  type: git
+revisions:
+  d23d3679a7e921ab80eb79dde47720362166bc59:
+    licensed:
+      declared: BSD-3-Clause
