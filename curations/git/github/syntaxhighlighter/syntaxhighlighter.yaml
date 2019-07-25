@@ -1,0 +1,9 @@
+coordinates:
+  name: syntaxhighlighter
+  namespace: syntaxhighlighter
+  provider: github
+  type: git
+revisions:
+  682bf8cfd5a0686d51ed16325b72625ddf64ae11:
+    licensed:
+      declared: MIT
