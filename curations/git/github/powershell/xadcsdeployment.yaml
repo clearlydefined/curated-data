@@ -1,0 +1,9 @@
+coordinates:
+  name: xadcsdeployment
+  namespace: powershell
+  provider: github
+  type: git
+revisions:
+  fe857ca63d76e2ccd3c2b2add5605d598eef919b:
+    licensed:
+      declared: MIT
