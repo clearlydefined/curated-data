@@ -1,0 +1,9 @@
+coordinates:
+  name: testify
+  namespace: stretchr
+  provider: github
+  type: git
+revisions:
+  d77da356e56a7428ad25149ca77381849a6a5232:
+    licensed:
+      declared: MIT
