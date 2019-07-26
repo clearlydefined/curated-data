@@ -1,0 +1,9 @@
+coordinates:
+  name: estraverse
+  namespace: estools
+  provider: github
+  type: git
+revisions:
+  9c249de6b2ea08655d3c68bfc30b5d7d81dc8703:
+    licensed:
+      declared: BSD-2-Clause
