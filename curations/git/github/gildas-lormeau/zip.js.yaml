@@ -1,0 +1,9 @@
+coordinates:
+  name: zip.js
+  namespace: gildas-lormeau
+  provider: github
+  type: git
+revisions:
+  563fe1da2579e55ae0ab1fed38a3b37a234e239e:
+    licensed:
+      declared: BSD-2-Clause AND BSD-3-Clause
