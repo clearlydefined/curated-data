@@ -1,0 +1,9 @@
+coordinates:
+  name: esutils
+  namespace: estools
+  provider: github
+  type: git
+revisions:
+  3ffd1c403f3f29db9e8a9574b1895682e57b6a7f:
+    licensed:
+      declared: BSD-2-Clause
