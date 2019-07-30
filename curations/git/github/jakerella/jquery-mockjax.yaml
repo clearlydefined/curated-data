@@ -1,0 +1,9 @@
+coordinates:
+  name: jquery-mockjax
+  namespace: jakerella
+  provider: github
+  type: git
+revisions:
+  0850526a37265d2311f06fc2f9138369e3df70ac:
+    licensed:
+      declared: MIT OR GPL-2.0-only
