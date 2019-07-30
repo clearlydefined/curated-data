@@ -1,0 +1,9 @@
+coordinates:
+  name: string_score
+  namespace: joshaven
+  provider: github
+  type: git
+revisions:
+  3b51216ccaa15a795df27502df5e8fbca554c0ab:
+    licensed:
+      declared: MIT
