@@ -1,0 +1,9 @@
+coordinates:
+  name: context
+  namespace: gorilla
+  provider: github
+  type: git
+revisions:
+  aed02d124ae4a0e94fea4541c8effd05bf0c8296:
+    licensed:
+      declared: BSD-3-Clause
