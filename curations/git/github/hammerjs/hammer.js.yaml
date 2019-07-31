@@ -1,0 +1,9 @@
+coordinates:
+  name: hammer.js
+  namespace: hammerjs
+  provider: github
+  type: git
+revisions:
+  c6a0b6fcfeafa4c92bcfa32305e18e36904be5bf:
+    licensed:
+      declared: MIT
