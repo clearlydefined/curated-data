@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  3b51216ccaa15a795df27502df5e8fbca554c0ab:
+    licensed:
+      declared: MIT
   266e98295c44f435977303ce6ffffde299b4cf1d:
     licensed:
       declared: MIT
