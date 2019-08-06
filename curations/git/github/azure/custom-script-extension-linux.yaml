@@ -1,0 +1,9 @@
+coordinates:
+  name: custom-script-extension-linux
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  f21ef819c141dd6d4a680bc7b1424f40fa0cb8c0:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: jts
+  namespace: locationtech
+  provider: github
+  type: git
+revisions:
+  b57d591be10906c1729eeb8a2b7d95d4238c2a66:
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause

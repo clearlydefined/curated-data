@@ -1,0 +1,9 @@
+coordinates:
+  name: gojsonschema
+  namespace: xeipuuv
+  provider: github
+  type: git
+revisions:
+  c539bca196be50ccdd1f0bcd9076de95f9081831:
+    licensed:
+      declared: Apache-2.0

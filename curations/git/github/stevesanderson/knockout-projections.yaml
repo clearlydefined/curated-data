@@ -1,0 +1,9 @@
+coordinates:
+  name: knockout-projections
+  namespace: stevesanderson
+  provider: github
+  type: git
+revisions:
+  01cb07b27b305c0240de7aa92687110e68432706:
+    licensed:
+      declared: Apache-2.0

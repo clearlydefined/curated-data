@@ -1,0 +1,9 @@
+coordinates:
+  name: mux
+  namespace: gorilla
+  provider: github
+  type: git
+revisions:
+  9fa818a44c2bf1396a17f9d5a3c0f6dd39d2ff8e:
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,9 @@
+coordinates:
+  name: jquery-color
+  namespace: jquery
+  provider: github
+  type: git
+revisions:
+  9e5e04c1c4ee66427fbe04cfce8155b76748ca64:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: uri.js
+  namespace: medialize
+  provider: github
+  type: git
+revisions:
+  2a98b53606bbef249ec694210621eef109314c66:
+    licensed:
+      declared: MIT

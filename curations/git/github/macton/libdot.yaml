@@ -1,0 +1,9 @@
+coordinates:
+  name: libdot
+  namespace: macton
+  provider: github
+  type: git
+revisions:
+  be8c52cb78b27f941534abcff6f111c7ca4235e0:
+    licensed:
+      declared: BSD-3-Clause
