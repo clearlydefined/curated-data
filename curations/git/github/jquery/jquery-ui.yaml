@@ -1,0 +1,9 @@
+coordinates:
+  name: jquery-ui
+  namespace: jquery
+  provider: github
+  type: git
+revisions:
+  d6713024e16de90ea71dc0544ba34e1df01b4d8a:
+    licensed:
+      declared: MIT

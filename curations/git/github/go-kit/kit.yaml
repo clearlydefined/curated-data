@@ -1,0 +1,9 @@
+coordinates:
+  name: kit
+  namespace: go-kit
+  provider: github
+  type: git
+revisions:
+  b076b44dbec2aa943b52c9efaa5e8b46fd52b061:
+    licensed:
+      declared: MIT

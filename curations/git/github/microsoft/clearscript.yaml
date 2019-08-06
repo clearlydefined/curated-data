@@ -1,0 +1,9 @@
+coordinates:
+  name: clearscript
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  ba8bf459e44aab693d58c6df4a80bb481319e04f:
+    licensed:
+      declared: MS-PL

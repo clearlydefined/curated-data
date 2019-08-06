@@ -4,7 +4,6 @@ coordinates:
   provider: github
   type: git
 revisions:
-  35482d03ee7520b1afe0b437a6e66150369378a7:
     files:
       - license: MIT
         path: Package.nuspec
