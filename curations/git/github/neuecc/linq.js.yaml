@@ -1,0 +1,9 @@
+coordinates:
+  name: linq.js
+  namespace: neuecc
+  provider: github
+  type: git
+revisions:
+  b5b4be8724c6e53fa6dab3900d23c5675f732dcd:
+    licensed:
+      declared: MS-PL

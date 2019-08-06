@@ -1,0 +1,9 @@
+coordinates:
+  name: libphonenumber
+  namespace: googlei18n
+  provider: github
+  type: git
+revisions:
+  932279c6394430539c92007f69b303c6786c9b73:
+    licensed:
+      declared: Apache-2.0
