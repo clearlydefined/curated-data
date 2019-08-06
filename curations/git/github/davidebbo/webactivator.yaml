@@ -1,0 +1,9 @@
+coordinates:
+  name: webactivator
+  namespace: davidebbo
+  provider: github
+  type: git
+revisions:
+  4ffb63b9076de8206ff8ba8ebb71c71a88601cbc:
+    licensed:
+      declared: MS-PL

@@ -1,0 +1,24 @@
+coordinates:
+  name: jakarta.ejb-api
+  namespace: jakarta.ejb
+  provider: mavencentral
+  type: maven
+revisions:
+  3.2.5:
+    described:
+      sourceLocation:
+        name: ejb-api
+        namespace: eclipse-ee4j
+        provider: github
+        revision: 5d6d38591e977d876b1d57865d75142374a1859c
+        type: git
+        url: 'https://github.com/eclipse-ee4j/ejb-api/commit/5d6d38591e977d876b1d57865d75142374a1859c'
+    files:
+      - license: ' EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0 '
+        path: META-INF/LICENSE.md
+      - license: ' CDDL-1.0 OR GPL-2.0 WITH Classpath-exception-2.0'
+        path: META-INF/LICENSE.txt
+      - license: ' EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0 '
+        path: META-INF/NOTICE.md
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0

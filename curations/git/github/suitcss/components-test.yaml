@@ -1,0 +1,9 @@
+coordinates:
+  name: components-test
+  namespace: suitcss
+  provider: github
+  type: git
+revisions:
+  7dc65fc33cd463fce87180fd83dc83deea1864f8:
+    licensed:
+      declared: MIT

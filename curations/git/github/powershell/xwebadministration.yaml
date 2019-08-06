@@ -1,0 +1,9 @@
+coordinates:
+  name: xwebadministration
+  namespace: powershell
+  provider: github
+  type: git
+revisions:
+  a9b868c45f392f992fc2110f38bb1f6a1adbe171:
+    licensed:
+      declared: MIT

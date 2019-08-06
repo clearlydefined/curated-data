@@ -1,0 +1,9 @@
+coordinates:
+  name: oauth2-oidc-sdk
+  namespace: com.nimbusds
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  5.18.1:
+    licensed:
+      declared: Apache-2.0

@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  13e9cde0efeadbbc5b3a375ee642bed394dd3a59:
+    licensed:
+      declared: GPL-2.0-only OR MIT
   15d261b9673e153f9e9710da897de62c306afe53:
     files:
       - attributions:
