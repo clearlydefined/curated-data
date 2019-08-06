@@ -1,0 +1,9 @@
+coordinates:
+  name: vscode
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  91da4276775da6adafaed44281946344f57800cd:
+    licensed:
+      declared: MIT

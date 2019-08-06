@@ -1,0 +1,9 @@
+coordinates:
+  name: azurestack-tools
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  700ca7188bb78aeff2468dfccad4d7cdca348ba2:
+    licensed:
+      declared: MIT

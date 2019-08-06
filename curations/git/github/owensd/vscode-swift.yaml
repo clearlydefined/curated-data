@@ -1,0 +1,9 @@
+coordinates:
+  name: vscode-swift
+  namespace: owensd
+  provider: github
+  type: git
+revisions:
+  cdfa70be73dd877137a535085cf91ada37757277:
+    licensed:
+      declared: MIT

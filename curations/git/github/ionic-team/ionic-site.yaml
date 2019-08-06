@@ -1,0 +1,9 @@
+coordinates:
+  name: ionic-site
+  namespace: ionic-team
+  provider: github
+  type: git
+revisions:
+  6e03c13a2e31e8bcf94e2745a010f250dc5a9f33:
+    licensed:
+      declared: Apache-2.0
