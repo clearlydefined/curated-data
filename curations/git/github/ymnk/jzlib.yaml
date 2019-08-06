@@ -1,0 +1,9 @@
+coordinates:
+  name: jzlib
+  namespace: ymnk
+  provider: github
+  type: git
+revisions:
+  9ac3b92b8bccdee57e193a1cc62dfd9ae60ad83b:
+    licensed:
+      declared: BSD-3-Clause

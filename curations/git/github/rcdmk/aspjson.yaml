@@ -4,6 +4,12 @@ coordinates:
   provider: github
   type: git
 revisions:
+  68cb0af343f20a599f09ebd0529221443f08dd23:
+    files:
+      - license: CC-BY-3.0
+        path: json.class.asp
+    licensed:
+      declared: CC-BY-3.0
   8645d93585fe838277734f6c1fae72b8f52fdc27:
     licensed:
       declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: razorengine
+  namespace: antaris
+  provider: github
+  type: git
+revisions:
+  4399028120f3c570fc8049fba9c055ac9be81468:
+    licensed:
+      declared: Apache-2.0

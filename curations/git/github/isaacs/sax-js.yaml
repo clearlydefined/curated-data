@@ -1,0 +1,9 @@
+coordinates:
+  name: sax-js
+  namespace: isaacs
+  provider: github
+  type: git
+revisions:
+  2dcb936a90262c952838d43edda739ec831aea88:
+    licensed:
+      declared: BSD-2-Clause

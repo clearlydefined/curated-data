@@ -1,0 +1,8 @@
+coordinates:
+  name: fmt
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.0:
+    licensed:
+      declared: MIT

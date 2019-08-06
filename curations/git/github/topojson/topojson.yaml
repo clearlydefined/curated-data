@@ -1,0 +1,14 @@
+coordinates:
+  name: topojson
+  namespace: topojson
+  provider: github
+  type: git
+revisions:
+  d33d59343552f986fd90df83e3947b53011874f1:
+    files:
+      - attributions:
+          - 'Copyright (c) 2012, Michael Bostock All rights reserved.'
+        license: BSD-3-Clause
+        path: LICENSE
+    licensed:
+      declared: BSD-3-Clause

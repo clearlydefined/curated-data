@@ -1,0 +1,9 @@
+coordinates:
+  name: backport-util-concurrent
+  namespace: backport-util-concurrent
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  '3.1':
+    licensed:
+      declared: CC0-1.0
