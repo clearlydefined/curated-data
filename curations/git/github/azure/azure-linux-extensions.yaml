@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-linux-extensions
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  9c96c34f085c0212430330ff11f1c68170403697:
+    licensed:
+      declared: Apache-2.0
