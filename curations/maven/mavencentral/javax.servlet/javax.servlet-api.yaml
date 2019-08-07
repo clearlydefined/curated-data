@@ -13,5 +13,39 @@ revisions:
         revision: bf383f0b9274365c512b31d2e7cd29224e405515
         type: git
         url: 'https://github.com/javaee/servlet-spec/commit/bf383f0b9274365c512b31d2e7cd29224e405515'
+    files:
+      - attributions:
+          - Copyright 2004 The Apache Software Foundation
+          - Copyright (c) 1997-2010 Oracle and/or its affiliates.
+        license: Apache-2.0 AND (CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0)
+        path: javax/servlet/LocalStrings_ja.properties
+      - attributions:
+          - Copyright 2004 The Apache Software Foundation
+          - Copyright (c) 1997-2010 Oracle and/or its affiliates.
+        license: Apache-2.0 AND (CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0)
+        path: javax/servlet/LocalStrings.properties
+      - attributions:
+          - Copyright 2004 The Apache Software Foundation
+          - Copyright (c) 1997-2010 Oracle and/or its affiliates.
+        license: Apache-2.0 AND (CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0)
+        path: javax/servlet/LocalStrings_fr.properties
+      - attributions:
+          - Copyright 2004 The Apache Software Foundation
+          - Copyright (c) 1997-2010 Oracle and/or its affiliates.
+        license: Apache-2.0 AND (CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0)
+        path: javax/servlet/package.html
+      - attributions:
+          - copyrighted by the Free Software Foundation
+          - 'Copyright (c) 1989, 1991 Free Software Foundation, Inc.'
+        license: CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0
+        path: META-INF/LICENSE.txt
+      - attributions:
+          - Copyright (c) 2009-2010 Oracle and/or its affiliates.
+        license: CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0
+        path: javax/servlet/descriptor/package.html
+      - attributions:
+          - Copyright (c) 2008-2010 Oracle and/or its affiliates.
+        license: CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0
+        path: javax/servlet/annotation/package.html
     licensed:
       declared: CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0
