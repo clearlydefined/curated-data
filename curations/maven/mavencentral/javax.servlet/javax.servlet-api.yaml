@@ -14,4 +14,4 @@ revisions:
         type: git
         url: 'https://github.com/javaee/servlet-spec/commit/bf383f0b9274365c512b31d2e7cd29224e405515'
     licensed:
-      declared: Apache-2.0 AND (CDDL-1.1 OR GPL-2.0-with-classpath-exception)
+      declared: CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0
