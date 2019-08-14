@@ -1,0 +1,9 @@
+coordinates:
+  name: nbconvert
+  namespace: jupyter
+  provider: github
+  type: git
+revisions:
+  203656bd7a98691a2f0aba51f417b193f112fbea:
+    licensed:
+      declared: BSD-3-Clause
