@@ -35,11 +35,6 @@ revisions:
         license: Apache-2.0 AND (CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0)
         path: javax/servlet/package.html
       - attributions:
-          - copyrighted by the Free Software Foundation
-          - 'Copyright (c) 1989, 1991 Free Software Foundation, Inc.'
-        license: CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0
-        path: META-INF/LICENSE.txt
-      - attributions:
           - Copyright (c) 2009-2010 Oracle and/or its affiliates. All rights reserved.
         license: CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: javax/servlet/descriptor/package.html
