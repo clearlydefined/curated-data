@@ -1,0 +1,9 @@
+coordinates:
+  name: candiedyaml
+  namespace: cloudfoundry-incubator
+  provider: github
+  type: git
+revisions:
+  cff29b469e0f490ab8c169b6a2c237543f46a1de:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: protobuf
+  namespace: google
+  provider: github
+  type: git
+revisions:
+  66dc42d891a4fc8e9190c524fd67961688a37bbe:
+    licensed:
+      declared: BSD-3-Clause

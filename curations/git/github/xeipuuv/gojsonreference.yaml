@@ -1,0 +1,9 @@
+coordinates:
+  name: gojsonreference
+  namespace: xeipuuv
+  provider: github
+  type: git
+revisions:
+  e02fc20de94c78484cd5ffb007f8af96be030a45:
+    licensed:
+      declared: Apache-2.0

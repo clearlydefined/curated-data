@@ -1,0 +1,9 @@
+coordinates:
+  name: rtable
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  698947baa2a79484a03e04ef9dc3b71bea773dc9:
+    licensed:
+      declared: MIT

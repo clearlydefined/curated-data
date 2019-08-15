@@ -1,0 +1,9 @@
+coordinates:
+  name: smhasher
+  namespace: aappleby
+  provider: github
+  type: git
+revisions:
+  61a0530f28277f2e850bfc39600ce61d02b518de:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: momentjs.com
+  namespace: moment
+  provider: github
+  type: git
+revisions:
+  1b8a95c475f9a6cfc49d0e10af3ee668af833fe0:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: json-schema
+  namespace: kriszyp
+  provider: github
+  type: git
+revisions:
+  07ae2c618b5f581dbc108e065f4f95dcf0a1d85f:
+    licensed:
+      declared: AFL-2.1 OR BSD-3-Clause
