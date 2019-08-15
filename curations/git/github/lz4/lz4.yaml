@@ -7,6 +7,9 @@ revisions:
   69dbafc1c4806f6c05e28c01117799087f498a2f:
     licensed:
       declared: BSD-2-Clause AND GPL-2.0-only
+  c04df7e1b5fb1e4ffa796d2b3d2dea208f7116da:
+    licensed:
+      declared: BSD-2-Clause AND GPL-2.0
   dfed9fa1d77f0434306d377c4da1f7191d3ba08a:
     described:
       facets:
