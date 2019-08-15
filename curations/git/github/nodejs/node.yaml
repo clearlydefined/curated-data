@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  0974fc6a25c343744235331eb20d31f6412ff7e1:
+    licensed:
+      declared: MIT
   30d9e9fdd9d4c33d3d95a129d021cd8b5b91eddb:
     files:
       - attributions:
@@ -31,3 +34,6 @@ revisions:
           - 'Copyright (c) 2007, 2008 gnombat@users.sourceforge.net'
         license: GPL-3.0
         path: doc/sh_main.js
+  ff992037246010fdad6f72323fe556da69640531:
+    licensed:
+      declared: MIT

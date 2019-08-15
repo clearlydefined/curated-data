@@ -1,0 +1,9 @@
+coordinates:
+  name: jawn-fs2
+  namespace: http4s
+  provider: github
+  type: git
+revisions:
+  36dd593b79fbdf46bb76dc921a04b9551d97c2d9:
+    licensed:
+      declared: Apache-2.0

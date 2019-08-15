@@ -1,0 +1,15 @@
+coordinates:
+  name: azure-docker-extension
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  2727dce2785d0a3cdca692387b0acee36b908351:
+    licensed:
+      declared: Apache-2.0
+  8c5236a9ab19fabd2fb77c606b419caad376f6d7:
+    licensed:
+      declared: Apache-2.0
+  0dd2f199467db78e91d28c30d8595d1bcaf776de:
+    licensed:
+      declared: Apache-2.0

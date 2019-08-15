@@ -1,0 +1,9 @@
+coordinates:
+  name: taurus
+  namespace: blazemeter
+  provider: github
+  type: git
+revisions:
+  ab027e19e818987a516b361802165c242cce4c2a:
+    licensed:
+      declared: Apache-2.0

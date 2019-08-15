@@ -1,0 +1,9 @@
+coordinates:
+  name: gojsonpointer
+  namespace: xeipuuv
+  provider: github
+  type: git
+revisions:
+  e0fe6f68307607d540ed8eac07a342c33fa1b54a:
+    licensed:
+      declared: Apache-2.0

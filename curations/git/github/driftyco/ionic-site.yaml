@@ -1,0 +1,9 @@
+coordinates:
+  name: ionic-site
+  namespace: driftyco
+  provider: github
+  type: git
+revisions:
+  a914b37f41bd0968c2a3db6e3436be9b44b7f4aa:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: cli-table
+  namespace: automattic
+  provider: github
+  type: git
+revisions:
+  e35ccee7341e8574839df751a8aa10acd5a82a5b:
+    licensed:
+      declared: MIT
