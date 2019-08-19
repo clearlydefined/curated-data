@@ -1,0 +1,16 @@
+coordinates:
+  name: justify
+  namespace: leadpony
+  provider: github
+  type: git
+revisions:
+  67675fc0c3751644defea361c354685430982d0c:
+    files:
+      - attributions:
+          - Copyright (c) 2012-2013 Ecma International
+        license: BSD-3-Clause
+        path: LICENSE-Test262-ECMAScript-Test-Suite
+      - attributions:
+          - Copyright (c) 2012-2013 Ecma International
+        license: BSD-3-Clause
+        path: justify/src/test/resources/org/ecma_international/test262/built_ins/regexp/README.md
