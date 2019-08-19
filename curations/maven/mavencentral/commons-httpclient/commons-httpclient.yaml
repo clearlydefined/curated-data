@@ -1,0 +1,12 @@
+coordinates:
+  name: commons-httpclient
+  namespace: commons-httpclient
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.2:
+    files:
+      - license: ''
+        path: META-INF/LICENSE.txt
+    licensed:
+      declared: Apache-2.0
