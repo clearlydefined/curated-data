@@ -1,0 +1,33 @@
+coordinates:
+  name: latlongtotimezone
+  namespace: drtimcooper
+  provider: github
+  type: git
+revisions:
+  dc92faf0d6c80338dad4fc884f153ab29b7824fa:
+    files:
+      - attributions:
+          - 'Copyright (c) 1999, Frank Warmerdam'
+        license: LGPL-2.0-or-later OR MIT
+        path: convertingShapeFilesToJson/toJson.c
+      - attributions:
+          - Copyright (c) 2005 Springs Rescue Mission
+        license: GPL-2.0-or-later
+        path: convertingShapeFilesToJson/contrib/csv2shp.c
+      - attributions:
+          - 'Copyright (c) 1992, 1996 Free Software Foundation, Inc.'
+        license: 'LGPL-2.0-or-later '
+        path: convertingShapeFilesToJson/contrib/my_nan.h
+      - attributions:
+          - 'Copyright (c) 2004, Marko Podgorsek, d-mon@siol.net'
+        license: LGPL-2.0-or-later OR MIT
+        path: convertingShapeFilesToJson/contrib/Shape_PointInPoly.cpp
+      - attributions:
+          - 'Copyright (c) 2002, Keven Meyer (Kevin@CyberTracker.co.za)'
+        license: LGPL-2.0-or-later OR MIT
+        path: convertingShapeFilesToJson/contrib/ShapeFileII.pas
+      - attributions:
+          - (c) 1998 Frank Warmerdam
+          - 'Copyright (c) 1999, Frank Warmerdam'
+        license: LGPL-2.0-or-later OR MIT
+        path: convertingShapeFilesToJson/web/license.html
