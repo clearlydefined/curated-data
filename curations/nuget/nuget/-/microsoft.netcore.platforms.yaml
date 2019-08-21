@@ -1,0 +1,8 @@
+coordinates:
+  name: microsoft.netcore.platforms
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0-preview8.19405.3:
+    licensed:
+      declared: MIT
