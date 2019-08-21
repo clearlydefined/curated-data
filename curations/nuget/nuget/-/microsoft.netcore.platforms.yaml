@@ -5,4 +5,4 @@ coordinates:
 revisions:
   3.0.0-preview8.19405.3:
     licensed:
-      declared: NOASSERTION
+      declared: MIT
