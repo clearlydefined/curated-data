@@ -7,18 +7,18 @@ revisions:
   3b06d1a4eaf67c6a1f37fe69fb8923f185ce3b57:
     files:
       - attributions:
-          - Copyright (c) 2013-2015 Flipboard.
+          - Copyright (c) 2013-2015 Flipboard. All rights reserved.
         license: MIT
         path: TZImagePickerController/FLAnimatedImage/FLAnimatedImage.h
       - attributions:
-          - Copyright (c) 2013-2015 Flipboard.
+          - Copyright (c) 2013-2015 Flipboard. All rights reserved.
         license: MIT
         path: TZImagePickerController/FLAnimatedImage/FLAnimatedImage.m
       - attributions:
-          - Copyright (c) 2013-2015 Flipboard.
+          - Copyright (c) 2013-2015 Flipboard. All rights reserved.
         license: MIT
         path: TZImagePickerController/FLAnimatedImage/FLAnimatedImageView.h
       - attributions:
-          - Copyright (c) 2013-2015 Flipboard.
+          - Copyright (c) 2013-2015 Flipboard. All rights reserved.
         license: MIT
         path: TZImagePickerController/FLAnimatedImage/FLAnimatedImageView.m
