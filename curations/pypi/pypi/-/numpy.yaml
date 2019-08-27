@@ -1,0 +1,8 @@
+coordinates:
+  name: numpy
+  provider: pypi
+  type: pypi
+revisions:
+  1.14.5:
+    licensed:
+      declared: BSD-3-Clause
