@@ -1,0 +1,8 @@
+coordinates:
+  name: protobuf
+  provider: pypi
+  type: pypi
+revisions:
+  3.9.1:
+    licensed:
+      declared: BSD-3-Clause
