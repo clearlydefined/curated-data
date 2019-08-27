@@ -1,0 +1,8 @@
+coordinates:
+  name: pillow
+  provider: pypi
+  type: pypi
+revisions:
+  5.4.1:
+    licensed:
+      declared: OTHER
