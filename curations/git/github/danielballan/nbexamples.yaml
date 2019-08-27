@@ -1,0 +1,9 @@
+coordinates:
+  name: nbexamples
+  namespace: danielballan
+  provider: github
+  type: git
+revisions:
+  b14421ef9a88828b5a0e76d376043ee0f13f9da8:
+    licensed:
+      declared: BSD-3-Clause
