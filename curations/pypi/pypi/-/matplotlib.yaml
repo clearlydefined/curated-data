@@ -1,0 +1,8 @@
+coordinates:
+  name: matplotlib
+  provider: pypi
+  type: pypi
+revisions:
+  3.0.2:
+    licensed:
+      declared: OTHER
