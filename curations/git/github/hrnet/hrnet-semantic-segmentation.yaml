@@ -1,0 +1,9 @@
+coordinates:
+  name: hrnet-semantic-segmentation
+  namespace: hrnet
+  provider: github
+  type: git
+revisions:
+  06142dc1c7026e256a7561c3e875b06622b5670f:
+    licensed:
+      declared: MIT
