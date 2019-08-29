@@ -1,0 +1,9 @@
+coordinates:
+  name: optee_os
+  namespace: ms-iot
+  provider: github
+  type: git
+revisions:
+  bc454ea594eefeed0ffb4baa1fdc09f47cdc1704:
+    licensed:
+      declared: BSD-2-Clause
