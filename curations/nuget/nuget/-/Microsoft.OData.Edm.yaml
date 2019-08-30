@@ -8,10 +8,13 @@ revisions:
       declared: MIT
   7.2.0:
     licensed:
-      declared: MIT      
+      declared: MIT
   7.5.1:
     licensed:
       declared: MIT
   7.5.2:
+    licensed:
+      declared: MIT
+  7.5.4:
     licensed:
       declared: MIT
