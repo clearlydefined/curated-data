@@ -22,3 +22,6 @@ revisions:
         path: Microsoft.Diagnostics.Tracing.TraceEvent.nuspec
     licensed:
       declared: MIT
+  2.0.43:
+    licensed:
+      declared: MIT
