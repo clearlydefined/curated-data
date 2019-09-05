@@ -6,10 +6,10 @@ revisions:
   2.23.302261847:
     licensed:
       declared: Apache-2.0
-  2.28.2:
+  2.28.1:
     licensed:
       declared: Apache-2.0
-  2.28.1:
+  2.28.2:
     licensed:
       declared: Apache-2.0
   2.28.3:
@@ -65,6 +65,9 @@ revisions:
           - Copyright (c) Microsoft Corporation
         license: ''
         path: Microsoft.IdentityModel.Clients.ActiveDirectory.nuspec
+    licensed:
+      declared: MIT
+  4.3.0:
     licensed:
       declared: MIT
   4.4.1:
