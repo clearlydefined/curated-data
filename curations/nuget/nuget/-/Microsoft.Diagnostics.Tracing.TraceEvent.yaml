@@ -25,3 +25,14 @@ revisions:
   2.0.43:
     licensed:
       declared: MIT
+  2.0.44:
+    described:
+      sourceLocation:
+        name: perfview
+        namespace: microsoft
+        provider: github
+        revision: 6ccbcb4c3d762a03facee49afd04087fc080ceed
+        type: git
+        url: 'https://github.com/microsoft/perfview/commit/6ccbcb4c3d762a03facee49afd04087fc080ceed'
+    licensed:
+      declared: MIT
