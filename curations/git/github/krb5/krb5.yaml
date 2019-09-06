@@ -1,0 +1,60 @@
+coordinates:
+  name: krb5
+  namespace: krb5
+  provider: github
+  type: git
+revisions:
+  97e3c42b2a89a2ec60eb93d3f974769e3e3cbdc5:
+    files:
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - Copyright 1990 by the Massachusetts Institute of Technology. All Rights Reserved.
+        license: BSD-3-Clause AND OTHER
+        path: src/lib/krb5/krb/authdata_dec.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - Copyright 1990 by the Massachusetts Institute of Technology.All Rights Reserved.
+        license: BSD-3-Clause AND OTHER
+        path: src/lib/krb5/krb/copy_auth.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - Copyright 1990 by the Massachusetts Institute of Technology.All Rights Reserved.
+        license: BSD-3-Clause AND OTHER
+        path: src/lib/krb5/krb/authdata_enc.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - Copyright 1990 by the Massachusetts Institute of Technology. All Rights Reserved.
+        license: BSD-3-Clause AND OTHER
+        path: src/lib/krb5/krb/mk_rep.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - 'Copyright 1990-1998, 2009 by the Massachusetts Institute of Technology. All Rights Reserved.'
+        license: BSD-3-Clause AND OTHER
+        path: src/lib/krb5/krb/kfree.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - 'Copyright 1990,1991 by the Massachusetts Institute of Technology. All Rights Reserved.'
+        license: BSD-3-Clause AND OTHER
+        path: src/lib/krb5/krb/rd_rep.c
+      - attributions:
+          - 'Copyright 2004 Sun Microsystems, Inc. All Rights Reserved.'
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - 'Copyright (c) 2006,2008 by the Massachusetts Institute of Technology. All Rights Reserved.'
+        license: BSD-3-Clause AND OTHER
+        path: src/lib/gssapi/spnego/spnego_mech.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - Portions Copyright (c) 2007 Apple Inc.
+          - 'Copyright 1990, 1991, 2007, 2008, 2009, 2013, 2014 by the Massachusetts Institute of Technology. All Rights Reserved.'
+        license: BSD-3-Clause AND OTHER
+        path: src/kdc/do_as_req.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - 'Copyright 1990,1991,2007,2008,2009 by the Massachusetts Institute of Technology. All Rights Reserved.'
+        license: BSD-3-Clause AND OTHER
+        path: src/kdc/kdc_util.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - 'Copyright 1990, 1991, 2001, 2007, 2008, 2009, 2013, 2014 by the Massachusetts Institute of Technology. All Rights Reserved.'
+        license: BSD-3-Clause AND OTHER
+        path: src/kdc/do_tgs_req.c
