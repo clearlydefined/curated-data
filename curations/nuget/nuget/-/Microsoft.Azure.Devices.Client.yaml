@@ -9,6 +9,17 @@ revisions:
   1.18.1:
     licensed:
       declared: MIT
+  1.20.3:
+    described:
+      sourceLocation:
+        name: azure-iot-sdk-csharp
+        namespace: azure
+        provider: github
+        revision: ec9f2365d7b2315c09d3aad1992e3e3814a7e5c0
+        type: git
+        url: 'https://github.com/azure/azure-iot-sdk-csharp/commit/ec9f2365d7b2315c09d3aad1992e3e3814a7e5c0'
+    licensed:
+      declared: MIT
   1.5.1:
     licensed:
       declared: MIT
