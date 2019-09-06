@@ -9,3 +9,14 @@ revisions:
   1.0.3:
     licensed:
       declared: MIT
+  1.3.0:
+    described:
+      sourceLocation:
+        name: azure-sdk-for-net
+        namespace: azure
+        provider: github
+        revision: 2990ed9f8de07e6bba2cbc3411aff8ca5decb7be
+        type: git
+        url: 'https://github.com/azure/azure-sdk-for-net/commit/2990ed9f8de07e6bba2cbc3411aff8ca5decb7be'
+    licensed:
+      declared: MIT
