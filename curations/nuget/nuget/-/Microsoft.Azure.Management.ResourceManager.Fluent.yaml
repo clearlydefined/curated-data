@@ -22,3 +22,14 @@ revisions:
         path: Microsoft.Azure.Management.ResourceManager.Fluent.nuspec
     licensed:
       declared: MIT
+  1.24.0:
+    described:
+      sourceLocation:
+        name: azure-libraries-for-net
+        namespace: azure
+        provider: github
+        revision: dcc2a32f1cbfef57fb6f028de3a4a1e331f319ab
+        type: git
+        url: 'https://github.com/azure/azure-libraries-for-net/commit/dcc2a32f1cbfef57fb6f028de3a4a1e331f319ab'
+    licensed:
+      declared: MIT
