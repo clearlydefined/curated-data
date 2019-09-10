@@ -1,0 +1,9 @@
+coordinates:
+  name: guice
+  namespace: google
+  provider: github
+  type: git
+revisions:
+  86a88f0728ca477b4e33e3c1cb042e0ec02f2feb:
+    licensed:
+      declared: Apache-2.0
