@@ -1,0 +1,9 @@
+coordinates:
+  name: pytorch
+  namespace: pytorch
+  provider: github
+  type: git
+revisions:
+  8554416a199c4cec01c60c7015d8301d2bb39b64:
+    licensed:
+      declared: BSD-3-Clause
