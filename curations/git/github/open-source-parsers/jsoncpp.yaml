@@ -1,0 +1,9 @@
+coordinates:
+  name: jsoncpp
+  namespace: open-source-parsers
+  provider: github
+  type: git
+revisions:
+  645250b6690785be60ab6780ce4b58698d884d11:
+    licensed:
+      declared: MIT OR Other
