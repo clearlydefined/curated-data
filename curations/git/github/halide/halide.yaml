@@ -1,0 +1,9 @@
+coordinates:
+  name: halide
+  namespace: halide
+  provider: github
+  type: git
+revisions:
+  65c26cba6a3eca2d08a0bccf113ca28746012cc3:
+    licensed:
+      declared: MIT
