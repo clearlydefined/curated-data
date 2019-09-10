@@ -1,0 +1,9 @@
+coordinates:
+  name: ompi
+  namespace: open-mpi
+  provider: github
+  type: git
+revisions:
+  e0c0c3b07f11024785d902a00790621306e6ff99:
+    licensed:
+      declared: BSD-3-Clause
