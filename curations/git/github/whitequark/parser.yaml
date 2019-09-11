@@ -1,0 +1,9 @@
+coordinates:
+  name: parser
+  namespace: whitequark
+  provider: github
+  type: git
+revisions:
+  9bf955022190f69f06e2413cb3828909322773f6:
+    licensed:
+      declared: MIT
