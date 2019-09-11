@@ -1,0 +1,9 @@
+coordinates:
+  name: curl
+  namespace: curl
+  provider: github
+  type: git
+revisions:
+  aa73eb47bc8583070734696b25b34ad54c2c1f5e:
+    licensed:
+      declared: MIT
