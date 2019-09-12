@@ -1,0 +1,9 @@
+coordinates:
+  name: hop
+  namespace: rabbitmq
+  provider: github
+  type: git
+revisions:
+  ede52eec6e3370cf673b3dc2051185f8b515857b:
+    licensed:
+      declared: Apache-2.0
