@@ -1,0 +1,9 @@
+coordinates:
+  name: nlog
+  namespace: nlog
+  provider: github
+  type: git
+revisions:
+  808874fbbe43b398326cd6e637199f4ff040a0ac:
+    licensed:
+      declared: BSD-3-Clause
