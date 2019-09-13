@@ -1,0 +1,16 @@
+coordinates:
+  name: MediaTypeMap.Core
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.3:
+    described:
+      sourceLocation:
+        name: mimetypemap
+        namespace: samuelneff
+        provider: github
+        revision: 6ddc67a6ddd873ca720f76847edc34d0c7ee5e06
+        type: git
+        url: 'https://github.com/samuelneff/mimetypemap/commit/6ddc67a6ddd873ca720f76847edc34d0c7ee5e06'
+    licensed:
+      declared: MIT
