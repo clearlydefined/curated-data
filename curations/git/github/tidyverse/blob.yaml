@@ -1,0 +1,9 @@
+coordinates:
+  name: blob
+  namespace: tidyverse
+  provider: github
+  type: git
+revisions:
+  f2e93d7dce9c47d6b6e5fc69d9edb1b35fd7d651:
+    licensed:
+      declared: GPL-3.0-only
