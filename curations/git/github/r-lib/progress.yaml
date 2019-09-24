@@ -1,0 +1,9 @@
+coordinates:
+  name: progress
+  namespace: r-lib
+  provider: github
+  type: git
+revisions:
+  4d349c74ebf6827d86a90a7c0a02b5a412dd1496:
+    licensed:
+      declared: MIT
