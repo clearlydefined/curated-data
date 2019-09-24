@@ -1,0 +1,9 @@
+coordinates:
+  name: urca
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  7219e5ef43df32787ca50a2e4ef6207594a8ba51:
+    licensed:
+      declared: GPL-2.0-or-later
