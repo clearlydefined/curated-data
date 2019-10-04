@@ -1,5 +1,5 @@
 coordinates:
-  name: angle
+  name: Angle
   provider: nuget
   type: nuget
 revisions:
