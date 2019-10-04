@@ -1,5 +1,5 @@
 coordinates:
-  name: microsoft.extensions.diagnostics.healthchecks.abstractions
+  name: Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions
   provider: nuget
   type: nuget
 revisions:
