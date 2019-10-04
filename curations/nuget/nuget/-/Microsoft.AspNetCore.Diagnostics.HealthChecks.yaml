@@ -1,5 +1,5 @@
 coordinates:
-  name: microsoft.aspnetcore.diagnostics.healthchecks
+  name: Microsoft.AspNetCore.Diagnostics.HealthChecks
   provider: nuget
   type: nuget
 revisions:
