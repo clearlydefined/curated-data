@@ -1,0 +1,8 @@
+coordinates:
+  name: chai-array
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.2:
+    licensed:
+      declared: MIT
