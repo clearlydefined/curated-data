@@ -1,0 +1,8 @@
+coordinates:
+  name: tmp
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.24:
+    licensed:
+      declared: MIT
