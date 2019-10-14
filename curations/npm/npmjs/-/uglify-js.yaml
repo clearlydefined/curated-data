@@ -1,0 +1,8 @@
+coordinates:
+  name: uglify-js
+  provider: npmjs
+  type: npm
+revisions:
+  2.4.24:
+    licensed:
+      declared: BSD-2-Clause
