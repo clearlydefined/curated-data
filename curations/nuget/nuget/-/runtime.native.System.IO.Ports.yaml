@@ -1,11 +1,8 @@
 coordinates:
-  name: System.Threading.AccessControl
+  name: runtime.native.System.IO.Ports
   provider: nuget
   type: nuget
 revisions:
-  4.5.0:
-    licensed:
-      declared: MIT
   4.6.0:
     licensed:
       declared: MIT
