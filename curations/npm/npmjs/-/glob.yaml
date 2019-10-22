@@ -3,15 +3,18 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  3.1.21:
+    files:
+      - license: BSD-2-Clause
+        path: package/package.json
+    licensed:
+      declared: BSD-2-Clause
   3.2.11:
     files:
       - license: BSD-2-Clause
         path: package/package.json
     licensed:
       declared: BSD-2-Clause
-  3.1.21:
-    files:
-      - license: BSD-2-Clause
-        path: package/package.json
+  3.2.3:
     licensed:
       declared: BSD-2-Clause
