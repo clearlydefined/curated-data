@@ -1,0 +1,8 @@
+coordinates:
+  name: growl
+  provider: npmjs
+  type: npm
+revisions:
+  1.8.1:
+    licensed:
+      declared: MIT
