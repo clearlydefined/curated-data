@@ -1,0 +1,9 @@
+coordinates:
+  name: uel-ri
+  namespace: javaee
+  provider: github
+  type: git
+revisions:
+  5e6346e5e5a991ee1cd66643a955c89509d06165:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-with-classpath-exception
