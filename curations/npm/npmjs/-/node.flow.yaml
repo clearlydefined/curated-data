@@ -1,11 +1,8 @@
 coordinates:
-  name: mockery
+  name: node.flow
   provider: npmjs
   type: npm
 revisions:
-  1.7.0:
-    licensed:
-      declared: MIT
-  2.1.0:
+  1.2.3:
     licensed:
       declared: MIT
