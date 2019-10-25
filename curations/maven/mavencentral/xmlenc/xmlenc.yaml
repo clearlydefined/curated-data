@@ -1,0 +1,9 @@
+coordinates:
+  name: xmlenc
+  namespace: xmlenc
+  provider: mavencentral
+  type: maven
+revisions:
+  '0.52':
+    licensed:
+      declared: BSD-2-Clause
