@@ -6,4 +6,4 @@ coordinates:
 revisions:
   447f879b136950baf3ca35dfb54c359494fa2a77:
     licensed:
-      declared: Apache-2.0
+      declared: Apache-2.0 WITH LLVM-exception
