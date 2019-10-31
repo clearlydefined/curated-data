@@ -1,0 +1,8 @@
+coordinates:
+  name: babel-plugin-transform-regenerator
+  provider: npmjs
+  type: npm
+revisions:
+  6.16.1:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
