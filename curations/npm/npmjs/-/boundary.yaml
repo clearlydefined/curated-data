@@ -1,0 +1,8 @@
+coordinates:
+  name: boundary
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.1:
+    licensed:
+      declared: BSD-2-Clause
