@@ -1,0 +1,9 @@
+coordinates:
+  name: jsr354-ri
+  namespace: javamoney
+  provider: github
+  type: git
+revisions:
+  b5903ced588feeac321ca22463c1867c6b462c76:
+    licensed:
+      declared: Apache-2.0
