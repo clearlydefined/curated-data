@@ -1,0 +1,9 @@
+coordinates:
+  name: xz
+  namespace: org.tukaani
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.3':
+    licensed:
+      declared: OTHER

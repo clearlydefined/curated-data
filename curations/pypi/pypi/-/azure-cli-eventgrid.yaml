@@ -1,0 +1,8 @@
+coordinates:
+  name: azure-cli-eventgrid
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.5:
+    licensed:
+      declared: MIT

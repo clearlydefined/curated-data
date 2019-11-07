@@ -1,0 +1,9 @@
+coordinates:
+  name: jaxb-api
+  namespace: javax.xml.bind
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.2.2:
+    licensed:
+      declared: CDDL-1.0 OR GPL-2.0-with-classpath-exception

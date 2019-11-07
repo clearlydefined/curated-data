@@ -1,0 +1,8 @@
+coordinates:
+  name: backports.ssl_match_hostname
+  provider: pypi
+  type: pypi
+revisions:
+  3.7.0.1:
+    licensed:
+      declared: Python-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: xercesImpl
+  namespace: xerces
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.11.0:
+    licensed:
+      declared: Apache-2.0

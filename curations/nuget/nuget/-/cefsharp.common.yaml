@@ -1,0 +1,8 @@
+coordinates:
+  name: cefsharp.common
+  provider: nuget
+  type: nuget
+revisions:
+  73.1.130:
+    licensed:
+      declared: BSD-3-Clause
