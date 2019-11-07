@@ -1,0 +1,9 @@
+coordinates:
+  name: osgi-resource-locator
+  namespace: org.glassfish.hk2
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.0.1:
+    licensed:
+      declared: CDDL-1.0 OR GPL-2.0-with-classpath-exception

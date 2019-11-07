@@ -4,6 +4,23 @@ coordinates:
   provider: github
   type: git
 revisions:
+  20db7b05a250b4747738d5029951dc7f14a0fcd6:
+    files:
+      - license: MIT OR GPL-3.0-only
+        path: bower.json
+      - license: MIT OR GPL-3.0-only
+        path: component.json
+      - license: MIT OR GPL-3.0-only
+        path: index.html
+      - attributions:
+          - 'Copyright (c) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
+          - 'Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, Antonio Afonso'
+        license: MIT OR GPL-3.0-only
+        path: LICENSE.markdown
+      - license: MIT OR GPL-3.0-only
+        path: package.json
+      - license: MIT OR GPL-3.0-only
+        path: README.markdown
   265c959b1f15f8cd5ebe152154b88796e4a82f42:
     files:
       - license: MIT OR GPL-3.0
@@ -29,7 +46,7 @@ revisions:
       - license: MIT OR GPL-3.0
         path: bower.json
       - attributions:
-          - Copyright (c) 1989 - 2007 PKWARE Inc., All Rights Reserved.
+          - 'Copyright (c) 1989 - 2007 PKWARE Inc., All Rights Reserved.'
         license: OTHER
         path: docs/APPNOTE.TXT
       - attributions:

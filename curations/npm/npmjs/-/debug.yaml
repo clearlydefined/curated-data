@@ -1,0 +1,8 @@
+coordinates:
+  name: debug
+  provider: npmjs
+  type: npm
+revisions:
+  0.7.4:
+    licensed:
+      declared: MIT

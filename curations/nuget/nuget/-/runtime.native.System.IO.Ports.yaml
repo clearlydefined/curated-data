@@ -1,0 +1,8 @@
+coordinates:
+  name: runtime.native.System.IO.Ports
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.0:
+    licensed:
+      declared: MIT

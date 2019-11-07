@@ -1,8 +1,8 @@
 coordinates:
-  name: system.interactive.async
+  name: System.Reflection.Emit
   provider: nuget
   type: nuget
 revisions:
-  3.2.0:
+  4.6.0:
     licensed:
-      declared: Apache-2.0
+      declared: MIT

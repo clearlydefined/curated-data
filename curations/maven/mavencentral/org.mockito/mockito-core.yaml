@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  1.10.19:
+    licensed:
+      declared: MIT
   2.8.9:
     files:
       - attributions:

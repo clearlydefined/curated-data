@@ -1,0 +1,9 @@
+coordinates:
+  name: aopalliance
+  namespace: aopalliance
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: OTHER

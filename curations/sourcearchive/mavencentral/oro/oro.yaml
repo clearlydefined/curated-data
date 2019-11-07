@@ -1,0 +1,9 @@
+coordinates:
+  name: oro
+  namespace: oro
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.0.8:
+    licensed:
+      declared: Apache-1.1

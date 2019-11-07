@@ -1,0 +1,20 @@
+coordinates:
+  name: emjar
+  namespace: com.comoyo.commons
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.44:
+    files:
+      - license: Apache-2.0
+        path: com/comoyo/emjar/Boot.class
+      - license: Apache-2.0
+        path: com/comoyo/emjar/ByteBufferBackedInputStream.class
+      - license: Apache-2.0
+        path: com/comoyo/emjar/EmJarClassLoader$1.class
+      - license: Apache-2.0
+        path: com/comoyo/emjar/EmJarClassLoader$Handler.class
+      - license: Apache-2.0
+        path: com/comoyo/emjar/EmJarClassLoader$HandlerFactory.class
+      - license: Apache-2.0
+        path: com/comoyo/emjar/EmJarClassLoader.class
