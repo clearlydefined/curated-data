@@ -1,0 +1,17 @@
+coordinates:
+  name: redcarpet
+  provider: rubygems
+  type: gem
+revisions:
+  2.0.0b:
+    described:
+      releaseDate: '2011-12-04'
+      sourceLocation:
+        name: redcarpet
+        namespace: vmg
+        provider: github
+        revision: f62f3ebe208e7cb7aedff0be0e03d8d9f03c8425
+        type: git
+        url: 'https://github.com/vmg/redcarpet/commit/f62f3ebe208e7cb7aedff0be0e03d8d9f03c8425'
+    licensed:
+      declared: MIT
