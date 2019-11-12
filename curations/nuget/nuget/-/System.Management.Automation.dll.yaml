@@ -1,0 +1,8 @@
+coordinates:
+  name: System.Management.Automation.dll
+  provider: nuget
+  type: nuget
+revisions:
+  10.0.10586:
+    licensed:
+      declared: NONE
