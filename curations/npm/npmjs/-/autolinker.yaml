@@ -1,0 +1,8 @@
+coordinates:
+  name: autolinker
+  provider: npmjs
+  type: npm
+revisions:
+  0.15.3:
+    licensed:
+      declared: MIT
