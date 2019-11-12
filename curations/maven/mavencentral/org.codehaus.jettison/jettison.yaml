@@ -1,0 +1,9 @@
+coordinates:
+  name: jettison
+  namespace: org.codehaus.jettison
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: Apache-2.0

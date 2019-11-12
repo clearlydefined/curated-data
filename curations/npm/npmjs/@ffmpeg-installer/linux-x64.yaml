@@ -1,0 +1,9 @@
+coordinates:
+  name: linux-x64
+  namespace: '@ffmpeg-installer'
+  provider: npmjs
+  type: npm
+revisions:
+  4.1.0:
+    licensed:
+      declared: GPL-3.0-only

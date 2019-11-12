@@ -1,0 +1,9 @@
+coordinates:
+  name: zookeeper
+  namespace: org.apache.zookeeper
+  provider: mavencentral
+  type: maven
+revisions:
+  3.4.6:
+    licensed:
+      declared: Apache-2.0

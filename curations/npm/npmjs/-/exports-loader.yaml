@@ -1,0 +1,8 @@
+coordinates:
+  name: exports-loader
+  provider: npmjs
+  type: npm
+revisions:
+  0.6.3:
+    licensed:
+      declared: MIT

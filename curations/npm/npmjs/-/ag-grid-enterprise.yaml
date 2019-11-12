@@ -3,6 +3,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  10.0.1:
+    licensed:
+      declared: OTHER
   19.1.4:
     licensed:
       declared: NOASSERTION

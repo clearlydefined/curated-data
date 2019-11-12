@@ -1,0 +1,11 @@
+coordinates:
+  name: System.Runtime.WindowsRuntime
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.0:
+    licensed:
+      declared: MIT
+  4.6.0-preview8.19405.3:
+    licensed:
+      declared: MIT

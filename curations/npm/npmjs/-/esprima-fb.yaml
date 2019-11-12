@@ -6,3 +6,9 @@ revisions:
   12001.1.0-dev-harmony-fb:
     licensed:
       declared: BSD-2-Clause
+  15001.1.0-dev-harmony-fb:
+    licensed:
+      declared: BSD-2-Clause
+  3001.1.0-dev-harmony-fb:
+    licensed:
+      declared: BSD-2-Clause

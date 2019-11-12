@@ -10,3 +10,6 @@ revisions:
         path: ch/qos/logback/classic/db/names/DBNameResolver.class
     licensed:
       declared: EPL-1.0 OR LGPL-2.1-only
+  1.2.3:
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1-only
