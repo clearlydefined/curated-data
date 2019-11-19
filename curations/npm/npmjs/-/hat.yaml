@@ -1,8 +1,8 @@
 coordinates:
-  name: couleurs
+  name: hat
   provider: npmjs
   type: npm
 revisions:
-  5.0.0:
+  0.0.3:
     licensed:
-      declared: OTHER
+      declared: MIT
