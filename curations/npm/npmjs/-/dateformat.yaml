@@ -1,8 +1,8 @@
 coordinates:
-  name: couleurs
+  name: dateformat
   provider: npmjs
   type: npm
 revisions:
-  5.0.0:
+  1.0.2-1.2.3:
     licensed:
-      declared: OTHER
+      declared: MIT

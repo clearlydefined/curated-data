@@ -1,8 +1,8 @@
 coordinates:
-  name: couleurs
+  name: configstore
   provider: npmjs
   type: npm
 revisions:
-  5.0.0:
+  0.3.2:
     licensed:
-      declared: OTHER
+      declared: BSD-2-Clause

@@ -1,8 +1,8 @@
 coordinates:
-  name: couleurs
+  name: crc
   provider: npmjs
   type: npm
 revisions:
-  5.0.0:
+  0.2.0:
     licensed:
-      declared: OTHER
+      declared: MIT
