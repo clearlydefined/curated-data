@@ -1,8 +1,0 @@
-coordinates:
-  name: system.net.websockets.websocketprotocol
-  provider: nuget
-  type: nuget
-revisions:
-  4.5.3:
-    licensed:
-      declared: MIT

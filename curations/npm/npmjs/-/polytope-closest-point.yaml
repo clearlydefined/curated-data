@@ -1,0 +1,8 @@
+coordinates:
+  name: polytope-closest-point
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    licensed:
+      declared: BSL-1.0

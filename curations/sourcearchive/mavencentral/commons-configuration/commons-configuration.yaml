@@ -1,0 +1,9 @@
+coordinates:
+  name: commons-configuration
+  namespace: commons-configuration
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  '1.6':
+    licensed:
+      declared: Apache-2.0

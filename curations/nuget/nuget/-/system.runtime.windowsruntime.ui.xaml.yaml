@@ -1,8 +1,0 @@
-coordinates:
-  name: system.runtime.windowsruntime.ui.xaml
-  provider: nuget
-  type: nuget
-revisions:
-  4.6.0-preview8.19405.3:
-    licensed:
-      declared: MIT

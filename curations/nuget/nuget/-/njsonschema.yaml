@@ -1,8 +1,0 @@
-coordinates:
-  name: njsonschema
-  provider: nuget
-  type: nuget
-revisions:
-  10.0.22:
-    licensed:
-      declared: MIT

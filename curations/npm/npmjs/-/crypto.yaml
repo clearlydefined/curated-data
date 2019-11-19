@@ -1,0 +1,8 @@
+coordinates:
+  name: crypto
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.3:
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,15 @@
+coordinates:
+  name: azure-c-shared-utility
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  1a6cb28931fa47680ee3189c02abf0658a2bda30:
+    licensed:
+      declared: MIT
+  67772cd6820bcb97e09e6822f77b080a032e9419:
+    licensed:
+      declared: MIT
+  84459c3d74b014d1cbf28d86ed2b10641763d5ed:
+    licensed:
+      declared: MIT

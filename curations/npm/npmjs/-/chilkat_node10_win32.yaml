@@ -1,0 +1,8 @@
+coordinates:
+  name: chilkat_node10_win32
+  provider: npmjs
+  type: npm
+revisions:
+  9.50.75:
+    licensed:
+      declared: OTHER
