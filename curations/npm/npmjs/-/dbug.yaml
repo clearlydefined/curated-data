@@ -1,0 +1,8 @@
+coordinates:
+  name: dbug
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.2:
+    licensed:
+      declared: MPL-2.0
