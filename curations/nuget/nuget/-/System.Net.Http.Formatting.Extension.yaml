@@ -1,0 +1,8 @@
+coordinates:
+  name: System.Net.Http.Formatting.Extension
+  provider: nuget
+  type: nuget
+revisions:
+  5.2.3:
+    licensed:
+      declared: NONE

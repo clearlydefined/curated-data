@@ -5,4 +5,4 @@ coordinates:
 revisions:
   0.0.35:
     licensed:
-      declared: NONE
+      declared: LGPL-2.1-or-later

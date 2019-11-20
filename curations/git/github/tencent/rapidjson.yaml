@@ -7,3 +7,81 @@ revisions:
   17254e090e0dc3d5d1aca8efd6303cdbd07dbae1:
     licensed:
       declared: MIT
+  1a825d24fa322a5fe721624b2ed7a18b6de9b48a:
+    files:
+      - license: JSON
+        path: bin/jsonchecker/fail1.json
+      - license: JSON
+        path: bin/jsonchecker/fail10.json
+      - license: JSON
+        path: bin/jsonchecker/fail11.json
+      - license: JSON
+        path: bin/jsonchecker/fail12.json
+      - license: JSON
+        path: bin/jsonchecker/fail13.json
+      - license: JSON
+        path: bin/jsonchecker/fail14.json
+      - license: JSON
+        path: bin/jsonchecker/fail15.json
+      - license: JSON
+        path: bin/jsonchecker/fail16.json
+      - license: JSON
+        path: bin/jsonchecker/fail17.json
+      - license: JSON
+        path: bin/jsonchecker/fail18.json
+      - license: JSON
+        path: bin/jsonchecker/fail19.json
+      - license: JSON
+        path: bin/jsonchecker/fail2.json
+      - license: JSON
+        path: bin/jsonchecker/fail20.json
+      - license: JSON
+        path: bin/jsonchecker/fail21.json
+      - license: JSON
+        path: bin/jsonchecker/fail22.json
+      - license: JSON
+        path: bin/jsonchecker/fail23.json
+      - license: JSON
+        path: bin/jsonchecker/fail24.json
+      - license: JSON
+        path: bin/jsonchecker/fail25.json
+      - license: JSON
+        path: bin/jsonchecker/fail26.json
+      - license: JSON
+        path: bin/jsonchecker/fail27.json
+      - license: JSON
+        path: bin/jsonchecker/fail28.json
+      - license: JSON
+        path: bin/jsonchecker/fail29.json
+      - license: JSON
+        path: bin/jsonchecker/fail3.json
+      - license: JSON
+        path: bin/jsonchecker/fail30.json
+      - license: JSON
+        path: bin/jsonchecker/fail31.json
+      - license: JSON
+        path: bin/jsonchecker/fail32.json
+      - license: JSON
+        path: bin/jsonchecker/fail33.json
+      - license: JSON
+        path: bin/jsonchecker/fail4.json
+      - license: JSON
+        path: bin/jsonchecker/fail5.json
+      - license: JSON
+        path: bin/jsonchecker/fail6.json
+      - license: JSON
+        path: bin/jsonchecker/fail7.json
+      - license: JSON
+        path: bin/jsonchecker/fail8.json
+      - license: JSON
+        path: bin/jsonchecker/fail9.json
+      - license: JSON
+        path: bin/jsonchecker/pass1.json
+      - license: JSON
+        path: bin/jsonchecker/pass2.json
+      - license: JSON
+        path: bin/jsonchecker/pass3.json
+      - license: JSON
+        path: bin/jsonchecker/readme.txt
+    licensed:
+      declared: MIT

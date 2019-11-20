@@ -1,8 +1,0 @@
-coordinates:
-  name: microsoft.extensions.options.dataannotations
-  provider: nuget
-  type: nuget
-revisions:
-  2.2.0:
-    licensed:
-      declared: Apache-2.0

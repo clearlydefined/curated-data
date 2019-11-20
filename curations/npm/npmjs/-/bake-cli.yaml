@@ -1,0 +1,8 @@
+coordinates:
+  name: bake-cli
+  provider: npmjs
+  type: npm
+revisions:
+  0.6.0:
+    licensed:
+      declared: NONE

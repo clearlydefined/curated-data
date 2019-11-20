@@ -1,0 +1,8 @@
+coordinates:
+  name: botframework-schema
+  provider: npmjs
+  type: npm
+revisions:
+  4.4.0:
+    licensed:
+      declared: MIT
