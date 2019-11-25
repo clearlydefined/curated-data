@@ -1,0 +1,9 @@
+coordinates:
+  name: mosquitto
+  namespace: eclipse
+  provider: github
+  type: git
+revisions:
+  a26157643d01a9a985ae125df5031d3433ebe216:
+    licensed:
+      declared: BSD-3-Clause OR EPL-1.0
