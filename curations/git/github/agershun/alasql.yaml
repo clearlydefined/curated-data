@@ -1,0 +1,10 @@
+coordinates:
+  name: alasql
+  namespace: agershun
+  provider: github
+  type: git
+revisions:
+  dc00c4dbf0346b78b56064f591e68b1834bbfa87:
+    files:
+      - license: Apache-2.0
+        path: utils/closure/compiler.jar
