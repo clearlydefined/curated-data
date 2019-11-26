@@ -24,3 +24,6 @@ revisions:
   2.1.7:
     licensed:
       declared: MIT
+  3.0.0-preview6-27804-01:
+    licensed:
+      declared: MIT
