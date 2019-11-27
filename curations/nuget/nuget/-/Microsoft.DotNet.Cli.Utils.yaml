@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.DotNet.Cli.Utils
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0-preview2-003121:
+    licensed:
+      declared: MIT
