@@ -1,0 +1,9 @@
+coordinates:
+  name: amazon-kinesis-producer
+  namespace: com.amazonaws
+  provider: mavencentral
+  type: maven
+revisions:
+  0.12.11:
+    licensed:
+      declared: OTHER
