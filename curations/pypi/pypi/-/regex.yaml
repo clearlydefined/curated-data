@@ -1,0 +1,8 @@
+coordinates:
+  name: regex
+  provider: pypi
+  type: pypi
+revisions:
+  2019.11.1:
+    licensed:
+      declared: Python-2.0

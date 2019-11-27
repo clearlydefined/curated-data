@@ -1,0 +1,9 @@
+coordinates:
+  name: office-ui-fabric-react-bundle
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.8.2:
+    licensed:
+      declared: OTHER

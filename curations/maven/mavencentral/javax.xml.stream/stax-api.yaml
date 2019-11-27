@@ -1,0 +1,9 @@
+coordinates:
+  name: stax-api
+  namespace: javax.xml.stream
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: GPL-2.0-or-later OR CDDL-1.0
