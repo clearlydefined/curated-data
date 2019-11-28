@@ -1,11 +1,8 @@
 coordinates:
-  name: DocumentFormat.OpenXml
+  name: System.Text.Json
   provider: nuget
   type: nuget
 revisions:
-  2.7.2:
-    licensed:
-      declared: NONE
-  2.8.1:
+  4.6.0:
     licensed:
       declared: MIT
