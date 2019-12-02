@@ -1,0 +1,8 @@
+coordinates:
+  name: jit-dasm
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.1.4:
+    licensed:
+      declared: NONE
