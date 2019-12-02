@@ -1,0 +1,8 @@
+coordinates:
+  name: Newtonsoft.Json.Schema
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.10:
+    licensed:
+      declared: AGPL-3.0
