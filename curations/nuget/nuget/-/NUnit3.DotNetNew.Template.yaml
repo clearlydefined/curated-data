@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Azure.ServiceBus
+  name: NUnit3.DotNetNew.Template
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  3.3.0:
+  1.6.1:
     licensed:
       declared: MIT

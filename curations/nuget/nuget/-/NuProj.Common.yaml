@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Azure.ServiceBus
+  name: NuProj.Common
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  3.3.0:
+  0.11.30:
     licensed:
       declared: MIT

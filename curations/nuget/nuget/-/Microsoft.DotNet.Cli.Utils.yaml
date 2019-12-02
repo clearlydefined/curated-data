@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Azure.ServiceBus
+  name: Microsoft.DotNet.Cli.Utils
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  3.3.0:
+  1.0.0-preview2-003121:
     licensed:
       declared: MIT
