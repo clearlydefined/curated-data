@@ -1,11 +1,8 @@
 coordinates:
-  name: DocumentFormat.OpenXml
+  name: NUnit3.DotNetNew.Template
   provider: nuget
   type: nuget
 revisions:
-  2.7.2:
-    licensed:
-      declared: NONE
-  2.8.1:
+  1.6.1:
     licensed:
       declared: MIT

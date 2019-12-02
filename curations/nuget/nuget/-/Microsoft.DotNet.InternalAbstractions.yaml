@@ -1,11 +1,8 @@
 coordinates:
-  name: DocumentFormat.OpenXml
+  name: Microsoft.DotNet.InternalAbstractions
   provider: nuget
   type: nuget
 revisions:
-  2.7.2:
+  1.0.0:
     licensed:
       declared: NONE
-  2.8.1:
-    licensed:
-      declared: MIT
