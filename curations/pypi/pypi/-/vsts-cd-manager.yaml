@@ -1,8 +1,8 @@
 coordinates:
-  name: pillow
+  name: vsts-cd-manager
   provider: pypi
   type: pypi
 revisions:
-  6.2.1:
+  1.0.2:
     licensed:
-      declared: HPND
+      declared: MIT
