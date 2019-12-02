@@ -1,11 +1,8 @@
 coordinates:
-  name: DocumentFormat.OpenXml
+  name: Microsoft.DotNet.Cli.Utils
   provider: nuget
   type: nuget
 revisions:
-  2.7.2:
-    licensed:
-      declared: NONE
-  2.8.1:
+  1.0.0-preview2-003121:
     licensed:
       declared: MIT

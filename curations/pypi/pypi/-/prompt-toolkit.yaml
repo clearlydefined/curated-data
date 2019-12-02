@@ -1,8 +1,8 @@
 coordinates:
-  name: pillow
+  name: prompt-toolkit
   provider: pypi
   type: pypi
 revisions:
-  6.2.1:
+  2.0.9:
     licensed:
-      declared: HPND
+      declared: BSD-3-Clause

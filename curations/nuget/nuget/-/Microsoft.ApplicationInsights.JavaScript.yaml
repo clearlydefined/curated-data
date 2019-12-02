@@ -6,3 +6,6 @@ revisions:
   0.11.0-build09387:
     licensed:
       declared: NONE
+  0.15.0-build58334:
+    licensed:
+      declared: MIT

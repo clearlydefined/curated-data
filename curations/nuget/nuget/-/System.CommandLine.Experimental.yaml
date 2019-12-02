@@ -1,11 +1,8 @@
 coordinates:
-  name: DocumentFormat.OpenXml
+  name: System.CommandLine.Experimental
   provider: nuget
   type: nuget
 revisions:
-  2.7.2:
-    licensed:
-      declared: NONE
-  2.8.1:
+  0.2.0-alpha.19174.3:
     licensed:
       declared: MIT
