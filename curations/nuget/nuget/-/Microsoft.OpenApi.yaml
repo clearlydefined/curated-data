@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.OpenApi
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.1:
+    licensed:
+      declared: MIT
