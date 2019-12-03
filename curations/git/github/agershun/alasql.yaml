@@ -20,3 +20,5 @@ revisions:
           - '(c) 2005, 2014 jQuery Foundation, Inc.'
         license: MIT
         path: lib/jquery/jquery.min.js
+      - license: Apache-2.0
+        path: utils/closure/compiler.jar
