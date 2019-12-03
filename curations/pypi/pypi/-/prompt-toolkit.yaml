@@ -1,0 +1,8 @@
+coordinates:
+  name: prompt-toolkit
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.9:
+    licensed:
+      declared: BSD-3-Clause

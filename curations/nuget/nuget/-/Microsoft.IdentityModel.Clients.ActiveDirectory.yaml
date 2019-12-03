@@ -32,6 +32,9 @@ revisions:
         url: 'https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/commit/eddfa8ebda9e734efdc42ea6d41ea98bc7c998f3'
     licensed:
       declared: MIT
+  3.14.0:
+    licensed:
+      declared: MIT
   3.14.1:
     licensed:
       declared: MIT
@@ -71,6 +74,9 @@ revisions:
     licensed:
       declared: MIT
   4.4.1:
+    licensed:
+      declared: MIT
+  4.4.2:
     licensed:
       declared: MIT
   4.5.0:
@@ -125,5 +131,8 @@ revisions:
         revision: 9f4472ab6dff4fa74bddfa622da4ac3823beb4b8
         type: git
         url: 'https://github.com/azuread/azure-activedirectory-library-for-dotnet/commit/9f4472ab6dff4fa74bddfa622da4ac3823beb4b8'
+    licensed:
+      declared: MIT
+  5.2.3:
     licensed:
       declared: MIT
