@@ -6,5 +6,19 @@ coordinates:
 revisions:
   dc00c4dbf0346b78b56064f591e68b1834bbfa87:
     files:
+      - license: OTHER
+        path: test/test237.js
+      - license: OTHER
+        path: test/test359.js
+      - attributions:
+          - '(c) 2005, 2013 jQuery Foundation, Inc.'
+        license: MIT
+        path: examples/simple/jquery.js
+      - license: MIT
+        path: lib/lodash/lodash.min.js
+      - attributions:
+          - '(c) 2005, 2014 jQuery Foundation, Inc.'
+        license: MIT
+        path: lib/jquery/jquery.min.js
       - license: Apache-2.0
         path: utils/closure/compiler.jar
