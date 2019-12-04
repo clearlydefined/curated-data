@@ -5,6 +5,8 @@ coordinates:
   type: sourcearchive
 revisions:
   0.12.11:
+    licensed:
+      declared: OTHER
     described:
       sourceLocation:
         name: amazon-kinesis-producer
