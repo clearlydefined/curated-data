@@ -5,6 +5,14 @@ coordinates:
   type: sourcearchive
 revisions:
   0.12.11:
+    described:
+      sourceLocation:
+        name: amazon-kinesis-producer
+        namespace: awslabs
+        provider: github
+        revision: 123371ebced0b8df52b03539850978fb75675983
+        type: git
+        url: 'https://github.com/awslabs/amazon-kinesis-producer/commit/123371ebced0b8df52b03539850978fb75675983'
     files:
       - attributions:
           - 'Copyright 2015 Amazon.com, Inc.'
