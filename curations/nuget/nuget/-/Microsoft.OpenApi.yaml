@@ -1,11 +1,8 @@
 coordinates:
-  name: vswhere
+  name: Microsoft.OpenApi
   provider: nuget
   type: nuget
 revisions:
-  2.2.11:
-    licensed:
-      declared: MIT
-  2.6.7:
+  1.1.1:
     licensed:
       declared: MIT

@@ -1,11 +1,8 @@
 coordinates:
-  name: vswhere
+  name: Microsoft.WindowsDesktop.App.Runtime.win-x64
   provider: nuget
   type: nuget
 revisions:
-  2.2.11:
-    licensed:
-      declared: MIT
-  2.6.7:
+  3.0.0:
     licensed:
       declared: MIT

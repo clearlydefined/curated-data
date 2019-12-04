@@ -1,11 +1,8 @@
 coordinates:
-  name: vswhere
+  name: popper.js
   provider: nuget
   type: nuget
 revisions:
-  2.2.11:
-    licensed:
-      declared: MIT
-  2.6.7:
+  1.14.0:
     licensed:
       declared: MIT
