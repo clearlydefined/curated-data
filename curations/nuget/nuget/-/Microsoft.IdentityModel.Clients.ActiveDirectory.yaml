@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.22.302111727:
+    licensed:
+      declared: Apache-2.0
   2.23.302261847:
     licensed:
       declared: Apache-2.0
@@ -76,6 +79,9 @@ revisions:
   4.4.1:
     licensed:
       declared: MIT
+  4.4.2:
+    licensed:
+      declared: MIT
   4.5.0:
     described:
       sourceLocation:
@@ -128,5 +134,8 @@ revisions:
         revision: 9f4472ab6dff4fa74bddfa622da4ac3823beb4b8
         type: git
         url: 'https://github.com/azuread/azure-activedirectory-library-for-dotnet/commit/9f4472ab6dff4fa74bddfa622da4ac3823beb4b8'
+    licensed:
+      declared: MIT
+  5.2.3:
     licensed:
       declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: typing-extensions
+  provider: pypi
+  type: pypi
+revisions:
+  3.7.4.1:
+    licensed:
+      declared: Python-2.0
