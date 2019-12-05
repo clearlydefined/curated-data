@@ -5,4 +5,4 @@ coordinates:
 revisions:
   0.4.3:
     licensed:
-      declared: Unlicense
+      declared: Unlicense AND MIT
