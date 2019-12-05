@@ -1,0 +1,11 @@
+coordinates:
+  name: linecache2
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.0:
+    files:
+      - license: Python-2.0
+        path: linecache2-1.0.0/PKG-INFO
+      - license: Python-2.0
+        path: linecache2-1.0.0/setup.cfg
