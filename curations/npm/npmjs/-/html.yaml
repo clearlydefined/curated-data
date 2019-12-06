@@ -7,3 +7,5 @@ revisions:
     files:
       - license: BSD-3-Clause
         path: package/package.json
+    licensed:
+      declared: MIT
