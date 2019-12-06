@@ -1,0 +1,8 @@
+coordinates:
+  name: pywin32
+  provider: pypi
+  type: pypi
+revisions:
+  '227':
+    licensed:
+      declared: Python-2.0
