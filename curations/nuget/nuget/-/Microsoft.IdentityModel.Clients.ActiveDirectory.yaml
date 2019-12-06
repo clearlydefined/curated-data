@@ -5,7 +5,7 @@ coordinates:
 revisions:
   2.22.302111727:
     licensed:
-      declared: Apache-2.0
+      declared: MIT
   2.23.302261847:
     licensed:
       declared: Apache-2.0
