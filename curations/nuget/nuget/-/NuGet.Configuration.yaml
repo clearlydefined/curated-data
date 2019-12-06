@@ -1,0 +1,12 @@
+coordinates:
+  name: NuGet.Configuration
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.0-beta2-1484:
+    licensed:
+      declared: Apache-2.0
+  4.9.4:
+    licensed:
+      declared: Apache-2.0
+      
