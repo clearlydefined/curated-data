@@ -1,0 +1,15 @@
+coordinates:
+  name: aports
+  namespace: alpinelinux
+  provider: github
+  type: git
+revisions:
+  b8229586a20eea5fc0f782a383ef666b6a60e054:
+    files:
+      - attributions:
+          - Copyright (c) 2012 The ANGLE Project
+          - Copyright (c) 2002-2012 The ANGLE Project
+          - Copyright (c) 2002-2010 The ANGLE Project
+          - 'Copyright (c) 1984, 1989, 1990, 2000, 2001, 2002, 2003, 2004, 2005, 2006 + Free Software Foundation, Inc.'
+        license: BSD-3-Clause AND GPL-2.0-with-bison-exception
+        path: unmaintained/webkitgtk/webkitgtk-2.0.4-bison-3.0.patch
