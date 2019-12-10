@@ -1,0 +1,19 @@
+coordinates:
+  name: aports
+  namespace: alpinelinux
+  provider: github
+  type: git
+revisions:
+  b8229586a20eea5fc0f782a383ef666b6a60e054:
+    files:
+      - attributions:
+          - Copyright (c) 2015 Bob Beck <beck@openbsd.org>
+          - Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+          - Copyright (c) 2016 Tai Chi Minh Ralph Eastwood <tcmreastwood@gmail.com>
+        license: ISC AND OpenSSL
+        path: main/libtls-standalone/tls_compat.c
+      - attributions:
+          - Copyright (c) 1996-1999 by Internet Software Consortium.
+          - 'Portions Copyright (c) 1995 by International Business Machines, Inc.'
+        license: ISC AND OTHER
+        path: main/netcat-openbsd/base64.c
