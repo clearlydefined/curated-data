@@ -1,0 +1,8 @@
+coordinates:
+  name: IKVM
+  provider: nuget
+  type: nuget
+revisions:
+  8.1.5717:
+    licensed:
+      declared: Zlib AND GPL-2.0-with-classpath-exception
