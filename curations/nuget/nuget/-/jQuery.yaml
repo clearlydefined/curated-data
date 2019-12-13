@@ -19,8 +19,23 @@ revisions:
     licensed:
       declared: MIT
   1.9.1:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.nuspec
+      - attributions:
+          - '(c) 2005, 2012 jQuery Foundation, Inc.'
+        license: MIT
+        path: Content/Scripts/jquery-1.9.1.min.js
+      - license: BSD-3-Clause
+        path: Tools/common.ps1
+      - license: BSD-3-Clause
+        path: Tools/install.ps1
+      - license: BSD-3-Clause
+        path: Tools/jquery-1.9.1.intellisense.js
+      - license: BSD-3-Clause
+        path: Tools/uninstall.ps1
     licensed:
-      declared: MIT AND BSD-3-Clause
+      declared: MIT
   2.1.1:
     licensed:
       declared: MIT
