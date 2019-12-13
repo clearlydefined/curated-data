@@ -30,6 +30,9 @@ revisions:
   3.0.0:
     licensed:
       declared: MIT
+  3.0.0-preview7.19362.9:
+    licensed:
+      declared: MIT
   3.0.0-preview8.19405.3:
     licensed:
       declared: MIT
