@@ -3,12 +3,6 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
-  1.4.4:
-    licensed:
-      declared: MIT
-  1.9.1:
-    licensed:
-      declared: MIT AND BSD-3-Clause
   1.10.2:
     files:
       - attributions:
@@ -19,6 +13,15 @@ revisions:
           - 'Copyright 2005, 2013 jQuery Foundation, Inc. and other contributors'
         license: MIT
         path: Content/Scripts/jquery-1.10.2.js
+    licensed:
+      declared: MIT
+  1.4.4:
+    licensed:
+      declared: MIT
+  1.9.1:
+    licensed:
+      declared: MIT AND BSD-3-Clause
+  2.1.1:
     licensed:
       declared: MIT
   2.1.3:
