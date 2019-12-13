@@ -5,6 +5,8 @@ coordinates:
 revisions:
   1.10.2:
     files:
+      - license: BSD-3-Clause
+        path: jQuery.nuspec
       - attributions:
           - 'Copyright 2005, 2012 jQuery Foundation, Inc. and other contributors'
         license: MIT
@@ -13,6 +15,18 @@ revisions:
           - 'Copyright 2005, 2013 jQuery Foundation, Inc. and other contributors'
         license: MIT
         path: Content/Scripts/jquery-1.10.2.js
+      - attributions:
+          - '(c) 2005, 2013 jQuery Foundation, Inc.'
+        license: MIT
+        path: Content/Scripts/jquery-1.10.2.min.js
+      - license: BSD-3-Clause
+        path: Tools/common.ps1
+      - license: BSD-3-Clause
+        path: Tools/install.ps1
+      - license: BSD-3-Clause
+        path: Tools/jquery-1.10.2.intellisense.js
+      - license: BSD-3-Clause
+        path: Tools/uninstall.ps1
     licensed:
       declared: MIT
   1.4.4:
@@ -40,20 +54,126 @@ revisions:
     licensed:
       declared: MIT
   2.1.3:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.nuspec
+      - attributions:
+          - '(c) 2005, 2014 jQuery Foundation, Inc.'
+        license: MIT
+        path: Content/Scripts/jquery-2.1.3.min.js
+      - license: BSD-3-Clause
+        path: Tools/common.ps1
+      - license: BSD-3-Clause
+        path: Tools/install.ps1
+      - license: BSD-3-Clause
+        path: Tools/jquery-2.1.3.intellisense.js
+      - license: BSD-3-Clause
+        path: Tools/uninstall.ps1
     licensed:
-      declared: MIT AND BSD-3-Clause
+      declared: MIT
   2.2.3:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.nuspec
+      - attributions:
+          - '(c) jQuery Foundation'
+        license: MIT
+        path: Content/Scripts/jquery-2.2.3.min.js
+      - license: BSD-3-Clause
+        path: Tools/common.ps1
+      - license: BSD-3-Clause
+        path: Tools/install.ps1
+      - license: BSD-3-Clause
+        path: Tools/jquery-2.2.3.intellisense.js
+      - license: BSD-3-Clause
+        path: Tools/uninstall.ps1
     licensed:
-      declared: MIT AND BSD-3-Clause
+      declared: MIT
   3.0.0:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.nuspec
+      - attributions:
+          - '(c) jQuery Foundation'
+        license: MIT
+        path: Content/Scripts/jquery-3.0.0.min.js
+      - attributions:
+          - '(c) jQuery Foundation'
+        license: MIT
+        path: Content/Scripts/jquery-3.0.0.slim.min.js 
+      - license: BSD-3-Clause
+        path: Tools/common.ps1
+      - license: BSD-3-Clause
+        path: Tools/install.ps1
+      - license: BSD-3-Clause
+        path: Tools/jquery-3.0.0.intellisense.js
+      - license: BSD-3-Clause
+        path: Tools/uninstall.ps1
     licensed:
-      declared: MIT AND BSD-3-Clause
+      declared: MIT
   3.1.0:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.nuspec
+      - attributions:
+          - '(c) jQuery Foundation'
+        license: MIT
+        path: Content/Scripts/jquery-3.1.0.min.js
+      - attributions:
+          - '(c) jQuery Foundation'
+        license: MIT
+        path: Content/Scripts/jquery-3.1.0.slim.min.js 
+      - license: BSD-3-Clause
+        path: Tools/common.ps1
+      - license: BSD-3-Clause
+        path: Tools/install.ps1
+      - license: BSD-3-Clause
+        path: Tools/jquery-3.1.0.intellisense.js
+      - license: BSD-3-Clause
+        path: Tools/uninstall.ps1
     licensed:
-      declared: MIT AND BSD-3-Clause
+      declared: MIT
   3.1.1:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.nuspec
+      - attributions:
+          - '(c) jQuery Foundation'
+        license: MIT
+        path: Content/Scripts/jquery-3.1.1.min.js
+      - attributions:
+          - '(c) jQuery Foundation'
+        license: MIT
+        path: Content/Scripts/jquery-3.1.1.slim.min.js 
+      - license: BSD-3-Clause
+        path: Tools/common.ps1
+      - license: BSD-3-Clause
+        path: Tools/install.ps1
+      - license: BSD-3-Clause
+        path: Tools/jquery-3.1.1.intellisense.js
+      - license: BSD-3-Clause
+        path: Tools/uninstall.ps1
     licensed:
-      declared: MIT AND BSD-3-Clause
+      declared: MIT
   3.3.1:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.nuspec
+      - attributions:
+          - '(c) JS Foundation and other contributors'
+        license: MIT
+        path: Content/Scripts/jquery-3.3.1.min.js
+      - attributions:
+          - '(c) JS Foundation and other contributors'
+        license: MIT
+        path: Content/Scripts/jquery-3.3.1.slim.min.js 
+      - license: BSD-3-Clause
+        path: Tools/common.ps1
+      - license: BSD-3-Clause
+        path: Tools/install.ps1
+      - license: BSD-3-Clause
+        path: Tools/jquery-3.3.1.intellisense.js
+      - license: BSD-3-Clause
+        path: Tools/uninstall.ps1
     licensed:
-      declared: MIT AND BSD-3-Clause
+      declared: MIT
