@@ -1,0 +1,9 @@
+coordinates:
+  name: analysis-model-api-plugin
+  namespace: jenkinsci
+  provider: github
+  type: git
+revisions:
+  d65dccaedcb417b4b509e07ad520cba5c52c9a80:
+    licensed:
+      declared: MIT
