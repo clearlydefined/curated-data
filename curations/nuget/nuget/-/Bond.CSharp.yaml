@@ -52,6 +52,9 @@ revisions:
       releaseDate: '2016-11-15'
     licensed:
       declared: MIT
+  5.2.0:
+    licensed:
+      declared: MIT
   5.3.1:
     licensed:
       declared: MIT
