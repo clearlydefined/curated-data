@@ -1,11 +1,8 @@
 coordinates:
-  name: Nito.AsyncEx
+  name: CLAP
   provider: nuget
   type: nuget
 revisions:
-  3.0.1:
-    licensed:
-      declared: MIT
-  4.0.1:
+  4.6.0:
     licensed:
       declared: MIT
