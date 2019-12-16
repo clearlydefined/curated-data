@@ -1,0 +1,8 @@
+coordinates:
+  name: antlr4-python2-runtime
+  provider: pypi
+  type: pypi
+revisions:
+  4.7.2:
+    licensed:
+      declared: BSD-3-Clause

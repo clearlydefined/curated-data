@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.SqlServer.TransactSql.ScriptDom
+  provider: nuget
+  type: nuget
+revisions:
+  13.0.1700.77:
+    licensed:
+      declared: OTHER
