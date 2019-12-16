@@ -1,0 +1,9 @@
+coordinates:
+  name: paranamer
+  namespace: com.thoughtworks.paranamer
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.3':
+    licensed:
+      declared: BSD-3-Clause

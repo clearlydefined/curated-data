@@ -1,0 +1,11 @@
+coordinates:
+  name: MSBuild.Extension.Pack
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.0:
+    licensed:
+      declared: MS-PL  
+  1.6.0:
+    licensed:
+      declared: MS-PL

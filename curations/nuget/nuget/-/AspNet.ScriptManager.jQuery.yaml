@@ -1,0 +1,8 @@
+coordinates:
+  name: AspNet.ScriptManager.jQuery
+  provider: nuget
+  type: nuget
+revisions:
+  1.10.2:
+    licensed:
+      declared: NONE
