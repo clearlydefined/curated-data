@@ -1,11 +1,8 @@
 coordinates:
-  name: MessagePack
+  name: CLAP
   provider: nuget
   type: nuget
 revisions:
-  1.7.3.4:
-    licensed:
-      declared: MIT
-  1.7.3.7:
+  4.6.0:
     licensed:
       declared: MIT

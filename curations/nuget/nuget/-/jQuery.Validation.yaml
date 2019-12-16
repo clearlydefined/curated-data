@@ -3,12 +3,27 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.10.0:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.Validation.nuspec
+    licensed:
+      declared: MIT
   1.13.1:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.Validation.nuspec
     licensed:
-      declared: MIT and BSD-3-Clause
+      declared: MIT
   1.15.1:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.Validation.nuspec
     licensed:
-      declared: MIT and BSD-3-Clause
+      declared: MIT
   1.17.0:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.Validation.nuspec
     licensed:
-      declared: MIT and BSD-3-Clause
+      declared: MIT
