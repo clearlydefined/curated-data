@@ -13,7 +13,7 @@ revisions:
           - 'Copyright (c) 1984, 1989, 1990, 2000, 2001, 2002, 2003, 2004, 2005, 2006 + Free Software Foundation, Inc.'
         license: BSD-3-Clause AND GPL-2.0-with-bison-exception
         path: unmaintained/webkitgtk/webkitgtk-2.0.4-bison-3.0.patch
-        - attributions:
+      - attributions:
           - Copyright (c) 2015 Bob Beck <beck@openbsd.org>
           - Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
           - Copyright (c) 2016 Tai Chi Minh Ralph Eastwood <tcmreastwood@gmail.com>
@@ -27,5 +27,5 @@ revisions:
       - attributions:
           - 'Copyright (c) 2012 Digia Plc and/or its subsidiary(-ies). + Contact http://www.qt-project.org/legal'
           - 'Copyright (c) 2012, 2013 Digia Plc and/or its subsidiary(-ies). + Contact http://www.qt-project.org/legal'
-        license: (GPL-3.0-only OR LGPL-2.1-only) OR (OTHER)
+        license: (GPL-3.0-only OR LGPL-2.1-only) OR OTHER
         path: main/qt/qt-aarch64.patch
