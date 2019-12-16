@@ -1,0 +1,11 @@
+coordinates:
+  name: antlr4-python3-runtime
+  provider: pypi
+  type: pypi
+revisions:
+  4.7.2:
+    files:
+      - license: BSD-3-Clause
+        path: antlr4-python3-runtime-4.7.2/setup.py
+      - license: BSD-3-Clause
+        path: antlr4-python3-runtime-4.7.2/PKG-INFO
