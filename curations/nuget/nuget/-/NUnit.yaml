@@ -3,9 +3,12 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.6.3:
+    licensed:
+      declared: Nunit
   2.6.4:
     licensed:
-      declared: Zlib
+      declared: Nunit
   3.0.0:
     licensed:
       declared: MIT
