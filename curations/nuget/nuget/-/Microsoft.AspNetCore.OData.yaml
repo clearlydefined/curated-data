@@ -1,11 +1,8 @@
 coordinates:
-  name: Nito.AsyncEx
+  name: Microsoft.AspNetCore.OData
   provider: nuget
   type: nuget
 revisions:
-  3.0.1:
-    licensed:
-      declared: MIT
-  4.0.1:
+  7.1.0:
     licensed:
       declared: MIT
