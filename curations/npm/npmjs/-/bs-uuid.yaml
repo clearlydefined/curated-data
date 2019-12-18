@@ -1,0 +1,14 @@
+coordinates:
+  name: bs-uuid
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.1:
+    described:
+      sourceLocation:
+        name: bs-uuid
+        namespace: jrdrg
+        provider: github
+        revision: 6ec88dcc1b16f846296233f23d33d8d49197836d
+        type: git
+        url: 'https://github.com/jrdrg/bs-uuid/commit/6ec88dcc1b16f846296233f23d33d8d49197836d'
