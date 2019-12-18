@@ -76,7 +76,7 @@ revisions:
       - license: BSD-3-Clause
         path: jQuery.nuspec
       - attributions:
-          - '(c) jQuery Foundation'
+          - (c) jQuery Foundation
         license: MIT
         path: Content/Scripts/jquery-2.2.3.min.js
       - license: BSD-3-Clause
@@ -94,13 +94,13 @@ revisions:
       - license: BSD-3-Clause
         path: jQuery.nuspec
       - attributions:
-          - '(c) jQuery Foundation'
+          - (c) jQuery Foundation
         license: MIT
         path: Content/Scripts/jquery-3.0.0.min.js
       - attributions:
-          - '(c) jQuery Foundation'
+          - (c) jQuery Foundation
         license: MIT
-        path: Content/Scripts/jquery-3.0.0.slim.min.js 
+        path: Content/Scripts/jquery-3.0.0.slim.min.js
       - license: BSD-3-Clause
         path: Tools/common.ps1
       - license: BSD-3-Clause
@@ -116,13 +116,13 @@ revisions:
       - license: BSD-3-Clause
         path: jQuery.nuspec
       - attributions:
-          - '(c) jQuery Foundation'
+          - (c) jQuery Foundation
         license: MIT
         path: Content/Scripts/jquery-3.1.0.min.js
       - attributions:
-          - '(c) jQuery Foundation'
+          - (c) jQuery Foundation
         license: MIT
-        path: Content/Scripts/jquery-3.1.0.slim.min.js 
+        path: Content/Scripts/jquery-3.1.0.slim.min.js
       - license: BSD-3-Clause
         path: Tools/common.ps1
       - license: BSD-3-Clause
@@ -138,13 +138,13 @@ revisions:
       - license: BSD-3-Clause
         path: jQuery.nuspec
       - attributions:
-          - '(c) jQuery Foundation'
+          - (c) jQuery Foundation
         license: MIT
         path: Content/Scripts/jquery-3.1.1.min.js
       - attributions:
-          - '(c) jQuery Foundation'
+          - (c) jQuery Foundation
         license: MIT
-        path: Content/Scripts/jquery-3.1.1.slim.min.js 
+        path: Content/Scripts/jquery-3.1.1.slim.min.js
       - license: BSD-3-Clause
         path: Tools/common.ps1
       - license: BSD-3-Clause
@@ -160,19 +160,41 @@ revisions:
       - license: BSD-3-Clause
         path: jQuery.nuspec
       - attributions:
-          - '(c) JS Foundation and other contributors'
+          - (c) JS Foundation and other contributors
         license: MIT
         path: Content/Scripts/jquery-3.3.1.min.js
       - attributions:
-          - '(c) JS Foundation and other contributors'
+          - (c) JS Foundation and other contributors
         license: MIT
-        path: Content/Scripts/jquery-3.3.1.slim.min.js 
+        path: Content/Scripts/jquery-3.3.1.slim.min.js
       - license: BSD-3-Clause
         path: Tools/common.ps1
       - license: BSD-3-Clause
         path: Tools/install.ps1
       - license: BSD-3-Clause
         path: Tools/jquery-3.3.1.intellisense.js
+      - license: BSD-3-Clause
+        path: Tools/uninstall.ps1
+    licensed:
+      declared: MIT
+  3.4.1:
+    files:
+      - license: BSD-3-Clause
+        path: jQuery.nuspec
+      - attributions:
+          - (c) JS Foundation and other contributors
+        license: MIT
+        path: Content/Scripts/jquery-3.4.1.min.js
+      - attributions:
+          - (c) JS Foundation and other contributors
+        license: MIT
+        path: Content/Scripts/jquery-3.4.1.slim.min.js
+      - license: BSD-3-Clause
+        path: Tools/common.ps1
+      - license: BSD-3-Clause
+        path: Tools/install.ps1
+      - license: BSD-3-Clause
+        path: Tools/jquery-3.4.1.intellisense.js
       - license: BSD-3-Clause
         path: Tools/uninstall.ps1
     licensed:
