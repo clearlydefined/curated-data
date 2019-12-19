@@ -1,0 +1,13 @@
+coordinates:
+  name: ul
+  provider: npmjs
+  type: npm
+revisions:
+  5.0.0:
+    files:
+      - attributions:
+          - Copyright (c) 2014-15 Ionica Bizau <bizauionica@gmail.com>
+        license: OTHER
+        path: package/LICENSE
+    licensed:
+      declared: OTHER
