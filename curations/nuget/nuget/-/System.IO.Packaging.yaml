@@ -3,6 +3,10 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  4.4.0:
+    files:
+      - license: MIT
+        path: LICENSE.TXT
   4.5.0:
     licensed:
       declared: MIT
