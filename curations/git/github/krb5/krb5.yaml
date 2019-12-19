@@ -7,21 +7,21 @@ revisions:
   97e3c42b2a89a2ec60eb93d3f974769e3e3cbdc5:
     files:
       - attributions:
-          - Copyright (c) 2005 Marko Kreen
-          - 'Copyright (c) 2010, 2011 by the Massachusetts Institute of Technology.'
-        license: BSD-2-Clause AND OTHER
-        path: src/lib/crypto/krb/prng_fortuna.c
-      - attributions:
           - 'Copyright (c) 2006-2008, Novell, Inc.'
-          - 'Copyright (c) 1998 by the FundsXpress, INC.'
           - 'Copyright 1993 by OpenVision Technologies, Inc.'
-        license: 'HPND-sell-variant AND BSD-3-Clause AND OTHER '
-        path: src/lib/gssapi/krb5/gssapi_krb5.c    
+        license: BSD-3-Clause AND HPND-sell-variant
+        path: src/lib/gssapi/krb5/inq_context.c
       - attributions:
-          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
-          - Copyright 1990 by the Massachusetts Institute of Technology. All Rights Reserved.
+          - Copyright (c) 2011 by the Massachusetts Institute of Technology.
+          - 'Copyright (c) 2007 Kungliga Tekniska Hogskolan (Royal Institute of Technology, Stockholm, Sweden).'
+          - 'Copyright 1993 by OpenVision Technologies, Inc.'
         license: BSD-3-Clause AND OTHER
-        path: src/lib/krb5/krb/authdata_dec.c
+        path: src/lib/crypto/krb/t_fortuna.c
+      - attributions:
+          - Copyright (c) 2011 by the Massachusetts Institute of Technology.
+          - 'Copyright (c) 1995, 1996, 1997 Kungliga Tekniska Hogskolan (Royal Institute of Technology, Stockholm, Sweden).'
+        license: BSD-3-Clause AND OTHER
+        path: src/util/support/gettimeofday.c
       - attributions:
           - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
           - Copyright 1990 by the Massachusetts Institute of Technology.All Rights Reserved.
@@ -46,7 +46,7 @@ revisions:
           - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
           - 'Copyright 1990,1991 by the Massachusetts Institute of Technology. All Rights Reserved.'
         license: BSD-3-Clause AND OTHER
-        path: src/lib/krb5/krb/rd_rep.c    
+        path: src/lib/krb5/krb/rd_rep.c
       - attributions:
           - 'Copyright 2013,2014 Red Hat, Inc.'
           - 'Copyright 1990,1991,2001,2002,2004,2005,2007,2008 by the Massachusetts Institute of Technology.'
