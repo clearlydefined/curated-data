@@ -1,0 +1,8 @@
+coordinates:
+  name: taffydb
+  provider: npmjs
+  type: npm
+revisions:
+  2.6.2:
+    licensed:
+      declared: BSD-1-Clause
