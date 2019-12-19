@@ -7,6 +7,8 @@ revisions:
     files:
       - license: MIT
         path: LICENSE.TXT
+    licensed:
+      declared: MIT        
   4.5.0:
     licensed:
       declared: MIT
