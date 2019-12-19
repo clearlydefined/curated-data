@@ -4,5 +4,13 @@ coordinates:
   type: npm
 revisions:
   2.0.0:
+    described:
+      sourceLocation:
+        name: node-overlap
+        namespace: ionicabizau
+        provider: github
+        revision: c061b959459e301decf311d42a009cd7a05564ee
+        type: git
+        url: 'https://github.com/ionicabizau/node-overlap/commit/c061b959459e301decf311d42a009cd7a05564ee'
     licensed:
-      declared: MIT
+      declared: OTHER
