@@ -36,7 +36,7 @@ revisions:
           - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
           - Copyright 1990 by the Massachusetts Institute of Technology.All Rights Reserved.
         license: BSD-3-Clause AND OTHER
-        path: src/lib/krb5/krb/copy_auth.c        
+        path: src/lib/krb5/krb/copy_auth.c
       - attributions:
           - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
           - Copyright 1990 by the Massachusetts Institute of Technology. All Rights Reserved.
@@ -112,4 +112,4 @@ revisions:
           - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
           - Copyright 1990 by the Massachusetts Institute of Technology. All Rights Reserved.
         license: BSD-3-Clause AND OTHER
-        path: src/lib/krb5/krb/authdata_dec.c        
+        path: src/lib/krb5/krb/authdata_dec.c
