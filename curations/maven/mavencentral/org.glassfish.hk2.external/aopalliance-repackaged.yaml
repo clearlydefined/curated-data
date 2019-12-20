@@ -1,0 +1,9 @@
+coordinates:
+  name: aopalliance-repackaged
+  namespace: org.glassfish.hk2.external
+  provider: mavencentral
+  type: maven
+revisions:
+  2.4.0-b34:
+    licensed:
+      declared: GPL-2.0-with-classpath-exception OR CDDL-1.1
