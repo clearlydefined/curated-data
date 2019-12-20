@@ -1,0 +1,13 @@
+coordinates:
+  name: typpy
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0:
+    files:
+      - attributions:
+          - Copyright (c) 2015 Ionica Bizau <bizauionica@yahoo.com>
+        license: OTHER
+        path: package/LICENSE
+    licensed:
+      declared: OTHER
