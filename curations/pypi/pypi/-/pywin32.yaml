@@ -6,6 +6,9 @@ revisions:
   '225':
     licensed:
       declared: Python-2.0
+  '226':
+    licensed:
+      declared: Python-2.0 AND BSD-3-Clause
   '227':
     licensed:
       declared: Python-2.0
