@@ -1,0 +1,9 @@
+coordinates:
+  name: cglib-nodep
+  namespace: cglib
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.1_3':
+    licensed:
+      declared: Apache-2.0
