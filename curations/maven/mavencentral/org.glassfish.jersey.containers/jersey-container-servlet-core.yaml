@@ -1,0 +1,9 @@
+coordinates:
+  name: jersey-container-servlet-core
+  namespace: org.glassfish.jersey.containers
+  provider: mavencentral
+  type: maven
+revisions:
+  2.22.2:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0 OR CDDL-1.1
