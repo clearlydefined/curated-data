@@ -1,0 +1,9 @@
+coordinates:
+  name: hk2-utils
+  namespace: org.glassfish.hk2
+  provider: mavencentral
+  type: maven
+revisions:
+  2.4.0-b34:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0 OR CDDL-1.1
