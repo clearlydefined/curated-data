@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Composition.NetFxAttributes
+  provider: nuget
+  type: nuget
+revisions:
+  15.8.98:
+    licensed:
+      declared: MIT
