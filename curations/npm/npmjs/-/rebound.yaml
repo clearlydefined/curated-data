@@ -1,0 +1,8 @@
+coordinates:
+  name: rebound
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.13:
+    licensed:
+      declared: BSD-3-Clause
