@@ -1,0 +1,9 @@
+coordinates:
+  name: jersey-guice
+  namespace: com.sun.jersey.contribs
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.9':
+    licensed:
+      declared: GPL-2.0-only OR CDDL-1.0
