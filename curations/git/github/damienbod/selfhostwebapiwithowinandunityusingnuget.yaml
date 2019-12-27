@@ -1,0 +1,9 @@
+coordinates:
+  name: selfhostwebapiwithowinandunityusingnuget
+  namespace: damienbod
+  provider: github
+  type: git
+revisions:
+  d1660e12226e10db3791df0ac764e7a606ef86a8:
+    licensed:
+      declared: NONE
