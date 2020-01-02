@@ -11,7 +11,7 @@ revisions:
       declared: MIT
   1.11.1:
     licensed:
-      declared: MIT  
+      declared: MIT
   1.13.1:
     files:
       - license: BSD-3-Clause
@@ -22,6 +22,9 @@ revisions:
     files:
       - license: BSD-3-Clause
         path: jQuery.Validation.nuspec
+    licensed:
+      declared: MIT
+  1.16.0:
     licensed:
       declared: MIT
   1.17.0:
