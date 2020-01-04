@@ -1,0 +1,9 @@
+coordinates:
+  name: clipr
+  namespace: mdlincoln
+  provider: github
+  type: git
+revisions:
+  1684932ed0cc9787a528dcc2cf307faefaaad14a:
+    licensed:
+      declared: GPL-3.0
