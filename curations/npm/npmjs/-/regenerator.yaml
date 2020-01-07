@@ -1,0 +1,8 @@
+coordinates:
+  name: regenerator
+  provider: npmjs
+  type: npm
+revisions:
+  0.8.40:
+    licensed:
+      declared: BSD-2-Clause
