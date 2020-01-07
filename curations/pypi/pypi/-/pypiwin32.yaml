@@ -6,3 +6,6 @@ revisions:
   '219':
     licensed:
       declared: Python-2.0
+  '223':
+    licensed:
+      declared: Python-2.0
