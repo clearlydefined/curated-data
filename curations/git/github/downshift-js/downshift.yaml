@@ -1,0 +1,12 @@
+coordinates:
+  name: downshift
+  namespace: downshift-js
+  provider: github
+  type: git
+revisions:
+  297bdb63ef20643e76896a9c39dfdc62770e0561:
+    files:
+      - attributions:
+          - 'Copyright (c) 2018-present, MOGHOUSE LLC'
+        license: MIT
+        path: src/hooks/utils.js
