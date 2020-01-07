@@ -5,5 +5,12 @@ coordinates:
   type: git
 revisions:
   d1660e12226e10db3791df0ac764e7a606ef86a8:
+    files:
+      - license: OTHER
+        path: Unity.SelfHostWebApiOwin/packages/Microsoft.Bcl.1.1.8/License-Stable.rtf
+      - license: OTHER
+        path: Unity.SelfHostWebApiOwin/packages/Microsoft.Bcl.Build.1.0.21/License-Stable.rtf
+      - license: Apache-2.0
+        path: Unity.SelfHostWebApiOwin/packages/Owin.1.0/Owin.1.0.nuspec
     licensed:
       declared: NONE
