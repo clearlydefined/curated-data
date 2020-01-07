@@ -1,0 +1,8 @@
+coordinates:
+  name: simplegeneric
+  provider: pypi
+  type: pypi
+revisions:
+  0.8.1:
+    licensed:
+      declared: ZPL-2.1

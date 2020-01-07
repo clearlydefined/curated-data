@@ -12,3 +12,5 @@ revisions:
         path: Unity.SelfHostWebApiOwin/packages/Microsoft.Bcl.Build.1.0.21/License-Stable.rtf
       - license: Apache-2.0
         path: Unity.SelfHostWebApiOwin/packages/Owin.1.0/Owin.1.0.nuspec
+    licensed:
+      declared: NONE
