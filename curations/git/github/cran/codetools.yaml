@@ -1,0 +1,9 @@
+coordinates:
+  name: codetools
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  e10d13c12831c8cb869c7564a058eb183a884245:
+    licensed:
+      declared: GPL-1.0-or-later
