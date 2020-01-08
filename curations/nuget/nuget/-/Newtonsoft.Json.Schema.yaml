@@ -8,7 +8,7 @@ revisions:
       declared: AGPL-3.0 OR OTHER
   3.0.11:
     files:
-      - license: AGPL-3.0-or-later
+      - license: AGPL-3.0-or-later OR OTHER
         path: LICENSE.md
     licensed:
-      declared: AGPL-3.0-or-later
+      declared: AGPL-3.0-or-later OR OTHER
