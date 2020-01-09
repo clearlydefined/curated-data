@@ -1,0 +1,12 @@
+coordinates:
+  name: fluent-ui-react
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  f070496a7ff83bc8e470a855bd9c5f43f40569e7:
+    files:
+      - attributions:
+          - Copyright (c) 2016 TechnologyAdvice
+        license: MIT
+        path: LICENSE.md
