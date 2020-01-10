@@ -1,0 +1,12 @@
+coordinates:
+  name: skia
+  namespace: mono
+  provider: github
+  type: git
+revisions:
+  79502c2199bcf7364e055371a9a0e2a12478de20:
+    files:
+      - attributions:
+          - Copyright (c) 2015 Jeff Preshing
+        license: Zlib
+        path: include/private/SkSemaphore.h
