@@ -1,0 +1,30 @@
+coordinates:
+  name: skia
+  namespace: mono
+  provider: github
+  type: git
+revisions:
+  79502c2199bcf7364e055371a9a0e2a12478de20:
+    files:
+      - attributions:
+          - // Copyright 2015 The Chromium Authors. All rights reserved.
+        license: BSD-3-Clause
+        path: gm/addarc.cpp
+      - attributions:
+          - Copyright 2006 The Android Open Source Project
+        license: Apache-2.0
+        path: src/effects/SkBlurMask.cpp
+      - attributions:
+          - Copyright (c) 1998 the Initial Developer.
+        license: MPL-1.1 OR (GPL-2.0 OR LGPL-2.1
+        path: third_party/gif/LICENSE
+      - attributions:
+          - Copyright (c) 1998 the Initial Developer.
+          - Copyright property of CompuServe Incorporated.
+          - copyright property of CompuServe Incorporated. Only CompuServe Incorporated
+        license: MPL-1.1 OR (GPL-2.0 OR LGPL-2.1)
+        path: third_party/gif/SkGifImageReader.cpp
+      - attributions:
+          - Copyright (c) 1998 the Initial Developer.
+        license: MPL-1.1 OR (GPL-2.0 OR LGPL-2.1)
+        path: third_party/gif/SkGifImageReader.h
