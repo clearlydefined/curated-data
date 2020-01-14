@@ -9,4 +9,4 @@ revisions:
       declared: GPL-2.0-or-later OR CDDL-1.0
   1.0-2:
     licensed:
-      declared: GPL-3.0-only OR CDDL-1.0
+      declared: GPL-2.0-or-later OR CDDL-1.0
