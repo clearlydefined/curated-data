@@ -1,0 +1,12 @@
+coordinates:
+  name: overlaycontainer
+  namespace: applidium
+  provider: github
+  type: git
+revisions:
+  bb38a8516c2f051de5d5f4661d471d7b08d4f2ca:
+    files:
+      - attributions:
+          - '* Copyright (c) 2018, Applidium * All rights reserved.'
+        license: BSD-3-Clause
+        path: LICENSE
