@@ -1,0 +1,12 @@
+coordinates:
+  name: azure-relay-dotnet
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  13ff04770abe8ca4e14cc6d58f00d0d9d712437d:
+    files:
+      - attributions:
+          - '  Copyright (c) .NET Foundation and Contributors'
+        license: Apache-2.0
+        path: src/Microsoft.Azure.Relay/WebSockets/NetStandard20/ManagedWebSocket.cs
