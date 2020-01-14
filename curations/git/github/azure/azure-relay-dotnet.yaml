@@ -58,7 +58,7 @@ revisions:
           - Copyright (c) .NET Foundation and Contributors
         license: MIT
         path: src/Microsoft.Azure.Relay/WebSockets/NetStandard20/SecurityProtocol.cs
-       - attributions:
+      - attributions:
           - '  Copyright (c) .NET Foundation and Contributors'
         license: Apache-2.0
         path: src/Microsoft.Azure.Relay/WebSockets/NetStandard20/ManagedWebSocket.cs
