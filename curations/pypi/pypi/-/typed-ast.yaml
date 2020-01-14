@@ -1,0 +1,8 @@
+coordinates:
+  name: typed-ast
+  provider: pypi
+  type: pypi
+revisions:
+  1.4.0:
+    licensed:
+      declared: Apache-2.0 AND Python-2.0

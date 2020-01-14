@@ -1,0 +1,12 @@
+coordinates:
+  name: microsoft-teams-library-js
+  namespace: officedev
+  provider: github
+  type: git
+revisions:
+  e4537b969a758bdb4571f12bf4adfbb2d9ef1b6f:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation  All rights reserved
+        license: MIT
+        path: LICENSE

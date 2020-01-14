@@ -1,0 +1,8 @@
+coordinates:
+  name: DotNetOpenAuth.OpenId.Core
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.4.12333:
+    licensed:
+      declared: MS-PL
