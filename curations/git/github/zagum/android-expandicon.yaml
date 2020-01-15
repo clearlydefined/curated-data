@@ -1,0 +1,12 @@
+coordinates:
+  name: android-expandicon
+  namespace: zagum
+  provider: github
+  type: git
+revisions:
+  62ec783f6bf35e34661ddea78df68701620aff91:
+    files:
+      - attributions:
+          - Copyright 2016 Evgenii Zagumennyi
+        license: Apache-2.0
+        path: LICENSE.txt
