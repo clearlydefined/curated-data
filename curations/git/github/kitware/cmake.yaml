@@ -10,5 +10,9 @@ revisions:
           - 'Copyright 2000-2019 Kitware, Inc. and Contributors All '
         license: BSD-3-Clause
         path: Copyright.txt
+      - attributions:
+          - 'Copyright (c) 1998 - 2019, Daniel Stenberg, <daniel@haxx.se>'
+        license: CC-BY-SA-4.0
+        path: Utilities/cmcurl/lib/vtls/openssl.c
     licensed:
       declared: BSD-3-Clause
