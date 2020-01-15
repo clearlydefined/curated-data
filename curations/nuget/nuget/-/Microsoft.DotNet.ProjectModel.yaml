@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.DotNet.InternalAbstractions
+  name: Microsoft.DotNet.ProjectModel
   provider: nuget
   type: nuget
 revisions:
-  1.0.0:
-    licensed:
-      declared: NONE
   1.0.0-rc2-002702:
     licensed:
       declared: NONE
