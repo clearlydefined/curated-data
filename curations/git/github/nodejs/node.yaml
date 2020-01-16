@@ -19,6 +19,12 @@ revisions:
           - 'Copyright (c) 2007, 2008 gnombat@users.sourceforge.net'
         license: GPL-3.0
         path: doc/sh_main.js
+  64219741218aa87e259cf8257596073b8e747f0a:
+    files:
+      - attributions:
+          - ' * Copyright (c) 1998-2018 The OpenSSL Project.  All rights reserved.'
+        license: OpenSSL
+        path: src/node_crypto.cc
   7e463500b2483c084d1dbc016806d6f1092ddabf:
     licensed:
       declared: MIT
