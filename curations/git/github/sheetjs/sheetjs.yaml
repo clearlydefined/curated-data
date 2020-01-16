@@ -1,0 +1,14 @@
+coordinates:
+  name: sheetjs
+  namespace: sheetjs
+  provider: github
+  type: git
+revisions:
+  1a5bba267b6544b0015e3afd3c37483641ff053b:
+    files:
+      - attributions: 
+          - 'Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, António Afonso'
+        license: GPL-3.0-only OR MIT
+        path: jszip.js
+    licensed:
+      declared: Apache-2.0
