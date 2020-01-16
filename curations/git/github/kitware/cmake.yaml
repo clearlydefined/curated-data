@@ -39,5 +39,10 @@ revisions:
           - 'Copyright (c) 1998 - 2019, Daniel Stenberg, <daniel@haxx.se>'
         license: CC-BY-SA-4.0
         path: Utilities/cmcurl/lib/vtls/openssl.c
+      - attributions:
+          - 'Copyright (c) 1989, 1993'
+          - '* The Regents of the University of California.  All rights reserved.'
+        license: BSD-3-Clause
+        path: Utilities/cmlibuv/src/unix/tty.c
     licensed:
       declared: BSD-3-Clause
