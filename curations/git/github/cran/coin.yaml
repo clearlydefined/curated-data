@@ -1,0 +1,9 @@
+coordinates:
+  name: coin
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  1b75f892193967e5b4d783bb66225504da14e65d:
+    licensed:
+      declared: GPL-2.0
