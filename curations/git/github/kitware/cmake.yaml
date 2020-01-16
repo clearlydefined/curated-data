@@ -10,6 +10,22 @@ revisions:
           - 'Copyright 2000-2019 Kitware, Inc. and Contributors All '
         license: BSD-3-Clause
         path: Copyright.txt
+      - license: GPL-2.0-only
+        path: Help/cpack_gen/rpm.rst
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzdiff
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzdiff.1
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzgrep
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzgrep.1
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzip2.1
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzmore
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzmore.1
       - attributions:
           - 'Copyright (c) 2010, Howard Chu, <hyc@highlandsun.com>'
           - 'Copyright (c) 2012 - 2019, Daniel Stenberg, <daniel@haxx.se>'
