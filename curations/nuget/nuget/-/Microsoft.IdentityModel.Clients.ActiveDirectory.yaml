@@ -38,6 +38,9 @@ revisions:
   2.28.4:
     licensed:
       declared: Apache-2.0
+  2.29.0:
+    licensed:
+      declared: MIT
   3.13.9:
     described:
       releaseDate: '2017-03-22'
