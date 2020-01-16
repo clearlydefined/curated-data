@@ -1,0 +1,8 @@
+coordinates:
+  name: NLog.Extensions.Logging
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.0:
+    licensed:
+      declared: BSD-2-Clause
