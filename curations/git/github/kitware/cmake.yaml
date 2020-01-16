@@ -11,6 +11,15 @@ revisions:
         license: BSD-3-Clause
         path: Copyright.txt
       - attributions:
+          - 'Copyright (c) 2010, Howard Chu, <hyc@highlandsun.com>'
+          - 'Copyright (c) 2012 - 2019, Daniel Stenberg, <daniel@haxx.se>'
+        license: GPL-2.0-only
+        path: Utilities/cmcurl/lib/curl_rtmp.c
+      - attributions:
+          - 'Copyright (c) 1998 - 2018, Daniel Stenberg, <daniel@haxx.se>'
+        license: GPL-2.0-only
+        path: Utilities/cmcurl/lib/hostip4.c
+      - attributions:
           - 'Copyright (c) 1998 - 2019, Daniel Stenberg, <daniel@haxx.se>'
         license: CC-BY-SA-4.0
         path: Utilities/cmcurl/lib/vtls/openssl.c
