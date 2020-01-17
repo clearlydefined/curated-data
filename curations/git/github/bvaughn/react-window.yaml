@@ -1,0 +1,12 @@
+coordinates:
+  name: react-window
+  namespace: bvaughn
+  provider: github
+  type: git
+revisions:
+  550c2c194a5728d63bd91d30a23d6eacdb791b1e:
+    files:
+      - attributions:
+          - Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+        license: MIT
+        path: website/scripts/utils/verifyPackageTree.js
