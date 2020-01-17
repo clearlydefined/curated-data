@@ -1,0 +1,9 @@
+coordinates:
+  name: asio
+  namespace: chriskohlhoff
+  provider: github
+  type: git
+revisions:
+  22afb86087a77037cd296d27134756c9b0d2cb75:
+    licensed:
+      declared: BSL-1.0
