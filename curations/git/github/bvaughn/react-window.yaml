@@ -7,6 +7,10 @@ revisions:
   550c2c194a5728d63bd91d30a23d6eacdb791b1e:
     files:
       - attributions:
+          - Copyright (c) 2016 Jason Miller
+        license: MIT
+        path: src/shallowDiffers.js
+      - attributions:
           - 'Copyright 2011, Joe Lambert.'
         license: MIT
         path: src/timer.js
