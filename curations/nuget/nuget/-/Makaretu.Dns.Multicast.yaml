@@ -1,11 +1,8 @@
 coordinates:
-  name: NuProj
+  name: Makaretu.Dns.Multicast
   provider: nuget
   type: nuget
 revisions:
-  0.10.4-beta-gf7fc34e7d8:
-    licensed:
-      declared: MIT
-  0.11.30:
+  0.25.0:
     licensed:
       declared: MIT

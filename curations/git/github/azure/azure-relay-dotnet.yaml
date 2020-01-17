@@ -1,0 +1,64 @@
+coordinates:
+  name: azure-relay-dotnet
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  13ff04770abe8ca4e14cc6d58f00d0d9d712437d:
+    files:
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: src/Microsoft.Azure.Relay/Common/UriHelper.cs
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: src/Microsoft.Azure.Relay/Common/UriScheme.cs
+      - attributions:
+          - Copyright (c) Microsoft.
+        license: OTHER
+        path: src/Microsoft.Azure.Relay/System/Net/HttpStatusDescription.cs
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: src/Microsoft.Azure.Relay/WebSockets/NetEventSource.Common.cs
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: src/Microsoft.Azure.Relay/WebSockets/NetEventSource.WebSockets.cs
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: src/Microsoft.Azure.Relay/WebSockets/NetCore21/ClientWebSocket.cs
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: src/Microsoft.Azure.Relay/WebSockets/NetCore21/ClientWebSocketOptions.cs
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: src/Microsoft.Azure.Relay/WebSockets/NetCore21/WebSocketHandle.Managed.cs
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: src/Microsoft.Azure.Relay/WebSockets/NetStandard20/AsyncEventArgsNetworkStream.cs
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: src/Microsoft.Azure.Relay/WebSockets/NetStandard20/ClientWebSocket.cs
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: src/Microsoft.Azure.Relay/WebSockets/NetStandard20/ClientWebSocketOptions.cs
+      - attributions:
+          - '  Copyright (c) .NET Foundation and Contributors'
+        license: Apache-2.0
+        path: src/Microsoft.Azure.Relay/WebSockets/NetStandard20/ManagedWebSocket.cs
+      - attributions:
+          - Copyright (c) .NET Foundation and Contributors
+        license: MIT
+        path: src/Microsoft.Azure.Relay/WebSockets/NetStandard20/SecurityProtocol.cs
+      - attributions:
+          - '  Copyright (c) .NET Foundation and Contributors'
+        license: Apache-2.0
+        path: src/Microsoft.Azure.Relay/WebSockets/NetStandard20/ManagedWebSocket.cs
