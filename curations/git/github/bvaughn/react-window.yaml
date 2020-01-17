@@ -7,6 +7,10 @@ revisions:
   550c2c194a5728d63bd91d30a23d6eacdb791b1e:
     files:
       - attributions:
+          - 'Copyright 2011, Joe Lambert.'
+        license: MIT
+        path: src/timer.js
+      - attributions:
           - Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
         license: MIT
         path: website/scripts/utils/verifyPackageTree.js
