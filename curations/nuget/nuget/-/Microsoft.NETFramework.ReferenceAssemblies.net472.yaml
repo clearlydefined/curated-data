@@ -1,11 +1,8 @@
 coordinates:
-  name: NuProj
+  name: Microsoft.NETFramework.ReferenceAssemblies.net472
   provider: nuget
   type: nuget
 revisions:
-  0.10.4-beta-gf7fc34e7d8:
-    licensed:
-      declared: MIT
-  0.11.30:
+  1.0.0-preview.2:
     licensed:
       declared: MIT
