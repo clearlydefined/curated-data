@@ -10,3 +10,7 @@ revisions:
           - Copyright (c) 2015 Jeff Preshing
         license: Zlib
         path: include/private/SkSemaphore.h
+      - attributions:
+          - Copyright (c) 2015 Jeff Preshing
+        license: Zlib
+        path: src/core/SkSharedMutex.h
