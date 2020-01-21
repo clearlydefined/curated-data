@@ -1,0 +1,8 @@
+coordinates:
+  name: azureml-telemetry
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.39:
+    licensed:
+      declared: OTHER
