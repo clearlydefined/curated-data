@@ -1,9 +1,9 @@
 coordinates:
-  name: azureml-pipeline-steps
+  name: azureml-telemetry
   provider: pypi
   type: pypi
 revisions:
-  1.0.39:
+  1.0.53:
     licensed:
       declared: OTHER
   1.0.60:
