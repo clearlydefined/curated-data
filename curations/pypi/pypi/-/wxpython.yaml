@@ -1,0 +1,8 @@
+coordinates:
+  name: wxpython
+  provider: pypi
+  type: pypi
+revisions:
+  4.0.7.post2:
+    licensed:
+      declared: LGPL-2.0-or-later
