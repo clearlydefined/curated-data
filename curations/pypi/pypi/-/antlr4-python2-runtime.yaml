@@ -11,3 +11,6 @@ revisions:
         path: antlr4-python2-runtime-4.7/PKG-INFO
     licensed:
       declared: BSD-3-Clause
+  '4.8':
+    licensed:
+      declared: BSD-3-Clause
