@@ -1,11 +1,8 @@
 coordinates:
-  name: azureml-pipeline
+  name: azureml-sdk
   provider: pypi
   type: pypi
 revisions:
-  1.0.39:
-    licensed:
-      declared: OTHER
   1.0.60:
     licensed:
       declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: gopass
+  namespace: howeyc
+  provider: github
+  type: git
+revisions:
+  bf9dde6d0d2c004a008c27aaee91170c786f6db8:
+    licensed:
+      declared: ISC AND CDDL-1.0
