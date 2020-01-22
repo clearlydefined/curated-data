@@ -4,6 +4,19 @@ coordinates:
   provider: github
   type: git
 revisions:
+  a40189cf881e9f0db80511c382292a5604c3c3d1:
+    files:
+      - attributions:
+          - Copyright (c) 1995-2019
+          - Copyright (c) 2018-2019 Cosmin Truta.
+          - Copyright (c) 1996-1997 Andreas Dilger.
+          - Copyright (c) 1998-2000 Glenn Randers-Pehrson
+          - 'Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc.'
+          - 'Copyright (c) 2000-2002, 2004, 2006-2018 Glenn Randers-Pehrson.'
+        license: libpng-2.0
+        path: LICENSE
+    licensed:
+      declared: libpng-2.0
   eddf9023206dc40974c26f589ee2ad63a4227a1e:
     licensed:
       declared: Libpng
