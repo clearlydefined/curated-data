@@ -7,6 +7,10 @@ revisions:
   fb379c3b6a56ab1d4c6590a1c06e66d413b15148:
     files:
       - attributions:
+          - '// Copyright Joyent, Inc. and other Node contributors.'
+        license: MIT
+        path: atom/renderer/atom_sandboxed_renderer_client.cc
+      - attributions:
           - ' // Copyright (c) 2014 The Chromium Authors. All rights reserved.'
         license: BSD-3-Clause
         path: lib/renderer/extensions/i18n.js
