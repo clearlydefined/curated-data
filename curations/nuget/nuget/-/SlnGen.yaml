@@ -1,11 +1,8 @@
 coordinates:
-  name: NuProj
+  name: SlnGen
   provider: nuget
   type: nuget
 revisions:
-  0.10.4-beta-gf7fc34e7d8:
-    licensed:
-      declared: MIT
-  0.11.30:
+  2.0.34-beta:
     licensed:
       declared: MIT
