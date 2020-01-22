@@ -1,5 +1,5 @@
 coordinates:
-  name: azureml-pipeline-core
+  name: azureml-train-core
   provider: pypi
   type: pypi
 revisions:

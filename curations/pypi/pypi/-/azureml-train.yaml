@@ -1,9 +1,9 @@
 coordinates:
-  name: azureml-pipeline-core
+  name: azureml-train
   provider: pypi
   type: pypi
 revisions:
-  1.0.39:
+  1.0.53:
     licensed:
       declared: OTHER
   1.0.60:
