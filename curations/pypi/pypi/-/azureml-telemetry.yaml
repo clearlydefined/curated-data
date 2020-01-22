@@ -1,5 +1,5 @@
 coordinates:
-  name: azureml-train-core
+  name: azureml-telemetry
   provider: pypi
   type: pypi
 revisions:
@@ -8,7 +8,7 @@ revisions:
       declared: OTHER
   1.0.53:
     licensed:
-      declared: OTHER      
+      declared: OTHER
   1.0.60:
     licensed:
       declared: OTHER
