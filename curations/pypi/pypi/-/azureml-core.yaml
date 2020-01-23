@@ -1,14 +1,14 @@
 coordinates:
-  name: highcharts
-  provider: npmjs
-  type: npm
+  name: azureml-core
+  provider: pypi
+  type: pypi
 revisions:
-  6.0.1:
+  1.0.39:
     licensed:
       declared: OTHER
-  7.1.1:
+  1.0.60:
     licensed:
       declared: OTHER
-  7.1.2:
+  1.0.72:
     licensed:
       declared: OTHER
