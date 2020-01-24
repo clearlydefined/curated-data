@@ -12,3 +12,7 @@ revisions:
           - Copyright (c) 2015 Tiancheng Timothy Gu
         license: MIT
         path: packages/react-dom/src/server/escapeTextForBrowser.js
+      - attributions:
+          - Copyright (c) 2015 Modernizr Authors
+        license: MIT
+        path: packages/react-dom/src/events/isEventSupported.js
