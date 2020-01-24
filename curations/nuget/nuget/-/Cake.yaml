@@ -1,0 +1,8 @@
+coordinates:
+  name: Cake
+  provider: nuget
+  type: nuget
+revisions:
+  0.21.1:
+    licensed:
+      declared: MIT

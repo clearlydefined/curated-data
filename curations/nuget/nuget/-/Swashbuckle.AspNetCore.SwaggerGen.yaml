@@ -18,3 +18,6 @@ revisions:
   5.0.0-rc2:
     licensed:
       declared: MIT
+  5.0.0-rc4:
+    licensed:
+      declared: MIT
