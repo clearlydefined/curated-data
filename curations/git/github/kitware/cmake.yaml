@@ -10,9 +10,39 @@ revisions:
           - 'Copyright 2000-2019 Kitware, Inc. and Contributors All '
         license: BSD-3-Clause
         path: Copyright.txt
+      - license: GPL-2.0-only
+        path: Help/cpack_gen/rpm.rst
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzdiff
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzdiff.1
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzgrep
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzgrep.1
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzip2.1
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzmore
+      - license: GPL-2.0-only
+        path: Utilities/cmbzip2/bzmore.1
+      - attributions:
+          - 'Copyright (c) 2010, Howard Chu, <hyc@highlandsun.com>'
+          - 'Copyright (c) 2012 - 2019, Daniel Stenberg, <daniel@haxx.se>'
+        license: GPL-2.0-only
+        path: Utilities/cmcurl/lib/curl_rtmp.c
+      - attributions:
+          - 'Copyright (c) 1998 - 2018, Daniel Stenberg, <daniel@haxx.se>'
+        license: GPL-2.0-only
+        path: Utilities/cmcurl/lib/hostip4.c
       - attributions:
           - 'Copyright (c) 1998 - 2019, Daniel Stenberg, <daniel@haxx.se>'
         license: CC-BY-SA-4.0
         path: Utilities/cmcurl/lib/vtls/openssl.c
+      - attributions:
+          - 'Copyright (c) 1989, 1993'
+          - '* The Regents of the University of California.  All rights reserved.'
+        license: BSD-3-Clause
+        path: Utilities/cmlibuv/src/unix/tty.c
     licensed:
       declared: BSD-3-Clause
