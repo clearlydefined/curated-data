@@ -79,6 +79,10 @@ revisions:
           - Copyright Node.js contributors. All rights reserved.
         license: MIT
         path: LICENSE
+      - attributions:
+          - Copyright (c) 2013 Dariusz Dwornikowski.  All rights reserved.
+        license: Apache-2.0
+        path: deps/uv/docs/src/sphinx-plugins/manpage.py
   7e463500b2483c084d1dbc016806d6f1092ddabf:
     licensed:
       declared: MIT
