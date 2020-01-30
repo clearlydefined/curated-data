@@ -22,6 +22,10 @@ revisions:
   64219741218aa87e259cf8257596073b8e747f0a:
     files:
       - attributions:
+          - 'Copyright (c) Mathias Bynens <https://mathiasbynens.be/>'
+        license: MIT
+        path: benchmark/misc/punycode.js
+      - attributions:
           - Copyright (c) 2018 Agoric
           - copyright Niels Provos. Two
           - 'Copyright 2008, Google Inc.'
