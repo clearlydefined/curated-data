@@ -1,0 +1,8 @@
+coordinates:
+  name: PowerThreading
+  provider: nuget
+  type: nuget
+revisions:
+  20120420.0.0:
+    licensed:
+      declared: OTHER
