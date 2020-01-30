@@ -79,7 +79,8 @@ revisions:
           - Copyright Node.js contributors. All rights reserved.
         license: MIT
         path: LICENSE
-      - attributions: []
+      - attributions:
+          - Copyright (c) 2013 Dariusz Dwornikowski.  All rights reserved.
         license: Apache-2.0
         path: deps/uv/docs/src/sphinx-plugins/manpage.py
       - attributions:
@@ -90,7 +91,6 @@ revisions:
           - Copyright (c) 2005 Tom Wu
           - Copyright (c) 2003-2005 Tom Wu
           - Copyright 2009 The Closure Library
-          - '(c) // int putchar(int c) // http://pubs.opengroup.org/onlinepubs/000095399/functions/putchar.html'
         license: Apache-2.0
         path: deps/v8/test/mjsunit/asm/embenchen/lua_binarytrees.js
   7e463500b2483c084d1dbc016806d6f1092ddabf:
