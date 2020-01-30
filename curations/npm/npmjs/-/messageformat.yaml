@@ -1,0 +1,8 @@
+coordinates:
+  name: messageformat
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.8:
+    licensed:
+      declared: WTFPL
