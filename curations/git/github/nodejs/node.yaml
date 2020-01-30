@@ -79,10 +79,12 @@ revisions:
           - Copyright Node.js contributors. All rights reserved.
         license: MIT
         path: LICENSE
-      - attributions: []
+      - attributions:
+          - Copyright (c) 2013 Dariusz Dwornikowski.  All rights reserved.
         license: Apache-2.0
         path: deps/uv/docs/src/sphinx-plugins/manpage.py
-      - attributions: []
+      - attributions:
+          - Copyright 2008 Google Inc.
         license: Apache-2.0
         path: deps/v8/test/mjsunit/asm/embenchen/lua_binarytrees.js
   7e463500b2483c084d1dbc016806d6f1092ddabf:
