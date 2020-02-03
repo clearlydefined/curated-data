@@ -1,0 +1,18 @@
+coordinates:
+  name: onnxruntime
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  c33dab394f4984ab28a370d96c373f0fca84d826:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation.
+          - 'CMake - Cross Platform Makefile Generator Copyright 2000-2019 Kitware, Inc. and Contributors All rights reserved.'
+        license: BSD-3-Clause
+        path: cmake/CMakeLists.txt
+      - attributions:
+          - Copyright (c) Microsoft Corporation.
+          - Copyright (c) 2018 The gRPC Authors
+        license: Apache-2.0
+        path: cmake/onnxruntime_server.cmake
