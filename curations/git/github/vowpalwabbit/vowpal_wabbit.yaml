@@ -1,0 +1,9 @@
+coordinates:
+  name: vowpal_wabbit
+  namespace: vowpalwabbit
+  provider: github
+  type: git
+revisions:
+  07ac3db2afc30a5f2f90fc02707f978fbd5db61d:
+    licensed:
+      declared: BSD-3-Clause
