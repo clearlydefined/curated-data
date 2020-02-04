@@ -10,3 +10,7 @@ revisions:
           - '* Copyright (c) 2015 Databricks Inc.'
         license: Apache-2.0
         path: benchmark/csharp/Tpch/TpchSqlQueries.cs
+      - attributions:
+          - 'Copyright (c) 2015 Savvas Savvides, ssavvides@us.ibm.com, savvas@purdue.edu'
+        license: MIT
+        path: benchmark/scala/src/main/scala/com/microsoft/tpch/TpchFunctionalQueries.scala
