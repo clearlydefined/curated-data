@@ -1,0 +1,8 @@
+coordinates:
+  name: ssh2
+  provider: npmjs
+  type: npm
+revisions:
+  0.8.5:
+    licensed:
+      declared: MIT

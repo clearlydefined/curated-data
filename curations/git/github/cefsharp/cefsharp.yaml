@@ -1,0 +1,9 @@
+coordinates:
+  name: cefsharp
+  namespace: cefsharp
+  provider: github
+  type: git
+revisions:
+  9d6e5de858a79deff109d28e459218d4e24f47d7:
+    licensed:
+      declared: BSD-3-Clause
