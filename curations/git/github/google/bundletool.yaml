@@ -1,0 +1,17 @@
+coordinates:
+  name: bundletool
+  namespace: google
+  provider: github
+  type: git
+revisions:
+  2e9ac4e628a690c0fce402548fe90c747c86533c:
+    files:
+      - attributions:
+          - Copyright (C) 2018 The Android Open Source Project
+        license: Apache-2.0
+        path: LICENSE
+      - attributions:
+          - Copyright (c) 2018 The Android Open Source Project
+          - 'Copyright (c) 2016, the R8 project authors. All rights reserved.'
+        license: BSD-3-Clause
+        path: src/test/java/com/android/tools/build/bundletool/mergers/D8DexMergerTest.java
