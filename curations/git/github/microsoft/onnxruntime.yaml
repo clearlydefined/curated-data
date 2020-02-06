@@ -8,6 +8,16 @@ revisions:
     files:
       - attributions:
           - Copyright (c) Microsoft Corporation.
+          - 'CMake - Cross Platform Makefile Generator Copyright 2000-2019 Kitware, Inc. and Contributors All rights reserved.'
+        license: BSD-3-Clause
+        path: cmake/CMakeLists.txt
+      - attributions:
+          - Copyright (c) Microsoft Corporation.
+          - Copyright (c) 2018 The gRPC Authors
+        license: Apache-2.0
+        path: cmake/onnxruntime_server.cmake
+      - attributions:
+          - Copyright (c) Microsoft Corporation.
           - Copyright (c) 2018 The gRPC Authors
         license: Apache-2.0
         path: cmake/onnxruntime_server.cmake
