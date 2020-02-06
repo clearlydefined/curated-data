@@ -1,0 +1,13 @@
+coordinates:
+  name: swiftdate
+  namespace: malcommac
+  provider: github
+  type: git
+revisions:
+  89774a1e28826af1498693bcbdf9ff6037ec646f:
+    files:
+      - attributions:
+          - Copyright (c) 2019 Daniele Margutti.
+          - Copyright (c) 2006–2011 Peter Hosey  All rights reserved.
+        license: BSD-3-Clause
+        path: Sources/SwiftDate/Formatters/ISOParser.swift

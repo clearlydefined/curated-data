@@ -1,0 +1,16 @@
+coordinates:
+  name: spark
+  namespace: dotnet
+  provider: github
+  type: git
+revisions:
+  8719e44d5eac08ecfb7f742e4b17160a255a5866:
+    files:
+      - attributions:
+          - '* Copyright (c) 2015 Databricks Inc.'
+        license: Apache-2.0
+        path: benchmark/csharp/Tpch/TpchSqlQueries.cs
+      - attributions:
+          - 'Copyright (c) 2015 Savvas Savvides, ssavvides@us.ibm.com, savvas@purdue.edu'
+        license: MIT
+        path: benchmark/scala/src/main/scala/com/microsoft/tpch/TpchFunctionalQueries.scala

@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-activedirectory-identitymodel-extensions-for-dotnet
+  namespace: azuread
+  provider: github
+  type: git
+revisions:
+  5810cd81dd3d7a802f111005f42990dc8ebb0aa7:
+    licensed:
+      declared: MIT

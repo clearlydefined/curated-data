@@ -1,0 +1,12 @@
+coordinates:
+  name: selenium
+  namespace: seleniumhq
+  provider: github
+  type: git
+revisions:
+  aacccce032ad8cda9fc15ecabfbd844c87db5497:
+    files:
+      - attributions:
+          - Copyright 2018 Software Freedom Conservancy (SFC)
+        license: Apache-2.0
+        path: LICENSE
