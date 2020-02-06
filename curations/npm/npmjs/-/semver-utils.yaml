@@ -1,0 +1,8 @@
+coordinates:
+  name: semver-utils
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.4:
+    licensed:
+      declared: MIT OR Apache-2.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: azureml-train-automl-client
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.85:
+    licensed:
+      declared: OTHER
