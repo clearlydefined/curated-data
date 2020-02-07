@@ -20,3 +20,11 @@ revisions:
         path: third_party/gif/SkGifImageReader.cpp
         license: MPL-1.1 OR (GPL-2.0-or later OR LGPL-2.1-or-later)
         path: third_party/gif/SkGifImageReader.h
+      - attributions:
+          - Copyright (c) 2015 Jeff Preshing
+        license: Zlib
+        path: include/private/SkSemaphore.h
+      - attributions:
+          - Copyright (c) 2015 Jeff Preshing
+        license: Zlib
+        path: src/core/SkSharedMutex.h

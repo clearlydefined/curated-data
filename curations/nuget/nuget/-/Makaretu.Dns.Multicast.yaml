@@ -1,0 +1,8 @@
+coordinates:
+  name: Makaretu.Dns.Multicast
+  provider: nuget
+  type: nuget
+revisions:
+  0.25.0:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: hdbscan
+  provider: pypi
+  type: pypi
+revisions:
+  0.8.22:
+    licensed:
+      declared: BSD-3-Clause

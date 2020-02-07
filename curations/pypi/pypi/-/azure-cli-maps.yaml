@@ -1,0 +1,8 @@
+coordinates:
+  name: azure-cli-maps
+  provider: pypi
+  type: pypi
+revisions:
+  0.3.4:
+    licensed:
+      declared: MIT
