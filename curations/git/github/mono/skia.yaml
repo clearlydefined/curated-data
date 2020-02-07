@@ -12,19 +12,12 @@ revisions:
         path: gm/addarc.cpp
       - attributions:
           - Copyright 2006 The Android Open Source Project
-        license: Apache-2.0
+        license: BSD-3-Clause AND Apache-2.0
         path: src/effects/SkBlurMask.cpp
-      - attributions:
-          - Copyright (c) 1998 the Initial Developer.
-        license: MPL-1.1 OR (GPL-2.0 OR LGPL-2.1
+        license: MPL-1.1 OR (GPL-2.0-or later OR LGPL-2.1-or-later)
         path: third_party/gif/LICENSE
       - attributions:
-          - Copyright (c) 1998 the Initial Developer.
-          - Copyright property of CompuServe Incorporated.
-          - copyright property of CompuServe Incorporated. Only CompuServe Incorporated
-        license: MPL-1.1 OR (GPL-2.0 OR LGPL-2.1)
+        license: MPL-1.1 OR (GPL-2.0-or later OR LGPL-2.1-or-later)
         path: third_party/gif/SkGifImageReader.cpp
-      - attributions:
-          - Copyright (c) 1998 the Initial Developer.
-        license: MPL-1.1 OR (GPL-2.0 OR LGPL-2.1)
+        license: MPL-1.1 OR (GPL-2.0-or later OR LGPL-2.1-or-later)
         path: third_party/gif/SkGifImageReader.h
