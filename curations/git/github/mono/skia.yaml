@@ -7,7 +7,7 @@ revisions:
   79502c2199bcf7364e055371a9a0e2a12478de20:
     files:
       - attributions:
-          - // Copyright 2015 The Chromium Authors. All rights reserved.
+          - Copyright 2015 The Chromium Authors. All rights reserved.
         license: BSD-3-Clause
         path: gm/addarc.cpp
       - attributions:
