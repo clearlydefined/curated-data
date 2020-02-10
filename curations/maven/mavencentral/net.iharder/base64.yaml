@@ -1,0 +1,9 @@
+coordinates:
+  name: base64
+  namespace: net.iharder
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.8:
+    licensed:
+      declared: OTHER
