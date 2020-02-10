@@ -1,0 +1,11 @@
+coordinates:
+  name: Microsoft.Xrm.Sdk.2015
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.1:
+    licensed:
+      declared: OTHER
+  7.1.0.1085:
+    licensed:
+      declared: OTHER

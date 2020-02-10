@@ -1,0 +1,26 @@
+coordinates:
+  name: reuse
+  provider: pypi
+  type: pypi
+revisions:
+  0.8.0:
+    files:
+      - attributions:
+          - 'Copyright (c) 2007 Free Software Foundation, Inc. <https://fsf.org/>'
+        license: GPL-3.0-or-later
+        path: reuse-0.8.0/LICENSES/GPL-3.0-or-later.txt
+    described:
+      facets:
+        doc:
+          - docs/
+        tests:
+          - tests/
+      sourceLocation:
+        name: reuse-tool
+        namespace: fsfe
+        provider: github
+        revision: 204c3457655a3b39b486905179ffffd810b2ec15
+        type: git
+        url: 'https://github.com/fsfe/reuse-tool/commit/204c3457655a3b39b486905179ffffd810b2ec15'
+    licensed:
+      declared: GPL-3.0-or-later AND Apache-2.0 AND CC0-1.0 AND CC-BY-SA-4.0
