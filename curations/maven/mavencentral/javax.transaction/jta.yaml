@@ -1,0 +1,12 @@
+coordinates:
+  name: jta
+  namespace: javax.transaction
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    files:
+      - license: CDDL-1.0
+        path: META-INF/LICENSE.txt
+    licensed:
+      declared: CDDL-1.0
