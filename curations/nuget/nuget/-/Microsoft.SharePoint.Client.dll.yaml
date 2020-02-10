@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.SharePoint.Client.dll
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.4420.1017:
+    licensed:
+      declared: NONE
