@@ -4,6 +4,11 @@ coordinates:
   type: pypi
 revisions:
   0.8.0:
+    files:
+      - attributions:
+          - 'Copyright (c) 2007 Free Software Foundation, Inc. <https://fsf.org/>'
+        license: GPL-3.0-or-later
+        path: reuse-0.8.0/LICENSES/GPL-3.0-or-later.txt
     described:
       facets:
         doc:
