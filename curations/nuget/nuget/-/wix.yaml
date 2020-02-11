@@ -6,3 +6,6 @@ revisions:
   3.11.0:
     licensed:
       declared: MS-RL
+  3.11.2:
+    licensed:
+      declared: MS-RL
