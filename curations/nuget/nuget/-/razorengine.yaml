@@ -1,0 +1,8 @@
+coordinates:
+  name: razorengine
+  provider: nuget
+  type: nuget
+revisions:
+  3.7.2:
+    licensed:
+      declared: Apache-2.0
