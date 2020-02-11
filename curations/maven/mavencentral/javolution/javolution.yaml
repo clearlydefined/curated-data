@@ -1,0 +1,9 @@
+coordinates:
+  name: javolution
+  namespace: javolution
+  provider: mavencentral
+  type: maven
+revisions:
+  5.5.1:
+    licensed:
+      declared: BSD-2-Clause
