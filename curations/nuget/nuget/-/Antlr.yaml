@@ -5,7 +5,7 @@ coordinates:
 revisions:
   3.4.1.9004:
     licensed:
-      declared: NONE
+      declared: BSD-3-Clause
   3.5.0.2:
     described:
       releaseDate: '2013-09-12'
