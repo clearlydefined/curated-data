@@ -1,0 +1,8 @@
+coordinates:
+  name: pmdarima
+  provider: pypi
+  type: pypi
+revisions:
+  1.1.1:
+    licensed:
+      declared: MIT
