@@ -1,0 +1,16 @@
+coordinates:
+  name: System.Linq.Dynamic.Core
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.19:
+    described:
+      sourceLocation:
+        name: system.linq.dynamic.core
+        namespace: stefh
+        provider: github
+        revision: 759172668f5789e87ed4da50ac838c3164572788
+        type: git
+        url: 'https://github.com/stefh/system.linq.dynamic.core/commit/759172668f5789e87ed4da50ac838c3164572788'
+    licensed:
+      declared: Apache-2.0
