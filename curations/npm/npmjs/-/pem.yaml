@@ -1,0 +1,8 @@
+coordinates:
+  name: pem
+  provider: npmjs
+  type: npm
+revisions:
+  1.11.2:
+    licensed:
+      declared: MIT-0
