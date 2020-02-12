@@ -1,0 +1,8 @@
+coordinates:
+  name: microsoft.azure.amqp
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.6:
+    licensed:
+      declared: MIT
