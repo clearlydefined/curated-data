@@ -1,0 +1,8 @@
+coordinates:
+  name: microsoft.azure.management.hdinsight
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.13-preview:
+    licensed:
+      declared: MIT
