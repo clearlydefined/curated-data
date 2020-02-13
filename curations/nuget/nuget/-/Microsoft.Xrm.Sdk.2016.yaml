@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Xrm.Sdk.2016
+  provider: nuget
+  type: nuget
+revisions:
+  8.2.0.713:
+    licensed:
+      declared: NONE
