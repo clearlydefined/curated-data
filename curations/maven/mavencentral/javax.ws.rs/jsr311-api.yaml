@@ -1,0 +1,9 @@
+coordinates:
+  name: jsr311-api
+  namespace: javax.ws.rs
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.1:
+    licensed:
+      declared: CDDL-1.0
