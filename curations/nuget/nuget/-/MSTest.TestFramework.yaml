@@ -1,11 +1,8 @@
 coordinates:
-  name: MSTest.TestAdapter
+  name: MSTest.TestFramework
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
   2.1.0-beta2:
     licensed:
       declared: MIT
