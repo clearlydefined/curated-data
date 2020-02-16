@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Crm.Sdk.Proxy.2015
+  provider: nuget
+  type: nuget
+revisions:
+  7.1.0:
+    licensed:
+      declared: OTHER
