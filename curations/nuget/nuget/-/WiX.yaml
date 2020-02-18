@@ -1,0 +1,8 @@
+coordinates:
+  name: WiX
+  provider: nuget
+  type: nuget
+revisions:
+  3.11.1:
+    licensed:
+      declared: MS-RL
