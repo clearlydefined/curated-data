@@ -1,0 +1,9 @@
+coordinates:
+  name: mockito-all
+  namespace: org.mockito
+  provider: mavencentral
+  type: maven
+revisions:
+  1.10.19:
+    licensed:
+      declared: MIT
