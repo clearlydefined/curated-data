@@ -1,0 +1,63 @@
+coordinates:
+  name: vue
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.0-alpha.5:
+    described:
+      sourceLocation:
+        name: vue
+        namespace: vuejs
+        provider: github
+        revision: 6390f70c2e4ec7e51cce1d2a4ba35e2d0d328205
+        type: git
+        url: 'https://github.com/vuejs/vue/commit/6390f70c2e4ec7e51cce1d2a4ba35e2d0d328205'
+    files:
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/index.js
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/package.json
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/README.md
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/dist/vue.cjs.js
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/dist/vue.cjs.prod.js
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/dist/vue.d.ts
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/dist/vue.esm-bundler.js
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/dist/vue.esm.js
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/dist/vue.esm.prod.js
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/dist/vue.global.js
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/dist/vue.global.prod.js
+      - attributions:
+          - 'Copyright (c) 2013-present, Yuxi (Evan) You'
+        license: MIT
+        path: package/dist/vue.runtime.esm-bundler.js
