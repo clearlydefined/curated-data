@@ -1,0 +1,19 @@
+coordinates:
+  name: cordova-android
+  provider: npmjs
+  type: npm
+revisions:
+  9.0.0-nightly.2020.2.22.c56cd4d5:
+    described:
+      facets:
+        dev:
+          - '**/package/.github/**'
+        tests:
+          - '**/package/test/**'
+    files:
+      - attributions:
+          - Copyright 2015 Apache Cordova
+          - Copyright 2009-2012 Kristopher Michael Kowal.
+          - 'Copyright 2009, 2010, 2011 Isaac Z. Schlueter.'
+        license: Apache-2.0
+        path: package/LICENSE
