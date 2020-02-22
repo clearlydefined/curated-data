@@ -1,0 +1,15 @@
+coordinates:
+  name: mlpack3
+  provider: pypi
+  type: pypi
+revisions:
+  3.0.0:
+    described:
+      releaseDate: '2018-06-09'
+      sourceLocation:
+        name: mlpack
+        namespace: mlpack
+        provider: github
+        revision: c58f1127dbef163a5fe70395977e9d2affe42686
+        type: git
+        url: 'https://github.com/mlpack/mlpack/commit/c58f1127dbef163a5fe70395977e9d2affe42686'
