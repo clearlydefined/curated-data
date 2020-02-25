@@ -1,8 +1,0 @@
-coordinates:
-  name: makaretu.dns
-  provider: nuget
-  type: nuget
-revisions:
-  2.0.1:
-    licensed:
-      declared: MIT
