@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.WindowsAzure.SDK
+  provider: nuget
+  type: nuget
+revisions:
+  2.9.0:
+    licensed:
+      declared: NONE
