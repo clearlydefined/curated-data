@@ -1,8 +1,0 @@
-coordinates:
-  name: slngen
-  provider: nuget
-  type: nuget
-revisions:
-  2.0.34-beta:
-    licensed:
-      declared: MIT
