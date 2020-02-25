@@ -1,8 +1,0 @@
-coordinates:
-  name: m2mqttdotnetcore
-  provider: nuget
-  type: nuget
-revisions:
-  1.0.8:
-    licensed:
-      declared: EPL-1.0
