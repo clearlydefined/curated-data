@@ -1,8 +1,0 @@
-coordinates:
-  name: dotnetty.codecs.mqtt
-  provider: nuget
-  type: nuget
-revisions:
-  0.4.6:
-    licensed:
-      declared: MIT

@@ -1,8 +1,0 @@
-coordinates:
-  name: microsoft.azure.devices.shared
-  provider: nuget
-  type: nuget
-revisions:
-  1.5.0:
-    licensed:
-      declared: MIT
