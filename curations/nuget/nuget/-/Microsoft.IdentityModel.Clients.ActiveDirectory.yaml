@@ -195,3 +195,14 @@ revisions:
         url: 'https://github.com/azuread/azure-activedirectory-library-for-dotnet/commit/7879e4efa5d817c7d0c41116bb3a4af88e7d39c8'
     licensed:
       declared: MIT
+  5.2.7:
+    described:
+      sourceLocation:
+        name: azure-activedirectory-library-for-dotnet
+        namespace: azuread
+        provider: github
+        revision: af10dd15cdb082bc3dbe14b0c2c6d81f6ca5b541
+        type: git
+        url: 'https://github.com/azuread/azure-activedirectory-library-for-dotnet/commit/af10dd15cdb082bc3dbe14b0c2c6d81f6ca5b541'
+    licensed:
+      declared: MIT
