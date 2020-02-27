@@ -9,3 +9,6 @@ revisions:
         path: Microsoft.Owin.FileSystems.nuspec
     licensed:
       declared: Apache-2.0
+  4.1.0:
+    licensed:
+      declared: Apache-2.0
