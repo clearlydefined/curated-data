@@ -1,0 +1,29 @@
+coordinates:
+  name: eslint-plugin-tsdoc
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.2:
+    described:
+      facets:
+        tests:
+          - '**/package/lib/tests/**'
+    files:
+      - license: MIT
+        path: package/CHANGELOG.json
+      - license: MIT
+        path: package/CHANGELOG.md
+      - license: MIT
+        path: package/README.md
+      - license: MIT
+        path: package/lib/ConfigCache.d.ts
+      - license: MIT
+        path: package/lib/ConfigCache.js
+      - license: MIT
+        path: package/lib/Debug.d.ts
+      - license: MIT
+        path: package/lib/Debug.js
+      - license: MIT
+        path: package/lib/index.d.ts
+      - license: MIT
+        path: package/lib/index.js
