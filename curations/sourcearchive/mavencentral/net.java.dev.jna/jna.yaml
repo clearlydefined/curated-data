@@ -7,3 +7,15 @@ revisions:
   4.1.0:
     licensed:
       declared: LGPL-2.1 AND Apache-2.0
+  4.5.2:
+    described:
+      releaseDate: '2018-07-12'
+      sourceLocation:
+        name: jna
+        namespace: java-native-access
+        provider: github
+        revision: 0d4d9950fac66d40902451b5417b3b671fe1a4aa
+        type: git
+        url: 'https://github.com/java-native-access/jna/commit/0d4d9950fac66d40902451b5417b3b671fe1a4aa'
+    licensed:
+      declared: Apache-2.0 OR LGPL-2.1-or-later
