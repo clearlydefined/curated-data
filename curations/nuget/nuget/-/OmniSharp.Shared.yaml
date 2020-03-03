@@ -1,0 +1,8 @@
+coordinates:
+  name: OmniSharp.Shared
+  provider: nuget
+  type: nuget
+revisions:
+  1.33.0:
+    licensed:
+      declared: MIT
