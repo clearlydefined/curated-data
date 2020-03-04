@@ -1,0 +1,8 @@
+coordinates:
+  name: ring
+  provider: cratesio
+  type: crate
+revisions:
+  0.16.11:
+    licensed:
+      declared: ISC AND OpenSSL AND MIT

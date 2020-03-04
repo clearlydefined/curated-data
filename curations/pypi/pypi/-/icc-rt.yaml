@@ -1,11 +1,8 @@
 coordinates:
-  name: matplotlib
+  name: icc-rt
   provider: pypi
   type: pypi
 revisions:
-  3.0.0:
-    licensed:
-      declared: OTHER
-  3.0.2:
+  2020.0.133:
     licensed:
       declared: OTHER
