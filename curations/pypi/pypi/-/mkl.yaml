@@ -1,0 +1,8 @@
+coordinates:
+  name: mkl
+  provider: pypi
+  type: pypi
+revisions:
+  '2019.0':
+    licensed:
+      declared: OTHER
