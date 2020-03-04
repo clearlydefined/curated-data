@@ -1,11 +1,8 @@
 coordinates:
-  name: busboy
+  name: binary-search-tree
   provider: npmjs
   type: npm
 revisions:
-  0.2.14:
-    licensed:
-      declared: MIT
-  0.3.1:
+  0.2.5:
     licensed:
       declared: MIT
