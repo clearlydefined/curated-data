@@ -1,0 +1,17 @@
+coordinates:
+  name: jakarta.json
+  namespace: org.glassfish
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.6:
+    described:
+      sourceLocation:
+        name: jsonp
+        namespace: eclipse-ee4j
+        provider: github
+        revision: 517c036150ca4e6bfe7257adde0e6f00958e0d45
+        type: git
+        url: 'https://github.com/eclipse-ee4j/jsonp/commit/517c036150ca4e6bfe7257adde0e6f00958e0d45'
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0
