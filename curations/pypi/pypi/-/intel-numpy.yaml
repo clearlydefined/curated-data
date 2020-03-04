@@ -1,0 +1,8 @@
+coordinates:
+  name: intel-numpy
+  provider: pypi
+  type: pypi
+revisions:
+  1.14.3:
+    licensed:
+      declared: OTHER
