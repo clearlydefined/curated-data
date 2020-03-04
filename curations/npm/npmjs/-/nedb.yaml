@@ -1,0 +1,8 @@
+coordinates:
+  name: nedb
+  provider: npmjs
+  type: npm
+revisions:
+  1.8.0:
+    licensed:
+      declared: MIT
