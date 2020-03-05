@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Shell.Interop.16.3.DesignTime
+  provider: nuget
+  type: nuget
+revisions:
+  16.3.29316.127:
+    licensed:
+      declared: OTHER
