@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Package.LanguageService.15.0
+  provider: nuget
+  type: nuget
+revisions:
+  16.4.29519.181:
+    licensed:
+      declared: OTHER
