@@ -1,0 +1,14 @@
+coordinates:
+  name: decorator
+  provider: pypi
+  type: pypi
+revisions:
+  4.4.2:
+    described:
+      sourceLocation:
+        name: decorator
+        namespace: micheles
+        provider: github
+        revision: 55a68b5ef1951614c5c37a6d201b1f3b804dbce6
+        type: git
+        url: 'https://github.com/micheles/decorator/commit/55a68b5ef1951614c5c37a6d201b1f3b804dbce6'
