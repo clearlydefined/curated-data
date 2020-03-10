@@ -6,3 +6,27 @@ revisions:
   0.3.1291:
     licensed:
       declared: OTHER
+  0.3.379:
+    files:
+      - license: OTHER
+        path: package/LICENSE.txt
+    licensed:
+      declared: OTHER
+  0.3.426:
+    files:
+      - license: OTHER
+        path: package/LICENSE.txt
+    licensed:
+      declared: OTHER
+  0.3.967:
+    files:
+      - license: OTHER
+        path: package/LICENSE.txt
+    licensed:
+      declared: OTHER
+  1.0.1526:
+    files:
+      - license: OTHER
+        path: package/LICENSE.txt
+    licensed:
+      declared: OTHER
