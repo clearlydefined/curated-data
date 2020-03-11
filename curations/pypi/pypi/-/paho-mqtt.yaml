@@ -1,0 +1,11 @@
+coordinates:
+  name: paho-mqtt
+  provider: pypi
+  type: pypi
+revisions:
+  1.5.0:
+    files:
+      - license: EPL-1.0 AND BSD-3-Clause
+        path: paho-mqtt-1.5.0/LICENSE.txt
+    licensed:
+      declared: BSD-3-Clause OR EPL-1.0
