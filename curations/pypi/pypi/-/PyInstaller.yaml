@@ -25,4 +25,4 @@ revisions:
         license: GPL-2.0-or-later WITH Bootloader-exception
         path: PyInstaller-3.4/setup.py
     licensed:
-      declared: GPL-2.0-or-later
+      declared: GPL-2.0-or-later WITH Bootloader-exception
