@@ -1,0 +1,30 @@
+coordinates:
+  name: pylint
+  provider: pypi
+  type: pypi
+revisions:
+  2.3.0:
+    files:
+      - attributions:
+          - copyrighted by the Free Software Foundation
+          - 'Copyright (c) 1989, 1991 Free Software Foundation, Inc.'
+        license: GPL-2.0-only
+        path: pylint-2.3.0/COPYING
+      - attributions:
+          - 'Copyright (c) 2014 Google, Inc.'
+          - Copyright (c) 2014 Brett Cannon <brett@python.org>
+          - 'Copyright (c) 2006, 2009-2010, 2012-2014 LOGILAB S.A.'
+          - Copyright (c) 2012 FELD Boris <lothiraldan@gmail.com>
+          - Copyright (c) 2013 T.Rzepka <Tobias.Rzepka@gmail.com>
+          - Copyright (c) 2014 Pedro Algarvio <pedro@algarvio.me>
+          - Copyright (c) 2016 Florian Bruhin <me@the-compiler.org>
+          - Copyright (c) 2017 Hugo <hugovk@users.noreply.github.com>
+          - Copyright (c) 2014-2018 Claudiu Popa <pcmanticore@gmail.com>
+          - Copyright (c) 2015 Ionel Cristian Maries <contact@ionelmc.ro>
+          - Copyright (c) 2010 Julien Jehannet <julien.jehannet@logilab.fr>
+          - Copyright (c) 2014 Ricardo Gemignani <ricardo.gemignani@gmail.com>
+          - Copyright (c) 2013 Benedikt Morbach <benedikt.morbach@googlemail.com>
+        license: GPL-2.0-only
+        path: pylint-2.3.0/setup.py
+    licensed:
+      declared: GPL-2.0-only
