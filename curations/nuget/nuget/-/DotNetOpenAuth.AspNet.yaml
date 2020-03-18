@@ -1,0 +1,8 @@
+coordinates:
+  name: DotNetOpenAuth.AspNet
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.3.12153:
+    licensed:
+      declared: MS-PL
