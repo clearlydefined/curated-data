@@ -6,6 +6,9 @@ revisions:
   0.10.4-beta-gf7fc34e7d8:
     licensed:
       declared: MIT
+  0.11.14-beta:
+    licensed:
+      declared: MIT
   0.11.30:
     licensed:
       declared: MIT
