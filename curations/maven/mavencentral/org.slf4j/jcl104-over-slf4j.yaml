@@ -1,0 +1,9 @@
+coordinates:
+  name: jcl104-over-slf4j
+  namespace: org.slf4j
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.1:
+    licensed:
+      declared: MIT
