@@ -6,13 +6,21 @@ coordinates:
 revisions:
   663825404345a074e465c34bdadf97eeb54c9ce9:
     files:
-      - license: CPL-1.0
-        path: tools/google-closure-compiler/compiler.jar
-      - license: ''
-        path: tools/google-closure-compiler/COPYING
       - attributions:
-          - Copyright 2009 The Closure Compiler
-        license: Apache-2.0 AND CPL-1.0
-        path: tools/google-closure-compiler/README
+          - 'Copyright 2010, John Resig'
+          - 'Copyright 2010, The Dojo Foundation'
+          - 'Copyright 2009, The Dojo Foundation'
+        license: MIT OR GPL-2.0-only
+        path: vendor/jquery-1.4.4.js
+      - attributions:
+          - 'Copyright 2011, John Resig'
+          - 'Copyright 2011, The Dojo Foundation'
+        license: MIT OR GPL-2.0-only
+        path: vendor/jquery-1.5.2.js
+      - attributions:
+          - 'Copyright 2011, John Resig'
+          - 'Copyright 2011, The Dojo Foundation'
+        license: MIT OR GPL-2.0-only
+        path: vendor/jquery-1.6.4.js
     licensed:
       declared: CC-BY-NC-3.0 OR OTHER
