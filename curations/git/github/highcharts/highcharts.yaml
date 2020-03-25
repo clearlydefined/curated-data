@@ -5,5 +5,12 @@ coordinates:
   type: git
 revisions:
   663825404345a074e465c34bdadf97eeb54c9ce9:
+    files:
+      - license: CC-BY-SA-4.0
+        path: samples/highcharts/studies/appear/demo.js
+      - license: CC-BY-SA-4.0
+        path: samples/highcharts/studies/gpx-height-profile/demo.js
+      - license: CC-BY-SA-4.0
+        path: vendor/moment-2.18.1.js
     licensed:
       declared: CC-BY-NC-3.0 OR OTHER
