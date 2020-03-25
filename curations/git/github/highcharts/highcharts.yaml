@@ -5,5 +5,14 @@ coordinates:
   type: git
 revisions:
   663825404345a074e465c34bdadf97eeb54c9ce9:
+    files:
+      - license: CPL-1.0
+        path: tools/google-closure-compiler/compiler.jar
+      - license: ''
+        path: tools/google-closure-compiler/COPYING
+      - attributions:
+          - Copyright 2009 The Closure Compiler
+        license: Apache-2.0 AND CPL-1.0
+        path: tools/google-closure-compiler/README
     licensed:
       declared: CC-BY-NC-3.0 OR OTHER
