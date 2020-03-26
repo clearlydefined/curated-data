@@ -1,0 +1,8 @@
+coordinates:
+  name: JsonFx
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.1209.2802:
+    licensed:
+      declared: MIT
