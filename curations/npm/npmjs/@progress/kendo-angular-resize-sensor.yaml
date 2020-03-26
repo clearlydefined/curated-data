@@ -1,12 +1,9 @@
 coordinates:
-  name: kendo-date-math
+  name: kendo-angular-resize-sensor
   namespace: '@progress'
   provider: npmjs
   type: npm
 revisions:
-  1.2.0:
-    licensed:
-      declared: OTHER
-  1.4.0:
+  3.1.2:
     licensed:
       declared: OTHER
