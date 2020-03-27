@@ -1,0 +1,10 @@
+coordinates:
+  name: apktool
+  namespace: ibotpeaches
+  provider: github
+  type: git
+revisions:
+  511718ef3aeadf6a96bc167bdfb04d6dda2091e6:
+    files:
+      - license: CC-BY-NC-2.0
+        path: brut.apktool/apktool-lib/src/test/resources/aapt1/testapp/res/drawable-ldpi/data.jpg
