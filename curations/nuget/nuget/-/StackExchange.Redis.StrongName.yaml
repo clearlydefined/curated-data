@@ -34,6 +34,9 @@ revisions:
         url: 'https://github.com/StackExchange/StackExchange.Redis/commit/1f514259be17897c22cbe73dc7b929ade458e56d'
     licensed:
       declared: MIT
+  1.2.1:
+    licensed:
+      declared: MIT
   1.2.4:
     licensed:
       declared: MIT

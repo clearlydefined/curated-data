@@ -1,12 +1,9 @@
 coordinates:
-  name: ant-contrib
-  namespace: ant-contrib
+  name: avalon-framework
+  namespace: avalon-framework
   provider: mavencentral
   type: maven
 revisions:
-  1.0b2:
-    licensed:
-      declared: Apache-1.1
-  1.0b3:
+  4.1.5:
     licensed:
       declared: Apache-1.1
