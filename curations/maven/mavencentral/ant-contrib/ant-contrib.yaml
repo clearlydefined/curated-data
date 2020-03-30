@@ -1,0 +1,9 @@
+coordinates:
+  name: ant-contrib
+  namespace: ant-contrib
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0b2:
+    licensed:
+      declared: Apache-1.1
