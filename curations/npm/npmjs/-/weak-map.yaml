@@ -8,12 +8,12 @@ revisions:
       projectWebsite: 'https://github.com/drses/weak-map'
       sourceLocation:
         name: weak-map
-        namespace: ''
+        namespace: drses
         path: ''
         provider: github
-        revision: ''
+        revision: 2c87c5a8141b3680203279a3ded42c731ff947bf
         type: git
-        url: 'git://github.com/drses/weak-map.git'
+        url: 'https://github.com/drses/weak-map/commit/2c87c5a8141b3680203279a3ded42c731ff947bf'
     licensed:
       declared: Apache-2.0
   1.0.5:
