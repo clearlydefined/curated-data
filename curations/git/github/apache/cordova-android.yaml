@@ -1,0 +1,10 @@
+coordinates:
+  name: cordova-android
+  namespace: apache
+  provider: github
+  type: git
+revisions:
+  f1f472297af7d3985a5769edd7272222bfd42416:
+    files:
+      - license: EPL-1.0
+        path: framework/.settings/org.eclipse.jdt.core.prefs
