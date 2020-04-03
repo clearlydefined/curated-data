@@ -1,0 +1,12 @@
+coordinates:
+  name: create-react-context
+  namespace: jamiebuilds
+  provider: github
+  type: git
+revisions:
+  81e8d508497e6fcbc97295bb7fdd04b41ca09883:
+    files:
+      - attributions:
+          - Copyright (c) 2015 Murphy Randle
+        license: MIT
+        path: flow-typed/npm/jest_v21.x.x.js
