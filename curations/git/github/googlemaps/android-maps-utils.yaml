@@ -1,0 +1,12 @@
+coordinates:
+  name: android-maps-utils
+  namespace: googlemaps
+  provider: github
+  type: git
+revisions:
+  80d9497ed10b9ec92e16376008b1727ff6695eea:
+    files:
+      - attributions:
+          - 'Copyright (c) 2017, Brandon Keepers'
+        license: ISC
+        path: .github/stale.yml
