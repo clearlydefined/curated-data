@@ -10,9 +10,7 @@ revisions:
         path: samples/highcharts/studies/appear/demo.js
       - license: CC-BY-SA-4.0
         path: samples/highcharts/studies/gpx-height-profile/demo.js
-      - attributions:
-          - Copyright 2009 The Closure Compiler
-        license: GPL-2.0-or-later OR MPL-1.1
+      - license: GPL-2.0-or-later OR MPL-1.1
         path: tools/google-closure-compiler/compiler.jar
       - attributions:
           - Copyright 2009 The Closure Compiler

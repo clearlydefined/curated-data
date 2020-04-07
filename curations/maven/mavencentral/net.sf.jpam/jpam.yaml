@@ -1,0 +1,9 @@
+coordinates:
+  name: jpam
+  namespace: net.sf.jpam
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: Apache-2.0
