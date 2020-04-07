@@ -43,7 +43,7 @@ revisions:
             Copyright (c) 2015-2018 yWorks GmbH, http://www.yworks.com 2015-2018 Lukas Hollander <lukas.hollaender@yworks.com> ,
             https://github.com/HackbrettXXX 2010-2016 James Hall <james@parall.ax> , https://github.com/MrRio/jsPDF 2010 Aaron Spike,
             https://github.com/acspike 2012 Willow Systems Corporation, willow-systems.com
-        license: CC-BY-SA-4.0
+        license: CC-BY-SA-4.0 AND GPL-2.0-only OR (MIT )
         path: vendor/jspdf.src.js
       - license: CC-BY-SA-4.0
         path: vendor/moment-2.18.1.js
