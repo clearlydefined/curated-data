@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.AnalysisServices.AdomdClient
+  provider: nuget
+  type: nuget
+revisions:
+  12.0.2000.8:
+    licensed:
+      declared: OTHER
