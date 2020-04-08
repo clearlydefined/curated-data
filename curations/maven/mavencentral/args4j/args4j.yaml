@@ -1,0 +1,9 @@
+coordinates:
+  name: args4j
+  namespace: args4j
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.12:
+    licensed:
+      declared: MIT
