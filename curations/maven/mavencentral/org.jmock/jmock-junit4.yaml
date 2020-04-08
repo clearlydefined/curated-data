@@ -1,0 +1,9 @@
+coordinates:
+  name: jmock-junit4
+  namespace: org.jmock
+  provider: mavencentral
+  type: maven
+revisions:
+  2.8.4:
+    licensed:
+      declared: BSD-3-Clause

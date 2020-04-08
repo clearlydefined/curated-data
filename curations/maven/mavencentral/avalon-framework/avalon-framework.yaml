@@ -1,0 +1,9 @@
+coordinates:
+  name: avalon-framework
+  namespace: avalon-framework
+  provider: mavencentral
+  type: maven
+revisions:
+  4.1.5:
+    licensed:
+      declared: Apache-1.1
