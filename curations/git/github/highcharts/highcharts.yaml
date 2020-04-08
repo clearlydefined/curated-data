@@ -15,10 +15,52 @@ revisions:
           - 'Copyright 2011, John Resig'
           - 'Copyright 2011, The Dojo Foundation'
         license: MIT OR GPL-2.0-only
-        path: vendor/jquery-1.6.4.js
+        path: vendor/jquery-1.6.4.js    
+      - attributions:
+          - 'Copyright 2011, John Resig'
+          - 'Copyright 2011, The Dojo Foundation'
+        license: MIT OR GPL-2.0-only
+        path: vendor/jquery-1.7.2.js
+      - license: CC-BY-SA-4.0
+        path: samples/highcharts/studies/appear/demo.js
+      - license: CC-BY-SA-4.0
+        path: samples/highcharts/studies/gpx-height-profile/demo.js
+      - license: GPL-2.0-or-later OR MPL-1.1
+        path: tools/google-closure-compiler/compiler.jar
       - attributions:
           - Copyright 2009 The Closure Compiler
-        license: Apache-2.0 AND CPL-1.0
+        license: GPL-2.0-or-later OR MPL-1.1
         path: tools/google-closure-compiler/README
+      - attributions:
+          - Copyright (c) 2012
+          - Copyright (c) 2017 Aras Abbasi
+          - Copyright (c) 2018 Aras Abbasi
+          - Copyright (c) 2011 Devon Govett
+          - Copyright (c) 2018 Erik Koopmans
+          - Copyright (c) 2014 Steven Spungin
+          - (c) Dean McNamee <dean@gmail.com>
+          - Copyright (c) 2013 Gildas Lormeau.
+          - Copyright (c) 2011 Mozilla Foundation
+          - 'Copyright (c) 2008, Adobe Systems Incorporated'
+          - 'Copyright (c) 2016 Jussi Utunen, u-jussi@suomi24.fi'
+          - 'Copyright (c) 2013 Youssef Beddad, youssef.beddad@gmail.com'
+          - 'Copyright (c) 2014 James Robb, https://github.com/jamesbrobb'
+          - 'Copyright (c) 2016 Alexander Weidt, https://github.com/BiggA94'
+          - 'Copyright (c) 2012 Willow Systems Corporation, willow-systems.com'
+          - 'Copyright (c) 2013 Eduardo Menezes de Morais, eduardo.morais@usp.br'
+          - 'Copyright (c) 1989, 1990, 1991, 1992, 1993, 1997 Adobe Systems Incorporated.'
+          - 'Copyright (c) 2012 Jason Siefken, https://github.com/siefkenj/ 2013 Chris Dowling'
+          - 'Copyright (c) 2012 Willow Systems Corporation, willow-systems.com 2014 Diego Casorran'
+          - >-
+            Copyright (c) 2013 Youssef Beddad, youssef.beddad@gmail.com 2013 Eduardo Menezes de Morais, eduardo.morais@usp.br 2013 Lee Driscoll,
+            https://github.com/lsdriscoll
+          - >-
+            Copyright (c) 2015-2018 yWorks GmbH, http://www.yworks.com 2015-2018 Lukas Hollander <lukas.hollaender@yworks.com> ,
+            https://github.com/HackbrettXXX 2010-2016 James Hall <james@parall.ax> , https://github.com/MrRio/jsPDF 2010 Aaron Spike,
+            https://github.com/acspike 2012 Willow Systems Corporation, willow-systems.com
+        license: CC-BY-SA-4.0 AND GPL-2.0-only OR (MIT )
+        path: vendor/jspdf.src.js
+      - license: CC-BY-SA-4.0
+        path: vendor/moment-2.18.1.js
     licensed:
       declared: CC-BY-NC-3.0 OR OTHER
