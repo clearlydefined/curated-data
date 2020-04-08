@@ -7,6 +7,9 @@ revisions:
   3.8.1:
     licensed:
       declared: CPL-1.0
+  3.8.2:
+    licensed:
+      declared: CPL-1.0
   '4.11':
     licensed:
       declared: CPL-1.0

@@ -1,0 +1,15 @@
+coordinates:
+  name: h2
+  namespace: com.h2database
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.193:
+    licensed:
+      declared: MPL-2.0 OR EPL-1.0
+  1.4.195:
+    licensed:
+      declared: MPL-2.0 OR EPL-1.0
+  1.4.197:
+    licensed:
+      declared: MPL-2.0 OR EPL-1.0
