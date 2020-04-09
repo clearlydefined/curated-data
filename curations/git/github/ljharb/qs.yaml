@@ -1,0 +1,12 @@
+coordinates:
+  name: qs
+  namespace: ljharb
+  provider: github
+  type: git
+revisions:
+  125e103b61f2bef245970f5a2a8dceffe5aab59a:
+    files:
+      - attributions:
+          - 'Copyright (c) Node.js contributors. All rights reserved. Copyright (c) Joyent, Inc. and other Node contributors.'
+        license: MIT
+        path: lib/utils.js
