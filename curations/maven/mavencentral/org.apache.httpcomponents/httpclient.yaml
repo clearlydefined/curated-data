@@ -7,3 +7,9 @@ revisions:
   4.3.3:
     licensed:
       declared: Apache-2.0
+  4.5.11:
+    files:
+      - attributions:
+          - Copyright 1999-2020 The Apache Software Foundation
+        license: ''
+        path: META-INF/NOTICE
