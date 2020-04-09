@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.TeamFoundation.DistributedTask.Common.Contracts
+  provider: nuget
+  type: nuget
+revisions:
+  16.153.0:
+    licensed:
+      declared: OTHER
