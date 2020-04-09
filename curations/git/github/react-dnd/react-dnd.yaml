@@ -1,0 +1,12 @@
+coordinates:
+  name: react-dnd
+  namespace: react-dnd
+  provider: github
+  type: git
+revisions:
+  5d16ab043eb83d49c5b6964ce276d0a6c15210d5:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation. All rights reserved.
+        license: Apache-2.0
+        path: packages/core/react-dnd/src/decorators/interfaces.ts
