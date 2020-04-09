@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.TeamFoundationServer.Client
+  provider: nuget
+  type: nuget
+revisions:
+  16.153.0:
+    licensed:
+      declared: OTHER
