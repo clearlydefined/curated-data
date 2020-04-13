@@ -10,3 +10,7 @@ revisions:
           - Copyright (c) .NET Foundation and Contributors  All rights reserved.
         license: MIT
         path: src/CoreCLREmbedding/coreclrembedding.cpp
+      - attributions:
+          - 'Copyright (c) 2013 Max Hauser '
+        license: MIT
+        path: src/double/Edge.js/dotnetcore/semversion.cs

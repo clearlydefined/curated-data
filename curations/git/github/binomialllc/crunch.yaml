@@ -1,0 +1,9 @@
+coordinates:
+  name: crunch
+  namespace: binomialllc
+  provider: github
+  type: git
+revisions:
+  44c8402e24441c7524ca364941fd224ab3b971e9:
+    licensed:
+      declared: OTHER
