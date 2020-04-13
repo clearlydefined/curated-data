@@ -10,3 +10,6 @@ revisions:
           - 'Copyright (c) Node.js contributors. All rights reserved. Copyright (c) Joyent, Inc. and other Node contributors.'
         license: MIT
         path: lib/utils.js
+      - license: MIT
+        path: dist/qs.js
+        
