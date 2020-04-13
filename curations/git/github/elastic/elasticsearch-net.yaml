@@ -6,5 +6,9 @@ coordinates:
 revisions:
   f550f736fb721e697b398fcd1dbda68796425650:
     files:
+      - attributions:
+          - Copyright (c) 2010 Mauricio Scheffer
+        license: Apache-2.0
+        path: src/Nest/QueryDsl/Geo/GeoLocation.cs
       - license: CC-BY-SA-4.0
         path: src/Tests/Tests.Reproduce/JsonNetSerializerConverters.cs
