@@ -1,0 +1,9 @@
+coordinates:
+  name: libc
+  namespace: rust-lang
+  provider: github
+  type: git
+revisions:
+  4f11029a68040c90acf771976b019c1ef273a8cd:
+    licensed:
+      declared: Apache-2.0 OR MIT
