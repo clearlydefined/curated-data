@@ -1,0 +1,14 @@
+coordinates:
+  name: fmt
+  namespace: fmtlib
+  provider: github
+  type: git
+revisions:
+  9bdd1596cef1b57b9556f8bef32dc4a32322ef3e:
+    files:
+      - attributions:
+          - 'Copyright (c) 2012 - present, Victor Zverovich'
+        license: MIT OR OTHER
+        path: LICENSE.rst
+    licensed:
+      declared: MIT OR OTHER
