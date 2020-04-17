@@ -1,0 +1,9 @@
+coordinates:
+  name: rustc-demangle
+  namespace: alexcrichton
+  provider: github
+  type: git
+revisions:
+  23f19337afbadec16b80d616551ada5ee02f73f0:
+    licensed:
+      declared: Apache-2.0 OR MIT
