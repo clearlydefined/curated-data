@@ -1,0 +1,9 @@
+coordinates:
+  name: winapi-rs
+  namespace: retep998
+  provider: github
+  type: git
+revisions:
+  05afe1294f559fb20073d38ae91eda89a8ca8662:
+    licensed:
+      declared: Apache-2.0 OR MIT
