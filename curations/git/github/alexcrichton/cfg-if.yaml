@@ -1,0 +1,9 @@
+coordinates:
+  name: cfg-if
+  namespace: alexcrichton
+  provider: github
+  type: git
+revisions:
+  4484a6faf816ff8058088ad857b0c6bb2f4b02b2:
+    licensed:
+      declared: Apache-2.0 OR MIT
