@@ -1,0 +1,9 @@
+coordinates:
+  name: stdarch
+  namespace: rust-lang
+  provider: github
+  type: git
+revisions:
+  e0ab2c165ace03a61139b61f1d9b86b07028850f:
+    licensed:
+      declared: Apache-2.0 OR MIT
