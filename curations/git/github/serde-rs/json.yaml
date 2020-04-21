@@ -1,0 +1,9 @@
+coordinates:
+  name: json
+  namespace: serde-rs
+  provider: github
+  type: git
+revisions:
+  ed479b4656be48760f3d3373d0fe476541e94e0e:
+    licensed:
+      declared: Apache-2.0 OR MIT
