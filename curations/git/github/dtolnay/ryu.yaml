@@ -1,0 +1,9 @@
+coordinates:
+  name: ryu
+  namespace: dtolnay
+  provider: github
+  type: git
+revisions:
+  c72bd767fc86c07ee07e9db951c01bb7cd583ce8:
+    licensed:
+      declared: Apache-2.0 OR BSL-1.0
