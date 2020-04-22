@@ -1,0 +1,9 @@
+coordinates:
+  name: book
+  namespace: rust-lang
+  provider: github
+  type: git
+revisions:
+  87dd6843678575f8dda962f239d14ef4be14b352:
+    licensed:
+      declared: Apache-2.0 OR MIT
