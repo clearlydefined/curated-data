@@ -7,3 +7,6 @@ revisions:
   2.0.12:
     licensed:
       declared: MIT
+  2.0.16:
+    licensed:
+      declared: BSD-2-Clause
