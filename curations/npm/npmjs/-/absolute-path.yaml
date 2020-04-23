@@ -1,0 +1,15 @@
+coordinates:
+  name: absolute-path
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.0:
+    files:
+      - attributions:
+          - Copyright (c) 2014 filearts
+        license: MIT
+        path: package/LICENSE
+      - attributions:
+          - Copyright (c) 2014 Geoff Goodman
+        license: MIT
+        path: package/package.json
