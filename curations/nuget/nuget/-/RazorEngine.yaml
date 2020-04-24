@@ -3,12 +3,15 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
-  3.7.2:
-    licensed:
-      declared: Apache-2.0
   3.10.0:
     files:
       - license: Apache-2.0
         path: LICENSE.md
+    licensed:
+      declared: Apache-2.0
+  3.7.2:
+    licensed:
+      declared: Apache-2.0
+  3.9.0:
     licensed:
       declared: Apache-2.0
