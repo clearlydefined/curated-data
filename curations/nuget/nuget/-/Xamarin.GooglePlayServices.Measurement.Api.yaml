@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.GooglePlayServices.Measurement.Api
+  provider: nuget
+  type: nuget
+revisions:
+  71.1630.0:
+    licensed:
+      declared: MIT
