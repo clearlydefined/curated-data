@@ -1,0 +1,9 @@
+coordinates:
+  name: dns
+  namespace: miekg
+  provider: github
+  type: git
+revisions:
+  388f6eea2949b6d9071d25f08cf5b6686da15265:
+    licensed:
+      declared: BSD-3-Clause
