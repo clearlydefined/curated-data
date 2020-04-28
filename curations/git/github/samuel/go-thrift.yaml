@@ -1,0 +1,9 @@
+coordinates:
+  name: go-thrift
+  namespace: samuel
+  provider: github
+  type: git
+revisions:
+  e9042807f4f5bf47563df6992d3ea0857313e2be:
+    licensed:
+      declared: BSD-3-Clause
