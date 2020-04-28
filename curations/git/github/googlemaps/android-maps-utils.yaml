@@ -6,6 +6,8 @@ coordinates:
 revisions:
   80d9497ed10b9ec92e16376008b1727ff6695eea:
     files:
+      - license: CC-BY-2.5
+        path: build.gradle
       - attributions:
           - 'Copyright (c) 2017, Brandon Keepers'
         license: ISC
