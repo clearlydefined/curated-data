@@ -1,0 +1,9 @@
+coordinates:
+  name: protobuf
+  namespace: gogo
+  provider: github
+  type: git
+revisions:
+  636bf0302bc95575d69441b25a2603156ffdddf1:
+    licensed:
+      declared: BSD-3-Clause
