@@ -1,0 +1,9 @@
+coordinates:
+  name: squirrel
+  namespace: masterminds
+  provider: github
+  type: git
+revisions:
+  a6b93000bd219143c56c16e6cb1c4b91da3f224b:
+    licensed:
+      declared: MIT
