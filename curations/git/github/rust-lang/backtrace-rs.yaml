@@ -1,0 +1,9 @@
+coordinates:
+  name: backtrace-rs
+  namespace: rust-lang
+  provider: github
+  type: git
+revisions:
+  b5cc5b12fa4fd03cb83546a7c62b9fff40086b63:
+    licensed:
+      declared: Apache-2.0 OR MIT

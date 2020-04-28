@@ -1,0 +1,9 @@
+coordinates:
+  name: rust-clippy
+  namespace: rust-lang
+  provider: github
+  type: git
+revisions:
+  4ee120633c84f01da12302c9541e62a2b0b9a90b:
+    licensed:
+      declared: Apache-2.0 OR MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: rust-installer
+  namespace: rust-lang
+  provider: github
+  type: git
+revisions:
+  9f66c14c3f91a48a118c7817f434167b311c3515:
+    licensed:
+      declared: Apache-2.0 OR MIT

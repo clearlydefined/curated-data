@@ -1,0 +1,10 @@
+coordinates:
+  name: signalr
+  namespace: signalr
+  provider: github
+  type: git
+revisions:
+  61c1a688f6a4e714e43c5b82b10f6d8b7c612dd6:
+    files:
+      - license: CC-BY-SA-4.0
+        path: samples/Microsoft.AspNet.SignalR.Samples/Hubs/DrawingPad/drawingpad.js

@@ -8,3 +8,7 @@ revisions:
     files:
       - license: CC-BY-2.5
         path: build.gradle
+      - attributions:
+          - 'Copyright (c) 2017, Brandon Keepers'
+        license: ISC
+        path: .github/stale.yml

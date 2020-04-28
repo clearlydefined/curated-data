@@ -1,0 +1,24 @@
+coordinates:
+  name: webviewhook
+  namespace: willnode
+  provider: github
+  type: git
+revisions:
+  6603cc1d329b21f49edfc549317718b19befb437:
+    files:
+      - attributions:
+          - Copyright (c) 2010-2020 sta.blockhead
+        license: MIT
+        path: Assets/Editor/Plugins/websocket-sharp.dll
+      - attributions:
+          - Copyright (c) 2010-2020 sta.blockhead
+        license: MIT
+        path: Assets/Editor/Plugins/websocket-sharp.dll.meta
+      - attributions:
+          - Copyright (c) 2010-2020 sta.blockhead
+        license: MIT
+        path: Assets/Editor/Plugins/websocket-sharp.xml
+      - attributions:
+          - Copyright (c) 2010-2020 sta.blockhead
+        license: MIT
+        path: Assets/Editor/Plugins/websocket-sharp.xml.meta

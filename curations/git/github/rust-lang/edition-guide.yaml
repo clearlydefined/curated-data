@@ -1,0 +1,9 @@
+coordinates:
+  name: edition-guide
+  namespace: rust-lang
+  provider: github
+  type: git
+revisions:
+  1a2390247ad6d08160e0dd74f40a01a9578659c2:
+    licensed:
+      declared: Apache-2.0 OR MIT

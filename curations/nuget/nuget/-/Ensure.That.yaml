@@ -1,0 +1,8 @@
+coordinates:
+  name: Ensure.That
+  provider: nuget
+  type: nuget
+revisions:
+  8.1.1:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: compiler-builtins
+  namespace: rust-lang
+  provider: github
+  type: git
+revisions:
+  3e6327aa59214133fa74b3c51743b5ebde39526f:
+    licensed:
+      declared: NCSA OR MIT
