@@ -1,0 +1,8 @@
+coordinates:
+  name: portfinder
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.0:
+    licensed:
+      declared: MIT
