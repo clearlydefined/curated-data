@@ -1,0 +1,8 @@
+coordinates:
+  name: OPCFoundation.NetStandard.Opc.Ua.Symbols
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.359.31:
+    licensed:
+      declared: OTHER
