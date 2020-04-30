@@ -1,0 +1,8 @@
+coordinates:
+  name: sauce-connect-launcher
+  provider: npmjs
+  type: npm
+revisions:
+  0.13.0:
+    licensed:
+      declared: MIT
