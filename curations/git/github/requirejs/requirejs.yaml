@@ -7,3 +7,11 @@ revisions:
   4316f8f19f981c726eb32b5335c36237e0125948:
     licensed:
       declared: MIT
+  5e5c633e32903841fc0270acd493eb1f994fa7d4:
+    files:
+      - attributions:
+          - 'Copyright (c) 2010-2015, The Dojo Foundation'
+        license: BSD-3-Clause OR MIT
+        path: LICENSE
+    licensed:
+      declared: BSD-3-Clause OR MIT
