@@ -1,0 +1,8 @@
+coordinates:
+  name: EntityFramework.BulkInsert-ef6
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.2.8:
+    licensed:
+      declared: OTHER
