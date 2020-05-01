@@ -1,0 +1,9 @@
+coordinates:
+  name: dom4j
+  namespace: dom4j
+  provider: mavencentral
+  type: maven
+revisions:
+  1.6.1:
+    licensed:
+      declared: Plexus
