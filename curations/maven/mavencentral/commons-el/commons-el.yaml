@@ -1,0 +1,9 @@
+coordinates:
+  name: commons-el
+  namespace: commons-el
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: Apache-1.1
