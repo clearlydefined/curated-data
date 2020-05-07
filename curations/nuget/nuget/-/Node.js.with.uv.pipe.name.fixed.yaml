@@ -1,0 +1,8 @@
+coordinates:
+  name: Node.js.with.uv.pipe.name.fixed
+  provider: nuget
+  type: nuget
+revisions:
+  8.9.4:
+    licensed:
+      declared: MIT
