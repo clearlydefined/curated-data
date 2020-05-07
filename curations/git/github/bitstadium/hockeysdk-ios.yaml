@@ -1,0 +1,9 @@
+coordinates:
+  name: hockeysdk-ios
+  namespace: bitstadium
+  provider: github
+  type: git
+revisions:
+  dabf7f9f66b27a4dca089ad6dbbece04bae7d7dd:
+    licensed:
+      declared: MIT
