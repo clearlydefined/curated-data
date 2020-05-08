@@ -12,6 +12,12 @@ revisions:
   2.1.0:
     licensed:
       declared: MIT
+  2.1.16:
+    files:
+      - license: MIT
+        path: LICENSE.TXT
+    licensed:
+      declared: MIT
   2.1.2:
     licensed:
       declared: MIT
