@@ -1,0 +1,15 @@
+coordinates:
+  name: redux-create-store
+  namespace: '@phated'
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.0:
+    described:
+      sourceLocation:
+        name: redux-create-store
+        namespace: phated
+        provider: github
+        revision: 1b21a76f3d96732fb48347f776a947db2ecc597e
+        type: git
+        url: 'https://github.com/phated/redux-create-store/commit/1b21a76f3d96732fb48347f776a947db2ecc597e'
