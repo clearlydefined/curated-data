@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.NETCore.App.Ref
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0:
+    licensed:
+      declared: MIT
