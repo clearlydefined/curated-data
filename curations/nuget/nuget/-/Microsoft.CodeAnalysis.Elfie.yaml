@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.CodeAnalysis.Elfie
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.6:
+    licensed:
+      declared: MIT
