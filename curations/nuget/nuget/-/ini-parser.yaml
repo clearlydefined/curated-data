@@ -1,9 +1,11 @@
 coordinates:
   name: ini-parser
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
   2.4.0:
+    licensed:
+      declared: MIT
+  2.5.2:
     licensed:
       declared: MIT
