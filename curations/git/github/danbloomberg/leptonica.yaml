@@ -1,0 +1,9 @@
+coordinates:
+  name: leptonica
+  namespace: danbloomberg
+  provider: github
+  type: git
+revisions:
+  87b8219360bca3c9929a5705c3d9c50c42c34bca:
+    licensed:
+      declared: BSD-2-Clause
