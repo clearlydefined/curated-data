@@ -51,6 +51,9 @@ revisions:
   0.25.4:
     licensed:
       declared: MIT
+  0.26.0:
+    licensed:
+      declared: MIT
   0.26.0-preview-0027:
     licensed:
       declared: MIT
