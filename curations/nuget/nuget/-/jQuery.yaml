@@ -86,6 +86,9 @@ revisions:
   2.1.4:
     licensed:
       declared: MIT
+  2.2.0:
+    licensed:
+      declared: MIT
   2.2.3:
     files:
       - license: BSD-3-Clause
