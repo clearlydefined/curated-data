@@ -9,6 +9,9 @@ revisions:
         path: LICENSE.TXT
     licensed:
       declared: MIT
+  4.4.1:
+    licensed:
+      declared: MIT
   4.5.0:
     licensed:
       declared: MIT
