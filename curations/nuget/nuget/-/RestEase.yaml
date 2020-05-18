@@ -1,0 +1,8 @@
+coordinates:
+  name: RestEase
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.9:
+    licensed:
+      declared: MIT
