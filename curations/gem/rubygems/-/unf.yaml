@@ -1,0 +1,8 @@
+coordinates:
+  name: unf
+  provider: rubygems
+  type: gem
+revisions:
+  0.1.4:
+    licensed:
+      declared: BSD-2-Clause
