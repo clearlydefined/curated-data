@@ -1,0 +1,9 @@
+coordinates:
+  name: test-interface
+  namespace: org.scala-sbt
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: BSD-3-Clause
