@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Bot.Streaming
+  provider: nuget
+  type: nuget
+revisions:
+  4.7.0:
+    licensed:
+      declared: NOASSERTION
