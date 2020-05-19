@@ -24,6 +24,9 @@ revisions:
   1.11.3:
     licensed:
       declared: MIT
+  1.11.7:
+    licensed:
+      declared: MIT
   1.4.6:
     licensed:
       declared: MS-PL
