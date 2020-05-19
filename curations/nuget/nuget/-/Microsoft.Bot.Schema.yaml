@@ -9,9 +9,12 @@ revisions:
   4.5.3:
     licensed:
       declared: MIT
+  4.6.3:
+    licensed:
+      declared: MIT      
   4.7.0:
     licensed:
-      declared: NOASSERTION
+      declared: MIT
   4.7.2:
     licensed:
       declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: Visual-StyleCop.MSBuild
+  provider: nuget
+  type: nuget
+revisions:
+  4.7.59:
+    licensed:
+      declared: MS-PL

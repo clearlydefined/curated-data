@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Bot.Builder
+  name: MediatR.Extensions.Microsoft.DependencyInjection
   provider: nuget
   type: nuget
 revisions:
-  4.5.3:
-    licensed:
-      declared: MIT
-  4.6.3:
+  7.0.0:
     licensed:
       declared: MIT
