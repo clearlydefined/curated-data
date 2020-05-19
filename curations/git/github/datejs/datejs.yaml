@@ -1,0 +1,9 @@
+coordinates:
+  name: datejs
+  namespace: datejs
+  provider: github
+  type: git
+revisions:
+  77b907f9d21b944dc5ce0ddd20934d8c3af68610:
+    licensed:
+      declared: Apache-2.0
