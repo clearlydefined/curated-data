@@ -11,6 +11,9 @@ revisions:
         path: StackExchange.Redis.StrongName.nuspec
     licensed:
       declared: MIT
+  1.0.481:
+    licensed:
+      declared: MIT
   1.0.488:
     licensed:
       declared: MIT
