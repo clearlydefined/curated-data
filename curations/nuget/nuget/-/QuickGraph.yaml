@@ -1,0 +1,8 @@
+coordinates:
+  name: QuickGraph
+  provider: nuget
+  type: nuget
+revisions:
+  3.6.61119.7:
+    licensed:
+      declared: MS-PL
