@@ -1,0 +1,8 @@
+coordinates:
+  name: Selenium.WebDriver.MicrosoftWebDriver
+  provider: nuget
+  type: nuget
+revisions:
+  10.0.16299:
+    licensed:
+      declared: Unlicense
