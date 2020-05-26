@@ -42,6 +42,9 @@ revisions:
         url: 'https://github.com/microsoft/perfview/commit/6ccbcb4c3d762a03facee49afd04087fc080ceed'
     licensed:
       declared: MIT
+  2.0.45:
+    licensed:
+      declared: MIT
   2.0.49:
     licensed:
       declared: MIT
