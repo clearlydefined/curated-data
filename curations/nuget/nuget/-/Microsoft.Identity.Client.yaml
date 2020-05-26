@@ -12,6 +12,9 @@ revisions:
   1.1.4-preview0002:
     licensed:
       declared: MIT
+  2.7.0:
+    licensed:
+      declared: MIT
   2.7.1:
     licensed:
       declared: MIT
