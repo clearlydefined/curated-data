@@ -6,3 +6,6 @@ revisions:
   2019.11.1:
     licensed:
       declared: Python-2.0
+  2020.1.8:
+    licensed:
+      declared: Python-2.0
