@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualBasic
+  provider: nuget
+  type: nuget
+revisions:
+  10.3.0:
+    licensed:
+      declared: MIT
