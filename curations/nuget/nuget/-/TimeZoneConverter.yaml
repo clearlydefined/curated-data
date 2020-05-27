@@ -1,0 +1,8 @@
+coordinates:
+  name: TimeZoneConverter
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.1:
+    licensed:
+      declared: MIT
