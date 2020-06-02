@@ -1,0 +1,9 @@
+coordinates:
+  name: genfun
+  provider: npmjs
+  type: npm
+revisions:
+  5.0.0:
+    files:
+      - license: MIT
+        path: package/CHANGELOG.md
