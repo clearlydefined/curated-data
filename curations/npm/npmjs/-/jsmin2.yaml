@@ -1,0 +1,8 @@
+coordinates:
+  name: jsmin2
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.1:
+    licensed:
+      declared: JSON

@@ -1,11 +1,8 @@
 coordinates:
-  name: RestEase
+  name: SmartFormat.NET
   provider: nuget
   type: nuget
 revisions:
-  1.4.7:
-    licensed:
-      declared: MIT
-  1.4.9:
+  2.3.0:
     licensed:
       declared: MIT

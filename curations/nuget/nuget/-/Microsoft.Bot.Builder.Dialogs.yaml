@@ -1,11 +1,8 @@
 coordinates:
-  name: RestEase
+  name: Microsoft.Bot.Builder.Dialogs
   provider: nuget
   type: nuget
 revisions:
-  1.4.7:
-    licensed:
-      declared: MIT
-  1.4.9:
+  4.7.0:
     licensed:
       declared: MIT
