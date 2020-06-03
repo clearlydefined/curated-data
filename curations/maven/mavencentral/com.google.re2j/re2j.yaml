@@ -1,0 +1,9 @@
+coordinates:
+  name: re2j
+  namespace: com.google.re2j
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: BSD-3-Clause
