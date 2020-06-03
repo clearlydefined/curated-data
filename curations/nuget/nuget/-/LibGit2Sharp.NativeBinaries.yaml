@@ -11,4 +11,4 @@ revisions:
       declared: GPL-2.0-only
   2.0.267:
     licensed:
-      declared: MIT AND LGPL-2.0-only AND Zlib AND OTHER
+      declared: GPL-2.0-only WITH OTHER
