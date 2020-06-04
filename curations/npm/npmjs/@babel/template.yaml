@@ -1,0 +1,9 @@
+coordinates:
+  name: template
+  namespace: '@babel'
+  provider: npmjs
+  type: npm
+revisions:
+  7.10.0:
+    licensed:
+      declared: MIT
