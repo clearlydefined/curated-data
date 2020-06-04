@@ -1,0 +1,8 @@
+coordinates:
+  name: caniuse-lite
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.30001066:
+    licensed:
+      declared: CC-BY-4.0
