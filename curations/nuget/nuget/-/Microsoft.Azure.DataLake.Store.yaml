@@ -12,6 +12,9 @@ revisions:
   1.1.13:
     licensed:
       declared: MIT
+  1.1.14:
+    licensed:
+      declared: MIT
   1.1.15:
     licensed:
       declared: MIT
