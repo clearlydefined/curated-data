@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.TestApi
+  provider: nuget
+  type: nuget
+revisions:
+  0.6.0:
+    licensed:
+      declared: MS-PL
