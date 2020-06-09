@@ -1,0 +1,8 @@
+coordinates:
+  name: Unofficial.Microsoft.WindowsAzure.Diagnostics
+  provider: nuget
+  type: nuget
+revisions:
+  2.9.0:
+    licensed:
+      declared: NONE
