@@ -1,0 +1,8 @@
+coordinates:
+  name: debugpy
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.0b7:
+    licensed:
+      declared: MIT
