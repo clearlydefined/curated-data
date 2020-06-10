@@ -1,0 +1,8 @@
+coordinates:
+  name: JetBrains.ReSharper.CommandLineTools
+  provider: nuget
+  type: nuget
+revisions:
+  2020.1.1:
+    licensed:
+      declared: OTHER
