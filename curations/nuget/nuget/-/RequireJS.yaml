@@ -8,4 +8,4 @@ revisions:
       declared: BSD-3-Clause OR MIT
   2.1.18:
     licensed:
-      declared: BSD-3-Clause and MIT
+      declared: BSD-3-Clause OR MIT
