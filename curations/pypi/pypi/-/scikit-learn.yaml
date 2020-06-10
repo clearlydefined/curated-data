@@ -1,0 +1,8 @@
+coordinates:
+  name: scikit-learn
+  provider: pypi
+  type: pypi
+revisions:
+  0.22.2:
+    licensed:
+      declared: BSD-3-Clause
