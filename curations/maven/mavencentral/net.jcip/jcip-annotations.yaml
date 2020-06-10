@@ -1,0 +1,9 @@
+coordinates:
+  name: jcip-annotations
+  namespace: net.jcip
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: NONE
