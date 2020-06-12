@@ -4,6 +4,14 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  1.5.0:
+    files:
+      - attributions:
+          - Copyright (c) 2018 Telerik EAD.
+        license: OTHER
+        path: package/LICENSE.md
+    licensed:
+      declared: OTHER
   1.5.2:
     licensed:
       declared: OTHER
