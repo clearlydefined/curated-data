@@ -1,0 +1,9 @@
+coordinates:
+  name: luffa
+  provider: rubygems
+  type: gem
+revisions:
+  2.0.0:
+    files:
+      - license: EPL-1.0
+        path: README.md
