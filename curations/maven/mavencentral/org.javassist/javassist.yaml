@@ -6,4 +6,4 @@ coordinates:
 revisions:
   3.27.0-GA:
     licensed:
-      declared: LGPL 2.1 or later or MPL 1.1 or Apache 2.0
+      declared: MPL-1.1 OR LGPL-2.1-or-later OR Apache-2.0
