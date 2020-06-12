@@ -1,0 +1,11 @@
+coordinates:
+  name: calabash-cucumber
+  provider: rubygems
+  type: gem
+revisions:
+  0.21.4:
+    files:
+      - attributions:
+          - Copyright (c) Karl Krukow.
+        license: EPL-1.0
+        path: LICENSE
