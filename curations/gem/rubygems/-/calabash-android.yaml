@@ -1,0 +1,11 @@
+coordinates:
+  name: calabash-android
+  provider: rubygems
+  type: gem
+revisions:
+  0.9.2:
+    files:
+      - attributions:
+          - Copyright (c) LessPainful.
+        license: EPL-1.0
+        path: LICENSE
