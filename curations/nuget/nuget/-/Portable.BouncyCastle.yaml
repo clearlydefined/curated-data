@@ -23,3 +23,14 @@ revisions:
         url: 'https://github.com/novotnyllc/bc-csharp/commit/ba47c16e72bf21dd7a223220a5bd38a05034add9'
     licensed:
       declared: MIT
+  1.8.6.7:
+    described:
+      sourceLocation:
+        name: bc-csharp
+        namespace: bcgit
+        provider: github
+        revision: 2f8db0669637e2217fd749ed987377f6ae71e192
+        type: git
+        url: 'https://github.com/bcgit/bc-csharp/commit/2f8db0669637e2217fd749ed987377f6ae71e192'
+    licensed:
+      declared: MIT
