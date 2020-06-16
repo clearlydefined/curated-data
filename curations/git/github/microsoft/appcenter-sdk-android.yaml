@@ -1,0 +1,9 @@
+coordinates:
+  name: appcenter-sdk-android
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  bc91ca8224dab0a7d2e9e8391e0d2a02da9a5706:
+    licensed:
+      declared: MIT
