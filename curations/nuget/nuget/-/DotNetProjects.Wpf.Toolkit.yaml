@@ -9,6 +9,6 @@ revisions:
         name: wpftoolkit
         namespace: dotnetprojects
         provider: github
-        revision: 919d5d9e44026853e34f1ac95d8f868dd9609dd0
+        revision: 98410b9ba3b80913d2d070ef7e2a09d0097ce9b2
         type: git
-        url: 'https://github.com/dotnetprojects/wpftoolkit/commit/919d5d9e44026853e34f1ac95d8f868dd9609dd0'
+        url: 'https://github.com/dotnetprojects/WpfToolkit/commit/98410b9ba3b80913d2d070ef7e2a09d0097ce9b2'
