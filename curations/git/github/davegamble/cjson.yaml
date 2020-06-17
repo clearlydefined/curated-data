@@ -1,0 +1,9 @@
+coordinates:
+  name: cjson
+  namespace: davegamble
+  provider: github
+  type: git
+revisions:
+  7db005e0281b140a13c93c9aeda4f1ee1bd8e740:
+    licensed:
+      declared: MIT

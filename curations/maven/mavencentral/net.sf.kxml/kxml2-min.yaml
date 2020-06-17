@@ -1,0 +1,9 @@
+coordinates:
+  name: kxml2-min
+  namespace: net.sf.kxml
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.0:
+    licensed:
+      declared: MIT AND OTHER
