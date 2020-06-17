@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Services.Release.Client
+  provider: nuget
+  type: nuget
+revisions:
+  16.155.0-preview:
+    licensed:
+      declared: OTHER
