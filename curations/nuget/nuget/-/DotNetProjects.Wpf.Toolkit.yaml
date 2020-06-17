@@ -1,0 +1,14 @@
+coordinates:
+  name: DotNetProjects.Wpf.Toolkit
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.43:
+    described:
+      sourceLocation:
+        name: wpftoolkit
+        namespace: dotnetprojects
+        provider: github
+        revision: 98410b9ba3b80913d2d070ef7e2a09d0097ce9b2
+        type: git
+        url: 'https://github.com/dotnetprojects/WpfToolkit/commit/98410b9ba3b80913d2d070ef7e2a09d0097ce9b2'
