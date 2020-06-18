@@ -1,0 +1,9 @@
+coordinates:
+  name: cocoalumberjack
+  namespace: cocoalumberjack
+  provider: github
+  type: git
+revisions:
+  9ed7b2551a3c64b0ddb7c181f5c31332364dd3b4:
+    licensed:
+      declared: BSD-3-Clause
