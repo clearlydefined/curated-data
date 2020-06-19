@@ -1,0 +1,12 @@
+coordinates:
+  name: regenerator
+  namespace: facebook
+  provider: github
+  type: git
+revisions:
+  4889b5c0a0281adfbf20d70311d5f4e4f398c566:
+    files:
+      - attributions:
+          - 'Copyright (c) 2014-present, Facebook, Inc.'
+        license: MIT
+        path: LICENSE
