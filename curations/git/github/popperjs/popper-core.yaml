@@ -1,0 +1,10 @@
+coordinates:
+  name: popper-core
+  namespace: popperjs
+  provider: github
+  type: git
+revisions:
+  5b740298263c83a578780371a034c3db8ba86f12:
+    files:
+      - license: CC-BY-SA-3.0
+        path: src/utils/orderModifiers.js
