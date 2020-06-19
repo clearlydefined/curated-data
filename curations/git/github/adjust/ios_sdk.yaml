@@ -1,0 +1,9 @@
+coordinates:
+  name: ios_sdk
+  namespace: adjust
+  provider: github
+  type: git
+revisions:
+  d746f7189ca767323d53f34a64a51ddecd7a84ab:
+    licensed:
+      declared: MIT
