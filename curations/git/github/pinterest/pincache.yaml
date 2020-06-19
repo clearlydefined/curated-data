@@ -1,0 +1,9 @@
+coordinates:
+  name: pincache
+  namespace: pinterest
+  provider: github
+  type: git
+revisions:
+  569df9390a730bf48c0ed589c10cd8de0255e87a:
+    licensed:
+      declared: Apache-2.0
