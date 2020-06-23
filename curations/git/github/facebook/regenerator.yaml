@@ -10,3 +10,7 @@ revisions:
           - ' * Copyright (c) 2014 Brian Donovan'
         license: Apache-2.0
         path: lib/util.js
+      - attributions:        
+          - 'Copyright (c) 2014-present, Facebook, Inc.'
+        license: MIT
+        path: LICENSE

@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Bot.Builder.Dialogs
+  name: Swashbuckle.AspNetCore.Newtonsoft
   provider: nuget
   type: nuget
 revisions:
-  4.7.0:
-    licensed:
-      declared: MIT
-  4.8.0:
+  5.4.1:
     licensed:
       declared: MIT

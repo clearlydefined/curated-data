@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Bot.Builder.Dialogs
+  name: Xamarin.Android.Support.CursorAdapter
   provider: nuget
   type: nuget
 revisions:
-  4.7.0:
-    licensed:
-      declared: MIT
-  4.8.0:
+  28.0.0.3:
     licensed:
       declared: MIT
