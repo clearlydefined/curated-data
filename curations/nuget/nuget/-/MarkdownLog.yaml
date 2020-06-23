@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Bot.Builder.Dialogs
+  name: MarkdownLog
   provider: nuget
   type: nuget
 revisions:
-  4.7.0:
-    licensed:
-      declared: MIT
-  4.8.0:
+  0.9.64:
     licensed:
       declared: MIT

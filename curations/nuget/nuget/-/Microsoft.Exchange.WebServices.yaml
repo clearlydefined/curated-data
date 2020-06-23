@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Bot.Builder.Dialogs
+  name: Microsoft.Exchange.WebServices
   provider: nuget
   type: nuget
 revisions:
-  4.7.0:
-    licensed:
-      declared: MIT
-  4.8.0:
+  2.2.0:
     licensed:
       declared: MIT
