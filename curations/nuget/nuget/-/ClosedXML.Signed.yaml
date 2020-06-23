@@ -1,11 +1,8 @@
 coordinates:
-  name: CommandLineArgumentsParser
+  name: ClosedXML.Signed
   provider: nuget
   type: nuget
 revisions:
-  3.0.13:
-    licensed:
-      declared: MIT
-  3.0.20:
+  0.94.2:
     licensed:
       declared: MIT

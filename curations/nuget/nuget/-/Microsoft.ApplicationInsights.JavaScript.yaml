@@ -12,3 +12,6 @@ revisions:
   0.22.9-build00167:
     licensed:
       declared: MIT
+  1.0.0-build00159:
+    licensed:
+      declared: MIT

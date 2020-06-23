@@ -1,11 +1,8 @@
 coordinates:
-  name: CommandLineArgumentsParser
+  name: SendGrid.CSharp.HTTP.Client
   provider: nuget
   type: nuget
 revisions:
-  3.0.13:
-    licensed:
-      declared: MIT
-  3.0.20:
+  3.0.0:
     licensed:
       declared: MIT
