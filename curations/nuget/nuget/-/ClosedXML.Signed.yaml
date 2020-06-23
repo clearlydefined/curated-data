@@ -1,0 +1,8 @@
+coordinates:
+  name: ClosedXML.Signed
+  provider: nuget
+  type: nuget
+revisions:
+  0.94.2:
+    licensed:
+      declared: MIT
