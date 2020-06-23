@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.DocumentDB
+  provider: nuget
+  type: nuget
+revisions:
+  2.11.0:
+    licensed:
+      declared: MIT
