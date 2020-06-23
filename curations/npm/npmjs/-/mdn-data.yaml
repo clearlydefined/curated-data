@@ -1,0 +1,8 @@
+coordinates:
+  name: mdn-data
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.4:
+    licensed:
+      declared: MPL-2.0-no-copyleft-exception
