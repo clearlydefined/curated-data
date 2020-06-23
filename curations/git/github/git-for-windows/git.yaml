@@ -9,3 +9,6 @@ revisions:
       releaseDate: '2019-02-26'
     licensed:
       declared: GPL-2.0-or-later
+  907ab1011dce9112700498e034b974ba60f8b407:
+    licensed:
+      declared: GPL-2.0-only
