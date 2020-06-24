@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.RemoteRendering.Cpp
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.32:
+    licensed:
+      declared: OTHER
