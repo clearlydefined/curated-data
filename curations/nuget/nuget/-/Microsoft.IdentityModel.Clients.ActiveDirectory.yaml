@@ -9,6 +9,9 @@ revisions:
   2.16.204221202:
     licensed:
       declared: MIT
+  2.18.206251556:
+    licensed:
+      declared: Apache-2.0
   2.19.208020213:
     licensed:
       declared: MIT
