@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Storage.CPP.v140
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.0:
+    licensed:
+      declared: OTHER
