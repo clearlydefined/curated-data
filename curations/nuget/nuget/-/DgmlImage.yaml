@@ -1,11 +1,8 @@
 coordinates:
-  name: CommandLineArgumentsParser
+  name: DgmlImage
   provider: nuget
   type: nuget
 revisions:
-  3.0.13:
-    licensed:
-      declared: MIT
-  3.0.20:
+  1.0.0.1:
     licensed:
       declared: MIT

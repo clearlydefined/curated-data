@@ -1,11 +1,8 @@
 coordinates:
-  name: CommandLineArgumentsParser
+  name: System.Resources.Extensions
   provider: nuget
   type: nuget
 revisions:
-  3.0.13:
-    licensed:
-      declared: MIT
-  3.0.20:
+  4.6.0:
     licensed:
       declared: MIT

@@ -15,3 +15,6 @@ revisions:
   '227':
     licensed:
       declared: Python-2.0
+  '228':
+    licensed:
+      declared: Python-2.0
