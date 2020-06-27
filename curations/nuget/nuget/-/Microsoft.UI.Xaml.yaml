@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.UI.Xaml
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.191211002:
+    licensed:
+      declared: OTHER
