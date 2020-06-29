@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Essentials
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.3:
+    licensed:
+      declared: MIT
