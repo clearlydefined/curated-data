@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.PowerShell.CoreCLR.Eventing
+  provider: nuget
+  type: nuget
+revisions:
+  6.2.3:
+    licensed:
+      declared: MIT
