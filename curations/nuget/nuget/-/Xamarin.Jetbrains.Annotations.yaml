@@ -1,11 +1,8 @@
 coordinates:
-  name: Xamarin.Essentials
+  name: Xamarin.Jetbrains.Annotations
   provider: nuget
   type: nuget
 revisions:
-  1.5.2:
-    licensed:
-      declared: MIT  
-  1.5.3:
+  13.0.0.1:
     licensed:
       declared: MIT
