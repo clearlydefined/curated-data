@@ -1,0 +1,8 @@
+coordinates:
+  name: itextsharp.xmlworker
+  provider: nuget
+  type: nuget
+revisions:
+  5.5.11:
+    licensed:
+      declared: AGPL-3.0-only
