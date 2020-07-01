@@ -13,3 +13,5 @@ revisions:
     files:
       - license: OTHER
         path: LICENSE.TXT
+    licensed:
+      declared: OTHER

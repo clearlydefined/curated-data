@@ -5,19 +5,25 @@ coordinates:
 revisions:
   2.0.10:
     licensed:
-      declared: AGPL-3.0-or-later OR OTHER
+      declared: AGPL-3.0-only OR OTHER
   2.0.2:
     licensed:
-      declared: AGPL-3.0-or-later OR OTHER
+      declared: AGPL-3.0-only OR OTHER
+  2.0.8:
+    licensed:
+      declared: AGPL-3.0-only OR OTHER
   3.0.10:
     licensed:
-      declared: AGPL-3.0-or-later OR OTHER
+      declared: AGPL-3.0-only OR OTHER
   3.0.11:
     files:
-      - license: AGPL-3.0-or-later OR OTHER
+      - license: AGPL-3.0-only OR OTHER
         path: LICENSE.md
     licensed:
-      declared: AGPL-3.0-or-later OR OTHER
+      declared: AGPL-3.0-only OR OTHER
   3.0.13:
     licensed:
-      declared: AGPL-3.0-only AND OTHER
+      declared: AGPL-3.0-only OR OTHER
+  3.0.5:
+    licensed:
+      declared: AGPL-3.0-only OR OTHER

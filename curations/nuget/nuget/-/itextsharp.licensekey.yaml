@@ -1,0 +1,8 @@
+coordinates:
+  name: itextsharp.licensekey
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.4:
+    licensed:
+      declared: AGPL-3.0-only OR OTHER
