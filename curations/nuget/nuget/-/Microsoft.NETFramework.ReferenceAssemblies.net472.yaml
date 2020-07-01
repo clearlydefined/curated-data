@@ -5,7 +5,7 @@ coordinates:
 revisions:
   1.0.0:
     licensed:
-      declared: NOASSERTION
+      declared: MIT
   1.0.0-preview.2:
     licensed:
       declared: MIT
