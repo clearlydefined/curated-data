@@ -1,0 +1,14 @@
+coordinates:
+  name: browser-fingerprint
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1:
+    described:
+      sourceLocation:
+        name: browser-fingerprint
+        namespace: therealklanni
+        provider: github
+        revision: 044c22173c908c238ba4f02de05ce71931bf02f5
+        type: git
+        url: 'https://github.com/therealklanni/browser-fingerprint/commit/044c22173c908c238ba4f02de05ce71931bf02f5'
