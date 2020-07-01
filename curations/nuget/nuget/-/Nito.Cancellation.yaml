@@ -1,11 +1,8 @@
 coordinates:
-  name: AspNetCoreRateLimit
+  name: Nito.Cancellation
   provider: nuget
   type: nuget
 revisions:
-  3.0.3:
-    licensed:
-      declared: MIT
-  3.0.5:
+  1.0.5:
     licensed:
       declared: MIT

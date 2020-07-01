@@ -1,0 +1,9 @@
+coordinates:
+  name: jupyterlab-sparkmonitor
+  namespace: itsjafer
+  provider: github
+  type: git
+revisions:
+  fcf25b4d38b7e1a103ebfd5657fd4feabd85acbb:
+    licensed:
+      declared: Apache-2.0

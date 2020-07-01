@@ -1,0 +1,8 @@
+coordinates:
+  name: tensorboard-plugin-wit
+  provider: pypi
+  type: pypi
+revisions:
+  1.6.0.post3:
+    licensed:
+      declared: Apache-2.0

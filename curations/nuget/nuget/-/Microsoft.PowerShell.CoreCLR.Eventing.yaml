@@ -1,11 +1,8 @@
 coordinates:
-  name: AspNetCoreRateLimit
+  name: Microsoft.PowerShell.CoreCLR.Eventing
   provider: nuget
   type: nuget
 revisions:
-  3.0.3:
-    licensed:
-      declared: MIT
-  3.0.5:
+  6.2.3:
     licensed:
       declared: MIT
