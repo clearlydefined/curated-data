@@ -1,0 +1,8 @@
+coordinates:
+  name: Swashbuckle.AspNetCore.Filters
+  provider: nuget
+  type: nuget
+revisions:
+  4.5.5:
+    licensed:
+      declared: MIT
