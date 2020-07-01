@@ -1,8 +1,8 @@
 coordinates:
-  name: SQLite
+  name: Microsoft.SqlServer.Management.SqlParser
   provider: nuget
   type: nuget
 revisions:
-  3.13.0:
+  150.37051.0:
     licensed:
       declared: OTHER

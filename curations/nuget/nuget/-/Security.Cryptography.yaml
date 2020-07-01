@@ -1,8 +1,8 @@
 coordinates:
-  name: SQLite
+  name: Security.Cryptography
   provider: nuget
   type: nuget
 revisions:
-  3.13.0:
+  1.7.2:
     licensed:
       declared: OTHER

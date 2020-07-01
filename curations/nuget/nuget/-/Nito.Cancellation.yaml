@@ -1,8 +1,8 @@
 coordinates:
-  name: SQLite
+  name: Nito.Cancellation
   provider: nuget
   type: nuget
 revisions:
-  3.13.0:
+  1.0.5:
     licensed:
-      declared: OTHER
+      declared: MIT
