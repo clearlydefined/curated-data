@@ -1,0 +1,8 @@
+coordinates:
+  name: reflect
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.3:
+    licensed:
+      declared: MIT
