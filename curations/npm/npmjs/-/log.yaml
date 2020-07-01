@@ -1,0 +1,8 @@
+coordinates:
+  name: log
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT

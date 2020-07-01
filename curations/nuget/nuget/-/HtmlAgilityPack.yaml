@@ -15,10 +15,16 @@ revisions:
   1.11.12:
     licensed:
       declared: MIT
+  1.11.16:
+    licensed:
+      declared: MIT
   1.11.17:
     licensed:
       declared: MIT
   1.11.2:
+    licensed:
+      declared: MIT
+  1.11.23:
     licensed:
       declared: MIT
   1.11.3:

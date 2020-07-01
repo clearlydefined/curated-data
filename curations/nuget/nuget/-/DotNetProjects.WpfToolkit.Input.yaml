@@ -1,0 +1,23 @@
+coordinates:
+  name: DotNetProjects.WpfToolkit.Input
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.79:
+    described:
+      sourceLocation:
+        name: wpftoolkit
+        namespace: dotnetprojects
+        provider: github
+        revision: 307774892d67a190ce6b696b43cfad4eb5a4e3d7
+        type: git
+        url: 'https://github.com/dotnetprojects/wpftoolkit/commit/307774892d67a190ce6b696b43cfad4eb5a4e3d7'
+  6.0.84:
+    described:
+      sourceLocation:
+        name: wpftoolkit
+        namespace: dotnetprojects
+        provider: github
+        revision: 51c067d102f0fe2b25316a3bf1ef88a50beffacc
+        type: git
+        url: 'https://github.com/dotnetprojects/wpftoolkit/commit/51c067d102f0fe2b25316a3bf1ef88a50beffacc'

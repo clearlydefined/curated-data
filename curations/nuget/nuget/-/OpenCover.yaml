@@ -1,0 +1,8 @@
+coordinates:
+  name: OpenCover
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.519:
+    licensed:
+      declared: MIT

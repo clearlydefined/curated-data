@@ -198,6 +198,9 @@ revisions:
         path: Tools/uninstall.ps1
     licensed:
       declared: MIT
+  3.4.0:
+    licensed:
+      declared: MIT
   3.4.1:
     files:
       - license: BSD-3-Clause
@@ -218,5 +221,8 @@ revisions:
         path: Tools/jquery-3.4.1.intellisense.js
       - license: BSD-3-Clause
         path: Tools/uninstall.ps1
+    licensed:
+      declared: MIT
+  3.5.1:
     licensed:
       declared: MIT

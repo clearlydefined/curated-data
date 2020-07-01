@@ -9,3 +9,15 @@ revisions:
   5.11.1:
     licensed:
       declared: Apache-2.0
+  5.11.5:
+    licensed:
+      declared: Apache-2.0
+  5.7.0:
+    licensed:
+      declared: Apache-2.0
+  5.8.10:
+    licensed:
+      declared: Apache-2.0
+  5.8.11:
+    licensed:
+      declared: Apache-2.0

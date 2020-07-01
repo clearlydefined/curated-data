@@ -1,0 +1,12 @@
+coordinates:
+  name: plugin-paginate-rest
+  namespace: '@octokit'
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.2:
+    files:
+      - attributions:
+          - Copyright (c) 2019 Octokit
+        license: MIT
+        path: package/LICENSE

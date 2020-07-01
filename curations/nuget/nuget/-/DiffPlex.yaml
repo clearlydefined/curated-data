@@ -1,0 +1,8 @@
+coordinates:
+  name: DiffPlex
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.4:
+    licensed:
+      declared: Apache-2.0

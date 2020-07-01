@@ -1,0 +1,14 @@
+coordinates:
+  name: Microsoft.Bot.Builder.Integration.AspNet.Core
+  provider: nuget
+  type: nuget
+revisions:
+  4.5.3:
+    licensed:
+      declared: MIT
+  4.6.3:
+    licensed:
+      declared: MIT
+  4.8.0:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Office.Interop.Outlook
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.4797.1003:
+    licensed:
+      declared: NONE

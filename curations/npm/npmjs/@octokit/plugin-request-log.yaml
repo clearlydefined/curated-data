@@ -1,0 +1,12 @@
+coordinates:
+  name: plugin-request-log
+  namespace: '@octokit'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    files:
+      - license: MIT
+        path: package/LICENSE
+      - license: MIT
+        path: package/README.md

@@ -1,0 +1,9 @@
+coordinates:
+  name: jodd-core
+  namespace: org.jodd
+  provider: mavencentral
+  type: maven
+revisions:
+  3.5.2:
+    licensed:
+      declared: BSD-2-Clause

@@ -1,0 +1,9 @@
+coordinates:
+  name: backport-util-concurrent
+  namespace: backport-util-concurrent
+  provider: mavencentral
+  type: maven
+revisions:
+  '3.1':
+    licensed:
+      declared: CC-PDDC

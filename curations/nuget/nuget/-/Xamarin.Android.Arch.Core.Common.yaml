@@ -14,3 +14,6 @@ revisions:
         path: Xamarin.Android.Arch.Core.Common.nuspec
     licensed:
       declared: MIT
+  1.1.1.3:
+    licensed:
+      declared: MIT

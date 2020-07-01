@@ -7,3 +7,12 @@ revisions:
   645250b6690785be60ab6780ce4b58698d884d11:
     licensed:
       declared: MIT OR Other
+  6aba23f4a8628d599a9ef7fa4811c4ff6e4070e2:
+    files:
+      - attributions:
+          - Copyright (c) 2007-2010 Baptiste Lepilleur and The JsonCpp Authors
+          - Copyright (c) 2007-2010 by Baptiste Lepilleur and The JsonCpp Authors
+        license: MIT OR OTHER
+        path: LICENSE
+    licensed:
+      declared: MIT OR OTHER

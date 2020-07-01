@@ -1,0 +1,9 @@
+coordinates:
+  name: mwfeedparser
+  namespace: mwaterfall
+  provider: github
+  type: git
+revisions:
+  b85b10c5da72e241729e32857064746393237a95:
+    licensed:
+      declared: OTHER

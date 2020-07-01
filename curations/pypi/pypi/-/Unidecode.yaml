@@ -19,3 +19,6 @@ revisions:
         path: Unidecode-1.0.23/ChangeLog
     licensed:
       declared: GPL-2.0-or-later
+  1.1.1:
+    licensed:
+      declared: GPL-2.0-or-later

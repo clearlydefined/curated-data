@@ -1,0 +1,14 @@
+coordinates:
+  name: Microsoft.Azure.WebJobs.Extensions.CosmosDB
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.5:
+    described:
+      sourceLocation:
+        name: azure-webjobs-sdk-extensions
+        namespace: azure
+        provider: github
+        revision: 7160d758c40551b5a283dbc24011ffa89c9ffa6b
+        type: git
+        url: 'https://github.com/azure/azure-webjobs-sdk-extensions/commit/7160d758c40551b5a283dbc24011ffa89c9ffa6b'

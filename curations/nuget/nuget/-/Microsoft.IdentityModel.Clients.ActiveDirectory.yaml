@@ -5,45 +5,48 @@ coordinates:
 revisions:
   2.14.201151115:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.16.204221202:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
+  2.18.206251556:
+    licensed:
+      declared: Apache-2.0
   2.19.208020213:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.21.301221612:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.22.302111727:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.23.302261847:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.24.304111323:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.26.305102204:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.28.1:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.28.2:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.28.3:
     described:
       releaseDate: '2016-11-18'
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.28.4:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   2.29.0:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
   3.13.9:
     described:
       releaseDate: '2017-03-22'
