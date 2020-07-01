@@ -9,3 +9,9 @@ revisions:
   6.2.8:
     licensed:
       declared: OTHER
+  6.2.9:
+    files:
+      - license: OTHER
+        path: LICENSE.TXT
+    licensed:
+      declared: OTHER

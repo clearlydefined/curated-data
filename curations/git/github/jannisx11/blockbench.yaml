@@ -1,0 +1,12 @@
+coordinates:
+  name: blockbench
+  namespace: jannisx11
+  provider: github
+  type: git
+revisions:
+  b2cd316ae77a415c78584433b1a7df190cf22d13:
+    files:
+      - attributions:
+          - (c) 2009-2016 Stuart Knightley <stuart at stuartk.com>
+        license: GPL-3.0-only OR MIT
+        path: lib/jszip.min.js

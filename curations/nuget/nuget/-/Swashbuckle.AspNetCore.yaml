@@ -21,6 +21,9 @@ revisions:
   5.0.0:
     licensed:
       declared: MIT
+  5.0.0-beta:
+    licensed:
+      declared: MIT
   5.0.0-rc2:
     licensed:
       declared: MIT
@@ -28,6 +31,9 @@ revisions:
     licensed:
       declared: MIT
   5.0.0-rc5:
+    licensed:
+      declared: MIT
+  5.1.0:
     licensed:
       declared: MIT
   5.2.1:

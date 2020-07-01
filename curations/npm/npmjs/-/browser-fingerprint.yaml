@@ -12,3 +12,12 @@ revisions:
         revision: 044c22173c908c238ba4f02de05ce71931bf02f5
         type: git
         url: 'https://github.com/therealklanni/browser-fingerprint/commit/044c22173c908c238ba4f02de05ce71931bf02f5'
+  0.1.0:
+    described:
+      sourceLocation:
+        name: browser-fingerprint
+        namespace: therealklanni
+        provider: github
+        revision: 8a588efa8034b1dca1d6795e17b74ab3ba431283
+        type: git
+        url: 'https://github.com/therealklanni/browser-fingerprint/commit/8a588efa8034b1dca1d6795e17b74ab3ba431283'
