@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.SqlServer.Management.SqlParser
+  provider: nuget
+  type: nuget
+revisions:
+  150.37051.0:
+    licensed:
+      declared: OTHER
