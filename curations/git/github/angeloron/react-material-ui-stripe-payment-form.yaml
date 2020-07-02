@@ -1,0 +1,12 @@
+coordinates:
+  name: react-material-ui-stripe-payment-form
+  namespace: angeloron
+  provider: github
+  type: git
+revisions:
+  e3da64e757a9b466484101573ff594a44c0e78ec:
+    files:
+      - attributions:
+        - Copyright 2020 Ange Loron
+        license: MIT
+        path: LICENSE
