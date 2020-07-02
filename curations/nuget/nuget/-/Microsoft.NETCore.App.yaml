@@ -18,6 +18,9 @@ revisions:
         path: LICENSE.TXT
     licensed:
       declared: MIT
+  2.1.19:
+    licensed:
+      declared: MIT
   2.1.2:
     licensed:
       declared: MIT
