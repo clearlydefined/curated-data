@@ -1,0 +1,9 @@
+coordinates:
+  name: eslint-config
+  namespace: landscapehub
+  provider: github
+  type: git
+revisions:
+  70380698f997c0097d9fbd67993c80318b61cefa:
+    licensed:
+      declared: MIT
