@@ -6,6 +6,9 @@ revisions:
   3.0.0:
     licensed:
       declared: OTHER
+  3.0.0-preview-011100001-1152:
+    licensed:
+      declared: MIT
   3.0.1:
     licensed:
       declared: OTHER
