@@ -1,0 +1,8 @@
+coordinates:
+  name: Npm
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.2:
+    licensed:
+      declared: Artistic-2.0
