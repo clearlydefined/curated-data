@@ -1,0 +1,9 @@
+coordinates:
+  name: hockeysdk-mac
+  namespace: bitstadium
+  provider: github
+  type: git
+revisions:
+  6169aec3571b1e47aa496e8d42ffecbc6edb602b:
+    licensed:
+      declared: MIT
