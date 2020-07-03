@@ -1,0 +1,8 @@
+coordinates:
+  name: SystemWrapper.Wrappers
+  provider: nuget
+  type: nuget
+revisions:
+  0.23.0.168:
+    licensed:
+      declared: MS-PL
