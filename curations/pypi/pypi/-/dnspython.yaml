@@ -1,0 +1,8 @@
+coordinates:
+  name: dnspython
+  provider: pypi
+  type: pypi
+revisions:
+  1.16.0:
+    licensed:
+      declared: ISC
