@@ -9,6 +9,9 @@ revisions:
   0.15.0-build58334:
     licensed:
       declared: MIT
+  0.21.5-build00175:
+    licensed:
+      declared: MIT
   0.22.9-build00167:
     licensed:
       declared: MIT
