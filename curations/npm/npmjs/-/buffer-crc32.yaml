@@ -1,0 +1,8 @@
+coordinates:
+  name: buffer-crc32
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.1:
+    licensed:
+      declared: MIT
