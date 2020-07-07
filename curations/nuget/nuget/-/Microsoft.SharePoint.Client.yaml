@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.SharePoint.Client
+  provider: nuget
+  type: nuget
+revisions:
+  14.0.4762.1000:
+    licensed:
+      declared: NONE
