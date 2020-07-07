@@ -1,0 +1,9 @@
+coordinates:
+  name: sp-search-extensibility
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.10.0:
+    licensed:
+      declared: OTHER
