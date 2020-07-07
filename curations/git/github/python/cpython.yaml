@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  02dff8b01100e7cd6d4c93be27202ccb4ea05811:
+    licensed:
+      declared: Python-2.0
   5fd33b5926eb8c9352bf5718369b4a8d72c4bb44:
     licensed:
       declared: Python-2.0
