@@ -48,3 +48,6 @@ revisions:
   4.3.2:
     licensed:
       declared: MIT
+  4.9.3:
+    licensed:
+      declared: MIT
