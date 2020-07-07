@@ -28,3 +28,6 @@ revisions:
         path: pylint-2.3.0/setup.py
     licensed:
       declared: GPL-2.0-only
+  2.4.4:
+    licensed:
+      declared: GPL-2.0-only
