@@ -1,0 +1,18 @@
+coordinates:
+  name: doxia-module-fml
+  namespace: org.apache.maven.doxia
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    described:
+      sourceLocation:
+        name: maven-doxia
+        namespace: apache
+        provider: github
+        revision: 730d8516db0d70f47804418155c3ce66bbf3a9be
+        type: git
+        url: 'https://github.com/apache/maven-doxia/commit/730d8516db0d70f47804418155c3ce66bbf3a9be'
+    files:
+      - license: Apache-2.0
+        path: org/apache/maven/doxia/module/fml/FmlParser.class
