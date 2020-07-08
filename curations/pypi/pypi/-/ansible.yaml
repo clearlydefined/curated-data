@@ -1,0 +1,8 @@
+coordinates:
+  name: ansible
+  provider: pypi
+  type: pypi
+revisions:
+  2.9.9:
+    licensed:
+      declared: GPL-3.0-or-later
