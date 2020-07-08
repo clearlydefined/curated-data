@@ -18,3 +18,6 @@ revisions:
   2.7.1:
     licensed:
       declared: MIT
+  3.0.3-preview:
+    licensed:
+      declared: MIT
