@@ -1,0 +1,8 @@
+coordinates:
+  name: react-native-camera
+  provider: npmjs
+  type: npm
+revisions:
+  3.30.0:
+    licensed:
+      declared: MIT
