@@ -36,6 +36,9 @@ revisions:
         path: jQuery.Validation.nuspec
     licensed:
       declared: MIT
+  1.19.1:
+    licensed:
+      declared: MIT
   1.8.0:
     licensed:
       declared: MIT
