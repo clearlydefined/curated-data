@@ -1,0 +1,9 @@
+coordinates:
+  name: circles
+  namespace: lugolabs
+  provider: github
+  type: git
+revisions:
+  6083dc137ae64d3717441ec719f69e5084a893e1:
+    licensed:
+      declared: MIT
