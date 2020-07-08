@@ -5,13 +5,13 @@ coordinates:
 revisions:
   12.1.2:
     licensed:
-      declared: Apache-2.0 AND MS-PL
+      declared: MS-PL OR Apache-2.0
   12.2.1:
     licensed:
-      declared: MS-PL
+      declared: MS-PL OR Apache-2.0
   2.13.2:
     licensed:
-      declared: MS-PL AND Apache-2.0
+      declared: MS-PL OR Apache-2.0
   2.16.3:
     licensed:
       declared: MS-PL OR Apache-2.0
