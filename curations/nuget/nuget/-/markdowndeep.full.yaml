@@ -1,0 +1,8 @@
+coordinates:
+  name: markdowndeep.full
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.0:
+    licensed:
+      declared: Other
