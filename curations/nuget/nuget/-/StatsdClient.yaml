@@ -1,11 +1,8 @@
 coordinates:
-  name: BouncyCastle.NetCore
+  name: StatsdClient
   provider: nuget
   type: nuget
 revisions:
-  1.8.3:
-    licensed:
-      declared: MIT
-  1.8.5:
+  3.0.86:
     licensed:
       declared: MIT

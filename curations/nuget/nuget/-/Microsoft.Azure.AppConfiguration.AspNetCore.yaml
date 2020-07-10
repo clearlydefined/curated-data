@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.AppConfiguration.AspNetCore
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.1:
+    licensed:
+      declared: OTHER

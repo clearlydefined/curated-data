@@ -1,0 +1,9 @@
+coordinates:
+  name: eslint-config
+  namespace: '@react-native-community'
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.5:
+    licensed:
+      declared: MIT
