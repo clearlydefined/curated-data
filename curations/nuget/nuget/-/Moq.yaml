@@ -118,6 +118,9 @@ revisions:
       releaseDate: '2017-03-26'
     licensed:
       declared: BSD-3-Clause
+  4.7.9:
+    licensed:
+      declared: BSD-3-Clause
   4.7.99:
     described:
       releaseDate: '2017-07-17'
