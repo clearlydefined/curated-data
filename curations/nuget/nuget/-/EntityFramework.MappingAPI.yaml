@@ -1,0 +1,8 @@
+coordinates:
+  name: EntityFramework.MappingAPI
+  provider: nuget
+  type: nuget
+revisions:
+  6.1.0.9:
+    licensed:
+      declared: BSD-2-Clause
