@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.IdentityModel.KeyVaultExtensions
+  provider: nuget
+  type: nuget
+revisions:
+  5.3.0:
+    licensed:
+      declared: MIT
