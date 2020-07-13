@@ -1,0 +1,9 @@
+coordinates:
+  name: logkit
+  namespace: logkit
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.0':
+    licensed:
+      declared: ISC
