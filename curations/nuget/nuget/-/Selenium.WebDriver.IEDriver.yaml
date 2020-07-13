@@ -1,0 +1,8 @@
+coordinates:
+  name: Selenium.WebDriver.IEDriver
+  provider: nuget
+  type: nuget
+revisions:
+  3.150.1:
+    licensed:
+      declared: Unlicense
