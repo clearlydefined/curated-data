@@ -1,11 +1,8 @@
 coordinates:
-  name: JmesPath.Net
+  name: Microsoft.CodeAnalysis.CSharp.Workspaces
   provider: nuget
   type: nuget
 revisions:
-  1.0.101:
-    licensed:
-      declared: Apache-2.0
-  1.0.125:
+  3.0.0:
     licensed:
       declared: Apache-2.0
