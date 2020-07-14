@@ -1,0 +1,16 @@
+coordinates:
+  name: kapua
+  namespace: eclipse
+  provider: github
+  type: git
+revisions:
+  510b549c7e64c8cbbd90b8aabda47bf1e4a827cd:
+    described:
+      releaseDate: '2020-07-09'
+      sourceLocation:
+        name: kapua
+        namespace: eclipse
+        provider: github
+        revision: b851dab92141fd95f42e64a3d71dfa1510481eea
+        type: git
+        url: 'https://github.com/eclipse/kapua/commit/b851dab92141fd95f42e64a3d71dfa1510481eea'
