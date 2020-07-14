@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-intl
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  1.7.1:
+    licensed:
+      declared: OTHER
