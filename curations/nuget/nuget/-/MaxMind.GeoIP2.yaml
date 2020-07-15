@@ -1,0 +1,8 @@
+coordinates:
+  name: MaxMind.GeoIP2
+  provider: nuget
+  type: nuget
+revisions:
+  2.8.0:
+    licensed:
+      declared: Apache-2.0
