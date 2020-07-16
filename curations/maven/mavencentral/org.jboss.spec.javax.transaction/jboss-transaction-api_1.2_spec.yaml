@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-transaction-api_1.2_spec
+  namespace: org.jboss.spec.javax.transaction
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.1.Final:
+    licensed:
+      declared: GPL-2.0-only OR CDDL-1.0
