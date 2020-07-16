@@ -1,0 +1,9 @@
+coordinates:
+  name: mchange-commons-java
+  namespace: com.mchange
+  provider: mavencentral
+  type: maven
+revisions:
+  0.2.15:
+    licensed:
+      declared: LGPL-2.1-only OR EPL-1.0
