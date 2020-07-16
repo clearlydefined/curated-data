@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  7.7.0.7192:
+    licensed:
+      declared: LGPL-3.0-or-later
   8.4.0.15306:
     licensed:
-      declared: LGPL-3.0-only
+      declared: LGPL-3.0-or-later
