@@ -1,0 +1,9 @@
+coordinates:
+  name: jsr250-api
+  namespace: javax.annotation
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: CDDL-1.0
