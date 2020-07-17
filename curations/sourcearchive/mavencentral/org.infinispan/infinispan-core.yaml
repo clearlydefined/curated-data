@@ -13,3 +13,14 @@ revisions:
         revision: 1fd73b0a90052a4cf9a659995d9fc73b385a3a5f
         type: git
         url: 'https://github.com/infinispan/infinispan/commit/1fd73b0a90052a4cf9a659995d9fc73b385a3a5f'
+  11.0.1.Final:
+    described:
+      sourceLocation:
+        name: infinispan
+        namespace: infinispan
+        provider: github
+        revision: a8d7427b651932d34db9ea4ad3872be9b5d8be8b
+        type: git
+        url: 'https://github.com/infinispan/infinispan/commit/a8d7427b651932d34db9ea4ad3872be9b5d8be8b'
+    licensed:
+      declared: Apache-2.0
