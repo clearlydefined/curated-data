@@ -1,11 +1,8 @@
 coordinates:
-  name: TimeZoneConverter
+  name: Flurl
   provider: nuget
   type: nuget
 revisions:
-  2.4.1:
-    licensed:
-      declared: MIT
-  3.2.0:
+  2.8.0:
     licensed:
       declared: MIT

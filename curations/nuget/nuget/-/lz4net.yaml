@@ -9,6 +9,9 @@ revisions:
   1.0.15.93:
     licensed:
       declared: BSD-2-Clause
+  1.0.5.93:
+    licensed:
+      declared: BSD-2-Clause
   1.0.9.93:
     licensed:
       declared: BSD-2-Clause

@@ -15,6 +15,9 @@ revisions:
   2020.4.4:
     licensed:
       declared: Python-2.0
+  2020.5.14:
+    licensed:
+      declared: Python-2.0
   2020.6.8:
     licensed:
       declared: Python-2.0
