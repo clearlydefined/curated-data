@@ -1,0 +1,8 @@
+coordinates:
+  name: StatsdClient
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.86:
+    licensed:
+      declared: MIT

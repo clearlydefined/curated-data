@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-l10n
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.1:
+    licensed:
+      declared: OTHER

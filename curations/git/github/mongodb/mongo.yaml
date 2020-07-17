@@ -1,0 +1,14 @@
+coordinates:
+  name: mongo
+  namespace: mongodb
+  provider: github
+  type: git
+revisions:
+  2261279b51ea13df08ae708ff278f0679c59dc32:
+    files:
+      - attributions:
+          - 'Copyright (c) 2018 MongoDB, Inc.'
+        license: SSPL-1.0
+        path: LICENSE-Community.txt
+    licensed:
+      declared: SSPL-1.0

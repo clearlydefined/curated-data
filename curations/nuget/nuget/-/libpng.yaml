@@ -1,0 +1,8 @@
+coordinates:
+  name: libpng
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.10.9:
+    licensed:
+      declared: Libpng

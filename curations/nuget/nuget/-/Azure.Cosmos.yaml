@@ -1,0 +1,11 @@
+coordinates:
+  name: Azure.Cosmos
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.0-preview:
+    licensed:
+      declared: MIT  
+  4.0.0-preview3:
+    licensed:
+      declared: MIT

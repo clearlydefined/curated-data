@@ -1,0 +1,8 @@
+coordinates:
+  name: citrus
+  provider: rubygems
+  type: gem
+revisions:
+  3.0.2:
+    licensed:
+      declared: MIT

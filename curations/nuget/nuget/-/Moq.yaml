@@ -30,6 +30,9 @@ revisions:
   4.14.2:
     licensed:
       declared: BSD-3-Clause
+  4.14.3:
+    licensed:
+      declared: BSD-3-Clause
   4.14.4:
     licensed:
       declared: BSD-3-Clause
@@ -96,6 +99,9 @@ revisions:
   4.7.10:
     licensed:
       declared: BSD-3-Clause
+  4.7.127:
+    licensed:
+      declared: BSD-3-Clause
   4.7.137:
     licensed:
       declared: BSD-3-Clause
@@ -116,6 +122,9 @@ revisions:
   4.7.8:
     described:
       releaseDate: '2017-03-26'
+    licensed:
+      declared: BSD-3-Clause
+  4.7.9:
     licensed:
       declared: BSD-3-Clause
   4.7.99:

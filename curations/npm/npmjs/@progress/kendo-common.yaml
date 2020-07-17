@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-common
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.1:
+    licensed:
+      declared: OTHER
