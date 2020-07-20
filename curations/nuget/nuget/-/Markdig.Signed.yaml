@@ -24,6 +24,6 @@ revisions:
         license: ''
         path: .signature.p7s
       - attributions:
-          - 'Copyright (c) 2018-2019, Alexandre Mutel All rights reserved.'
+          - 'Alexandre Mutel'
         license: ''
         path: Markdig.Signed.nuspec
