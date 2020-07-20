@@ -1,0 +1,8 @@
+coordinates:
+  name: Aspose.Slides.NET
+  provider: nuget
+  type: nuget
+revisions:
+  17.12.0:
+    licensed:
+      declared: NOASSERTION
