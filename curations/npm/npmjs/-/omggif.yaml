@@ -1,0 +1,8 @@
+coordinates:
+  name: omggif
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.9:
+    licensed:
+      declared: MIT
