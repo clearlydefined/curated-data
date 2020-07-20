@@ -1,0 +1,8 @@
+coordinates:
+  name: graphql-playground-html
+  provider: npmjs
+  type: npm
+revisions:
+  1.6.12:
+    licensed:
+      declared: NOASSERTION
