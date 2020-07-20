@@ -3,9 +3,12 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  3.3.3:
+    licensed:
+      declared: NOASSERTION
   3.8.0:
     licensed:
       declared: MIT
   3.9.1:
     licensed:
-      declared: MIT  
+      declared: MIT
