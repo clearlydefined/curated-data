@@ -1,0 +1,9 @@
+coordinates:
+  name: graphql-language-service-parser
+  namespace: '@apollographql'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.2:
+    licensed:
+      declared: NONE
