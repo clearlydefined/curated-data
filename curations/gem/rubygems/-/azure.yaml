@@ -1,0 +1,8 @@
+coordinates:
+  name: azure
+  provider: rubygems
+  type: gem
+revisions:
+  0.7.10:
+    licensed:
+      declared: MIT
