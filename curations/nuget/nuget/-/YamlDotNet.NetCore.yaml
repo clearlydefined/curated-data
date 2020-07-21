@@ -1,0 +1,8 @@
+coordinates:
+  name: YamlDotNet.NetCore
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: No license information
