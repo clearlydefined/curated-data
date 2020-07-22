@@ -1,0 +1,8 @@
+coordinates:
+  name: azureml-dataprep
+  provider: pypi
+  type: pypi
+revisions:
+  1.9.3:
+    licensed:
+      declared: 'https://aka.ms/azureml-sdk-license'
