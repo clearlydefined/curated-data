@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.BuildTracker.Client
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.30808.2:
+    licensed:
+      declared: NONE
