@@ -1,0 +1,8 @@
+coordinates:
+  name: SciSharp.TensorFlow.Redist
+  provider: nuget
+  type: nuget
+revisions:
+  1.14.0:
+    licensed:
+      declared: Artistic-2.0
