@@ -1,0 +1,8 @@
+coordinates:
+  name: memcached
+  provider: rubygems
+  type: gem
+revisions:
+  1.8.0:
+    licensed:
+      declared: AFL-3.0
