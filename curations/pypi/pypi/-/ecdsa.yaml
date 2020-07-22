@@ -1,0 +1,8 @@
+coordinates:
+  name: ecdsa
+  provider: pypi
+  type: pypi
+revisions:
+  '0.14':
+    licensed:
+      declared: MIT
