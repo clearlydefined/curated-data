@@ -6,7 +6,7 @@ coordinates:
 revisions:
   645250b6690785be60ab6780ce4b58698d884d11:
     licensed:
-      declared: MIT OR Other
+      declared: MIT OR OTHER
   6aba23f4a8628d599a9ef7fa4811c4ff6e4070e2:
     files:
       - attributions:
@@ -14,5 +14,8 @@ revisions:
           - Copyright (c) 2007-2010 by Baptiste Lepilleur and The JsonCpp Authors
         license: MIT OR OTHER
         path: LICENSE
+    licensed:
+      declared: MIT OR OTHER
+  ddabf50f72cf369bf652a95c4d9fe31a1865a781:
     licensed:
       declared: MIT OR OTHER
