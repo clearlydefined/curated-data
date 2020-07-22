@@ -1,0 +1,9 @@
+coordinates:
+  name: libexpat
+  namespace: libexpat
+  provider: github
+  type: git
+revisions:
+  39e487da353b20bb3a724311d179ba0fddffc65b:
+    licensed:
+      declared: MIT
