@@ -1,11 +1,8 @@
 coordinates:
-  name: shap
+  name: nimbusml
   provider: pypi
   type: pypi
 revisions:
-  0.34.0:
-    licensed:
-      declared: MIT
-  0.35.0:
+  1.6.1:
     licensed:
       declared: MIT

@@ -1,11 +1,8 @@
 coordinates:
-  name: shap
+  name: onnxruntime
   provider: pypi
   type: pypi
 revisions:
-  0.34.0:
-    licensed:
-      declared: MIT
-  0.35.0:
+  1.0.0:
     licensed:
       declared: MIT
