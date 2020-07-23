@@ -15,3 +15,6 @@ revisions:
   2.1.0.178:
     licensed:
       declared: MS-PL
+  6.0.14:
+    licensed:
+      declared: MIT
