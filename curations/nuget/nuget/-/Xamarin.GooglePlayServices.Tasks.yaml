@@ -1,11 +1,8 @@
 coordinates:
-  name: Xamarin.GooglePlayServices.Basement
+  name: Xamarin.GooglePlayServices.Tasks
   provider: nuget
   type: nuget
 revisions:
   42.1021.1:
-    licensed:
-      declared: MIT
-  60.1142.1:
     licensed:
       declared: MIT
