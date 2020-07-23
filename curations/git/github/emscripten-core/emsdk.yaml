@@ -1,0 +1,9 @@
+coordinates:
+  name: emsdk
+  namespace: emscripten-core
+  provider: github
+  type: git
+revisions:
+  1bd7d547598f3fc74699c172f6c9c59a1e8484f1:
+    licensed:
+      declared: MIT

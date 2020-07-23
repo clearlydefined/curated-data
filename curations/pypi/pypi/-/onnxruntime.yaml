@@ -1,11 +1,8 @@
 coordinates:
-  name: nimbusml
+  name: onnxruntime
   provider: pypi
   type: pypi
 revisions:
-  1.6.1:
-    licensed:
-      declared: MIT
-  1.7.1:
+  1.0.0:
     licensed:
       declared: MIT
