@@ -1,11 +1,8 @@
 coordinates:
-  name: Xamarin.Build.Download
+  name: Xamarin.Android.Support.Percent
   provider: nuget
   type: nuget
 revisions:
-  0.4.11:
-    licensed:
-      declared: MIT
-  0.4.9:
+  26.1.0.1:
     licensed:
       declared: MIT

@@ -1,11 +1,11 @@
 coordinates:
-  name: Xamarin.Android.Support.Interpolator
+  name: Xamarin.GooglePlayServices.Basement
   provider: nuget
   type: nuget
 revisions:
-  28.0.0.1:
+  42.1021.1:
     licensed:
       declared: MIT
-  28.0.0.3:
+  60.1142.1:
     licensed:
       declared: MIT
