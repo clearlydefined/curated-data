@@ -1,5 +1,5 @@
 coordinates:
-  name: Xamarin.GooglePlayServices.Base
+  name: Xamarin.GooglePlayServices.Tasks
   provider: nuget
   type: nuget
 revisions:
