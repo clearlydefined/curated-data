@@ -1,0 +1,8 @@
+coordinates:
+  name: shap
+  provider: pypi
+  type: pypi
+revisions:
+  0.34.0:
+    licensed:
+      declared: MIT
