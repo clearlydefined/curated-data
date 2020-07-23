@@ -1,0 +1,9 @@
+coordinates:
+  name: io
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  5fa66f1f76fb9142765692cc0cf6e40af8d08c45:
+    licensed:
+      declared: BSL-1.0

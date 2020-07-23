@@ -1,0 +1,9 @@
+coordinates:
+  name: predef
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  fe62325d9fe171028a1beb61082a72972a3e93b0:
+    licensed:
+      declared: BSL-1.0

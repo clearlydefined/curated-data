@@ -1,0 +1,9 @@
+coordinates:
+  name: winapi
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  65b9c99a6772add56a24272d0b76b611fd92caf4:
+    licensed:
+      declared: BSL-1.0
