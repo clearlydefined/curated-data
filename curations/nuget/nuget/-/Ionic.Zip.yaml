@@ -1,11 +1,8 @@
 coordinates:
-  name: AspNet.ScriptManager.jQuery
+  name: Ionic.Zip
   provider: nuget
   type: nuget
 revisions:
-  1.10.2:
-    licensed:
-      declared: NONE
-  3.3.1:
+  1.9.1.8:
     licensed:
       declared: NONE
