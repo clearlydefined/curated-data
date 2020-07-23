@@ -1,0 +1,8 @@
+coordinates:
+  name: XunitXml.TestLogger
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.26:
+    licensed:
+      declared: MIT
