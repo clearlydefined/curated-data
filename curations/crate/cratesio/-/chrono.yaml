@@ -1,0 +1,8 @@
+coordinates:
+  name: chrono
+  provider: cratesio
+  type: crate
+revisions:
+  0.4.11:
+    licensed:
+      declared: MIT
