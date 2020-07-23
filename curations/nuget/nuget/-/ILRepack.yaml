@@ -1,0 +1,8 @@
+coordinates:
+  name: ILRepack
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.18:
+    licensed:
+      declared: Artistic-2.0
