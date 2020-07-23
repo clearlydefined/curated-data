@@ -1,11 +1,11 @@
 coordinates:
-  name: Xamarin.Android.Support.Interpolator
+  name: Xamarin.Build.Download
   provider: nuget
   type: nuget
 revisions:
-  28.0.0.1:
+  0.4.11:
     licensed:
       declared: MIT
-  28.0.0.3:
+  0.4.9:
     licensed:
       declared: MIT

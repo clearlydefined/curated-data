@@ -1,11 +1,8 @@
 coordinates:
-  name: Node.js.redist
+  name: Xamarin.Android.Support.Percent
   provider: nuget
   type: nuget
 revisions:
-  10.15.0:
-    licensed:
-      declared: MIT
-  6.4.0:
+  26.1.0.1:
     licensed:
       declared: MIT
