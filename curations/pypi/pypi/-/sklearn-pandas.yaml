@@ -6,3 +6,6 @@ revisions:
   1.7.0:
     licensed:
       declared: Zlib
+  1.8.0:
+    licensed:
+      declared: 'https://github.com/scikit-learn-contrib/sklearn-pandas/blob/master/LICENSE'
