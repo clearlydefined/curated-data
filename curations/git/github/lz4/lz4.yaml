@@ -4,19 +4,19 @@ coordinates:
   provider: github
   type: git
 revisions:
+  69dbafc1c4806f6c05e28c01117799087f498a2f:
+    licensed:
+      declared: BSD-2-Clause AND GPL-2.0-only
   9141ada8de016b201520c009cbfff527b8c3c119:
+    licensed:
+      declared: BSD-2-Clause AND GPL-2.0-only
+  c04df7e1b5fb1e4ffa796d2b3d2dea208f7116da:
     licensed:
       declared: BSD-2-Clause AND GPL-2.0-only
   d86dc916771c126afb797637dda9f6421c0cb998:
     licensed:
       declared: BSD-2-Clause AND GPL-2.0-only
-  69dbafc1c4806f6c05e28c01117799087f498a2f:
-    licensed:
-      declared: BSD-2-Clause AND GPL-2.0-only
-  c04df7e1b5fb1e4ffa796d2b3d2dea208f7116da:
-    licensed:
-      declared: BSD-2-Clause AND GPL-2.0
-  dfed9fa1d77f0434306d377c4da1f7191d3ba08a:
+  BSD-2-Clause AND GPL-2.0-only:
     described:
       facets:
         examples:
@@ -24,7 +24,7 @@ revisions:
         tests:
           - tests
     files:
-      - license: BSD-2-Clause AND GPL-2.0
+      - license: BSD-2-Clause AND GPL-2.0-only
         path: LICENSE
       - license: CC0-1.0
         path: contrib/cmake_unofficial/CMakeLists.txt
@@ -50,7 +50,10 @@ revisions:
         path: tests/test-lz4-speed.py
       - attributions:
           - 'Copyright (c) 2011-present, Takayuki Matsuoka'
-        license: GPL-2.0
+        license: GPL-2.0-only
         path: tests/test-lz4-versions.py
     licensed:
-      declared: BSD-2-Clause AND GPL-2.0
+      declared: BSD-2-Clause AND GPL-2.0-only
+  fdf2ef5809ca875c454510610764d9125ef2ebbd:
+    licensed:
+      declared: BSD-2-Clause AND GPL-2.0-only
