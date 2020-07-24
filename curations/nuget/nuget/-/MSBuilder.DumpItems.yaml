@@ -1,11 +1,8 @@
 coordinates:
-  name: MSBuilder.GenerateAssemblyInfo
+  name: MSBuilder.DumpItems
   provider: nuget
   type: nuget
 revisions:
   0.1.5:
-    licensed:
-      declared: MIT
-  0.2.1:
     licensed:
       declared: MIT
