@@ -1,0 +1,8 @@
+coordinates:
+  name: MSBuilder.Introspect
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.5:
+    licensed:
+      declared: MIT
