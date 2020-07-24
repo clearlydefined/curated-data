@@ -1,0 +1,9 @@
+coordinates:
+  name: container_hash
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  9fbda1a98a32498c52a1c8ebf62311bb36a44ad4:
+    licensed:
+      declared: BSL-1.0
