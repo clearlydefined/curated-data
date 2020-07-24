@@ -1,0 +1,9 @@
+coordinates:
+  name: bind
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  d6ac20c4fdfb9103a4a5d15f2499c339e525e2a4:
+    licensed:
+      declared: BSL-1.0
