@@ -1,0 +1,9 @@
+coordinates:
+  name: iterator
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  d528fc0b11c91eec8851878e1aaac159d1131020:
+    licensed:
+      declared: BSL-1.0

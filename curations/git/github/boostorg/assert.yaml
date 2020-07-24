@@ -1,0 +1,9 @@
+coordinates:
+  name: assert
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  b45979a319f28784db8924943abe8774efd13cf9:
+    licensed:
+      declared: BSL-1.0

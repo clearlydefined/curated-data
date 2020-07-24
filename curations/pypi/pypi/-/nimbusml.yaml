@@ -1,0 +1,11 @@
+coordinates:
+  name: nimbusml
+  provider: pypi
+  type: pypi
+revisions:
+  1.6.1:
+    licensed:
+      declared: MIT
+  1.7.1:
+    licensed:
+      declared: MIT

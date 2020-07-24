@@ -1,0 +1,11 @@
+coordinates:
+  name: Xamarin.Build.Download
+  provider: nuget
+  type: nuget
+revisions:
+  0.4.11:
+    licensed:
+      declared: MIT
+  0.4.9:
+    licensed:
+      declared: MIT
