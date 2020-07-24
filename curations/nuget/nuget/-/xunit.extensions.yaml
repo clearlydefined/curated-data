@@ -1,0 +1,8 @@
+coordinates:
+  name: xunit.extensions
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.2:
+    licensed:
+      declared: Apache License 2.0
