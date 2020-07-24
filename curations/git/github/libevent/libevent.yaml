@@ -1,0 +1,9 @@
+coordinates:
+  name: libevent
+  namespace: libevent
+  provider: github
+  type: git
+revisions:
+  948ad3043590a36db6c8299bf0fb00ac3e1235ef:
+    licensed:
+      declared: BSD-3-Clause
