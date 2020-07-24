@@ -1,11 +1,8 @@
 coordinates:
-  name: Merq.Core
+  name: MSBuilder.ThisAssembly.Vsix
   provider: nuget
   type: nuget
 revisions:
-  1.1.73:
-    licensed:
-      declared: MIT
-  1.2.0:
+  0.1.8:
     licensed:
       declared: MIT

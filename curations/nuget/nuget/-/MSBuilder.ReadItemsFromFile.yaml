@@ -1,11 +1,8 @@
 coordinates:
-  name: Merq.Core
+  name: MSBuilder.ReadItemsFromFile
   provider: nuget
   type: nuget
 revisions:
-  1.1.73:
-    licensed:
-      declared: MIT
-  1.2.0:
+  0.1.0:
     licensed:
       declared: MIT

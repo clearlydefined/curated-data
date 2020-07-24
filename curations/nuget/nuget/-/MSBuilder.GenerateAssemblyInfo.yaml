@@ -1,11 +1,11 @@
 coordinates:
-  name: Merq.Core
+  name: MSBuilder.GenerateAssemblyInfo
   provider: nuget
   type: nuget
 revisions:
-  1.1.73:
+  0.1.5:
     licensed:
       declared: MIT
-  1.2.0:
+  0.2.1:
     licensed:
       declared: MIT
