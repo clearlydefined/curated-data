@@ -5,4 +5,4 @@ coordinates:
 revisions:
   1.3.2:
     licensed:
-      declared: Apache License 2.0
+      declared: BSD-3-Clause
