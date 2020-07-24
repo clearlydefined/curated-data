@@ -1,0 +1,8 @@
+coordinates:
+  name: netfx-System.StringResources
+  provider: nuget
+  type: nuget
+revisions:
+  3.1.9:
+    licensed:
+      declared: Artistic-2.0
