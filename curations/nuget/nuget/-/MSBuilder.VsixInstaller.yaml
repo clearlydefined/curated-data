@@ -1,0 +1,8 @@
+coordinates:
+  name: MSBuilder.VsixInstaller
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.11:
+    licensed:
+      declared: MIT
