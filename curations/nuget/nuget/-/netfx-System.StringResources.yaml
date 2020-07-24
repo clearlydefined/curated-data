@@ -1,0 +1,8 @@
+coordinates:
+  name: netfx-System.StringResources
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.0-alpha:
+    licensed:
+      declared: Apache License 2.0
