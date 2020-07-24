@@ -1,0 +1,8 @@
+coordinates:
+  name: MSBuilder.ThisAssembly.Vsix
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.8:
+    licensed:
+      declared: MIT
