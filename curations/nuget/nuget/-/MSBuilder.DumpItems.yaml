@@ -1,0 +1,8 @@
+coordinates:
+  name: MSBuilder.DumpItems
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.5:
+    licensed:
+      declared: MIT
