@@ -1,0 +1,8 @@
+coordinates:
+  name: netfx-System.Collections.Generic.IEnumerable.Traverse
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.0:
+    licensed:
+      declared: Apache License 2.0
