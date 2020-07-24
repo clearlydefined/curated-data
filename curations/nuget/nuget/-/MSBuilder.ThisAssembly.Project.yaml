@@ -1,11 +1,8 @@
 coordinates:
-  name: MSBuilder.CodeTaskAssembly
+  name: MSBuilder.ThisAssembly.Project
   provider: nuget
   type: nuget
 revisions:
-  0.2.4:
-    licensed:
-      declared: MIT
-  0.2.6:
+  0.3.1:
     licensed:
       declared: MIT
