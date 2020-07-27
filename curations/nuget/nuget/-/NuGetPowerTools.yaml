@@ -1,0 +1,8 @@
+coordinates:
+  name: NuGetPowerTools
+  provider: nuget
+  type: nuget
+revisions:
+  0.29.0:
+    licensed:
+      declared: Apache-2.0
