@@ -1,0 +1,8 @@
+coordinates:
+  name: Sleet.Azure
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.5:
+    licensed:
+      declared: MIT
