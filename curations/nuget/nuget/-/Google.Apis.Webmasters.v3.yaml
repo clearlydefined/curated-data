@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Apis.Webmasters.v3
+  provider: nuget
+  type: nuget
+revisions:
+  1.41.0.1578:
+    licensed:
+      declared: Apache license 2.0
