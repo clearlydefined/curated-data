@@ -1,0 +1,8 @@
+coordinates:
+  name: LINQPad
+  provider: nuget
+  type: nuget
+revisions:
+  4.51.3:
+    licensed:
+      declared: OTHER
