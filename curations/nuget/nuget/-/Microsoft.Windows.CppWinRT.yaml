@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Windows.CppWinRT
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.190730.2:
+    licensed:
+      declared: MIT
