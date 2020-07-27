@@ -5,7 +5,7 @@ coordinates:
 revisions:
   1.41.0:
     licensed:
-      declared: Apache license 2.0
+      declared: Apache-2.0
   1.42.0:
     licensed:
       declared: Apache-2.0
