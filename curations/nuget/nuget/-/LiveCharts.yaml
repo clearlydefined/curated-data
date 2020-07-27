@@ -1,0 +1,8 @@
+coordinates:
+  name: LiveCharts
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.7:
+    licensed:
+      declared: MIT
