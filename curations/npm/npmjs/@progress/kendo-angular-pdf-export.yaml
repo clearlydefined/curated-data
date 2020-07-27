@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-pdf-export
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  1.3.1:
+    licensed:
+      declared: OTHER
