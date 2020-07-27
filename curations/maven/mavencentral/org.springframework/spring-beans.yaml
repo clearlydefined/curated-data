@@ -1,0 +1,12 @@
+coordinates:
+  name: spring-beans
+  namespace: org.springframework
+  provider: mavencentral
+  type: maven
+revisions:
+  5.2.6.RELEASE:
+    files:
+      - attributions:
+          - 'Copyright (c) 2002-2020 Pivotal, Inc.'
+        license: ''
+        path: META-INF/notice.txt
