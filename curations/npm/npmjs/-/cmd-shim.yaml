@@ -1,0 +1,8 @@
+coordinates:
+  name: cmd-shim
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.1:
+    licensed:
+      declared: BSD-2-Clause
