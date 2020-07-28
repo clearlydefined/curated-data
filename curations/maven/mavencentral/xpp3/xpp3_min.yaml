@@ -1,0 +1,9 @@
+coordinates:
+  name: xpp3_min
+  namespace: xpp3
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.4c:
+    licensed:
+      declared: XPP AND CC-PDDC
