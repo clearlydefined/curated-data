@@ -14,7 +14,7 @@ revisions:
       declared: BSD-2-Clause
   1.2.2:
     licensed:
-      declared: Other
+      declared: BSD-2-Clause
   1.3.0:
     licensed:
       declared: BSD-2-Clause
