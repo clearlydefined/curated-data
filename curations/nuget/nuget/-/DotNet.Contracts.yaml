@@ -1,0 +1,8 @@
+coordinates:
+  name: DotNet.Contracts
+  provider: nuget
+  type: nuget
+revisions:
+  1.10.10126.4:
+    licensed:
+      declared: MIT
