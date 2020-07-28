@@ -1,0 +1,9 @@
+coordinates:
+  name: nginx
+  namespace: nginx
+  provider: github
+  type: git
+revisions:
+  1d2f499889a192a66c5407d634c9c697edc341cf:
+    licensed:
+      declared: BSD-2-Clause-FreeBSD
