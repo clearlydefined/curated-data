@@ -15,3 +15,6 @@ revisions:
   2.0.289:
     licensed:
       declared: GPL-2.0-only WITH OTHER
+  2.0.306:
+    licensed:
+      declared: GPL-2.0-only AND OTHER
