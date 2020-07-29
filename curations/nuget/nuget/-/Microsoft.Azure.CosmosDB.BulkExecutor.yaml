@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.CosmosDB.BulkExecutor
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.5:
+    licensed:
+      declared: MIT
