@@ -8,4 +8,4 @@ revisions:
       declared: Zlib
   1.11.0:
     licensed:
-      declared: 'MSPL inside source code, Zlib license on Nuget homepage'
+      declared: Zlib
