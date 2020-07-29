@@ -1,0 +1,9 @@
+coordinates:
+  name: ng-file-upload
+  namespace: danialfarid
+  provider: github
+  type: git
+revisions:
+  1fc15e1a757f4e8e78de97126088e53eb668fff5:
+    licensed:
+      declared: MIT
