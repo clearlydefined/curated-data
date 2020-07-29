@@ -1,0 +1,8 @@
+coordinates:
+  name: OfficeUIFabricCore
+  provider: nuget
+  type: nuget
+revisions:
+  9.6.0:
+    licensed:
+      declared: MIT
