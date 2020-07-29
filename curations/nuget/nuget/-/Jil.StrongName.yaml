@@ -1,0 +1,8 @@
+coordinates:
+  name: Jil.StrongName
+  provider: nuget
+  type: nuget
+revisions:
+  2.14.5:
+    licensed:
+      declared: MIT
