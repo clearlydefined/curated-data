@@ -1,0 +1,26 @@
+coordinates:
+  name: GitInfo
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.25:
+    licensed:
+      declared: MIT
+  1.1.59:
+    licensed:
+      declared: MIT
+  2.0.1:
+    licensed:
+      declared: MIT
+  2.0.10:
+    licensed:
+      declared: MIT
+  2.0.17:
+    licensed:
+      declared: MIT 
+  2.0.20:
+    licensed:
+      declared: MIT
+  2.0.26:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: msgpack
+  provider: rubygems
+  type: gem
+revisions:
+  1.0.3:
+    licensed:
+      declared: Apache-2.0

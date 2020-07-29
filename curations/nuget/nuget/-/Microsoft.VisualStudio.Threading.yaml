@@ -6,7 +6,13 @@ revisions:
   14.1.131:
     licensed:
       declared: OTHER
+  15.0.240:
+    licensed:
+      declared: MIT
   15.3.20:
+    licensed:
+      declared: MIT
+  15.3.23:
     licensed:
       declared: MIT
   15.4.4:
@@ -19,6 +25,9 @@ revisions:
     licensed:
       declared: MIT
   15.8.122:
+    licensed:
+      declared: MIT
+  15.8.132:
     licensed:
       declared: MIT
   15.8.209:

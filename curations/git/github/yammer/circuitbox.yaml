@@ -1,0 +1,9 @@
+coordinates:
+  name: circuitbox
+  namespace: yammer
+  provider: github
+  type: git
+revisions:
+  93950e554d848e9345ea817dcc84215693114b95:
+    licensed:
+      declared: Apache-2.0

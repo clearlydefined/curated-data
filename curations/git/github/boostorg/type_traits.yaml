@@ -1,0 +1,9 @@
+coordinates:
+  name: type_traits
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  d91381b8f2f041e139b8e7e689921f5aca0d2574:
+    licensed:
+      declared: BSL-1.0

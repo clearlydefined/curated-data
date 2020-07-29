@@ -1,0 +1,9 @@
+coordinates:
+  name: emscripten
+  namespace: emscripten-core
+  provider: github
+  type: git
+revisions:
+  3903f7babd29a5aa2f7fd60df0f8f2f2a950cab8:
+    licensed:
+      declared: MIT OR NCSA

@@ -30,6 +30,9 @@ revisions:
   2.26.305102204:
     licensed:
       declared: Apache-2.0
+  2.28.0:
+    licensed:
+      declared: Apache-2.0
   2.28.1:
     licensed:
       declared: Apache-2.0
@@ -118,6 +121,9 @@ revisions:
   4.3.0:
     licensed:
       declared: MIT
+  4.4.0:
+    licensed:
+      declared: MIT
   4.4.1:
     licensed:
       declared: MIT
@@ -156,6 +162,9 @@ revisions:
         path: Microsoft.IdentityModel.Clients.ActiveDirectory.nuspec
     licensed:
       declared: MIT
+  5.0.2-preview:
+    licensed:
+      declared: MIT
   5.0.5:
     described:
       sourceLocation:
@@ -176,6 +185,9 @@ revisions:
         revision: 9f4472ab6dff4fa74bddfa622da4ac3823beb4b8
         type: git
         url: 'https://github.com/azuread/azure-activedirectory-library-for-dotnet/commit/9f4472ab6dff4fa74bddfa622da4ac3823beb4b8'
+    licensed:
+      declared: MIT
+  5.1.1:
     licensed:
       declared: MIT
   5.2.0:
@@ -216,5 +228,8 @@ revisions:
         revision: af10dd15cdb082bc3dbe14b0c2c6d81f6ca5b541
         type: git
         url: 'https://github.com/azuread/azure-activedirectory-library-for-dotnet/commit/af10dd15cdb082bc3dbe14b0c2c6d81f6ca5b541'
+    licensed:
+      declared: MIT
+  5.2.8:
     licensed:
       declared: MIT

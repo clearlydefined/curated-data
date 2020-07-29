@@ -1,0 +1,9 @@
+coordinates:
+  name: stacktrace
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  7c7271d9bca2ab6e4abbff2e8ab19cd8027ea7a1:
+    licensed:
+      declared: BSL-1.0

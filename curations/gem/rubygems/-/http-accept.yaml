@@ -1,0 +1,8 @@
+coordinates:
+  name: http-accept
+  provider: rubygems
+  type: gem
+revisions:
+  1.7.0:
+    licensed:
+      declared: MIT

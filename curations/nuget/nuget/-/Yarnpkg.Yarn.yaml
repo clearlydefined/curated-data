@@ -1,0 +1,8 @@
+coordinates:
+  name: Yarnpkg.Yarn
+  provider: nuget
+  type: nuget
+revisions:
+  0.26.1:
+    licensed:
+      declared: BSD-2-Clause

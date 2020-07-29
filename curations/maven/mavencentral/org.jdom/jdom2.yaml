@@ -1,0 +1,9 @@
+coordinates:
+  name: jdom2
+  namespace: org.jdom
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.6:
+    licensed:
+      declared: OTHER

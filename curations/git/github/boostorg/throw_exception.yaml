@@ -1,0 +1,9 @@
+coordinates:
+  name: throw_exception
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  43a57d518cf99fc693eebedefcbaa91074674f54:
+    licensed:
+      declared: BSL-1.0

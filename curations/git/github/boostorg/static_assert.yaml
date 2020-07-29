@@ -1,0 +1,9 @@
+coordinates:
+  name: static_assert
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  233ef6bedd1868437a1c7fb7e7f77c6a1b6e3495:
+    licensed:
+      declared: BSL-1.0

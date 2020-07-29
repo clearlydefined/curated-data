@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Apis.Oauth2.v2
+  provider: nuget
+  type: nuget
+revisions:
+  1.41.0.1602:
+    licensed:
+      declared: Apache-2.0

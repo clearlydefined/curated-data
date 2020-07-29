@@ -12,6 +12,9 @@ revisions:
   1.0.19:
     licensed:
       declared: MIT
+  1.0.2:
+    licensed:
+      declared: MIT
   1.0.22:
     licensed:
       declared: MIT
@@ -61,5 +64,16 @@ revisions:
     licensed:
       declared: MIT
   3.0.7:
+    licensed:
+      declared: MIT
+  3.0.8:
+    described:
+      sourceLocation:
+        name: azure-functions-vs-build-sdk
+        namespace: azure
+        provider: github
+        revision: 480bea4cb41547597eeb0fe874fc4a5a5c83c7e1
+        type: git
+        url: 'https://github.com/azure/azure-functions-vs-build-sdk/commit/480bea4cb41547597eeb0fe874fc4a5a5c83c7e1'
     licensed:
       declared: MIT
