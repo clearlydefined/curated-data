@@ -18,6 +18,9 @@ revisions:
   2020.5.14:
     licensed:
       declared: Python-2.0
+  2020.5.7:
+    licensed:
+      declared: CNRI-Python
   2020.6.8:
     licensed:
       declared: Python-2.0
