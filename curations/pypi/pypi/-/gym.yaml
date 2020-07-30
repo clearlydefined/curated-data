@@ -1,0 +1,8 @@
+coordinates:
+  name: gym
+  provider: pypi
+  type: pypi
+revisions:
+  0.17.2:
+    licensed:
+      declared: MIT
