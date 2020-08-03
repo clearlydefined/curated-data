@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Diagnostics.Tracing.EventSource.Redist
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.1:
+    licensed:
+      declared: MIT
