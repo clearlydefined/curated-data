@@ -1,0 +1,9 @@
+coordinates:
+  name: spdlog
+  namespace: gabime
+  provider: github
+  type: git
+revisions:
+  22a169bc319ac06948e7ee0be6b9b0ac81386604:
+    licensed:
+      declared: MIT
