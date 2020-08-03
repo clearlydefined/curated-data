@@ -1,0 +1,9 @@
+coordinates:
+  name: beats
+  namespace: elastic
+  provider: github
+  type: git
+revisions:
+  1eea934ce81be553337f2828bd12131896fea8e4:
+    licensed:
+      declared: Apache-2.0
