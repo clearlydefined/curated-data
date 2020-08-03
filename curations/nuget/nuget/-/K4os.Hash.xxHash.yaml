@@ -1,0 +1,8 @@
+coordinates:
+  name: K4os.Hash.xxHash
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.6:
+    licensed:
+      declared: MIT
