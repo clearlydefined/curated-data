@@ -6,3 +6,6 @@ revisions:
   3.5.0:
     licensed:
       declared: MS-PL
+  4.65.0:
+    licensed:
+      declared: MS-PL
