@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-popup
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  2.6.0:
+    licensed:
+      declared: OTHER
