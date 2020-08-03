@@ -1,0 +1,14 @@
+coordinates:
+  name: org.jacoco.report
+  namespace: org.jacoco
+  provider: mavencentral
+  type: maven
+revisions:
+  0.8.5:
+    files:
+      - attributions:
+          - Copyright 2011 Mike Samuel
+        license: EPL-2.0
+        path: about.html
+    licensed:
+      declared: EPL-2.0
