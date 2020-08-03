@@ -1,0 +1,8 @@
+coordinates:
+  name: SharePointPnPCoreOnline
+  provider: nuget
+  type: nuget
+revisions:
+  3.20.2004:
+    licensed:
+      declared: MIT
