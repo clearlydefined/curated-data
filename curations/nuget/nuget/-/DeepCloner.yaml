@@ -1,0 +1,8 @@
+coordinates:
+  name: DeepCloner
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.2:
+    licensed:
+      declared: MIT
