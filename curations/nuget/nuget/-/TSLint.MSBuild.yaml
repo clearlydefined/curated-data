@@ -1,11 +1,8 @@
 coordinates:
-  name: angularjs
+  name: TSLint.MSBuild
   provider: nuget
   type: nuget
 revisions:
-  1.5.5:
-    licensed:
-      declared: MIT
-  1.7.8.1:
+  1.2.1:
     licensed:
       declared: MIT

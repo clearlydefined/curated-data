@@ -1,11 +1,8 @@
 coordinates:
-  name: angularjs
+  name: DeepCloner
   provider: nuget
   type: nuget
 revisions:
-  1.5.5:
-    licensed:
-      declared: MIT
-  1.7.8.1:
+  0.10.2:
     licensed:
       declared: MIT

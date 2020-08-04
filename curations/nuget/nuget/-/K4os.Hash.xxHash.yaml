@@ -1,11 +1,8 @@
 coordinates:
-  name: angularjs
+  name: K4os.Hash.xxHash
   provider: nuget
   type: nuget
 revisions:
-  1.5.5:
-    licensed:
-      declared: MIT
-  1.7.8.1:
+  1.0.6:
     licensed:
       declared: MIT
