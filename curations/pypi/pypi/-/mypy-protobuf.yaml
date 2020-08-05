@@ -1,0 +1,8 @@
+coordinates:
+  name: mypy-protobuf
+  provider: pypi
+  type: pypi
+revisions:
+  '1.21':
+    licensed:
+      declared: Apache-2.0
