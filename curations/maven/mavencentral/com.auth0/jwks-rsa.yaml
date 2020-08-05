@@ -1,0 +1,9 @@
+coordinates:
+  name: jwks-rsa
+  namespace: com.auth0
+  provider: mavencentral
+  type: maven
+revisions:
+  0.8.3:
+    licensed:
+      declared: MIT
