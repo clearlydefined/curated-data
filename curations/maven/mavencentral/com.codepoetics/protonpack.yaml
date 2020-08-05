@@ -1,0 +1,9 @@
+coordinates:
+  name: protonpack
+  namespace: com.codepoetics
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.13':
+    licensed:
+      declared: MIT
