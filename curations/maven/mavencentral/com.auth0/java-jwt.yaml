@@ -1,0 +1,9 @@
+coordinates:
+  name: java-jwt
+  namespace: com.auth0
+  provider: mavencentral
+  type: maven
+revisions:
+  3.8.2:
+    licensed:
+      declared: MIT
