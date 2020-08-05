@@ -1,0 +1,8 @@
+coordinates:
+  name: interpret-dashboard
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.14:
+    licensed:
+      declared: NONE
