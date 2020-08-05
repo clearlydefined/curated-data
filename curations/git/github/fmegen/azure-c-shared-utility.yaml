@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-c-shared-utility
+  namespace: fmegen
+  provider: github
+  type: git
+revisions:
+  4c1a492088fdd4a20b012462f78c0dd653003ee2:
+    licensed:
+      declared: MIT
