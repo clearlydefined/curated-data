@@ -1,0 +1,8 @@
+coordinates:
+  name: mypy
+  provider: pypi
+  type: pypi
+revisions:
+  '0.780':
+    licensed:
+      declared: MIT
