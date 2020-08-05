@@ -1,0 +1,9 @@
+coordinates:
+  name: cntk
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  d1925a19d8ddc25202a4a88fb7b2979e445bf6b8:
+    licensed:
+      declared: MIT
