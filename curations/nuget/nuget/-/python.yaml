@@ -1,0 +1,8 @@
+coordinates:
+  name: python
+  provider: nuget
+  type: nuget
+revisions:
+  3.8.5:
+    licensed:
+      declared: Python-2.0
