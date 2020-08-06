@@ -1,0 +1,9 @@
+coordinates:
+  name: folly
+  namespace: facebook
+  provider: github
+  type: git
+revisions:
+  f893bb0a491eedfb080ec520ff111c614ba0aaea:
+    licensed:
+      declared: Apache-2.0
