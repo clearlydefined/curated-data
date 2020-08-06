@@ -1,0 +1,8 @@
+coordinates:
+  name: fusepy
+  provider: pypi
+  type: pypi
+revisions:
+  3.0.1:
+    licensed:
+      declared: ISC
