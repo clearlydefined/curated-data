@@ -1,0 +1,9 @@
+coordinates:
+  name: jquery-qrcode
+  namespace: lrsjng
+  provider: github
+  type: git
+revisions:
+  4b4f1181d0f58babfb09ebebccc675cc13a29f77:
+    licensed:
+      declared: MIT
