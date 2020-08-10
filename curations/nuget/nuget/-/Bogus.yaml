@@ -1,0 +1,8 @@
+coordinates:
+  name: Bogus
+  provider: nuget
+  type: nuget
+revisions:
+  22.0.8:
+    licensed:
+      declared: MIT
