@@ -4,5 +4,10 @@ coordinates:
   type: npm
 revisions:
   2.1.2:
+    files:
+      - license: OTHER
+        path: package/bower.json
+      - license: OTHER
+        path: package/package.json
     licensed:
       declared: OTHER
