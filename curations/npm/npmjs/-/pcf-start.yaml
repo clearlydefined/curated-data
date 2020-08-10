@@ -1,0 +1,8 @@
+coordinates:
+  name: pcf-start
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.6:
+    licensed:
+      declared: OTHER
