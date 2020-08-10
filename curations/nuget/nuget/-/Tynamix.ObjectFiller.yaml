@@ -1,0 +1,8 @@
+coordinates:
+  name: Tynamix.ObjectFiller
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.5:
+    licensed:
+      declared: MIT
