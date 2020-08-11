@@ -1,0 +1,8 @@
+coordinates:
+  name: FontAwesome.WPF
+  provider: nuget
+  type: nuget
+revisions:
+  4.7.0.9:
+    licensed:
+      declared: MIT
