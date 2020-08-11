@@ -1,0 +1,9 @@
+coordinates:
+  name: protobuf-net
+  namespace: mgravell
+  provider: github
+  type: git
+revisions:
+  c533b35cd7cf7a96f6b7afee2163d2501caeea29:
+    licensed:
+      declared: Apache-2.0
