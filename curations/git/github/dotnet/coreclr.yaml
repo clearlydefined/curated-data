@@ -1,0 +1,9 @@
+coordinates:
+  name: coreclr
+  namespace: dotnet
+  provider: github
+  type: git
+revisions:
+  c716068d1df2ed82e16b4d22a73397d753f8186f:
+    licensed:
+      declared: MIT
