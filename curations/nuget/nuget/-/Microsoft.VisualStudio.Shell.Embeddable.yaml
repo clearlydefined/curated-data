@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Shell.Embeddable
+  provider: nuget
+  type: nuget
+revisions:
+  16.6.30107.105:
+    licensed:
+      declared: OTHER
