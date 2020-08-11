@@ -1,0 +1,8 @@
+coordinates:
+  name: Mono.Options-PCL
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.40:
+    licensed:
+      declared: MIT
