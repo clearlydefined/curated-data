@@ -1,0 +1,9 @@
+coordinates:
+  name: roslyn
+  namespace: dotnet
+  provider: github
+  type: git
+revisions:
+  bcd928be7bef0078d2a0e01029a601cc702d2c7a:
+    licensed:
+      declared: Apache-2.0
