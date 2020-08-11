@@ -1,0 +1,9 @@
+coordinates:
+  name: reactive
+  namespace: dotnet
+  provider: github
+  type: git
+revisions:
+  dda12ffa086fd9a19caac9bc3edb6a456c40af0e:
+    licensed:
+      declared: Apache-2.0
