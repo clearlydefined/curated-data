@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.SqlServer.SqlManagementObjects
+  provider: nuget
+  type: nuget
+revisions:
+  160.2004021.0:
+    licensed:
+      declared: OTHER
