@@ -1,0 +1,8 @@
+coordinates:
+  name: MathNet.Numerics.Signed
+  provider: nuget
+  type: nuget
+revisions:
+  4.9.0:
+    licensed:
+      declared: MIT
