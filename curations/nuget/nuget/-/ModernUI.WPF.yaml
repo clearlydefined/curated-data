@@ -1,0 +1,8 @@
+coordinates:
+  name: ModernUI.WPF
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.9:
+    licensed:
+      declared: MS-PL
