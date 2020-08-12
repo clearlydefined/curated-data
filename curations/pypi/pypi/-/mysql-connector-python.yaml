@@ -1,0 +1,8 @@
+coordinates:
+  name: mysql-connector-python
+  provider: pypi
+  type: pypi
+revisions:
+  8.0.13:
+    licensed:
+      declared: GPL-2.0-only AND WITH Universal-FOSS-exception-1.0
