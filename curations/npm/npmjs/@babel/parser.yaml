@@ -1,0 +1,9 @@
+coordinates:
+  name: parser
+  namespace: '@babel'
+  provider: npmjs
+  type: npm
+revisions:
+  7.11.1:
+    licensed:
+      declared: MIT
