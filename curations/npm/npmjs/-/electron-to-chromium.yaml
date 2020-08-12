@@ -1,0 +1,8 @@
+coordinates:
+  name: electron-to-chromium
+  provider: npmjs
+  type: npm
+revisions:
+  1.3.520:
+    licensed:
+      declared: ISC
