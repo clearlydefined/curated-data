@@ -1,0 +1,9 @@
+coordinates:
+  name: groovy-eclipse-compiler
+  namespace: org.codehaus.groovy
+  provider: mavencentral
+  type: maven
+revisions:
+  2.9.2-01:
+    licensed:
+      declared: EPL-1.0
