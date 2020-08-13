@@ -6,6 +6,9 @@ revisions:
   2.0.0-preview-010050001-38:
     licensed:
       declared: OTHER
+  2.1.0-preview-010380001-1099:
+    licensed:
+      declared: OTHER
   3.0.0:
     licensed:
       declared: OTHER
