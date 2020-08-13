@@ -9,3 +9,6 @@ revisions:
   1.0.0-beta2:
     licensed:
       declared: MIT AND BSD-3-Clause
+  5.20.1-preview:
+    licensed:
+      declared: MIT AND OTHER
