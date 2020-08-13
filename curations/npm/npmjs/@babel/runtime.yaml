@@ -1,0 +1,9 @@
+coordinates:
+  name: runtime
+  namespace: '@babel'
+  provider: npmjs
+  type: npm
+revisions:
+  7.11.2:
+    licensed:
+      declared: MIT
