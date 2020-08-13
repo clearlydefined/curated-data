@@ -33,7 +33,7 @@ revisions:
         type: git
         url: 'https://github.com/bcgit/bc-csharp/commit/2f8db0669637e2217fd749ed987377f6ae71e192'
     licensed:
-      declared: MIT        
+      declared: MIT
   1.8.6.7:
     described:
       sourceLocation:
