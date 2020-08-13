@@ -1,0 +1,8 @@
+coordinates:
+  name: QuickGraphPCL
+  provider: nuget
+  type: nuget
+revisions:
+  3.6.61114.2:
+    licensed:
+      declared: MS-PL

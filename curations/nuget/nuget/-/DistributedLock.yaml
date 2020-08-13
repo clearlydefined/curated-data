@@ -1,11 +1,8 @@
 coordinates:
-  name: Bond.Compiler.CSharp
+  name: DistributedLock
   provider: nuget
   type: nuget
 revisions:
-  8.0.0:
-    licensed:
-      declared: MIT
-  8.1.0:
+  1.4.0:
     licensed:
       declared: MIT

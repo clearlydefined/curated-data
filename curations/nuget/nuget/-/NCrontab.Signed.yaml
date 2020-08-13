@@ -1,11 +1,8 @@
 coordinates:
-  name: BuildWebCompiler
+  name: NCrontab.Signed
   provider: nuget
   type: nuget
 revisions:
-  1.11.328:
-    licensed:
-      declared: Apache-2.0
-  1.12.394:
+  3.3.2:
     licensed:
       declared: Apache-2.0

@@ -1,11 +1,8 @@
 coordinates:
-  name: Bond.Compiler.CSharp
+  name: Xamarin.AndroidX.Annotation
   provider: nuget
   type: nuget
 revisions:
-  8.0.0:
-    licensed:
-      declared: MIT
-  8.1.0:
+  1.1.0.1:
     licensed:
       declared: MIT

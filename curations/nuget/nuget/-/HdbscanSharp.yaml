@@ -1,11 +1,8 @@
 coordinates:
-  name: Bond.Compiler.CSharp
+  name: HdbscanSharp
   provider: nuget
   type: nuget
 revisions:
-  8.0.0:
-    licensed:
-      declared: MIT
-  8.1.0:
+  1.0.14:
     licensed:
       declared: MIT

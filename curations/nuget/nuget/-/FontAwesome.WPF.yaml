@@ -1,11 +1,8 @@
 coordinates:
-  name: Bond.Compiler.CSharp
+  name: FontAwesome.WPF
   provider: nuget
   type: nuget
 revisions:
-  8.0.0:
-    licensed:
-      declared: MIT
-  8.1.0:
+  4.7.0.9:
     licensed:
       declared: MIT

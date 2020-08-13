@@ -1,11 +1,8 @@
 coordinates:
-  name: azureml-dataprep-native
+  name: azureml-contrib-services
   provider: pypi
   type: pypi
 revisions:
-  14.1.0:
-    licensed:
-      declared: OTHER
-  14.2.1:
+  1.6.0:
     licensed:
       declared: OTHER

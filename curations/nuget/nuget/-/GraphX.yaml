@@ -1,11 +1,8 @@
 coordinates:
-  name: BuildWebCompiler
+  name: GraphX
   provider: nuget
   type: nuget
 revisions:
-  1.11.328:
-    licensed:
-      declared: Apache-2.0
-  1.12.394:
+  2.3.6:
     licensed:
       declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: caliburn.micro
+  namespace: caliburn-micro
+  provider: github
+  type: git
+revisions:
+  526a6c8a922a99ba2189c651b6fa467e16679075:
+    licensed:
+      declared: MIT

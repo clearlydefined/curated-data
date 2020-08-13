@@ -1,0 +1,8 @@
+coordinates:
+  name: Win2D.uwp
+  provider: nuget
+  type: nuget
+revisions:
+  1.24.0:
+    licensed:
+      declared: OTHER

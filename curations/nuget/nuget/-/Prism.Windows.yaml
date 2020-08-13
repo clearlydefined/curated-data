@@ -1,11 +1,8 @@
 coordinates:
-  name: BuildWebCompiler
+  name: Prism.Windows
   provider: nuget
   type: nuget
 revisions:
-  1.11.328:
-    licensed:
-      declared: Apache-2.0
-  1.12.394:
+  6.3.0:
     licensed:
       declared: Apache-2.0
