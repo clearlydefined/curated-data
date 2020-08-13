@@ -1,0 +1,8 @@
+coordinates:
+  name: redis
+  provider: npmjs
+  type: npm
+revisions:
+  0.7.3:
+    licensed:
+      declared: MIT
