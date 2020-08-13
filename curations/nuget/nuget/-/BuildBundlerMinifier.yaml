@@ -15,3 +15,6 @@ revisions:
   3.2.447:
     licensed:
       declared: Apache-2.0
+  3.2.449:
+    licensed:
+      declared: Apache-2.0
