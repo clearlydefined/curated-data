@@ -1,0 +1,8 @@
+coordinates:
+  name: StringTemplate4
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.8:
+    licensed:
+      declared: BSD-3-Clause
