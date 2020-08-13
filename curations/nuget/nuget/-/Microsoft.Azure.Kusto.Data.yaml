@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Kusto.Data
+  provider: nuget
+  type: nuget
+revisions:
+  8.1.5:
+    licensed:
+      declared: OTHER
