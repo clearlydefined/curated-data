@@ -5,7 +5,7 @@ coordinates:
 revisions:
   6.2.10:
     licensed:
-      declared: MS-PL
+      declared: OTHER
   6.2.3:
     licensed:
       declared: MIT
