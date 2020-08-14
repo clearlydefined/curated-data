@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  3.26.0-GA:
+    licensed:
+      declared: (LGPL-2.1+ OR MPL-1.1) OR Apache-2.0
   3.27.0-GA:
     licensed:
       declared: MPL-1.1 OR LGPL-2.1-or-later OR Apache-2.0
