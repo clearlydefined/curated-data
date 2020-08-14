@@ -1,0 +1,9 @@
+coordinates:
+  name: microsoft.xrm.data.powershell
+  namespace: seanmcne
+  provider: github
+  type: git
+revisions:
+  5f1c17ae02900ac6e4054c9902abce72fec39005:
+    licensed:
+      declared: MS-PL

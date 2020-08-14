@@ -1,0 +1,9 @@
+coordinates:
+  name: adal4j
+  namespace: com.microsoft.aad
+  provider: mavencentral
+  type: maven
+revisions:
+  0.0.2:
+    licensed:
+      declared: Apache-2.0
