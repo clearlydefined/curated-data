@@ -1,0 +1,8 @@
+coordinates:
+  name: OpenXmlPowerTools
+  provider: nuget
+  type: nuget
+revisions:
+  4.5.3.2:
+    licensed:
+      declared: MS-PL
