@@ -15,3 +15,6 @@ revisions:
         path: META-INF/MANIFEST.MF
     licensed:
       declared: MIT
+  '1.66':
+    licensed:
+      declared: MIT
