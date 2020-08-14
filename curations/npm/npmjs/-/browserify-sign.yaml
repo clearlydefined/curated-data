@@ -1,0 +1,8 @@
+coordinates:
+  name: browserify-sign
+  provider: npmjs
+  type: npm
+revisions:
+  4.2.1:
+    licensed:
+      declared: ISC
