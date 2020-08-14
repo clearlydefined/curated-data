@@ -1,0 +1,9 @@
+coordinates:
+  name: ctpl
+  namespace: vit-vit
+  provider: github
+  type: git
+revisions:
+  437e135dbd94eb65b45533d9ce8ee28b5bd37b6d:
+    licensed:
+      declared: Apache-2.0
