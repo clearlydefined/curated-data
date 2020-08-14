@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Kusto.Cloud.Platform
+  provider: nuget
+  type: nuget
+revisions:
+  8.0.1:
+    licensed:
+      declared: OTHER
