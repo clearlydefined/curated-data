@@ -1,0 +1,9 @@
+coordinates:
+  name: trove4j
+  namespace: org.jetbrains.intellij.deps
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.20181211:
+    licensed:
+      declared: LGPL-2.1
