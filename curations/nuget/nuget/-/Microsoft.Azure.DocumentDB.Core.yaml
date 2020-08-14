@@ -7,7 +7,6 @@ revisions:
     licensed:
       declared: NOASSERTION
   2.11.3:
-    described:
     licensed:
       declared: MIT
   2.4.0:
