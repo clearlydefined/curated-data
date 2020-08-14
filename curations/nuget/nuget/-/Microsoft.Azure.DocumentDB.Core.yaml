@@ -6,6 +6,17 @@ revisions:
   2.1.3:
     licensed:
       declared: NOASSERTION
+  2.11.3:
+    described:
+      sourceLocation:
+        name: azure-cosmos-dotnet-v2
+        namespace: azure
+        provider: github
+        revision: 24bd6fb603d8f13c7fcc7dcd53734a91b52c43b3
+        type: git
+        url: 'https://github.com/azure/azure-cosmos-dotnet-v2/commit/24bd6fb603d8f13c7fcc7dcd53734a91b52c43b3'
+    licensed:
+      declared: MIT
   2.4.0:
     described:
       sourceLocation:
