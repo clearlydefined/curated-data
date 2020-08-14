@@ -1,0 +1,16 @@
+coordinates:
+  name: Microsoft.Azure.WebJobs.Extensions.Storage
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.2:
+    described:
+      sourceLocation:
+        name: azure-webjobs-sdk
+        namespace: azure
+        provider: github
+        revision: 2593d4f12c14c3ca609faaf90805eaa2a808c29f
+        type: git
+        url: 'https://github.com/azure/azure-webjobs-sdk/commit/2593d4f12c14c3ca609faaf90805eaa2a808c29f'
+    licensed:
+      declared: OTHER
