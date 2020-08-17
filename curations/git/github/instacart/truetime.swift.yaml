@@ -1,0 +1,12 @@
+coordinates:
+  name: truetime.swift
+  namespace: instacart
+  provider: github
+  type: git
+revisions:
+  14c2d65554d687c228b0097a2bcf4e15de5f697f:
+    files:
+      - attributions:
+          - Copyright (c) 2014 Coraline Ada Ehmke
+        license: MIT
+        path: CODE_OF_CONDUCT.md
