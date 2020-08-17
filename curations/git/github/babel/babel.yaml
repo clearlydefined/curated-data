@@ -1,0 +1,10 @@
+coordinates:
+  name: babel
+  namespace: babel
+  provider: github
+  type: git
+revisions:
+  7fd40d86a0d03ff0e9c3ea16b29689945433d4df:
+    files:
+      - license: CC-BY-SA-4.0
+        path: packages/babel-core/test/config-chain.js
