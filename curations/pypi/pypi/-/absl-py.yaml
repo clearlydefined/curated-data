@@ -1,0 +1,14 @@
+coordinates:
+  name: absl-py
+  provider: pypi
+  type: pypi
+revisions:
+  0.9.0:
+    described:
+      sourceLocation:
+        name: abseil-py
+        namespace: abseil
+        provider: github
+        revision: 06edd9c20592cec39178b94240b5e86f32e19768
+        type: git
+        url: 'https://github.com/abseil/abseil-py/commit/06edd9c20592cec39178b94240b5e86f32e19768'
