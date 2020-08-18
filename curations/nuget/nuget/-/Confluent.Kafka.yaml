@@ -39,6 +39,9 @@ revisions:
   1.0.0-rc4:
     licensed:
       declared: Apache-2.0 AND BSD-2-Clause
+  1.0.1.1:
+    licensed:
+      declared: Apache-2.0
   1.1.0:
     licensed:
       declared: Apache-2.0 AND BSD-2-Clause
