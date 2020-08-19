@@ -13,3 +13,6 @@ revisions:
   1.4.197:
     licensed:
       declared: MPL-2.0 OR EPL-1.0
+  1.4.200:
+    licensed:
+      declared: MPL-2.0 AND EPL-1.0
