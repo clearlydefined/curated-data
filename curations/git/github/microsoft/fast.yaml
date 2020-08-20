@@ -1,0 +1,10 @@
+coordinates:
+  name: fast
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  cb339f92824034d048f5e840633ed3d7ded6b009:
+    files:
+      - license: CC-BY-4.0
+        path: CODE_OF_CONDUCT.md
