@@ -1,0 +1,9 @@
+coordinates:
+  name: css-mediaquery
+  namespace: ericf
+  provider: github
+  type: git
+revisions:
+  315b8f2324f29b517a1a9dbb5dd2d2ba6c921f11:
+    licensed:
+      declared: BSD-3-Clause
