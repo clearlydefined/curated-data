@@ -6,6 +6,9 @@ revisions:
   3.0.1-dev0028:
     licensed:
       declared: MIT
+  3.0.1.66:
+    licensed:
+      declared: MIT
   3.0.2.4:
     licensed:
       declared: MIT
