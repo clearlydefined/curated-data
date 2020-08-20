@@ -1,0 +1,9 @@
+coordinates:
+  name: nss-altfiles
+  namespace: aperezdc
+  provider: github
+  type: git
+revisions:
+  20fb62c61aad40c311c2c43ea2f7bd051015ca52:
+    licensed:
+      declared: LGPL-2.1-only
