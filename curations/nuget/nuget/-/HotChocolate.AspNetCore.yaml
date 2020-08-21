@@ -1,0 +1,8 @@
+coordinates:
+  name: HotChocolate.AspNetCore
+  provider: nuget
+  type: nuget
+revisions:
+  10.5.2:
+    licensed:
+      declared: MIT
