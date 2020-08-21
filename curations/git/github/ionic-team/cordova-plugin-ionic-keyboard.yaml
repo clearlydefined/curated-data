@@ -1,0 +1,9 @@
+coordinates:
+  name: cordova-plugin-ionic-keyboard
+  namespace: ionic-team
+  provider: github
+  type: git
+revisions:
+  147409df732a8e49eaf359e8f3039dc86ebcf8c7:
+    licensed:
+      declared: MIT
