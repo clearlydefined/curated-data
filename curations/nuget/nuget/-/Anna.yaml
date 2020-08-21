@@ -1,11 +1,8 @@
 coordinates:
-  name: Sprache
+  name: Anna
   provider: nuget
   type: nuget
 revisions:
-  1.10.0.35:
+  1.0.0:
     licensed:
       declared: MIT
-  2.3.0:
-    licensed:
-      declared: MIT  
