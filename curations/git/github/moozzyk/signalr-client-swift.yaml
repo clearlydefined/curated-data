@@ -1,0 +1,12 @@
+coordinates:
+  name: signalr-client-swift
+  namespace: moozzyk
+  provider: github
+  type: git
+revisions:
+  15e489979ee13b33c3f903a9e499544a94cc3125:
+    files:
+      - attributions:
+          - Copyright (c) 2017 Pawel Kadluczka
+        license: MIT
+        path: LICENSE
