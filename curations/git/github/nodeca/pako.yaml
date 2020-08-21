@@ -1,0 +1,9 @@
+coordinates:
+  name: pako
+  namespace: nodeca
+  provider: github
+  type: git
+revisions:
+  a718e4f6e5ce87b0964d8f84541d92a23263365b:
+    licensed:
+      declared: MIT
