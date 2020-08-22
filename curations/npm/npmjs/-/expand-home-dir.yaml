@@ -1,0 +1,8 @@
+coordinates:
+  name: expand-home-dir
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.3:
+    licensed:
+      declared: 0BSD
