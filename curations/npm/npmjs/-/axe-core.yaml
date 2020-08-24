@@ -1,0 +1,8 @@
+coordinates:
+  name: axe-core
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.1:
+    licensed:
+      declared: MPL-2.0
