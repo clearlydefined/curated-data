@@ -1,0 +1,9 @@
+coordinates:
+  name: lldpd
+  namespace: vincentbernat
+  provider: github
+  type: git
+revisions:
+  2bab421823de74776960526c73d5ef6f89644377:
+    licensed:
+      declared: ISC
