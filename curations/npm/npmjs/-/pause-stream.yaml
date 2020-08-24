@@ -5,4 +5,4 @@ coordinates:
 revisions:
   0.0.11:
     licensed:
-      declared: MIT AND Apache-2.0
+      declared: MIT OR Apache-2.0
