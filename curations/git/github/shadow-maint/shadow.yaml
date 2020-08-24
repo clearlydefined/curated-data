@@ -1,0 +1,9 @@
+coordinates:
+  name: shadow
+  namespace: shadow-maint
+  provider: github
+  type: git
+revisions:
+  607f1dd549cf9abc87af1cf29275f0d2d11eea29:
+    licensed:
+      declared: OTHER OR BSD-3-Clause

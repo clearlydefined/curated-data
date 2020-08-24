@@ -1,11 +1,8 @@
 coordinates:
-  name: altcover
+  name: CsvExport
   provider: nuget
   type: nuget
 revisions:
-  5.2.667:
-    licensed:
-      declared: MIT
-  6.2.727:
+  1.0.1:
     licensed:
       declared: MIT
