@@ -1,0 +1,8 @@
+coordinates:
+  name: vsts-npm-auth
+  provider: npmjs
+  type: npm
+revisions:
+  0.31.2:
+    licensed:
+      declared: GPL-3.0
