@@ -5,5 +5,10 @@ coordinates:
   type: git
 revisions:
   f893bb0a491eedfb080ec520ff111c614ba0aaea:
+    files:
+      - attributions:
+          - 'Copyright (c) 2014 Google, Inc.'
+        license: Apache-2.0
+        path: LICENSE
     licensed:
       declared: Apache-2.0
