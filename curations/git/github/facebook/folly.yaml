@@ -10,5 +10,9 @@ revisions:
           - 'Copyright (c) 2014 Google, Inc.'
         license: Apache-2.0
         path: LICENSE
+      - attributions:
+          - 'Copyright (c) Facebook, Inc. and its affiliates.'
+        license: BSD-3-Clause OR LGPL-2.1-only
+        path: folly/hash/Hash.h
     licensed:
       declared: Apache-2.0
