@@ -1,0 +1,8 @@
+coordinates:
+  name: MvvmLightLibs
+  provider: nuget
+  type: nuget
+revisions:
+  5.4.1.1:
+    licensed:
+      declared: MIT
