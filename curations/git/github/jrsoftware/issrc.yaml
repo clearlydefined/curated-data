@@ -1,0 +1,9 @@
+coordinates:
+  name: issrc
+  namespace: jrsoftware
+  provider: github
+  type: git
+revisions:
+  03fe8f4edb3e96c7835c9483052625bbedb160f2:
+    licensed:
+      declared: OTHER
