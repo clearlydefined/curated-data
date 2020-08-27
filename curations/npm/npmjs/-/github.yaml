@@ -1,0 +1,8 @@
+coordinates:
+  name: github
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1:
+    licensed:
+      declared: MIT
