@@ -1,0 +1,8 @@
+coordinates:
+  name: vsda
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.1:
+    licensed:
+      declared: MIT
