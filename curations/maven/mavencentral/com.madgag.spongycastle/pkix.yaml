@@ -1,0 +1,9 @@
+coordinates:
+  name: pkix
+  namespace: com.madgag.spongycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  1.54.0.0:
+    licensed:
+      declared: MIT
