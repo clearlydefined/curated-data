@@ -11,8 +11,11 @@ revisions:
       declared: Apache-2.0 AND BSD-3-Clause
   2.3.2:
     licensed:
-      declared: Apache-2.0 AND BSD-3-Clause  
+      declared: Apache-2.0 AND BSD-3-Clause
   2.3.4:
+    licensed:
+      declared: Apache-2.0 AND BSD-3-Clause
+  2.3.7:
     licensed:
       declared: Apache-2.0 AND BSD-3-Clause
   2.4.0:
