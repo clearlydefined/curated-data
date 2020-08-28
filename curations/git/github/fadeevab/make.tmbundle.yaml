@@ -1,0 +1,9 @@
+coordinates:
+  name: make.tmbundle
+  namespace: fadeevab
+  provider: github
+  type: git
+revisions:
+  e36e02becd20730259b0115d9ca5c419f65023a9:
+    licensed:
+      declared: MIT AND OTHER
