@@ -1,0 +1,9 @@
+coordinates:
+  name: rvm
+  namespace: rvm
+  provider: github
+  type: git
+revisions:
+  cc69ed9c377df6a6b01c095613719164fdf72882:
+    licensed:
+      declared: Apache-2.0
