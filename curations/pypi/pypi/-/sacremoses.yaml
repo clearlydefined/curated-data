@@ -15,3 +15,6 @@ revisions:
         path: sacremoses-0.0.40/README.md
     licensed:
       declared: LGPL-2.1-or-later
+  0.0.41:
+    licensed:
+      declared: LGPL-2.1-or-later
