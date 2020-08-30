@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.CrmSdk.CoreAssemblies
+  provider: nuget
+  type: nuget
+revisions:
+  9.0.2.4:
+    licensed:
+      declared: OTHER
