@@ -1,0 +1,8 @@
+coordinates:
+  name: creole
+  provider: rubygems
+  type: gem
+revisions:
+  0.3.6:
+    licensed:
+      declared: Ruby
