@@ -1,0 +1,8 @@
+coordinates:
+  name: toarray
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1:
+    licensed:
+      declared: BSD-4-Clause
