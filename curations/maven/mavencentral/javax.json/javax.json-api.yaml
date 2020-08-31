@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.json-api
+  namespace: javax.json
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: CDDL-1.1 GPL-1.0-or-later GPL-2.0-only
