@@ -1,0 +1,8 @@
+coordinates:
+  name: pathname-common_prefix
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.1:
+    licensed:
+      declared: Ruby
