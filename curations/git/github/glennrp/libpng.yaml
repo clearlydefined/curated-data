@@ -17,6 +17,9 @@ revisions:
         path: LICENSE
     licensed:
       declared: libpng-2.0
+  dbe3e0c43e549a1602286144d94b0666549b18e6:
+    licensed:
+      declared: libpng-2.0
   eddf9023206dc40974c26f589ee2ad63a4227a1e:
     licensed:
       declared: Libpng
