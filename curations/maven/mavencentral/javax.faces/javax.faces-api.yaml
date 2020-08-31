@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.faces-api
+  namespace: javax.faces
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.2':
+    licensed:
+      declared: GPL-1.0 CDDL-1.0
