@@ -26,8 +26,6 @@ revisions:
       declared: MIT
   '1.65.01':
     urls:
-      download: >-
-        https://search.maven.org/remotecontent?filepath=org/bouncycastle/bcprov-jdk15on/1.65.01/bcprov-jdk15on-1.65.01.jar
       registry: 'http://central.maven.org/maven2/org/bouncycastle/bcprov-jdk15on'
       version: 'http://central.maven.org/maven2/org/bouncycastle/bcprov-jdk15on/1.65.01'
     licensed:
