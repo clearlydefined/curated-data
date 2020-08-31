@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.ejb-api
+  namespace: javax.ejb
+  provider: mavencentral
+  type: maven
+revisions:
+  '3.2':
+    licensed:
+      declared: CDDL-1.0 GPL-2.0-only
