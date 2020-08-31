@@ -31,8 +31,7 @@ revisions:
       provider: mavencentral
       revision: '1.65.01'
       type: sourcearchive
-      url: >-
-        https://search.maven.org/remotecontent?filepath=org/bouncycastle/bcprov-jdk15on/1.65.01/bcprov-jdk15on-1.65.01-sources.jar
+      url: 'https://search.maven.org/remotecontent?filepath=org/bouncycastle/bcprov-jdk15on/1.65.01/bcprov-jdk15on-1.65.01-sources.jar'
     urls:
       download: >-
         https://search.maven.org/remotecontent?filepath=org/bouncycastle/bcprov-jdk15on/1.65.01/bcprov-jdk15on-1.65.01.jar
