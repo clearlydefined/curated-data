@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.el-api
+  namespace: javax.el
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.0:
+    licensed:
+      declared: GPL-1.0-only GPL-2.0-only CDDL-1.0
