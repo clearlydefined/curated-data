@@ -1,0 +1,8 @@
+coordinates:
+  name: promise.rb
+  provider: rubygems
+  type: gem
+revisions:
+  0.7.4:
+    licensed:
+      declared: Unlicense
