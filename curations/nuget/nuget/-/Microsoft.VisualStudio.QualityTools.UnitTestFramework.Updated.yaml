@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.QualityTools.UnitTestFramework.Updated
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.26228:
+    licensed:
+      declared: NONE
