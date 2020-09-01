@@ -1,0 +1,8 @@
+coordinates:
+  name: RabbitMQ.Client
+  provider: nuget
+  type: nuget
+revisions:
+  5.1.0:
+    licensed:
+      declared: Apache-2.0 OR MPL-1.1
