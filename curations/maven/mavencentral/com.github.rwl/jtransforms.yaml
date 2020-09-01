@@ -1,0 +1,9 @@
+coordinates:
+  name: jtransforms
+  namespace: com.github.rwl
+  provider: mavencentral
+  type: maven
+revisions:
+  2.4.0:
+    licensed:
+      declared: GPL-2.0-with-classpath-exception
