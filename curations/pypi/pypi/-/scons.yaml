@@ -1,0 +1,27 @@
+coordinates:
+  name: scons
+  provider: pypi
+  type: pypi
+revisions:
+  3.1.1:
+    described:
+      sourceLocation:
+        name: scons
+        namespace: scons
+        provider: github
+        revision: 72ae09dc35ac2626f8ff711d8c4b30b6138e08e3
+        type: git
+        url: 'https://github.com/scons/scons/commit/72ae09dc35ac2626f8ff711d8c4b30b6138e08e3'
+    licensed:
+      declared: MIT
+  3.1.2:
+    described:
+      sourceLocation:
+        name: scons
+        namespace: scons
+        provider: github
+        revision: 5828924c3dd46532c2dd85f4b6da22802c9e453e
+        type: git
+        url: 'https://github.com/scons/scons/commit/5828924c3dd46532c2dd85f4b6da22802c9e453e'
+    licensed:
+      declared: MIT
