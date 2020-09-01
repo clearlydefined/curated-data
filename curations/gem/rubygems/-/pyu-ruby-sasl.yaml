@@ -1,0 +1,8 @@
+coordinates:
+  name: pyu-ruby-sasl
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.3.3:
+    licensed:
+      declared: MIT
