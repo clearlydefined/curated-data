@@ -1,0 +1,8 @@
+coordinates:
+  name: MSBuild.Microsoft.VisualStudio.Web.targets
+  provider: nuget
+  type: nuget
+revisions:
+  14.0.0.3:
+    licensed:
+      declared: MS-PL
