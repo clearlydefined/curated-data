@@ -1,0 +1,8 @@
+coordinates:
+  name: nio4r
+  provider: rubygems
+  type: gem
+revisions:
+  2.5.2:
+    licensed:
+      declared: MIT
