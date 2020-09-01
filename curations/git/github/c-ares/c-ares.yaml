@@ -1,0 +1,9 @@
+coordinates:
+  name: c-ares
+  namespace: c-ares
+  provider: github
+  type: git
+revisions:
+  9f1fdbf5dd633f81352fac0d6bc0d0c4d45be459:
+    licensed:
+      declared: MIT
