@@ -1,0 +1,8 @@
+coordinates:
+  name: node-idevice
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.6:
+    licensed:
+      declared: NONE
