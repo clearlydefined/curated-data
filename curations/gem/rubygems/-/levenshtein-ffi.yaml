@@ -1,0 +1,8 @@
+coordinates:
+  name: levenshtein-ffi
+  provider: rubygems
+  type: gem
+revisions:
+  1.1.0:
+    licensed:
+      declared: BSD-2-Clause

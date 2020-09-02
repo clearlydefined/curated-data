@@ -1,11 +1,8 @@
 coordinates:
-  name: redis
+  name: type-component
   provider: npmjs
   type: npm
 revisions:
-  0.12.1:
-    licensed:
-      declared: MIT
-  0.7.3:
+  0.0.1:
     licensed:
       declared: MIT
