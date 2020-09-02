@@ -1,0 +1,8 @@
+coordinates:
+  name: failbot
+  provider: rubygems
+  type: gem
+revisions:
+  2.0.1:
+    licensed:
+      declared: MIT
