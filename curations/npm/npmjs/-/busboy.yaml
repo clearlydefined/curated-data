@@ -3,6 +3,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.2.11:
+    licensed:
+      declared: MIT
   0.2.14:
     licensed:
       declared: MIT
