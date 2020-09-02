@@ -1,0 +1,8 @@
+coordinates:
+  name: rgeo
+  provider: rubygems
+  type: gem
+revisions:
+  0.4.0:
+    licensed:
+      declared: AFL-2.0
