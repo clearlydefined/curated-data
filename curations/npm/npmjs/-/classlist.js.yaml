@@ -1,0 +1,8 @@
+coordinates:
+  name: classlist.js
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.20150312:
+    licensed:
+      declared: Unlicense
