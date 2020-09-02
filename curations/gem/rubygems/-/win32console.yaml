@@ -1,0 +1,8 @@
+coordinates:
+  name: win32console
+  provider: rubygems
+  type: gem
+revisions:
+  1.3.2:
+    licensed:
+      declared: Artistic-2.0
