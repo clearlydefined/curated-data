@@ -1,0 +1,8 @@
+coordinates:
+  name: ruby-maven-libs
+  provider: rubygems
+  type: gem
+revisions:
+  3.3.9:
+    licensed:
+      declared: Apache-2.0
