@@ -1,0 +1,9 @@
+coordinates:
+  name: paradise_2.12.9
+  namespace: org.scalamacros
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.0:
+    licensed:
+      declared: BSD-3-Clause
