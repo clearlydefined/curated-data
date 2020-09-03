@@ -8,4 +8,4 @@ revisions:
       declared: BSD-2-Clause OR Ruby
   2.3.0:
     licensed:
-      declared: Ruby
+      declared: BSD-2-Clause OR Ruby
