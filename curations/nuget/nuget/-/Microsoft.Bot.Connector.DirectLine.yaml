@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Bot.Connector.DirectLine
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.2:
+    licensed:
+      declared: NONE
