@@ -1,0 +1,8 @@
+coordinates:
+  name: mash
+  provider: rubygems
+  type: gem
+revisions:
+  0.1.1:
+    licensed:
+      declared: MIT
