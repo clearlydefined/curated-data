@@ -15,6 +15,9 @@ revisions:
   2.0.289:
     licensed:
       declared: GPL-2.0-only WITH OTHER
+  2.0.298:
+    licensed:
+      declared: MIT
   2.0.306:
     licensed:
       declared: GPL-2.0-only WITH OTHER
