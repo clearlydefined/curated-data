@@ -1,0 +1,9 @@
+coordinates:
+  name: hibernate-jpa-2.1-api
+  namespace: org.hibernate.javax.persistence
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0.Final:
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause
