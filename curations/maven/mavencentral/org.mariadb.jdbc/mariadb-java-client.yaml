@@ -1,0 +1,9 @@
+coordinates:
+  name: mariadb-java-client
+  namespace: org.mariadb.jdbc
+  provider: mavencentral
+  type: maven
+revisions:
+  2.2.5:
+    licensed:
+      declared: LGPL-2.1-or-later
