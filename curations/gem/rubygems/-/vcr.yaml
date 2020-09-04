@@ -1,0 +1,8 @@
+coordinates:
+  name: vcr
+  provider: rubygems
+  type: gem
+revisions:
+  5.1.0:
+    licensed:
+        declared: OTHER
