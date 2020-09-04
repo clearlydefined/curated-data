@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Data.Tools.Msbuild
+  provider: nuget
+  type: nuget
+revisions:
+  10.0.61804.210:
+    licensed:
+      declared: OTHER

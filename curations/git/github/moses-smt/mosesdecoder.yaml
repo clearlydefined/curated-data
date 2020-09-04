@@ -1,0 +1,9 @@
+coordinates:
+  name: mosesdecoder
+  namespace: moses-smt
+  provider: github
+  type: git
+revisions:
+  78ca5f3cc5aa671a8a5d36c56452e217e6f00828:
+    licensed:
+      declared: LGPL-2.1-only

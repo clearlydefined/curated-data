@@ -1,0 +1,9 @@
+coordinates:
+  name: api-common
+  namespace: com.google.api
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.0:
+    licensed:
+      declared: BSD-3-Clause

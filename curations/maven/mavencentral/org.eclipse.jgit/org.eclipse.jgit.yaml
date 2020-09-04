@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.jgit
+  namespace: org.eclipse.jgit
+  provider: mavencentral
+  type: maven
+revisions:
+  4.5.0.201609210915-r:
+    licensed:
+      declared: BSD-3-Clause

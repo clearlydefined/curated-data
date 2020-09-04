@@ -1,0 +1,8 @@
+coordinates:
+  name: geojson-diff
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.1:
+    licensed:
+      declared: MIT
