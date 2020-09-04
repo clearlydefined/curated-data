@@ -30,6 +30,9 @@ revisions:
   1.7.0.post1:
     licensed:
       declared: OTHER
+  1.8.0:
+    licensed:
+      declared: OTHER
   1.9.0:
     licensed:
       declared: OTHER
