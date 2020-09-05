@@ -11,4 +11,4 @@ revisions:
       declared: LGPL-2.1-or-later
   2.7.2:
     licensed:
-      declared: LGPL-2.1-only
+      declared: LGPL-2.1-or-later
