@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.1304:
+    licensed:
+      declared: NONE
