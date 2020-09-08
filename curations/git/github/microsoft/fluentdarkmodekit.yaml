@@ -1,0 +1,9 @@
+coordinates:
+  name: fluentdarkmodekit
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  068b756cb6e8f6a4ebffa3f43983bfab0d2fa532:
+    licensed:
+      declared: MIT
