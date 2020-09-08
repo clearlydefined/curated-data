@@ -1,0 +1,8 @@
+coordinates:
+  name: Sarif.Sdk
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0-csd.1.0.3:
+    licensed:
+      declared: MIT
