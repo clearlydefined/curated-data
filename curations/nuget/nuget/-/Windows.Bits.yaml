@@ -1,0 +1,8 @@
+coordinates:
+  name: Windows.Bits
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.4:
+    licensed:
+      declared: MIT
