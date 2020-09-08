@@ -66,6 +66,9 @@ revisions:
   0.26.0-preview-0080:
     licensed:
       declared: MIT
+  0.26.0-rc1:
+    licensed:
+      declared: MIT
   0.26.1:
     licensed:
       declared: MIT
