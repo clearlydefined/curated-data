@@ -1,0 +1,8 @@
+coordinates:
+  name: ruby-maven
+  provider: rubygems
+  type: gem
+revisions:
+  3.3.12:
+    licensed:
+      declared: EPL-1.0
