@@ -1,0 +1,9 @@
+coordinates:
+  name: graal-sdk
+  namespace: org.graalvm.sdk
+  provider: mavencentral
+  type: maven
+revisions:
+  20.1.0:
+    licensed:
+      declared: UPL-1.0
