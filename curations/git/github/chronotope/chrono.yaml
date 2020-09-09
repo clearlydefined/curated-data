@@ -1,0 +1,10 @@
+coordinates:
+  name: chrono
+  namespace: chronotope
+  provider: github
+  type: git
+revisions:
+  59059352c1f0b837e296bcab04f04dc879d4e235:
+    files:
+      - license: Apache-2.0 AND MIT
+        path: Cargo.toml
