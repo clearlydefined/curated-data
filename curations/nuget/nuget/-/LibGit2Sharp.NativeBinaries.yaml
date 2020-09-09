@@ -9,10 +9,16 @@ revisions:
   1.0.81:
     licensed:
       declared: GPL-2.0-only WITH OTHER
+  2.0.263:
+    licensed:
+      declared: GPL-2.0-only WITH OTHER
   2.0.267:
     licensed:
       declared: GPL-2.0-only WITH OTHER
   2.0.289:
+    licensed:
+      declared: GPL-2.0-only WITH OTHER
+  2.0.298:
     licensed:
       declared: GPL-2.0-only WITH OTHER
   2.0.306:

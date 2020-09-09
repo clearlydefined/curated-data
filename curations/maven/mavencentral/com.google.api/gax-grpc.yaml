@@ -1,0 +1,9 @@
+coordinates:
+  name: gax-grpc
+  namespace: com.google.api
+  provider: mavencentral
+  type: maven
+revisions:
+  1.47.1:
+    licensed:
+      declared: BSD-3-Clause

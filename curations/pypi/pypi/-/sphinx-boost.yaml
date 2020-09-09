@@ -1,0 +1,8 @@
+coordinates:
+  name: sphinx-boost
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.3:
+    licensed:
+      declared: BSL-1.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: repoze.lru
+  provider: pypi
+  type: pypi
+revisions:
+  '0.7':
+    licensed:
+      declared: ZPL-2.1

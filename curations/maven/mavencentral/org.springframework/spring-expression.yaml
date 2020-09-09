@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-expression
+  namespace: org.springframework
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.2.RELEASE:
+    licensed:
+      declared: Apache-2.0
