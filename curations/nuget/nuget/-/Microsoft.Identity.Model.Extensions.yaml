@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Identity.Model.Extensions
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.1459:
+    licensed:
+      declared: NONE
