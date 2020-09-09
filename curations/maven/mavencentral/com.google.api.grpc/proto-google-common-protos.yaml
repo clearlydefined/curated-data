@@ -1,0 +1,9 @@
+coordinates:
+  name: proto-google-common-protos
+  namespace: com.google.api.grpc
+  provider: mavencentral
+  type: maven
+revisions:
+  1.16.0:
+    licensed:
+      declared: Apache-2.0
