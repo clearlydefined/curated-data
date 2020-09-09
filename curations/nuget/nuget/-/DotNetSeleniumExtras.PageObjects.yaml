@@ -1,0 +1,8 @@
+coordinates:
+  name: DotNetSeleniumExtras.PageObjects
+  provider: nuget
+  type: nuget
+revisions:
+  3.11.0:
+    licensed:
+      declared: NONE
