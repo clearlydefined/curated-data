@@ -20,3 +20,5 @@ revisions:
         revision: 0b97c416e42a184ff9728877b461c616187c58f7
         type: git
         url: 'https://github.com/qos-ch/slf4j/commit/0b97c416e42a184ff9728877b461c616187c58f7'
+    licensed:
+      declared: MIT
