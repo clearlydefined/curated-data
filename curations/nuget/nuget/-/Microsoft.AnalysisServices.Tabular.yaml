@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.AnalysisServices.Tabular
+  provider: nuget
+  type: nuget
+revisions:
+  13.0.2150.3:
+    licensed:
+      declared: NONE
