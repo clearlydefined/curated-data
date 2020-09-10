@@ -1,0 +1,8 @@
+coordinates:
+  name: Antlr4.Runtime.Standard
+  provider: nuget
+  type: nuget
+revisions:
+  4.8.0:
+    licensed:
+      declared: BSD-3-Clause
