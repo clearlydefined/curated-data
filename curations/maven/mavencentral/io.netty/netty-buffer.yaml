@@ -1,0 +1,12 @@
+coordinates:
+  name: netty-buffer
+  namespace: io.netty
+  provider: mavencentral
+  type: maven
+revisions:
+  4.1.52.Final:
+    described:
+      facets:
+        dev:
+          - buffer/**
+      releaseDate: '2020-09-08'
