@@ -1,0 +1,8 @@
+coordinates:
+  name: Cake.Git
+  provider: nuget
+  type: nuget
+revisions:
+  0.21.0:
+    licensed:
+      declared: MIT
