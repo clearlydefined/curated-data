@@ -1,0 +1,9 @@
+coordinates:
+  name: libzippp
+  namespace: ctabin
+  provider: github
+  type: git
+revisions:
+  fb07ca80ebda0576366619b87364b4b3a94426df:
+    licensed:
+      declared: BSD-3-Clause
