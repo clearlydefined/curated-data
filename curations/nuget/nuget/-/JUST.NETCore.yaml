@@ -1,0 +1,8 @@
+coordinates:
+  name: JUST.NETCore
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.3:
+    licensed:
+      declared: MIT
