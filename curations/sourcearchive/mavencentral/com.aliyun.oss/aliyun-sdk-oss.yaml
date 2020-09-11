@@ -1,0 +1,15 @@
+coordinates:
+  name: aliyun-sdk-oss
+  namespace: com.aliyun.oss
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.8.3:
+    described:
+      sourceLocation:
+        name: aliyun-oss-java-sdk
+        namespace: aliyun
+        provider: github
+        revision: cd8e46e70781911bcf5fffe093f8e89935810281
+        type: git
+        url: 'https://github.com/aliyun/aliyun-oss-java-sdk/commit/cd8e46e70781911bcf5fffe093f8e89935810281'

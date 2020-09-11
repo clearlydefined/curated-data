@@ -1,0 +1,9 @@
+coordinates:
+  name: postcss-discard-overridden
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.1:
+    files:
+      - license: NONE
+        path: package/README.md
