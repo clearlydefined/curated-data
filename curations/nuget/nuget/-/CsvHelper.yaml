@@ -9,6 +9,9 @@ revisions:
   12.2.1:
     licensed:
       declared: MS-PL OR Apache-2.0
+  2.11.0:
+    licensed:
+      declared: MS-PL OR Apache-2.0
   2.13.0:
     licensed:
       declared: MS-PL OR Apache-2.0
