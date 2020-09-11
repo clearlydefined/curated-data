@@ -1,0 +1,21 @@
+coordinates:
+  name: netty-common
+  namespace: io.netty
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  4.1.52.Final:
+    described:
+      facets:
+        dev:
+          - common/**
+      releaseDate: '2020-09-08'
+      sourceLocation:
+        name: netty
+        namespace: netty
+        provider: github
+        revision: ada9c38c0a96e593b895b93dd4600d5299e77cef
+        type: git
+        url: 'https://github.com/netty/netty/commit/ada9c38c0a96e593b895b93dd4600d5299e77cef'
+    licensed:
+      declared: Apache-2.0
