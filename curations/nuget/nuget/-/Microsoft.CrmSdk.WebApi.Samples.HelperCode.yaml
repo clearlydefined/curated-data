@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.CrmSdk.WebApi.Samples.HelperCode
+  provider: nuget
+  type: nuget
+revisions:
+  8.1.0.8:
+    licensed:
+      declared: OTHER

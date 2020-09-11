@@ -1,0 +1,17 @@
+coordinates:
+  name: sshj
+  namespace: com.hierynomus
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  0.27.0:
+    described:
+      sourceLocation:
+        name: sshj
+        namespace: hierynomus
+        provider: github
+        revision: 2f7b181306b076e262d566438ef6c145ade158e6
+        type: git
+        url: 'https://github.com/hierynomus/sshj/commit/2f7b181306b076e262d566438ef6c145ade158e6'
+    licensed:
+      declared: Apache-2.0

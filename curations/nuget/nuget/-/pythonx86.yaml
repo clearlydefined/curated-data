@@ -1,5 +1,5 @@
 coordinates:
-  name: python
+  name: pythonx86
   provider: nuget
   type: nuget
 revisions:
@@ -8,7 +8,10 @@ revisions:
       declared: Python-2.0
   3.6.8:
     licensed:
+      declared: Python-2.0
+  3.7.7:
+    licensed:
       declared: Python-2.0  
-  3.8.5:
+  3.8.2:
     licensed:
       declared: Python-2.0
