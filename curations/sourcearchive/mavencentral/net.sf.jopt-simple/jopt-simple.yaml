@@ -4,6 +4,17 @@ coordinates:
   provider: mavencentral
   type: sourcearchive
 revisions:
+  '4.6':
+    described:
+      sourceLocation:
+        name: jopt-simple
+        namespace: jopt-simple
+        provider: github
+        revision: 60979e99102ad93a0e42d9f3a03ad29e1ec0f55c
+        type: git
+        url: 'https://github.com/jopt-simple/jopt-simple/commit/60979e99102ad93a0e42d9f3a03ad29e1ec0f55c'
+    licensed:
+      declared: MIT
   5.0.3:
     described:
       sourceLocation:

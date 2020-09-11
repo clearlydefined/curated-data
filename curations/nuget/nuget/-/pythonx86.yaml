@@ -6,3 +6,6 @@ revisions:
   3.5.4:
     licensed:
       declared: Python-2.0
+  3.6.8:
+    licensed:
+      declared: Python-2.0
