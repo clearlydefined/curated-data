@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.4.34-beta:
+    licensed:
+      declared: MIT
   2.0.0-csd.1.0.3:
     licensed:
       declared: MIT
