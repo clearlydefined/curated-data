@@ -1,0 +1,15 @@
+coordinates:
+  name: flogger
+  namespace: com.google.flogger
+  provider: mavencentral
+  type: maven
+revisions:
+  0.5.1:
+    described:
+      sourceLocation:
+        name: flogger
+        namespace: google
+        provider: github
+        revision: 3b8f8087f1e0dc344e7a236b9a5ffc568021b96c
+        type: git
+        url: 'https://github.com/google/flogger/commit/3b8f8087f1e0dc344e7a236b9a5ffc568021b96c'
