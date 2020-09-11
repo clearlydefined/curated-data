@@ -1,0 +1,8 @@
+coordinates:
+  name: Lucene.Net.Store.Azure
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.5553.21100:
+    licensed:
+      declared: MS-PL
