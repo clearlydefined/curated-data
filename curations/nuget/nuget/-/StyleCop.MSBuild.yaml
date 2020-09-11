@@ -36,6 +36,9 @@ revisions:
   6.0.0:
     licensed:
       declared: MS-PL
+  6.0.0-beta04:
+    licensed:
+      declared: MS-PL
   6.1.0:
     files:
       - license: MS-PL
