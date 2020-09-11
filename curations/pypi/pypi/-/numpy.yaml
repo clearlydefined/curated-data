@@ -66,3 +66,6 @@ revisions:
   1.19.1:
     licensed:
       declared: BSD-3-Clause
+  1.19.2:
+    licensed:
+      declared: BSD-3-Clause
