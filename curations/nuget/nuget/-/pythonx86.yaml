@@ -3,6 +3,15 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  3.5.4:
+    licensed:
+      declared: Python-2.0
+  3.6.8:
+    licensed:
+      declared: Python-2.0
+  3.7.7:
+    licensed:
+      declared: Python-2.0  
   3.8.2:
     licensed:
       declared: Python-2.0
