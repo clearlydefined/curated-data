@@ -1,0 +1,9 @@
+coordinates:
+  name: vue-i18n
+  provider: npmjs
+  type: npm
+revisions:
+  8.9.0:
+    files:
+      - license: NONE
+        path: package/CHANGELOG.md

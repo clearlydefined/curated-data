@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.CrmSdk.UII.CommonAssemblies
+  provider: nuget
+  type: nuget
+revisions:
+  8.1.0.2:
+    licensed:
+      declared: OTHER
