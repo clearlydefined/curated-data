@@ -1,0 +1,16 @@
+coordinates:
+  name: httpclient5
+  namespace: org.apache.httpcomponents.client5
+  provider: mavencentral
+  type: maven
+revisions:
+  5.0.1:
+    described:
+      releaseDate: '2020-06-12'
+      sourceLocation:
+        name: httpcomponents-client
+        namespace: apache
+        provider: github
+        revision: 44e464ac200a15da3b6a73ddc39e48d12cdaf865
+        type: git
+        url: 'https://github.com/apache/httpcomponents-client/commit/44e464ac200a15da3b6a73ddc39e48d12cdaf865'
