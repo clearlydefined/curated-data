@@ -1,0 +1,8 @@
+coordinates:
+  name: Mono.Unofficial.pdb2mdb
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.3.4:
+    licensed:
+      declared: MS-PL
