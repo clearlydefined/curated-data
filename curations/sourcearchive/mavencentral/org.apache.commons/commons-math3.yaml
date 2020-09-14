@@ -1,0 +1,17 @@
+coordinates:
+  name: commons-math3
+  namespace: org.apache.commons
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  '3.2':
+    described:
+      sourceLocation:
+        name: commons-math
+        namespace: apache
+        provider: github
+        revision: 7ec508828f62c2a3df31cde2a2f3aa32c5135fdb
+        type: git
+        url: 'https://github.com/apache/commons-math/commit/7ec508828f62c2a3df31cde2a2f3aa32c5135fdb'
+    licensed:
+      declared: Apache-2.0
