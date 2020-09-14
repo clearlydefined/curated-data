@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.SqlServer.Types
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.2:
+    licensed:
+      declared: OTHER
