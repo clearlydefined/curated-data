@@ -1,0 +1,24 @@
+coordinates:
+  name: bcpkix-jdk15on
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  '1.66':
+    described:
+      facets:
+        dev:
+          - pkix/src/main/**
+        doc:
+          - docs/**
+        tests:
+          - pkix/src/test/**
+      sourceLocation:
+        name: bc-java
+        namespace: bcgit
+        provider: github
+        revision: ed1c8899b1b5ce0ff26feda81708c21b011f9750
+        type: git
+        url: 'https://github.com/bcgit/bc-java/commit/ed1c8899b1b5ce0ff26feda81708c21b011f9750'
+    licensed:
+      declared: MIT
