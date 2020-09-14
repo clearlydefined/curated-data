@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Net.Compilers
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.2:
+    licensed:
+      declared: OTHER
