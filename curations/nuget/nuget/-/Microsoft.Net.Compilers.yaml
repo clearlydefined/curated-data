@@ -1,11 +1,11 @@
 coordinates:
-  name: Microsoft.CrmSdk.CoreTools
+  name: Microsoft.Net.Compilers
   provider: nuget
   type: nuget
 revisions:
-  9.0.0.7:
+  1.2.2:
     licensed:
       declared: OTHER
-  9.1.0.44:
+  2.3.2:
     licensed:
       declared: OTHER

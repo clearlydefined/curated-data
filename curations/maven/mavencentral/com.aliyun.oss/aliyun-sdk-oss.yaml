@@ -1,0 +1,9 @@
+coordinates:
+  name: aliyun-sdk-oss
+  namespace: com.aliyun.oss
+  provider: mavencentral
+  type: maven
+revisions:
+  3.7.0:
+    licensed:
+      declared: Apache-2.0

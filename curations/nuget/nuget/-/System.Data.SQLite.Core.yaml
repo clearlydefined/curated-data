@@ -1,0 +1,8 @@
+coordinates:
+  name: System.Data.SQLite.Core
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.102:
+    licensed:
+      declared: OTHER
