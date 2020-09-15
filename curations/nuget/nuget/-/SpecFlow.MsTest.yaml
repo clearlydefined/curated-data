@@ -1,11 +1,11 @@
 coordinates:
-  name: SpecFlow.Tools.MsBuild.Generation
+  name: SpecFlow.MsTest
   provider: nuget
   type: nuget
 revisions:
   3.3.74:
     licensed:
-      declared: BSD-3-Clause  
+      declared: BSD-3-Clause
   3.4.3:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause  
