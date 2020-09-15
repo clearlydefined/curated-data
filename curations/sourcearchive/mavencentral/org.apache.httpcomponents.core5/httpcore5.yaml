@@ -1,0 +1,17 @@
+coordinates:
+  name: httpcore5
+  namespace: org.apache.httpcomponents.core5
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  5.0.2:
+    described:
+      sourceLocation:
+        name: httpcomponents-core
+        namespace: apache
+        provider: github
+        revision: d0de31975688f85066ab15ca8baa00a91b4107eb
+        type: git
+        url: 'https://github.com/apache/httpcomponents-core/commit/d0de31975688f85066ab15ca8baa00a91b4107eb'
+    licensed:
+      declared: Apache-2.0
