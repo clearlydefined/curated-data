@@ -1,0 +1,9 @@
+coordinates:
+  name: antlr
+  namespace: org.antlr
+  provider: mavencentral
+  type: maven
+revisions:
+  '3.4':
+    licensed:
+      declared: BSD-3-Clause

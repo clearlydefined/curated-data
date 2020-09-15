@@ -1,0 +1,8 @@
+coordinates:
+  name: Atlassian.SDK
+  provider: nuget
+  type: nuget
+revisions:
+  8.5.0:
+    licensed:
+      declared: BSD-2-Clause

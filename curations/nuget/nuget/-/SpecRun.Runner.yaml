@@ -1,0 +1,8 @@
+coordinates:
+  name: SpecRun.Runner
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.5:
+    licensed:
+      declared: BSD-3-Clause
