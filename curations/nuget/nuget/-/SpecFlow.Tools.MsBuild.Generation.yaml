@@ -1,0 +1,8 @@
+coordinates:
+  name: SpecFlow.Tools.MsBuild.Generation
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.74:
+    licensed:
+      declared: BSD-3-Clause
