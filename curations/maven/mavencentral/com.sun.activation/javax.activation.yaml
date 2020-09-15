@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.activation
+  namespace: com.sun.activation
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.0:
+    licensed:
+      declared: GPL-2.0-with-classpath-exception OR CDDL-1.0
