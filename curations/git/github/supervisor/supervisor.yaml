@@ -1,0 +1,9 @@
+coordinates:
+  name: supervisor
+  namespace: supervisor
+  provider: github
+  type: git
+revisions:
+  44eefd5846b68fab4dc7ce57b9a30629d9aa5c4a:
+    licensed:
+      declared: OTHER
