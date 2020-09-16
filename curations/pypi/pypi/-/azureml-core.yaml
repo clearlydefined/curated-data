@@ -18,6 +18,9 @@ revisions:
   1.11.0:
     licensed:
       declared: OTHER
+  1.12.0.post1:
+    licensed:
+      declared: MS-PL
   1.6.0.post1:
     licensed:
       declared: OTHER
