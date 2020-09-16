@@ -1,0 +1,9 @@
+coordinates:
+  name: graphviz-api
+  namespace: org.kohsuke
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: NONE
