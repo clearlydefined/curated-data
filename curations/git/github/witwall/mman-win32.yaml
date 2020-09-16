@@ -1,0 +1,9 @@
+coordinates:
+  name: mman-win32
+  namespace: witwall
+  provider: github
+  type: git
+revisions:
+  dbba5db192a4826c67ef03d68513c005ed689e8c:
+    licensed:
+      declared: MIT
