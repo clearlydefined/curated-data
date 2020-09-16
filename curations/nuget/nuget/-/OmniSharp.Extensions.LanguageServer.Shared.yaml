@@ -1,0 +1,8 @@
+coordinates:
+  name: OmniSharp.Extensions.LanguageServer.Shared
+  provider: nuget
+  type: nuget
+revisions:
+  0.18.0-beta0082:
+    licensed:
+      declared: MIT
