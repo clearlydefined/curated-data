@@ -1,0 +1,9 @@
+coordinates:
+  name: url-parse
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.6:
+    files:
+      - license: MIT
+        path: package/README.md
