@@ -1,0 +1,8 @@
+coordinates:
+  name: FluentValidation.ValidatorAttribute
+  provider: nuget
+  type: nuget
+revisions:
+  8.1.1:
+    licensed:
+      declared: Apache-2.0
