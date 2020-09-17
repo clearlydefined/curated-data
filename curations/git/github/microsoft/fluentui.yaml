@@ -1,0 +1,9 @@
+coordinates:
+  name: fluentui
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  9b1bd195599e4bddce32019c0e1ee0ef040f33df:
+    licensed:
+      declared: MIT
