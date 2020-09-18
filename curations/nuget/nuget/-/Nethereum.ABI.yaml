@@ -1,0 +1,8 @@
+coordinates:
+  name: Nethereum.ABI
+  provider: nuget
+  type: nuget
+revisions:
+  3.7.1:
+    licensed:
+      declared: MIT
