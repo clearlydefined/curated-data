@@ -1,0 +1,11 @@
+coordinates:
+  name: sshpk
+  provider: npmjs
+  type: npm
+revisions:
+  1.16.1:
+    files:
+      - attributions:
+          - 'Copyright 2018 Joyent, Inc.'
+        license: NONE
+        path: package/lib/formats/pkcs8.js
