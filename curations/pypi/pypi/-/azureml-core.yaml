@@ -20,10 +20,10 @@ revisions:
       declared: OTHER
   1.12.0.post1:
     licensed:
-      declared: MS-PL
+      declared: OTHER
   1.13.0:
     licensed:
-      declared: MS-PL
+      declared: OTHER
   1.6.0.post1:
     licensed:
       declared: OTHER
