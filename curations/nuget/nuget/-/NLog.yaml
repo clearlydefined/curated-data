@@ -202,7 +202,7 @@ revisions:
       declared: BSD-3-Clause
   4.7.3:
     licensed:
-      declared: NLPL
+      declared: BSD-3-Clause
   4.7.4:
     licensed:
       declared: BSD-3-Clause
