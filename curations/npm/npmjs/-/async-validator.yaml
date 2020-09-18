@@ -1,0 +1,9 @@
+coordinates:
+  name: async-validator
+  provider: npmjs
+  type: npm
+revisions:
+  1.8.5:
+    files:
+      - license: MIT
+        path: package/package.json
