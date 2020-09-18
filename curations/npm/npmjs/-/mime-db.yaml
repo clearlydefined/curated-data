@@ -1,0 +1,11 @@
+coordinates:
+  name: mime-db
+  provider: npmjs
+  type: npm
+revisions:
+  1.38.0:
+    files:
+      - license: NONE
+        path: package/db.json
+      - license: NONE
+        path: package/HISTORY.md
