@@ -1,0 +1,12 @@
+coordinates:
+  name: node
+  namespace: '@types'
+  provider: npmjs
+  type: npm
+revisions:
+  11.11.5:
+    files:
+      - license: NONE
+        path: node/tls.d.ts
+      - license: NONE
+        path: node/inspector.d.ts
