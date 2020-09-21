@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.PowerApps.MSBuild.Solution
+  provider: nuget
+  type: nuget
+revisions:
+  0.4.3:
+    licensed:
+      declared: OTHER
