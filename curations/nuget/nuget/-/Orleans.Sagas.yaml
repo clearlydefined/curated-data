@@ -1,0 +1,8 @@
+coordinates:
+  name: Orleans.Sagas
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.21-pre:
+    licensed:
+      declared: MIT
