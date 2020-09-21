@@ -1,0 +1,8 @@
+coordinates:
+  name: CefSharp.OffScreen
+  provider: nuget
+  type: nuget
+revisions:
+  84.4.10:
+    licensed:
+      declared: BSD-3-Clause
