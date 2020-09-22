@@ -1,11 +1,8 @@
 coordinates:
-  name: cli-color
+  name: dot
   provider: npmjs
   type: npm
 revisions:
-  0.1.7:
-    licensed:
-      declared: ISC
-  0.2.3:
+  1.0.3:
     licensed:
       declared: MIT
