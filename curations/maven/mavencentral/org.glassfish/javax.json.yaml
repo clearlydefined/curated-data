@@ -7,3 +7,6 @@ revisions:
   1.0.4:
     licensed:
       declared: GPL-2.0-only OR CDDL-1.1
+  1.1.4:
+    licensed:
+      declared: CDDL-1.0
