@@ -1,11 +1,8 @@
 coordinates:
-  name: TensorFlowSharp
+  name: Schyntax
   provider: nuget
   type: nuget
 revisions:
-  1.15.1:
-    licensed:
-      declared: MIT
-  1.7.0:
+  2.0.1:
     licensed:
       declared: MIT
