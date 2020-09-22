@@ -21,3 +21,6 @@ revisions:
   75.1.14:
     licensed:
       declared: BSD-3-Clause
+  84.4.1:
+    licensed:
+      declared: BSD-3-Clause
