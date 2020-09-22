@@ -1,0 +1,8 @@
+coordinates:
+  name: INIFileParserDotNetCore
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.2:
+    licensed:
+      declared: NONE
