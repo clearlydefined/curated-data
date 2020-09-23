@@ -1,0 +1,8 @@
+coordinates:
+  name: FluentValidation.AspNetCore
+  provider: nuget
+  type: nuget
+revisions:
+  7.6.103:
+    licensed:
+      declared: Apache-2.0
