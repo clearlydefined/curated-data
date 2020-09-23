@@ -1,0 +1,8 @@
+coordinates:
+  name: DiffLib
+  provider: nuget
+  type: nuget
+revisions:
+  2017.7.26.1241:
+    licensed:
+      declared: BSD-3-Clause

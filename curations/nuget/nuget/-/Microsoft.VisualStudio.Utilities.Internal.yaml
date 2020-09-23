@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Utilities.Internal
+  provider: nuget
+  type: nuget
+revisions:
+  14.0.79-master7f49a4e3:
+    licensed:
+      declared: OTHER
