@@ -1,0 +1,9 @@
+coordinates:
+  name: javac-shaded
+  namespace: com.google.errorprone
+  provider: mavencentral
+  type: maven
+revisions:
+  9-dev-r4023-3:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
