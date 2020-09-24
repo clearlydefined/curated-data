@@ -1,11 +1,8 @@
 coordinates:
-  name: Orleans.Sagas
+  name: SslCertBinding.Net
   provider: nuget
   type: nuget
 revisions:
-  0.0.20-pre:
+  1.0.2:
     licensed:
       declared: MIT
-  0.0.21-pre:
-    licensed:
-      declared: MI

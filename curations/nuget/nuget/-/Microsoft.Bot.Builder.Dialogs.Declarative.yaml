@@ -1,11 +1,8 @@
 coordinates:
-  name: Orleans.Sagas
+  name: Microsoft.Bot.Builder.Dialogs.Declarative
   provider: nuget
   type: nuget
 revisions:
-  0.0.20-pre:
+  4.9.3:
     licensed:
       declared: MIT
-  0.0.21-pre:
-    licensed:
-      declared: MI

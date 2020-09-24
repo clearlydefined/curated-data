@@ -1,11 +1,8 @@
 coordinates:
-  name: Orleans.Sagas
+  name: Bond.Compiler
   provider: nuget
   type: nuget
 revisions:
-  0.0.20-pre:
+  8.2.0:
     licensed:
       declared: MIT
-  0.0.21-pre:
-    licensed:
-      declared: MI

@@ -5,7 +5,13 @@ coordinates:
 revisions:
   0.1.19:
     licensed:
+      declared: MIT  
+  0.1.20:
+    licensed:
       declared: MIT
   0.4.6:
+    licensed:
+      declared: MIT
+  0.4.8:
     licensed:
       declared: MIT
