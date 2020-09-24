@@ -45,3 +45,6 @@ revisions:
         path: license.txt
     licensed:
       declared: MS-PL
+  6.2.0:
+    licensed:
+      declared: MS-PL
