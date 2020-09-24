@@ -1,0 +1,8 @@
+coordinates:
+  name: zlib_native.redist
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.11:
+    licensed:
+      declared: Zlib

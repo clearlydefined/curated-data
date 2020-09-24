@@ -1,0 +1,8 @@
+coordinates:
+  name: DogStatsD-CSharp-Client
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.1:
+    licensed:
+      declared: MIT
