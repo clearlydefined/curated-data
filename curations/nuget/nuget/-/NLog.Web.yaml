@@ -1,0 +1,8 @@
+coordinates:
+  name: NLog.Web
+  provider: nuget
+  type: nuget
+revisions:
+  4.7.0:
+    licensed:
+      declared: BSD-3-Clause

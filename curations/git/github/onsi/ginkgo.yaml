@@ -1,0 +1,9 @@
+coordinates:
+  name: ginkgo
+  namespace: onsi
+  provider: github
+  type: git
+revisions:
+  46c87bb63f2d8d62b3076873b7a84da124da72ce:
+    licensed:
+      declared: MIT

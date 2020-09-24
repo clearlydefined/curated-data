@@ -1,0 +1,8 @@
+coordinates:
+  name: Bond.Compiler
+  provider: nuget
+  type: nuget
+revisions:
+  8.2.0:
+    licensed:
+      declared: MIT
