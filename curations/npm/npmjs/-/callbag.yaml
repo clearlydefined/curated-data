@@ -1,0 +1,8 @@
+coordinates:
+  name: callbag
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.0:
+    licensed:
+      declared: CC0-1.0
