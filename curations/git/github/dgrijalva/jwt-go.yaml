@@ -1,0 +1,9 @@
+coordinates:
+  name: jwt-go
+  namespace: dgrijalva
+  provider: github
+  type: git
+revisions:
+  24c63f56522a87ec5339cc3567883f1039378fdb:
+    licensed:
+      declared: MIT
