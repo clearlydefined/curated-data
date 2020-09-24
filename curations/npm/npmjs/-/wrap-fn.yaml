@@ -1,0 +1,8 @@
+coordinates:
+  name: wrap-fn
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1:
+    licensed:
+      declared: MIT

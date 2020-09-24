@@ -6,6 +6,9 @@ revisions:
   1.4.0.128:
     licensed:
       declared: BSD-2-Clause
+  1.4.0.78:
+    licensed:
+      declared: BSD-2-Clause
   1.4.0.88:
     licensed:
       declared: BSD-2-Clause
