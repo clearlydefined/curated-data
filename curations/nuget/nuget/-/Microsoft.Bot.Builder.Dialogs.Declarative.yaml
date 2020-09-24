@@ -1,11 +1,8 @@
 coordinates:
-  name: Scrutor
+  name: Microsoft.Bot.Builder.Dialogs.Declarative
   provider: nuget
   type: nuget
 revisions:
-  3.0.1:
-    licensed:
-      declared: MIT
-  3.0.2:
+  4.9.3:
     licensed:
       declared: MIT
