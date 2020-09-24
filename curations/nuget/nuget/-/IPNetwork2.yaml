@@ -30,3 +30,6 @@ revisions:
   2.5.211:
     licensed:
       declared: BSD-2-Clause
+  2.5.224:
+    licensed:
+      declared: BSD-2-Clause

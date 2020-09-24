@@ -1,0 +1,8 @@
+coordinates:
+  name: vue
+  provider: nuget
+  type: nuget
+revisions:
+  2.6.11:
+    licensed:
+      declared: MIT
