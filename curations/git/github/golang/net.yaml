@@ -1,0 +1,9 @@
+coordinates:
+  name: net
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  d8887717615a059821345a5c23649351b52a1c0b:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
