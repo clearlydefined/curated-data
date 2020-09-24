@@ -5,7 +5,7 @@ coordinates:
 revisions:
   1.1.0:
     licensed:
-      declared: zlib-acknowledgement
+      declared: MIT AND zlib-acknowledgement
   2.0.0:
     licensed:
       declared: MIT AND zlib-acknowledgement
