@@ -1,0 +1,8 @@
+coordinates:
+  name: Ninject.Web.WebApi.WebHost
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.4:
+    licensed:
+      declared: Apache-2.0 OR MS-PL
