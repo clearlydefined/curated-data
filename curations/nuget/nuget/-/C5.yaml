@@ -1,0 +1,8 @@
+coordinates:
+  name: C5
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.5828.26833:
+    licensed:
+      declared: MIT

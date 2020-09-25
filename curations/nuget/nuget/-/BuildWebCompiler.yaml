@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.10.306:
+    licensed:
+      declared: Apache-2.0
   1.11.328:
     licensed:
       declared: Apache-2.0
