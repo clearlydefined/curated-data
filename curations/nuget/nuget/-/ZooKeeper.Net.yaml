@@ -1,0 +1,8 @@
+coordinates:
+  name: ZooKeeper.Net
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.6.2:
+    licensed:
+      declared: Apache-2.0

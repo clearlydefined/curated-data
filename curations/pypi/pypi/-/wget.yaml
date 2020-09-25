@@ -1,0 +1,8 @@
+coordinates:
+  name: wget
+  provider: pypi
+  type: pypi
+revisions:
+  '3.2':
+    licensed:
+      declared: OTHER
