@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  7.4.5196:
+    licensed:
+      declared: Zlib
   8.1.5717:
     licensed:
-      declared: Zlib AND GPL-2.0-with-classpath-exception
+      declared: Zlib
