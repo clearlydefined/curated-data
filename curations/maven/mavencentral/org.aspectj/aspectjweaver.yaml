@@ -7,3 +7,6 @@ revisions:
   1.8.9:
     licensed:
       declared: EPL-1.0
+  1.9.6:
+    licensed:
+      declared: EPL-1.0
