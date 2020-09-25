@@ -39,3 +39,6 @@ revisions:
   0.9.9.2:
     licensed:
       declared: MIT
+  1.0.0-alpha-822:
+    licensed:
+      declared: MIT

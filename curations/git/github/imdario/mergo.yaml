@@ -1,0 +1,9 @@
+coordinates:
+  name: mergo
+  namespace: imdario
+  provider: github
+  type: git
+revisions:
+  50d4dbd4eb0e84778abe37cefef140271d96fade:
+    licensed:
+      declared: BSD-3-Clause

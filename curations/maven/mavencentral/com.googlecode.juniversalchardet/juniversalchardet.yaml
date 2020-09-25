@@ -1,0 +1,9 @@
+coordinates:
+  name: juniversalchardet
+  namespace: com.googlecode.juniversalchardet
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.3:
+    licensed:
+      declared: MPL-1.1
