@@ -1,0 +1,8 @@
+coordinates:
+  name: KennyKerr.Windows.TestWinRT
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.20:
+    licensed:
+      declared: MIT
