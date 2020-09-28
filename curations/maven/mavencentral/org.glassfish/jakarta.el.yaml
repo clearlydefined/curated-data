@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.el
+  namespace: org.glassfish
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.3:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0
