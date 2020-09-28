@@ -1,0 +1,9 @@
+coordinates:
+  name: mysql-server
+  namespace: mysql
+  provider: github
+  type: git
+revisions:
+  7d10c82196c8e45554f27c00681474a9fb86d137:
+    licensed:
+      declared: GPL-2.0-only
