@@ -1,0 +1,8 @@
+coordinates:
+  name: Dropbox.Api
+  provider: nuget
+  type: nuget
+revisions:
+  4.10.0:
+    licensed:
+      declared: MIT
