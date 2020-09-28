@@ -1,0 +1,9 @@
+coordinates:
+  name: js-yaml
+  provider: npmjs
+  type: npm
+revisions:
+  3.13.1:
+    files:
+      - license: MIT
+        path: package/README.md
