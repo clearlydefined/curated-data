@@ -6,6 +6,9 @@ revisions:
   1.0.129:
     licensed:
       declared: GPL-2.0-only WITH OTHER
+  1.0.164:
+    licensed:
+      declared: GPL-2.0-with-classpath-exception
   1.0.185:
     licensed:
       declared: GPL-2.0-only WITH OTHER
