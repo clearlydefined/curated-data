@@ -1,0 +1,8 @@
+coordinates:
+  name: smmap2
+  provider: pypi
+  type: pypi
+revisions:
+  3.0.1:
+    licensed:
+      declared: BSD-3-Clause
