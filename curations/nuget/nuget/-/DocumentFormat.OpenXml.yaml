@@ -8,7 +8,7 @@ revisions:
       declared: MIT
   2.7.2:
     licensed:
-      declared: NONE
+      declared: Apache-2.0
   2.8.1:
     licensed:
       declared: MIT
