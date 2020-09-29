@@ -5,4 +5,4 @@ coordinates:
 revisions:
   3.16.0:
     licensed:
-      declared: MIT
+      declared: AFL-2.1 OR MIT
