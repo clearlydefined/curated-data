@@ -1,0 +1,8 @@
+coordinates:
+  name: MQTTnet
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.8:
+    licensed:
+      declared: MIT
