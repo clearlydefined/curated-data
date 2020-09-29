@@ -1,0 +1,8 @@
+coordinates:
+  name: Xunit.StaFact
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.18:
+    licensed:
+      declared: MS-PL
