@@ -6,6 +6,9 @@ revisions:
   4.94.4916.15482:
     licensed:
       declared: Apache-2.0
+  4.97.4951.28483:
+    licensed:
+      declared: Apache-2.0
   5.11.5295.12309:
     licensed:
       declared: Apache-2.0
