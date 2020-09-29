@@ -1,0 +1,8 @@
+coordinates:
+  name: ConfigureAwaitChecker.Analyzer
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.0:
+    licensed:
+      declared: MIT
