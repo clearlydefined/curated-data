@@ -1,0 +1,9 @@
+coordinates:
+  name: statemachine
+  namespace: tinder
+  provider: github
+  type: git
+revisions:
+  0bbd0c8eb0eba6e212c09d9ad2a956c99a86ce5e:
+    licensed:
+      declared: BSD-3-Clause
