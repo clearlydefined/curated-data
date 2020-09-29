@@ -1,11 +1,8 @@
 coordinates:
-  name: SharpYaml
+  name: NSwag.Core
   provider: nuget
   type: nuget
 revisions:
-  1.6.1:
-    licensed:
-      declared: MIT
-  1.6.5:
+  11.17.2:
     licensed:
       declared: MIT

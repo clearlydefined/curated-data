@@ -1,11 +1,8 @@
 coordinates:
-  name: SharpYaml
+  name: docopt.net
   provider: nuget
   type: nuget
 revisions:
-  1.6.1:
-    licensed:
-      declared: MIT
-  1.6.5:
+  0.6.1.9:
     licensed:
       declared: MIT

@@ -1,11 +1,8 @@
 coordinates:
-  name: SharpYaml
+  name: NRules.Fluent
   provider: nuget
   type: nuget
 revisions:
-  1.6.1:
-    licensed:
-      declared: MIT
-  1.6.5:
+  0.9.0:
     licensed:
       declared: MIT

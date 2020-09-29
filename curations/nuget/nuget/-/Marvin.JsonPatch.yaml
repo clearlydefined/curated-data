@@ -1,11 +1,8 @@
 coordinates:
-  name: SharpYaml
+  name: Marvin.JsonPatch
   provider: nuget
   type: nuget
 revisions:
-  1.6.1:
-    licensed:
-      declared: MIT
-  1.6.5:
+  2.1.1:
     licensed:
       declared: MIT
