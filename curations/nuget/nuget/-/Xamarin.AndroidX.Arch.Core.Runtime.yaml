@@ -1,5 +1,5 @@
 coordinates:
-  name: Xamarin.AndroidX.Arch.Core.Common
+  name: Xamarin.AndroidX.Arch.Core.Runtime
   provider: nuget
   type: nuget
 revisions:
