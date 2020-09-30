@@ -1,0 +1,9 @@
+coordinates:
+  name: tokenautocomplete
+  namespace: com.splitwise
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.8:
+    licensed:
+      declared: Apache-2.0

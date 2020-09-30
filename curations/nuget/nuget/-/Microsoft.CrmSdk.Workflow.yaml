@@ -6,6 +6,9 @@ revisions:
   8.2.0.2:
     licensed:
       declared: OTHER
+  9.0.2.23:
+    licensed:
+      declared: OTHER
   9.0.2.4:
     licensed:
       declared: OTHER

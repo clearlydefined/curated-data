@@ -16,6 +16,9 @@ revisions:
         path: PInvoke.Windows.Core.nuspec
     licensed:
       declared: MIT
+  0.5.152:
+    licensed:
+      declared: MIT
   0.5.184:
     licensed:
       declared: MIT

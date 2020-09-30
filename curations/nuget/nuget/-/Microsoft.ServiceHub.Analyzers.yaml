@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.ServiceHub.Analyzers
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.227:
+    licensed:
+      declared: OTHER

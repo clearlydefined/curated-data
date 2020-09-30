@@ -11,7 +11,7 @@ revisions:
       declared: MIT
   7.3.1:
     licensed:
-      declared: MIT  
+      declared: MIT
   7.4.1:
     licensed:
       declared: MIT
@@ -25,5 +25,8 @@ revisions:
     licensed:
       declared: MIT
   7.5.4:
+    licensed:
+      declared: MIT
+  7.6.4:
     licensed:
       declared: MIT
