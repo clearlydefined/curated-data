@@ -1,11 +1,11 @@
 coordinates:
-  name: Xamarin.AndroidX.Lifecycle.Common
+  name: Xamarin.AndroidX.Fragment
   provider: nuget
   type: nuget
 revisions:
-  2.2.0:
+  1.1.0:
     licensed:
       declared: MIT
-  2.3.0-alpha03:
+  1.2.2:
     licensed:
-      declared: MIT
+      declared: MIT  
