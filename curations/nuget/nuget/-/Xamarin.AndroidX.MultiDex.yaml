@@ -1,11 +1,12 @@
 coordinates:
-  name: Xamarin.AndroidX.Lifecycle.Runtime
+  name: Xamarin.AndroidX.MultiDex
   provider: nuget
   type: nuget
 revisions:
-  2.1.0:
+  2.0.1:
     licensed:
       declared: MIT
-  2.3.0-alpha03:      
+  2.0.1.2:
     licensed:
       declared: MIT
+      
