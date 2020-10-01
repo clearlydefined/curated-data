@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.AndroidX.Sqlite.Framework
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.0.2:
+    licensed:
+      declared: MIT
