@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Firebase.Messaging
+  provider: nuget
+  type: nuget
+revisions:
+  71.1740.0:
+    licensed:
+      declared: MIT

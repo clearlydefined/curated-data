@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.AndroidX.ConstraintLayout.Solver
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.3:
+    licensed:
+      declared: MIT
