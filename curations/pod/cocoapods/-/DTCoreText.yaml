@@ -1,0 +1,8 @@
+coordinates:
+  name: DTCoreText
+  provider: cocoapods
+  type: pod
+revisions:
+  1.6.21:
+    licensed:
+      declared: BSD-2-Clause
