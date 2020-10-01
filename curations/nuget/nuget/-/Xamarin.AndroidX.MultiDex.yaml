@@ -1,0 +1,12 @@
+coordinates:
+  name: Xamarin.AndroidX.MultiDex
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.1:
+    licensed:
+      declared: MIT
+  2.0.1.2:
+    licensed:
+      declared: MIT
+      
