@@ -1,0 +1,9 @@
+coordinates:
+  name: mailapi
+  namespace: javax.mail
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.3:
+    licensed:
+      declared: GPL-2.0-with-classpath-exception
