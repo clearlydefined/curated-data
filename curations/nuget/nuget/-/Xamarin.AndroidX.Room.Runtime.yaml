@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.AndroidX.Room.Runtime
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.5.2:
+    licensed:
+      declared: MIT

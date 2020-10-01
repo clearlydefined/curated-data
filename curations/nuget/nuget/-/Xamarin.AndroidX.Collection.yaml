@@ -1,0 +1,12 @@
+coordinates:
+  name: Xamarin.AndroidX.Collection
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.0:
+    licensed:
+      declared: MIT
+  1.1.0.2:
+    licensed:
+      declared: MIT
+      
