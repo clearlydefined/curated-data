@@ -6,6 +6,9 @@ revisions:
   3.5.4:
     licensed:
       declared: Python-2.0
+  3.6.5:
+    licensed:
+      declared: Python-2.0
   3.6.8:
     licensed:
       declared: Python-2.0
@@ -14,7 +17,7 @@ revisions:
       declared: Python-2.0
   3.8.2:
     licensed:
-      declared: Python-2.0      
+      declared: Python-2.0
   3.8.5:
     licensed:
       declared: Python-2.0
