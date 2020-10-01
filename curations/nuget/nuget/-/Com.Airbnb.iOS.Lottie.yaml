@@ -1,8 +1,8 @@
 coordinates:
-  name: DotNetSeleniumExtras.WaitHelpers
+  name: Com.Airbnb.iOS.Lottie
   provider: nuget
   type: nuget
 revisions:
-  3.11.0:
+  2.5.4:
     licensed:
       declared: Apache-2.0
