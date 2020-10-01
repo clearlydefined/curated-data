@@ -1,0 +1,8 @@
+coordinates:
+  name: ag-grid-angular
+  provider: npmjs
+  type: npm
+revisions:
+  23.0.3:
+    licensed:
+      declared: MIT
