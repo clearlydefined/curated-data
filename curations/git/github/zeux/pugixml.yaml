@@ -1,0 +1,9 @@
+coordinates:
+  name: pugixml
+  namespace: zeux
+  provider: github
+  type: git
+revisions:
+  8436f2a69b9331f8e99a52772e93ba0dbb68dafe:
+    licensed:
+      declared: MIT
