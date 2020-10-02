@@ -9,6 +9,9 @@ revisions:
   3.2.2:
     licensed:
       declared: Apache-2.0 OR MS-PL
+  3.3.2-beta1:
+    licensed:
+      declared: Apache-2.0 OR MS-PL
   3.3.3:
     files:
       - attributions:
