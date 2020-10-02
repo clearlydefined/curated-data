@@ -1,0 +1,8 @@
+coordinates:
+  name: WinObjC.Language
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.180220:
+    licensed:
+      declared: MIT
