@@ -1,0 +1,8 @@
+coordinates:
+  name: Irony.Interpreter
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.1:
+    licensed:
+      declared: MIT
