@@ -1,0 +1,8 @@
+coordinates:
+  name: Unofficial.Microsoft.SQLServer.SMO
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.3000:
+    licensed:
+      declared: OTHER
