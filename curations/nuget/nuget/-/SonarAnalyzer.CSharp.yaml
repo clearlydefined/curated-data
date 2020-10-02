@@ -11,7 +11,7 @@ revisions:
       declared: LGPL-3.0-or-later
   8.11.0.20529:
     licensed:
-      declared: LGPL-3.0
+      declared: LGPL-3.0-or-later
   8.12.0.21095:
     licensed:
       declared: LGPL-3.0-or-later
@@ -20,4 +20,4 @@ revisions:
       declared: LGPL-3.0-or-later
   8.9.0.19135:
     licensed:
-      declared: LGPL-3.0-only
+      declared: LGPL-3.0-or-later
