@@ -24,3 +24,6 @@ revisions:
   0.6.0:
     licensed:
       declared: MIT
+  0.8.1:
+    licensed:
+      declared: MIT

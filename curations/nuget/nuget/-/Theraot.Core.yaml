@@ -1,11 +1,8 @@
 coordinates:
-  name: MvvmLightLibs
+  name: Theraot.Core
   provider: nuget
   type: nuget
 revisions:
-  5.4.1:
-    licensed:
-      declared: MIT
-  5.4.1.1:
+  3.0.2:
     licensed:
       declared: MIT
