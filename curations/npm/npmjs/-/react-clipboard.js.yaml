@@ -1,0 +1,8 @@
+coordinates:
+  name: react-clipboard.js
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.16:
+    licensed:
+      declared: CC0-1.0
