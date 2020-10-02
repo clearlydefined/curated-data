@@ -19,6 +19,9 @@ revisions:
   2.23.4:
     licensed:
       declared: MIT
+  2.27.0:
+    licensed:
+      declared: MIT
   2.8.9:
     files:
       - attributions:
