@@ -1,0 +1,8 @@
+coordinates:
+  name: bootstrap-less
+  provider: npmjs
+  type: npm
+revisions:
+  3.3.8:
+    licensed:
+      declared: MIT
