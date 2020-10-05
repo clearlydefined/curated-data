@@ -1,0 +1,17 @@
+coordinates:
+  name: Hl7.Fhir.R4
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.1:
+    licensed:
+      declared: BSD-3-Clause
+  1.5.0:
+    licensed:
+      declared: BSD-3-Clause
+  1.7.0:
+    licensed:
+      declared: BSD-3-Clause
+  1.9.0:
+    licensed:
+      declared: BSD-3-Clause
