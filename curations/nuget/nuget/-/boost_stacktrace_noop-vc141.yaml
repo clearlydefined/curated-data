@@ -1,0 +1,8 @@
+coordinates:
+  name: boost_stacktrace_noop-vc141
+  provider: nuget
+  type: nuget
+revisions:
+  1.65.0:
+    licensed:
+      declared: BSL-1.0
