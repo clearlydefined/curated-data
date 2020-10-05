@@ -1,0 +1,9 @@
+coordinates:
+  name: mysql-connector-java
+  namespace: mysql
+  provider: mavencentral
+  type: maven
+revisions:
+  8.0.19:
+    licensed:
+      declared: GPL-2.0 WITH Universal-FOSS-exception-1.0
