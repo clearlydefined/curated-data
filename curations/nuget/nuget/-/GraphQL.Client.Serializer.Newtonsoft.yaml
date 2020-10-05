@@ -1,11 +1,8 @@
 coordinates:
-  name: GraphQL.Server.Core
+  name: GraphQL.Client.Serializer.Newtonsoft
   provider: nuget
   type: nuget
 revisions:
-  3.4.0:
-    licensed:
-      declared: MIT
-  3.5.0-alpha0046:
+  3.1.5:
     licensed:
       declared: MIT

@@ -1,5 +1,5 @@
 coordinates:
-  name: GraphQL.Server.Core
+  name: GraphQL.Server.Transports.AspNetCore
   provider: nuget
   type: nuget
 revisions:
