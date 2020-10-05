@@ -1,11 +1,8 @@
 coordinates:
-  name: GraphQL.Common
+  name: GraphQL.Server.Ui.Playground
   provider: nuget
   type: nuget
 revisions:
-  1.0.3:
-    licensed:
-      declared: MIT
-  2.0.0-alpha.3:
+  3.5.0-alpha0027:
     licensed:
       declared: MIT
