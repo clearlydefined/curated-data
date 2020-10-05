@@ -1,0 +1,8 @@
+coordinates:
+  name: grapheme
+  provider: pypi
+  type: pypi
+revisions:
+  0.6.0:
+    licensed:
+      declared: MIT
