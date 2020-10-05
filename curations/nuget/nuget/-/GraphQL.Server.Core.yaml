@@ -1,0 +1,11 @@
+coordinates:
+  name: GraphQL.Server.Core
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.0:
+    licensed:
+      declared: MIT
+  3.5.0-alpha0046:
+    licensed:
+      declared: MIT
