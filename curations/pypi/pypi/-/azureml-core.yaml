@@ -32,7 +32,7 @@ revisions:
       declared: OTHER
   1.8.0.post1:
     licensed:
-      declared: Python-2.0
+      declared: OTHER
   1.9.0:
     licensed:
       declared: OTHER
