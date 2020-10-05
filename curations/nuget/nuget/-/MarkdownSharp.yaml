@@ -1,0 +1,8 @@
+coordinates:
+  name: MarkdownSharp
+  provider: nuget
+  type: nuget
+revisions:
+  1.13.0:
+    licensed:
+      declared: MIT
