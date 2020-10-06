@@ -8,6 +8,9 @@ revisions:
       declared: OTHER
   1.8.3:
     licensed:
+      declared: OTHER  
+  1.9.1:
+    licensed:
       declared: OTHER
   1.9.2:
     licensed:
@@ -19,5 +22,17 @@ revisions:
     licensed:
       declared: OTHER
   2.0.2:
+    licensed:
+      declared: OTHER
+  2.0.5:
+    licensed:
+      declared: OTHER  
+  2.0.7:
+    licensed:
+      declared: OTHER  
+  2.0.8:
+    licensed:
+      declared: OTHER  
+  2.0.9:
     licensed:
       declared: OTHER
