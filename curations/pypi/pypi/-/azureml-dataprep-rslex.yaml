@@ -1,0 +1,8 @@
+coordinates:
+  name: azureml-dataprep-rslex
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.1:
+    licensed:
+      declared: Other
