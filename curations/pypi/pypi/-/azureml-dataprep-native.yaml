@@ -9,3 +9,6 @@ revisions:
   14.2.1:
     licensed:
       declared: OTHER
+  20.0.0:
+    licensed:
+      declared: Other
