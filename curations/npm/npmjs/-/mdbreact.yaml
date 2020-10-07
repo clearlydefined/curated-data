@@ -1,0 +1,8 @@
+coordinates:
+  name: mdbreact
+  provider: npmjs
+  type: npm
+revisions:
+  4.25.1:
+    licensed:
+      declared: MIT
