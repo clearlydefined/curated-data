@@ -1,11 +1,8 @@
 coordinates:
-  name: azureml-automl-runtime
+  name: azureml-interpret
   provider: pypi
   type: pypi
 revisions:
-  1.12.0:
-    licensed:
-      declared: OTHER
   1.15.0:
     licensed:
       declared: OTHER
