@@ -1,0 +1,8 @@
+coordinates:
+  name: Moment.Timezone.js
+  provider: nuget
+  type: nuget
+revisions:
+  0.5.13:
+    licensed:
+      declared: MIT
