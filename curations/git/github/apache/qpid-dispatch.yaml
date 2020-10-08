@@ -1,0 +1,12 @@
+coordinates:
+  name: qpid-dispatch
+  namespace: apache
+  provider: github
+  type: git
+revisions:
+  525291a9b5b86e2dcc9e957c189a5cc73262de1d:
+    described:
+      facets:
+        tests:
+          - /tests/**/*
+          - /tests/*
