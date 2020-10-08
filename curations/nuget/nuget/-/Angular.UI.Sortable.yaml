@@ -1,11 +1,8 @@
 coordinates:
-  name: NSwag.Core
+  name: Angular.UI.Sortable
   provider: nuget
   type: nuget
 revisions:
-  11.17.2:
-    licensed:
-      declared: MIT
-  12.2.5:
+  0.2.0:
     licensed:
       declared: MIT
