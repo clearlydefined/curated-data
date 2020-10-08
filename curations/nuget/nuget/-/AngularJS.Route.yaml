@@ -1,11 +1,8 @@
 coordinates:
-  name: AngularJS.Animate
+  name: AngularJS.Route
   provider: nuget
   type: nuget
 revisions:
-  1.3.16:
-    licensed:
-      declared: MIT
   1.4.7:
     licensed:
       declared: MIT

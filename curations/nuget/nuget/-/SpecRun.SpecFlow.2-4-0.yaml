@@ -1,11 +1,8 @@
 coordinates:
-  name: SpecRun.Runner
+  name: SpecRun.SpecFlow.2-4-0
   provider: nuget
   type: nuget
 revisions:
   1.8.5:
-    licensed:
-      declared: OTHER
-  3.4.5:
     licensed:
       declared: OTHER
