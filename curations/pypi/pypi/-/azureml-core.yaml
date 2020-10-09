@@ -29,7 +29,10 @@ revisions:
       declared: OTHER
   1.13.0.post1:
     licensed:
-      declared: Other
+      declared: OTHER
+  1.14.0.post1:
+    licensed:
+      declared: OTHER
   1.6.0.post1:
     licensed:
       declared: OTHER
