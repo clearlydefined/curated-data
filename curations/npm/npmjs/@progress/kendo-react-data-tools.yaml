@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-react-data-tools
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  3.16.0:
+    licensed:
+      declared: Other
