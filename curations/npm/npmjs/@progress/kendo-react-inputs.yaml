@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-react-inputs
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  3.17.0:
+    licensed:
+      declared: Other
