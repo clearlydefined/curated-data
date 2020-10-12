@@ -9,4 +9,14 @@ revisions:
       facets:
         dev:
           - buffer/**
+          - buffer/src/main/**
+        tests:
+          - buffer/src/test/**
       releaseDate: '2020-09-08'
+      sourceLocation:
+        name: netty
+        namespace: netty
+        provider: github
+        revision: ada9c38c0a96e593b895b93dd4600d5299e77cef
+        type: git
+        url: 'https://github.com/netty/netty/commit/ada9c38c0a96e593b895b93dd4600d5299e77cef'
