@@ -6,3 +6,6 @@ revisions:
   1.5.12:
     licensed:
       declared: BSD-2-Clause
+  1.5.14:
+    licensed:
+      declared: Apache-2.0
