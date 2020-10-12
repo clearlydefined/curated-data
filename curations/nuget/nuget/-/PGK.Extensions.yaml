@@ -1,0 +1,18 @@
+coordinates:
+  name: PGK.Extensions
+  provider: nuget
+  type: nuget
+revisions:
+  2011.6.0:
+    described:
+      facets:
+        data: []
+      sourceLocation:
+        name: .net-extensions
+        namespace: joysky
+        provider: github
+        revision: 479a2ed
+        type: git
+        url: 'https://github.com/joysky/.net-extensions/commit/479a2ed'
+    licensed:
+      declared: Apache-2.0
