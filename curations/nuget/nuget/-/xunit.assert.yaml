@@ -24,6 +24,9 @@ revisions:
   2.3.0:
     licensed:
       declared: Apache-2.0
+  2.3.0-beta4-build3742:
+    licensed:
+      declared: Apache-2.0
   2.3.1:
     licensed:
       declared: Apache-2.0
