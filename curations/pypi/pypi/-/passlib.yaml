@@ -1,0 +1,8 @@
+coordinates:
+  name: passlib
+  provider: pypi
+  type: pypi
+revisions:
+  1.7.4:
+    licensed:
+      declared: BSD-3-Clause
