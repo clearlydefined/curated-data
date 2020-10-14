@@ -9,6 +9,9 @@ revisions:
   7.0.0.396:
     licensed:
       declared: MIT
+  7.1.0.431:
+    licensed:
+      declared: MIT      
   7.2.0.1367:
     licensed:
       declared: MIT
