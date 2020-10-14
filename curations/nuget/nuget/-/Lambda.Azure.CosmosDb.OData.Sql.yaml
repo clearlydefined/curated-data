@@ -1,0 +1,8 @@
+coordinates:
+  name: Lambda.Azure.CosmosDb.OData.Sql
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.70:
+    licensed:
+      declared: MIT
