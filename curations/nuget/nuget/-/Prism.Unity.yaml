@@ -1,0 +1,8 @@
+coordinates:
+  name: Prism.Unity
+  provider: nuget
+  type: nuget
+revisions:
+  7.1.0.431:
+    licensed:
+      declared: MIT
