@@ -55,3 +55,6 @@ revisions:
   1.2.6:
     licensed:
       declared: MIT
+  1.2.7-alpha-00002:
+    licensed:
+      declared: MIT
