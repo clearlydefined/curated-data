@@ -1,0 +1,8 @@
+coordinates:
+  name: azureml-explain-model
+  provider: pypi
+  type: pypi
+revisions:
+  1.15.0:
+    licensed:
+      declared: OTHER
