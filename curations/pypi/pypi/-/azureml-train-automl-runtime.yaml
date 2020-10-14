@@ -1,0 +1,11 @@
+coordinates:
+  name: azureml-train-automl-runtime
+  provider: pypi
+  type: pypi
+revisions:
+  1.11.0.post1:
+    licensed:
+      declared: OTHER
+  1.15.0:
+    licensed:
+      declared: OTHER
