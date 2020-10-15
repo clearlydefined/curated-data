@@ -1,0 +1,8 @@
+coordinates:
+  name: azureml-mlflow
+  provider: pypi
+  type: pypi
+revisions:
+  1.15.0.post1:
+    licensed:
+      declared: OTHER
