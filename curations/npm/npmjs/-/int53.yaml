@@ -1,0 +1,19 @@
+coordinates:
+  name: int53
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.3:
+    described:
+      sourceLocation:
+        name: int53
+        namespace: dannycoates
+        provider: github
+        revision: 669c82f461bbabe886740ef42ed8e53376344bda
+        type: git
+        url: 'https://github.com/dannycoates/int53/commit/669c82f461bbabe886740ef42ed8e53376344bda'
+    files:
+      - license: BSD-3-Clause
+        path: package/package.json
+    licensed:
+      declared: BSD-3-Clause
