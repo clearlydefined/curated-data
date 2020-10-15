@@ -1,0 +1,21 @@
+coordinates:
+  name: slf4j-log4j12
+  namespace: org.slf4j
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.30:
+    described:
+      facets:
+        dev:
+          - slf4j-log4j12/src/main/**
+        tests:
+          - slf4j-log4j12/src/test/**
+      releaseDate: '2019-12-16'
+      sourceLocation:
+        name: slf4j
+        namespace: qos-ch
+        provider: github
+        revision: 0b97c416e42a184ff9728877b461c616187c58f7
+        type: git
+        url: 'https://github.com/qos-ch/slf4j/commit/0b97c416e42a184ff9728877b461c616187c58f7'
