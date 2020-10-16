@@ -10,3 +10,18 @@ revisions:
         dev:
           - buffer/**
       releaseDate: '2020-09-08'
+  4.1.53.Final:
+    described:
+      facets:
+        dev:
+          - buffer/src/main/**
+        tests:
+          - buffer/src/test/**
+      releaseDate: '2020-10-13'
+      sourceLocation:
+        name: netty
+        namespace: netty
+        provider: github
+        revision: d4a0050ef33cab2542a80e11489a4977a63859f8
+        type: git
+        url: 'https://github.com/netty/netty/commit/d4a0050ef33cab2542a80e11489a4977a63859f8'
