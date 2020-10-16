@@ -1,0 +1,8 @@
+coordinates:
+  name: Select2.js
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.5:
+    licensed:
+      declared: MIT
