@@ -1,0 +1,8 @@
+coordinates:
+  name: component-props
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.1:
+    licensed:
+      declared: MIT
