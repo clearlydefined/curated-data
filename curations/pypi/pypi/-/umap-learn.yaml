@@ -1,0 +1,8 @@
+coordinates:
+  name: umap-learn
+  provider: pypi
+  type: pypi
+revisions:
+  0.4.6:
+    licensed:
+      declared: BSD-3-Clause
