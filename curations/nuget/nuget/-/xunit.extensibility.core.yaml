@@ -5,7 +5,7 @@ coordinates:
 revisions:
   2.0.0:
     licensed:
-      declared: Apache-2.0 
+      declared: Apache-2.0
   2.1.0:
     described:
       releaseDate: '2015-09-27'
@@ -25,6 +25,9 @@ revisions:
     licensed:
       declared: Apache-2.0
   2.3.0:
+    licensed:
+      declared: Apache-2.0
+  2.3.0-beta4-build3742:
     licensed:
       declared: Apache-2.0
   2.3.1:
