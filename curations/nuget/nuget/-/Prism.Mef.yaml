@@ -1,0 +1,8 @@
+coordinates:
+  name: Prism.Mef
+  provider: nuget
+  type: nuget
+revisions:
+  6.3.0:
+    licensed:
+      declared: MIT
