@@ -1,0 +1,8 @@
+coordinates:
+  name: Selenium.InternetExplorer.WebDriver
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.0:
+    licensed:
+      declared: Unlicense
