@@ -5,7 +5,7 @@ coordinates:
 revisions:
   12.1.1:
     licensed:
-      declared: MS-PL
+      declared: MS-PL OR Apache-2.0
   12.1.2:
     licensed:
       declared: MS-PL OR Apache-2.0
