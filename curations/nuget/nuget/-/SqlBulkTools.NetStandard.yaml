@@ -1,0 +1,8 @@
+coordinates:
+  name: SqlBulkTools.NetStandard
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.18:
+    licensed:
+      declared: MIT
