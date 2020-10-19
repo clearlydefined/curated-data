@@ -1,11 +1,8 @@
 coordinates:
-  name: gym
+  name: kaleido
   provider: pypi
   type: pypi
 revisions:
-  0.17.2:
-    licensed:
-      declared: MIT
-  0.17.3:
+  0.0.3:
     licensed:
       declared: MIT

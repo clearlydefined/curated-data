@@ -1,11 +1,12 @@
 coordinates:
-  name: gym
-  provider: pypi
-  type: pypi
+  name: SqlBulkTools.NetStandard
+  provider: nuget
+  type: nuget
 revisions:
-  0.17.2:
+  2.1.18:
     licensed:
       declared: MIT
-  0.17.3:
+  2.1.32:
     licensed:
       declared: MIT
+      
