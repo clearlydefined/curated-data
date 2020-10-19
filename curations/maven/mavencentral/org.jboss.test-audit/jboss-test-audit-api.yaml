@@ -1,0 +1,15 @@
+coordinates:
+  name: jboss-test-audit-api
+  namespace: org.jboss.test-audit
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.4.Final:
+    described:
+      sourceLocation:
+        name: jboss-test-audit
+        namespace: jboss
+        provider: github
+        revision: dba079c609c23eb63a9cd0f483751a83e49d29e4
+        type: git
+        url: 'https://github.com/jboss/jboss-test-audit/commit/dba079c609c23eb63a9cd0f483751a83e49d29e4'
