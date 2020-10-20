@@ -1,12 +1,8 @@
 coordinates:
-  name: Common.Logging.Log4Net1215
+  name: Splunk.Client
   provider: nuget
   type: nuget
 revisions:
-  3.4.0:
+  2.2.5:
     licensed:
       declared: Apache-2.0
-  3.4.1:
-    licensed:
-      declared: Apache-2.0
-  

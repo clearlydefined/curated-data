@@ -1,11 +1,8 @@
 coordinates:
-  name: Flurl
+  name: MessagePackAnalyzer
   provider: nuget
   type: nuget
 revisions:
-  2.7.0:
-    licensed:
-      declared: MIT
-  2.8.0:
+  1.9.11:
     licensed:
       declared: MIT

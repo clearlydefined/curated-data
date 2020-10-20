@@ -1,11 +1,8 @@
 coordinates:
-  name: Flurl
+  name: HttpSimulator
   provider: nuget
   type: nuget
 revisions:
-  2.7.0:
-    licensed:
-      declared: MIT
-  2.8.0:
+  2.2.1:
     licensed:
       declared: MIT

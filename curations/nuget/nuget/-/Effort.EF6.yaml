@@ -1,11 +1,8 @@
 coordinates:
-  name: Flurl
+  name: Effort.EF6
   provider: nuget
   type: nuget
 revisions:
-  2.7.0:
-    licensed:
-      declared: MIT
-  2.8.0:
+  2.2.10:
     licensed:
       declared: MIT
