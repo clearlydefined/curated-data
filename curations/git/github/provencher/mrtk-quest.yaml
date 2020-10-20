@@ -1,0 +1,9 @@
+coordinates:
+  name: mrtk-quest
+  namespace: provencher
+  provider: github
+  type: git
+revisions:
+  896d2e1639b571c6d177cac143259cd1094aa867:
+    licensed:
+      declared: MIT
