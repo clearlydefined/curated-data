@@ -21,3 +21,6 @@ revisions:
         path: StreamJsonRpc.nuspec
     licensed:
       declared: MIT
+  1.5.43:
+    licensed:
+      declared: MIT
