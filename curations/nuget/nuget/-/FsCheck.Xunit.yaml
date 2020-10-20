@@ -1,0 +1,8 @@
+coordinates:
+  name: FsCheck.Xunit
+  provider: nuget
+  type: nuget
+revisions:
+  2.14.3:
+    licensed:
+      declared: BSD-3-Clause
