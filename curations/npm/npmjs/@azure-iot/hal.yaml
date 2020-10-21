@@ -1,0 +1,9 @@
+coordinates:
+  name: hal
+  namespace: '@azure-iot'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0:
+    licensed:
+      declared: Other
