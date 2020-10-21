@@ -1,0 +1,8 @@
+coordinates:
+  name: Swashbuckle.OData
+  provider: nuget
+  type: nuget
+revisions:
+  2.19.0:
+    licensed:
+      declared: MIT
