@@ -1,0 +1,8 @@
+coordinates:
+  name: hyperx
+  provider: npmjs
+  type: npm
+revisions:
+  2.5.4:
+    licensed:
+      declared: BSD-2-Clause

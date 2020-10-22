@@ -1,0 +1,8 @@
+coordinates:
+  name: Bytescout.Spreadsheet
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.1.1762:
+    licensed:
+      declared: OTHER

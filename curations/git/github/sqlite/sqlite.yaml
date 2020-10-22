@@ -1,0 +1,9 @@
+coordinates:
+  name: sqlite
+  namespace: sqlite
+  provider: github
+  type: git
+revisions:
+  562fd18b9dc27216191c0a6477bba9b175f7f0d2:
+    licensed:
+      declared: blessing
