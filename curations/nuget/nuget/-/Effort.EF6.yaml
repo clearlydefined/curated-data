@@ -1,0 +1,8 @@
+coordinates:
+  name: Effort.EF6
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.10:
+    licensed:
+      declared: MIT

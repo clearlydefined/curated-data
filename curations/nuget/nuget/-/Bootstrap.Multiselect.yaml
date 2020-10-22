@@ -1,0 +1,8 @@
+coordinates:
+  name: Bootstrap.Multiselect
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.9:
+    licensed:
+      declared: Apache-2.0 AND BSD-3-Clause
