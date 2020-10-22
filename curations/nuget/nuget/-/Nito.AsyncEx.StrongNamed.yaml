@@ -1,0 +1,8 @@
+coordinates:
+  name: Nito.AsyncEx.StrongNamed
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.1:
+    licensed:
+      declared: MIT
