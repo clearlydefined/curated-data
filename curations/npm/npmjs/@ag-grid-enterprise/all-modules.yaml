@@ -1,0 +1,9 @@
+coordinates:
+  name: all-modules
+  namespace: '@ag-grid-enterprise'
+  provider: npmjs
+  type: npm
+revisions:
+  24.1.0:
+    licensed:
+      declared: OTHER

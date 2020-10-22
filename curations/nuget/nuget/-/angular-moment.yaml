@@ -1,0 +1,8 @@
+coordinates:
+  name: angular-moment
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.3:
+    licensed:
+      declared: MIT

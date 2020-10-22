@@ -1,0 +1,8 @@
+coordinates:
+  name: dnsruby
+  provider: rubygems
+  type: gem
+revisions:
+  1.61.2:
+    licensed:
+      declared: Apache-2.0
