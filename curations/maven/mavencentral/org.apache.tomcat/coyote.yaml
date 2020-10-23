@@ -1,0 +1,16 @@
+coordinates:
+  name: coyote
+  namespace: org.apache.tomcat
+  provider: mavencentral
+  type: maven
+revisions:
+  6.0.51:
+    files:
+      - license: NONE
+        path: org/apache/jk/core/MsgContext.class
+      - license: NONE
+        path: org/apache/tomcat/util/net/SocketProperties.class
+      - license: NONE
+        path: org/apache/tomcat/util/descriptor/XmlErrorHandler.class
+      - license: NONE
+        path: org/apache/tomcat/util/digester/Digester.class
