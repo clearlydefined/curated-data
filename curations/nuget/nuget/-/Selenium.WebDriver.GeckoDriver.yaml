@@ -1,0 +1,8 @@
+coordinates:
+  name: Selenium.WebDriver.GeckoDriver
+  provider: nuget
+  type: nuget
+revisions:
+  0.24.0:
+    licensed:
+      declared: Unlicense
