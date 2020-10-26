@@ -1,0 +1,8 @@
+coordinates:
+  name: atari-py
+  provider: pypi
+  type: pypi
+revisions:
+  0.2.6:
+    licensed:
+      declared: GPL-2.0-or-later
