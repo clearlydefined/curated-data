@@ -1,0 +1,9 @@
+coordinates:
+  name: guid
+  namespace: marstr
+  provider: github
+  type: git
+revisions:
+  8bdf7d1a087ccc975cf37dd6507da50698fd19ca:
+    licensed:
+      declared: MIT
