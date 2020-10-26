@@ -1,0 +1,9 @@
+coordinates:
+  name: go-restful
+  namespace: emicklei
+  provider: github
+  type: git
+revisions:
+  85d198d05a92d31823b852b4a5928114912e8949:
+    licensed:
+      declared: MIT
