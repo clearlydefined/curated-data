@@ -12,3 +12,6 @@ revisions:
   1.8.0:
     licensed:
       declared: Zlib
+  2.0.1:
+    licensed:
+      declared: Zlib and BSD-2-Clause
