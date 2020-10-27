@@ -11,4 +11,4 @@ revisions:
       declared: Zlib
   2.0.1:
     licensed:
-      declared: BSD-3-Clause
+      declared: Zlib and BSD-2-Clause
