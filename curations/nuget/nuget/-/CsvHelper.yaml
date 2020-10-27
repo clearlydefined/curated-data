@@ -26,7 +26,7 @@ revisions:
       declared: MS-PL OR Apache-2.0
   3.0.0-beta6:
     licensed:
-      declared: MS-PL
+      declared: MS-PL OR Apache-2.0
   7.1.0:
     licensed:
       declared: MS-PL OR Apache-2.0
