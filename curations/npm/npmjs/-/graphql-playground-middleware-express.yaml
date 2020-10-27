@@ -1,0 +1,8 @@
+coordinates:
+  name: graphql-playground-middleware-express
+  provider: npmjs
+  type: npm
+revisions:
+  1.7.11:
+    licensed:
+      declared: MIT
