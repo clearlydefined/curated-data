@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  1.6.0:
+    licensed:
+      declared: Zlib and BSD-2-Clause
   1.7.0:
     licensed:
       declared: Zlib
