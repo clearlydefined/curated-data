@@ -1,0 +1,8 @@
+coordinates:
+  name: coremltools
+  provider: pypi
+  type: pypi
+revisions:
+  '3.4':
+    licensed:
+      declared: BSD-3-Clause
