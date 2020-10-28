@@ -9,6 +9,9 @@ revisions:
   1.5.40:
     licensed:
       declared: MIT
+  1.7.5:
+    licensed:
+      declared: MIT
   2.0.0-csd.1.0.3:
     licensed:
       declared: MIT

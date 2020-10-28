@@ -9,10 +9,16 @@ revisions:
         path: LICENSE.md
     licensed:
       declared: Apache-2.0
+  3.6.6:
+    licensed:
+      declared: MS-PL
   3.7.0:
     licensed:
       declared: Apache-2.0
   3.7.2:
+    licensed:
+      declared: Apache-2.0
+  3.8.2:
     licensed:
       declared: Apache-2.0
   3.9.0:

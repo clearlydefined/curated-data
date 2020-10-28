@@ -1,0 +1,15 @@
+coordinates:
+  name: joou-java-6
+  namespace: org.jooq
+  provider: mavencentral
+  type: maven
+revisions:
+  0.9.4:
+    described:
+      sourceLocation:
+        name: joou
+        namespace: jooq
+        provider: github
+        revision: b785f752f1be0c5aa50d59339d60d9a2173f8201
+        type: git
+        url: 'https://github.com/jooq/joou/commit/b785f752f1be0c5aa50d59339d60d9a2173f8201'

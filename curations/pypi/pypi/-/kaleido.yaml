@@ -1,0 +1,8 @@
+coordinates:
+  name: kaleido
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.3:
+    licensed:
+      declared: MIT

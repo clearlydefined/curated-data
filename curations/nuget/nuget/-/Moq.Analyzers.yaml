@@ -1,0 +1,8 @@
+coordinates:
+  name: Moq.Analyzers
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.7:
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,18 @@
+coordinates:
+  name: commons-net
+  namespace: commons-net
+  provider: mavencentral
+  type: maven
+revisions:
+  '3.6':
+    described:
+      sourceLocation:
+        name: commons-net
+        namespace: apache
+        provider: github
+        revision: 163fe46c019f5184016207c247cdff30ee740ecc
+        type: git
+        url: 'https://github.com/apache/commons-net/commit/163fe46c019f5184016207c247cdff30ee740ecc'
+    files:
+      - license: Apache-2.0
+        path: org/apache/commons/net/ftp/FTPFileFilters$2.class
