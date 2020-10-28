@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  8.0.16:
+    licensed:
+      declared: OTHER
   8.0.19:
     licensed:
       declared: L-2.0-only WITH (OTHER AND Universal-FOSS-exception-1.0)
