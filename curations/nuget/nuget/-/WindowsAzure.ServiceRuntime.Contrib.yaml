@@ -1,0 +1,8 @@
+coordinates:
+  name: WindowsAzure.ServiceRuntime.Contrib
+  provider: nuget
+  type: nuget
+revisions:
+  1.6.0.8:
+    licensed:
+      declared: MS-PL

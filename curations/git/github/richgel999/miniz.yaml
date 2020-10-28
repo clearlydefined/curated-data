@@ -1,0 +1,9 @@
+coordinates:
+  name: miniz
+  namespace: richgel999
+  provider: github
+  type: git
+revisions:
+  a4264837ae37384b1d7a205a6732db322f0f3769:
+    licensed:
+      declared: MIT

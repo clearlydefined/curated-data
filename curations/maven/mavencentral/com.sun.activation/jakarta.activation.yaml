@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.activation
+  namespace: com.sun.activation
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.2:
+    licensed:
+      declared: BSD-3-Clause

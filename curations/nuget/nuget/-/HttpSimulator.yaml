@@ -1,0 +1,8 @@
+coordinates:
+  name: HttpSimulator
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.1:
+    licensed:
+      declared: MIT

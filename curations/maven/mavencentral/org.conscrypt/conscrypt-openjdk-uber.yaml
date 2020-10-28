@@ -1,0 +1,15 @@
+coordinates:
+  name: conscrypt-openjdk-uber
+  namespace: org.conscrypt
+  provider: mavencentral
+  type: maven
+revisions:
+  2.5.1:
+    described:
+      sourceLocation:
+        name: conscrypt
+        namespace: google
+        provider: github
+        revision: 3e26dd92a074ee8849e341c1235aed89f18264c2
+        type: git
+        url: 'https://github.com/google/conscrypt/commit/3e26dd92a074ee8849e341c1235aed89f18264c2'

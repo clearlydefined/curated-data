@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-excel-export
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  2.4.0:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,8 @@
+coordinates:
+  name: NeoSmart.AsyncLock
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.0.2:
+    licensed:
+      declared: MIT

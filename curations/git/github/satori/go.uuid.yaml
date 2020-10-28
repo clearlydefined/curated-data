@@ -1,0 +1,9 @@
+coordinates:
+  name: go.uuid
+  namespace: satori
+  provider: github
+  type: git
+revisions:
+  b061729afc07e77a8aa4fad0a2fd840958f1942a:
+    licensed:
+      declared: MIT

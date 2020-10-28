@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-dropdowns
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  3.5.6:
+    licensed:
+      declared: OTHER

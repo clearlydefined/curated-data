@@ -1,0 +1,9 @@
+coordinates:
+  name: json
+  namespace: zanders3
+  provider: github
+  type: git
+revisions:
+  a45b3ad0a1aa710ba4a2722195579a43aa92bba7:
+    licensed:
+      declared: MIT

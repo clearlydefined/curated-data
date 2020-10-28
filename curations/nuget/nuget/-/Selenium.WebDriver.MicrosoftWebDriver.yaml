@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  10.0.15063:
+    licensed:
+      declared: Unlicense
   10.0.16299:
     licensed:
       declared: Unlicense

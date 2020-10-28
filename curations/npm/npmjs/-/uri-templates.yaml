@@ -1,0 +1,8 @@
+coordinates:
+  name: uri-templates
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.0:
+    licensed:
+      declared: OTHER

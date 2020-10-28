@@ -1,0 +1,9 @@
+coordinates:
+  name: httpclient-android
+  namespace: smarek
+  provider: github
+  type: git
+revisions:
+  94df6a1f53793a3b4c15327090f39582692d79ad:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: icu4j
+  namespace: com.ibm.icu
+  provider: mavencentral
+  type: maven
+revisions:
+  '58.2':
+    licensed:
+      declared: Unicode-DFS-2016
