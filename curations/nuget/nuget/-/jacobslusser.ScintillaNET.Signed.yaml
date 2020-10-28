@@ -1,0 +1,8 @@
+coordinates:
+  name: jacobslusser.ScintillaNET.Signed
+  provider: nuget
+  type: nuget
+revisions:
+  3.6.3:
+    licensed:
+      declared: MIT
