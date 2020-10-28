@@ -1,0 +1,9 @@
+coordinates:
+  name: preprocessor
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  d135cad759062ba646cb4bc40c163e590d381001:
+    licensed:
+      declared: BSL-1.0
