@@ -1,0 +1,9 @@
+coordinates:
+  name: android-mail
+  namespace: com.sun.mail
+  provider: mavencentral
+  type: maven
+revisions:
+  1.6.2:
+    licensed:
+      declared: CDDL-1.0
