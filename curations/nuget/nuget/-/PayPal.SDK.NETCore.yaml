@@ -1,0 +1,8 @@
+coordinates:
+  name: PayPal.SDK.NETCore
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.1.2:
+    licensed:
+      declared: OTHER

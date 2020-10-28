@@ -1,0 +1,8 @@
+coordinates:
+  name: Fabric
+  provider: cocoapods
+  type: pod
+revisions:
+  1.10.2:
+    licensed:
+      declared: OTHER

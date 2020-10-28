@@ -1,0 +1,8 @@
+coordinates:
+  name: AudioSwitcher.AudioApi.CoreAudio
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0.1:
+    licensed:
+      declared: MS-PL

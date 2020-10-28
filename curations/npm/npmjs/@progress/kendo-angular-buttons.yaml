@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-buttons
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  4.4.2:
+    licensed:
+      declared: OTHER

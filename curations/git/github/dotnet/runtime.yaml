@@ -1,0 +1,9 @@
+coordinates:
+  name: runtime
+  namespace: dotnet
+  provider: github
+  type: git
+revisions:
+  38017c3935de95d0335bac04f4901ddfc2718656:
+    licensed:
+      declared: MIT AND OTHER

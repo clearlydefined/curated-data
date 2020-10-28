@@ -1,0 +1,9 @@
+coordinates:
+  name: logrus
+  namespace: sirupsen
+  provider: github
+  type: git
+revisions:
+  3ec0642a7fb6488f65b06f9040adc67e3990296a:
+    licensed:
+      declared: MIT

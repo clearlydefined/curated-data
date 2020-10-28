@@ -1,0 +1,9 @@
+coordinates:
+  name: ckeditor5-comments
+  namespace: '@ckeditor'
+  provider: npmjs
+  type: npm
+revisions:
+  17.0.0:
+    licensed:
+      declared: OTHER

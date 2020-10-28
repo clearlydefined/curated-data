@@ -1,0 +1,8 @@
+coordinates:
+  name: Avalonia.Controls.DataGrid
+  provider: nuget
+  type: nuget
+revisions:
+  0.8.1:
+    licensed:
+      declared: MIT
