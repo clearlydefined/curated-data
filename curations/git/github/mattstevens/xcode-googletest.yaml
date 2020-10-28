@@ -1,0 +1,9 @@
+coordinates:
+  name: xcode-googletest
+  namespace: mattstevens
+  provider: github
+  type: git
+revisions:
+  1a5f833a7150225448f9379e475b3c122dd922d0:
+    licensed:
+      declared: MIT
