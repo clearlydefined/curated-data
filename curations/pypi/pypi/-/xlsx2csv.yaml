@@ -1,0 +1,8 @@
+coordinates:
+  name: xlsx2csv
+  provider: pypi
+  type: pypi
+revisions:
+  0.7.7:
+    licensed:
+      declared: GPL-2.0-or-later
