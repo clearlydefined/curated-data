@@ -1,0 +1,9 @@
+coordinates:
+  name: parameter
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  5d3e39325e13a74645b60af33b16e8369f5ee61d:
+    licensed:
+      declared: BSL-1.0
