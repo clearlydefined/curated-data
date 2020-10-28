@@ -1,0 +1,9 @@
+coordinates:
+  name: mpi4py
+  namespace: mpi4py
+  provider: github
+  type: git
+revisions:
+  7db3f9c741d3dfd8dda14ffb537ed251280d2025:
+    licensed:
+      declared: BSD-2-Clause
