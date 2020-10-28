@@ -6,4 +6,4 @@ coordinates:
 revisions:
   '58.2':
     licensed:
-      declared: ICU
+      declared: Unicode-DFS-2016
