@@ -8,10 +8,10 @@ revisions:
     files:
       - attributions:
           - 'Copyright (c) 2012 - present, Victor Zverovich'
-        license: MIT OR OTHER
+        license: MIT WITH OTHER
         path: LICENSE.rst
     licensed:
-      declared: MIT OR OTHER
+      declared: MIT WITH OTHER
   f19b1a521ee8b606dedcadfda69fd10ddf882753:
     licensed:
-      declared: MIT OR OTHER
+      declared: MIT WITH OTHER
