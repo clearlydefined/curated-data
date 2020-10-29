@@ -1,0 +1,8 @@
+coordinates:
+  name: LibLog
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.6:
+    licensed:
+      declared: MIT

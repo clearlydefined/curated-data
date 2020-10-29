@@ -1,0 +1,8 @@
+coordinates:
+  name: Rg.Plugins.Popup
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.0.223:
+    licensed:
+      declared: MIT

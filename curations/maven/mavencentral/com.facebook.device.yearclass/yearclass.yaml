@@ -1,0 +1,9 @@
+coordinates:
+  name: yearclass
+  namespace: com.facebook.device.yearclass
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.0:
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,8 @@
+coordinates:
+  name: wastorage
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0:
+    licensed:
+      declared: OTHER

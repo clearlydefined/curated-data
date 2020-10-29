@@ -1,0 +1,8 @@
+coordinates:
+  name: Select2-Bootstrap-Theme
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.4:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: React.Core
+  provider: nuget
+  type: nuget
+revisions:
+  5.2.5:
+    licensed:
+      declared: MIT

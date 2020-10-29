@@ -1,0 +1,8 @@
+coordinates:
+  name: routes
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.0:
+    licensed:
+      declared: MIT

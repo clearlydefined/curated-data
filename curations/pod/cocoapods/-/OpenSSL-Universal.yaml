@@ -1,0 +1,8 @@
+coordinates:
+  name: OpenSSL-Universal
+  provider: cocoapods
+  type: pod
+revisions:
+  1.0.2.19:
+    licensed:
+      declared: OpenSSL

@@ -1,0 +1,18 @@
+coordinates:
+  name: jade4j
+  namespace: de.neuland-bfi
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.7:
+    described:
+      sourceLocation:
+        name: jade4j
+        namespace: neuland
+        provider: github
+        revision: 2fd0cd147e08f91336b50203ee8e45ac52ac138f
+        type: git
+        url: 'https://github.com/neuland/jade4j/commit/2fd0cd147e08f91336b50203ee8e45ac52ac138f'
+    files:
+      - license: NONE
+        path: de/neuland/jade4j/filter/CachingFilter.class
