@@ -1,11 +1,8 @@
 coordinates:
-  name: Prism.PubSubEvents
+  name: Sparc.TagCloud
   provider: nuget
   type: nuget
 revisions:
-  1.0.0:
+  0.0.1:
     licensed:
       declared: OTHER
-  1.1.2:
-    licensed:
-      declared: Apache-2.0
