@@ -1,0 +1,8 @@
+coordinates:
+  name: azureml-accel-models
+  provider: pypi
+  type: pypi
+revisions:
+  1.13.0:
+    licensed:
+      declared: MIT
