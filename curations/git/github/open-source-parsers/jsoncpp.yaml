@@ -16,6 +16,9 @@ revisions:
         path: LICENSE
     licensed:
       declared: MIT OR OTHER
+  9be589598595963f94ba264d7b416d0533421106:
+    licensed:
+      declared: MIT
   d2e6a971f4544c55b8e3b25cf96db266971b778f:
     licensed:
       declared: MIT OR OTHER
