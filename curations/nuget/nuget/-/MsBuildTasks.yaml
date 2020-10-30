@@ -1,8 +1,0 @@
-coordinates:
-  name: MsBuildTasks
-  provider: nuget
-  type: nuget
-revisions:
-  1.5.0.235:
-    licensed:
-      declared: BSD-2-Clause

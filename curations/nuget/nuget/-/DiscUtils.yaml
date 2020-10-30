@@ -1,8 +1,0 @@
-coordinates:
-  name: DiscUtils
-  provider: nuget
-  type: nuget
-revisions:
-  0.14.2-alpha:
-    licensed:
-      declared: MIT

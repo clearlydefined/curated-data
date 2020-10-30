@@ -9,3 +9,12 @@ revisions:
   2.4.0:
     licensed:
       declared: MIT
+  3.1.0:
+    licensed:
+      declared: MIT
+  3.2.0-unstable0014:
+    licensed:
+      declared: MIT
+  3.2.0-unstable0018:
+    licensed:
+      declared: MIT

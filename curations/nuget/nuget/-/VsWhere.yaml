@@ -1,8 +1,0 @@
-coordinates:
-  name: VsWhere
-  provider: nuget
-  type: nuget
-revisions:
-  2.3.7:
-    licensed:
-      declared: MIT

@@ -1,8 +1,0 @@
-coordinates:
-  name: system.windows.interactivity.wpf
-  provider: nuget
-  type: nuget
-revisions:
-  2.0.20525:
-    licensed:
-      declared: OTHER

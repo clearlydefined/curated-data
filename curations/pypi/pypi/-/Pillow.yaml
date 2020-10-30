@@ -12,7 +12,16 @@ revisions:
   5.4.1:
     licensed:
       declared: HPND
+  6.0.0:
+    licensed:
+      declared: HPND
   6.1.0:
+    licensed:
+      declared: HPND
+  6.2.0:
+    files:
+      - license: HPND
+        path: Pillow-6.2.0/setup.py
     licensed:
       declared: HPND
   6.2.1:

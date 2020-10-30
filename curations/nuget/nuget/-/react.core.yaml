@@ -1,8 +1,0 @@
-coordinates:
-  name: react.core
-  provider: nuget
-  type: nuget
-revisions:
-  3.4.1:
-    licensed:
-      declared: BSD-3-Clause AND OTHER

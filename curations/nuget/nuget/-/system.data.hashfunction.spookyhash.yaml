@@ -1,8 +1,0 @@
-coordinates:
-  name: system.data.hashfunction.spookyhash
-  provider: nuget
-  type: nuget
-revisions:
-  2.0.0:
-    licensed:
-      declared: MIT

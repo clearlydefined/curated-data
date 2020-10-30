@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  3.4.1:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
   5.2.5:
     licensed:
       declared: MIT
