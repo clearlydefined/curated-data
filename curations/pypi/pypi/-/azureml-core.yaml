@@ -24,6 +24,9 @@ revisions:
   1.11.0:
     licensed:
       declared: OTHER
+  1.11.0.post1:
+    licensed:
+      declared: MIT
   1.12.0.post1:
     licensed:
       declared: OTHER
