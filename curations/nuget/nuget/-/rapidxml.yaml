@@ -5,4 +5,4 @@ coordinates:
 revisions:
   1.13.0:
     licensed:
-      declared: MIT
+      declared: MIT OR BSL-1.0
