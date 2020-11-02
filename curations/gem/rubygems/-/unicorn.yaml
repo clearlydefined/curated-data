@@ -1,0 +1,8 @@
+coordinates:
+  name: unicorn
+  provider: rubygems
+  type: gem
+revisions:
+  5.4.0:
+    licensed:
+      declared: GPL-3.0
