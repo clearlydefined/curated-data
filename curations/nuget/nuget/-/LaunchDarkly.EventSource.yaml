@@ -1,0 +1,8 @@
+coordinates:
+  name: LaunchDarkly.EventSource
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.3:
+    licensed:
+      declared: Apache-2.0
