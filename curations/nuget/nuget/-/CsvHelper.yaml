@@ -39,3 +39,6 @@ revisions:
   9.2.2:
     licensed:
       declared: MS-PL OR Apache-2.0
+  9.2.3:
+    licensed:
+      declared: MS-PL
