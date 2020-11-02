@@ -5,7 +5,7 @@ coordinates:
 revisions:
   3.3.6:
     licensed:
-      declared: Apache-2.0
+      declared: MIT
   3.3.7:
     licensed:
       declared: MIT
