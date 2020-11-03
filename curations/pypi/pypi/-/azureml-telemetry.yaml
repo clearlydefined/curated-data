@@ -15,6 +15,12 @@ revisions:
   1.0.60:
     licensed:
       declared: OTHER
+  1.6.0:
+    licensed:
+      declared: OTHER
+  1.8.0:
+    licensed:
+      declared: OTHER
   1.10.0:
     licensed:
       declared: OTHER
@@ -30,12 +36,16 @@ revisions:
   1.15.0:
     licensed:
       declared: OTHER
-  1.17.0:
-    licensed:
-      declared: NONE
   1.6.0:
     licensed:
       declared: OTHER
   1.8.0:
     licensed:
       declared: OTHER
+  1.16.0:
+    licensed:
+      declared: OTHER
+  1.17.0:
+    licensed:
+      declared: NONE
+  
