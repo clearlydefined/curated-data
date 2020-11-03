@@ -1,0 +1,11 @@
+coordinates:
+  name: Rx-Testing
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.30214:
+    licensed:
+      declared: Apache-2.0
+  2.2.5:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: Common.Logging.ApplicationInsights0170
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.1:
+    licensed:
+      declared: Apache-2.0

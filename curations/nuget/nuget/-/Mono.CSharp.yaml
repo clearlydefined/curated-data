@@ -1,0 +1,8 @@
+coordinates:
+  name: Mono.CSharp
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.0.143:
+    licensed:
+      declared: MIT OR GPL-2.0-only

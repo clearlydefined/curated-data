@@ -1,0 +1,8 @@
+coordinates:
+  name: torchtext
+  provider: pypi
+  type: pypi
+revisions:
+  0.2.3:
+    licensed:
+      declared: BSD-3-Clause

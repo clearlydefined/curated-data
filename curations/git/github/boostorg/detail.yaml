@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  622c7c4ee6046943164fc7bde49023369969de92:
+    licensed:
+      declared: BSL-1.0
   8dbbfe372b83f7ff32d545bad1c779348bfe3eea:
     licensed:
       declared: BSL-1.0

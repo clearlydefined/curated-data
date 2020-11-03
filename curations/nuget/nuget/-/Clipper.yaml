@@ -1,0 +1,8 @@
+coordinates:
+  name: Clipper
+  provider: nuget
+  type: nuget
+revisions:
+  6.4.0:
+    licensed:
+      declared: BSL-1.0

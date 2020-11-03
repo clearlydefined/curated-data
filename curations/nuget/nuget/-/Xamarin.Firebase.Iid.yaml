@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Firebase.Iid
+  provider: nuget
+  type: nuget
+revisions:
+  71.1710.0:
+    licensed:
+      declared: MIT

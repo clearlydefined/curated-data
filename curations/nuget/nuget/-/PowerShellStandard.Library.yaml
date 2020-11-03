@@ -3,11 +3,17 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  3.0.0-preview-02:
+    licensed:
+      declared: MIT
   5.1.0:
     files:
       - attributions:
           - Copyright (c) Microsoft Corporation. All rights reserved.
         license: MIT
         path: PowerShellStandard.Library.nuspec
+    licensed:
+      declared: MIT
+  5.1.1:
     licensed:
       declared: MIT

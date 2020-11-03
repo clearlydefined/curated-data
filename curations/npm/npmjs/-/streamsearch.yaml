@@ -1,0 +1,9 @@
+coordinates:
+  name: streamsearch
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.2:
+    files:
+      - license: MIT
+        path: package/package.json

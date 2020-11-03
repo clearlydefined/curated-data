@@ -11,3 +11,6 @@ revisions:
         path: Xamarin.Android.Support.v13.nuspec
     licensed:
       declared: MIT
+  28.0.0.3:
+    licensed:
+      declared: MIT

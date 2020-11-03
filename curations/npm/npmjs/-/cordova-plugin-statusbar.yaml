@@ -1,0 +1,8 @@
+coordinates:
+  name: cordova-plugin-statusbar
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.2:
+    licensed:
+      declared: Apache-2.0

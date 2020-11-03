@@ -14,3 +14,12 @@ revisions:
   73.1.130:
     licensed:
       declared: BSD-3-Clause
+  75.1.143:
+    licensed:
+      declared: BSD-3-Clause
+  81.3.100:
+    licensed:
+      declared: BSD-3-Clause    
+  84.4.10:
+    licensed:
+      declared: BSD-3-Clause

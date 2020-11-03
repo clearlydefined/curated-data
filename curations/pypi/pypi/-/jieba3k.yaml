@@ -1,0 +1,8 @@
+coordinates:
+  name: jieba3k
+  provider: pypi
+  type: pypi
+revisions:
+  0.35.1:
+    licensed:
+      declared: MIT

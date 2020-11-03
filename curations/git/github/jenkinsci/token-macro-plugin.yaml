@@ -1,0 +1,9 @@
+coordinates:
+  name: token-macro-plugin
+  namespace: jenkinsci
+  provider: github
+  type: git
+revisions:
+  92ba403e2ff135dba048ad3cc0e5071d07d98b58:
+    licensed:
+      declared: MIT

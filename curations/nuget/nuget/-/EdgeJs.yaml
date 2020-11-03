@@ -1,0 +1,8 @@
+coordinates:
+  name: EdgeJs
+  provider: nuget
+  type: nuget
+revisions:
+  11.3.3:
+    licensed:
+      declared: Apache-2.0

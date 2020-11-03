@@ -1,0 +1,11 @@
+coordinates:
+  name: Microsoft.PowerShell.Commands.Utility
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.2:
+    licensed:
+      declared: MIT  
+  7.0.3:
+    licensed:
+      declared: MIT

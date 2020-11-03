@@ -1,0 +1,8 @@
+coordinates:
+  name: Docker.DotNet.BasicAuth
+  provider: nuget
+  type: nuget
+revisions:
+  3.125.2:
+    licensed:
+      declared: Apache-2.0

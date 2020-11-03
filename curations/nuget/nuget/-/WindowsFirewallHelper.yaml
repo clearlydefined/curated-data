@@ -1,0 +1,8 @@
+coordinates:
+  name: WindowsFirewallHelper
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.2.29-beta1:
+    licensed:
+      declared: MIT

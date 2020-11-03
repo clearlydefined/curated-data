@@ -1,0 +1,8 @@
+coordinates:
+  name: icu4c-data
+  provider: npmjs
+  type: npm
+revisions:
+  0.67.2:
+    licensed:
+      declared: OTHER

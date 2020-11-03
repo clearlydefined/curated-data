@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.AspNet.SignalR.Client
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.1:
+    licensed:
+      declared: Apache-2.0

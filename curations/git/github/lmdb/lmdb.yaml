@@ -1,0 +1,9 @@
+coordinates:
+  name: lmdb
+  namespace: lmdb
+  provider: github
+  type: git
+revisions:
+  0c357cc88a00bda03aa4a982fc227a5872707df2:
+    licensed:
+      declared: OLDAP-2.8

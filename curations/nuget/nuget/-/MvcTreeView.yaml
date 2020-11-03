@@ -1,0 +1,8 @@
+coordinates:
+  name: MvcTreeView
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.0:
+    licensed:
+      declared: MS-PL

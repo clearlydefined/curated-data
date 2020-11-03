@@ -1,0 +1,11 @@
+coordinates:
+  name: OptimizedPriorityQueue
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.0:
+    licensed:
+      declared: MIT
+  5.0.0:
+    licensed:
+      declared: MIT

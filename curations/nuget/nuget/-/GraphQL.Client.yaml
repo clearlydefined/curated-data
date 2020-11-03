@@ -1,0 +1,11 @@
+coordinates:
+  name: GraphQL.Client
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.3:
+    licensed:
+      declared: MIT
+  2.0.0-alpha.3:      
+    licensed:
+      declared: MIT

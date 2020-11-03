@@ -1,0 +1,11 @@
+coordinates:
+  name: Prism.PubSubEvents
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: OTHER
+  1.1.2:
+    licensed:
+      declared: Apache-2.0

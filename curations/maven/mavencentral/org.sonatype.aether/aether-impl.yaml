@@ -1,0 +1,9 @@
+coordinates:
+  name: aether-impl
+  namespace: org.sonatype.aether
+  provider: mavencentral
+  type: maven
+revisions:
+  1.13.1:
+    licensed:
+      declared: EPL-1.0

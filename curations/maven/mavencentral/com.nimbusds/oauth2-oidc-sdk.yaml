@@ -13,6 +13,12 @@ revisions:
   5.64.4:
     licensed:
       declared: Apache-2.0
+  '6.14':
+    licensed:
+      declared: Apache-2.0
   '6.5':
+    licensed:
+      declared: Apache-2.0
+  7.1.1:
     licensed:
       declared: Apache-2.0

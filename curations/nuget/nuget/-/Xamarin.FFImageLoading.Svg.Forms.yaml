@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.FFImageLoading.Svg.Forms
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.11.982:
+    licensed:
+      declared: MIT

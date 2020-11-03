@@ -1,0 +1,8 @@
+coordinates:
+  name: FBSDKCoreKit
+  provider: cocoapods
+  type: pod
+revisions:
+  5.6.0:
+    licensed:
+      declared: OTHER

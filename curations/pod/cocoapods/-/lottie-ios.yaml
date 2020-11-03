@@ -1,0 +1,8 @@
+coordinates:
+  name: lottie-ios
+  provider: cocoapods
+  type: pod
+revisions:
+  3.1.3:
+    licensed:
+      declared: Apache-2.0

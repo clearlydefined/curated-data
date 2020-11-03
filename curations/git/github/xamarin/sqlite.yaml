@@ -1,0 +1,9 @@
+coordinates:
+  name: sqlite
+  namespace: xamarin
+  provider: github
+  type: git
+revisions:
+  1a3276b8853d695c96c9c5be3d4ff752e67a1d6f:
+    licensed:
+      declared: Apache-2.0 AND blessing

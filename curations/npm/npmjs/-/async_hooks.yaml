@@ -1,0 +1,8 @@
+coordinates:
+  name: async_hooks
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Google.AutoValue.Annotations
+  provider: nuget
+  type: nuget
+revisions:
+  1.6.5:
+    licensed:
+      declared: MIT

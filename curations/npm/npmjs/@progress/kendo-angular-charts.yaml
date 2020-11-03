@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-charts
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  3.9.1:
+    licensed:
+      declared: OTHER

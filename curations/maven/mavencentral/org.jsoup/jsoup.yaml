@@ -1,0 +1,12 @@
+coordinates:
+  name: jsoup
+  namespace: org.jsoup
+  provider: mavencentral
+  type: maven
+revisions:
+  1.11.3:
+    licensed:
+      declared: MIT
+  1.8.3:
+    licensed:
+      declared: MIT

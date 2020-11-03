@@ -1,0 +1,9 @@
+coordinates:
+  name: android-gpuimage
+  namespace: cats-oss
+  provider: github
+  type: git
+revisions:
+  2f01ae71cb5f92cf9028138e40a12ab6ed924549:
+    licensed:
+      declared: Apache-2.0

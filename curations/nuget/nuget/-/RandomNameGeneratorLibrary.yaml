@@ -1,0 +1,8 @@
+coordinates:
+  name: RandomNameGeneratorLibrary
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.2:
+    licensed:
+      declared: MIT

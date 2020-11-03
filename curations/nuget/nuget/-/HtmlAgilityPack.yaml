@@ -21,10 +21,16 @@ revisions:
   1.11.17:
     licensed:
       declared: MIT
+  1.11.18:
+    licensed:
+      declared: MIT
   1.11.2:
     licensed:
       declared: MIT
   1.11.21:
+    licensed:
+      declared: MIT
+  1.11.22:
     licensed:
       declared: MIT
   1.11.23:
@@ -43,6 +49,9 @@ revisions:
     licensed:
       declared: MS-PL
   1.4.9:
+    licensed:
+      declared: MS-PL
+  1.4.9.4:
     licensed:
       declared: MS-PL
   1.4.9.5:

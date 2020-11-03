@@ -1,0 +1,9 @@
+coordinates:
+  name: org.abego.treelayout.core
+  namespace: org.abego.treelayout
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.3:
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,11 @@
+coordinates:
+  name: Elasticsearch.Net.JsonNET
+  provider: nuget
+  type: nuget
+revisions:
+  1.7.1:
+    licensed:
+      declared: Apache-2.0
+  1.9.0:
+    licensed:
+      declared: Apache-2.0

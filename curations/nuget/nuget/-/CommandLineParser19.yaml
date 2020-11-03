@@ -1,0 +1,8 @@
+coordinates:
+  name: CommandLineParser19
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.74:
+    licensed:
+      declared: MIT

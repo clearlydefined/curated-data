@@ -1,0 +1,9 @@
+coordinates:
+  name: localizedstringkit
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  a1db0f3740a407c6102c533c8d1f8c90ef7d5b1b:
+    licensed:
+      declared: MIT

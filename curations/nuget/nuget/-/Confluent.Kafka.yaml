@@ -21,6 +21,9 @@ revisions:
   0.11.6:
     licensed:
       declared: Apache-2.0 AND BSD-2-Clause
+  0.9.5:
+    licensed:
+      declared: Apache-2.0 AND BSD-2-Clause
   1.0.0:
     licensed:
       declared: Apache-2.0 AND BSD-2-Clause
@@ -43,6 +46,9 @@ revisions:
     licensed:
       declared: Apache-2.0 AND BSD-2-Clause
   1.1.0:
+    licensed:
+      declared: Apache-2.0 AND BSD-2-Clause
+  1.2.1:
     licensed:
       declared: Apache-2.0 AND BSD-2-Clause
   1.2.2:

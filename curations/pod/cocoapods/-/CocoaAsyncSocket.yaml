@@ -1,0 +1,8 @@
+coordinates:
+  name: CocoaAsyncSocket
+  provider: cocoapods
+  type: pod
+revisions:
+  7.6.4:
+    licensed:
+      declared: OTHER OR BSD-Source-Code

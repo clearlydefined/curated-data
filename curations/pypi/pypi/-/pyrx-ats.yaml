@@ -1,0 +1,8 @@
+coordinates:
+  name: pyrx-ats
+  provider: pypi
+  type: pypi
+revisions:
+  0.3.1:
+    licensed:
+      declared: GPL-2.0-only

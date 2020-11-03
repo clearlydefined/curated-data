@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Google.Android.Material
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT

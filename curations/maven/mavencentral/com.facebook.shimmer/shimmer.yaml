@@ -1,0 +1,9 @@
+coordinates:
+  name: shimmer
+  namespace: com.facebook.shimmer
+  provider: mavencentral
+  type: maven
+revisions:
+  0.5.0:
+    licensed:
+      declared: BSD-2-Clause

@@ -1,0 +1,9 @@
+coordinates:
+  name: xpp3
+  namespace: xpp3
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.4c:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,8 @@
+coordinates:
+  name: MSBuild.NugetContentRestore
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.6:
+    licensed:
+      declared: MIT

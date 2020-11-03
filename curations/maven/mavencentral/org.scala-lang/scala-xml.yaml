@@ -1,0 +1,9 @@
+coordinates:
+  name: scala-xml
+  namespace: org.scala-lang
+  provider: mavencentral
+  type: maven
+revisions:
+  2.11.0-M4:
+    licensed:
+      declared: BSD-3-Clause

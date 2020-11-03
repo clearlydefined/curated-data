@@ -6,6 +6,9 @@ revisions:
   1.10.0:
     licensed:
       declared: MS-PL
+  1.7.2:
+    licensed:
+      declared: MS-PL
   1.8.4:
     licensed:
       declared: MS-PL

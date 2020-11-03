@@ -1,0 +1,8 @@
+coordinates:
+  name: Magick.NET-Q16-AnyCPU
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.1.101:
+    licensed:
+      declared: Apache-2.0

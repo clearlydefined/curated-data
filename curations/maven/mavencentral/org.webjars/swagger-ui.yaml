@@ -1,0 +1,12 @@
+coordinates:
+  name: swagger-ui
+  namespace: org.webjars
+  provider: mavencentral
+  type: maven
+revisions:
+  3.25.0:
+    licensed:
+      declared: Apache-2.0
+  3.32.5:
+    licensed:
+      declared: Apache-2.0

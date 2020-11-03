@@ -1,0 +1,9 @@
+coordinates:
+  name: core
+  namespace: com.madgag.spongycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  1.58.0.0:
+    licensed:
+      declared: MIT

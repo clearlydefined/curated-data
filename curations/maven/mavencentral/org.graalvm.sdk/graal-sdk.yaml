@@ -7,3 +7,6 @@ revisions:
   20.1.0:
     licensed:
       declared: UPL-1.0
+  20.2.0:
+    licensed:
+      declared: UPL-1.0

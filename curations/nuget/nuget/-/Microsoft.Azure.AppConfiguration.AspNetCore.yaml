@@ -12,3 +12,6 @@ revisions:
   3.0.2:
     licensed:
       declared: OTHER
+  4.0.0-preview:
+    licensed:
+      declared: OTHER

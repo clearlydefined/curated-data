@@ -1,0 +1,38 @@
+coordinates:
+  name: httpclient5
+  namespace: org.apache.httpcomponents.client5
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  5.0.1:
+    described:
+      facets:
+        dev:
+          - httpclient5/src/main/**
+        tests:
+          - httpclient5/src/test/**
+      sourceLocation:
+        name: httpcomponents-client
+        namespace: apache
+        provider: github
+        revision: 44e464ac200a15da3b6a73ddc39e48d12cdaf865
+        type: git
+        url: 'https://github.com/apache/httpcomponents-client/commit/44e464ac200a15da3b6a73ddc39e48d12cdaf865'
+    licensed:
+      declared: Apache-2.0
+  5.0.2:
+    described:
+      facets:
+        dev:
+          - httpclient5/src/main/**
+        examples:
+          - httpclient5/src/test/**
+      sourceLocation:
+        name: httpcomponents-client
+        namespace: apache
+        provider: github
+        revision: 09525137f826e89a911992b40d0490f136f7f0d5
+        type: git
+        url: 'https://github.com/apache/httpcomponents-client/commit/09525137f826e89a911992b40d0490f136f7f0d5'
+    licensed:
+      declared: Apache-2.0

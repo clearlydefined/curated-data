@@ -1,0 +1,8 @@
+coordinates:
+  name: dask
+  provider: pypi
+  type: pypi
+revisions:
+  2.22.0:
+    licensed:
+      declared: BSD-3-Clause

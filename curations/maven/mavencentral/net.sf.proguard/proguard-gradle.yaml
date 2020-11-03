@@ -1,0 +1,9 @@
+coordinates:
+  name: proguard-gradle
+  namespace: net.sf.proguard
+  provider: mavencentral
+  type: maven
+revisions:
+  6.0.3:
+    licensed:
+      declared: GPL-2.0-or-later

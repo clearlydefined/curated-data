@@ -1,0 +1,8 @@
+coordinates:
+  name: invokemsbuild
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.17:
+    licensed:
+      declared: MIT

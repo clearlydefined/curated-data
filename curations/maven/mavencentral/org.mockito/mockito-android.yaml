@@ -1,0 +1,9 @@
+coordinates:
+  name: mockito-android
+  namespace: org.mockito
+  provider: mavencentral
+  type: maven
+revisions:
+  2.27.0:
+    licensed:
+      declared: MIT

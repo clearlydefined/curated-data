@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  1.7R4:
+    licensed:
+      declared: MPL-2.0
   1.7R5:
     licensed:
       declared: MPL-2.0

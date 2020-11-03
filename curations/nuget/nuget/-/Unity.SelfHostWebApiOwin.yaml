@@ -1,0 +1,8 @@
+coordinates:
+  name: Unity.SelfHostWebApiOwin
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.15:
+    licensed:
+      declared: MIT

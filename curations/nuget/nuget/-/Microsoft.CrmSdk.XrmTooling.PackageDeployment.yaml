@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.CrmSdk.XrmTooling.PackageDeployment
+  provider: nuget
+  type: nuget
+revisions:
+  9.0.0.4-preview:
+    licensed:
+      declared: OTHER

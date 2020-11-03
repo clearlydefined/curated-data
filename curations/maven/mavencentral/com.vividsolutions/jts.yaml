@@ -1,0 +1,9 @@
+coordinates:
+  name: jts
+  namespace: com.vividsolutions
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.13':
+    licensed:
+      declared: LGPL-2.1-or-later

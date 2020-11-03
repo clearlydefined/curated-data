@@ -1,0 +1,14 @@
+coordinates:
+  name: Xamarin.AndroidX.Lifecycle.Common
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.0:
+    licensed:
+      declared: MIT
+  2.2.0:
+    licensed:
+      declared: MIT
+  2.3.0-alpha03:
+    licensed:
+      declared: MIT

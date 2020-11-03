@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.PowerShell.ConsoleHost
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.3:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.sisu.inject
+  namespace: org.eclipse.sisu
+  provider: mavencentral
+  type: maven
+revisions:
+  0.3.0:
+    licensed:
+      declared: EPL-1.0

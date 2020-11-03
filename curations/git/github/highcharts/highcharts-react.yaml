@@ -1,0 +1,9 @@
+coordinates:
+  name: highcharts-react
+  namespace: highcharts
+  provider: github
+  type: git
+revisions:
+  ef309d4002434208a3ffe4fe3fdfd7cda3e6e847:
+    licensed:
+      declared: MIT

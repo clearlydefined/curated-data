@@ -1,0 +1,9 @@
+coordinates:
+  name: qr-code-generator
+  namespace: nayuki
+  provider: github
+  type: git
+revisions:
+  f759146df37f4920e554c5a261c943a03e5c4e27:
+    licensed:
+      declared: MIT

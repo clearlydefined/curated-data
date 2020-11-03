@@ -1,0 +1,9 @@
+coordinates:
+  name: docs
+  namespace: dotnet
+  provider: github
+  type: git
+revisions:
+  9d770d008ff1223499de36b2b7b731d8ff6f0f2b:
+    licensed:
+      declared: MIT

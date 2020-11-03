@@ -1,0 +1,9 @@
+coordinates:
+  name: mockito-junit-jupiter
+  namespace: org.mockito
+  provider: mavencentral
+  type: maven
+revisions:
+  3.3.3:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Build.CentralPackageVersions
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.1:
+    licensed:
+      declared: MIT

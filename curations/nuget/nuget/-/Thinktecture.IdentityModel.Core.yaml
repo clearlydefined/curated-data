@@ -1,0 +1,8 @@
+coordinates:
+  name: Thinktecture.IdentityModel.Core
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.0:
+    licensed:
+      declared: NONE

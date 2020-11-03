@@ -1,0 +1,8 @@
+coordinates:
+  name: win-inet-pton
+  provider: pypi
+  type: pypi
+revisions:
+  1.1.0:
+    licensed:
+      declared: OTHER

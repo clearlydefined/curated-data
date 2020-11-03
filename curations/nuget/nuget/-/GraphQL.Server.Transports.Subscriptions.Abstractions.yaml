@@ -1,0 +1,8 @@
+coordinates:
+  name: GraphQL.Server.Transports.Subscriptions.Abstractions
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.0-alpha0046:
+    licensed:
+      declared: MIT

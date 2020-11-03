@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.WSMan.Runtime
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.2:
+    licensed:
+      declared: MIT

@@ -15,7 +15,31 @@ revisions:
   1.10.0:
     licensed:
       declared: OTHER
+  1.11.0:
+    licensed:
+      declared: OTHER
+  1.11.0.post1:
+    licensed:
+      declared: OTHER
   1.12.0.post1:
+    licensed:
+      declared: OTHER
+  1.13.0:
+    licensed:
+      declared: OTHER
+  1.13.0.post1:
+    licensed:
+      declared: OTHER
+  1.13.0.post2:
+    licensed:
+      declared: OTHER
+  1.15.0:
+    licensed:
+      declared: OTHER
+  1.16.0:
+    licensed:
+      declared: OTHER
+  1.17.0:
     licensed:
       declared: OTHER
   1.2.0:

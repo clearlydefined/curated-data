@@ -9,6 +9,9 @@ revisions:
         path: xunit.analyzers.nuspec
     licensed:
       declared: Apache-2.0
+  0.6.0:
+    licensed:
+      declared: Apache-2.0
   0.7.0:
     licensed:
       declared: Apache-2.0

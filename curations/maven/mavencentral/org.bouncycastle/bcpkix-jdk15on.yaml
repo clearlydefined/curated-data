@@ -4,6 +4,12 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '1.53':
+    licensed:
+      declared: MIT
+  '1.56':
+    licensed:
+      declared: MIT
   '1.60':
     licensed:
       declared: MIT
@@ -13,6 +19,9 @@ revisions:
           - 'Copyright (c) 2000 - 2019 The Legion of the Bouncy Castle Inc. (https://www.bouncycastle.org) '
         license: ''
         path: META-INF/MANIFEST.MF
+    licensed:
+      declared: MIT
+  '1.64':
     licensed:
       declared: MIT
   '1.66':

@@ -1,0 +1,9 @@
+coordinates:
+  name: winappdbg
+  namespace: fabioz
+  provider: github
+  type: git
+revisions:
+  1603870dc3fa3d2984ef23b6d77e400fb0a21b99:
+    licensed:
+      declared: BSD-3-Clause

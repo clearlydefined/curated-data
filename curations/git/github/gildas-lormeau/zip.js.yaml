@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  3e7920810f63d5057ef6028833243105521da369:
+    licensed:
+      declared: BSD-3-Clause
   563fe1da2579e55ae0ab1fed38a3b37a234e239e:
     licensed:
       declared: BSD-3-Clause

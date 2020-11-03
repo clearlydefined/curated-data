@@ -1,0 +1,8 @@
+coordinates:
+  name: Bootstrap.v3.Datetimepicker.CSS
+  provider: nuget
+  type: nuget
+revisions:
+  4.17.45:
+    licensed:
+      declared: MIT

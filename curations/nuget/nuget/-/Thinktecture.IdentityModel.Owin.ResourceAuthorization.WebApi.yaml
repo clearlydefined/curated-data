@@ -1,0 +1,8 @@
+coordinates:
+  name: Thinktecture.IdentityModel.Owin.ResourceAuthorization.WebApi
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0:
+    licensed:
+      declared: NONE

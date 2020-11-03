@@ -1,0 +1,9 @@
+coordinates:
+  name: go-i18n
+  namespace: nicksnyder
+  provider: github
+  type: git
+revisions:
+  e6c90c3ceece7f43060f843b495c3c9c031f5575:
+    licensed:
+      declared: MIT

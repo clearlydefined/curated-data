@@ -1,0 +1,9 @@
+coordinates:
+  name: j-text-utils
+  namespace: com.massisframework
+  provider: mavencentral
+  type: maven
+revisions:
+  0.3.4:
+    licensed:
+      declared: LGPL-2.0-only

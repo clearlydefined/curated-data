@@ -1,0 +1,18 @@
+coordinates:
+  name: cxf-rt-frontend-jaxrs
+  namespace: org.apache.cxf
+  provider: mavencentral
+  type: maven
+revisions:
+  3.3.4:
+    described:
+      sourceLocation:
+        name: cxf
+        namespace: apache
+        provider: github
+        revision: fbd2dbf5fecbac7343b9fe442a10e75cfb9f7471
+        type: git
+        url: 'https://github.com/apache/cxf/commit/fbd2dbf5fecbac7343b9fe442a10e75cfb9f7471'
+    files:
+      - license: NONE
+        path: META-INF/DEPENDENCIES

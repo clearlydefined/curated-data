@@ -1,0 +1,8 @@
+coordinates:
+  name: deep-freeze-strict
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.1:
+    licensed:
+      declared: CC0-1.0

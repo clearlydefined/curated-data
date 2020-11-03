@@ -1,0 +1,11 @@
+coordinates:
+  name: AngleSharp.Css
+  provider: nuget
+  type: nuget
+revisions:
+  0.14.0:
+    licensed:
+      declared: MIT
+  0.14.2:
+    licensed:
+      declared: MIT

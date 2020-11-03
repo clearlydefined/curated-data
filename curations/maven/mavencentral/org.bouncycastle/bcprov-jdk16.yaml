@@ -1,0 +1,9 @@
+coordinates:
+  name: bcprov-jdk16
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.46':
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: Xunit.DependencyInjection
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.2:
+    licensed:
+      declared: MIT

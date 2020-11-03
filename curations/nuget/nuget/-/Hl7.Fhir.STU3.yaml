@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.96.0:
+    licensed:
+      declared: BSD-3-Clause
   1.1.2:
     described:
       sourceLocation:
@@ -12,5 +15,14 @@ revisions:
         revision: 5dd79b45f272822e2030e330a46425ed5452e374
         type: git
         url: 'https://github.com/firelyteam/fhir-net-api/commit/5dd79b45f272822e2030e330a46425ed5452e374'
+    licensed:
+      declared: BSD-3-Clause
+  1.5.0:
+    licensed:
+      declared: BSD-3-Clause
+  1.7.0:
+    licensed:
+      declared: BSD-3-Clause
+  1.9.0:      
     licensed:
       declared: BSD-3-Clause

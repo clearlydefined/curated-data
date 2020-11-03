@@ -1,0 +1,8 @@
+coordinates:
+  name: JsonDiffPatch
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.45:
+    licensed:
+      declared: Apache-2.0

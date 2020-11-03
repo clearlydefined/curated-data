@@ -1,0 +1,8 @@
+coordinates:
+  name: engine.io-pure
+  provider: npmjs
+  type: npm
+revisions:
+  1.5.9:
+    licensed:
+      declared: MIT

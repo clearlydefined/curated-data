@@ -1,0 +1,9 @@
+coordinates:
+  name: sisu-inject-plexus
+  namespace: org.sonatype.sisu
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.0:
+    licensed:
+      declared: EPL-1.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Text.Data
+  provider: nuget
+  type: nuget
+revisions:
+  16.6.255:
+    licensed:
+      declared: OTHER

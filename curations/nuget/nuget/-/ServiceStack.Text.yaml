@@ -1,0 +1,8 @@
+coordinates:
+  name: ServiceStack.Text
+  provider: nuget
+  type: nuget
+revisions:
+  5.9.0:
+    licensed:
+      declared: OTHER

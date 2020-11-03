@@ -1,0 +1,12 @@
+coordinates:
+  name: junit-vintage-engine
+  namespace: org.junit.vintage
+  provider: mavencentral
+  type: maven
+revisions:
+  5.5.2:
+    licensed:
+      declared: EPL-2.0
+  5.6.2:
+    licensed:
+      declared: EPL-2.0

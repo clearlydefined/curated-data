@@ -1,0 +1,8 @@
+coordinates:
+  name: Wilinq
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.2:
+    licensed:
+      declared: MS-PL

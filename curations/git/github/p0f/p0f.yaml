@@ -1,0 +1,9 @@
+coordinates:
+  name: p0f
+  namespace: p0f
+  provider: github
+  type: git
+revisions:
+  4abbd20ecd7421461e360c77a98dff98e08a8b10:
+    licensed:
+      declared: LGPL-2.1-only

@@ -7,3 +7,6 @@ revisions:
   1.10.19:
     licensed:
       declared: MIT
+  1.10.8:
+    licensed:
+      declared: MIT

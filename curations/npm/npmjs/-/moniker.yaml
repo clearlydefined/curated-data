@@ -1,0 +1,8 @@
+coordinates:
+  name: moniker
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.2:
+    licensed:
+      declared: NONE

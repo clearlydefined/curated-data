@@ -1,0 +1,9 @@
+coordinates:
+  name: pycodestyle
+  namespace: pycqa
+  provider: github
+  type: git
+revisions:
+  e91ef6e40f2be30f9af7a86a84255d6bdfe23f51:
+    licensed:
+      declared: MIT

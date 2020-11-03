@@ -1,0 +1,9 @@
+coordinates:
+  name: infer-annotation
+  namespace: com.facebook.infer.annotation
+  provider: mavencentral
+  type: maven
+revisions:
+  0.11.2:
+    licensed:
+      declared: BSD-3-Clause

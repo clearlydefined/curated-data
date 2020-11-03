@@ -1,0 +1,8 @@
+coordinates:
+  name: karma-nyan-reporter
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.5:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: font-awesome
+  provider: nuget
+  type: nuget
+revisions:
+  4.5.0:
+    licensed:
+      declared:  OFL-1.1 AND MIT

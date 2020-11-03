@@ -16,6 +16,12 @@ revisions:
         path: PInvoke.BCrypt.nuspec
     licensed:
       declared: MIT
+  0.5.134:
+    licensed:
+      declared: MIT
+  0.5.152:
+    licensed:
+      declared: MIT
   0.5.184:
     licensed:
       declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.AndroidX.RecyclerView
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.0:
+    licensed:
+      declared: MIT

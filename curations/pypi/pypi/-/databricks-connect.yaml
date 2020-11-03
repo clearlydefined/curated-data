@@ -1,0 +1,8 @@
+coordinates:
+  name: databricks-connect
+  provider: pypi
+  type: pypi
+revisions:
+  5.5.3:
+    licensed:
+      declared: OTHER

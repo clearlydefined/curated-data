@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Telemetry
+  provider: nuget
+  type: nuget
+revisions:
+  15.8.956:
+    licensed:
+      declared: OTHER

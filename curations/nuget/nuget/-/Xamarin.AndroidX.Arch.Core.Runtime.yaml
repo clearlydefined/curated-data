@@ -1,0 +1,11 @@
+coordinates:
+  name: Xamarin.AndroidX.Arch.Core.Runtime
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.0:
+    licensed:
+      declared: MIT
+  2.1.0.2:
+    licensed:
+      declared: MIT  

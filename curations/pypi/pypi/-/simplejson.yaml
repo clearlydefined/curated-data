@@ -1,0 +1,11 @@
+coordinates:
+  name: simplejson
+  provider: pypi
+  type: pypi
+revisions:
+  3.16.0:
+    licensed:
+      declared: AFL-2.1 OR MIT
+  3.17.0:
+    licensed:
+      declared: AFL-2.1 OR MIT

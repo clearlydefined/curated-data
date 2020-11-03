@@ -1,0 +1,8 @@
+coordinates:
+  name: QuickIO.NET
+  provider: nuget
+  type: nuget
+revisions:
+  2.6.2:
+    licensed:
+      declared: MS-PL
