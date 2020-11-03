@@ -6,7 +6,7 @@ coordinates:
 revisions:
   8.0.16:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH (OTHER AND Universal-FOSS-exception-1.0)
   8.0.19:
     licensed:
-      declared: L-2.0-only WITH (OTHER AND Universal-FOSS-exception-1.0)
+      declared: GPL-2.0-only WITH (OTHER AND Universal-FOSS-exception-1.0)
