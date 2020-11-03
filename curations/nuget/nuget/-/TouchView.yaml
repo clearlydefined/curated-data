@@ -1,11 +1,8 @@
 coordinates:
-  name: AngularJS.Resource
+  name: TouchView
   provider: nuget
   type: nuget
 revisions:
-  1.4.7:
-    licensed:
-      declared: MIT
-  1.8.0:
+  4.1.82:
     licensed:
       declared: MIT
