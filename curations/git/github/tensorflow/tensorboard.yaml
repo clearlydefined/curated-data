@@ -1,0 +1,9 @@
+coordinates:
+  name: tensorboard
+  namespace: tensorflow
+  provider: github
+  type: git
+revisions:
+  373eb09e4c5d2b3cc2493f0949dc4be6b6a45e81:
+    licensed:
+      declared: Apache-2.0
