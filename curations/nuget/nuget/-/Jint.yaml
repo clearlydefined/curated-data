@@ -12,3 +12,6 @@ revisions:
   2.5.0:
     licensed:
       declared: BSD-2-Clause
+  3.0.0-beta-1629:
+    licensed:
+      declared: BSD-2-Clause
