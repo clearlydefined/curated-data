@@ -12,6 +12,9 @@ revisions:
         path: LICENSE.rst
     licensed:
       declared: MIT WITH OTHER
+  cd4af11efc9c622896a3e4cb599fa28668ca3d05:
+    licensed:
+      declared: MIT WITH OTHER
   f19b1a521ee8b606dedcadfda69fd10ddf882753:
     licensed:
       declared: MIT WITH OTHER
