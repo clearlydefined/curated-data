@@ -1,0 +1,8 @@
+coordinates:
+  name: Latte
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.21:
+    licensed:
+      declared: NONE

@@ -1,0 +1,8 @@
+coordinates:
+  name: category-encoders
+  provider: pypi
+  type: pypi
+revisions:
+  2.2.2:
+    licensed:
+      declared: BSD-3-Clause
