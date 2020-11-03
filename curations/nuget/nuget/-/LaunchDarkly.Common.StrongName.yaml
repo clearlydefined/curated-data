@@ -1,0 +1,8 @@
+coordinates:
+  name: LaunchDarkly.Common.StrongName
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.3:
+    licensed:
+      declared: Apache-2.0

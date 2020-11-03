@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-storage-cpp
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  5b1c1597e6a637bc205d91342054814c8d901777:
+    licensed:
+      declared: Apache-2.0
