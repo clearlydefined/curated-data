@@ -1,0 +1,9 @@
+coordinates:
+  name: grpc-gateway
+  namespace: grpc-ecosystem
+  provider: github
+  type: git
+revisions:
+  6806a84f43b8f96f4964f1aaee186bd406cfdb56:
+    licensed:
+      declared: BSD-3-Clause

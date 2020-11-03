@@ -1,0 +1,9 @@
+coordinates:
+  name: applicationinsights-js
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  8d7fd1e43c41ee2e94c4cde3ddbcbed8ef9fc258:
+    licensed:
+      declared: MIT

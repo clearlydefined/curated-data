@@ -1,0 +1,9 @@
+coordinates:
+  name: ucx
+  namespace: openucx
+  provider: github
+  type: git
+revisions:
+  c30b7da2301202da5f9f0529966944f110e5d6e7:
+    licensed:
+      declared: BSD-3-Clause

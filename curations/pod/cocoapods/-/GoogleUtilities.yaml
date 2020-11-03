@@ -1,0 +1,8 @@
+coordinates:
+  name: GoogleUtilities
+  provider: cocoapods
+  type: pod
+revisions:
+  6.7.2:
+    licensed:
+      declared: Apache-2.0
