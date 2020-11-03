@@ -1,0 +1,8 @@
+coordinates:
+  name: Protobuf
+  provider: cocoapods
+  type: pod
+revisions:
+  3.13.0:
+    licensed:
+      declared: BSD-3-Clause
