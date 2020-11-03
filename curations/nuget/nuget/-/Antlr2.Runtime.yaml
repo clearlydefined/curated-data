@@ -1,0 +1,8 @@
+coordinates:
+  name: Antlr2.Runtime
+  provider: nuget
+  type: nuget
+revisions:
+  2.7.7.2:
+    licensed:
+      declared: ANTLR-PD
