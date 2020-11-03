@@ -1,0 +1,8 @@
+coordinates:
+  name: bitarray
+  provider: pypi
+  type: pypi
+revisions:
+  1.5.1:
+    licensed:
+      declared: Python-2.0
