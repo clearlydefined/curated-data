@@ -1,0 +1,9 @@
+coordinates:
+  name: cub
+  namespace: nvlabs
+  provider: github
+  type: git
+revisions:
+  c3cceac115c072fb63df1836ff46d8c60d9eb304:
+    licensed:
+      declared: BSD-3-Clause
