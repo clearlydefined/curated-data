@@ -1,0 +1,8 @@
+coordinates:
+  name: Crashlytics
+  provider: cocoapods
+  type: pod
+revisions:
+  3.14.0:
+    licensed:
+      declared: OTHER

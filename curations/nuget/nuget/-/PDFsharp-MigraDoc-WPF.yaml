@@ -1,0 +1,8 @@
+coordinates:
+  name: PDFsharp-MigraDoc-WPF
+  provider: nuget
+  type: nuget
+revisions:
+  1.32.2608:
+    licensed:
+      declared: MIT

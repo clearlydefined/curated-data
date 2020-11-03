@@ -1,0 +1,8 @@
+coordinates:
+  name: TouchView
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.82:
+    licensed:
+      declared: MIT
