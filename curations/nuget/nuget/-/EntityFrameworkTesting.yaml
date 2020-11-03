@@ -5,4 +5,4 @@ coordinates:
 revisions:
   1.2.0:
     licensed:
-      declared: MS-PL
+      declared: Apache-2.0
