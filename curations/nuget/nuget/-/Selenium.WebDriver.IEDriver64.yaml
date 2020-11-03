@@ -1,0 +1,8 @@
+coordinates:
+  name: Selenium.WebDriver.IEDriver64
+  provider: nuget
+  type: nuget
+revisions:
+  3.11.0.1:
+    licensed:
+      declared: NONE
