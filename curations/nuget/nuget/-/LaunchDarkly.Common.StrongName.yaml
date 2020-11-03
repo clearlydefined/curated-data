@@ -1,11 +1,11 @@
 coordinates:
-  name: flatbuffers
-  provider: npmjs
-  type: npm
+  name: LaunchDarkly.Common.StrongName
+  provider: nuget
+  type: nuget
 revisions:
-  1.10.2:
+  1.1.1:
     licensed:
       declared: Apache-2.0
-  1.11.0:
+  1.2.3:
     licensed:
       declared: Apache-2.0
