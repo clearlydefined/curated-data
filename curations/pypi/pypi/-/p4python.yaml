@@ -1,0 +1,8 @@
+coordinates:
+  name: p4python
+  provider: pypi
+  type: pypi
+revisions:
+  2019.1.1858212:
+    licensed:
+      declared: BSD-2-Clause

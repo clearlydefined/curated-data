@@ -8,7 +8,7 @@ jobs:
   triage:
     runs-on: ubuntu-latest
     steps:
-      - run: sleep 300
+      - run: sleep 15
       - uses: mschilde/auto-label-merge-conflicts@master
         with:
           CONFLICT_LABEL_NAME: 'has conflicts'
