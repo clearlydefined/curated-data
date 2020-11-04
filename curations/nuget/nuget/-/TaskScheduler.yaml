@@ -1,0 +1,8 @@
+coordinates:
+  name: TaskScheduler
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.16:
+    licensed:
+      declared: MIT
