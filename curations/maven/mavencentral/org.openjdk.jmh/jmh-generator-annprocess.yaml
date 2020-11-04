@@ -1,0 +1,9 @@
+coordinates:
+  name: jmh-generator-annprocess
+  namespace: org.openjdk.jmh
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.21':
+    licensed:
+      declared: GPL-2.0-with-classpath-exception
