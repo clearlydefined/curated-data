@@ -11,7 +11,10 @@ revisions:
       declared: OTHER
   1.1.2:
     licensed:
-      declared: OTHER      
+      declared: OTHER
+  1.1.3:
+    licensed:
+      declared: OTHER
   1.2.0:
     licensed:
       declared: OTHER
