@@ -54,6 +54,9 @@ revisions:
   2.3.3:
     licensed:
       declared: OTHER
+  2.3.4:
+    licensed:
+      declared: OTHER
   2.4.2:
     licensed:
       declared: OTHER
