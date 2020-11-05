@@ -7,6 +7,9 @@ revisions:
   645250b6690785be60ab6780ce4b58698d884d11:
     licensed:
       declared: MIT OR OTHER
+  678d65e7ad4596f521c1b56638c7bf5a6b79e490:
+    licensed:
+      declared: MIT OR OTHER
   6aba23f4a8628d599a9ef7fa4811c4ff6e4070e2:
     files:
       - attributions:
