@@ -1,0 +1,9 @@
+coordinates:
+  name: snakeyaml
+  namespace: org.yaml
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  '1.27':
+    licensed:
+      declared: Apache-2.0
