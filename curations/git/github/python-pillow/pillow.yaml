@@ -1,0 +1,9 @@
+coordinates:
+  name: pillow
+  namespace: python-pillow
+  provider: github
+  type: git
+revisions:
+  4f6145655b6fa35ec8dd3600041418087e399758:
+    licensed:
+      declared: HPND

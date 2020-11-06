@@ -1,0 +1,9 @@
+coordinates:
+  name: lockfree
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  38f0cfc28d984cba8b368695491f9cc45bca2363:
+    licensed:
+      declared: BSL-1.0

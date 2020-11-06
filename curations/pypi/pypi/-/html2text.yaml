@@ -1,0 +1,13 @@
+coordinates:
+  name: html2text
+  provider: pypi
+  type: pypi
+revisions:
+  2020.1.16:
+    files:
+      - attributions:
+          - 'Copyright (c) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
+        license: GPL-3.0-only
+        path: html2text-2020.1.16/COPYING
+    licensed:
+      declared: GPL-3.0-only

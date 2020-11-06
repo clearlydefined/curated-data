@@ -1,0 +1,9 @@
+coordinates:
+  name: gtest-ios-framework
+  namespace: mestevens
+  provider: github
+  type: git
+revisions:
+  b89da3c5a0aa18fb2c6163ad9984f81ab65b22e3:
+    licensed:
+      declared: BSD-3-Clause

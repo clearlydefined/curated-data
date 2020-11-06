@@ -1,0 +1,8 @@
+coordinates:
+  name: jquery-slimscroll
+  provider: npmjs
+  type: npm
+revisions:
+  1.3.8:
+    licensed:
+      declared: MIT OR GPL-1.0-or-later
