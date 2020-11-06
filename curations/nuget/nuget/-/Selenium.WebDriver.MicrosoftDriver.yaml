@@ -1,0 +1,8 @@
+coordinates:
+  name: Selenium.WebDriver.MicrosoftDriver
+  provider: nuget
+  type: nuget
+revisions:
+  17.17134.0:
+    licensed:
+      declared: OTHER
