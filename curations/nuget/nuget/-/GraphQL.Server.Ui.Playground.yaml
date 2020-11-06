@@ -6,6 +6,9 @@ revisions:
   3.4.0:
     licensed:
       declared: MIT
+  3.5.0-alpha0020:
+    licensed:
+      declared: MIT
   3.5.0-alpha0027:
     licensed:
       declared: MIT
