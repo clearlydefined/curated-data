@@ -1,0 +1,8 @@
+coordinates:
+  name: NDesk.Options.Fork
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.4:
+    licensed:
+      declared: MIT
