@@ -3,10 +3,19 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  1.14.3:
+    licensed:
+      declared: BSD-3-Clause
   1.14.5:
     licensed:
       declared: BSD-3-Clause
+  1.15.0:
+    licensed:
+      declared: BSD-3-Clause
   1.15.2:
+    licensed:
+      declared: BSD-3-Clause
+  1.15.4:
     licensed:
       declared: BSD-3-Clause
   1.16.1:
@@ -67,5 +76,11 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   1.19.2:
+    licensed:
+      declared: BSD-3-Clause
+  1.19.3:
+    licensed:
+      declared: BSD-3-Clause
+  1.19.4:
     licensed:
       declared: BSD-3-Clause

@@ -33,6 +33,9 @@ revisions:
   5.0.0:
     licensed:
       declared: MS-PL
+  5.0.0-beta02:
+    licensed:
+      declared: MS-PL
   6.0.0:
     licensed:
       declared: MS-PL
