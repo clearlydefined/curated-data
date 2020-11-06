@@ -10,6 +10,9 @@ revisions:
         path: Package.nuspec
     licensed:
       declared: MIT
+  92f2649c61bdad2da3406811518f80387a1f6b57:
+    licensed:
+      declared: MIT
   944e608ea59af85c8af8fdb610062741a7087a47:
     files:
       - license: MIT
