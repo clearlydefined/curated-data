@@ -1,0 +1,8 @@
+coordinates:
+  name: Trill
+  provider: nuget
+  type: nuget
+revisions:
+  2018.12.13.2:
+    licensed:
+      declared: MIT
