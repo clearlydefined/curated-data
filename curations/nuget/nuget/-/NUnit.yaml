@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.6.0.12054:
+    licensed:
+      declared: MIT
   2.6.2:
     licensed:
       declared: Zlib
