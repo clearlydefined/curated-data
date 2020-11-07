@@ -23,7 +23,7 @@ revisions:
       declared: Apache-2.0
   1.69.0:
     licensed:
-      declared: BSL-1.0
+      declared: Apache-2.0
   1.71.0:
     licensed:
       declared: Apache-2.0
