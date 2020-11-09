@@ -1,0 +1,8 @@
+coordinates:
+  name: AppForSharePointWebToolkit
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.1:
+    licensed:
+      declared: NONE
