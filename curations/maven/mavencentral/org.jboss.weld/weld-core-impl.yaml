@@ -1,0 +1,10 @@
+coordinates:
+  name: weld-core-impl
+  namespace: org.jboss.weld
+  provider: mavencentral
+  type: maven
+revisions:
+  4.0.0.Beta5:
+    files:
+      - license: NONE
+        path: META-INF/DEPENDENCIES.txt
