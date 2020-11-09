@@ -1,0 +1,8 @@
+coordinates:
+  name: history.js
+  provider: npmjs
+  type: npm
+revisions:
+  1.8.0:
+    licensed:
+      declared: BSD-3-Clause
