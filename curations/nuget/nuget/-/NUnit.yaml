@@ -5,16 +5,16 @@ coordinates:
 revisions:
   2.6.0.12054:
     licensed:
-      declared: MIT
+      declared: zlib-acknowledgement
   2.6.2:
     licensed:
-      declared: Zlib
+      declared: zlib-acknowledgement
   2.6.3:
     licensed:
-      declared: Nunit
+      declared: zlib-acknowledgement
   2.6.4:
     licensed:
-      declared: Nunit
+      declared: zlib-acknowledgement
   3.0.0:
     licensed:
       declared: MIT
