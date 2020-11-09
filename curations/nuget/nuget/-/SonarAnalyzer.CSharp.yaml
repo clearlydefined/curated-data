@@ -8,7 +8,7 @@ revisions:
       declared: LGPL-3.0-or-later
   6.3.0.2862:
     licensed:
-      declared: LGPL-3.0-only
+      declared: LGPL-3.0-or-later
   6.6.0.3969:
     licensed:
       declared: LGPL-3.0-or-later
