@@ -9,3 +9,7 @@ revisions:
   0.5.3:
     licensed:
       declared: BSD-3-Clause
+  0.7.8:
+    files:
+      - license: NONE
+        path: package/CHANGELOG.md
