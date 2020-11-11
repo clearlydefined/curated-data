@@ -1,0 +1,9 @@
+coordinates:
+  name: usd
+  namespace: pixaranimationstudios
+  provider: github
+  type: git
+revisions:
+  ebac0a8b6703f4fa1c27115f1f013bb9819662f4:
+    licensed:
+      declared: OTHER
