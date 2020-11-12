@@ -25,4 +25,4 @@ revisions:
         type: git
         url: 'https://github.com/eclipse-ee4j/jsonp/commit/c3699129534055833b1e070f67ca5d8cf401933d'
     licensed:
-      declared: EPL-2.0 OR GPL-2.0-with-classpath-exception
+      declared: EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0
