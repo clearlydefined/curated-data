@@ -1,0 +1,8 @@
+coordinates:
+  name: xmodem
+  provider: pypi
+  type: pypi
+revisions:
+  0.4.6:
+    licensed:
+      declared: MIT
