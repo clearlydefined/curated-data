@@ -7,5 +7,5 @@ revisions:
     files:
       - attributions:
           - Copyright (c) 2013 Meryn Stol
-        license: BSD 2-Clause
+        license: BSD-2-Clause
         path: package/README.md
