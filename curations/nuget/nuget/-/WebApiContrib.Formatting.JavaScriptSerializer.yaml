@@ -1,0 +1,8 @@
+coordinates:
+  name: WebApiContrib.Formatting.JavaScriptSerializer
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.4:
+    licensed:
+      declared: MIT
