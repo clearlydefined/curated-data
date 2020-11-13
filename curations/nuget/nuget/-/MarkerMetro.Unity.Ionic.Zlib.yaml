@@ -1,0 +1,8 @@
+coordinates:
+  name: MarkerMetro.Unity.Ionic.Zlib
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0.14:
+    licensed:
+      declared: MIT
