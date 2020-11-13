@@ -1,11 +1,8 @@
 coordinates:
-  name: Aspose.Email
+  name: NCrunch.Framework
   provider: nuget
   type: nuget
 revisions:
-  20.8.0:
-    licensed:
-      declared: OTHER
-  5.8.0:
+  3.2.0.3:
     licensed:
       declared: OTHER
