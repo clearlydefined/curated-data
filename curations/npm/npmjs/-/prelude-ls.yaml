@@ -4,5 +4,8 @@ coordinates:
   type: npm
 revisions:
   1.1.2:
+    files:
+      - license: MIT
+        path: package/package.json
     licensed:
       declared: MIT
