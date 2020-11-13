@@ -6,3 +6,7 @@ revisions:
   0.2.30:
     licensed:
       declared: MIT
+  0.2.37:
+    files:
+      - license: NONE
+        path: package/lib/properties/webkitColumnWidth.js
