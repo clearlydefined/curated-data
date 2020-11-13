@@ -4,5 +4,14 @@ coordinates:
   type: npm
 revisions:
   4.0.8:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft
+        license: NONE
+        path: package/rx.lite.aggregates.js
+      - attributions:
+          - 'Copyright (c) Microsoft Open Technologies, Inc.'
+        license: NONE
+        path: package/rx.lite.aggregates.min.js
     licensed:
       declared: Apache-2.0
