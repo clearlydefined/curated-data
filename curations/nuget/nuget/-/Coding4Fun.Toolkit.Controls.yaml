@@ -1,0 +1,8 @@
+coordinates:
+  name: Coding4Fun.Toolkit.Controls
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.8:
+    licensed:
+      declared: MIT WITH OTHER
