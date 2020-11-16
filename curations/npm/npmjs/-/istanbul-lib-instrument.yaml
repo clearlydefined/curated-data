@@ -1,0 +1,11 @@
+coordinates:
+  name: istanbul-lib-instrument
+  provider: npmjs
+  type: npm
+revisions:
+  1.10.2:
+    files:
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: NONE
+        path: package/dist/instrumenter.js

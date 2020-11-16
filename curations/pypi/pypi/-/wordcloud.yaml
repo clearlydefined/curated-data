@@ -1,0 +1,8 @@
+coordinates:
+  name: wordcloud
+  provider: pypi
+  type: pypi
+revisions:
+  1.6.0:
+    licensed:
+      declared: MIT

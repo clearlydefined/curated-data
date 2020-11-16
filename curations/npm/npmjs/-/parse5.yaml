@@ -1,0 +1,9 @@
+coordinates:
+  name: parse5
+  provider: npmjs
+  type: npm
+revisions:
+  1.5.1:
+    files:
+      - license: MIT
+        path: package/package.json

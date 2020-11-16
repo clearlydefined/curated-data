@@ -7,3 +7,14 @@ revisions:
   1.2.2:
     licensed:
       declared: BSD-3-Clause
+  2.0.0:
+    described:
+      sourceLocation:
+        name: jaf
+        namespace: eclipse-ee4j
+        provider: github
+        revision: e4c307ad8703b483aa1d53330d596ac7bc6f903c
+        type: git
+        url: 'https://github.com/eclipse-ee4j/jaf/commit/e4c307ad8703b483aa1d53330d596ac7bc6f903c'
+    licensed:
+      declared: BSD-3-Clause

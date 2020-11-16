@@ -1,0 +1,71 @@
+coordinates:
+  name: istanbul-reports
+  provider: npmjs
+  type: npm
+revisions:
+  1.5.1:
+    files:
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/lcovonly/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/html/insertion-text.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/html/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/html/annotator.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/none/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/clover/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/teamcity/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/cobertura/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/text/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/text-summary/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/html/helpers.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/json-summary/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/json/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/lcov/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/text-lcov/index.js
