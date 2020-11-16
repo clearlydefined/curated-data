@@ -1,0 +1,8 @@
+coordinates:
+  name: browser-cookies
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.0:
+    licensed:
+      declared: NONE
