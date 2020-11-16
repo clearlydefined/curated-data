@@ -1,0 +1,9 @@
+coordinates:
+  name: cocoapods
+  namespace: cocoapods
+  provider: github
+  type: git
+revisions:
+  c75c4a6dd226c45e0ad876caa926bff51a3f00d9:
+    licensed:
+      declared: MIT
