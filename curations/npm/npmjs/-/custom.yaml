@@ -1,0 +1,8 @@
+coordinates:
+  name: custom
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.0:
+    licensed:
+      declared: NONE
