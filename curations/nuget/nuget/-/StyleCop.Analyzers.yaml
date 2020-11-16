@@ -41,3 +41,6 @@ revisions:
   1.1.1-beta.61:
     licensed:
       declared: Apache-2.0
+  1.1.1-rc.94:
+    licensed:
+      declared: Apache-2.0
