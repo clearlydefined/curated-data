@@ -24,3 +24,6 @@ revisions:
   3.3.2:
     licensed:
       declared: Python-2.0
+  3.3.3:
+    licensed:
+      declared: Python-2.0
