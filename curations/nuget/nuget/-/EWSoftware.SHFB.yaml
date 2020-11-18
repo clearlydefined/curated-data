@@ -1,0 +1,8 @@
+coordinates:
+  name: EWSoftware.SHFB
+  provider: nuget
+  type: nuget
+revisions:
+  2018.12.10:
+    licensed:
+      declared: MS-PL
