@@ -5,7 +5,7 @@ coordinates:
 revisions:
   1.0.22:
     licensed:
-      declared: Python-2.0
+      declared: PSF-2.0
   1.0.23:
     licensed:
-      declared: Python-2.0
+      declared: PSF-2.0
