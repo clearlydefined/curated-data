@@ -16,4 +16,4 @@ revisions:
         license: GPL-2.0 OR LGPL-2.1-or-later
         path: lib/test-unit.rb
     licensed:
-      declared: GPL-2.0-only
+      declared: Ruby OR GPL-2.0-only
