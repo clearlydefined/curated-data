@@ -1,0 +1,8 @@
+coordinates:
+  name: FirebaseCore
+  provider: cocoapods
+  type: pod
+revisions:
+  6.0.3:
+    licensed:
+      declared: Apache-2.0
