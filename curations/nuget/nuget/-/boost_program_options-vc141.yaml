@@ -1,0 +1,8 @@
+coordinates:
+  name: boost_program_options-vc141
+  provider: nuget
+  type: nuget
+revisions:
+  1.70.0:
+    licensed:
+      declared: BSL-1.0
