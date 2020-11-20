@@ -1,0 +1,9 @@
+coordinates:
+  name: libzip
+  namespace: nih-at
+  provider: github
+  type: git
+revisions:
+  dcd9a0bfe1ac2893d7f62bafb19f0a4d7b08c0f7:
+    licensed:
+      declared: BSD-3-Clause
