@@ -6,6 +6,9 @@ revisions:
   17.8.0:
     licensed:
       declared: WTFPL
+  19.12.0:
+    licensed:
+      declared: WTFPL
   19.4.1:
     licensed:
       declared: WTFPL
