@@ -9,3 +9,7 @@ revisions:
   3.0.0:
     described:
       releaseDate: '2018-02-26'
+  3.0.1:
+    files:
+      - license: MIT
+        path: package/README.md
