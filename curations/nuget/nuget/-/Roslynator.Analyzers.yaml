@@ -1,11 +1,8 @@
 coordinates:
-  name: UAParser.FormFactor
+  name: Roslynator.Analyzers
   provider: nuget
   type: nuget
 revisions:
-  3.0.2:
-    licensed:
-      declared: Apache-2.0
-  3.0.4:
+  1.8.0:
     licensed:
       declared: Apache-2.0

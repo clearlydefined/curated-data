@@ -1,11 +1,8 @@
 coordinates:
-  name: CardinalityEstimation
+  name: Ardalis.GuardClauses
   provider: nuget
   type: nuget
 revisions:
-  1.7.0:
-    licensed:
-      declared: MIT
-  1.8.0:
+  2.0.0:
     licensed:
       declared: MIT
