@@ -1,0 +1,8 @@
+coordinates:
+  name: gojs
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.18:
+    licensed:
+      declared: OTHER
