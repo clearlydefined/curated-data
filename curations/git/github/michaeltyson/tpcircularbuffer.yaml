@@ -1,0 +1,9 @@
+coordinates:
+  name: tpcircularbuffer
+  namespace: michaeltyson
+  provider: github
+  type: git
+revisions:
+  79d93db440d75260cbe1455c023bf61af721f397:
+    licensed:
+      declared: MIT
