@@ -1,0 +1,9 @@
+coordinates:
+  name: umock-c
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  3ee51da0f06342c6c5b29a6f9561341731bd4f8a:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: random2
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.1:
+    licensed:
+      declared: Python-2.0
