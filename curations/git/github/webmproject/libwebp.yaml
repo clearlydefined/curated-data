@@ -1,0 +1,9 @@
+coordinates:
+  name: libwebp
+  namespace: webmproject
+  provider: github
+  type: git
+revisions:
+  d7844e9762b61c9638c263657bd49e1690184832:
+    licensed:
+      declared: BSD-2-Clause
