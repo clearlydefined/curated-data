@@ -1,0 +1,8 @@
+coordinates:
+  name: CNTK.Deps.cuDNN
+  provider: nuget
+  type: nuget
+revisions:
+  2.7.0:
+    licensed:
+      declared: MIT
