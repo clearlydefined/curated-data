@@ -1,0 +1,8 @@
+coordinates:
+  name: FSharp.Control.Reactive
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.0:
+    licensed:
+      declared: MS-PL
