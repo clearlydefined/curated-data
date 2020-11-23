@@ -10,5 +10,8 @@ revisions:
     licensed:
       declared: MIT
   1.1.12:
+    files:
+      - license: MIT
+        path: package/package.json
     licensed:
       declared: MIT
