@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.GooglePlayServices.Iid
+  provider: nuget
+  type: nuget
+revisions:
+  60.1142.1:
+    licensed:
+      declared: MIT
