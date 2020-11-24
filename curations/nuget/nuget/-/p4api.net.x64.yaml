@@ -1,0 +1,8 @@
+coordinates:
+  name: p4api.net.x64
+  provider: nuget
+  type: nuget
+revisions:
+  2019.2.185.9614:
+    licensed:
+      declared: BSD-2-Clause
