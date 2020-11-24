@@ -1,0 +1,8 @@
+coordinates:
+  name: Purplelight.Framework.Autofac.Integration.WebApi
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.2:
+    licensed:
+      declared: MIT
