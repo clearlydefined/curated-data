@@ -5,4 +5,4 @@ coordinates:
 revisions:
   4.2.0:
     licensed:
-      declared: MS-PL
+      declared: MIT
