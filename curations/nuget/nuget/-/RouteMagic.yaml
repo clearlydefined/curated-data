@@ -6,3 +6,6 @@ revisions:
   1.1.3:
     licensed:
       declared: MS-PL
+  1.2.0:
+    licensed:
+      declared: MIT
