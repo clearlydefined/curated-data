@@ -1,0 +1,9 @@
+coordinates:
+  name: rpmalloc
+  namespace: mjansson
+  provider: github
+  type: git
+revisions:
+  d69ec8e4c2a91f5b747361871f9197e21111e028:
+    licensed:
+      declared: Unlicense OR MIT
