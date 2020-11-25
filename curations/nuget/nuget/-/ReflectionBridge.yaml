@@ -1,0 +1,8 @@
+coordinates:
+  name: ReflectionBridge
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.13:
+    licensed:
+      declared: MIT
