@@ -1,0 +1,8 @@
+coordinates:
+  name: custom-protocol-detection
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.1:
+    licensed:
+      declared: MIT
