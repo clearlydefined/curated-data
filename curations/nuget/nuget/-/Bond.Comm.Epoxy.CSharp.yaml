@@ -1,0 +1,8 @@
+coordinates:
+  name: Bond.Comm.Epoxy.CSharp
+  provider: nuget
+  type: nuget
+revisions:
+  0.14.0:
+    licensed:
+      declared: MIT
