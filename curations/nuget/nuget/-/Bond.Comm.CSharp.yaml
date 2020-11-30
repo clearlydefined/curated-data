@@ -1,0 +1,17 @@
+coordinates:
+  name: Bond.Comm.CSharp
+  provider: nuget
+  type: nuget
+revisions:
+  0.14.0:
+    files:
+      - license: MIT
+        path: .signature.p7s
+      - license: MIT
+        path: Bond.Comm.CSharp.nuspec
+      - license: MIT
+        path: '[Content_Types].xml'
+      - license: MIT
+        path: readme.txt
+    licensed:
+      declared: MIT
