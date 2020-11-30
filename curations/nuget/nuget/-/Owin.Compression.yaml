@@ -1,0 +1,8 @@
+coordinates:
+  name: Owin.Compression
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.21:
+    licensed:
+      declared: Unlicense
