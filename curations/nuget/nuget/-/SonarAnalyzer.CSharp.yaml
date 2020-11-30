@@ -24,6 +24,9 @@ revisions:
   8.13.1.21947:
     licensed:
       declared: LGPL-3.0-or-later
+  8.14.0.22654:
+    licensed:
+      declared: LGPL-3.0
   8.4.0.15306:
     licensed:
       declared: LGPL-3.0-or-later
