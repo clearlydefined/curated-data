@@ -1,0 +1,9 @@
+coordinates:
+  name: dom-capture
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  8.0.1:
+    licensed:
+      declared: NONE
