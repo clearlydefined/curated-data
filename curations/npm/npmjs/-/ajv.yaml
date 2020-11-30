@@ -1,0 +1,12 @@
+coordinates:
+  name: ajv
+  provider: npmjs
+  type: npm
+revisions:
+  6.12.2:
+    files:
+      - attributions:
+          - (c) 2011 Gary Court.
+          - Copyright 2011 Gary Court.
+        license: BSD-2-Clause-Views
+        path: package/dist/ajv.bundle.js
