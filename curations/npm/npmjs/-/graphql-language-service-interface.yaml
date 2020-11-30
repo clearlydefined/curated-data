@@ -1,0 +1,8 @@
+coordinates:
+  name: graphql-language-service-interface
+  provider: npmjs
+  type: npm
+revisions:
+  1.3.2:
+    licensed:
+      declared: MIT
