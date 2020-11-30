@@ -8,5 +8,5 @@ revisions:
       - attributions:
           - (c) 2011 Gary Court.
           - Copyright 2011 Gary Court.
-        license: BSD-2-Clause
+        license: BSD-2-Clause-Views
         path: package/dist/ajv.bundle.js
