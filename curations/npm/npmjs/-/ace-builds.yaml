@@ -1,0 +1,8 @@
+coordinates:
+  name: ace-builds
+  provider: npmjs
+  type: npm
+revisions:
+  1.3.0:
+    licensed:
+      declared: BSD-3-Clause
