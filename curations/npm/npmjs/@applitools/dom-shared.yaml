@@ -1,0 +1,9 @@
+coordinates:
+  name: dom-shared
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.4:
+    licensed:
+      declared: NONE
