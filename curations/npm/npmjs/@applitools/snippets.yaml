@@ -1,0 +1,9 @@
+coordinates:
+  name: snippets
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.0:
+    licensed:
+      declared: NONE
