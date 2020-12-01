@@ -1,0 +1,9 @@
+coordinates:
+  name: eyes-images
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  4.16.0:
+    licensed:
+      declared: NONE
