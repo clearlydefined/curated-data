@@ -5,7 +5,7 @@ coordinates:
 revisions:
   5.0.2:
     licensed:
-      declared: CDDL-1.0
+      declared: OTHER
   5.9.0:
     licensed:
       declared: OTHER
