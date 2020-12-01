@@ -6,6 +6,9 @@ revisions:
   3.0.0:
     licensed:
       declared: Unlicense
+  3.141.0:
+    licensed:
+      declared: Apache-2.0
   3.141.59:
     licensed:
       declared: Unlicense
