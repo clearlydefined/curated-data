@@ -1,0 +1,9 @@
+coordinates:
+  name: dom-snapshot
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  4.2.5:
+    licensed:
+      declared: NONE
