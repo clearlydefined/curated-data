@@ -1,11 +1,8 @@
 coordinates:
-  name: CassandraCSharpDriver
+  name: NBomber
   provider: nuget
   type: nuget
 revisions:
-  3.11.0:
-    licensed:
-      declared: Apache-2.0
-  3.3.0:
+  1.0.0-beta5:
     licensed:
       declared: Apache-2.0

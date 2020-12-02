@@ -7,5 +7,13 @@ revisions:
     licensed:
       declared: MIT
   4.5.0:
+    described:
+      sourceLocation:
+        name: corefx
+        namespace: dotnet
+        provider: github
+        revision: 30ab651fcb4354552bd4891619a0bdd81e0ebdbf
+        type: git
+        url: 'https://github.com/dotnet/corefx/commit/30ab651fcb4354552bd4891619a0bdd81e0ebdbf'
     licensed:
       declared: MIT

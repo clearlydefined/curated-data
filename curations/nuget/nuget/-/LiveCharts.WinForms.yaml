@@ -1,0 +1,8 @@
+coordinates:
+  name: LiveCharts.WinForms
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.7.1:
+    licensed:
+      declared: MIT

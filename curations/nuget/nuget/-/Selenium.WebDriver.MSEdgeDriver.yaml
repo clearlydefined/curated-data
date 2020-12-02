@@ -1,11 +1,8 @@
 coordinates:
-  name: ServiceStack.Text
+  name: Selenium.WebDriver.MSEdgeDriver
   provider: nuget
   type: nuget
 revisions:
-  5.0.2:
-    licensed:
-      declared: OTHER
-  5.9.0:
+  85.0.564.41:
     licensed:
       declared: OTHER
