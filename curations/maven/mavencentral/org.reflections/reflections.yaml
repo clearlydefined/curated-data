@@ -1,0 +1,9 @@
+coordinates:
+  name: reflections
+  namespace: org.reflections
+  provider: mavencentral
+  type: maven
+revisions:
+  0.9.9-RC2:
+    licensed:
+      declared: WTFPL
