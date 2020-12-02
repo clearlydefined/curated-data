@@ -1,0 +1,11 @@
+coordinates:
+  name: Z.Dapper.Plus
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.15:
+    licensed:
+      declared: OTHER
+  3.0.24:
+    licensed:
+      declared: OTHER

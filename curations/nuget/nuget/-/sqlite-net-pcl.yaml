@@ -15,6 +15,9 @@ revisions:
   1.5.231:
     licensed:
       declared: MIT
+  1.6.258-beta:
+    licensed:
+      declared: MIT
   1.6.292:
     licensed:
       declared: MIT
