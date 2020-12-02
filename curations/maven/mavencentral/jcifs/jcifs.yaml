@@ -1,0 +1,9 @@
+coordinates:
+  name: jcifs
+  namespace: jcifs
+  provider: mavencentral
+  type: maven
+revisions:
+  1.3.17:
+    licensed:
+      declared: LGPL-2.1+
