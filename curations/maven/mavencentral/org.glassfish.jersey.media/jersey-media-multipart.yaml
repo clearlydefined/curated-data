@@ -1,0 +1,9 @@
+coordinates:
+  name: jersey-media-multipart
+  namespace: org.glassfish.jersey.media
+  provider: mavencentral
+  type: maven
+revisions:
+  2.22.2:
+    licensed:
+      declared: EPL-1.0
