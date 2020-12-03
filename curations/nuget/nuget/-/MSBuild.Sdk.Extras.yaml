@@ -1,0 +1,8 @@
+coordinates:
+  name: MSBuild.Sdk.Extras
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.54:
+    licensed:
+      declared: MIT
