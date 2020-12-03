@@ -1,0 +1,9 @@
+coordinates:
+  name: ibatis-sqlmap
+  namespace: org.apache.ibatis
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.4.726:
+    licensed:
+      declared: Apache-2.0
