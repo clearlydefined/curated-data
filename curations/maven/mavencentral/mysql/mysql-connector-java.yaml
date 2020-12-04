@@ -12,4 +12,4 @@ revisions:
       declared: GPL-2.0-only WITH (OTHER AND Universal-FOSS-exception-1.0)
   8.0.22:
     licensed:
-      declared: GPL-2.0-with-classpath-exception
+      declared: GPL-2.0-only WITH (OTHER AND Universal-FOSS-exception-1.0)
