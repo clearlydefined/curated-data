@@ -1,0 +1,8 @@
+coordinates:
+  name: trivup
+  provider: pypi
+  type: pypi
+revisions:
+  0.8.2:
+    licensed:
+      declared: BSD-2-Clause
