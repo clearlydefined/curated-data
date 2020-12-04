@@ -12,3 +12,6 @@ revisions:
   3.4.5:
     licensed:
       declared: OTHER
+  3.5.8:
+    licensed:
+      declared: NONE
