@@ -1,0 +1,9 @@
+coordinates:
+  name: jquery.scrollbar
+  namespace: gromo
+  provider: github
+  type: git
+revisions:
+  15dbf80a4c0cd82ec5dbbc684e53cc61ea2d8093:
+    licensed:
+      declared: GPL-2.0-with-classpath-exception
