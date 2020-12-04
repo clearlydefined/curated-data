@@ -14,3 +14,6 @@ revisions:
   '4.8':
     licensed:
       declared: BSD-3-Clause
+  '4.9':
+    licensed:
+      declared: 0BSD
