@@ -9,6 +9,9 @@ revisions:
   1.4.3:
     licensed:
       declared: OTHER
+  1.4.6:
+    licensed:
+      declared: MS-PL
   1.6.3:
     licensed:
       declared: OTHER
