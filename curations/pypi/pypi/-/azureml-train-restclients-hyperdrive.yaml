@@ -30,3 +30,6 @@ revisions:
   1.18.0:
     licensed:
       declared: OTHER
+  1.4.0:
+    licensed:
+      declared: MS-PL
