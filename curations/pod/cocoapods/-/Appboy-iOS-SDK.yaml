@@ -1,0 +1,8 @@
+coordinates:
+  name: Appboy-iOS-SDK
+  provider: cocoapods
+  type: pod
+revisions:
+  3.20.4:
+    licensed:
+      declared: HPND
