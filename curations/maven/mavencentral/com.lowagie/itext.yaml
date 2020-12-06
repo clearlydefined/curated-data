@@ -1,0 +1,9 @@
+coordinates:
+  name: itext
+  namespace: com.lowagie
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.7:
+    licensed:
+      declared: GPL-3.0
