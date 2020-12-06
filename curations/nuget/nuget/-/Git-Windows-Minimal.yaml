@@ -1,0 +1,8 @@
+coordinates:
+  name: Git-Windows-Minimal
+  provider: nuget
+  type: nuget
+revisions:
+  2.17.1.2:
+    licensed:
+      declared: BSD-3-Clause
