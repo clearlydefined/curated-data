@@ -1,0 +1,8 @@
+coordinates:
+  name: GoogleTestAdapter
+  provider: nuget
+  type: nuget
+revisions:
+  0.12.3:
+    licensed:
+      declared: Apache-2.0
