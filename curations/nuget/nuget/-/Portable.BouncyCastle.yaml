@@ -45,3 +45,6 @@ revisions:
         url: 'https://github.com/novotnyllc/bc-csharp/commit/e72e3a8a96b0cd4e83d51f5b4ae83bc520c4c894'
     licensed:
       declared: MIT
+  1.8.8:
+    licensed:
+      declared: MIT

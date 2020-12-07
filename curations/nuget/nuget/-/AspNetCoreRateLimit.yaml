@@ -9,3 +9,6 @@ revisions:
   3.0.5:
     licensed:
       declared: MIT
+  3.2.2:
+    licensed:
+      declared: MIT
