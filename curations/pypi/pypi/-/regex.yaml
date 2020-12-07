@@ -15,6 +15,9 @@ revisions:
   2020.10.28:
     licensed:
       declared: Apache-2.0
+  2020.11.13:
+    licensed:
+      declared: Apache-2.0
   2020.2.20:
     licensed:
       declared: Python-2.0
