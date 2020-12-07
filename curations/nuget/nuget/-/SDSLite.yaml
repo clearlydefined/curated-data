@@ -1,11 +1,8 @@
 coordinates:
-  name: SharpGen.Runtime
+  name: SDSLite
   provider: nuget
   type: nuget
 revisions:
-  1.1.0:
-    licensed:
-      declared: MIT
-  1.2.1:
+  1.4.0:
     licensed:
       declared: MIT

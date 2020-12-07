@@ -1,11 +1,8 @@
 coordinates:
-  name: SharpGen.Runtime
+  name: DynamicInterop
   provider: nuget
   type: nuget
 revisions:
-  1.1.0:
-    licensed:
-      declared: MIT
-  1.2.1:
+  0.7.4:
     licensed:
       declared: MIT

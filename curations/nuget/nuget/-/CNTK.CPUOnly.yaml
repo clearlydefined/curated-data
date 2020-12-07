@@ -1,11 +1,8 @@
 coordinates:
-  name: SharpGen.Runtime
+  name: CNTK.CPUOnly
   provider: nuget
   type: nuget
 revisions:
-  1.1.0:
-    licensed:
-      declared: MIT
-  1.2.1:
+  2.7.0:
     licensed:
       declared: MIT
