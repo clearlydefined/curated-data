@@ -1,0 +1,8 @@
+coordinates:
+  name: LumberjackConsole
+  provider: cocoapods
+  type: pod
+revisions:
+  2.4.3:
+    licensed:
+      declared: Apache-2.0
