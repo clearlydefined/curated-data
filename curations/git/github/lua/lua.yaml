@@ -1,0 +1,9 @@
+coordinates:
+  name: lua
+  namespace: lua
+  provider: github
+  type: git
+revisions:
+  9f791535cde1539338f6ba1b9154006595d97fe7:
+    licensed:
+      declared: MIT
