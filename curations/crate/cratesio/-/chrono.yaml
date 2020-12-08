@@ -6,3 +6,6 @@ revisions:
   0.4.11:
     licensed:
       declared: Apache-2.0 OR MIT
+  0.4.19:
+    licensed:
+      declared: NONE
