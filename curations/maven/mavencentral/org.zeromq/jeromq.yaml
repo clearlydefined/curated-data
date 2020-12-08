@@ -1,0 +1,9 @@
+coordinates:
+  name: jeromq
+  namespace: org.zeromq
+  provider: mavencentral
+  type: maven
+revisions:
+  0.4.3:
+    licensed:
+      declared: MPL-2.0
