@@ -1,0 +1,8 @@
+coordinates:
+  name: DTFoundation
+  provider: cocoapods
+  type: pod
+revisions:
+  1.7.16:
+    licensed:
+      declared: BSD-2-Clause
