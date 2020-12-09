@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  0.7.9:
+    licensed:
+      declared: EPL-2.0
   0.8.5:
     files:
       - attributions:
