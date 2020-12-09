@@ -1,0 +1,8 @@
+coordinates:
+  name: GoogleAppMeasurement
+  provider: cocoapods
+  type: pod
+revisions:
+  6.7.0:
+    licensed:
+      declared: OTHER
