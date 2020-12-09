@@ -6,7 +6,7 @@ coordinates:
 revisions:
   0.9.10:
     licensed:
-      declared: WTFPL
+      declared: WTFPL OR BSD-3-Clause
   0.9.9-RC2:
     licensed:
       declared: WTFPL OR BSD-3-Clause
