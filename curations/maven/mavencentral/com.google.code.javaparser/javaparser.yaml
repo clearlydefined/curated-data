@@ -1,0 +1,9 @@
+coordinates:
+  name: javaparser
+  namespace: com.google.code.javaparser
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.11:
+    licensed:
+      declared: LGPL-3.0-or-later
