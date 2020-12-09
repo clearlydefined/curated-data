@@ -14,6 +14,9 @@ revisions:
         path: PowerShellStandard.Library.nuspec
     licensed:
       declared: MIT
+  5.1.0-preview-06:
+    licensed:
+      declared: MIT
   5.1.1:
     licensed:
       declared: MIT
