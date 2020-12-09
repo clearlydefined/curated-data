@@ -1,0 +1,9 @@
+coordinates:
+  name: org.jacoco.core
+  namespace: org.jacoco
+  provider: mavencentral
+  type: maven
+revisions:
+  0.7.9:
+    licensed:
+      declared: EPL-2.0
