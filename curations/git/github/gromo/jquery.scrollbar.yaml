@@ -6,4 +6,4 @@ coordinates:
 revisions:
   15dbf80a4c0cd82ec5dbbc684e53cc61ea2d8093:
     licensed:
-      declared: GPL-2.0-with-classpath-exception
+      declared: MIT OR GPL-2.0-only
