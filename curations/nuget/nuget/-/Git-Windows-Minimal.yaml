@@ -5,4 +5,4 @@ coordinates:
 revisions:
   2.17.1.2:
     licensed:
-      declared: BSD-3-Clause
+      declared: GPL-2.0-only
