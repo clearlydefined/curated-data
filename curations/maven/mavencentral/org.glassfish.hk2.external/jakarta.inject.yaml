@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.inject
+  namespace: org.glassfish.hk2.external
+  provider: mavencentral
+  type: maven
+revisions:
+  2.6.1:
+    licensed:
+      declared: EPL-2.0
