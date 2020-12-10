@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-treeview
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.1:
+    licensed:
+      declared: Apache-2.0
