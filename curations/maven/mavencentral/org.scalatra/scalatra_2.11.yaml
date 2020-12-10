@@ -1,0 +1,9 @@
+coordinates:
+  name: scalatra_2.11
+  namespace: org.scalatra
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.0:
+    licensed:
+      declared: BSD-2-Clause-FreeBSD
