@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.ws.rs-api
+  namespace: jakarta.ws.rs
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.6:
+    licensed:
+      declared: EPL-1.0
