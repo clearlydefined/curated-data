@@ -1,0 +1,9 @@
+coordinates:
+  name: jol-core
+  namespace: org.openjdk.jol
+  provider: mavencentral
+  type: maven
+revisions:
+  '0.9':
+    licensed:
+      declared: GPL-2.0-with-classpath-exception
