@@ -1,11 +1,8 @@
 coordinates:
-  name: FirebaseCore
+  name: FirebaseMessaging
   provider: cocoapods
   type: pod
 revisions:
-  6.0.3:
-    licensed:
-      declared: Apache-2.0
-  6.9.2:
+  4.6.1:
     licensed:
       declared: Apache-2.0

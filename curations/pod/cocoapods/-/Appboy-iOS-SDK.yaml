@@ -1,11 +1,8 @@
 coordinates:
-  name: FirebaseAnalytics
+  name: Appboy-iOS-SDK
   provider: cocoapods
   type: pod
 revisions:
-  6.0.2:
-    licensed:
-      declared: OTHER
-  6.7.0:
+  3.20.4:
     licensed:
       declared: OTHER
