@@ -1,11 +1,8 @@
 coordinates:
-  name: Roslyn
+  name: Roslyn.Services.VisualBasic
   provider: nuget
   type: nuget
 revisions:
-  1.2.20906.1:
-    licensed:
-      declared: OTHER
   1.2.20906.2:
     licensed:
       declared: OTHER

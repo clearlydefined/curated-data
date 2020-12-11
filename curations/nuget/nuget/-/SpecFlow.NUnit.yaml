@@ -1,0 +1,8 @@
+coordinates:
+  name: SpecFlow.NUnit
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.30:
+    licensed:
+      declared: BSD-3-Clause
