@@ -10,3 +10,6 @@ revisions:
   3.0.1-b08:
     licensed:
       declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
+  3.0.1-b12:
+    licensed:
+      declared: CDDL-1.1
