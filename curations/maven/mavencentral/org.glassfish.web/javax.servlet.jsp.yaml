@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.servlet.jsp
+  namespace: org.glassfish.web
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.2:
+    licensed:
+      declared: CDDL-1.1
