@@ -1,0 +1,8 @@
+coordinates:
+  name: 7-Zip.x64
+  provider: nuget
+  type: nuget
+revisions:
+  16.2.1:
+    licensed:
+      declared: LGPL-2.1-or-later

@@ -1,0 +1,8 @@
+coordinates:
+  name: Oracle.ManagedDataAccess.Core
+  provider: nuget
+  type: nuget
+revisions:
+  2.19.31:
+    licensed:
+      declared: OTHER

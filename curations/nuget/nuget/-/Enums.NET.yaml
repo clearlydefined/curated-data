@@ -1,0 +1,11 @@
+coordinates:
+  name: Enums.NET
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.1:
+    licensed:
+      declared: MIT
+  2.3.2:
+    licensed:
+      declared: MIT
