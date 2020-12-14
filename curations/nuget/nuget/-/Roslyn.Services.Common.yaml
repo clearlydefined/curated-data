@@ -1,0 +1,8 @@
+coordinates:
+  name: Roslyn.Services.Common
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.20906.2:
+    licensed:
+      declared: OTHER

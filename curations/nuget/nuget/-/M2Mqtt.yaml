@@ -1,0 +1,8 @@
+coordinates:
+  name: M2Mqtt
+  provider: nuget
+  type: nuget
+revisions:
+  4.3.0:
+    licensed:
+      declared: NONE
