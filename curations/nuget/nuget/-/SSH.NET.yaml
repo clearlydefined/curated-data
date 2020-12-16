@@ -5,7 +5,7 @@ coordinates:
 revisions:
   2013.4.7:
     licensed:
-      declared: MIT
+      declared: BSD-3-Clause
   2016.0.0:
     licensed:
       declared: MIT
