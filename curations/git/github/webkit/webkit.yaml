@@ -1,0 +1,9 @@
+coordinates:
+  name: webkit
+  namespace: webkit
+  provider: github
+  type: git
+revisions:
+  b9b68f8cc8e5b1fe987f44e1cd0bbc1b68990325:
+    licensed:
+      declared: GPL-2.0-only
