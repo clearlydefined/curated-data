@@ -1,0 +1,8 @@
+coordinates:
+  name: NLog.Extensions.Hosting
+  provider: nuget
+  type: nuget
+revisions:
+  1.6.3:
+    licensed:
+      declared: BSD-2-Clause
