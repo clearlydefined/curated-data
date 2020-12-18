@@ -1,0 +1,8 @@
+coordinates:
+  name: Z.Expressions.Eval
+  provider: nuget
+  type: nuget
+revisions:
+  2.9.46:
+    licensed:
+      declared: MIT
