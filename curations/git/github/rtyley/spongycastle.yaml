@@ -6,4 +6,4 @@ coordinates:
 revisions:
   f2ed42a89f1950763f8602a8df8e6785e88bffb4:
     licensed:
-      declared: ICU
+      declared: MIT
