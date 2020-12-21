@@ -1,0 +1,9 @@
+coordinates:
+  name: scalatra-metrics_2.11
+  namespace: org.scalatra
+  provider: mavencentral
+  type: maven
+revisions:
+  2.4.0.M3:
+    licensed:
+      declared: BSD-2-Clause

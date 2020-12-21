@@ -1,0 +1,8 @@
+coordinates:
+  name: nsoftware.IPWorks
+  provider: nuget
+  type: nuget
+revisions:
+  16.0.6808:
+    licensed:
+      declared: OTHER

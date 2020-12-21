@@ -1,0 +1,8 @@
+coordinates:
+  name: nbgv
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.105:
+    licensed:
+      declared: MIT
