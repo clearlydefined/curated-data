@@ -1,0 +1,9 @@
+coordinates:
+  name: jsoncpp
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  210552246d4725664efc0be311bf120963b11350:
+    licensed:
+      declared: MIT
