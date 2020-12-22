@@ -1,0 +1,8 @@
+coordinates:
+  name: buffercursor
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.12:
+    licensed:
+      declared: NONE
