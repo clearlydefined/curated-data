@@ -5,7 +5,7 @@ coordinates:
 revisions:
   1.0.2:
     licensed:
-      declared: ISC
+      declared: BSD-2-Clause
   1.0.3:
     licensed:
       declared: BSD-2-Clause
