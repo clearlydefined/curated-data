@@ -1,11 +1,8 @@
 coordinates:
-  name: WebDriverManager
+  name: libcurl.NET.x64
   provider: nuget
   type: nuget
 revisions:
-  2.2.6:
-    licensed:
-      declared: MIT
-  2.2.7:
+  1.4.1:
     licensed:
       declared: MIT

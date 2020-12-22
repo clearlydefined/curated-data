@@ -1,0 +1,9 @@
+coordinates:
+  name: slf4j-jboss-logging
+  namespace: org.jboss.slf4j
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.0.Final:
+    licensed:
+      declared: LGPL-2.1-or-later

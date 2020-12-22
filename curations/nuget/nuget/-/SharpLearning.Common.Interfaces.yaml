@@ -1,11 +1,8 @@
 coordinates:
-  name: WebDriverManager
+  name: SharpLearning.Common.Interfaces
   provider: nuget
   type: nuget
 revisions:
-  2.2.6:
-    licensed:
-      declared: MIT
-  2.2.7:
+  0.25.0.4:
     licensed:
       declared: MIT
