@@ -1,0 +1,9 @@
+coordinates:
+  name: libjpeg_turbo
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  efcf55ff0e457a10aee8c6b6293dd74d778ef82d:
+    licensed:
+      declared: IJG
