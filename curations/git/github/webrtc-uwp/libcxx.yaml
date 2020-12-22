@@ -1,0 +1,9 @@
+coordinates:
+  name: libcxx
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  85a7702b4cc5d69402791fe685f151cf3076be71:
+    licensed:
+      declared: Apache-2.0
