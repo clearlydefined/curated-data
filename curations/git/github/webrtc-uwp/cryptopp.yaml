@@ -1,0 +1,9 @@
+coordinates:
+  name: cryptopp
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  b8f35b6ab15911654835a287c7e6fce86ad45fc7:
+    licensed:
+      declared: BSL-1.0
