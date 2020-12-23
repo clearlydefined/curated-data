@@ -1,0 +1,9 @@
+coordinates:
+  name: apprtc
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  74fc5eaf4aaf3911c281a92a09395aee61a9b8bc:
+    licensed:
+      declared: NONE
