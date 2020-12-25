@@ -1,0 +1,9 @@
+coordinates:
+  name: prng
+  namespace: rdadolf
+  provider: github
+  type: git
+revisions:
+  2ddd6caa1210119da4814e32538787f0ce073f85:
+    licensed:
+      declared: NONE
