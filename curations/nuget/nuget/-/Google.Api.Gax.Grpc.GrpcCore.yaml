@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Api.Gax.Grpc.GrpcCore
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0:
+    licensed:
+      declared: BSD-3-Clause
