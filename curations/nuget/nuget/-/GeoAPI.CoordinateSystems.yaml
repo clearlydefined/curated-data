@@ -5,4 +5,4 @@ coordinates:
 revisions:
   1.7.5:
     licensed:
-      declared: BSD-3-Clause
+      declared: LGPL-2.1-or-later
