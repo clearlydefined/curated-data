@@ -6,4 +6,4 @@ coordinates:
 revisions:
   d8c300c8a90abe2cbe9c19c55089ef9e0d0248c2:
     licensed:
-      declared: OpenSSL
+      declared: OpenSSL AND ISC
