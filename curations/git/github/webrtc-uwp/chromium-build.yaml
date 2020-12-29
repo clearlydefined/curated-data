@@ -1,0 +1,9 @@
+coordinates:
+  name: chromium-build
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  495bba670b418b77b2b58d0c14f15b34c5c58458:
+    licensed:
+      declared: BSD-3-Clause
