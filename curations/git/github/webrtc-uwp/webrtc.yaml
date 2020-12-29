@@ -1,0 +1,9 @@
+coordinates:
+  name: webrtc
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  0680f27b996a4bc68c200a581ff12ba52669f2fa:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
