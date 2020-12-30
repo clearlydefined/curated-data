@@ -1,0 +1,8 @@
+coordinates:
+  name: LruCacheNet
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.0:
+    licensed:
+      declared: MIT
