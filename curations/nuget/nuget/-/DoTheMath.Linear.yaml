@@ -1,0 +1,8 @@
+coordinates:
+  name: DoTheMath.Linear
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT

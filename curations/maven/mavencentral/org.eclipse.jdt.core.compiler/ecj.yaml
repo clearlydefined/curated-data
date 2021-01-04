@@ -1,0 +1,9 @@
+coordinates:
+  name: ecj
+  namespace: org.eclipse.jdt.core.compiler
+  provider: mavencentral
+  type: maven
+revisions:
+  4.6.1:
+    licensed:
+      declared: EPL-1.0

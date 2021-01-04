@@ -1,0 +1,8 @@
+coordinates:
+  name: encog-dotnet-core
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.0:
+    licensed:
+      declared: Apache-2.0

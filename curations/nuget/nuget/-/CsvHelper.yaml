@@ -54,6 +54,9 @@ revisions:
   7.1.1:
     licensed:
       declared: MS-PL OR Apache-2.0
+  8.3.0:
+    licensed:
+      declared: MS-PL OR Apache-2.0
   9.2.2:
     licensed:
       declared: MS-PL OR Apache-2.0

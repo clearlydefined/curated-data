@@ -1,0 +1,8 @@
+coordinates:
+  name: Triangle
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.6-beta3:
+    licensed:
+      declared: MIT
