@@ -6,4 +6,4 @@ coordinates:
 revisions:
   efcf55ff0e457a10aee8c6b6293dd74d778ef82d:
     licensed:
-      declared: IJG
+      declared: IJG AND BSD-3-Clause AND Zlib
