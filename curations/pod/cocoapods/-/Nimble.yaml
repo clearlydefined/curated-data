@@ -1,0 +1,8 @@
+coordinates:
+  name: Nimble
+  provider: cocoapods
+  type: pod
+revisions:
+  7.3.4:
+    licensed:
+      declared: Apache-1.1
