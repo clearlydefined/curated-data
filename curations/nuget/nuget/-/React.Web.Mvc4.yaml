@@ -1,0 +1,8 @@
+coordinates:
+  name: React.Web.Mvc4
+  provider: nuget
+  type: nuget
+revisions:
+  5.1.2:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: lpcnet
+  namespace: mozilla
+  provider: github
+  type: git
+revisions:
+  b811cade95cf19530ddfbe5aadeaff7c4f89ba77:
+    licensed:
+      declared: BSD-3-Clause

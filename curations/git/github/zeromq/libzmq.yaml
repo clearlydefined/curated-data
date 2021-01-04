@@ -1,0 +1,9 @@
+coordinates:
+  name: libzmq
+  namespace: zeromq
+  provider: github
+  type: git
+revisions:
+  2cb1240db64ce1ea299e00474c646a2453a8435b:
+    licensed:
+      declared: LGPL-3.0-or-later WITH OTHER

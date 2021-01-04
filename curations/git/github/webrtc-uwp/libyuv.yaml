@@ -1,0 +1,9 @@
+coordinates:
+  name: libyuv
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  bdff617d430cfd05d857595a044ed00f9eeaa7eb:
+    licensed:
+      declared: BSD-3-Clause

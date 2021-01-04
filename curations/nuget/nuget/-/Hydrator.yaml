@@ -1,0 +1,8 @@
+coordinates:
+  name: Hydrator
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.1:
+    licensed:
+      declared: MS-PL
