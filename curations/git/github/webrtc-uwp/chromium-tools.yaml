@@ -1,0 +1,9 @@
+coordinates:
+  name: chromium-tools
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  3bdc7572c1e2d635d5e50e753df6ce35001a9027:
+    licensed:
+      declared: BSD-3-Clause
