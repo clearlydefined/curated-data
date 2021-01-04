@@ -1,0 +1,8 @@
+coordinates:
+  name: CLAP-DotNetCore
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.1:
+    licensed:
+      declared: MIT
