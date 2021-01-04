@@ -1,0 +1,9 @@
+coordinates:
+  name: webrtc-linux
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  cf1bac9b636e0500fd9e9397398cf324badc68e9:
+    licensed:
+      declared: NONE
