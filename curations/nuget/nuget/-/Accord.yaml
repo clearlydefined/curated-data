@@ -5,10 +5,10 @@ coordinates:
 revisions:
   3.4.0:
     licensed:
-      declared: LGPL-2.1-only
+      declared: LGPL-2.1-or-later
   3.7.0:
     licensed:
-      declared: LGPL-2.1+
+      declared: LGPL-2.1-or-later
   3.8.0:
     licensed:
       declared: LGPL-2.1-or-later
