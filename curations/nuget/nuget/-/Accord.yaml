@@ -5,7 +5,7 @@ coordinates:
 revisions:
   3.7.0:
     licensed:
-      declared: LGPL-2.1-or-later+
+      declared: LGPL-2.1-or-later
   3.8.0:
     licensed:
       declared: LGPL-2.1-or-later
