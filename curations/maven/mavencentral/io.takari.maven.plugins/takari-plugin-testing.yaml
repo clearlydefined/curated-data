@@ -1,0 +1,9 @@
+coordinates:
+  name: takari-plugin-testing
+  namespace: io.takari.maven.plugins
+  provider: mavencentral
+  type: maven
+revisions:
+  2.9.0:
+    licensed:
+      declared: EPL-1.0
