@@ -1,0 +1,8 @@
+coordinates:
+  name: NSwag.MSBuild
+  provider: nuget
+  type: nuget
+revisions:
+  12.0.14:
+    licensed:
+      declared: MIT
