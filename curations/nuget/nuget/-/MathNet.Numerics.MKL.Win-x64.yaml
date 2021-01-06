@@ -1,11 +1,8 @@
 coordinates:
-  name: AdysTech.CredentialManager
+  name: MathNet.Numerics.MKL.Win-x64
   provider: nuget
   type: nuget
 revisions:
-  1.9.0:
-    licensed:
-      declared: MIT
-  1.9.1:
+  2.3.0:
     licensed:
       declared: MIT
