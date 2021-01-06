@@ -7,6 +7,9 @@ revisions:
   '58.2':
     licensed:
       declared: Unicode-DFS-2016
+  '61.1':
+    licensed:
+      declared: ICU
   '64.2':
     licensed:
       declared: Unicode-DFS-2016
