@@ -1,11 +1,8 @@
 coordinates:
-  name: CardinalityEstimation.Signed
+  name: CLAP-DotNetCore
   provider: nuget
   type: nuget
 revisions:
-  1.6.0:
-    licensed:
-      declared: MIT
-  1.9.0:
+  4.6.1:
     licensed:
       declared: MIT
