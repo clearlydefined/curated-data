@@ -1,0 +1,9 @@
+coordinates:
+  name: templates
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  345bac675ddc01f47bc7cd7e1e71e5362b194131:
+    licensed:
+      declared: NONE

@@ -1,0 +1,15 @@
+coordinates:
+  name: jjwt-api
+  namespace: io.jsonwebtoken
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  0.11.2:
+    described:
+      sourceLocation:
+        name: jjwt
+        namespace: jwtk
+        provider: github
+        revision: 274749373f29108e777790351df4a0d45f63e64d
+        type: git
+        url: 'https://github.com/jwtk/jjwt/commit/274749373f29108e777790351df4a0d45f63e64d'

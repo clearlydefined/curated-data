@@ -17,3 +17,6 @@ revisions:
         path: DeltaCompressionDotNet.nuspec
     licensed:
       declared: MS-PL
+  2.0.0:
+    licensed:
+      declared: MS-PL

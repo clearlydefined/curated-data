@@ -1,0 +1,8 @@
+coordinates:
+  name: starkbank-ecdsa
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT
