@@ -1,0 +1,8 @@
+coordinates:
+  name: angular-file-upload
+  provider: nuget
+  type: nuget
+revisions:
+  12.0.4:
+    licensed:
+      declared: MIT
