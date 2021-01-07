@@ -1,11 +1,14 @@
 coordinates:
-  name: CNTK.CPUOnly
+  name: NSwag.MSBuild
   provider: nuget
   type: nuget
 revisions:
-  2.4.0:
+  12.0.14:
     licensed:
       declared: MIT
-  2.7.0:
+  12.2.5:
+    licensed:
+      declared: MIT
+  13.0.1:
     licensed:
       declared: MIT

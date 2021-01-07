@@ -1,11 +1,8 @@
 coordinates:
-  name: CNTK.CPUOnly
+  name: CLAP-DotNetCore
   provider: nuget
   type: nuget
 revisions:
-  2.4.0:
-    licensed:
-      declared: MIT
-  2.7.0:
+  4.6.1:
     licensed:
       declared: MIT
