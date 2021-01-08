@@ -1,0 +1,8 @@
+coordinates:
+  name: jQuery.Ajax.Unobtrusive
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.20505:
+    licensed:
+      declared: OTHER
