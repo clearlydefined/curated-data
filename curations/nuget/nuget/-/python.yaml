@@ -12,6 +12,9 @@ revisions:
   3.6.8:
     licensed:
       declared: Python-2.0
+  3.7.5:
+    licensed:
+      declared: PSF-2.0
   3.7.7:
     licensed:
       declared: Python-2.0
