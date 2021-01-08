@@ -50,10 +50,10 @@ revisions:
       declared: MIT
   1.8.0:
     licensed:
-      declared: MIT
+      declared: MIT OR GPL-1.0-or-later
   1.8.0.1:
     licensed:
-      declared: MIT
+      declared: MIT OR GPL-1.0-or-later
   1.9.0:
     licensed:
-      declared: MIT
+      declared: MIT OR GPL-1.0-or-later
