@@ -7,6 +7,9 @@ revisions:
   02dff8b01100e7cd6d4c93be27202ccb4ea05811:
     licensed:
       declared: Python-2.0
+  1e5d33e9b9b8631b36f061103a30208b206fd03a:
+    licensed:
+      declared: Python-2.0
   426b022776672fdf3d71ddd98d89af341c88080f:
     licensed:
       declared: Python-2.0
