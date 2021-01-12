@@ -1,11 +1,8 @@
 coordinates:
-  name: NSwag.AspNetCore
+  name: RiskFirst.Hateoas
   provider: nuget
   type: nuget
 revisions:
-  11.19.2:
-    licensed:
-      declared: MIT
-  12.2.5:
+  3.1.1:
     licensed:
       declared: MIT
