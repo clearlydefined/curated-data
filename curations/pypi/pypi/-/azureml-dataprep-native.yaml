@@ -20,7 +20,7 @@ revisions:
       declared: OTHER
   20.1.1:
     licensed:
-      declared: Other
+      declared: OTHER
   22.0.0:
     licensed:
       declared: OTHER
@@ -30,6 +30,12 @@ revisions:
   24.0.0:
     licensed:
       declared: OTHER
+  26.0.0:
+    licensed:
+      declared: OTHER
   27.0.0:
+    licensed:
+      declared: OTHER
+  28.0.0:
     licensed:
       declared: OTHER
