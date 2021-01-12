@@ -1,0 +1,8 @@
+coordinates:
+  name: jsts
+  provider: npmjs
+  type: npm
+revisions:
+  1.6.2:
+    licensed:
+      declared: EPL-1.0
