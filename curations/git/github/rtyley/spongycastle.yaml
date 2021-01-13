@@ -1,0 +1,9 @@
+coordinates:
+  name: spongycastle
+  namespace: rtyley
+  provider: github
+  type: git
+revisions:
+  f2ed42a89f1950763f8602a8df8e6785e88bffb4:
+    licensed:
+      declared: MIT

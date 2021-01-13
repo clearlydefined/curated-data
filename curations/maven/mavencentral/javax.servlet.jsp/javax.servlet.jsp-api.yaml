@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.servlet.jsp-api
+  namespace: javax.servlet.jsp
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.1:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0

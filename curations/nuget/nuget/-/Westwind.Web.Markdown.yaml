@@ -1,0 +1,8 @@
+coordinates:
+  name: Westwind.Web.Markdown
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.15:
+    licensed:
+      declared: MIT

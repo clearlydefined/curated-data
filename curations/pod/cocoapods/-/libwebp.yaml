@@ -1,0 +1,8 @@
+coordinates:
+  name: libwebp
+  provider: cocoapods
+  type: pod
+revisions:
+  1.1.0:
+    licensed:
+      declared: BSD-3-Clause

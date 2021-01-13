@@ -1,0 +1,8 @@
+coordinates:
+  name: Moq.Dapper
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.9:
+    licensed:
+      declared: GPL-2.0-only

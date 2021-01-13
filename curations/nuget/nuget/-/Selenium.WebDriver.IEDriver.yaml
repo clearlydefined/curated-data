@@ -9,6 +9,9 @@ revisions:
   3.13.0:
     licensed:
       declared: Unlicense
+  3.14.0:
+    licensed:
+      declared: Unlicense
   3.141.0:
     licensed:
       declared: Unlicense
@@ -16,5 +19,8 @@ revisions:
     licensed:
       declared: Unlicense
   3.150.1:
+    licensed:
+      declared: Unlicense
+  3.7.0:
     licensed:
       declared: Unlicense

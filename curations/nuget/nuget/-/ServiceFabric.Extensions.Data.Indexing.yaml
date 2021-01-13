@@ -1,0 +1,8 @@
+coordinates:
+  name: ServiceFabric.Extensions.Data.Indexing
+  provider: nuget
+  type: nuget
+revisions:
+  3.1.283:
+    licensed:
+      declared: MIT

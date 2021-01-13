@@ -6,3 +6,6 @@ revisions:
   2.7.12:
     licensed:
       declared: Python-2.0
+  2.7.17:
+    licensed:
+      declared: Python-2.0

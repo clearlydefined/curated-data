@@ -6,6 +6,12 @@ revisions:
   5.0.2:
     licensed:
       declared: OTHER
+  5.6.0:
+    licensed:
+      declared: OTHER
+  5.8.0:
+    licensed:
+      declared: OTHER
   5.9.0:
     licensed:
       declared: OTHER

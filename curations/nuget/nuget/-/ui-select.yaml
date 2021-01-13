@@ -1,0 +1,8 @@
+coordinates:
+  name: ui-select
+  provider: nuget
+  type: nuget
+revisions:
+  0.19.8:
+    licensed:
+      declared: MIT

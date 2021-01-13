@@ -1,0 +1,8 @@
+coordinates:
+  name: CreateNewNuGetPackageFromProjectAfterEachBuild
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.9:
+    licensed:
+      declared: MIT

@@ -1,0 +1,11 @@
+coordinates:
+  name: Z.Expressions.Eval
+  provider: nuget
+  type: nuget
+revisions:
+  2.9.46:
+    licensed:
+      declared: OTHER
+  4.0.26:
+    licensed:
+      declared: OTHER

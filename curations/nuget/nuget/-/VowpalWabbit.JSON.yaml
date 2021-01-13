@@ -1,0 +1,8 @@
+coordinates:
+  name: VowpalWabbit.JSON
+  provider: nuget
+  type: nuget
+revisions:
+  8.7.0:
+    licensed:
+      declared: BSD-3-Clause

@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  3.0.0:
+    licensed:
+      declared: BSD-3-Clause
   3.10.0:
     licensed:
       declared: BSD-3-Clause
@@ -12,10 +15,19 @@ revisions:
   3.11.4:
     licensed:
       declared: BSD-3-Clause
+  3.12.1:
+    licensed:
+      declared: BSD-3-Clause
   3.12.3:
     licensed:
       declared: BSD-3-Clause
+  3.14.0:
+    licensed:
+      declared: BSD-3-Clause
   3.4.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.6.0:
     licensed:
       declared: BSD-3-Clause
   3.6.1:

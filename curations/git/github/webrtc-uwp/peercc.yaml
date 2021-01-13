@@ -1,0 +1,9 @@
+coordinates:
+  name: peercc
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  2db07b2ddfa7e85d6ad250a1caa149537d3f3fbc:
+    licensed:
+      declared: NONE

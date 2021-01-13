@@ -1,0 +1,8 @@
+coordinates:
+  name: ProjNET4GeoAPI
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.1:
+    licensed:
+      declared: LGPL-2.0-or-later

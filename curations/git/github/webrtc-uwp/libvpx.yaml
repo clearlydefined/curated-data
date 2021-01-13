@@ -1,0 +1,9 @@
+coordinates:
+  name: libvpx
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  c41a69ccf2e5812ed4ef78a1614e3670dcc8e573:
+    licensed:
+      declared: BSD-3-Clause

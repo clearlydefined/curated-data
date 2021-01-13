@@ -1,0 +1,8 @@
+coordinates:
+  name: Z.EntityFramework.Extensions.EFCore
+  provider: nuget
+  type: nuget
+revisions:
+  3.1.5:
+    licensed:
+      declared: OTHER

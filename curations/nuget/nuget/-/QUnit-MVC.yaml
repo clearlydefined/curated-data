@@ -1,0 +1,8 @@
+coordinates:
+  name: QUnit-MVC
+  provider: nuget
+  type: nuget
+revisions:
+  1.6.2:
+    licensed:
+      declared: GPL-2.0-only OR MIT

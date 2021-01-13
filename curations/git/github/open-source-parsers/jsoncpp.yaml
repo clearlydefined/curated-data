@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  3c32dca89214c03b107cc9d1c468000cff3f8127:
+    licensed:
+      declared: MIT
   645250b6690785be60ab6780ce4b58698d884d11:
     licensed:
       declared: MIT OR OTHER
@@ -17,6 +20,9 @@ revisions:
           - Copyright (c) 2007-2010 by Baptiste Lepilleur and The JsonCpp Authors
         license: MIT OR OTHER
         path: LICENSE
+    licensed:
+      declared: MIT OR OTHER
+  9059f5cad030ba11d37818847443a53918c327b1:
     licensed:
       declared: MIT OR OTHER
   9be589598595963f94ba264d7b416d0533421106:
