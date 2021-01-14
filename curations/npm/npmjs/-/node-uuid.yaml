@@ -1,0 +1,8 @@
+coordinates:
+  name: node-uuid
+  provider: npmjs
+  type: npm
+revisions:
+  1.3.3:
+    licensed:
+      declared: MIT
