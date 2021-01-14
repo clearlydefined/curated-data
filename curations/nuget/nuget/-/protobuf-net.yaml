@@ -5,28 +5,28 @@ coordinates:
 revisions:
   2.0.0.668:
     licensed:
-      declared: Apache-2.0 AND BSD-3-Clause
+      declared: Apache-2.0
   2.1.0:
     licensed:
-      declared: Apache-2.0 AND BSD-3-Clause
+      declared: Apache-2.0
   2.3.17:
     licensed:
-      declared: Apache-2.0 AND BSD-3-Clause
+      declared: Apache-2.0
   2.3.2:
     licensed:
-      declared: Apache-2.0 AND BSD-3-Clause
+      declared: Apache-2.0
   2.3.3:
     licensed:
       declared: Apache-2.0
   2.3.4:
     licensed:
-      declared: Apache-2.0 AND BSD-3-Clause
+      declared: Apache-2.0
   2.3.7:
     licensed:
-      declared: Apache-2.0 AND BSD-3-Clause
+      declared: Apache-2.0
   2.4.0:
     licensed:
-      declared: Apache-2.0 AND BSD-3-Clause
+      declared: Apache-2.0
   2.4.1:
     licensed:
       declared: Apache-2.0
