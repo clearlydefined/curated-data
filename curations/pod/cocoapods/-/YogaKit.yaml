@@ -1,0 +1,8 @@
+coordinates:
+  name: YogaKit
+  provider: cocoapods
+  type: pod
+revisions:
+  1.5.0:
+    licensed:
+      declared: MIT
