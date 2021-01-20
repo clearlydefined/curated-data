@@ -12,3 +12,6 @@ revisions:
   2016.1.0:
     licensed:
       declared: MIT
+  2020.0.0:
+    licensed:
+      declared: MIT

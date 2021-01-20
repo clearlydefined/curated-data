@@ -1,0 +1,8 @@
+coordinates:
+  name: Octodiff
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.1:
+    licensed:
+      declared: Apache-2.0
