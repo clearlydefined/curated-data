@@ -1,0 +1,8 @@
+coordinates:
+  name: NAnt.Portable
+  provider: nuget
+  type: nuget
+revisions:
+  0.92.0:
+    licensed:
+      declared: GPL-3.0-only
