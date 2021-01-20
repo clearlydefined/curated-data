@@ -1,0 +1,8 @@
+coordinates:
+  name: backbone-undo
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.5:
+    licensed:
+      declared: MIT

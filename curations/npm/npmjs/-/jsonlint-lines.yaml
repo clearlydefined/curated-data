@@ -1,0 +1,8 @@
+coordinates:
+  name: jsonlint-lines
+  provider: npmjs
+  type: npm
+revisions:
+  1.7.1:
+    licensed:
+      declared: MIT

@@ -51,7 +51,13 @@ revisions:
   1.18.0.post1:
     licensed:
       declared: OTHER
+  1.19.0:
+    licensed:
+      declared: OTHER
   1.2.0.post1:
+    licensed:
+      declared: OTHER
+  1.20.0:
     licensed:
       declared: OTHER
   1.4.0.post2:
