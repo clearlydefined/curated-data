@@ -1,0 +1,16 @@
+coordinates:
+  name: HtmlRenderer.PdfSharp
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.1-beta1:
+    described:
+      sourceLocation:
+        name: html-renderer
+        namespace: arthurhub
+        provider: github
+        revision: 'https://github.com/ArthurHub/HTML-Renderer/blob/master/LICENSE'
+        type: git
+        url: 'https://github.com/arthurhub/html-renderer/commit/https://github.com/ArthurHub/HTML-Renderer/blob/master/LICENSE'
+    licensed:
+      declared: BSD 3-Clause "New" or "Revised" License
