@@ -1,0 +1,8 @@
+coordinates:
+  name: PocketLogger.For.ApplicationInsights
+  provider: nuget
+  type: nuget
+revisions:
+  0.4.0:
+    licensed:
+      declared: MIT
