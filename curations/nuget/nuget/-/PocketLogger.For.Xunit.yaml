@@ -1,0 +1,8 @@
+coordinates:
+  name: PocketLogger.For.Xunit
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.4:
+    licensed:
+      declared: MIT
