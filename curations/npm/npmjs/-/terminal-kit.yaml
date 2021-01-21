@@ -1,0 +1,8 @@
+coordinates:
+  name: terminal-kit
+  provider: npmjs
+  type: npm
+revisions:
+  1.45.5:
+    licensed:
+      declared: BSD-3
