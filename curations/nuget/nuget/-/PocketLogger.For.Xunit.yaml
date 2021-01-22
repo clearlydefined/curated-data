@@ -1,11 +1,8 @@
 coordinates:
-  name: Pocket.Disposable
+  name: PocketLogger.For.Xunit
   provider: nuget
   type: nuget
 revisions:
-  1.0.4:
-    licensed:
-      declared: MIT
-  1.0.5:
+  0.1.4:
     licensed:
       declared: MIT
