@@ -1,0 +1,8 @@
+coordinates:
+  name: date-time-format-timezone
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.21:
+    licensed:
+      declared: BSD-3-Clause
