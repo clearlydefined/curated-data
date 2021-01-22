@@ -1,11 +1,8 @@
 coordinates:
-  name: Pocket.TypeDiscovery
+  name: PocketLogger.Subscribe
   provider: nuget
   type: nuget
 revisions:
-  0.4.0:
-    licensed:
-      declared: MIT
-  0.4.1:
+  0.6.1:
     licensed:
       declared: MIT
