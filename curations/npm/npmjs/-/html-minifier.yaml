@@ -1,0 +1,9 @@
+coordinates:
+  name: html-minifier
+  provider: npmjs
+  type: npm
+revisions:
+  3.5.21:
+    files:
+      - license: MPL-1.1
+        path: package/src/htmlparser.js
