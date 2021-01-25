@@ -1,0 +1,8 @@
+coordinates:
+  name: Twilio
+  provider: nuget
+  type: nuget
+revisions:
+  5.38.0:
+    licensed:
+      declared: MIT

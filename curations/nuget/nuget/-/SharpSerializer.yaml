@@ -1,0 +1,8 @@
+coordinates:
+  name: SharpSerializer
+  provider: nuget
+  type: nuget
+revisions:
+  2.20.0:
+    licensed:
+      declared: BSD-3-Clause

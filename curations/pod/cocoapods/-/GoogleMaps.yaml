@@ -1,0 +1,8 @@
+coordinates:
+  name: GoogleMaps
+  provider: cocoapods
+  type: pod
+revisions:
+  2.1.1:
+    licensed:
+      declared: OTHER

@@ -27,6 +27,9 @@ revisions:
   2.4.0.114:
     licensed:
       declared: BSD-2-Clause
+  2.4.0.169:
+    licensed:
+      declared: BSD-2-Clause
   2.4.0.187:
     licensed:
       declared: BSD-2-Clause
