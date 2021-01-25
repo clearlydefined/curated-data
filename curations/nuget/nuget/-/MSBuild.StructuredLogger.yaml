@@ -1,0 +1,8 @@
+coordinates:
+  name: MSBuild.StructuredLogger
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.11:
+    licensed:
+      declared: MIT
