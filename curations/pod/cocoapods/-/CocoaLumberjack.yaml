@@ -1,0 +1,8 @@
+coordinates:
+  name: CocoaLumberjack
+  provider: cocoapods
+  type: pod
+revisions:
+  3.5.2:
+    licensed:
+      declared: BSD-3-Clause
