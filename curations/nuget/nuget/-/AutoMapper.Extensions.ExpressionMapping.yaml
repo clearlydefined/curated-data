@@ -1,0 +1,8 @@
+coordinates:
+  name: AutoMapper.Extensions.ExpressionMapping
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.2:
+    licensed:
+      declared: MIT
