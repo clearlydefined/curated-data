@@ -5,7 +5,7 @@ coordinates:
 revisions:
   0.64.2:
     licensed:
-      declared: ICU
+      declared: Unicode-DFS-2016
   0.67.2:
     licensed:
       declared: OTHER
