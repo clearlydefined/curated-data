@@ -1,0 +1,8 @@
+coordinates:
+  name: Ardalis.Specification
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0:
+    licensed:
+      declared: MIT
