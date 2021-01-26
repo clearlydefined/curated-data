@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-grid
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  3.13.0:
+    licensed:
+      declared: Apache-2.0
