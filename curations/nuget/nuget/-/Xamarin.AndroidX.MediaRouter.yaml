@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.AndroidX.MediaRouter
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.0.1:
+    licensed:
+      declared: MIT
