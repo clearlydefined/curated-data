@@ -6,7 +6,7 @@ coordinates:
 revisions:
   4.3.3:
     licensed:
-      declared: Apache-2.0
+      declared: OTHER
   4.4.2:
     licensed:
       declared: OTHER
