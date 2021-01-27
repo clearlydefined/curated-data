@@ -1,0 +1,9 @@
+coordinates:
+  name: tsmon-client
+  namespace: '@chopsui'
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1:
+    licensed:
+      declared: BSD-3-Clause
