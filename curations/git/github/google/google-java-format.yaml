@@ -1,0 +1,9 @@
+coordinates:
+  name: google-java-format
+  namespace: google
+  provider: github
+  type: git
+revisions:
+  69e2efccf9938cfb08b1d5315ad61ca4484bbd0a:
+    licensed:
+      declared: Apache-2.0
