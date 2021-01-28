@@ -1,0 +1,8 @@
+coordinates:
+  name: commentjson
+  provider: pypi
+  type: pypi
+revisions:
+  0.8.3:
+    licensed:
+      declared: MIT
