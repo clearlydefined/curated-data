@@ -6,6 +6,9 @@ revisions:
   4.1.10715:
     licensed:
       declared: OTHER
+  4.2.0:
+    licensed:
+      declared: OTHER
   4.3.0:
     licensed:
       declared: OTHER
