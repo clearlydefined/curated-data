@@ -5,4 +5,4 @@ coordinates:
 revisions:
   4.0.0.1:
     licensed:
-      declared: OTHER
+      declared: LGPL-3.0-or-later WITH OTHER
