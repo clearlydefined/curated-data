@@ -1,0 +1,8 @@
+coordinates:
+  name: Inspector
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.22:
+    licensed:
+      declared: MIT
