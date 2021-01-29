@@ -1,0 +1,9 @@
+coordinates:
+  name: plexus-digest
+  namespace: org.codehaus.plexus
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: Apache-2.0

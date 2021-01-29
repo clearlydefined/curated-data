@@ -12,6 +12,8 @@ revisions:
           - 'Copyright 2016-2017 Confluent Inc., Andreas Heider Kafka Confluent'
         license: Apache-2.0 AND BSD-2-Clause
         path: Confluent.Kafka.nuspec
+    licensed:
+      declared: Apache-2.0
   0.11.2:
     licensed:
       declared: Apache-2.0 AND BSD-2-Clause
