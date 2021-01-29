@@ -1,11 +1,8 @@
 coordinates:
-  name: google-libphonenumber
+  name: archy
   provider: npmjs
   type: npm
 revisions:
-  2.0.19:
-    licensed:
-      declared: MIT
-  3.1.11:
+  0.0.2:
     licensed:
       declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: yasm-binaries
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  52f9b3f4b0aa06da24ef8b123058bb61ee468881:
+    licensed:
+      declared: NONE
