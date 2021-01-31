@@ -1,0 +1,8 @@
+coordinates:
+  name: WhoisClient.NET
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.1:
+    licensed:
+      declared: MS-PL
