@@ -6,3 +6,6 @@ revisions:
   1.7.0-beta-may2020:
     licensed:
       declared: BSD-3-Clause
+  1.9.0-beta-june2020:
+    licensed:
+      declared: BSD-3-Clause
