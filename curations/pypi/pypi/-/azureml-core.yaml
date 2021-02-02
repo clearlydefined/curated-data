@@ -44,7 +44,7 @@ revisions:
       declared: OTHER
   1.15.0.post1:
     licensed:
-      declared: MS-PL
+      declared: OTHER
   1.16.0:
     licensed:
       declared: OTHER
