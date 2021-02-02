@@ -1,0 +1,9 @@
+coordinates:
+  name: osquery
+  namespace: osquery
+  provider: github
+  type: git
+revisions:
+  5c71654dcf7c12c291a1388c85f498fec1d139e2:
+    licensed:
+      declared: Apache-2.0 OR GPL-2.0-only
