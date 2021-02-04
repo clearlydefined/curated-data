@@ -1,0 +1,8 @@
+coordinates:
+  name: SQLite.Net-PCL
+  provider: nuget
+  type: nuget
+revisions:
+  3.1.1:
+    licensed:
+      declared: MIT
