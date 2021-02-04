@@ -1,0 +1,9 @@
+coordinates:
+  name: gnetextsearch
+  namespace: atdrendel
+  provider: github
+  type: git
+revisions:
+  84810f188545e814ca7de17ab571f3e2f67bbdb9:
+    licensed:
+      declared: BSD-2-Clause
