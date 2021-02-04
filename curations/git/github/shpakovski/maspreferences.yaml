@@ -1,0 +1,9 @@
+coordinates:
+  name: maspreferences
+  namespace: shpakovski
+  provider: github
+  type: git
+revisions:
+  45e5ff67d19babc53414970b0a5db9586a494a96:
+    licensed:
+      declared: BSD-2-Clause
