@@ -1,0 +1,8 @@
+coordinates:
+  name: rubysl-securerandom
+  provider: rubygems
+  type: gem
+revisions:
+  2.0.0:
+    licensed:
+      declared: BSD-3-Clause
