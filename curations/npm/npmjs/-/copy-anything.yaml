@@ -1,0 +1,14 @@
+coordinates:
+  name: copy-anything
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.1:
+    described:
+      sourceLocation:
+        name: copy-anything
+        namespace: mesqueeb
+        provider: github
+        revision: f2d7787b9d8ddf5dea547b077fadb69e1fc5d229
+        type: git
+        url: 'https://github.com/mesqueeb/copy-anything/commit/f2d7787b9d8ddf5dea547b077fadb69e1fc5d229'
