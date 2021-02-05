@@ -5,4 +5,4 @@ coordinates:
 revisions:
   0.1.109:
     licensed:
-      declared: HPND
+      declared: BSD-3-Clause
