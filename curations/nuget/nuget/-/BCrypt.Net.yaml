@@ -1,0 +1,8 @@
+coordinates:
+  name: BCrypt.Net
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.0:
+    licensed:
+      declared: BSD-3-Clause
