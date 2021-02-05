@@ -1,0 +1,8 @@
+coordinates:
+  name: BCrypt-Official
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.109:
+    licensed:
+      declared: HPND
