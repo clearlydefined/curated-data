@@ -3,6 +3,9 @@ coordinates:
   provider: rubygems
   type: gem
 revisions:
+  1.2.1:
+    licensed:
+      declared: BSD-2-Clause OR Ruby
   1.2.2:
     licensed:
       declared: BSD-2-Clause OR Ruby
