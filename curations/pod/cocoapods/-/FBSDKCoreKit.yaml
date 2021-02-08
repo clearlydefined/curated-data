@@ -9,3 +9,6 @@ revisions:
   8.0.0:
     licensed:
       declared: OTHER
+  9.0.0:
+    licensed:
+      declared: other
