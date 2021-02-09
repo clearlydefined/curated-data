@@ -30,3 +30,6 @@ revisions:
   1.2.0-beta1:
     licensed:
       declared: MIT
+  2.5.1:
+    licensed:
+      declared: MIT
