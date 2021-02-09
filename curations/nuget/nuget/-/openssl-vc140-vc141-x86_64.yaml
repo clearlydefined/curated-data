@@ -1,0 +1,8 @@
+coordinates:
+  name: openssl-vc140-vc141-x86_64
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.5:
+    licensed:
+      declared: OpenSSL
