@@ -1,0 +1,9 @@
+coordinates:
+  name: stetho
+  namespace: com.facebook.stetho
+  provider: mavencentral
+  type: maven
+revisions:
+  1.5.1:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
