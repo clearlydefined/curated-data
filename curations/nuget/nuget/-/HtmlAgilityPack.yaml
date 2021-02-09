@@ -39,6 +39,9 @@ revisions:
   1.11.24:
     licensed:
       declared: MIT
+  1.11.25:
+    licensed:
+      declared: MIT
   1.11.26:
     licensed:
       declared: MIT
