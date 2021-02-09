@@ -1,0 +1,8 @@
+coordinates:
+  name: runtime.win10-arm64.native.Microsoft.SqlToolsService
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0-release.53:
+    licensed:
+      declared: MIT

@@ -1,11 +1,8 @@
 coordinates:
-  name: livedoc-mocha
+  name: odiff
   provider: npmjs
   type: npm
 revisions:
-  0.3.4:
-    licensed:
-      declared: MIT
-  0.3.5-beta-1:
+  1.4.2:
     licensed:
       declared: MIT

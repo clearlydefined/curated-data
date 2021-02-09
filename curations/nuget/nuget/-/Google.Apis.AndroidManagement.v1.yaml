@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Apis.AndroidManagement.v1
+  provider: nuget
+  type: nuget
+revisions:
+  1.49.0.2174:
+    licensed:
+      declared: Apache-2.0
