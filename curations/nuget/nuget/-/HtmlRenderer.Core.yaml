@@ -1,11 +1,8 @@
 coordinates:
-  name: Antlr4.Runtime.Standard
+  name: HtmlRenderer.Core
   provider: nuget
   type: nuget
 revisions:
-  4.8.0:
-    licensed:
-      declared: BSD-3-Clause
-  4.9.0:
+  1.5.1-beta1:
     licensed:
       declared: BSD-3-Clause
