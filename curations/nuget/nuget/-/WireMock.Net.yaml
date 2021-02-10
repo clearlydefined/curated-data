@@ -9,3 +9,6 @@ revisions:
   1.0.30:
     licensed:
       declared: Apache-2.0
+  1.0.4.20:
+    licensed:
+      declared: Apache-2.0
