@@ -12,3 +12,6 @@ revisions:
   3.8.0:
     licensed:
       declared: LGPL-2.1-or-later
+  3.8.2-alpha:
+    licensed:
+      declared: NONE
