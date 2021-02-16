@@ -27,3 +27,6 @@ revisions:
   32.0.2:
     licensed:
       declared: MIT
+  32.1.1:
+    licensed:
+      declared: MIT
