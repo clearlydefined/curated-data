@@ -1,0 +1,8 @@
+coordinates:
+  name: MongoDB.Bson.signed
+  provider: nuget
+  type: nuget
+revisions:
+  2.8.0:
+    licensed:
+      declared: Artistic-2.0
