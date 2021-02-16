@@ -1,0 +1,8 @@
+coordinates:
+  name: BotAuth
+  provider: nuget
+  type: nuget
+revisions:
+  3.11.0-alpha:
+    licensed:
+      declared: MIT
