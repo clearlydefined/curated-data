@@ -1,0 +1,8 @@
+coordinates:
+  name: Mongo2Go
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.12:
+    licensed:
+      declared: MIT
