@@ -1,0 +1,9 @@
+coordinates:
+  name: mono
+  namespace: mono
+  provider: github
+  type: git
+revisions:
+  8c085a99b32e99ae2f0a6b3de61541fefb4d3389:
+    licensed:
+      declared: MIT AND OTHER
