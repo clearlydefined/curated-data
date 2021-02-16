@@ -1,0 +1,8 @@
+coordinates:
+  name: natural-gutenberg
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.1:
+    licensed:
+      declared: MIT
