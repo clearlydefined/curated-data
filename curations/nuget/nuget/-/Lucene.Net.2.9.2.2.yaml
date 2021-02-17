@@ -1,0 +1,8 @@
+coordinates:
+  name: Lucene.Net.2.9.2.2
+  provider: nuget
+  type: nuget
+revisions:
+  2.9.2.2:
+    licensed:
+      declared: Apache-2.0
