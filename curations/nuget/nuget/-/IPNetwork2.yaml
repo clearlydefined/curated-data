@@ -51,3 +51,6 @@ revisions:
   2.5.240:
     licensed:
       declared: BSD-2-Clause
+  2.5.247:
+    licensed:
+      declared: BSD-2-Clause
