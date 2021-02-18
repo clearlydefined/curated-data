@@ -12,3 +12,6 @@ revisions:
   3.2.2-unstable-002:
     licensed:
       declared: Apache-2.0 OR MS-PL
+  3.3.2:
+    licensed:
+      declared: MS-PL
