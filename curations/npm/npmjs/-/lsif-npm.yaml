@@ -1,0 +1,11 @@
+coordinates:
+  name: lsif-npm
+  provider: npmjs
+  type: npm
+revisions:
+  0.5.3:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation
+        license: OTHER
+        path: package/LICENSE
