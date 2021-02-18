@@ -1,0 +1,8 @@
+coordinates:
+  name: notepad2
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.25.3:
+    licensed:
+      declared: BSD-3-Clause
