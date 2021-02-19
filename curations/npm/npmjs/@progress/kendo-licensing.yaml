@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-licensing
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.3:
+    licensed:
+      declared: Other
