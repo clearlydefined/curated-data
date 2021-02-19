@@ -1,0 +1,9 @@
+coordinates:
+  name: fast-xml-parser
+  provider: npmjs
+  type: npm
+revisions:
+  3.18.0:
+    files:
+      - license: OTHER
+        path: package/package.json
