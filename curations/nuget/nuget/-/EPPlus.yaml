@@ -14,7 +14,7 @@ revisions:
       declared: LGPL-3.0-only
   4.5.3.3:
     licensed:
-      declared: GPL-3.0-only
+      declared: LGPL-3.0-only
   5.1.0:
     licensed:
       declared: PolyForm-Noncommercial-1.0.0
