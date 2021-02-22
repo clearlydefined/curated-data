@@ -1,0 +1,8 @@
+coordinates:
+  name: WindowsAzure.MobileServices
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0-beta:
+    licensed:
+      declared: Apache-2.0
