@@ -1,0 +1,8 @@
+coordinates:
+  name: MongoDB.Bson.signed
+  provider: nuget
+  type: nuget
+revisions:
+  2.11.2:
+    licensed:
+      declared: Apache-2.0

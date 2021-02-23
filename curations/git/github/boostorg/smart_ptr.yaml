@@ -1,0 +1,9 @@
+coordinates:
+  name: smart_ptr
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  274ec17836bfbfd85159ef3c358031b31fc3c6ea:
+    licensed:
+      declared: BSL-1.0

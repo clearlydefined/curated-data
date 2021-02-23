@@ -1,0 +1,9 @@
+coordinates:
+  name: powerappsauthoringsdk
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.0:
+    licensed:
+      declared: OTHER

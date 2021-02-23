@@ -6,3 +6,6 @@ revisions:
   3.18.0:
     licensed:
       declared: OTHER
+    files:
+      - license: OTHER
+        path: package/package.json
