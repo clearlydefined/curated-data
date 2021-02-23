@@ -1,0 +1,8 @@
+coordinates:
+  name: Lucene.Net.Grouping
+  provider: nuget
+  type: nuget
+revisions:
+  4.8.0-beta00007:
+    licensed:
+      declared: Apache-2.0
