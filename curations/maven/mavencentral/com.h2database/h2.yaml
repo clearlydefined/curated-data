@@ -18,7 +18,7 @@ revisions:
       declared: MPL-2.0 OR EPL-1.0
   1.4.199:
     licensed:
-      declared: MPL-2.0
+      declared: MPL-2.0 OR EPL-1.0
   1.4.200:
     described:
       sourceLocation:
