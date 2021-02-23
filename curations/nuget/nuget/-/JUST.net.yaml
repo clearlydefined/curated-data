@@ -1,11 +1,8 @@
 coordinates:
-  name: Select2.js
+  name: JUST.net
   provider: nuget
   type: nuget
 revisions:
-  4.0.13:
-    licensed:
-      declared: MIT
-  4.0.5:
+  4.0.2:
     licensed:
       declared: MIT

@@ -1,11 +1,8 @@
 coordinates:
-  name: wastorage.v120
+  name: WindowsAzure.MobileServices
   provider: nuget
   type: nuget
 revisions:
-  2.6.0:
-    licensed:
-      declared: OTHER
-  3.0.0:
+  2.0.0-beta:
     licensed:
       declared: OTHER
