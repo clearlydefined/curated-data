@@ -1,11 +1,8 @@
 coordinates:
-  name: Lucene.Net.Misc
+  name: Lucene.Net.Join
   provider: nuget
   type: nuget
 revisions:
-  4.8.0-beta00007:
-    licensed:
-      declared: Apache-2.0
   4.8.0-beta00013:
     licensed:
       declared: Apache-2.0
