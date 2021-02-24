@@ -1,0 +1,8 @@
+coordinates:
+  name: flask-restplus-patched
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.10:
+    licensed:
+      declared: MIT
