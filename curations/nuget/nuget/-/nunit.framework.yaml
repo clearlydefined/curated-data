@@ -1,0 +1,8 @@
+coordinates:
+  name: nunit.framework
+  provider: nuget
+  type: nuget
+revisions:
+  2.63.0:
+    licensed:
+      declared: Nunit
