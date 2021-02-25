@@ -1,0 +1,9 @@
+coordinates:
+  name: mu_silicon_nxp
+  namespace: ms-iot
+  provider: github
+  type: git
+revisions:
+  65fae2fc9d1cbe6ccebed4a0b5a9b119ba0d37c5:
+    licensed:
+      declared: BSD-2-Clause
