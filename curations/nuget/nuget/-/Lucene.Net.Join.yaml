@@ -1,11 +1,11 @@
 coordinates:
-  name: MongoDB.Bson.signed
+  name: Lucene.Net.Join
   provider: nuget
   type: nuget
 revisions:
-  2.8.0:
+  4.8.0-beta00007:
     licensed:
       declared: Apache-2.0
-  2.11.2:
+  4.8.0-beta00013:
     licensed:
       declared: Apache-2.0

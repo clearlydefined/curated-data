@@ -3,6 +3,9 @@ coordinates:
   provider: cocoapods
   type: pod
 revisions:
+  2.3.0:
+    licensed:
+      declared: BSD-Source-Code
   3.5.2:
     licensed:
       declared: BSD-3-Clause

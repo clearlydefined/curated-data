@@ -7,3 +7,6 @@ revisions:
   1.0.0-alpha.21:
     licensed:
       declared: Apache-2.0
+  1.0.0-alpha.22:
+    licensed:
+      declared: Apache-2.0

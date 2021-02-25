@@ -6,7 +6,7 @@ coordinates:
 revisions:
   3c32dca89214c03b107cc9d1c468000cff3f8127:
     licensed:
-      declared: MIT
+      declared: MIT OR OTHER
   645250b6690785be60ab6780ce4b58698d884d11:
     licensed:
       declared: MIT OR OTHER
@@ -31,6 +31,9 @@ revisions:
   d2e6a971f4544c55b8e3b25cf96db266971b778f:
     licensed:
       declared: MIT OR OTHER
+  d84702c9036505d0906b2f3d222ce5498ec65bc6:
+    licensed:
+      declared: MIT
   ddabf50f72cf369bf652a95c4d9fe31a1865a781:
     licensed:
       declared: MIT OR OTHER
