@@ -1,0 +1,8 @@
+coordinates:
+  name: pyzmq
+  provider: pypi
+  type: pypi
+revisions:
+  22.0.2:
+    licensed:
+      declared: 'BSD-3-Clause AND NOASSERTION AND LGPL-3.0-only '
