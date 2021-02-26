@@ -1,0 +1,8 @@
+coordinates:
+  name: Teradata.Client.Provider
+  provider: nuget
+  type: nuget
+revisions:
+  17.0.2:
+    licensed:
+      declared: OTHER
