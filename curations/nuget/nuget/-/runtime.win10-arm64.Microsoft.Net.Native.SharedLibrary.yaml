@@ -15,3 +15,6 @@ revisions:
   2.2.8-rel-29512-01:
     licensed:
       declared: OTHER
+  2.2.8-rel-29722-00:
+    licensed:
+      declared: MS-PL
