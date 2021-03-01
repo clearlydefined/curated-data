@@ -33,3 +33,6 @@ revisions:
   1.7.0:
     licensed:
       declared: OTHER
+  1.9.0:
+    licensed:
+      declared: Other
