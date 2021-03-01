@@ -9,3 +9,6 @@ revisions:
   4.0.26:
     licensed:
       declared: OTHER
+  4.0.32:
+    licensed:
+      declared: MIT
