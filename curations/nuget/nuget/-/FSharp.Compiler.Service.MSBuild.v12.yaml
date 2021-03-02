@@ -1,0 +1,8 @@
+coordinates:
+  name: FSharp.Compiler.Service.MSBuild.v12
+  provider: nuget
+  type: nuget
+revisions:
+  17.0.1:
+    licensed:
+      declared: MIT
