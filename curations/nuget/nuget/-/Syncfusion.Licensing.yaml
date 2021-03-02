@@ -1,0 +1,8 @@
+coordinates:
+  name: Syncfusion.Licensing
+  provider: nuget
+  type: nuget
+revisions:
+  17.4.0.41:
+    licensed:
+      declared: NONE
