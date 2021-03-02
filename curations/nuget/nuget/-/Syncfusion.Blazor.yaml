@@ -1,0 +1,8 @@
+coordinates:
+  name: Syncfusion.Blazor
+  provider: nuget
+  type: nuget
+revisions:
+  18.3.0.53:
+    licensed:
+      declared: NONE
