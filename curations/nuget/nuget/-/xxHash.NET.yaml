@@ -1,0 +1,8 @@
+coordinates:
+  name: xxHash.NET
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.2:
+    licensed:
+      declared: BSD-2-Clause
