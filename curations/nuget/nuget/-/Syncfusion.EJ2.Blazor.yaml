@@ -1,0 +1,8 @@
+coordinates:
+  name: Syncfusion.EJ2.Blazor
+  provider: nuget
+  type: nuget
+revisions:
+  17.4.0.55:
+    licensed:
+      declared: NONE
