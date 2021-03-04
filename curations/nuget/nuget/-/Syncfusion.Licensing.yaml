@@ -1,0 +1,14 @@
+coordinates:
+  name: Syncfusion.Licensing
+  provider: nuget
+  type: nuget
+revisions:
+  17.4.0.41:
+    licensed:
+      declared: OTHER
+  17.4.0.55:
+    licensed:
+      declared: OTHER
+  18.3.0.53:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,8 @@
+coordinates:
+  name: Orleans.Clustering.Kubernetes
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0:
+    licensed:
+      declared: MIT
