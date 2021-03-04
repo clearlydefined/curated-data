@@ -1,0 +1,8 @@
+coordinates:
+  name: kaggle
+  provider: pypi
+  type: pypi
+revisions:
+  1.5.10:
+    licensed:
+      declared: Apache-2.0

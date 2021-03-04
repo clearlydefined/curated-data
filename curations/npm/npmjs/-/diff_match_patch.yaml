@@ -1,0 +1,8 @@
+coordinates:
+  name: diff_match_patch
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.1:
+    licensed:
+      declared: Apache-2.0
