@@ -1,0 +1,9 @@
+coordinates:
+  name: aether-transport-file
+  namespace: org.eclipse.aether
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.0:
+    licensed:
+      declared: EPL-1.0
