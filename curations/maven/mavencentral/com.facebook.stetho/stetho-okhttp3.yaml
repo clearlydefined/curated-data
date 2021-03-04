@@ -1,0 +1,9 @@
+coordinates:
+  name: stetho-okhttp3
+  namespace: com.facebook.stetho
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.2:
+    licensed:
+      declared: MIT
