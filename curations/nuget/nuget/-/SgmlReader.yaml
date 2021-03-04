@@ -1,0 +1,8 @@
+coordinates:
+  name: SgmlReader
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.11:
+    licensed:
+      declared: Apache-2.0
