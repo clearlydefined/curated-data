@@ -1,0 +1,12 @@
+coordinates:
+  name: kolor
+  namespace: ziggy42
+  provider: github
+  type: git
+revisions:
+  184f4021e652ff6683f418e5b2c0b5299713c937:
+    files:
+      - attributions:
+          - Copyright 2020 Andrea Pivetta
+        license: Apache-2.0
+        path: LICENSE.md
