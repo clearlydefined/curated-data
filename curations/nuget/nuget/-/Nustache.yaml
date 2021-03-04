@@ -1,0 +1,8 @@
+coordinates:
+  name: Nustache
+  provider: nuget
+  type: nuget
+revisions:
+  1.15.3.5:
+    licensed:
+      declared: MIT
