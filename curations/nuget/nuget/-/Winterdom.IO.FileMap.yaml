@@ -1,0 +1,8 @@
+coordinates:
+  name: Winterdom.IO.FileMap
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.2:
+    licensed:
+      declared: LGPL-2.1-only

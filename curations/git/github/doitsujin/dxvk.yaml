@@ -1,0 +1,9 @@
+coordinates:
+  name: dxvk
+  namespace: doitsujin
+  provider: github
+  type: git
+revisions:
+  16c3c487587423f10a3b808b11ff830de10ec204:
+    licensed:
+      declared: Zlib

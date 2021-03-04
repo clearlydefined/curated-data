@@ -1,11 +1,8 @@
 coordinates:
-  name: Syncfusion.EJ2.Blazor
+  name: Syncfusion.PdfExport.Net.Core
   provider: nuget
   type: nuget
 revisions:
-  17.4.0.42:
-    licensed:
-      declared: OTHER
-  17.4.0.55:
+  18.3.0.53:
     licensed:
       declared: OTHER
