@@ -1,0 +1,8 @@
+coordinates:
+  name: react.js
+  provider: nuget
+  type: nuget
+revisions:
+  0.14.7:
+    licensed:
+      declared: MIT
