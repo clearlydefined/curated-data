@@ -1,0 +1,8 @@
+coordinates:
+  name: biopython
+  provider: pypi
+  type: pypi
+revisions:
+  '1.76':
+    licensed:
+      declared: BSD-3-Clause
