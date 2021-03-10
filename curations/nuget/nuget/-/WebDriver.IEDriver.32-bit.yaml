@@ -1,0 +1,8 @@
+coordinates:
+  name: WebDriver.IEDriver.32-bit
+  provider: nuget
+  type: nuget
+revisions:
+  2.33.0:
+    licensed:
+      declared: Unlicense
