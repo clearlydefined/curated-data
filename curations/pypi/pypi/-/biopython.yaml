@@ -1,0 +1,8 @@
+coordinates:
+  name: biopython
+  provider: pypi
+  type: pypi
+revisions:
+  '1.78':
+    licensed:
+      declared: OTHER
