@@ -1,0 +1,8 @@
+coordinates:
+  name: Hl7.Fhir.Specification.R5
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.0-beta-june2020:
+    licensed:
+      declared: BSD-3-Clause
