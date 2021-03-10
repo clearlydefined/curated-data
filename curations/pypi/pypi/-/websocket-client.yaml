@@ -1,0 +1,8 @@
+coordinates:
+  name: websocket-client
+  provider: pypi
+  type: pypi
+revisions:
+  0.56.0:
+    licensed:
+      declared: BSD-3-Clause
