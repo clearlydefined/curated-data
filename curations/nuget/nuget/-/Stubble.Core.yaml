@@ -13,6 +13,11 @@ revisions:
     licensed:
       declared: MIT
   1.6.3:
+    files:
+      - attributions:
+          - Copyright (c) 2017
+        license: MIT AND BSD-2-Clause
+        path: Stubble.Core.nuspec
     licensed:
       declared: MIT
   1.7.2:
