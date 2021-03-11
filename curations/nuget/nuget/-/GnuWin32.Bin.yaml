@@ -1,0 +1,8 @@
+coordinates:
+  name: GnuWin32.Bin
+  provider: nuget
+  type: nuget
+revisions:
+  0.6.3:
+    licensed:
+      declared: GPL-2.0-only
