@@ -66,6 +66,9 @@ revisions:
   1.22.0:
     licensed:
       declared: Other
+  1.24.0.post1:
+    licensed:
+      declared: MS-PL
   1.4.0.post2:
     licensed:
       declared: OTHER
