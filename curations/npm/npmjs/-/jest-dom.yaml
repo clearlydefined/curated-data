@@ -1,0 +1,8 @@
+coordinates:
+  name: jest-dom
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.0:
+    licensed:
+      declared: MIT
