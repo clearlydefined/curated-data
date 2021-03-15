@@ -1,0 +1,9 @@
+coordinates:
+  name: jcabi-log
+  namespace: com.jcabi
+  provider: mavencentral
+  type: maven
+revisions:
+  '0.14':
+    licensed:
+      declared: BSD-3-Clause

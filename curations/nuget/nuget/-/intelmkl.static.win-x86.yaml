@@ -1,0 +1,8 @@
+coordinates:
+  name: intelmkl.static.win-x86
+  provider: nuget
+  type: nuget
+revisions:
+  2020.0.166:
+    licensed:
+      declared: OTHER

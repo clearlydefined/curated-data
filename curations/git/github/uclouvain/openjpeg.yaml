@@ -1,0 +1,9 @@
+coordinates:
+  name: openjpeg
+  namespace: uclouvain
+  provider: github
+  type: git
+revisions:
+  57096325457f96d8cd07bd3af04fe81d7a2ba788:
+    licensed:
+      declared: BSD-2-Clause

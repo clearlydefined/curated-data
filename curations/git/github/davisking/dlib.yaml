@@ -1,0 +1,9 @@
+coordinates:
+  name: dlib
+  namespace: davisking
+  provider: github
+  type: git
+revisions:
+  b54b1c4474ce62e2736859aedab1ec37e77c1aad:
+    licensed:
+      declared: BSL-1.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: jamon-runtime
+  namespace: org.jamon
+  provider: mavencentral
+  type: maven
+revisions:
+  2.4.1:
+    licensed:
+      declared: MPL-2.0

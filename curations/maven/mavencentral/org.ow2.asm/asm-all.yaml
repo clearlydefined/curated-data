@@ -1,0 +1,12 @@
+coordinates:
+  name: asm-all
+  namespace: org.ow2.asm
+  provider: mavencentral
+  type: maven
+revisions:
+  5.0.1:
+    licensed:
+      declared: BSD-3-Clause
+  5.0.2:
+    licensed:
+      declared: BSD-3-Clause

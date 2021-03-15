@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.1.0:
+    licensed:
+      declared: Apache-2.0
   0.1.2:
     licensed:
       declared: Apache-2.0
@@ -21,5 +24,8 @@ revisions:
         revision: cda8e4e625ddb3b110bc472a1da558579092032c
         type: git
         url: 'https://github.com/benaadams/ben.demystifier/commit/cda8e4e625ddb3b110bc472a1da558579092032c'
+    licensed:
+      declared: Apache-2.0
+  0.3.0:
     licensed:
       declared: Apache-2.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: Sammy.js
+  provider: nuget
+  type: nuget
+revisions:
+  0.7.4:
+    licensed:
+      declared: MIT

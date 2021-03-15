@@ -7,6 +7,9 @@ revisions:
   3ce7bc40a3c48da1c96c2d04c10045bd797c6aa3:
     licensed:
       declared: OpenSSL
+  888759a1d38197f29de7227876c3b58fbff8549f:
+    licensed:
+      declared: OpenSSL
   8b1549a153a62e9878327d05aa3b6622b416ec10:
     licensed:
       declared: OpenSSL

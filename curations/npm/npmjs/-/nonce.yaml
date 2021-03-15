@@ -1,0 +1,8 @@
+coordinates:
+  name: nonce
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.4:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,8 @@
+coordinates:
+  name: SharpLearning.DecisionTrees
+  provider: nuget
+  type: nuget
+revisions:
+  0.25.0.4:
+    licensed:
+      declared: MIT

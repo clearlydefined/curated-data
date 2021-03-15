@@ -1,0 +1,8 @@
+coordinates:
+  name: DataAnnotationsValidatorNetStandard
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.3:
+    licensed:
+      declared: NONE

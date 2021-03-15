@@ -1,0 +1,9 @@
+coordinates:
+  name: libcxxabi
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  05a73941f3fb177c4a891d4ff2a4ed5785e3b80c:
+    licensed:
+      declared: NCSA OR MIT

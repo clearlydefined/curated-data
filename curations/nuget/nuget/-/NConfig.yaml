@@ -1,0 +1,8 @@
+coordinates:
+  name: NConfig
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.23:
+    licensed:
+      declared: MIT

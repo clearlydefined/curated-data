@@ -1,0 +1,8 @@
+coordinates:
+  name: LazyCache
+  provider: nuget
+  type: nuget
+revisions:
+  0.7.1.44:
+    licensed:
+      declared: MIT

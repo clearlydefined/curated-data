@@ -1,0 +1,8 @@
+coordinates:
+  name: Base64
+  provider: cocoapods
+  type: pod
+revisions:
+  1.1.2:
+    licensed:
+      declared: OTHER

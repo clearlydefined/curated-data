@@ -1,0 +1,9 @@
+coordinates:
+  name: pinyin4net
+  namespace: yangkuang
+  provider: github
+  type: git
+revisions:
+  0ad37dfe647e9cc4dcf745f85a37869f92b85a22:
+    licensed:
+      declared: MIT

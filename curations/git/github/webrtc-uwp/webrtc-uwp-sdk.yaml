@@ -1,0 +1,9 @@
+coordinates:
+  name: webrtc-uwp-sdk
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  13ebaf1c2cd33e026433d467593753cf8655722c:
+    licensed:
+      declared: NONE

@@ -1,0 +1,8 @@
+coordinates:
+  name: Open-XML-SDK
+  provider: nuget
+  type: nuget
+revisions:
+  2.9.1:
+    licensed:
+      declared: MIT

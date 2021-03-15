@@ -30,3 +30,27 @@ revisions:
   1.1.3:
     licensed:
       declared: BSD-3-Clause
+  1.1.4:
+    licensed:
+      declared: BSD-3-Clause
+  1.1.5:
+    licensed:
+      declared: BSD-3-Clause
+  1.2.0:
+    licensed:
+      declared: BSD-3-Clause
+  1.2.1:
+    described:
+      releaseDate: '2021-01-20'
+      sourceLocation:
+        name: pandas
+        namespace: pandas-dev
+        provider: github
+        revision: 9d598a5e1eee26df95b3910e3f2934890d062caa
+        type: git
+        url: 'https://github.com/pandas-dev/pandas/commit/9d598a5e1eee26df95b3910e3f2934890d062caa'
+    licensed:
+      declared: BSD-3-Clause
+  1.2.2:
+    licensed:
+      declared: BSD-3-Clause

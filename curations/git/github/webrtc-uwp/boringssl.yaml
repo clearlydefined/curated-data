@@ -1,0 +1,9 @@
+coordinates:
+  name: boringssl
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  d8c300c8a90abe2cbe9c19c55089ef9e0d0248c2:
+    licensed:
+      declared: OpenSSL AND ISC

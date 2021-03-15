@@ -1,0 +1,8 @@
+coordinates:
+  name: Hardcodet.NotifyIcon.Wpf
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.8:
+    licensed:
+      declared: CPOL-1.02

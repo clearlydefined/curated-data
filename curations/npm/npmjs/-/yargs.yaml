@@ -8,10 +8,14 @@ revisions:
       declared: MIT
   1.3.3:
     licensed:
-      declared: MIT      
+      declared: MIT
   2.3.0:
     licensed:
       declared: MIT
   3.5.4:
     licensed:
       declared: MIT
+  8.0.2:
+    files:
+      - license: NONE
+        path: package/CHANGELOG.md

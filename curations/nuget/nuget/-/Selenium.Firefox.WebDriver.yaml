@@ -1,0 +1,8 @@
+coordinates:
+  name: Selenium.Firefox.WebDriver
+  provider: nuget
+  type: nuget
+revisions:
+  0.22.0:
+    licensed:
+      declared: Unlicense

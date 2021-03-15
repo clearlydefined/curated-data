@@ -1,0 +1,8 @@
+coordinates:
+  name: v8-v142-x64
+  provider: nuget
+  type: nuget
+revisions:
+  8.4.371.15:
+    licensed:
+      declared: BSD-3-Clause

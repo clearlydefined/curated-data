@@ -1,0 +1,8 @@
+coordinates:
+  name: AdminLTE
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.0:
+    licensed:
+      declared: MIT

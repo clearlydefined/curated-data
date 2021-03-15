@@ -1,0 +1,11 @@
+coordinates:
+  name: geventhttpclient
+  provider: pypi
+  type: pypi
+revisions:
+  1.4.4:
+    licensed:
+      declared: MIT
+  1.4.5:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: json4s-jackson_2.10
+  namespace: org.json4s
+  provider: mavencentral
+  type: maven
+revisions:
+  3.2.10:
+    licensed:
+      declared: Apache-2.0

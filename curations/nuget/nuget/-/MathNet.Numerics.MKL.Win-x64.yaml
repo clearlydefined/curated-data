@@ -1,0 +1,8 @@
+coordinates:
+  name: MathNet.Numerics.MKL.Win-x64
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.0:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-base-components-vue-wrapper
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  2020.1.406:
+    licensed:
+      declared: OTHER

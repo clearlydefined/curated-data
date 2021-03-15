@@ -1,0 +1,11 @@
+coordinates:
+  name: Expressmapper
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.3:
+    licensed:
+      declared: Apache-2.0
+  1.9.1:
+    licensed:
+      declared: Apache-2.0

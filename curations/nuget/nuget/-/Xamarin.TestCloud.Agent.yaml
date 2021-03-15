@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.21.8:
+    licensed:
+      declared: EPL-1.0
   0.21.9:
     licensed:
       declared: EPL-1.0

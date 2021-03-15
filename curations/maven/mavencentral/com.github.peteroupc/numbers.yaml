@@ -1,0 +1,9 @@
+coordinates:
+  name: numbers
+  namespace: com.github.peteroupc
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.2:
+    licensed:
+      declared: CC0-1.0

@@ -3,6 +3,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.64.2:
+    licensed:
+      declared: Unicode-DFS-2016
   0.67.2:
     licensed:
       declared: OTHER

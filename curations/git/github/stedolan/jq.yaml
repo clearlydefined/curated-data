@@ -1,0 +1,9 @@
+coordinates:
+  name: jq
+  namespace: stedolan
+  provider: github
+  type: git
+revisions:
+  2e01ff1fb69609540b2bdc4e62a60499f2b2fb8e:
+    licensed:
+      declared: MIT

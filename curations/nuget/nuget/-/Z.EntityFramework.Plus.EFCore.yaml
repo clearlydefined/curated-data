@@ -1,0 +1,14 @@
+coordinates:
+  name: Z.EntityFramework.Plus.EFCore
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.18:
+    licensed:
+      declared: MIT
+  3.1.19:
+    licensed:
+      declared: MIT
+  3.1.5:
+    licensed:
+      declared: MIT

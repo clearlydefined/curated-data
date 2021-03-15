@@ -1,0 +1,9 @@
+coordinates:
+  name: put
+  namespace: '@nornagon'
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.8:
+    licensed:
+      declared: MIT

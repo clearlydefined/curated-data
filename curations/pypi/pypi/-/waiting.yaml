@@ -1,0 +1,8 @@
+coordinates:
+  name: waiting
+  provider: pypi
+  type: pypi
+revisions:
+  1.4.1:
+    licensed:
+      declared: BSD-3-Clause

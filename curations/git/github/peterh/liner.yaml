@@ -1,0 +1,14 @@
+coordinates:
+  name: liner
+  namespace: peterh
+  provider: github
+  type: git
+revisions:
+  5a0dfa99e2aa1d433a9642e863da51402e609376:
+    files:
+      - attributions:
+          - Copyright (c) 2012 Peter Harris
+        license: MIT
+        path: COPYING
+    licensed:
+      declared: MIT

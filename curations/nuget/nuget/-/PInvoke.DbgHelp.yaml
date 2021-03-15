@@ -1,0 +1,8 @@
+coordinates:
+  name: PInvoke.DbgHelp
+  provider: nuget
+  type: nuget
+revisions:
+  0.5.184:
+    licensed:
+      declared: MIT

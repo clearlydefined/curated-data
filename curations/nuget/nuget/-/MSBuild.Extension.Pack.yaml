@@ -9,6 +9,9 @@ revisions:
   1.6.0:
     licensed:
       declared: MS-PL
+  1.8.0:
+    licensed:
+      declared: MS-PL
   1.9.0:
     licensed:
       declared: MS-PL

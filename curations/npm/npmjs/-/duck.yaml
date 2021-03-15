@@ -1,0 +1,8 @@
+coordinates:
+  name: duck
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.11:
+    licensed:
+      declared: BSD-2-Clause

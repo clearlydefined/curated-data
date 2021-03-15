@@ -13,17 +13,17 @@ revisions:
         type: git
         url: 'https://github.com/jazzband/contextlib2/commit/68069e372b66ef6e1913d5c583d14cab88f8bc32'
     files:
-      - license: Python-2.0
+      - license: PSF-2.0
         path: contextlib2-0.5.5/contextlib2.py
-      - license: Python-2.0
+      - license: PSF-2.0
         path: contextlib2-0.5.5/setup.py
-      - license: Python-2.0
+      - license: PSF-2.0
         path: contextlib2-0.5.5/PKG-INFO
     licensed:
-      declared: Python-2.0
+      declared: PSF-2.0
   0.6.0:
     licensed:
-      declared: Python-2.0
+      declared: PSF-2.0
   0.6.0.post1:
     licensed:
-      declared: Python-2.0
+      declared: PSF-2.0

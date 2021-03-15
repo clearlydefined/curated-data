@@ -1,0 +1,9 @@
+coordinates:
+  name: scodec-bits_2.11
+  namespace: org.scodec
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.2:
+    licensed:
+      declared: BSD-3-Clause

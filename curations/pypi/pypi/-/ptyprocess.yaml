@@ -1,0 +1,8 @@
+coordinates:
+  name: ptyprocess
+  provider: pypi
+  type: pypi
+revisions:
+  0.7.0:
+    licensed:
+      declared: ISC

@@ -7,3 +7,6 @@ revisions:
   d2298e74235598f15594fe2c99bbac870a507c59:
     licensed:
       declared: NCSA
+  d32170dbd5b0d54436537b6b75beaf44324e0c28:
+    licensed:
+      declared: Apache-2.0 WITH LLVM-exception

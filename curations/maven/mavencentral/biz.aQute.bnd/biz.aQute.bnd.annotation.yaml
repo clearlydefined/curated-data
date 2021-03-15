@@ -1,0 +1,36 @@
+coordinates:
+  name: biz.aQute.bnd.annotation
+  namespace: biz.aQute.bnd
+  provider: mavencentral
+  type: maven
+revisions:
+  5.1.0:
+    described:
+      sourceLocation:
+        name: bnd
+        namespace: bndtools
+        provider: github
+        revision: 66142fd1543959a9f1854d9b6063b116696e6428
+        type: git
+        url: 'https://github.com/bndtools/bnd/commit/66142fd1543959a9f1854d9b6063b116696e6428'
+    files:
+      - license: NONE
+        path: aQute/bnd/annotation/licenses/GPL_2_0.class
+      - license: NONE
+        path: aQute/bnd/annotation/licenses/GPL_2_0_only.class
+      - license: NONE
+        path: aQute/bnd/annotation/licenses/GPL_2_0_or_later.class
+      - license: NONE
+        path: aQute/bnd/annotation/licenses/MIT.class
+      - license: Apache-2.0 OR EPL-2.0
+        path: META-INF/MANIFEST.MF
+      - license: NONE
+        path: OSGI-OPT/src/aQute/bnd/annotation/headers/BundleLicense.java
+      - license: NONE
+        path: OSGI-OPT/src/aQute/bnd/annotation/licenses/GPL_2_0.java
+      - license: NONE
+        path: OSGI-OPT/src/aQute/bnd/annotation/licenses/GPL_2_0_only.java
+      - license: NONE
+        path: OSGI-OPT/src/aQute/bnd/annotation/licenses/GPL_2_0_or_later.java
+      - license: NONE
+        path: OSGI-OPT/src/aQute/bnd/annotation/licenses/MIT.java

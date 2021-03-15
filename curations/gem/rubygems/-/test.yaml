@@ -1,0 +1,8 @@
+coordinates:
+  name: test
+  provider: rubygems
+  type: gem
+revisions:
+  1.0.0:
+    licensed:
+      declared: NONE

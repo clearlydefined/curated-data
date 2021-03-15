@@ -1,0 +1,8 @@
+coordinates:
+  name: SkiaSharp.Svg
+  provider: nuget
+  type: nuget
+revisions:
+  1.60.0:
+    licensed:
+      declared: MIT

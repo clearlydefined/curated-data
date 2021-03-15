@@ -1,0 +1,23 @@
+coordinates:
+  name: istanbul-lib-source-maps
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.6:
+    files:
+      - attributions:
+          - 'Copyright 2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/transformer.js
+      - attributions:
+          - 'Copyright 2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/mapped.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/index.js
+      - attributions:
+          - 'Copyright 2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/map-store.js

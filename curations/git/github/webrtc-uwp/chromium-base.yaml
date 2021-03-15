@@ -1,0 +1,9 @@
+coordinates:
+  name: chromium-base
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  26cace9e8cd6357d6b382f9bd47dbed8829904e8:
+    licensed:
+      declared: BSD-3-Clause

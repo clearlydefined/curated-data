@@ -1,0 +1,8 @@
+coordinates:
+  name: ray
+  provider: pypi
+  type: pypi
+revisions:
+  0.8.0:
+    licensed:
+      declared: Apache-2.0

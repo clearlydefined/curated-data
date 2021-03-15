@@ -1,0 +1,8 @@
+coordinates:
+  name: impacket
+  provider: pypi
+  type: pypi
+revisions:
+  0.9.15:
+    licensed:
+      declared: Apache-1.1

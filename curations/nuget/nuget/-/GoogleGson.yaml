@@ -1,0 +1,8 @@
+coordinates:
+  name: GoogleGson
+  provider: nuget
+  type: nuget
+revisions:
+  2.8.1:
+    licensed:
+      declared: MIT

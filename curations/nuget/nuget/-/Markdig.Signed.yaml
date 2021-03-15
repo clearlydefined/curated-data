@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.14.9:
+    licensed:
+      declared: BSD-2-Clause
   0.15.1:
     licensed:
       declared: BSD-2-Clause
@@ -24,6 +27,6 @@ revisions:
         license: ''
         path: .signature.p7s
       - attributions:
-          - 'Alexandre Mutel'
+          - Alexandre Mutel
         license: ''
         path: Markdig.Signed.nuspec

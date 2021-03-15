@@ -1,0 +1,9 @@
+coordinates:
+  name: trove4j
+  namespace: net.sf.trove4j
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.3:
+    licensed:
+      declared: LGPL-2.1-or-later

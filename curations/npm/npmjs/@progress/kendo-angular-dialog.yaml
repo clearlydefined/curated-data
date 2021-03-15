@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-dialog
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  5.0.0:
+    licensed:
+      declared: OTHER

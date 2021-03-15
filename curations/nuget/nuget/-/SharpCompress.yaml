@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.17.1:
+    licensed:
+      declared: MIT
   0.22.0:
     files:
       - attributions:
@@ -16,7 +19,13 @@ revisions:
       declared: MIT
   0.24.0:
     licensed:
-      declared: MIT  
+      declared: MIT
+  0.25.0:
+    licensed:
+      declared: MIT
   0.25.1:
+    licensed:
+      declared: MIT
+  0.26.0:
     licensed:
       declared: MIT

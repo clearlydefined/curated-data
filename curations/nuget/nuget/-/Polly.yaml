@@ -21,6 +21,9 @@ revisions:
   5.3.1:
     licensed:
       declared: BSD-3-Clause
+  5.5.0:
+    licensed:
+      declared: BSD-3-Clause
   5.6.0:
     licensed:
       declared: BSD-3-Clause
@@ -42,3 +45,12 @@ revisions:
   6.1.2:
     licensed:
       declared: BSD-3-Clause
+  7.2.1:
+    described:
+      sourceLocation:
+        name: polly
+        namespace: app-vnext
+        provider: github
+        revision: 52968c25f2e13e2708898174c15aafc9cb915020
+        type: git
+        url: 'https://github.com/app-vnext/polly/commit/52968c25f2e13e2708898174c15aafc9cb915020'

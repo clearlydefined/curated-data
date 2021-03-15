@@ -1,0 +1,9 @@
+coordinates:
+  name: jgrapht-core
+  namespace: org.jgrapht
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.1:
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1

@@ -1,0 +1,8 @@
+coordinates:
+  name: Serilog.Enrichers.CorrelationId
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.1:
+    licensed:
+      declared: MIT

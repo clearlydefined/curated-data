@@ -1,0 +1,8 @@
+coordinates:
+  name: singleton-decorator
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.0:
+    licensed:
+      declared: GPL-3.0-only

@@ -1,0 +1,15 @@
+coordinates:
+  name: istanbul-lib-hook
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.2:
+    files:
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/hook.js

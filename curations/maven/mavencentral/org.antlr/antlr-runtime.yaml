@@ -7,6 +7,9 @@ revisions:
   '3.4':
     licensed:
       declared: BSD-3-Clause
+  '3.5':
+    licensed:
+      declared: BSD-3-Clause
   3.5.2:
     licensed:
       declared: BSD-3-Clause

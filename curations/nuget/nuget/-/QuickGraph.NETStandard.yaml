@@ -1,0 +1,8 @@
+coordinates:
+  name: QuickGraph.NETStandard
+  provider: nuget
+  type: nuget
+revisions:
+  3.8.0:
+    licensed:
+      declared: MS-PL

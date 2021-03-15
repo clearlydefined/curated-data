@@ -1,0 +1,8 @@
+coordinates:
+  name: Roslynator.Analyzers
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.0:
+    licensed:
+      declared: Apache-2.0

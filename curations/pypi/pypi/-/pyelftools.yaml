@@ -1,0 +1,11 @@
+coordinates:
+  name: pyelftools
+  provider: pypi
+  type: pypi
+revisions:
+  '0.26':
+    licensed:
+      declared: Unlicense
+  '0.27':
+    licensed:
+      declared: Unlicense

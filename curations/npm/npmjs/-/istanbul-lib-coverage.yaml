@@ -1,0 +1,19 @@
+coordinates:
+  name: istanbul-lib-coverage
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.1:
+    files:
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/file.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/coverage-map.js

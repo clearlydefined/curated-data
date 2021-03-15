@@ -1,0 +1,8 @@
+coordinates:
+  name: Bond.Grpc.CSharp
+  provider: nuget
+  type: nuget
+revisions:
+  8.0.0:
+    licensed:
+      declared: MIT

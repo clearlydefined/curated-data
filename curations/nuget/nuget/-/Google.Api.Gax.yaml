@@ -1,0 +1,17 @@
+coordinates:
+  name: Google.Api.Gax
+  provider: nuget
+  type: nuget
+revisions:
+  2.10.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.1.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.2.0:
+    licensed:
+      declared: BSD-3-Clause

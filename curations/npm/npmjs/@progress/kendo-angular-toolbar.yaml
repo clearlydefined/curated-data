@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-toolbar
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  3.2.1:
+    licensed:
+      declared: OTHER

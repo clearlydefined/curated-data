@@ -1,0 +1,8 @@
+coordinates:
+  name: SimpleInjector.Integration.Web
+  provider: nuget
+  type: nuget
+revisions:
+  4.4.3:
+    licensed:
+      declared: MIT

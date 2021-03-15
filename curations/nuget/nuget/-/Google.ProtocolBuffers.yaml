@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.ProtocolBuffers
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.1.555:
+    licensed:
+      declared: BSD-3-Clause

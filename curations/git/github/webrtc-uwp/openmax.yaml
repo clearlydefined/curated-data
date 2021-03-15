@@ -1,0 +1,9 @@
+coordinates:
+  name: openmax
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  61d626d98fdea52f013b2a9937d2034567851970:
+    licensed:
+      declared: OTHER

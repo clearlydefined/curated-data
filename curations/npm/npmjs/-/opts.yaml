@@ -1,0 +1,8 @@
+coordinates:
+  name: opts
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.6:
+    licensed:
+      declared: BSD-2-Clause-Views

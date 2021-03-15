@@ -24,10 +24,31 @@ revisions:
   2.15.0:
     licensed:
       declared: MS-PL OR Apache-2.0
+  2.16.0:
+    licensed:
+      declared: MS-PL OR Apache-2.0
   2.16.3:
     licensed:
       declared: MS-PL OR Apache-2.0
+  2.7.0:
+    licensed:
+      declared: MS-PL OR Apache-2.0
   3.0.0-beta6:
+    licensed:
+      declared: MS-PL OR Apache-2.0
+  3.0.0-chi06:
+    licensed:
+      declared: MS-PL OR Apache-2.0
+  3.3.0:
+    licensed:
+      declared: MS-PL OR Apache-2.0
+  4.0.2:
+    licensed:
+      declared: MS-PL OR Apache-2.0
+  6.0.0:
+    licensed:
+      declared: MS-PL OR Apache-2.0
+  6.1.1:
     licensed:
       declared: MS-PL OR Apache-2.0
   7.1.0:
@@ -36,6 +57,12 @@ revisions:
   7.1.1:
     licensed:
       declared: MS-PL OR Apache-2.0
+  8.3.0:
+    licensed:
+      declared: MS-PL OR Apache-2.0
   9.2.2:
+    licensed:
+      declared: MS-PL OR Apache-2.0
+  9.2.3:
     licensed:
       declared: MS-PL OR Apache-2.0

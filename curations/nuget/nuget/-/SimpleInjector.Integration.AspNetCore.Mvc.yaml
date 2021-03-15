@@ -1,0 +1,8 @@
+coordinates:
+  name: SimpleInjector.Integration.AspNetCore.Mvc
+  provider: nuget
+  type: nuget
+revisions:
+  4.4.2:
+    licensed:
+      declared: MIT

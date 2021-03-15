@@ -1,0 +1,8 @@
+coordinates:
+  name: MSBuild.Npm
+  provider: nuget
+  type: nuget
+revisions:
+  0.5.1:
+    licensed:
+      declared: BSD-3-Clause

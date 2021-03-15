@@ -9,6 +9,9 @@ revisions:
   1.7.2:
     licensed:
       declared: BSD-3-Clause
+  1.8.1:
+    licensed:
+      declared: BSD-3-Clause
   1.8.2:
     licensed:
       declared: BSD-3-Clause

@@ -1,0 +1,8 @@
+coordinates:
+  name: PowerManagerAPI
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.0-ci-20200413-015121:
+    licensed:
+      declared: MIT

@@ -11,10 +11,13 @@ revisions:
       declared: MIT
   7.1.0.431:
     licensed:
-      declared: MIT      
+      declared: MIT
   7.2.0.1367:
     licensed:
       declared: MIT
   7.2.0.1422:
+    licensed:
+      declared: MIT
+  8.0.0.1909:
     licensed:
       declared: MIT

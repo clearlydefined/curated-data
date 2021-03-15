@@ -1,0 +1,8 @@
+coordinates:
+  name: jtutils
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.8:
+    licensed:
+      declared: MIT

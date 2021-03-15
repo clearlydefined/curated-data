@@ -9,3 +9,6 @@ revisions:
   0.0.13:
     licensed:
       declared: BSD-2-Clause
+  0.0.16:
+    licensed:
+      declared: BSD-2-Clause

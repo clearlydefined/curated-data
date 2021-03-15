@@ -1,0 +1,8 @@
+coordinates:
+  name: PromisesObjC
+  provider: cocoapods
+  type: pod
+revisions:
+  1.2.11:
+    licensed:
+      declared: Apache-2.0

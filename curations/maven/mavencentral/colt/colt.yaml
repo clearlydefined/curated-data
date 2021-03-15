@@ -1,0 +1,9 @@
+coordinates:
+  name: colt
+  namespace: colt
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.0:
+    licensed:
+      declared: NONE

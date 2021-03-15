@@ -1,0 +1,8 @@
+coordinates:
+  name: Prism
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.0:
+    licensed:
+      declared: MS-PL

@@ -1,0 +1,11 @@
+coordinates:
+  name: node-environment-flags
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.5:
+    files:
+      - attributions:
+          - Copyright (c) 2018 Christopher Hiller.
+        license: Apache-2.0
+        path: package/README.md

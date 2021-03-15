@@ -1,0 +1,8 @@
+coordinates:
+  name: Ninject.Extensions.Conventions
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.0:
+    licensed:
+      declared: Apache-2.0 OR MS-PL

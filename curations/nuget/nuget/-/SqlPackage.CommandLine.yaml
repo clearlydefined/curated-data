@@ -1,0 +1,8 @@
+coordinates:
+  name: SqlPackage.CommandLine
+  provider: nuget
+  type: nuget
+revisions:
+  14.0.3953.4:
+    licensed:
+      declared: OTHER

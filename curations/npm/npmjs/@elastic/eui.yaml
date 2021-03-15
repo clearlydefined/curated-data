@@ -1,0 +1,9 @@
+coordinates:
+  name: eui
+  namespace: '@elastic'
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.55:
+    licensed:
+      declared: Apache-2.0

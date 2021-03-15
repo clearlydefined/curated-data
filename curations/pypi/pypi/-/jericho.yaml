@@ -1,0 +1,8 @@
+coordinates:
+  name: jericho
+  provider: pypi
+  type: pypi
+revisions:
+  3.0.4:
+    licensed:
+      declared: GPL-2.0-or-later

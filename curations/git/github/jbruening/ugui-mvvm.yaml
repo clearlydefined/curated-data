@@ -1,0 +1,9 @@
+coordinates:
+  name: ugui-mvvm
+  namespace: jbruening
+  provider: github
+  type: git
+revisions:
+  57ad2ad8b4a0e4e1ceb5c0a34fda84cc2c3d70a6:
+    licensed:
+      declared: MIT

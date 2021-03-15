@@ -1,0 +1,11 @@
+coordinates:
+  name: Appboy-iOS-SDK
+  provider: cocoapods
+  type: pod
+revisions:
+  3.20.4:
+    licensed:
+      declared: OTHER
+  3.31.2:
+    licensed:
+      declared: OTHER

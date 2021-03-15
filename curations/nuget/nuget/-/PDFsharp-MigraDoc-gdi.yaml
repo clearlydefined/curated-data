@@ -1,0 +1,8 @@
+coordinates:
+  name: PDFsharp-MigraDoc-gdi
+  provider: nuget
+  type: nuget
+revisions:
+  1.50.5147:
+    licensed:
+      declared: MIT

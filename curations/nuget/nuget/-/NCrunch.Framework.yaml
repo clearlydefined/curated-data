@@ -1,0 +1,11 @@
+coordinates:
+  name: NCrunch.Framework
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.0.3:
+    licensed:
+      declared: OTHER
+  3.3.0.6:
+    licensed:
+      declared: OTHER

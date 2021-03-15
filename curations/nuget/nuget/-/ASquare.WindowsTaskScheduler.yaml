@@ -1,0 +1,8 @@
+coordinates:
+  name: ASquare.WindowsTaskScheduler
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.0:
+    licensed:
+      declared: NONE

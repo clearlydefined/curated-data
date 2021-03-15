@@ -1,0 +1,9 @@
+coordinates:
+  name: validate-npm-package-license
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.4:
+    files:
+      - license: NONE
+        path: package/README.md

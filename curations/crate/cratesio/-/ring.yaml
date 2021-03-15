@@ -6,3 +6,6 @@ revisions:
   0.16.11:
     licensed:
       declared: ISC AND OpenSSL AND MIT
+  0.16.19:
+    licensed:
+      declared: ISC AND OpenSSL AND MIT

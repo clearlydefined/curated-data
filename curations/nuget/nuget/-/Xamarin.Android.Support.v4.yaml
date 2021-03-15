@@ -6,6 +6,9 @@ revisions:
   25.1.0:
     licensed:
       declared: MIT
+  26.1.0.1:
+    licensed:
+      declared: MIT
   27.0.2:
     licensed:
       declared: MIT

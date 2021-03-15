@@ -1,0 +1,9 @@
+coordinates:
+  name: chromium-testing
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  2e9ce4a97ca90752d388b84490733e4d76058e97:
+    licensed:
+      declared: BSD-3-Clause

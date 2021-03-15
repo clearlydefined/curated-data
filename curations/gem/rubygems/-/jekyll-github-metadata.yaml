@@ -1,0 +1,8 @@
+coordinates:
+  name: jekyll-github-metadata
+  provider: rubygems
+  type: gem
+revisions:
+  2.2.0:
+    licensed:
+      declared: MIT

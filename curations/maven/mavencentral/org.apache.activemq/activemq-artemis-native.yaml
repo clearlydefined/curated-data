@@ -1,0 +1,10 @@
+coordinates:
+  name: activemq-artemis-native
+  namespace: org.apache.activemq
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.1:
+    files:
+      - license: Apache-2.0
+        path: META-INF/DEPENDENCIES

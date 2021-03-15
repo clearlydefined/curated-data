@@ -1,0 +1,8 @@
+coordinates:
+  name: ExpectedObjects
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.4:
+    licensed:
+      declared: MIT

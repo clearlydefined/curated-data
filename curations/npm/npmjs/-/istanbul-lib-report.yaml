@@ -1,0 +1,39 @@
+coordinates:
+  name: istanbul-lib-report
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.5:
+    files:
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/index.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/summarizer.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/file-writer.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/context.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/watermarks.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/path.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/xml-writer.js
+      - attributions:
+          - 'Copyright 2012-2015, Yahoo Inc.'
+        license: BSD-3-Clause
+        path: package/lib/tree.js

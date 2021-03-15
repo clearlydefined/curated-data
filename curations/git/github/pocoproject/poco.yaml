@@ -1,0 +1,9 @@
+coordinates:
+  name: poco
+  namespace: pocoproject
+  provider: github
+  type: git
+revisions:
+  af527ab21fca5ab2659285408aec9920ed7c7b17:
+    licensed:
+      declared: BSL-1.0

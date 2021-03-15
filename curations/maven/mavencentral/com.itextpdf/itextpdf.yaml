@@ -1,0 +1,9 @@
+coordinates:
+  name: itextpdf
+  namespace: com.itextpdf
+  provider: mavencentral
+  type: maven
+revisions:
+  5.5.12:
+    licensed:
+      declared: AGPL-3.0-only

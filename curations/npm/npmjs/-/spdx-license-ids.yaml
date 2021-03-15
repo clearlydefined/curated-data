@@ -1,0 +1,11 @@
+coordinates:
+  name: spdx-license-ids
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.5:
+    files:
+      - license: NONE
+        path: package/deprecated.json
+      - license: CC0-1.0
+        path: package/README.md

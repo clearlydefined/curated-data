@@ -1,0 +1,9 @@
+coordinates:
+  name: util-scripted_2.12
+  namespace: org.scala-sbt
+  provider: mavencentral
+  type: maven
+revisions:
+  1.3.0:
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,9 @@
+coordinates:
+  name: libcxxabi
+  namespace: llvm-mirror
+  provider: github
+  type: git
+revisions:
+  9245d481eb3e890f708ff2d7dadf2a10c04748ba:
+    licensed:
+      declared: NCSA or MIT

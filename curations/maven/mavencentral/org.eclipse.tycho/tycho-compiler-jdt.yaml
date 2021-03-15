@@ -1,0 +1,9 @@
+coordinates:
+  name: tycho-compiler-jdt
+  namespace: org.eclipse.tycho
+  provider: mavencentral
+  type: maven
+revisions:
+  0.21.0:
+    licensed:
+      declared: EPL-1.0

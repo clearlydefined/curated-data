@@ -1,0 +1,11 @@
+coordinates:
+  name: Fluid.Core
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0-beta-9605:
+    licensed:
+      declared: MIT
+  1.0.0-beta-9672:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: VroomJs
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.3:
+    licensed:
+      declared: MIT

@@ -1,0 +1,11 @@
+coordinates:
+  name: normalize-package-data
+  provider: npmjs
+  type: npm
+revisions:
+  2.5.0:
+    files:
+      - attributions:
+          - Copyright (c) 2013 Meryn Stol
+        license: BSD-2-Clause
+        path: package/README.md

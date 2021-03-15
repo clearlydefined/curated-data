@@ -1,0 +1,8 @@
+coordinates:
+  name: Reinforced.Typings
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.91:
+    licensed:
+      declared: MIT

@@ -7,3 +7,6 @@ revisions:
   83b74c6a7a1ad33792be3adf10820ae287de8c40:
     licensed:
       declared: OpenSSL AND ISC
+  b29b21a81b32ec273f118f589f46d56ad3332420:
+    licensed:
+      declared: ISC

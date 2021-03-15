@@ -1,0 +1,8 @@
+coordinates:
+  name: MPI.NET
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.0:
+    licensed:
+      declared: BSL-1.0

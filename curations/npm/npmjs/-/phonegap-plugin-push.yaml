@@ -1,0 +1,8 @@
+coordinates:
+  name: phonegap-plugin-push
+  provider: npmjs
+  type: npm
+revisions:
+  1.6.3:
+    licensed:
+      declared: MIT

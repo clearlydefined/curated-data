@@ -1,0 +1,8 @@
+coordinates:
+  name: libssh2-vc141_xp
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.2:
+    licensed:
+      declared: BSD-3-Clause

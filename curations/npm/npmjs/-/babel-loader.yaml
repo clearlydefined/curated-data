@@ -1,0 +1,9 @@
+coordinates:
+  name: babel-loader
+  provider: npmjs
+  type: npm
+revisions:
+  8.0.4:
+    files:
+      - license: MIT
+        path: package/README.md

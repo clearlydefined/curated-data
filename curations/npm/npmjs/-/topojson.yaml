@@ -1,0 +1,8 @@
+coordinates:
+  name: topojson
+  provider: npmjs
+  type: npm
+revisions:
+  1.6.19:
+    licensed:
+      declared: BSD-3-Clause

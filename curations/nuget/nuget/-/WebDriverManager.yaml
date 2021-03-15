@@ -1,0 +1,11 @@
+coordinates:
+  name: WebDriverManager
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.6:
+    licensed:
+      declared: MIT
+  2.2.7:
+    licensed:
+      declared: MIT

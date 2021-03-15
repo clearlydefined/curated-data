@@ -1,0 +1,8 @@
+coordinates:
+  name: GraphQL.Server.Ui.GraphiQL
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.0-alpha0020:
+    licensed:
+      declared: MIT
