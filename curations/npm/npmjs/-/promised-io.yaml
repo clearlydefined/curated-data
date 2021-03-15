@@ -1,0 +1,8 @@
+coordinates:
+  name: promised-io
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.6:
+    licensed:
+      declared: BSD-3-Clause
