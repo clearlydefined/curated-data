@@ -18,6 +18,9 @@ revisions:
   1.9.2:
     licensed:
       declared: BSD-3-Clause
+  2.0.1-rc:
+    licensed:
+      declared: MIT
   2.0.2:
     licensed:
       declared: BSD-3-Clause
