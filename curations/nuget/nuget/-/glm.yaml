@@ -1,0 +1,8 @@
+coordinates:
+  name: glm
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.9.800:
+    licensed:
+      declared: MIT
