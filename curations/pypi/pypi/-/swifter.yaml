@@ -1,11 +1,8 @@
 coordinates:
-  name: wordcloud
+  name: swifter
   provider: pypi
   type: pypi
 revisions:
-  1.6.0:
-    licensed:
-      declared: MIT
-  1.7.0:
+  1.0.7:
     licensed:
       declared: MIT
