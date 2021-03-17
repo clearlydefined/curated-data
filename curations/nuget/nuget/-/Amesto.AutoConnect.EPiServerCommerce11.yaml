@@ -1,0 +1,8 @@
+coordinates:
+  name: Amesto.AutoConnect.EPiServerCommerce11
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.6:
+    licensed:
+      declared: OTHER
