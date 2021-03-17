@@ -1,0 +1,9 @@
+coordinates:
+  name: react-tooltip
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.0.0-alpha.7:
+    licensed:
+      declared: Apache-2.0
