@@ -1,0 +1,9 @@
+coordinates:
+  name: predictions
+  namespace: '@aws-amplify'
+  provider: npmjs
+  type: npm
+revisions:
+  3.2.27-unstable.4:
+    licensed:
+      declared: MIT
