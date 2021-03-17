@@ -1,0 +1,9 @@
+coordinates:
+  name: storage
+  namespace: '@firebase'
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.4-canary.6b7b89f38:
+    licensed:
+      declared: MIT
