@@ -1,0 +1,8 @@
+coordinates:
+  name: HotChocolate.Validation
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.9:
+    licensed:
+      declared: MIT
