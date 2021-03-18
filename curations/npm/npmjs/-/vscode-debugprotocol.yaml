@@ -1,0 +1,14 @@
+coordinates:
+  name: vscode-debugprotocol
+  provider: npmjs
+  type: npm
+revisions:
+  1.44.0:
+    described:
+      sourceLocation:
+        name: vscode-debugadapter-node
+        namespace: microsoft
+        provider: github
+        revision: 5e4b7803a48d9249c535fb47ad70225e1077431c
+        type: git
+        url: 'https://github.com/microsoft/vscode-debugadapter-node/commit/5e4b7803a48d9249c535fb47ad70225e1077431c'
