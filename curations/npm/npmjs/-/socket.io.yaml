@@ -1,0 +1,8 @@
+coordinates:
+  name: socket.io
+  provider: npmjs
+  type: npm
+revisions:
+  0.9.6:
+    licensed:
+      declared: MIT
