@@ -1,0 +1,8 @@
+coordinates:
+  name: Ical.Net
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.11:
+    licensed:
+      declared: MIT
