@@ -1,0 +1,9 @@
+coordinates:
+  name: clover
+  namespace: com.cenqua.clover
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.2:
+    licensed:
+      declared: Apache-2.0
