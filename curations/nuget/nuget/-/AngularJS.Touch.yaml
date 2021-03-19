@@ -1,11 +1,8 @@
 coordinates:
-  name: Xamarin.Kotlin.StdLib
+  name: AngularJS.Touch
   provider: nuget
   type: nuget
 revisions:
-  1.3.50.1:
-    licensed:
-      declared: MIT
-  1.4.20:
+  1.5.7:
     licensed:
       declared: MIT
