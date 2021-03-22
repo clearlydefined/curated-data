@@ -1,0 +1,8 @@
+coordinates:
+  name: UserVoice
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.5:
+    licensed:
+      declared: MIT

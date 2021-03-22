@@ -1,0 +1,8 @@
+coordinates:
+  name: SudachiDict-core
+  provider: pypi
+  type: pypi
+revisions:
+  20201223.post1:
+    licensed:
+      declared: Apache-2.0

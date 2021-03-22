@@ -1,0 +1,8 @@
+coordinates:
+  name: HotChocolate.Language.Utf8
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.9:
+    licensed:
+      declared: MIT
