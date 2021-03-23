@@ -3,9 +3,87 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.6.20:
+    licensed:
+      declared: GPL-3.0-only
+  1.6.21:
+    licensed:
+      declared: GPL-3.0-only
+  1.6.22:
+    licensed:
+      declared: GPL-3.0-only
+  1.6.23:
+    licensed:
+      declared: GPL-3.0-only
+  1.6.24:
+    licensed:
+      declared: GPL-3.0-only
+  1.6.25:
+    licensed:
+      declared: GPL-3.0-only
+  1.6.26:
+    licensed:
+      declared: GPL-3.0-only
+  1.6.27:
+    licensed:
+      declared: GPL-3.0-only
+  1.6.28:
+    licensed:
+      declared: GPL-3.0-only
+  1.6.29:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.0:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.0-beta2:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.0-beta3:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.0-beta4:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.0-rc1:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.0-rc2:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.1:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.10:
+    licensed:
+      declared: GPL-3.0-only
   1.7.11:
     licensed:
       declared: LGPL-3.0-or-later OR OTHER
   1.7.12:
     licensed:
       declared: LGPL-3.0-or-later OR OTHER
+  1.7.2:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.3:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.4:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.5:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.6:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.7:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.8:
+    licensed:
+      declared: GPL-3.0-only
+  1.7.9:
+    licensed:
+      declared: GPL-3.0-only
