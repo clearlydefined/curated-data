@@ -3,15 +3,195 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.4.4:
+    licensed:
+      declared: Unlicense
+  3.0.2:
+    licensed:
+      declared: Unlicense
+  3.1.1:
+    licensed:
+      declared: Unlicense
+  3.2.8:
+    licensed:
+      declared: Unlicense
+  3.4.10:
+    licensed:
+      declared: Unlicense
+  3.4.11:
+    licensed:
+      declared: Unlicense
+  3.4.12:
+    licensed:
+      declared: Unlicense
+  3.4.13:
+    licensed:
+      declared: Unlicense
+  3.4.4:
+    licensed:
+      declared: Unlicense
+  3.4.5:
+    licensed:
+      declared: Unlicense
+  3.4.6:
+    licensed:
+      declared: Unlicense
+  3.4.8:
+    licensed:
+      declared: Unlicense
+  3.4.9:
+    licensed:
+      declared: Unlicense
+  3.5.0:
+    licensed:
+      declared: Unlicense
+  3.5.1:
+    licensed:
+      declared: Unlicense
   3.5.10:
     licensed:
       declared: BSD-3-Clause
   3.5.11:
     licensed:
       declared: BSD-3-Clause
+  3.5.12:
+    licensed:
+      declared: Unlicense
+  3.5.13:
+    licensed:
+      declared: Unlicense
+  3.5.14:
+    licensed:
+      declared: Unlicense
+  3.5.15:
+    licensed:
+      declared: Unlicense
+  3.5.16:
+    licensed:
+      declared: Unlicense
+  3.5.17:
+    licensed:
+      declared: Unlicense
+  3.5.2:
+    licensed:
+      declared: Unlicense
+  3.5.3:
+    licensed:
+      declared: Unlicense
+  3.5.4:
+    licensed:
+      declared: Unlicense
+  3.5.5:
+    licensed:
+      declared: Unlicense
+  3.5.6:
+    licensed:
+      declared: Unlicense
+  3.5.7:
+    licensed:
+      declared: Unlicense
+  3.5.8:
+    licensed:
+      declared: Unlicense
+  3.5.9:
+    licensed:
+      declared: Unlicense
+  4.0.0:
+    licensed:
+      declared: Unlicense
+  4.1.0:
+    licensed:
+      declared: Unlicense
+  4.1.1:
+    licensed:
+      declared: Unlicense
+  4.10.0:
+    licensed:
+      declared: Unlicense
+  4.10.1:
+    licensed:
+      declared: Unlicense
+  4.10.2:
+    licensed:
+      declared: Unlicense
+  4.11.0:
+    licensed:
+      declared: Unlicense
+  4.12.0:
+    licensed:
+      declared: Unlicense
+  4.12.1:
+    licensed:
+      declared: Unlicense
+  4.12.2:
+    licensed:
+      declared: Unlicense
+  4.13.0:
+    licensed:
+      declared: Unlicense
+  4.2.0:
+    licensed:
+      declared: Unlicense
+  4.2.1:
+    licensed:
+      declared: Unlicense
+  4.2.2:
+    licensed:
+      declared: Unlicense
+  4.2.3:
+    licensed:
+      declared: Unlicense
+  4.2.4:
+    licensed:
+      declared: Unlicense
+  4.2.5:
+    licensed:
+      declared: Unlicense
+  4.2.6:
+    licensed:
+      declared: Unlicense
+  4.2.7:
+    licensed:
+      declared: Unlicense
+  4.2.8:
+    licensed:
+      declared: Unlicense
+  4.3.0:
+    licensed:
+      declared: Unlicense
   4.4.0:
     licensed:
       declared: BSD-3-Clause
+  4.4.1:
+    licensed:
+      declared: Unlicense
+  4.4.2:
+    licensed:
+      declared: Unlicense
+  4.4.3:
+    licensed:
+      declared: Unlicense
+  4.4.4:
+    licensed:
+      declared: Unlicense
+  4.5.0:
+    licensed:
+      declared: Unlicense
+  4.6.0:
+    licensed:
+      declared: Unlicense
+  4.7.0:
+    licensed:
+      declared: Unlicense
+  4.7.1:
+    licensed:
+      declared: Unlicense
+  4.7.2:
+    licensed:
+      declared: Unlicense
+  4.7.3:
+    licensed:
+      declared: Unlicense
   4.7.4:
     files:
       - attributions:
@@ -20,6 +200,111 @@ revisions:
         path: d3.nuspec
     licensed:
       declared: BSD-3-Clause
+  4.8.0:
+    licensed:
+      declared: Unlicense
+  4.9.0:
+    licensed:
+      declared: Unlicense
+  4.9.1:
+    licensed:
+      declared: Unlicense
+  5.0.0:
+    licensed:
+      declared: Unlicense
+  5.0.1:
+    licensed:
+      declared: Unlicense
+  5.0.2:
+    licensed:
+      declared: Unlicense
+  5.1.0:
+    licensed:
+      declared: Unlicense
+  5.11.0:
+    licensed:
+      declared: Unlicense
+  5.12.0:
+    licensed:
+      declared: Unlicense
+  5.13.0:
+    licensed:
+      declared: Unlicense
+  5.13.1:
+    licensed:
+      declared: Unlicense
+  5.14.0:
+    licensed:
+      declared: Unlicense
+  5.14.1:
+    licensed:
+      declared: Unlicense
+  5.14.2:
+    licensed:
+      declared: Unlicense
+  5.15.0:
+    licensed:
+      declared: Unlicense
+  5.15.1:
+    licensed:
+      declared: Unlicense
+  5.16.0:
+    licensed:
+      declared: Unlicense
+  5.2.0:
+    licensed:
+      declared: Unlicense
+  5.3.0:
+    licensed:
+      declared: Unlicense
   5.4.0:
     licensed:
       declared: BSD-3-Clause
+  5.5.0:
+    licensed:
+      declared: Unlicense
+  5.6.0:
+    licensed:
+      declared: Unlicense
+  5.7.0:
+    licensed:
+      declared: Unlicense
+  5.8.0:
+    licensed:
+      declared: Unlicense
+  5.8.1:
+    licensed:
+      declared: Unlicense
+  5.8.2:
+    licensed:
+      declared: Unlicense
+  5.9.0:
+    licensed:
+      declared: Unlicense
+  5.9.1:
+    licensed:
+      declared: Unlicense
+  5.9.10:
+    licensed:
+      declared: Unlicense
+  5.9.2:
+    licensed:
+      declared: Unlicense
+  5.9.3:
+    licensed:
+      declared: Unlicense
+  5.9.4:
+    licensed:
+      declared: Unlicense
+  5.9.5:
+    licensed:
+      declared: Unlicense
+  5.9.6:
+    licensed:
+      declared: Unlicense
+  5.9.7:
+    licensed:
+      declared: Unlicense
+  6.0.0:
+    licensed:
+      declared: Unlicense
