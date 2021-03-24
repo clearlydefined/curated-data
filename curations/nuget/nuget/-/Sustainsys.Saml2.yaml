@@ -1,0 +1,38 @@
+coordinates:
+  name: Sustainsys.Saml2
+  provider: nuget
+  type: nuget
+revisions:
+  0.23.0:
+    licensed:
+      declared: MIT
+  0.24.0:
+    licensed:
+      declared: MIT
+  1.0.0:
+    licensed:
+      declared: MIT
+  1.0.1:
+    licensed:
+      declared: MIT
+  1.0.2:
+    licensed:
+      declared: MIT
+  2.0.0:
+    licensed:
+      declared: MIT
+  2.0.0-preview01:
+    licensed:
+      declared: MIT
+  2.1.0:
+    licensed:
+      declared: MIT
+  2.2.0:
+    licensed:
+      declared: MIT
+  2.3.0:
+    licensed:
+      declared: MIT
+  2.4.0:
+    licensed:
+      declared: MIT
