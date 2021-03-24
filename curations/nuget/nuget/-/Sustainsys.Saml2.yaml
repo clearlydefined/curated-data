@@ -5,19 +5,19 @@ coordinates:
 revisions:
   0.23.0:
     licensed:
-      declared: MIT
+      declared: LGPL-3.0-or-later
   0.24.0:
     licensed:
-      declared: MIT
+      declared: LGPL-3.0-or-later
   1.0.0:
     licensed:
-      declared: MIT
+      declared: LGPL-3.0-or-later
   1.0.1:
     licensed:
-      declared: MIT
+      declared: LGPL-3.0-or-later
   1.0.2:
     licensed:
-      declared: MIT
+      declared: LGPL-3.0-or-later
   2.0.0:
     licensed:
       declared: MIT
