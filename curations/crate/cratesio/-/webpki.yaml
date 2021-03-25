@@ -3,6 +3,9 @@ coordinates:
   provider: cratesio
   type: crate
 revisions:
+  0.21.0:
+    licensed:
+      declared: ISC AND BSD-3-Clause
   0.21.2:
     licensed:
       declared: ISC AND BSD-3-Clause
