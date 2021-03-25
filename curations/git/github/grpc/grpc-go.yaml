@@ -1,0 +1,9 @@
+coordinates:
+  name: grpc-go
+  namespace: grpc
+  provider: github
+  type: git
+revisions:
+  777daa17ff9b5daef1cfdf915088a2ada3332bf0:
+    licensed:
+      declared: BSD-3-Clause
