@@ -1,0 +1,9 @@
+coordinates:
+  name: ios-deploy
+  namespace: ios-control
+  provider: github
+  type: git
+revisions:
+  436cb4b593509602817b2a8ba94b42d76586dcce:
+    licensed:
+      declared: GPL-3.0-or-later+
