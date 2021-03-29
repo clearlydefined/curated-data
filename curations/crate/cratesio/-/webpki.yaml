@@ -6,6 +6,9 @@ revisions:
   0.21.2:
     licensed:
       declared: ISC AND BSD-3-Clause
+  0.21.3:
+    licensed:
+      declared: Apache-2.0
   0.21.4:
     licensed:
       declared: ISC AND BSD-3-Clause
