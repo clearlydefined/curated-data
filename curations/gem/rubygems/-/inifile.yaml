@@ -1,0 +1,8 @@
+coordinates:
+  name: inifile
+  provider: rubygems
+  type: gem
+revisions:
+  3.0.0:
+    licensed:
+      declared: MIT
