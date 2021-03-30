@@ -1,0 +1,9 @@
+coordinates:
+  name: ej2-navigations
+  namespace: '@syncfusion'
+  provider: npmjs
+  type: npm
+revisions:
+  18.4.47:
+    licensed:
+      declared: CPL-1.0
