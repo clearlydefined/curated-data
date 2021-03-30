@@ -1,0 +1,9 @@
+coordinates:
+  name: ej2-diagrams
+  namespace: '@syncfusion'
+  provider: npmjs
+  type: npm
+revisions:
+  18.4.48:
+    licensed:
+      declared: CPL-1.0
