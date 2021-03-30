@@ -1,8 +1,8 @@
 coordinates:
-  name: M2Mqtt
+  name: Sustainsys.Saml2
   provider: nuget
   type: nuget
 revisions:
-  4.3.0:
+  2.3.0:
     licensed:
-      declared: EPL-1.0
+      declared: MIT
