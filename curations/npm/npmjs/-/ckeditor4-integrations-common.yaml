@@ -1,0 +1,8 @@
+coordinates:
+  name: ckeditor4-integrations-common
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.0:
+    licensed:
+      declared: CPL-1.0
