@@ -1,0 +1,8 @@
+coordinates:
+  name: pylocus
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.3:
+    licensed:
+      declared: BSD-2-Clause

@@ -1,0 +1,8 @@
+coordinates:
+  name: regexp-quote
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.0:
+    licensed:
+      declared: MIT

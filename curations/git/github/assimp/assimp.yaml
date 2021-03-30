@@ -1,0 +1,9 @@
+coordinates:
+  name: assimp
+  namespace: assimp
+  provider: github
+  type: git
+revisions:
+  b2ea762b027c6975f8a1398cdda988803326b253:
+    licensed:
+      declared: BSD-3-Clause
