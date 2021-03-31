@@ -1,0 +1,8 @@
+coordinates:
+  name: JustMock
+  provider: nuget
+  type: nuget
+revisions:
+  2018.1.117.2:
+    licensed:
+      declared: Apache-2.0
