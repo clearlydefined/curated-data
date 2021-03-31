@@ -1,0 +1,8 @@
+coordinates:
+  name: ErrorProne.NET.Structs
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.2:
+    licensed:
+      declared: MIT
