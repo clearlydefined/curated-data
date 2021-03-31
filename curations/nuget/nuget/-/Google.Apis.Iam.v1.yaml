@@ -1,14 +1,14 @@
 coordinates:
-  name: ClrHeapAllocationAnalyzer
+  name: Google.Apis.Iam.v1
   provider: nuget
   type: nuget
 revisions:
-  1.0.0.8:
+  1.38.2.1540:
     licensed:
       declared: Apache-2.0
-  1.0.0.9:
+  1.39.0.1540:
     licensed:
       declared: Apache-2.0
-  3.0.0:
+  1.48.0.2016:
     licensed:
       declared: Apache-2.0

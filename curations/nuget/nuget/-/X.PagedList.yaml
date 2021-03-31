@@ -1,8 +1,8 @@
 coordinates:
-  name: M2Mqtt
+  name: X.PagedList
   provider: nuget
   type: nuget
 revisions:
-  4.3.0:
+  8.0.7:
     licensed:
-      declared: EPL-1.0
+      declared: MIT

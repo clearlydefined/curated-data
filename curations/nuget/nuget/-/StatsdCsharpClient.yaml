@@ -1,8 +1,8 @@
 coordinates:
-  name: M2Mqtt
+  name: StatsdCsharpClient
   provider: nuget
   type: nuget
 revisions:
-  4.3.0:
+  1.5.0:
     licensed:
-      declared: EPL-1.0
+      declared: MIT

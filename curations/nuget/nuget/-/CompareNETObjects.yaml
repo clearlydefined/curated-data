@@ -24,3 +24,6 @@ revisions:
   4.67.0:
     licensed:
       declared: MS-PL
+  4.72.0:
+    licensed:
+      declared: MS-PL
