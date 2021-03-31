@@ -1,0 +1,9 @@
+coordinates:
+  name: bcprov-jdk15
+  namespace: bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  '140':
+    licensed:
+      declared: MIT
