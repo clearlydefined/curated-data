@@ -12,3 +12,6 @@ revisions:
   2.29.2:
     licensed:
       declared: GPL-2.0-only
+  2.31.1:
+    licensed:
+      declared: GPL-2.0-only
