@@ -1,0 +1,8 @@
+coordinates:
+  name: MvcCheckBoxList
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.5:
+    licensed:
+      declared: CPOL-1.02
