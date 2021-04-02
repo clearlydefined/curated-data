@@ -1,0 +1,8 @@
+coordinates:
+  name: angular-cookie-service
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: GPL-2.0-only
