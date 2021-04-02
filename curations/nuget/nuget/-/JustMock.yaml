@@ -3,6 +3,87 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2014.1.1418.1:
+    licensed:
+      declared: OTHER
+  2014.1.1424.1:
+    licensed:
+      declared: OTHER
+  2014.1.1519.1:
+    licensed:
+      declared: OTHER
+  2014.1.1609.1:
+    licensed:
+      declared: OTHER
+  2014.1.1623.1:
+    licensed:
+      declared: OTHER
+  2014.2.609.3:
+    licensed:
+      declared: OTHER
+  2014.2.722.1:
+    licensed:
+      declared: OTHER
+  2014.2.811.1:
+    licensed:
+      declared: OTHER
+  2014.3.1021.2:
+    licensed:
+      declared: OTHER
+  2014.3.1204.3:
+    licensed:
+      declared: OTHER
+  2015.1.205.2:
+    licensed:
+      declared: OTHER
+  2015.1.224.3:
+    licensed:
+      declared: OTHER
+  2015.2.616.2:
+    licensed:
+      declared: OTHER
+  2015.2.715.1:
+    licensed:
+      declared: OTHER
+  2015.3.929.5:
+    licensed:
+      declared: OTHER
+  2016.1.107.7:
+    licensed:
+      declared: OTHER
+  2016.1.307.3:
+    licensed:
+      declared: OTHER
+  2016.2.426.1:
+    licensed:
+      declared: OTHER
+  2017.2.821.1:
+    licensed:
+      declared: OTHER
   2018.1.117.2:
+    licensed:
+      declared: OTHER
+  2018.3.912.1:
+    licensed:
+      declared: OTHER
+  2019.1.115.2:
+    licensed:
+      declared: OTHER
+  2019.1.207.1:
+    licensed:
+      declared: OTHER
+  2019.2.508.1:
+    licensed:
+      declared: OTHER
+  2019.2.620.1:
+    licensed:
+      declared: OTHER
+  2019.3.910.4:
+    licensed:
+      declared: OTHER
+  2020.1.113.1:
+    licensed:
+      declared: OTHER
+  2020.2.616.1:
     licensed:
       declared: OTHER
