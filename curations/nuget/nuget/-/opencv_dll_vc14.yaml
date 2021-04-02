@@ -1,0 +1,8 @@
+coordinates:
+  name: opencv_dll_vc14
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.13:
+    licensed:
+      declared: BSD-3-Clause
