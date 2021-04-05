@@ -1,0 +1,8 @@
+coordinates:
+  name: beautifulsoup4
+  provider: pypi
+  type: pypi
+revisions:
+  undefined:
+    described:
+      releaseDate: '2020-10-03'
