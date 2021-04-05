@@ -243,6 +243,9 @@ revisions:
   1.16.0:
     licensed:
       declared: OTHER
+  1.16.0.post1:
+    licensed:
+      declared: OTHER
   1.16.0.post2:
     licensed:
       declared: OTHER
@@ -250,6 +253,9 @@ revisions:
     licensed:
       declared: OTHER
   1.17.0.post1:
+    licensed:
+      declared: OTHER
+  1.18.0:
     licensed:
       declared: OTHER
   1.18.0.post1:
@@ -318,6 +324,9 @@ revisions:
   1.4.0.post1:
     licensed:
       declared: OTHER
+  1.25.0:
+    licensed:
+      declared: OTHER
   1.4.0.post2:
     licensed:
       declared: OTHER
@@ -340,6 +349,9 @@ revisions:
     licensed:
       declared: OTHER
   1.6.0.post1:
+    licensed:
+      declared: OTHER
+  1.7.0:
     licensed:
       declared: OTHER
   1.8.0:
