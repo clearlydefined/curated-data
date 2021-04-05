@@ -27,6 +27,9 @@ revisions:
   1.18.0:
     licensed:
       declared: OTHER
+  1.19.0:
+    licensed:
+      declared: OTHER
   1.20.0:
     licensed:
       declared: OTHER
