@@ -300,6 +300,9 @@ revisions:
   1.21.0.post1:
     licensed:
       declared: OTHER
+  1.21.0.post2:
+    licensed:
+      declared: OTHER
   1.22.0:
     licensed:
       declared: OTHER
