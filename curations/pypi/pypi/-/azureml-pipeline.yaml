@@ -9,6 +9,9 @@ revisions:
   1.0.39:
     licensed:
       declared: OTHER
+  1.0.45:
+    licensed:
+      declared: OTHER
   1.0.60:
     licensed:
       declared: OTHER
