@@ -1,11 +1,8 @@
 coordinates:
-  name: Snapshooter.Xunit
+  name: ChoETL.NETStandard
   provider: nuget
   type: nuget
 revisions:
-  0.5.5:
-    licensed:
-      declared: MIT
-  0.6.1:
+  1.2.1.5:
     licensed:
       declared: MIT

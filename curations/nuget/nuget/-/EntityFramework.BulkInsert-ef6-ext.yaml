@@ -1,0 +1,8 @@
+coordinates:
+  name: EntityFramework.BulkInsert-ef6-ext
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.3.1:
+    licensed:
+      declared: Apache-2.0
