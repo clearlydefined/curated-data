@@ -141,6 +141,9 @@ revisions:
   1.0.85.2:
     licensed:
       declared: OTHER
+  1.0.85.3:
+    licensed:
+      declared: OTHER
   1.0.85.4:
     licensed:
       declared: OTHER
