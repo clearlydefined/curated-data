@@ -1,0 +1,9 @@
+coordinates:
+  name: restic
+  namespace: restic
+  provider: github
+  type: git
+revisions:
+  0.12.0:
+    licensed:
+      declared: BSD-2-Clause

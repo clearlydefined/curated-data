@@ -1,0 +1,8 @@
+coordinates:
+  name: X.PagedList
+  provider: nuget
+  type: nuget
+revisions:
+  8.0.7:
+    licensed:
+      declared: MIT
