@@ -6,6 +6,12 @@ revisions:
   10.0.0:
     licensed:
       declared: MIT
+  10.1.0:
+    licensed:
+      declared: MIT
+  11.0.1:
+    licensed:
+      declared: MIT
   4.1.0:
     licensed:
       declared: MIT
@@ -22,5 +28,47 @@ revisions:
     licensed:
       declared: MIT
   6.1.1:
+    licensed:
+      declared: MIT
+  6.1.2:
+    licensed:
+      declared: MIT
+  7.0.0:
+    licensed:
+      declared: MIT
+  7.0.0-pre0567:
+    licensed:
+      declared: MIT
+  8.0.0:
+    licensed:
+      declared: MIT
+  8.0.0-emit-default-values0565:
+    licensed:
+      declared: MIT
+  8.0.0-pre0572:
+    licensed:
+      declared: MIT
+  8.1.0:
+    licensed:
+      declared: MIT
+  8.1.1:
+    licensed:
+      declared: MIT
+  8.1.2:
+    licensed:
+      declared: MIT
+  9.1.0:
+    licensed:
+      declared: MIT
+  9.1.1:
+    licensed:
+      declared: MIT
+  9.1.2:
+    licensed:
+      declared: MIT
+  9.1.3:
+    licensed:
+      declared: MIT
+  9.1.4:
     licensed:
       declared: MIT
