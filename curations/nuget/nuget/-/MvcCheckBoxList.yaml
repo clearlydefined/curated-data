@@ -3,6 +3,42 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.4.2:
+    licensed:
+      declared: CPOL-1.02
+  1.4.2.1:
+    licensed:
+      declared: CPOL-1.02
+  1.4.2.2:
+    licensed:
+      declared: CPOL-1.02
+  1.4.2.3:
+    licensed:
+      declared: CPOL-1.02
+  1.4.3:
+    licensed:
+      declared: CPOL-1.02
+  1.4.4-beta:
+    licensed:
+      declared: CPOL-1.02
+  1.4.4.1-beta:
+    licensed:
+      declared: CPOL-1.02
+  1.4.4.2-beta:
+    licensed:
+      declared: CPOL-1.02
+  1.4.4.3-beta:
+    licensed:
+      declared: CPOL-1.02
+  1.4.4.3-beta2:
+    licensed:
+      declared: CPOL-1.02
+  1.4.4.4:
+    licensed:
+      declared: CPOL-1.02
+  1.4.4.5:
+    licensed:
+      declared: CPOL-1.02
   1.4.5:
     licensed:
       declared: CPOL-1.02
