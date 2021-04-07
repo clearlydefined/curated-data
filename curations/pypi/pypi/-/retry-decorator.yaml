@@ -1,11 +1,8 @@
 coordinates:
-  name: signalrcore
+  name: retry-decorator
   provider: pypi
   type: pypi
 revisions:
-  0.8.5:
-    licensed:
-      declared: MIT
-  0.8.7:
+  1.1.1:
     licensed:
       declared: MIT
