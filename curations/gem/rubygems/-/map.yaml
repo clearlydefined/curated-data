@@ -1,0 +1,8 @@
+coordinates:
+  name: map
+  provider: rubygems
+  type: gem
+revisions:
+  6.6.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
