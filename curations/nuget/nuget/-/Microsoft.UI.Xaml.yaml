@@ -3,7 +3,163 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.1.190402001:
+    licensed:
+      declared: OTHER
+  2.1.190405004:
+    licensed:
+      declared: OTHER
+  2.1.190405004.1:
+    licensed:
+      declared: OTHER
+  2.1.190405004.2:
+    licensed:
+      declared: OTHER
+  2.1.190606001:
+    licensed:
+      declared: OTHER
+  2.2.190402002-prerelease:
+    licensed:
+      declared: OTHER
+  2.2.190416008-prerelease:
+    licensed:
+      declared: OTHER
+  2.2.190430003-prerelease:
+    licensed:
+      declared: OTHER
+  2.2.190611001-prerelease:
+    licensed:
+      declared: OTHER
+  2.2.190702001-prerelease:
+    licensed:
+      declared: OTHER
+  2.2.190731001-prerelease:
+    licensed:
+      declared: OTHER
+  2.2.190822001-prerelease:
+    licensed:
+      declared: OTHER
+  2.2.190830001:
+    licensed:
+      declared: OTHER
+  2.2.190917002:
+    licensed:
+      declared: OTHER
+  2.2.191021001-prerelease:
+    licensed:
+      declared: OTHER
+  2.2.191203001-prerelease:
+    licensed:
+      declared: OTHER
+  2.3.190909001-prerelease:
+    licensed:
+      declared: OTHER
+  2.3.191007001-prerelease:
+    licensed:
+      declared: OTHER
+  2.3.191107001-prerelease:
+    licensed:
+      declared: OTHER
+  2.3.191121001-prerelease:
+    licensed:
+      declared: OTHER
+  2.3.191123003-prerelease:
+    licensed:
+      declared: OTHER
+  2.3.191125001-prerelease:
+    licensed:
+      declared: OTHER
+  2.3.191127001-prerelease:
+    licensed:
+      declared: OTHER
+  2.3.191129002:
+    licensed:
+      declared: OTHER
   2.3.191211002:
+    licensed:
+      declared: OTHER
+  2.3.191217003-prerelease:
+    licensed:
+      declared: OTHER
+  2.3.200213001:
+    licensed:
+      declared: OTHER
+  2.4.0:
+    licensed:
+      declared: OTHER
+  2.4.0-prerelease.191217001:
+    licensed:
+      declared: OTHER
+  2.4.0-prerelease.200113001:
+    licensed:
+      declared: OTHER
+  2.4.0-prerelease.200203002:
+    licensed:
+      declared: OTHER
+  2.4.0-prerelease.200322001:
+    licensed:
+      declared: OTHER
+  2.4.0-prerelease.200414001:
+    licensed:
+      declared: OTHER
+  2.4.0-prerelease.200422001:
+    licensed:
+      declared: OTHER
+  2.4.0-prerelease.200506001:
+    licensed:
+      declared: OTHER
+  2.4.1:
+    licensed:
+      declared: OTHER
+  2.4.2:
+    licensed:
+      declared: OTHER
+  2.4.3:
+    licensed:
+      declared: OTHER
+  2.5.0:
+    licensed:
+      declared: OTHER
+  2.5.0-prerelease.200609001:
+    licensed:
+      declared: OTHER
+  2.5.0-prerelease.200708003:
+    licensed:
+      declared: OTHER
+  2.5.0-prerelease.200812001:
+    licensed:
+      declared: OTHER
+  2.5.0-prerelease.200923002:
+    licensed:
+      declared: OTHER
+  2.5.0-prerelease.201027002:
+    licensed:
+      declared: OTHER
+  2.5.0-prerelease.201118002:
+    licensed:
+      declared: OTHER
+  2.5.0-prerelease.201127001:
+    licensed:
+      declared: OTHER
+  2.5.0-prerelease.201202003:
+    licensed:
+      declared: OTHER
+  2.6.0-prerelease.210113001:
+    licensed:
+      declared: OTHER
+  2.6.0-prerelease.210129001:
+    licensed:
+      declared: OTHER
+  2.6.0-prerelease.210210001:
+    licensed:
+      declared: OTHER
+  2.6.0-prerelease.210217002:
+    licensed:
+      declared: OTHER
+  2.6.0-prerelease.210227001:
+    licensed:
+      declared: OTHER
+  2.6.0-prerelease.210315002:
     licensed:
       declared: OTHER
   2.6.0-prerelease.210329001:
