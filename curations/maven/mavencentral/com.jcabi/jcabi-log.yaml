@@ -4,9 +4,114 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  0.12.1:
+    licensed:
+      declared: BSD-3-Clause
+  0.12.2:
+    licensed:
+      declared: BSD-3-Clause
+  0.12.3:
+    licensed:
+      declared: BSD-3-Clause
+  0.12.4:
+    licensed:
+      declared: BSD-3-Clause
+  '0.13':
+    licensed:
+      declared: BSD-3-Clause
   '0.14':
     licensed:
       declared: BSD-3-Clause
+  0.14.1:
+    licensed:
+      declared: BSD-3-Clause
+  0.14.2:
+    licensed:
+      declared: BSD-3-Clause
+  0.14.3:
+    licensed:
+      declared: BSD-3-Clause
+  '0.15':
+    licensed:
+      declared: BSD-3-Clause
+  0.15.1:
+    licensed:
+      declared: BSD-3-Clause
+  0.15.2:
+    licensed:
+      declared: BSD-3-Clause
+  '0.16':
+    licensed:
+      declared: BSD-3-Clause
   '0.17':
+    licensed:
+      declared: BSD-3-Clause
+  0.17.1:
+    licensed:
+      declared: BSD-3-Clause
+  0.17.2:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.10:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.11:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.12:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.13:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.14:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.15:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.16:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.17:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.18:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.19:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.20:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.21:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.22:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.4:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.5:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.6:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.7:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.8:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.9:
+    licensed:
+      declared: BSD-3-Clause
+  '0.8':
+    licensed:
+      declared: BSD-3-Clause
+  '0.9':
     licensed:
       declared: BSD-3-Clause

@@ -5,10 +5,13 @@ coordinates:
 revisions:
   0.16.11:
     licensed:
-      declared: ISC AND OpenSSL AND MIT
+      declared: ISC
   0.16.15:
     licensed:
       declared: ISC
   0.16.19:
     licensed:
-      declared: ISC AND OpenSSL AND MIT
+      declared: ISC
+  0.16.9:
+    licensed:
+      declared: ISC
