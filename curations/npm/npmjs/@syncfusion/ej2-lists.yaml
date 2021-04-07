@@ -1,0 +1,9 @@
+coordinates:
+  name: ej2-lists
+  namespace: '@syncfusion'
+  provider: npmjs
+  type: npm
+revisions:
+  18.4.39:
+    licensed:
+      declared: OTHER OR OTHER

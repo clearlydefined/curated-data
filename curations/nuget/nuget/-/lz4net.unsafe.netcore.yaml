@@ -1,0 +1,8 @@
+coordinates:
+  name: lz4net.unsafe.netcore
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.15.93:
+    licensed:
+      declared: BSD-2-Clause
