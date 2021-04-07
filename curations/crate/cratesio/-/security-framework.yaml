@@ -6,3 +6,6 @@ revisions:
   0.4.4:
     licensed:
       declared: Apache-2.0 OR MIT
+  2.0.0:
+    licensed:
+      declared: Apache-2.0 OR MIT
