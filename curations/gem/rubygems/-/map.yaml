@@ -3,6 +3,93 @@ coordinates:
   provider: rubygems
   type: gem
 revisions:
+  4.3.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  4.4.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  4.5.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  4.5.1:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  4.6.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  4.6.1:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  4.7.1:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  5.1.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  5.2.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  5.3.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  5.4.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  5.5.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  5.6.1:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  5.7.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  5.8.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.0.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.0.1:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.1.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.2.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.3.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.4.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.4.1:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.4.2:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.5.0:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.5.1:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.5.2:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.5.3:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.5.4:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
+  6.5.5:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
   6.6.0:
     licensed:
       declared: Ruby OR BSD-2-Clause
