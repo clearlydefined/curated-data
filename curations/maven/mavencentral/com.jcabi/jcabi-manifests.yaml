@@ -1,0 +1,9 @@
+coordinates:
+  name: jcabi-manifests
+  namespace: com.jcabi
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: BSD-3-Clause

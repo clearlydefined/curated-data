@@ -1,0 +1,8 @@
+coordinates:
+  name: AttributeRouting.Core.Web
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.6:
+    licensed:
+      declared: MIT

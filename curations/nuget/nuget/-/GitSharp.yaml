@@ -1,0 +1,8 @@
+coordinates:
+  name: GitSharp
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.0:
+    licensed:
+      declared: BSD-3-Clause

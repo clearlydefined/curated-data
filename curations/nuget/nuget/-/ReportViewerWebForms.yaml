@@ -1,0 +1,8 @@
+coordinates:
+  name: ReportViewerWebForms
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.0:
+    licensed:
+      declared: NONE

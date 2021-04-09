@@ -1,0 +1,11 @@
+coordinates:
+  name: PocketLogger.Subscribe
+  provider: nuget
+  type: nuget
+revisions:
+  0.6.1:
+    licensed:
+      declared: MIT
+  0.7.0:
+    licensed:
+      declared: MIT

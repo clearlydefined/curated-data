@@ -1,0 +1,8 @@
+coordinates:
+  name: azure-ml-component
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.0.31132438:
+    licensed:
+      declared: Other

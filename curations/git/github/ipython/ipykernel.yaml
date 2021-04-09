@@ -1,0 +1,9 @@
+coordinates:
+  name: ipykernel
+  namespace: ipython
+  provider: github
+  type: git
+revisions:
+  a06fea972b2af90d20b87a024f4692edcce4b002:
+    licensed:
+      declared: BSD-3-Clause

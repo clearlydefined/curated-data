@@ -24,6 +24,9 @@ revisions:
   2.41.0:
     licensed:
       declared: Unlicense
+  2.42.0.1:
+    licensed:
+      declared: Unlicense
   2.45.0:
     licensed:
       declared: Unlicense

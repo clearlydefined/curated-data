@@ -1,0 +1,9 @@
+coordinates:
+  name: fontawesome-common-types
+  namespace: '@fortawesome'
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.7:
+    licensed:
+      declared: OTHER

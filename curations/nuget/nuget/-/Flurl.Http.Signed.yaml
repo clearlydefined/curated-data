@@ -1,0 +1,8 @@
+coordinates:
+  name: Flurl.Http.Signed
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.2:
+    licensed:
+      declared: MIT

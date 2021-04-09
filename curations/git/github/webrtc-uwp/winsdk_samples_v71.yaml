@@ -1,0 +1,9 @@
+coordinates:
+  name: winsdk_samples_v71
+  namespace: webrtc-uwp
+  provider: github
+  type: git
+revisions:
+  a59391ef795986633735a1695caa97622a9bfd56:
+    licensed:
+      declared: OTHER

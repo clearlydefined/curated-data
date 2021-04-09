@@ -1,0 +1,8 @@
+coordinates:
+  name: ipykernel
+  provider: pypi
+  type: pypi
+revisions:
+  5.4.3:
+    licensed:
+      declared: BSD-3-Clause

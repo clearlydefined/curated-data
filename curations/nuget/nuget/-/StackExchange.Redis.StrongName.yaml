@@ -26,6 +26,9 @@ revisions:
   1.0.488:
     licensed:
       declared: MIT
+  1.1.572:
+    licensed:
+      declared: MIT
   1.1.603:
     files:
       - attributions:
@@ -50,6 +53,9 @@ revisions:
     licensed:
       declared: MIT
   1.2.1:
+    licensed:
+      declared: MIT
+  1.2.3:
     licensed:
       declared: MIT
   1.2.4:

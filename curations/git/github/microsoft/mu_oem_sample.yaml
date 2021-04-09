@@ -1,0 +1,9 @@
+coordinates:
+  name: mu_oem_sample
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  bc8add5ffc85943393887349125509583756355c:
+    licensed:
+      declared: BSD-2-Clause

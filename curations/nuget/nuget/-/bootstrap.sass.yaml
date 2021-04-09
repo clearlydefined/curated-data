@@ -1,0 +1,47 @@
+coordinates:
+  name: bootstrap.sass
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.0:
+    licensed:
+      declared: MIT
+  4.0.0-alpha:
+    licensed:
+      declared: MIT
+  4.0.0-alpha2:
+    licensed:
+      declared: MIT
+  4.0.0-alpha3:
+    licensed:
+      declared: MIT
+  4.0.0-alpha4:
+    licensed:
+      declared: MIT
+  4.0.0-alpha5:
+    licensed:
+      declared: MIT
+  4.0.0-alpha6:
+    licensed:
+      declared: MIT
+  4.0.0-beta:
+    licensed:
+      declared: MIT
+  4.0.0-beta2:
+    licensed:
+      declared: MIT
+  4.0.0-beta3:
+    licensed:
+      declared: MIT
+  4.1.0:
+    licensed:
+      declared: MIT
+  4.1.1:
+    licensed:
+      declared: MIT
+  4.1.2:
+    licensed:
+      declared: MIT
+  4.1.3:
+    licensed:
+      declared: MIT

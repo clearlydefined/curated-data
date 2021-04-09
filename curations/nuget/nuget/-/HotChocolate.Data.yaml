@@ -1,0 +1,8 @@
+coordinates:
+  name: HotChocolate.Data
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.9:
+    licensed:
+      declared: MIT

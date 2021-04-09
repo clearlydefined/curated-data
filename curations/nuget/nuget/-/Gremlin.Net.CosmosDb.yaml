@@ -1,0 +1,11 @@
+coordinates:
+  name: Gremlin.Net.CosmosDb
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.3.2009-alpha:
+    licensed:
+      declared: MIT
+  0.3.4.4-rc1:
+    licensed:
+      declared: MIT

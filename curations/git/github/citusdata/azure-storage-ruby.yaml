@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-storage-ruby
+  namespace: citusdata
+  provider: github
+  type: git
+revisions:
+  5d4b076b15c7e01bf614f06a6ede8faa1905193c:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: PoorMansTSqlFormatterRedux
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.3:
+    licensed:
+      declared: AGPL-3.0-or-later

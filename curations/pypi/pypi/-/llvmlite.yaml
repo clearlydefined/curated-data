@@ -1,0 +1,8 @@
+coordinates:
+  name: llvmlite
+  provider: pypi
+  type: pypi
+revisions:
+  0.31.0:
+    licensed:
+      declared: BSD-2-Clause

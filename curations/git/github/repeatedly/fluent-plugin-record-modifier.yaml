@@ -1,0 +1,9 @@
+coordinates:
+  name: fluent-plugin-record-modifier
+  namespace: repeatedly
+  provider: github
+  type: git
+revisions:
+  dc86ba87d1484b948d25dd792077244eb35ba8bf:
+    licensed:
+      declared: MIT

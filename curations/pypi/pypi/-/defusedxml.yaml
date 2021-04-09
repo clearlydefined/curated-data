@@ -1,0 +1,11 @@
+coordinates:
+  name: defusedxml
+  provider: pypi
+  type: pypi
+revisions:
+  0.7.0:
+    licensed:
+      declared: PSF-2.0
+  0.7.1:
+    licensed:
+      declared: PSF-2.0

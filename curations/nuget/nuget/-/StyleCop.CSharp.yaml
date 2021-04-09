@@ -1,0 +1,8 @@
+coordinates:
+  name: StyleCop.CSharp
+  provider: nuget
+  type: nuget
+revisions:
+  6.2.0:
+    licensed:
+      declared: MS-PL

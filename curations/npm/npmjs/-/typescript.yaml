@@ -1,0 +1,14 @@
+coordinates:
+  name: typescript
+  provider: npmjs
+  type: npm
+revisions:
+  4.1.3:
+    described:
+      sourceLocation:
+        name: typescript
+        namespace: microsoft
+        provider: github
+        revision: b512d91a351c474b1530f87faf6e5c53fb71c30d
+        type: git
+        url: 'https://github.com/microsoft/typescript/commit/b512d91a351c474b1530f87faf6e5c53fb71c30d'

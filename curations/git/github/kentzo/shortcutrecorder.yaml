@@ -1,0 +1,9 @@
+coordinates:
+  name: shortcutrecorder
+  namespace: kentzo
+  provider: github
+  type: git
+revisions:
+  07b065085e172d85b7b5a0f3cc05f6ed47ad5af1:
+    licensed:
+      declared: CC-BY-4.0

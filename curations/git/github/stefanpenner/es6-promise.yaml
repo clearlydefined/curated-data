@@ -1,0 +1,9 @@
+coordinates:
+  name: es6-promise
+  namespace: stefanpenner
+  provider: github
+  type: git
+revisions:
+  798edf28e700a06a310b92bda3ca7c0d194d1678:
+    licensed:
+      declared: MIT

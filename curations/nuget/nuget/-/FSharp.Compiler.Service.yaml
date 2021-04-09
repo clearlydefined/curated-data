@@ -1,9 +1,14 @@
 coordinates:
   name: FSharp.Compiler.Service
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
+  17.0.1:
+    licensed:
+      declared: Apache-2.0
   23.0.1:
     licensed:
       declared: Apache-2.0
+  31.0.0:
+    licensed:
+      declared: MIT

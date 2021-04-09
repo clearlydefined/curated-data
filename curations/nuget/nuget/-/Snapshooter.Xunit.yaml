@@ -1,0 +1,11 @@
+coordinates:
+  name: Snapshooter.Xunit
+  provider: nuget
+  type: nuget
+revisions:
+  0.5.5:
+    licensed:
+      declared: MIT
+  0.6.1:
+    licensed:
+      declared: MIT

@@ -1,0 +1,50 @@
+coordinates:
+  name: GDAL.Plugins
+  provider: nuget
+  type: nuget
+revisions:
+  1.10.0.9-a:
+    licensed:
+      declared: MIT
+  1.11.1:
+    licensed:
+      declared: MIT
+  1.9.1:
+    licensed:
+      declared: MIT
+  1.9.1.1:
+    licensed:
+      declared: MIT
+  1.9.1.2:
+    licensed:
+      declared: MIT
+  1.9.2:
+    licensed:
+      declared: MIT
+  2.3.2:
+    licensed:
+      declared: MIT
+  2.3.3:
+    licensed:
+      declared: MIT
+  2.4.0:
+    licensed:
+      declared: MIT
+  2.4.1:
+    licensed:
+      declared: MIT
+  2.4.2:
+    licensed:
+      declared: MIT
+  2.4.3:
+    licensed:
+      declared: MIT
+  2.4.4:
+    licensed:
+      declared: MIT
+  3.0.0:
+    licensed:
+      declared: MIT
+  3.0.0.1:
+    licensed:
+      declared: MIT

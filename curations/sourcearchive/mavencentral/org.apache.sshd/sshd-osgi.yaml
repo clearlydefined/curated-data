@@ -1,0 +1,17 @@
+coordinates:
+  name: sshd-osgi
+  namespace: org.apache.sshd
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.6.0:
+    described:
+      sourceLocation:
+        name: mina-sshd
+        namespace: apache
+        provider: github
+        revision: a0bbdf9d37fb7a453d4354e93c9e6c02c013a85d
+        type: git
+        url: 'https://github.com/apache/mina-sshd/commit/a0bbdf9d37fb7a453d4354e93c9e6c02c013a85d'
+    licensed:
+      declared: Apache-2.0

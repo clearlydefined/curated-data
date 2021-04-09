@@ -1,0 +1,8 @@
+coordinates:
+  name: pycryptodomex
+  provider: pypi
+  type: pypi
+revisions:
+  3.9.9:
+    licensed:
+      declared: BSD-2-Clause AND Unlicense

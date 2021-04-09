@@ -1,0 +1,9 @@
+coordinates:
+  name: smallvector
+  namespace: thelink2012
+  provider: github
+  type: git
+revisions:
+  febc8cb7b1a83d902b86dd1612feb7c86c690186:
+    licensed:
+      declared: NCSA

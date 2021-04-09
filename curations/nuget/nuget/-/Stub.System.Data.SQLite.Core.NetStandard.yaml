@@ -1,0 +1,8 @@
+coordinates:
+  name: Stub.System.Data.SQLite.Core.NetStandard
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.113.2:
+    licensed:
+      declared: OTHER

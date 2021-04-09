@@ -1,0 +1,11 @@
+coordinates:
+  name: Flurl.Signed
+  provider: nuget
+  type: nuget
+revisions:
+  2.7.1:
+    licensed:
+      declared: MIT
+  2.8.0:
+    licensed:
+      declared: MIT

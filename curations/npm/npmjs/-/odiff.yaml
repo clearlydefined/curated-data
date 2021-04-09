@@ -1,0 +1,8 @@
+coordinates:
+  name: odiff
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.2:
+    licensed:
+      declared: MIT
