@@ -4,9 +4,165 @@ coordinates:
   provider: github
   type: git
 revisions:
+  083f1e81a1ea13c3919fde6e8ff75766f25bc46c:
+    licensed:
+      declared: MIT
+  130d006145d76606235b5a69eefca3df36c97787:
+    licensed:
+      declared: MIT
+  170483b413d3eb3f7acf21748468a716c8d55713:
+    licensed:
+      declared: MIT
+  19aea02ad1629ba6cd1b27fdcec3fb42a3ee60c6:
+    licensed:
+      declared: MIT
+  1b08301dd56226e67f5a42c03e28366cce836988:
+    licensed:
+      declared: MIT
+  21266f9319fac6430843e16e11852e7fb6181b55:
+    licensed:
+      declared: MIT
+  22b6d41a057b60d507f26d01032303a925f1f9b7:
+    licensed:
+      declared: MIT
+  233f1ca2c2b4e3d516028ee0ddd320f19a92af2d:
+    licensed:
+      declared: MIT
+  2966abcd6a9bf32226e1a7c57fc03ebf09c03fd5:
+    licensed:
+      declared: MIT
+  2bece6501772eb2eb3cd5265a552d689d21bec67:
+    licensed:
+      declared: MIT
+  2f3dd068949fbb316098df1e5dc546069b72b04a:
+    licensed:
+      declared: MIT
+  36658c6eff2576eee1cc66c2451e865ba2d395d1:
+    licensed:
+      declared: MIT
+  3eac9b401d92bc7c9d7356fda948a1a0a3d47354:
+    licensed:
+      declared: MIT
   4028b51f6569ecad6a4bae6fc7336481f385f26f:
     licensed:
       declared: MIT
+  4762999b1d66180d9a09516361a4e43e8b5dba84:
+    licensed:
+      declared: MIT
+  49efbb396f45c91a21e74f3e33fda2c9b9d5ddb4:
+    licensed:
+      declared: MIT
+  5126f1e68239917dce4c3ea2d1db9a2acc113742:
+    licensed:
+      declared: MIT
+  59908c9b0d1d85539139ee3780633bd9c6f3a452:
+    licensed:
+      declared: MIT
+  5d456596e01c531b6f90ae512400c8db4763737f:
+    licensed:
+      declared: MIT
+  63306ba504cf53185f96418e322102c66e42365f:
+    licensed:
+      declared: MIT
+  6595fdd1ecd8a2149d0ad56ab327e63e9c978ced:
+    licensed:
+      declared: MIT
+  675a89a51a653307c5e99a97a4690644f35e3680:
+    licensed:
+      declared: MIT
+  682c97dc2c3c1980c9c1ec08aab95aad6f4db91a:
+    licensed:
+      declared: MIT
+  6a9e2f72c4820cbf4f4f1712c0534efb04042ccb:
+    licensed:
+      declared: MIT
+  6aa6fcef381ab048790ca1a946d2ae2c052f9efe:
+    licensed:
+      declared: MIT
+  6acef7ecd1cbded22ea12b5c1f001c3427b68cad:
+    licensed:
+      declared: MIT
+  736cef87d823ebbfff709029392a746bd8064ea5:
+    licensed:
+      declared: MIT
+  773d3b60cf0aedca3060529c6040d93d0a3e6496:
+    licensed:
+      declared: MIT
+  7d45817c85383e3810e3820b267f0ee417a9ee16:
+    licensed:
+      declared: MIT
+  82408746438511897b69bf1770e700852a80c0ac:
+    licensed:
+      declared: MIT
+  845f7c2db0c028f719b8f376239bc77a20e2d33c:
+    licensed:
+      declared: MIT
+  8fa06760d0e43f385509e1e5b5cc957019412851:
+    licensed:
+      declared: MIT
+  93f6a795807c69c108f618152edce5d4a6954f28:
+    licensed:
+      declared: MIT
+  96dc1db7b9b0f7d48a734b9494be765f5e281e24:
+    licensed:
+      declared: MIT
   9b1bd195599e4bddce32019c0e1ee0ef040f33df:
+    licensed:
+      declared: MIT
+  9b23b075f2ed89db7ff9896ede4659c3ebfe468e:
+    licensed:
+      declared: MIT
+  a24a163e4ca6298e661467ed2905492d45e9fecf:
+    licensed:
+      declared: MIT
+  a69376d98b48e04b371326f4ab86f537c496bb63:
+    licensed:
+      declared: MIT
+  b356f0c42ce1b72c87b619983e7d9bc51807dac2:
+    licensed:
+      declared: MIT
+  b5b039191d43ca2df4604fb5587408e59b188ae3:
+    licensed:
+      declared: MIT
+  b84d428bd055c8810259c99d3e1d7ee94d7def67:
+    licensed:
+      declared: MIT
+  ba39f92827e948420c817f8094b4a6115ba42502:
+    licensed:
+      declared: MIT
+  bda4d4a4499cfa5b44912cf465c5ad7e511d5b5c:
+    licensed:
+      declared: MIT
+  c26ae62fdbc563badfcf1c7defbba4e1327dc02a:
+    licensed:
+      declared: MIT
+  d250e18740384589b5725b4c2419a48c5df5c108:
+    licensed:
+      declared: MIT
+  d2fe750ff60b4f8b0b30f2f1677c485e15fe43fc:
+    licensed:
+      declared: MIT
+  d438732c61e6d82573bdefa4ab5c8f5ecf114749:
+    licensed:
+      declared: MIT
+  d4b94c94a5154e0396b20fd0625a3f18088c25c9:
+    licensed:
+      declared: MIT
+  d632c502bcc6706a6e0c44391735ad9e58d56f9c:
+    licensed:
+      declared: MIT
+  e147e058a92575423e567bfa8fbbdbea432b58d7:
+    licensed:
+      declared: MIT
+  e630b7ff4cc1a650d7a8c468ea2218357f03b55f:
+    licensed:
+      declared: MIT
+  f027ee1bedbf0817dfa8aeea1cdcfa579a3d2aad:
+    licensed:
+      declared: MIT
+  fc4a280ca19d1de3cc346a0b3bb9e3b6085f0789:
+    licensed:
+      declared: MIT
+  fe0a238fda5c9db4f8aecbb76982722b473105ae:
     licensed:
       declared: MIT
