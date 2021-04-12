@@ -30,3 +30,6 @@ revisions:
   3.8.1-preview:
     licensed:
       declared: MIT
+  3.8.3-preview:
+    licensed:
+      declared: MIT
