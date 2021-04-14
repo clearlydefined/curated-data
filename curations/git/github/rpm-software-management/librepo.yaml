@@ -1,0 +1,9 @@
+coordinates:
+  name: librepo
+  namespace: rpm-software-management
+  provider: github
+  type: git
+revisions:
+  67c2d1f83f1bf87be3f26ba730fce7fbdf0c9fba:
+    licensed:
+      declared: LGPL-2.1
