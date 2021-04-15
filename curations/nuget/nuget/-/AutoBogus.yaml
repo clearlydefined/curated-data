@@ -1,0 +1,8 @@
+coordinates:
+  name: AutoBogus
+  provider: nuget
+  type: nuget
+revisions:
+  2.13.0:
+    licensed:
+      declared: MIT
