@@ -1,0 +1,8 @@
+coordinates:
+  name: zxing
+  provider: pypi
+  type: pypi
+revisions:
+  '0.12':
+    licensed:
+      declared: GPL-3.0-only
