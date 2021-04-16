@@ -1,0 +1,8 @@
+coordinates:
+  name: sc-broker-cluster
+  provider: npmjs
+  type: npm
+revisions:
+  7.0.0:
+    licensed:
+      declared: OTHER
