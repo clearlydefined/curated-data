@@ -1,12 +1,9 @@
 coordinates:
-  name: ant
-  namespace: org.apache.ant
+  name: testng
+  namespace: org.testng
   provider: mavencentral
   type: maven
 revisions:
-  1.7.0:
-    licensed:
-      declared: Apache-2.0
-  1.8.1:
+  6.9.9:
     licensed:
       declared: Apache-2.0

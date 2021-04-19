@@ -6,6 +6,9 @@ revisions:
   1.39.0.1580:
     licensed:
       declared: Apache-2.0
+  1.40.3.1686:
+    licensed:
+      declared: Apache-2.0
   1.49.0.2191:
     licensed:
       declared: Apache-2.0
