@@ -90,3 +90,6 @@ revisions:
   1.19.5:
     licensed:
       declared: BSD-3-Clause
+  undefined:
+    licensed:
+      declared: BSD-3-Clause
