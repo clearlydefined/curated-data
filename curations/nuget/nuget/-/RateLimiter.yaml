@@ -1,11 +1,8 @@
 coordinates:
-  name: Any
+  name: RateLimiter
   provider: nuget
   type: nuget
 revisions:
-  3.0.1:
-    licensed:
-      declared: MIT
-  4.0.2:
+  2.0.0:
     licensed:
       declared: MIT
