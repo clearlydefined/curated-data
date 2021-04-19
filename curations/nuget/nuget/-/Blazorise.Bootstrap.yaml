@@ -1,11 +1,8 @@
 coordinates:
-  name: Any
+  name: Blazorise.Bootstrap
   provider: nuget
   type: nuget
 revisions:
-  3.0.1:
-    licensed:
-      declared: MIT
-  4.0.2:
+  0.9.0.3:
     licensed:
       declared: MIT
