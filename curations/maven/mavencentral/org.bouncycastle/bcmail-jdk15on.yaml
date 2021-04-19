@@ -12,3 +12,11 @@ revisions:
         path: META-INF/MANIFEST.MF
     licensed:
       declared: MIT
+  '1.68':
+    files:
+      - attributions:
+          - 'Copyright (c) 2000 - 2019 The Legion of the Bouncy Castle Inc. (https://www.bouncycastle.org) '
+        license: ''
+        path: META-INF/MANIFEST.MF
+    licensed:
+      declared: MIT
