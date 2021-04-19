@@ -1,12 +1,9 @@
 coordinates:
-  name: ant
-  namespace: org.apache.ant
+  name: ehcache-core
+  namespace: net.sf.ehcache
   provider: mavencentral
   type: maven
 revisions:
-  1.7.0:
-    licensed:
-      declared: Apache-2.0
-  1.8.1:
+  2.4.4:
     licensed:
       declared: Apache-2.0
