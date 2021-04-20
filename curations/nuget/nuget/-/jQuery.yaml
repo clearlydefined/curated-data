@@ -74,6 +74,9 @@ revisions:
         path: Tools/uninstall.ps1
     licensed:
       declared: MIT
+  2.0.0:
+    licensed:
+      declared: MIT
   2.0.3:
     licensed:
       declared: MIT
