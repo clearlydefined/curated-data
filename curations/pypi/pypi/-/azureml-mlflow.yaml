@@ -9,3 +9,6 @@ revisions:
   1.15.0.post1:
     licensed:
       declared: OTHER
+  1.27.0:
+    licensed:
+      declared: OTHER
