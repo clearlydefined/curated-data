@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  8b5b794ff4366e23dc72b4966f3ada72afa17416:
+    licensed:
+      declared: MS-PL
   ba8bf459e44aab693d58c6df4a80bb481319e04f:
     licensed:
       declared: MS-PL
