@@ -32,4 +32,4 @@ revisions:
       declared: OTHER
   3.4.0:
     licensed:
-      declared: 0BSD
+      declared: PSF-2.0
