@@ -3,10 +3,54 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  4.2.1:
+    described:
+      releaseDate: '2016-06-02'
+    licensed:
+      declared: MIT
+  5.0.0:
+    described:
+      releaseDate: '2016-09-12'
+    licensed:
+      declared: MIT
+  5.1.0:
+    described:
+      releaseDate: '2016-11-14'
+    licensed:
+      declared: MIT
+  5.2.0:
+    described:
+      releaseDate: '2017-02-07'
+    licensed:
+      declared: MIT
+  5.3.0:
+    described:
+      releaseDate: '2017-04-12'
+    licensed:
+      declared: MIT
+  5.3.1:
+    described:
+      releaseDate: '2017-04-25'
+    licensed:
+      declared: MIT
+  6.0.0:
+    described:
+      releaseDate: '2017-06-29'
+    licensed:
+      declared: MIT
+  7.0.1:
+    licensed:
+      declared: MIT
   8.0.0:
     licensed:
       declared: MIT
   8.1.0:
+    licensed:
+      declared: MIT
+  8.2.0:
+    licensed:
+      declared: MIT
+  9.0.0:
     licensed:
       declared: MIT
   9.0.1:
