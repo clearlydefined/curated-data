@@ -4,6 +4,30 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  17.2.49-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.26:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.19:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.46:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.52-1205479:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.48-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.36-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.4.46:
+    licensed:
+      declared: OTHER OR OTHER
   17.2.29-beta:
     licensed:
       declared: OTHER OR OTHER
