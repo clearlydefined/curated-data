@@ -1,11 +1,8 @@
 coordinates:
-  name: Cauldron.Interception.Fody
+  name: WebMotions.Fake.Authentication.JwtBearer
   provider: nuget
   type: nuget
 revisions:
-  3.2.2:
-    licensed:
-      declared: MIT
-  3.2.3:
+  3.0.1:
     licensed:
       declared: MIT

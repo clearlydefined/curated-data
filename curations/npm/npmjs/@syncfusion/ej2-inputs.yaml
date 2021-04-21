@@ -223,6 +223,36 @@ revisions:
   17.3.17:
     licensed:
       declared: OTHER OR OTHER
+  17.2.55-1205479:
+    licensed:
+      declared: OTHER OR OTHER
+  17.1.47-1015318:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.41:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.39:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.29-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.47:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.14:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.16:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.19:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.21:
+    licensed:
+      declared: OTHER OR OTHER
   17.3.26:
     licensed:
       declared: OTHER OR OTHER
@@ -234,6 +264,15 @@ revisions:
       declared: OTHER OR OTHER
   17.3.29:
     licensed:
+      declared: OTHER OR OTHER
+  17.3.9-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.4.39:
+    licensed:
+      declared: OTHER OR OTHER
+  17.4.41:
+     licensed:
       declared: OTHER OR OTHER
   17.4.43:
     licensed:
@@ -248,6 +287,9 @@ revisions:
     licensed:
       declared: OTHER OR OTHER
   17.4.55:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.59:
     licensed:
       declared: OTHER OR OTHER
   18.1.36-beta:
@@ -278,6 +320,12 @@ revisions:
     licensed:
       declared: OTHER OR OTHER
   18.1.56:
+    licensed:
+      declared: OTHER OR OTHER
+  18.2.44:
+    licensed:
+      declared: OTHER OR OTHER
+  18.2.45:
     licensed:
       declared: OTHER OR OTHER
   18.2.47:
