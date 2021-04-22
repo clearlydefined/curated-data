@@ -1,0 +1,8 @@
+coordinates:
+  name: sc-broker-cluster
+  provider: npmjs
+  type: npm
+revisions:
+  4.3.1:
+    licensed:
+      declared: NONE
