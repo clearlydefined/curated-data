@@ -30,6 +30,12 @@ revisions:
   23.0.0:
     licensed:
       declared: OTHER
+  23.0.1:
+    licensed:
+      declared: OTHER
+  23.0.2:
+    licensed:
+      declared: OTHER
   23.2.0:
     licensed:
       declared: OTHER
