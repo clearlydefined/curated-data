@@ -3,6 +3,312 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  '0.1':
+    licensed:
+      declared: BSD-3-Clause
+  '0.10':
+    licensed:
+      declared: BSD-3-Clause
+  '0.11':
+    licensed:
+      declared: BSD-3-Clause
+  '0.12':
+    licensed:
+      declared: BSD-3-Clause
+  '0.13':
+    licensed:
+      declared: BSD-3-Clause
+  '0.14':
+    licensed:
+      declared: BSD-3-Clause
+  '0.15':
+    licensed:
+      declared: BSD-3-Clause
+  '0.16':
+    licensed:
+      declared: BSD-3-Clause
+  '0.17':
+    licensed:
+      declared: BSD-3-Clause
+  '0.18':
+    licensed:
+      declared: BSD-3-Clause
+  '0.19':
+    licensed:
+      declared: BSD-3-Clause
+  '0.2':
+    licensed:
+      declared: BSD-3-Clause
+  '0.20':
+    licensed:
+      declared: BSD-3-Clause
+  '0.21':
+    licensed:
+      declared: BSD-3-Clause
+  '0.22':
+    licensed:
+      declared: BSD-3-Clause
+  '0.23':
+    licensed:
+      declared: BSD-3-Clause
+  '0.25':
+    licensed:
+      declared: BSD-3-Clause
+  '0.26':
+    licensed:
+      declared: BSD-3-Clause
+  '0.28':
+    licensed:
+      declared: BSD-3-Clause
+  '0.3':
+    licensed:
+      declared: BSD-3-Clause
+  '0.30':
+    licensed:
+      declared: BSD-3-Clause
+  '0.31':
+    licensed:
+      declared: BSD-3-Clause
+  '0.32':
+    licensed:
+      declared: BSD-3-Clause
+  '0.33':
+    licensed:
+      declared: BSD-3-Clause
+  '0.34':
+    licensed:
+      declared: BSD-3-Clause
+  '0.35':
+    licensed:
+      declared: BSD-3-Clause
+  '0.36':
+    licensed:
+      declared: BSD-3-Clause
+  '0.37':
+    licensed:
+      declared: BSD-3-Clause
+  '0.38':
+    licensed:
+      declared: BSD-3-Clause
+  '0.39':
+    licensed:
+      declared: BSD-3-Clause
+  '0.4':
+    licensed:
+      declared: BSD-3-Clause
+  '0.40':
+    licensed:
+      declared: BSD-3-Clause
+  '0.41':
+    licensed:
+      declared: BSD-3-Clause
+  '0.42':
+    licensed:
+      declared: BSD-3-Clause
+  '0.43':
+    licensed:
+      declared: BSD-3-Clause
+  '0.44':
+    licensed:
+      declared: BSD-3-Clause
+  '0.45':
+    licensed:
+      declared: BSD-3-Clause
+  '0.46':
+    licensed:
+      declared: BSD-3-Clause
+  '0.47':
+    licensed:
+      declared: BSD-3-Clause
+  '0.48':
+    licensed:
+      declared: BSD-3-Clause
+  '0.49':
+    licensed:
+      declared: BSD-3-Clause
+  '0.5':
+    licensed:
+      declared: BSD-3-Clause
+  '0.50':
+    licensed:
+      declared: BSD-3-Clause
+  '0.51':
+    licensed:
+      declared: BSD-3-Clause
+  '0.52':
+    licensed:
+      declared: BSD-3-Clause
+  '0.53':
+    licensed:
+      declared: BSD-3-Clause
+  '0.54':
+    licensed:
+      declared: BSD-3-Clause
+  '0.55':
+    licensed:
+      declared: BSD-3-Clause
+  '0.56':
+    licensed:
+      declared: BSD-3-Clause
+  '0.57':
+    licensed:
+      declared: BSD-3-Clause
+  '0.58':
+    licensed:
+      declared: BSD-3-Clause
+  '0.59':
+    licensed:
+      declared: BSD-3-Clause
+  '0.6':
+    licensed:
+      declared: BSD-3-Clause
+  '0.60':
+    licensed:
+      declared: BSD-3-Clause
+  '0.8':
+    licensed:
+      declared: BSD-3-Clause
+  '0.9':
+    licensed:
+      declared: BSD-3-Clause
+  1.0.0:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.1:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.10:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.13:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.14:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.15:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.16:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.17:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.18:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.2:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.3:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.4:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.5:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.6:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.7:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.8:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.9:
+    licensed:
+      declared: BSD-3-Clause
+  2.0.1:
+    licensed:
+      declared: BSD-3-Clause
+  2.0.10:
+    licensed:
+      declared: BSD-3-Clause
+  2.0.2:
+    licensed:
+      declared: BSD-3-Clause
+  2.0.3:
+    licensed:
+      declared: BSD-3-Clause
+  2.0.4:
+    licensed:
+      declared: BSD-3-Clause
+  2.0.5:
+    licensed:
+      declared: BSD-3-Clause
+  2.0.6:
+    licensed:
+      declared: BSD-3-Clause
+  2.0.7:
+    licensed:
+      declared: BSD-3-Clause
+  2.0.8:
+    licensed:
+      declared: BSD-3-Clause
   2.0.9:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.1:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.10:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.11:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.12:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.13:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.14:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.15:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.16:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.17:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.18:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.2:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.3:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.4:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.5:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.6:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.7:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.8:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.9:
+    licensed:
+      declared: BSD-3-Clause
+  undefined:
     licensed:
       declared: BSD-3-Clause
