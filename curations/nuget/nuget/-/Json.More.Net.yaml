@@ -1,0 +1,8 @@
+coordinates:
+  name: Json.More.Net
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.1:
+    licensed:
+      declared: MIT
