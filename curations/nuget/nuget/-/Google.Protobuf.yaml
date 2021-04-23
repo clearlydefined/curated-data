@@ -53,7 +53,7 @@ revisions:
       declared: BSD-3-Clause
   3.15.7:
     licensed:
-      declared: BSL-1.0
+      declared: BSD-3-Clause
   3.3.0:
     licensed:
       declared: BSD-3-Clause
