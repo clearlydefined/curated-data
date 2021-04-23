@@ -1,0 +1,9 @@
+coordinates:
+  name: google-cloud-go
+  namespace: googleapis
+  provider: github
+  type: git
+revisions:
+  b52cc4993ef4ee5355b221c2feaac764b7dda52b:
+    licensed:
+      declared: Apache-2.0
