@@ -9,6 +9,9 @@ revisions:
   0.3.0.beta2:
     licensed:
       declared: BSD-3-Clause
+  0.4.1:
+    licensed:
+      declared: BSD-3-Clause
   1.0.0:
     licensed:
       declared: BSD-3-Clause
@@ -61,8 +64,5 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   1.2.4:
-    licensed:
-      declared: BSD-3-Clause
-  undefined:
     licensed:
       declared: BSD-3-Clause
