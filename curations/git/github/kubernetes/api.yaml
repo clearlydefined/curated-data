@@ -1,0 +1,9 @@
+coordinates:
+  name: api
+  namespace: kubernetes
+  provider: github
+  type: git
+revisions:
+  5d0d5b56b51109a75225966be27ca7b6c6ca6dcd:
+    licensed:
+      declared: Apache-2.0
