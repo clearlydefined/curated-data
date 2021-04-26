@@ -1,0 +1,8 @@
+coordinates:
+  name: SpecRun.SpecFlow.3-0-0
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.388:
+    licensed:
+      declared: BSD-3-Clause
