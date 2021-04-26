@@ -333,6 +333,9 @@ revisions:
   4.0.36:
     licensed:
       declared: OTHER
+  4.0.41:
+    licensed:
+      declared: OTHER
   4.0.9:
     licensed:
       declared: OTHER
