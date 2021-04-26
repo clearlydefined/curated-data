@@ -1,0 +1,9 @@
+coordinates:
+  name: mtl
+  namespace: gpu
+  provider: dmitri.shuralyov.com
+  type: git
+revisions:
+  666a987793e9432fbb48592aa2f3bf3463685dfa:
+    licensed:
+      declared: BSD-3-Clause
