@@ -1,11 +1,8 @@
 coordinates:
-  name: DynamicExpresso.Core
+  name: runtime.osx.10.10-x64.CoreCompat.System.Drawing
   provider: nuget
   type: nuget
 revisions:
-  2.1.0:
-    licensed:
-      declared: MIT
-  2.3.1:
+  5.8.64:
     licensed:
       declared: MIT
