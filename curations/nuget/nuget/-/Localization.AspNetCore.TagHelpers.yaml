@@ -1,11 +1,8 @@
 coordinates:
-  name: DynamicExpresso.Core
+  name: Localization.AspNetCore.TagHelpers
   provider: nuget
   type: nuget
 revisions:
-  2.1.0:
-    licensed:
-      declared: MIT
-  2.3.1:
+  0.6.0:
     licensed:
       declared: MIT
