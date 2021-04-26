@@ -1,11 +1,8 @@
 coordinates:
-  name: DynamicExpresso.Core
+  name: Json.More.Net
   provider: nuget
   type: nuget
 revisions:
-  2.1.0:
-    licensed:
-      declared: MIT
-  2.3.1:
+  1.4.1:
     licensed:
       declared: MIT
