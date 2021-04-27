@@ -1,0 +1,8 @@
+coordinates:
+  name: EnvDTE80
+  provider: nuget
+  type: nuget
+revisions:
+  16.7.30328.74:
+    licensed:
+      declared: OTHER
