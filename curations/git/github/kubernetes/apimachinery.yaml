@@ -1,0 +1,9 @@
+coordinates:
+  name: apimachinery
+  namespace: kubernetes
+  provider: github
+  type: git
+revisions:
+  e337f44144a6ffeee2758c80dea17dd53fa6cbf4:
+    licensed:
+      declared: Apache-2.0
