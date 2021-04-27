@@ -244,7 +244,28 @@ revisions:
   12.17.1:
     licensed:
       declared: OTHER
+  12.17.2:
+    licensed:
+      declared: OTHER
+  12.17.4:
+    licensed:
+      declared: OTHER
+  12.17.3:
+    licensed:
+      declared: OTHER
   12.18.0:
+    licensed:
+      declared: OTHER
+  12.17.4:
+    licensed:
+      declared: OTHER
+  12.17.3:
+    licensed:
+      declared: OTHER
+  12.18.0:
+    licensed:
+      declared: OTHER
+  12.18.1:
     licensed:
       declared: OTHER
   12.2.0:
