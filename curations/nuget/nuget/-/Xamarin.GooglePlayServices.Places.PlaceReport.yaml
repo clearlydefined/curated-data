@@ -1,11 +1,8 @@
 coordinates:
-  name: GoogleGson
+  name: Xamarin.GooglePlayServices.Places.PlaceReport
   provider: nuget
   type: nuget
 revisions:
-  2.8.1:
-    licensed:
-      declared: MIT
-  2.8.5:
+  117.0.0-preview01:
     licensed:
       declared: MIT

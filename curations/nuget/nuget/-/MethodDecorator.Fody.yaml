@@ -1,11 +1,8 @@
 coordinates:
-  name: GoogleGson
+  name: MethodDecorator.Fody
   provider: nuget
   type: nuget
 revisions:
-  2.8.1:
-    licensed:
-      declared: MIT
-  2.8.5:
+  1.1.0:
     licensed:
       declared: MIT
