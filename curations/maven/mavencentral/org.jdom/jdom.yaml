@@ -1,0 +1,9 @@
+coordinates:
+  name: jdom
+  namespace: org.jdom
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: Saxpath
