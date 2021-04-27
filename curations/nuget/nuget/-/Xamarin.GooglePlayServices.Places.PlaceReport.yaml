@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.Graph
+  name: Xamarin.GooglePlayServices.Places.PlaceReport
   provider: nuget
   type: nuget
 revisions:
-  1.21.0:
-    licensed:
-      declared: MIT
-  3.30.0:
+  117.0.0-preview01:
     licensed:
       declared: MIT
