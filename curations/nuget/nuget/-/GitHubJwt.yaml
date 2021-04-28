@@ -1,11 +1,8 @@
 coordinates:
-  name: SshKeyGenerator
+  name: GitHubJwt
   provider: nuget
   type: nuget
 revisions:
-  1.1.33:
-    licensed:
-      declared: MIT
-  1.1.38:
+  0.0.2:
     licensed:
       declared: MIT

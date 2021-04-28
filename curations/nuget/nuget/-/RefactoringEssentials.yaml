@@ -1,9 +1,11 @@
 coordinates:
   name: RefactoringEssentials
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
+  5.2.0:
+    licensed:
+      declared: MIT
   5.4.0:
     licensed:
       declared: MIT
