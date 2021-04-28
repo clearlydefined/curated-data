@@ -1,0 +1,8 @@
+coordinates:
+  name: dicttoxml
+  provider: pypi
+  type: pypi
+revisions:
+  1.7.4:
+    licensed:
+      declared: GPL-3.0-only
