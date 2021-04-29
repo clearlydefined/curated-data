@@ -1,0 +1,8 @@
+coordinates:
+  name: AzureExtensions.Swashbuckle
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.2:
+    licensed:
+      declared: MIT

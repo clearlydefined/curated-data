@@ -1,0 +1,8 @@
+coordinates:
+  name: FreeSpire.XLS
+  provider: nuget
+  type: nuget
+revisions:
+  9.10.11:
+    licensed:
+      declared: OTHER
