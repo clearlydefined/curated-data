@@ -1,0 +1,8 @@
+coordinates:
+  name: BitMiracle.LibTiff.NET
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.582:
+    licensed:
+      declared: BSD-3-Clause

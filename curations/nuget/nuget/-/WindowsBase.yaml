@@ -1,0 +1,8 @@
+coordinates:
+  name: WindowsBase
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.1055:
+    licensed:
+      declared: NONE
