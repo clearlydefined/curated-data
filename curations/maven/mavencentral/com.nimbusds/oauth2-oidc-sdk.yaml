@@ -28,6 +28,9 @@ revisions:
   '7.4':
     licensed:
       declared: Apache-2.0
+  '8.26':
+    licensed:
+      declared: Apache-2.0
   '8.9':
     licensed:
       declared: Apache-2.0
