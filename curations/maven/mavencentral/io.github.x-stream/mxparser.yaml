@@ -1,0 +1,9 @@
+coordinates:
+  name: mxparser
+  namespace: io.github.x-stream
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.1:
+    licensed:
+      declared: xpp

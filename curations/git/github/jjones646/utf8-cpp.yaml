@@ -1,0 +1,9 @@
+coordinates:
+  name: utf8-cpp
+  namespace: jjones646
+  provider: github
+  type: git
+revisions:
+  290ab12774c08994c03494bd914d0cc4e038139f:
+    licensed:
+      declared: BSL-1.0

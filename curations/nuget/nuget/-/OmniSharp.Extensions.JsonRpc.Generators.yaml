@@ -1,0 +1,11 @@
+coordinates:
+  name: OmniSharp.Extensions.JsonRpc.Generators
+  provider: nuget
+  type: nuget
+revisions:
+  0.19.0:
+    licensed:
+      declared: MIT
+  0.19.1:
+    licensed:
+      declared: MIT

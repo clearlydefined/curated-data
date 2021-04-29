@@ -1,0 +1,12 @@
+coordinates:
+  name: highcharts-react-native
+  namespace: highcharts
+  provider: github
+  type: git
+revisions:
+  29a7c52c3438658d68f132ecbd8803a1ad0201ec:
+    licensed:
+      declared: MIT
+  5d7ba11317857acb87b42bd148aabfa6ea5ec912:
+    licensed:
+      declared: MIT

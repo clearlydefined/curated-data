@@ -63,3 +63,6 @@ revisions:
   2.5.271:
     licensed:
       declared: BSD-2-Clause
+  2.5.293:
+    licensed:
+      declared: BSD-2-Clause

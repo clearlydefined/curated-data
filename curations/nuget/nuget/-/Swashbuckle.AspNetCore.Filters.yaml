@@ -3,13 +3,106 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  3.0.0:
+    licensed:
+      declared: MIT
+  3.0.1:
+    licensed:
+      declared: MIT
+  3.0.2:
+    licensed:
+      declared: MIT
+  3.0.3:
+    licensed:
+      declared: MIT
+  3.0.4:
+    licensed:
+      declared: MIT
+  3.1.0:
+    licensed:
+      declared: MIT
+  4.0.0:
+    licensed:
+      declared: MIT
+  4.0.1:
+    licensed:
+      declared: MIT
+  4.0.2:
+    licensed:
+      declared: MIT
+  4.0.3:
+    licensed:
+      declared: MIT
+  4.1.0:
+    licensed:
+      declared: MIT
+  4.2.0:
+    licensed:
+      declared: MIT
+  4.3.0:
+    licensed:
+      declared: MIT
+  4.3.1:
+    licensed:
+      declared: MIT
+  4.4.0:
+    licensed:
+      declared: MIT
+  4.5.0:
+    licensed:
+      declared: MIT
+  4.5.1:
+    licensed:
+      declared: MIT
+  4.5.2:
+    licensed:
+      declared: MIT
+  4.5.3:
+    licensed:
+      declared: MIT
+  4.5.4:
+    licensed:
+      declared: MIT
   4.5.5:
     licensed:
       declared: MIT
   5.0.0:
     licensed:
       declared: MIT
+  5.0.0-beta:
+    licensed:
+      declared: MIT
+  5.0.0-rc2:
+    licensed:
+      declared: MIT
+  5.0.0-rc3:
+    licensed:
+      declared: MIT
+  5.0.0-rc4:
+    licensed:
+      declared: MIT
+  5.0.0-rc5:
+    licensed:
+      declared: MIT
+  5.0.0-rc6:
+    licensed:
+      declared: MIT
+  5.0.0-rc7:
+    licensed:
+      declared: MIT
+  5.0.0-rc8:
+    licensed:
+      declared: MIT
+  5.0.0-rc9:
+    licensed:
+      declared: MIT
+  5.0.1:
+    licensed:
+      declared: MIT
   5.0.2:
+    licensed:
+      declared: MIT
+  5.1.0:
     licensed:
       declared: MIT
   5.1.1:
@@ -19,5 +112,11 @@ revisions:
     licensed:
       declared: MIT
   6.0.0:
+    licensed:
+      declared: MIT
+  6.0.1:
+    licensed:
+      declared: MIT
+  6.1.0:
     licensed:
       declared: MIT
