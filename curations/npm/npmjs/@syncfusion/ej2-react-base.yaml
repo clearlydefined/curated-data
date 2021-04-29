@@ -1,0 +1,9 @@
+coordinates:
+  name: ej2-react-base
+  namespace: '@syncfusion'
+  provider: npmjs
+  type: npm
+revisions:
+  18.4.46:
+    licensed:
+      declared: OTHER OR OTHER

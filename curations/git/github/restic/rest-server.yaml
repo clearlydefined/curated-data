@@ -1,0 +1,9 @@
+coordinates:
+  name: rest-server
+  namespace: restic
+  provider: github
+  type: git
+revisions:
+  0.10.0:
+    licensed:
+      declared: BSD-2-Clause

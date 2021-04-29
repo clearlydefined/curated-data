@@ -12,12 +12,33 @@ revisions:
   0.16.0:
     licensed:
       declared: MIT
+  0.18.0:
+    licensed:
+      declared: MIT
+  0.18.0-beta0081:
+    licensed:
+      declared: MIT
   0.18.0-beta0082:
+    licensed:
+      declared: MIT
+  0.18.0-beta0083:
+    licensed:
+      declared: MIT
+  0.18.0-beta0084:
     licensed:
       declared: MIT
   0.18.1:
     licensed:
       declared: MIT
+  0.18.2:
+    licensed:
+      declared: MIT
   0.18.3:
+    licensed:
+      declared: MIT
+  0.19.0:
+    licensed:
+      declared: MIT
+  0.19.1:
     licensed:
       declared: MIT

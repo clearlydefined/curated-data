@@ -1,0 +1,8 @@
+coordinates:
+  name: SpecRun.SpecFlow.3-7-0
+  provider: nuget
+  type: nuget
+revisions:
+  3.7.3:
+    licensed:
+      declared: OTHER
