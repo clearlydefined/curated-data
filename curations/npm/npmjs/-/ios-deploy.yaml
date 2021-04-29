@@ -1,0 +1,8 @@
+coordinates:
+  name: ios-deploy
+  provider: npmjs
+  type: npm
+revisions:
+  1.8.7:
+    licensed:
+      declared: GPL-3.0-or-later

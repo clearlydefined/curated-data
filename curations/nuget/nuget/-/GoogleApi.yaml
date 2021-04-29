@@ -1,0 +1,8 @@
+coordinates:
+  name: GoogleApi
+  provider: nuget
+  type: nuget
+revisions:
+  3.10.5:
+    licensed:
+      declared: MIT

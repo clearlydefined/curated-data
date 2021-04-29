@@ -1,0 +1,15 @@
+coordinates:
+  name: zxing-android-embedded
+  namespace: com.journeyapps
+  provider: mavencentral
+  type: maven
+revisions:
+  3.3.0:
+    licensed:
+      declared: Apache-2.0
+  3.5.0:
+    licensed:
+      declared: Apache-2.0
+  4.1.0:
+    licensed:
+      declared: Apache-2.0

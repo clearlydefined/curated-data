@@ -1,0 +1,16 @@
+coordinates:
+  name: YACLP
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.46:
+    described:
+      sourceLocation:
+        name: yaclp
+        namespace: uglybugger
+        provider: github
+        revision: d2c7ced03c24db287996ac53119d05d45b1e6ae2
+        type: git
+        url: 'https://github.com/uglybugger/yaclp/commit/d2c7ced03c24db287996ac53119d05d45b1e6ae2'
+    licensed:
+      declared: MIT

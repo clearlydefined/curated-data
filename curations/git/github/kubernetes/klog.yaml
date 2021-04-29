@@ -1,0 +1,9 @@
+coordinates:
+  name: klog
+  namespace: kubernetes
+  provider: github
+  type: git
+revisions:
+  407242c0258f5d907891f8797887b71a1c87e7b4:
+    licensed:
+      declared: Apache-2.0
