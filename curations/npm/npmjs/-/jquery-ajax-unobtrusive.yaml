@@ -1,0 +1,8 @@
+coordinates:
+  name: jquery-ajax-unobtrusive
+  provider: npmjs
+  type: npm
+revisions:
+  3.2.6:
+    licensed:
+      declared: Apache-2.0
