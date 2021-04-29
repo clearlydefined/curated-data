@@ -12,7 +12,16 @@ revisions:
   0.1.27:
     licensed:
       declared: LGPL-2.0 OR MIT
+  0.1.29:
+    licensed:
+      declared: MIT OR LGPL-2.0-only
+  0.1.30:
+    licensed:
+      declared: MIT OR LGPL-2.0-only
   0.1.31:
+    licensed:
+      declared: MIT OR LGPL-2.0-only
+  0.2.0:
     licensed:
       declared: MIT OR LGPL-2.0-only
   0.2.1:
