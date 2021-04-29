@@ -1,0 +1,8 @@
+coordinates:
+  name: combokeys
+  provider: npmjs
+  type: npm
+revisions:
+  2.4.6:
+    licensed:
+      declared: Apache-2.0
