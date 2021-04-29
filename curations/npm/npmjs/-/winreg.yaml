@@ -3,12 +3,69 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.0.10:
+    licensed:
+      declared: BSD-2-Clause
   0.0.12:
     licensed:
       declared: BSD-2-Clause
   0.0.13:
     licensed:
       declared: BSD-2-Clause
+  0.0.14:
+    licensed:
+      declared: BSD-2-Clause
+  0.0.15:
+    licensed:
+      declared: BSD-2-Clause
   0.0.16:
+    licensed:
+      declared: BSD-2-Clause
+  0.0.17:
+    licensed:
+      declared: BSD-2-Clause
+  0.0.18:
+    licensed:
+      declared: BSD-2-Clause
+  0.0.2:
+    licensed:
+      declared: BSD-2-Clause
+  0.0.3:
+    licensed:
+      declared: BSD-2-Clause
+  0.0.4:
+    licensed:
+      declared: BSD-2-Clause
+  0.0.5:
+    licensed:
+      declared: BSD-2-Clause
+  0.0.6:
+    licensed:
+      declared: BSD-2-Clause
+  0.0.7:
+    licensed:
+      declared: BSD-2-Clause
+  0.0.8:
+    licensed:
+      declared: BSD-2-Clause
+  0.0.9:
+    licensed:
+      declared: BSD-2-Clause
+  1.0.0:
+    licensed:
+      declared: BSD-2-Clause
+  1.0.1:
+    licensed:
+      declared: BSD-2-Clause
+  1.1.0:
+    licensed:
+      declared: BSD-2-Clause
+  1.1.1:
+    licensed:
+      declared: BSD-2-Clause
+  1.2.0:
+    licensed:
+      declared: BSD-2-Clause
+  1.2.1:
     licensed:
       declared: BSD-2-Clause
