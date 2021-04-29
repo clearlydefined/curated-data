@@ -1,14 +1,14 @@
 coordinates:
-  name: Microsoft.Data.SqlClient.SNI
+  name: VungleSDK
   provider: nuget
   type: nuget
 revisions:
-  1.0.19235.1:
+  6.8.0:
     licensed:
       declared: OTHER
-  1.1.0:
+  6.7.0:
     licensed:
       declared: OTHER
-  3.0.0-preview1.21104.2:
+  6.5.2:
     licensed:
       declared: OTHER
