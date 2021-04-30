@@ -5,7 +5,7 @@ coordinates:
 revisions:
   4.4.1:
     licensed:
-      declared: CDDL-1.0
+      declared: MIT
   4.6.0:
     licensed:
       declared: MIT
