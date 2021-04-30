@@ -3,6 +3,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.2.5:
+    licensed:
+      declared: NONE
   0.2.6:
     licensed:
       declared: Python-2.0
