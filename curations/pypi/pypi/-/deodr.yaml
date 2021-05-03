@@ -1,0 +1,15 @@
+coordinates:
+  name: deodr
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.19:
+    described:
+      releaseDate: '2021-01-04'
+      sourceLocation:
+        name: deodr
+        namespace: martinresearch
+        provider: github
+        revision: cd59689e56566077e217ac5987fddc71a0914d3f
+        type: git
+        url: 'https://github.com/martinResearch/DEODR/commit/cd59689e56566077e217ac5987fddc71a0914d3f'

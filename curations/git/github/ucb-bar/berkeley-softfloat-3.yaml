@@ -1,0 +1,9 @@
+coordinates:
+  name: berkeley-softfloat-3
+  namespace: ucb-bar
+  provider: github
+  type: git
+revisions:
+  b64af41c3276f97f0e181920400ee056b9c88037:
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,11 @@
+coordinates:
+  name: SpecRun.SpecFlow.3-5-0
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.22:
+    licensed:
+      declared: OTHER
+  3.5.8:
+    licensed:
+      declared: OTHER
