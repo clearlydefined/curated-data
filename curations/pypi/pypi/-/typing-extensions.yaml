@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  3.10.0.0:
+    licensed:
+      declared: Python-2.0
   3.6.5:
     licensed:
       declared: Python-2.0
