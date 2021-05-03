@@ -1,0 +1,8 @@
+coordinates:
+  name: inline-chunk-html-plugin
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.1:
+    licensed:
+      declared: NONE

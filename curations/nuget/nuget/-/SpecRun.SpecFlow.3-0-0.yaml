@@ -1,0 +1,59 @@
+coordinates:
+  name: SpecRun.SpecFlow.3-0-0
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.284:
+    licensed:
+      declared: OTHER
+  3.0.329:
+    licensed:
+      declared: OTHER
+  3.0.337:
+    licensed:
+      declared: OTHER
+  3.0.344:
+    licensed:
+      declared: OTHER
+  3.0.346:
+    licensed:
+      declared: OTHER
+  3.0.347:
+    licensed:
+      declared: OTHER
+  3.0.352:
+    licensed:
+      declared: OTHER
+  3.0.373:
+    licensed:
+      declared: OTHER
+  3.0.377:
+    licensed:
+      declared: OTHER
+  3.0.388:
+    licensed:
+      declared: OTHER
+  3.0.391:
+    licensed:
+      declared: OTHER
+  3.1.12-beta:
+    licensed:
+      declared: OTHER
+  3.1.21-beta:
+    licensed:
+      declared: OTHER
+  3.1.33:
+    licensed:
+      declared: OTHER
+  3.1.36:
+    licensed:
+      declared: OTHER
+  3.1.37:
+    licensed:
+      declared: OTHER
+  3.1.38:
+    licensed:
+      declared: OTHER
+  3.1.41:
+    licensed:
+      declared: OTHER
