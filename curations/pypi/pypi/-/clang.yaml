@@ -11,3 +11,5 @@ revisions:
         path: clang-11.0/clang/cindex.py
       - license: Apache-2.0 WITH LLVM-exception
         path: clang-11.0/clang/enumerations.py
+    licensed:
+      declared: NCSA
