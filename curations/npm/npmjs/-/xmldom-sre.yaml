@@ -5,4 +5,4 @@ coordinates:
 revisions:
   0.1.31:
     licensed:
-      declared: MIT
+      declared: MIT OR LGPL-2.0-only
