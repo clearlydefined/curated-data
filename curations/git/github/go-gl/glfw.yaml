@@ -1,0 +1,9 @@
+coordinates:
+  name: glfw
+  namespace: go-gl
+  provider: github
+  type: git
+revisions:
+  6f7a984d4dc470c3f197229ad1991ae9e211bba2:
+    licensed:
+      declared: BSD-3-Clause
