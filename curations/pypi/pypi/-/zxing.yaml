@@ -3,6 +3,15 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  '0.11':
+    licensed:
+      declared: LGPL-3.0-or-later
   '0.12':
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.9.1:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.9.2:
     licensed:
       declared: LGPL-3.0-or-later
