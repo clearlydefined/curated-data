@@ -1,0 +1,8 @@
+coordinates:
+  name: WixSharp
+  provider: nuget
+  type: nuget
+revisions:
+  1.11.1:
+    licensed:
+      declared: MIT
