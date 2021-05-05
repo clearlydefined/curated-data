@@ -5,4 +5,4 @@ coordinates:
 revisions:
   4.19.18:
     licensed:
-      declared: GPL-2.0-only
+      declared: GPL-2.0-only OR GPL-3.0-ONLY OR OTHER
