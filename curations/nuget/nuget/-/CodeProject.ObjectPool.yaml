@@ -1,0 +1,8 @@
+coordinates:
+  name: CodeProject.ObjectPool
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.2:
+    licensed:
+      declared: MIT
