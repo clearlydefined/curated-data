@@ -1,0 +1,8 @@
+coordinates:
+  name: CSCore.Visualization
+  provider: nuget
+  type: nuget
+revisions:
+  0.8.9:
+    licensed:
+      declared: MS-PL
