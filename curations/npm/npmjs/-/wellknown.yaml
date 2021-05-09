@@ -3,6 +3,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.2.0:
+    licensed:
+      declared: ISC
   0.5.0:
     licensed:
       declared: ISC
