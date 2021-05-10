@@ -5,7 +5,10 @@ coordinates:
 revisions:
   4.1.9:
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-only
   4.6.0:
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-only
+  5.7.1:
+    licensed:
+      declared: LGPL-2.1-only
