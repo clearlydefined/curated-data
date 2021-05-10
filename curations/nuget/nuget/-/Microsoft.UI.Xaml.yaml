@@ -165,6 +165,9 @@ revisions:
   2.6.0-prerelease.210329001:
     licensed:
       declared: OTHER
+  2.6.0-prerelease.210405001:
+    licensed:
+      declared: OTHER
   2.6.0-prerelease.210415001:
     licensed:
       declared: OTHER
