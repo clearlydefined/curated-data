@@ -1,0 +1,9 @@
+coordinates:
+  name: docopt.go
+  namespace: docopt
+  provider: github
+  type: git
+revisions:
+  ee0de3bc6815ee19d4a46c7eb90f829db0e014b1:
+    licensed:
+      declared: MIT
