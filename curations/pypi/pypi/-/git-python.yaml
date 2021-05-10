@@ -1,0 +1,8 @@
+coordinates:
+  name: git-python
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.3:
+    licensed:
+      declared: NONE

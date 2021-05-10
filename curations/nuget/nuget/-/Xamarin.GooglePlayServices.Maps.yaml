@@ -15,6 +15,9 @@ revisions:
   117.0.0-preview03:
     licensed:
       declared: MIT
+  117.0.0-preview04:
+    licensed:
+      declared: MIT
   42.1021.1:
     licensed:
       declared: MIT

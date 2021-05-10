@@ -7,6 +7,9 @@ revisions:
   1.1.10:
     licensed:
       declared: OTHER
+  1.1.40-beta.0:
+    licensed:
+      declared: OTHER
   1.1.8:
     licensed:
       declared: OTHER
