@@ -5,10 +5,13 @@ coordinates:
 revisions:
   16.7.30328.74:
     licensed:
-      declared: Other
+      declared: OTHER
   16.7.30508.193:
     licensed:
       declared: OTHER
   16.8.30705.32:
+    licensed:
+      declared: OTHER
+  16.9.31023.347:
     licensed:
       declared: OTHER
