@@ -279,6 +279,9 @@ revisions:
   18.4.0.31:
     licensed:
       declared: OTHER
+  18.4.0.32:
+    licensed:
+      declared: OTHER
   18.4.0.33:
     licensed:
       declared: OTHER
