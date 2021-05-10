@@ -243,6 +243,9 @@ revisions:
   18.3.0.35:
     licensed:
       declared: OTHER
+  18.3.0.40:
+    licensed:
+      declared: OTHER
   18.3.0.42:
     licensed:
       declared: OTHER
