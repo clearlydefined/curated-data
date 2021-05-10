@@ -1,0 +1,8 @@
+coordinates:
+  name: RazorEngineCore
+  provider: nuget
+  type: nuget
+revisions:
+  2020.5.1:
+    licensed:
+      declared: MIT
