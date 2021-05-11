@@ -1,0 +1,8 @@
+coordinates:
+  name: SharePointPnPCore2016
+  provider: nuget
+  type: nuget
+revisions:
+  3.28.2012:
+    licensed:
+      declared: MIT
