@@ -39,12 +39,6 @@ revisions:
   0.22.2:
     licensed:
       declared: BSD-3-Clause
-  0.22.2.post2:
-    licensed:
-      declared: BSD-3-Clause
-  0.22.2.post3:
-    licensed:
-      declared: BSD-3-Clause
   0.24.1:
     licensed:
       declared: BSD-3-Clause
