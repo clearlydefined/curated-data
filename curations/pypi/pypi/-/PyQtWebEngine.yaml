@@ -1,0 +1,8 @@
+coordinates:
+  name: PyQtWebEngine
+  provider: pypi
+  type: pypi
+revisions:
+  5.12.1:
+    licensed:
+      declared: GPL-3.0-only OR OTHER

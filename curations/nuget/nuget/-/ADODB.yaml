@@ -1,0 +1,8 @@
+coordinates:
+  name: ADODB
+  provider: nuget
+  type: nuget
+revisions:
+  7.10.3077:
+    licensed:
+      declared: NONE

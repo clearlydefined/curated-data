@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Android.ReactiveX.RxJava
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.7:
+    licensed:
+      declared: MIT
