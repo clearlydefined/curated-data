@@ -36,12 +36,15 @@ revisions:
   2.3.0-alpha03:
     licensed:
       declared: MIT
+  2.3.0.1:
+    licensed:
+      declared: MIT
   2.3.0.1-alpha03:
     licensed:
       declared: MIT
   2.3.0.2-alpha03:
     licensed:
       declared: MIT
-  2.3.0.1:
+  2.3.1.1:
     licensed:
       declared: MIT

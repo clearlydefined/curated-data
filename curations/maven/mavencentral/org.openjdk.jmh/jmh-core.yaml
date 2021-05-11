@@ -7,3 +7,6 @@ revisions:
   '1.21':
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.30':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
