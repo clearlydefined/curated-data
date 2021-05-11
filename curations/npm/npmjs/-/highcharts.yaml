@@ -51,3 +51,6 @@ revisions:
   8.2.2:
     licensed:
       declared: OTHER
+  9.0.0:
+    licensed:
+      declared: OTHER
