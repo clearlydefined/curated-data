@@ -1,0 +1,8 @@
+coordinates:
+  name: CefSharp.Wpf
+  provider: nuget
+  type: nuget
+revisions:
+  86.0.241:
+    licensed:
+      declared: BSD-3-Clause
