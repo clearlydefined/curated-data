@@ -58,6 +58,9 @@ revisions:
   4.5.1-dev.202103231059:
     licensed:
       declared: OTHER
+  4.6.0:
+    licensed:
+      declared: OTHER
   4.6.0-dev.202103111153:
     licensed:
       declared: OTHER
