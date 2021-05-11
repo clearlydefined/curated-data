@@ -6,3 +6,6 @@ revisions:
   16.153.0:
     licensed:
       declared: OTHER
+  16.184.0-preview:
+    licensed:
+      declared: OTHER
