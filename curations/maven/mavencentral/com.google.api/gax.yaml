@@ -7,3 +7,6 @@ revisions:
   1.47.1:
     licensed:
       declared: BSD-3-Clause
+  1.64.0:
+    licensed:
+      declared: BSD-3-Clause
