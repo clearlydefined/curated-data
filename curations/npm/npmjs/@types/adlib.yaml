@@ -1,0 +1,9 @@
+coordinates:
+  name: adlib
+  namespace: '@types'
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.1:
+    licensed:
+      declared: MIT AND Apache-2.0
