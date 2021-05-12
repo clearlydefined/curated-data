@@ -5,4 +5,4 @@ coordinates:
 revisions:
   5.28.0.1:
     licensed:
-      declared: GPL-3.0-only
+      declared: GPL-1.0-or-later OR Artistic-1.0-Perl
