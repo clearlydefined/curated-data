@@ -60,3 +60,6 @@ revisions:
   33.1.5:
     licensed:
       declared: MIT
+  33.2.0:
+    licensed:
+      declared: MIT
