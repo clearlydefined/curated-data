@@ -10,3 +10,6 @@ revisions:
   e724bd826580ff95df48a8533af7dec1080693d4:
     licensed:
       declared: Apache-2.0 OR MIT
+  fc2f690fc16592abbead2360cfc0a42f5df78052:
+    licensed:
+      declared: Apache-2.0 OR MIT
