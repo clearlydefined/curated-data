@@ -1,0 +1,9 @@
+coordinates:
+  name: truffle-api
+  namespace: org.graalvm.truffle
+  provider: mavencentral
+  type: maven
+revisions:
+  19.3.0.2:
+    licensed:
+      declared: UPL-1.0
