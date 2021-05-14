@@ -1,0 +1,9 @@
+coordinates:
+  name: js-scriptengine
+  namespace: org.graalvm.js
+  provider: mavencentral
+  type: maven
+revisions:
+  19.3.0.2:
+    licensed:
+      declared: UPL-1.0
