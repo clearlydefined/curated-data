@@ -6,6 +6,9 @@ revisions:
   2.0.0:
     licensed:
       declared: Apache-2.0
+  2.0.0-rc4-build2924:
+    licensed:
+      declared: Apache-2.0
   2.1.0:
     described:
       releaseDate: '2015-09-27'
@@ -18,21 +21,111 @@ revisions:
         url: 'https://github.com/xunit/xunit'
     licensed:
       declared: Apache-2.0
+  2.1.0-beta1-build2945:
+    licensed:
+      declared: Apache-2.0
+  2.1.0-beta2-build2981:
+    licensed:
+      declared: Apache-2.0
+  2.1.0-beta3-build3029:
+    licensed:
+      declared: Apache-2.0
+  2.1.0-beta4-build3109:
+    licensed:
+      declared: Apache-2.0
+  2.1.0-rc1-build3168:
+    licensed:
+      declared: Apache-2.0
+  2.1.0-rc2-build3176:
+    licensed:
+      declared: Apache-2.0
   2.2.0:
+    licensed:
+      declared: Apache-2.0
+  2.2.0-beta1-build3239:
     licensed:
       declared: Apache-2.0
   2.2.0-beta2-build3300:
     licensed:
       declared: Apache-2.0
+  2.2.0-beta3-build3402:
+    licensed:
+      declared: Apache-2.0
+  2.2.0-beta4-build3444:
+    licensed:
+      declared: Apache-2.0
+  2.2.0-beta5-build3474:
+    licensed:
+      declared: Apache-2.0
+  2.2.0-rc1-build3507:
+    licensed:
+      declared: Apache-2.0
+  2.2.0-rc2-build3523:
+    licensed:
+      declared: Apache-2.0
+  2.2.0-rc3-build3528:
+    licensed:
+      declared: Apache-2.0
+  2.2.0-rc4-build3536:
+    licensed:
+      declared: Apache-2.0
+  2.3.0:
+    licensed:
+      declared: Apache-2.0
+  2.3.0-beta1-build3642:
+    licensed:
+      declared: Apache-2.0
+  2.3.0-beta2-build3683:
+    licensed:
+      declared: Apache-2.0
+  2.3.0-beta3-build3705:
+    licensed:
+      declared: Apache-2.0
+  2.3.0-beta4-build3742:
+    licensed:
+      declared: Apache-2.0
+  2.3.0-beta5-build3769:
+    licensed:
+      declared: Apache-2.0
+  2.3.0-rc1-build3809:
+    licensed:
+      declared: Apache-2.0
+  2.3.0-rc2-build3812:
+    licensed:
+      declared: Apache-2.0
+  2.3.0-rc3-build3818:
+    licensed:
+      declared: Apache-2.0
   2.3.1:
     licensed:
       declared: Apache-2.0
+  2.3.1-rc1-build3843:
+    licensed:
+      declared: Apache-2.0
+  2.3.1-rc2-build3844:
+    licensed:
+      declared: Apache-2.0
   2.4.0:
+    licensed:
+      declared: Apache-2.0
+  2.4.0-beta.1.build3958:
+    licensed:
+      declared: Apache-2.0
+  2.4.0-beta.2.build4010:
+    licensed:
+      declared: Apache-2.0
+  2.4.0-rc.1.build4038:
+    licensed:
+      declared: Apache-2.0
+  2.4.0-rc.2.build4045:
     licensed:
       declared: Apache-2.0
   2.4.1:
     licensed:
       declared: Apache-2.0
   2.4.1-pre.build.4059:
+    licensed:
+      declared: Apache-2.0
+  2.4.1-pre.build.4071:
     licensed:
       declared: Apache-2.0
