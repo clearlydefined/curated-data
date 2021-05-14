@@ -153,3 +153,6 @@ revisions:
   0.81.1:
     licensed:
       declared: Apache-2.0
+  0.82.0:
+    licensed:
+      declared: Apache-2.0
