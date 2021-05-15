@@ -12,3 +12,6 @@ revisions:
   7.10.0:
     licensed:
       declared: Apache-2.0
+  8.0.0:
+    licensed:
+      declared: Apache-2.0
