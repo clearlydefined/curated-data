@@ -3,13 +3,133 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.0.0:
+    licensed:
+      declared: MIT
+  2.0.1:
+    licensed:
+      declared: MIT
+  2.0.2:
+    licensed:
+      declared: MIT
+  2.0.4:
+    licensed:
+      declared: MIT
+  2.1.0:
+    licensed:
+      declared: MIT
+  2.2.0:
+    licensed:
+      declared: MIT
+  2.3.0:
+    licensed:
+      declared: MIT
+  2.3.1:
+    licensed:
+      declared: MIT
+  2.4.0:
+    licensed:
+      declared: MIT
+  2.4.1:
+    licensed:
+      declared: MIT
+  2.4.2:
+    licensed:
+      declared: MIT
+  2.5.0:
+    licensed:
+      declared: MIT
+  2.6.0:
+    licensed:
+      declared: MIT
+  2.6.1:
+    licensed:
+      declared: MIT
   2.6.2:
+    licensed:
+      declared: MIT
+  2.6.3:
+    licensed:
+      declared: MIT
+  3.0.0-alpha01:
+    licensed:
+      declared: MIT
+  3.0.0-alpha02:
+    licensed:
+      declared: MIT
+  3.0.0-beta01:
+    licensed:
+      declared: MIT
+  3.0.0-rc014:
+    licensed:
+      declared: MIT
+  3.0.0-rc017:
+    licensed:
+      declared: MIT
+  3.0.1:
     licensed:
       declared: MIT
   3.0.2:
     licensed:
       declared: MIT
+  3.1.0:
+    licensed:
+      declared: MIT
   3.1.1:
+    licensed:
+      declared: MIT
+  3.1.2-alpha100:
+    licensed:
+      declared: MIT
+  3.1.2-alpha103:
+    licensed:
+      declared: MIT
+  3.1.2-beta105:
+    licensed:
+      declared: MIT
+  3.1.2-beta107:
+    licensed:
+      declared: MIT
+  3.1.2-beta109:
+    licensed:
+      declared: MIT
+  4.0.0:
+    licensed:
+      declared: MIT
+  4.0.0-ci120:
+    licensed:
+      declared: MIT
+  4.0.0-ci121:
+    licensed:
+      declared: MIT
+  4.0.0-ci124:
+    licensed:
+      declared: MIT
+  4.0.0-ci126:
+    licensed:
+      declared: MIT
+  4.0.0-ci130:
+    licensed:
+      declared: MIT
+  4.0.0-ci133:
+    licensed:
+      declared: MIT
+  4.0.0-ci136:
+    licensed:
+      declared: MIT
+  4.0.0-ci140:
+    licensed:
+      declared: MIT
+  4.0.0-ci141:
+    licensed:
+      declared: MIT
+  4.0.0-ci144:
+    licensed:
+      declared: MIT
+  4.0.0-ci145:
+    licensed:
+      declared: MIT
+  4.0.0-ci147:
     licensed:
       declared: MIT
   4.0.1:
@@ -18,6 +138,24 @@ revisions:
   4.1.0-ci184:
     licensed:
       declared: MIT
+  4.1.0-ci217:
+    licensed:
+      declared: MIT
   4.2.0:
+    licensed:
+      declared: MIT
+  4.2.0-ci259:
+    licensed:
+      declared: MIT
+  4.2.0-ci268:
+    licensed:
+      declared: MIT
+  4.2.0-ci272:
+    licensed:
+      declared: MIT
+  4.2.0-ci281:
+    licensed:
+      declared: MIT
+  4.2.0-ci284:
     licensed:
       declared: MIT

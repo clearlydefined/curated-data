@@ -3,10 +3,79 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  2.0.0beta:
+    licensed:
+      declared: Apache-2.0
+  2.0.3:
+    licensed:
+      declared: BSD-3-Clause
+  2.3.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.4.1:
+    licensed:
+      declared: BSD-3-Clause
+  2.5.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.6.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.6.1:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0a2:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0a3:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0b1:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0b1.post1:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0b1.post2:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0b2:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0b2.post1:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0b2.post2:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0b3:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0b4:
+    licensed:
+      declared: BSD-3-Clause
+  3.1.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.1.0.post1:
+    licensed:
+      declared: BSD-3-Clause
   3.10.0:
     licensed:
       declared: BSD-3-Clause
+  3.10.0rc1:
+    licensed:
+      declared: BSD-3-Clause
   3.11.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.11.0rc1:
+    licensed:
+      declared: BSD-3-Clause
+  3.11.0rc2:
     licensed:
       declared: BSD-3-Clause
   3.11.1:
@@ -21,6 +90,12 @@ revisions:
   3.12.0:
     licensed:
       declared: BSD-3-Clause
+  3.12.0rc1:
+    licensed:
+      declared: BSD-3-Clause
+  3.12.0rc2:
+    licensed:
+      declared: BSD-3-Clause
   3.12.1:
     licensed:
       declared: BSD-3-Clause
@@ -33,7 +108,19 @@ revisions:
   3.13.0:
     licensed:
       declared: BSD-3-Clause
+  3.13.0rc3:
+    licensed:
+      declared: BSD-3-Clause
   3.14.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.14.0rc1:
+    licensed:
+      declared: BSD-3-Clause
+  3.14.0rc2:
+    licensed:
+      declared: BSD-3-Clause
+  3.14.0rc3:
     licensed:
       declared: BSD-3-Clause
   3.15.0:
@@ -54,6 +141,9 @@ revisions:
   3.15.3:
     licensed:
       declared: BSD-3-Clause
+  3.15.4:
+    licensed:
+      declared: BSD-3-Clause
   3.15.5:
     licensed:
       declared: BSD-3-Clause
@@ -66,16 +156,52 @@ revisions:
   3.15.8:
     licensed:
       declared: BSD-3-Clause
+  3.2.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.2.0rc1:
+    licensed:
+      declared: BSD-3-Clause
+  3.2.0rc1.post1:
+    licensed:
+      declared: BSD-3-Clause
+  3.2.0rc2:
+    licensed:
+      declared: BSD-3-Clause
+  3.3.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.4.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.5.0.post1:
+    licensed:
+      declared: BSD-3-Clause
   3.16.0rc1:
     licensed:
       declared: BSD-3-Clause
   3.5.1:
     licensed:
       declared: BSD-3-Clause
+  3.5.2:
+    licensed:
+      declared: BSD-3-Clause
+  3.5.2.post1:
+    licensed:
+      declared: BSD-3-Clause
   3.6.0:
     licensed:
       declared: BSD-3-Clause
   3.6.1:
+    licensed:
+      declared: BSD-3-Clause
+  3.7.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.7.0rc2:
+    licensed:
+      declared: BSD-3-Clause
+  3.7.0rc3:
     licensed:
       declared: BSD-3-Clause
   3.7.1:
@@ -88,6 +214,9 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   3.9.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.9.0rc1:
     licensed:
       declared: BSD-3-Clause
   3.9.1:

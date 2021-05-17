@@ -11,4 +11,7 @@ revisions:
       declared: OTHER
   88.0.705.56:
     licensed:
-      declared: NONE
+      declared: OTHER
+  90.0.818.42:
+    licensed:
+      declared: OTHER

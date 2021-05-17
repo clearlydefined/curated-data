@@ -1,0 +1,12 @@
+coordinates:
+  name: mockito-inline
+  namespace: org.mockito
+  provider: mavencentral
+  type: maven
+revisions:
+  3.10.0:
+    licensed:
+      declared: MIT
+  3.9.0:
+    licensed:
+      declared: MIT

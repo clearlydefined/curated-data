@@ -3,12 +3,45 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  117.1.0-preview01:
+    licensed:
+      declared: MIT
+  117.1.0-preview04:
+    licensed:
+      declared: MIT
   42.1021.1:
     licensed:
       declared: MIT
   60.1142.1:
     licensed:
       declared: MIT
+  71.1601.0-preview3:
+    licensed:
+      declared: MIT
+  71.1601.0-preview4:
+    licensed:
+      declared: MIT
+  71.1601.0-preview5:
+    licensed:
+      declared: MIT
+  71.1601.0-preview6:
+    licensed:
+      declared: MIT
+  71.1601.0-preview7:
+    licensed:
+      declared: MIT
   71.1610.0:
+    licensed:
+      declared: MIT
+  71.1610.0-preview8:
+    licensed:
+      declared: MIT
+  71.1610.0-preview9:
+    licensed:
+      declared: MIT
+  71.1610.1:
+    licensed:
+      declared: MIT
+  71.1610.4:
     licensed:
       declared: MIT

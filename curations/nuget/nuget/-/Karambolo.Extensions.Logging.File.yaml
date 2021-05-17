@@ -1,0 +1,8 @@
+coordinates:
+  name: Karambolo.Extensions.Logging.File
+  provider: nuget
+  type: nuget
+revisions:
+  3.1.1:
+    licensed:
+      declared: MIT

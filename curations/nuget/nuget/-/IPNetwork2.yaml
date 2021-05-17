@@ -15,7 +15,25 @@ revisions:
   2.1.2:
     licensed:
       declared: BSD-2-Clause
+  2.2.0:
+    licensed:
+      declared: BSD-2-Clause
   2.2.0.78:
+    licensed:
+      declared: BSD-2-Clause
+  2.2.0.86:
+    licensed:
+      declared: BSD-2-Clause
+  2.2.0.87:
+    licensed:
+      declared: BSD-2-Clause
+  2.2.0.89:
+    licensed:
+      declared: BSD-2-Clause
+  2.2.0.90:
+    licensed:
+      declared: BSD-2-Clause
+  2.2.0.92:
     licensed:
       declared: BSD-2-Clause
   2.2.0.94:
@@ -24,19 +42,148 @@ revisions:
   2.3.0.97:
     licensed:
       declared: BSD-2-Clause
+  2.4.0.107:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.108:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.110:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.111:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.112:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.113:
+    licensed:
+      declared: BSD-2-Clause
   2.4.0.114:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.117:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.119:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.122:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.124:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.126:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.130:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.133:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.139:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.141:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.142:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.147:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.153:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.155:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.158:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.159:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.162:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.163:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.168:
     licensed:
       declared: BSD-2-Clause
   2.4.0.169:
     licensed:
       declared: BSD-2-Clause
+  2.4.0.171:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.172:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.173:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.178:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.182:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.185:
+    licensed:
+      declared: BSD-2-Clause
   2.4.0.187:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.188:
+    licensed:
+      declared: BSD-2-Clause
+  2.4.0.99:
     licensed:
       declared: BSD-2-Clause
   2.5.189:
     licensed:
       declared: BSD-2-Clause
+  2.5.192:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.194:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.197:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.200:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.202:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.205:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.206:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.209:
+    licensed:
+      declared: BSD-2-Clause
   2.5.211:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.220:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.221:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.223:
     licensed:
       declared: BSD-2-Clause
   2.5.224:
@@ -45,7 +192,19 @@ revisions:
   2.5.226:
     licensed:
       declared: BSD-2-Clause
+  2.5.231:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.232:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.233:
+    licensed:
+      declared: BSD-2-Clause
   2.5.235:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.238:
     licensed:
       declared: BSD-2-Clause
   2.5.240:
@@ -57,12 +216,84 @@ revisions:
   2.5.250:
     licensed:
       declared: BSD-2-Clause
+  2.5.257:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.258:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.259:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.260:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.261:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.262:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.264:
+    licensed:
+      declared: BSD-2-Clause
   2.5.265:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.270:
     licensed:
       declared: BSD-2-Clause
   2.5.271:
     licensed:
       declared: BSD-2-Clause
+  2.5.274:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.279:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.280:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.283:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.287:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.288:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.290:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.292:
+    licensed:
+      declared: BSD-2-Clause
   2.5.293:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.296:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.298:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.300:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.302:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.303:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.305:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.306:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.307:
     licensed:
       declared: BSD-2-Clause
