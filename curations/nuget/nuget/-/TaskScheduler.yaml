@@ -3,7 +3,187 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.6.0:
+    licensed:
+      declared: MIT
+  1.6.1:
+    licensed:
+      declared: MIT
+  1.6.2:
+    licensed:
+      declared: MIT
+  1.6.3:
+    licensed:
+      declared: MIT
+  1.7.0:
+    licensed:
+      declared: MIT
+  1.7.1:
+    licensed:
+      declared: MIT
+  1.8.0:
+    licensed:
+      declared: MIT
+  1.8.1:
+    licensed:
+      declared: MIT
+  1.8.2:
+    licensed:
+      declared: MIT
+  1.8.3:
+    licensed:
+      declared: MIT
+  1.9.0:
+    licensed:
+      declared: MIT
+  1.9.1:
+    licensed:
+      declared: MIT
+  1.9.2:
+    licensed:
+      declared: MIT
+  1.9.3:
+    licensed:
+      declared: MIT
+  1.9.4:
+    licensed:
+      declared: MIT
+  2.0.0:
+    licensed:
+      declared: MIT
+  2.0.1:
+    licensed:
+      declared: MIT
+  2.0.2:
+    licensed:
+      declared: MIT
+  2.0.3:
+    licensed:
+      declared: MIT
+  2.1.0:
+    licensed:
+      declared: MIT
+  2.1.1:
+    licensed:
+      declared: MIT
+  2.2.0:
+    licensed:
+      declared: MIT
+  2.2.1:
+    licensed:
+      declared: MIT
+  2.2.2:
+    licensed:
+      declared: MIT
+  2.3.0:
+    licensed:
+      declared: MIT
+  2.3.1:
+    licensed:
+      declared: MIT
+  2.3.2:
+    licensed:
+      declared: MIT
+  2.3.3:
+    licensed:
+      declared: MIT
+  2.3.4:
+    licensed:
+      declared: MIT
+  2.4.0:
+    licensed:
+      declared: MIT
+  2.4.2:
+    licensed:
+      declared: MIT
+  2.5.0:
+    licensed:
+      declared: MIT
+  2.5.1:
+    licensed:
+      declared: MIT
+  2.5.10:
+    licensed:
+      declared: MIT
+  2.5.11:
+    licensed:
+      declared: MIT
+  2.5.12:
+    licensed:
+      declared: MIT
+  2.5.13:
+    licensed:
+      declared: MIT
+  2.5.14:
+    licensed:
+      declared: MIT
+  2.5.15:
+    licensed:
+      declared: MIT
   2.5.16:
+    licensed:
+      declared: MIT
+  2.5.17:
+    licensed:
+      declared: MIT
+  2.5.18:
+    licensed:
+      declared: MIT
+  2.5.19:
+    licensed:
+      declared: MIT
+  2.5.2:
+    licensed:
+      declared: MIT
+  2.5.20:
+    licensed:
+      declared: MIT
+  2.5.21:
+    licensed:
+      declared: MIT
+  2.5.22:
+    licensed:
+      declared: MIT
+  2.5.23:
+    licensed:
+      declared: MIT
+  2.5.24:
+    licensed:
+      declared: MIT
+  2.5.25:
+    licensed:
+      declared: MIT
+  2.5.26:
+    licensed:
+      declared: MIT
+  2.5.27:
+    licensed:
+      declared: MIT
+  2.5.28:
+    licensed:
+      declared: MIT
+  2.5.3:
+    licensed:
+      declared: MIT
+  2.5.4:
+    licensed:
+      declared: MIT
+  2.5.5:
+    licensed:
+      declared: MIT
+  2.5.6:
+    licensed:
+      declared: MIT
+  2.5.7:
+    licensed:
+      declared: MIT
+  2.5.8:
+    licensed:
+      declared: MIT
+  2.5.9:
+    licensed:
+      declared: MIT
+  2.6.0:
     licensed:
       declared: MIT
   2.7.2:
