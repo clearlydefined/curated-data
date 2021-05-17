@@ -1,0 +1,9 @@
+coordinates:
+  name: mbedtls
+  namespace: armmbed
+  provider: github
+  type: git
+revisions:
+  523f0554b6cdc7ace5d360885c3f5bbcc73ec0e8:
+    licensed:
+      declared: Apache-2.0
