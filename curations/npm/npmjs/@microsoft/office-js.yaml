@@ -7,6 +7,537 @@ revisions:
   1.1.10:
     licensed:
       declared: OTHER
+  1.1.11:
+    licensed:
+      declared: OTHER
+  1.1.11-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.11-beta.1:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.1:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.10:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.11:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.12:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.13:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.14:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.15:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.16:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.17:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.18:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.19:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.2:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.20:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.21:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.22:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.23:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.24:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.25:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.26:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.27:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.28:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.29:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.3:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.30:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.31:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.32:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.33:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.34:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.35:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.36:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.37:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.4:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.5:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.6:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.7:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.8:
+    licensed:
+      declared: OTHER
+  1.1.11-custom.9:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.14:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.15:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.16:
+    licensed:
+      declared: OTHER
+  1.1.12:
+    licensed:
+      declared: OTHER
+  1.1.12-custom.0:
+    licensed:
+      declared: OTHER
+  1.1.12-custom.1:
+    licensed:
+      declared: OTHER
+  1.1.12-custom.10:
+    licensed:
+      declared: OTHER
+  1.1.12-custom.2:
+    licensed:
+      declared: OTHER
+  1.1.12-custom.3:
+    licensed:
+      declared: OTHER
+  1.1.12-custom.4:
+    licensed:
+      declared: OTHER
+  1.1.12-custom.5:
+    licensed:
+      declared: OTHER
+  1.1.12-custom.6:
+    licensed:
+      declared: OTHER
+  1.1.12-custom.7:
+    licensed:
+      declared: OTHER
+  1.1.12-custom.8:
+    licensed:
+      declared: OTHER
+  1.1.12-custom.9:
+    licensed:
+      declared: OTHER
+  1.1.13:
+    licensed:
+      declared: OTHER
+  1.1.14:
+    licensed:
+      declared: OTHER
+  1.1.14-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.14-beta.1:
+    licensed:
+      declared: OTHER
+  1.1.14-custom.0:
+    licensed:
+      declared: OTHER
+  1.1.14-custom.1:
+    licensed:
+      declared: OTHER
+  1.1.14-custom.2:
+    licensed:
+      declared: OTHER
+  1.1.15:
+    licensed:
+      declared: OTHER
+  1.1.15-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.16:
+    licensed:
+      declared: OTHER
+  1.1.16-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.17:
+    licensed:
+      declared: OTHER
+  1.1.18:
+    licensed:
+      declared: OTHER
+  1.1.19:
+    licensed:
+      declared: OTHER
+  1.1.19-custom.0:
+    licensed:
+      declared: OTHER
+  1.1.20:
+    licensed:
+      declared: OTHER
+  1.1.20-custom.0:
+    licensed:
+      declared: OTHER
+  1.1.21:
+    licensed:
+      declared: OTHER
+  1.1.22:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.0:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.1:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.10:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.11:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.2:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.3:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.4:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.5:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.6:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.7:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.8:
+    licensed:
+      declared: OTHER
+  1.1.22-custom.9:
+    licensed:
+      declared: OTHER
+  1.1.23:
+    licensed:
+      declared: OTHER
+  1.1.24:
+    licensed:
+      declared: OTHER
+  1.1.24-custom.0:
+    licensed:
+      declared: OTHER
+  1.1.24-custom.1:
+    licensed:
+      declared: OTHER
+  1.1.24-custom.2:
+    licensed:
+      declared: OTHER
+  1.1.24-custom.3:
+    licensed:
+      declared: OTHER
+  1.1.24-custom.4:
+    licensed:
+      declared: OTHER
+  1.1.25:
+    licensed:
+      declared: OTHER
+  1.1.26:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.0:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.1:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.10:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.11:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.12:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.13:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.14:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.15:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.16:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.17:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.18:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.19:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.2:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.20:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.21:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.22:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.23:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.24:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.25:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.3:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.4:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.5:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.6:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.7:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.8:
+    licensed:
+      declared: OTHER
+  1.1.26-custom.9:
+    licensed:
+      declared: OTHER
+  1.1.27:
+    licensed:
+      declared: OTHER
+  1.1.27-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.27-custom.0:
+    licensed:
+      declared: OTHER
+  1.1.27-custom.1:
+    licensed:
+      declared: OTHER
+  1.1.27-custom.2:
+    licensed:
+      declared: OTHER
+  1.1.27-custom.3:
+    licensed:
+      declared: OTHER
+  1.1.28:
+    licensed:
+      declared: OTHER
+  1.1.29:
+    licensed:
+      declared: OTHER
+  1.1.30-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.32:
+    licensed:
+      declared: OTHER
+  1.1.33-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.34:
+    licensed:
+      declared: OTHER
+  1.1.36:
+    licensed:
+      declared: OTHER
+  1.1.36-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.38:
+    licensed:
+      declared: OTHER
+  1.1.39-beta.2:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.1:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.16:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.21:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.23:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.24:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.26:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.28:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.30:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.31:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.32:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.36:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.4:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.40:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.44:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.5:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.52:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.54:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.55:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.56:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.57:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.58:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.59:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.6:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.63:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.66:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.76:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.80:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.82:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.84:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.98:
+    licensed:
+      declared: OTHER
+  1.1.39-custom.99:
+    licensed:
+      declared: OTHER
+  1.1.40:
+    licensed:
+      declared: OTHER
+  1.1.40-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.42:
+    licensed:
+      declared: OTHER
+  1.1.43:
+    licensed:
+      declared: OTHER
+  1.1.44-custom.14:
+    licensed:
+      declared: OTHER
+  1.1.45:
+    licensed:
+      declared: OTHER
+  1.1.46:
+    licensed:
+      declared: OTHER
+  1.1.48:
+    licensed:
+      declared: OTHER
+  1.1.51:
+    licensed:
+      declared: OTHER
   1.1.8:
     licensed:
       declared: OTHER

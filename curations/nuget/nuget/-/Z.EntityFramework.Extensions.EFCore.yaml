@@ -3,12 +3,102 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.7.65:
+    licensed:
+      declared: OTHER
+  2.7.66:
+    licensed:
+      declared: OTHER
+  2.7.67:
+    licensed:
+      declared: OTHER
+  2.7.68:
+    licensed:
+      declared: OTHER
+  3.0.100:
+    licensed:
+      declared: OTHER
+  3.0.65:
+    licensed:
+      declared: OTHER
+  3.0.66:
+    licensed:
+      declared: OTHER
+  3.0.67:
+    licensed:
+      declared: OTHER
+  3.0.68:
+    licensed:
+      declared: OTHER
+  3.0.72:
+    licensed:
+      declared: OTHER
+  3.0.78:
+    licensed:
+      declared: OTHER
+  3.0.79:
+    licensed:
+      declared: OTHER
+  3.0.86:
+    licensed:
+      declared: OTHER
+  3.0.87:
+    licensed:
+      declared: OTHER
+  3.0.89:
+    licensed:
+      declared: OTHER
+  3.0.92:
+    licensed:
+      declared: OTHER
+  3.0.97:
+    licensed:
+      declared: OTHER
+  3.1.0:
+    licensed:
+      declared: OTHER
+  3.1.12:
+    licensed:
+      declared: OTHER
+  3.1.13:
+    licensed:
+      declared: OTHER
   3.1.19:
+    licensed:
+      declared: OTHER
+  3.1.25:
+    licensed:
+      declared: OTHER
+  3.1.3:
+    licensed:
+      declared: OTHER
+  3.1.35:
     licensed:
       declared: OTHER
   3.1.5:
     licensed:
       declared: OTHER
+  3.1.8:
+    licensed:
+      declared: OTHER
+  5.0.0-preview.3.20181.2-01:
+    licensed:
+      declared: OTHER
+  5.0.0-rc.2.20475.6-03:
+    licensed:
+      declared: OTHER
+  5.1.13:
+    licensed:
+      declared: OTHER
+  5.1.19:
+    licensed:
+      declared: OTHER
   5.1.33:
+    licensed:
+      declared: OTHER
+  5.1.34:
+    licensed:
+      declared: OTHER
+  5.1.5:
     licensed:
       declared: OTHER
