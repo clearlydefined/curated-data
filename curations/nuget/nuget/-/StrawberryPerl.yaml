@@ -1,0 +1,14 @@
+coordinates:
+  name: StrawberryPerl
+  provider: nuget
+  type: nuget
+revisions:
+  5.24.4.1:
+    licensed:
+      declared: GPL-1.0-or-later OR Artistic-1.0-Perl
+  5.26.2.1:
+    licensed:
+      declared: GPL-1.0-or-later OR Artistic-1.0-Perl
+  5.28.0.1:
+    licensed:
+      declared: GPL-1.0-or-later OR Artistic-1.0-Perl

@@ -1,0 +1,9 @@
+coordinates:
+  name: property_tree
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  bdfe275d172ac30bc5e89a6375a5a64dea20b3c0:
+    licensed:
+      declared: BSL-1.0
