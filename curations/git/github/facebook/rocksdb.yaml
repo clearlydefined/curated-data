@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  09c7e96eac1ab983f97ce9e0406730b8014b3398:
+    licensed:
+      declared: Apache-2.0 OR GPL-2.0-only
   27e593fbe10efa5a562ca79b1939ffb69d25163f:
     licensed:
       declared: Apache-2.0 OR GPL-2.0-only
@@ -30,3 +33,6 @@ revisions:
   c2ca7a9f99ac972bb547ef940b0da05da2c4c02d:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  e3169e3ea8762d2f34880742106858a23c8dc8b7:
+    licensed:
+      declared: Apache-2.0 OR GPL-2.0-only
