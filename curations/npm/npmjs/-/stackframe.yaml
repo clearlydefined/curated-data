@@ -6,3 +6,6 @@ revisions:
   0.3.1:
     licensed:
       declared: Unlicense
+  1.0.0:
+    licensed:
+      declared: Unlicense
