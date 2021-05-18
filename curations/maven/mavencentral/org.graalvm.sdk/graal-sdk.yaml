@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  19.3.0.2:
+    licensed:
+      declared: UPL-1.0
   20.1.0:
     licensed:
       declared: UPL-1.0
