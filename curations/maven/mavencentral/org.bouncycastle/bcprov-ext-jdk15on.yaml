@@ -4,9 +4,36 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '1.58':
+    licensed:
+      declared: MIT
+  '1.59':
+    licensed:
+      declared: MIT
+  '1.60':
+    licensed:
+      declared: MIT
   '1.61':
     licensed:
       declared: MIT
+  '1.62':
+    licensed:
+      declared: MIT
+  '1.63':
+    licensed:
+      declared: MIT
   '1.64':
+    licensed:
+      declared: MIT
+  '1.65':
+    licensed:
+      declared: MIT
+  '1.66':
+    licensed:
+      declared: MIT
+  '1.67':
+    licensed:
+      declared: MIT
+  '1.68':
     licensed:
       declared: MIT
