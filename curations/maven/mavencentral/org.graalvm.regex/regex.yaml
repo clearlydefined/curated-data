@@ -1,0 +1,18 @@
+coordinates:
+  name: regex
+  namespace: org.graalvm.regex
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0-rc15:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  19.3.0.2:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  20.0.0:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  20.1.0:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
