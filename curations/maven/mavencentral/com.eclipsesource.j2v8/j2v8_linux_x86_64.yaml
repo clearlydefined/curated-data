@@ -1,0 +1,9 @@
+coordinates:
+  name: j2v8_linux_x86_64
+  namespace: com.eclipsesource.j2v8
+  provider: mavencentral
+  type: maven
+revisions:
+  4.8.0:
+    licensed:
+      declared: EPL-1.0
