@@ -1887,6 +1887,9 @@ revisions:
   1.3.72:
     licensed:
       declared: ISC
+  1.3.729:
+    licensed:
+      declared: ISC
   1.3.73:
     licensed:
       declared: ISC
