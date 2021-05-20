@@ -3,12 +3,51 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.1.10:
+    licensed:
+      declared: Apache-2.0
+  0.1.11:
+    licensed:
+      declared: Apache-2.0
+  0.1.12:
+    licensed:
+      declared: Apache-2.0
   0.1.15:
+    licensed:
+      declared: Apache-2.0
+  0.1.16:
+    licensed:
+      declared: Apache-2.0
+  0.1.17:
+    licensed:
+      declared: Apache-2.0
+  0.1.18:
+    licensed:
+      declared: Apache-2.0
+  0.1.19:
+    licensed:
+      declared: Apache-2.0
+  0.1.20:
+    licensed:
+      declared: Apache-2.0
+  0.1.21:
     licensed:
       declared: Apache-2.0
   0.1.22:
     licensed:
       declared: Apache-2.0
-  0.1.16:
+  0.1.4:
+    licensed:
+      declared: Apache-2.0
+  0.1.5:
+    licensed:
+      declared: Apache-2.0
+  0.1.6:
+    licensed:
+      declared: Apache-2.0
+  0.1.8:
+    licensed:
+      declared: Apache-2.0
+  2.0.0-pre:
     licensed:
       declared: Apache-2.0
