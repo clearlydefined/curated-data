@@ -25,6 +25,9 @@ revisions:
   1.12.1:
     licensed:
       declared: OTHER
+  1.12.1-rc.3:
+    licensed:
+      declared: OTHER
   1.2.0:
     licensed:
       declared: OTHER
