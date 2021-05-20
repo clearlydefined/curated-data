@@ -3,7 +3,16 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.1.0:
+    licensed:
+      declared: MPL-2.0
+  0.2.1:
+    licensed:
+      declared: MPL-2.0
   0.2.3:
+    licensed:
+      declared: MPL-2.0
+  0.3.0:
     licensed:
       declared: MPL-2.0
   0.3.1:
