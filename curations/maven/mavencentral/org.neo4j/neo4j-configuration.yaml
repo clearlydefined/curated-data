@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  3.4.13:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER
   3.5.26:
     licensed:
       declared: GPL-3.0-or-later OR OTHER
