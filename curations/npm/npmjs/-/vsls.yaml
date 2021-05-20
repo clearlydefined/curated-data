@@ -30,3 +30,6 @@ revisions:
         path: package/LICENSE.txt
     licensed:
       declared: OTHER
+  1.0.3015:
+    licensed:
+      declared: OTHER
