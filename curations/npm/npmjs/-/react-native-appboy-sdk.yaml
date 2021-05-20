@@ -6,9 +6,24 @@ revisions:
   1.10.0:
     licensed:
       declared: NOASSERTION
+  1.11.0:
+    licensed:
+      declared: NOASSERTION
   1.17.3:
     licensed:
       declared: OTHER
   1.26.0:
     licensed:
       declared: OTHER
+  1.5.0:
+    licensed:
+      declared: NOASSERTION
+  1.5.1:
+    licensed:
+      declared: NOASSERTION
+  1.5.2:
+    licensed:
+      declared: NOASSERTION
+  1.6.0:
+    licensed:
+      declared: NOASSERTION
