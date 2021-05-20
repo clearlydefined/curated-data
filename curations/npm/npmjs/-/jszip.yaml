@@ -3,6 +3,27 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  2.0.0:
+    licensed:
+      declared: MIT OR GPL-3.0-only
+  2.1.0:
+    licensed:
+      declared: MIT OR GPL-3.0-only
+  2.1.1:
+    licensed:
+      declared: MIT OR GPL-3.0-only
+  2.2.0:
+    licensed:
+      declared: MIT OR GPL-3.0-only
+  2.2.1:
+    licensed:
+      declared: MIT OR GPL-3.0-only
+  2.2.2:
+    licensed:
+      declared: MIT OR GPL-3.0-only
+  2.3.0:
+    licensed:
+      declared: MIT OR GPL-3.0-only
   2.4.0:
     licensed:
       declared: MIT OR GPL-3.0-only
