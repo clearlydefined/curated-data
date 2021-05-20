@@ -4,10 +4,469 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.1.0-alpha.1:
+    licensed:
+      declared: OTHER
+  0.1.0-beta.7:
+    licensed:
+      declared: OTHER
+  0.1.0-beta.9:
+    licensed:
+      declared: OTHER
+  1.1.0:
+    licensed:
+      declared: OTHER
+  1.1.1:
+    licensed:
+      declared: OTHER
+  1.1.1-alpha.0:
+    licensed:
+      declared: OTHER
+  1.1.1-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.1-next-prerelease.1:
+    licensed:
+      declared: OTHER
+  1.1.1-next-prerelease.2:
+    licensed:
+      declared: OTHER
+  1.1.1-next-prerelease.4:
+    licensed:
+      declared: OTHER
+  1.1.1-next-prerelease.5:
+    licensed:
+      declared: OTHER
+  1.1.1-next-prerelease.6:
+    licensed:
+      declared: OTHER
+  1.1.1-private.1:
+    licensed:
+      declared: OTHER
   1.1.10:
     licensed:
       declared: OTHER
   1.1.11:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.0:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.1:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.10:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.100:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.101:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.102:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.103:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.104:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.105:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.106:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.107:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.108:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.109:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.11:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.110:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.111:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.112:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.113:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.114:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.115:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.116:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.117:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.118:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.119:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.12:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.120:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.121:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.122:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.123:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.124:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.125:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.126:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.127:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.128:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.129:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.13:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.130:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.131:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.132:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.133:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.134:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.135:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.136:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.137:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.138:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.139:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.14:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.15:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.16:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.17:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.18:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.19:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.2:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.20:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.21:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.22:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.23:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.24:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.25:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.26:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.27:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.28:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.29:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.3:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.30:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.31:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.32:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.33:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.34:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.35:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.36:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.37:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.38:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.39:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.4:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.40:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.41:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.42:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.43:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.44:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.45:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.46:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.47:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.48:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.49:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.5:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.50:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.51:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.52:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.53:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.54:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.55:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.56:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.57:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.58:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.59:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.6:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.60:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.61:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.62:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.63:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.64:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.65:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.66:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.67:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.68:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.69:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.7:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.70:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.71:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.72:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.73:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.74:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.75:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.76:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.77:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.78:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.79:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.8:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.80:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.81:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.82:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.83:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.84:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.85:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.86:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.87:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.88:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.89:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.9:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.90:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.91:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.92:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.93:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.94:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.95:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.96:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.97:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.98:
+    licensed:
+      declared: OTHER
+  1.1.11-adhoc.99:
     licensed:
       declared: OTHER
   1.1.11-beta.0:
@@ -127,6 +586,30 @@ revisions:
   1.1.11-custom.9:
     licensed:
       declared: OTHER
+  1.1.11-operational-error.0:
+    licensed:
+      declared: OTHER
+  1.1.11-operational-error.1:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.0:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.1:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.10:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.11:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.12:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.13:
+    licensed:
+      declared: OTHER
   1.1.11-operational.14:
     licensed:
       declared: OTHER
@@ -134,6 +617,30 @@ revisions:
     licensed:
       declared: OTHER
   1.1.11-operational.16:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.2:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.3:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.4:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.5:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.6:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.7:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.8:
+    licensed:
+      declared: OTHER
+  1.1.11-operational.9:
     licensed:
       declared: OTHER
   1.1.12:
@@ -215,6 +722,36 @@ revisions:
     licensed:
       declared: OTHER
   1.1.19-custom.0:
+    licensed:
+      declared: OTHER
+  1.1.2:
+    licensed:
+      declared: OTHER
+  1.1.2-beta-next.0:
+    licensed:
+      declared: OTHER
+  1.1.2-private.0:
+    licensed:
+      declared: OTHER
+  1.1.2-private.2:
+    licensed:
+      declared: OTHER
+  1.1.2-private.21:
+    licensed:
+      declared: OTHER
+  1.1.2-private.22:
+    licensed:
+      declared: OTHER
+  1.1.2-private.23:
+    licensed:
+      declared: OTHER
+  1.1.2-private.3:
+    licensed:
+      declared: OTHER
+  1.1.2-private.4:
+    licensed:
+      declared: OTHER
+  1.1.2-release-next.0:
     licensed:
       declared: OTHER
   1.1.20:
@@ -394,6 +931,78 @@ revisions:
   1.1.29:
     licensed:
       declared: OTHER
+  1.1.3-adhoc.0:
+    licensed:
+      declared: OTHER
+  1.1.3-adhoc.1:
+    licensed:
+      declared: OTHER
+  1.1.3-adhoc.2:
+    licensed:
+      declared: OTHER
+  1.1.3-adhoc.3:
+    licensed:
+      declared: OTHER
+  1.1.3-adhoc.4:
+    licensed:
+      declared: OTHER
+  1.1.3-adhoc.5:
+    licensed:
+      declared: OTHER
+  1.1.3-beta-next.0:
+    licensed:
+      declared: OTHER
+  1.1.3-beta-next.1:
+    licensed:
+      declared: OTHER
+  1.1.3-beta-next.2:
+    licensed:
+      declared: OTHER
+  1.1.3-beta-next.3:
+    licensed:
+      declared: OTHER
+  1.1.3-beta-next.4:
+    licensed:
+      declared: OTHER
+  1.1.3-experiment-kiwi.5:
+    licensed:
+      declared: OTHER
+  1.1.3-private.25:
+    licensed:
+      declared: OTHER
+  1.1.3-private.26:
+    licensed:
+      declared: OTHER
+  1.1.3-private.27:
+    licensed:
+      declared: OTHER
+  1.1.3-private.28:
+    licensed:
+      declared: OTHER
+  1.1.3-private.29:
+    licensed:
+      declared: OTHER
+  1.1.3-private.30:
+    licensed:
+      declared: OTHER
+  1.1.3-private.31:
+    licensed:
+      declared: OTHER
+  1.1.3-private.32:
+    licensed:
+      declared: OTHER
+  1.1.3-private.33:
+    licensed:
+      declared: OTHER
+  1.1.3-private.34:
+    licensed:
+      declared: OTHER
+  1.1.3-private.35:
+    licensed:
+      declared: OTHER
+  1.1.3-private.36:
+    licensed:
+      declared: OTHER
   1.1.30-beta.0:
     licensed:
       declared: OTHER
@@ -511,6 +1120,9 @@ revisions:
   1.1.39-custom.99:
     licensed:
       declared: OTHER
+  1.1.4:
+    licensed:
+      declared: OTHER
   1.1.40:
     licensed:
       declared: OTHER
@@ -535,9 +1147,420 @@ revisions:
   1.1.48:
     licensed:
       declared: OTHER
+  1.1.5-adhoc.0:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.1:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.12:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.13:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.14:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.15:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.16:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.17:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.18:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.19:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.2:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.20:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.21:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.22:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.23:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.24:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.25:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.26:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.27:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.28:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.29:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.3:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.4:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.5:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.6:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.7:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.8:
+    licensed:
+      declared: OTHER
+  1.1.5-adhoc.9:
+    licensed:
+      declared: OTHER
+  1.1.5-beta-next.0:
+    licensed:
+      declared: OTHER
+  1.1.5-beta-next.1:
+    licensed:
+      declared: OTHER
+  1.1.5-beta.1:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-daedalus.0:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-daedalus.1:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-daedalus.2:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-daedalus.3:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-daedalus.4:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-daedalus.5:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-daedalus.6:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-daedalus.7:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.0:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.1:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.10:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.11:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.2:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.3:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.4:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.5:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.6:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.7:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.8:
+    licensed:
+      declared: OTHER
+  1.1.5-experiment-kiwi.9:
+    licensed:
+      declared: OTHER
+  1.1.5-release-next.0:
+    licensed:
+      declared: OTHER
+  1.1.5-release-next.1:
+    licensed:
+      declared: OTHER
+  1.1.5-release-next.2:
+    licensed:
+      declared: OTHER
   1.1.51:
     licensed:
       declared: OTHER
+  1.1.6:
+    licensed:
+      declared: OTHER
+  1.1.7-adhoc.0:
+    licensed:
+      declared: OTHER
+  1.1.7-adhoc.1:
+    licensed:
+      declared: OTHER
+  1.1.7-adhoc.10:
+    licensed:
+      declared: OTHER
+  1.1.7-adhoc.2:
+    licensed:
+      declared: OTHER
+  1.1.7-adhoc.3:
+    licensed:
+      declared: OTHER
+  1.1.7-adhoc.4:
+    licensed:
+      declared: OTHER
+  1.1.7-adhoc.5:
+    licensed:
+      declared: OTHER
+  1.1.7-adhoc.6:
+    licensed:
+      declared: OTHER
+  1.1.7-adhoc.7:
+    licensed:
+      declared: OTHER
+  1.1.7-adhoc.8:
+    licensed:
+      declared: OTHER
+  1.1.7-adhoc.9:
+    licensed:
+      declared: OTHER
+  1.1.7-beta-next.0:
+    licensed:
+      declared: OTHER
+  1.1.7-beta-next.2:
+    licensed:
+      declared: OTHER
+  1.1.7-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.7-release-next.0:
+    licensed:
+      declared: OTHER
+  1.1.7-release-next.1:
+    licensed:
+      declared: OTHER
   1.1.8:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.0:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.1:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.10:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.11:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.12:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.13:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.14:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.15:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.16:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.17:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.18:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.19:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.2:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.20:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.21:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.22:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.23:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.24:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.25:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.26:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.27:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.28:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.29:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.3:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.30:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.31:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.32:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.33:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.34:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.35:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.36:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.4:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.5:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.6:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.7:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.8:
+    licensed:
+      declared: OTHER
+  1.1.9-adhoc.9:
+    licensed:
+      declared: OTHER
+  1.1.9-beta.0:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview-refresh.0:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview-refresh.1:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview-refresh.2:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview-refresh.3:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview-refresh.4:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview-refresh.5:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview-refresh.6:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview-refresh.7:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview.0:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview.1:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview.2:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview.3:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview.4:
+    licensed:
+      declared: OTHER
+  1.1.9-custom-functions-preview.5:
+    licensed:
+      declared: OTHER
+  1.1.9-lumen.0:
+    licensed:
+      declared: OTHER
+  1.1.9-lumen.1:
+    licensed:
+      declared: OTHER
+  1.1.9-lumen.2:
+    licensed:
+      declared: OTHER
+  1.1.9-lumen.3:
+    licensed:
+      declared: OTHER
+  1.1.9-lumen.4:
+    licensed:
+      declared: OTHER
+  1.1.9-lumen.5:
+    licensed:
+      declared: OTHER
+  1.1.9-operational.0:
+    licensed:
+      declared: OTHER
+  1.1.9-operational.1:
+    licensed:
+      declared: OTHER
+  1.1.9-operational.2:
+    licensed:
+      declared: OTHER
+  1.1.9-operational.3:
+    licensed:
+      declared: OTHER
+  1.1.9-operational.4:
+    licensed:
+      declared: OTHER
+  1.1.9-operational.5:
+    licensed:
+      declared: OTHER
+  1.1.9-operational.6:
+    licensed:
+      declared: OTHER
+  1.1.9-operational.7:
     licensed:
       declared: OTHER
