@@ -12,10 +12,61 @@ revisions:
   0.6.6:
     licensed:
       declared: MIT
+  1.0.2:
+    licensed:
+      declared: BSD-3-Clause
+  1.1.0:
+    licensed:
+      declared: BSD-3-Clause
+  1.2.0:
+    licensed:
+      declared: BSD-3-Clause
+  1.2.1:
+    licensed:
+      declared: BSD-3-Clause
   1.2.2:
     licensed:
       declared: BSD-3-Clause
+  2.0.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.1.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.2.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.2.1:
+    licensed:
+      declared: BSD-3-Clause
+  2.2.2:
+    licensed:
+      declared: BSD-3-Clause
+  2.2.3:
+    licensed:
+      declared: BSD-3-Clause
+  2.2.4:
+    licensed:
+      declared: BSD-3-Clause
+  2.2.5:
+    licensed:
+      declared: BSD-3-Clause
+  2.3.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.3.1:
+    licensed:
+      declared: BSD-3-Clause
+  2.3.2:
+    licensed:
+      declared: BSD-3-Clause
   2.3.3:
+    licensed:
+      declared: BSD-3-Clause
+  2.4.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.4.1:
     licensed:
       declared: BSD-3-Clause
   2.4.2:
