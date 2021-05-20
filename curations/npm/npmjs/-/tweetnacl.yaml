@@ -6,6 +6,9 @@ revisions:
   0.14.1:
     licensed:
       declared: OTHER
+  0.14.2:
+    licensed:
+      declared: OTHER
   0.14.3:
     licensed:
       declared: OTHER
