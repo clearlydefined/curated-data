@@ -43,3 +43,6 @@ revisions:
         url: 'https://github.com/mjwwit/node-XMLHttpRequest/commit/d35e16183e162f3c67b29191ab20e4c81db68742'
     licensed:
       declared: MIT
+  1.6.3:
+    licensed:
+      declared: MIT
