@@ -4,6 +4,21 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  4.0.0:
+    licensed:
+      declared: GPL-3.0-only
+  4.0.1:
+    licensed:
+      declared: GPL-3.0-only
+  4.0.2:
+    licensed:
+      declared: GPL-3.0-only
+  4.0.3:
+    licensed:
+      declared: GPL-3.0-only
+  4.0.4:
+    licensed:
+      declared: GPL-3.0-only
   4.1.0:
     licensed:
       declared: GPL-3.0-only
