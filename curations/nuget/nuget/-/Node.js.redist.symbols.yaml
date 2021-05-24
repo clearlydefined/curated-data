@@ -1,0 +1,8 @@
+coordinates:
+  name: Node.js.redist.symbols
+  provider: nuget
+  type: nuget
+revisions:
+  12.18.4:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: stackwalker
+  namespace: jochenkalmbach
+  provider: github
+  type: git
+revisions:
+  1b711b27770a2d560ebcb460cf37dc47b5c6836e:
+    licensed:
+      declared: BSD-3-Clause
