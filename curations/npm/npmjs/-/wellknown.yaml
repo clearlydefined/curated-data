@@ -3,6 +3,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.1.1:
+    licensed:
+      declared: WTFPL
   0.3.0:
     licensed:
       declared: WTFPL
