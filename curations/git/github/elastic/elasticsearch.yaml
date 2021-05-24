@@ -1,0 +1,9 @@
+coordinates:
+  name: elasticsearch
+  namespace: elastic
+  provider: github
+  type: git
+revisions:
+  b506955f8d442c5c1659fd3840d8db14b3f969d1:
+    licensed:
+      declared: Apache-2.0
