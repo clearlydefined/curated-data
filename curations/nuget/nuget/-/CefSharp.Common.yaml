@@ -23,6 +23,9 @@ revisions:
   84.4.10:
     licensed:
       declared: BSD-3-Clause
+  86.0.241:
+    licensed:
+      declared: BSD-3-Clause
   88.2.90:
     licensed:
       declared: BSD-3-Clause
