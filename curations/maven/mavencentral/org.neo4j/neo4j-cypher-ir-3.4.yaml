@@ -1,0 +1,9 @@
+coordinates:
+  name: neo4j-cypher-ir-3.4
+  namespace: org.neo4j
+  provider: mavencentral
+  type: maven
+revisions:
+  3.4.18:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER

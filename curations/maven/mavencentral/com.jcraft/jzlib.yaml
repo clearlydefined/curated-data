@@ -1,0 +1,15 @@
+coordinates:
+  name: jzlib
+  namespace: com.jcraft
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.0:
+    licensed:
+      declared: BSD-3-Clause
+  1.1.1:
+    licensed:
+      declared: BSD-3-Clause
+  1.1.2:
+    licensed:
+      declared: BSD-3-Clause
