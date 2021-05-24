@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  9+181-r4173-1:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
   9-dev-r4023-3:
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
