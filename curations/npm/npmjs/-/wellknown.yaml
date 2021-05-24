@@ -5,7 +5,7 @@ coordinates:
 revisions:
   0.3.2:
     licensed:
-      declared: ISC
+      declared: WTFPL
   0.5.0:
     licensed:
       declared: ISC
