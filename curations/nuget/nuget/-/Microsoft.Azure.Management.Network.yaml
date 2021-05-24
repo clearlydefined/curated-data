@@ -99,6 +99,9 @@ revisions:
   20.0.0-preview:
     licensed:
       declared: MIT
+  20.5.0:
+    licensed:
+      declared: MIT
   3.1.0-preview:
     licensed:
       declared: MIT

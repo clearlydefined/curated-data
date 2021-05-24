@@ -1,0 +1,9 @@
+coordinates:
+  name: lpsolve
+  namespace: com.datumbox
+  provider: mavencentral
+  type: maven
+revisions:
+  5.5.2.0:
+    licensed:
+      declared: GPL-2.0-only
