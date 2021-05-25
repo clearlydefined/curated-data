@@ -1,0 +1,8 @@
+coordinates:
+  name: brakeman
+  provider: rubygems
+  type: gem
+revisions:
+  5.0.0:
+    licensed:
+      declared: OTHER
