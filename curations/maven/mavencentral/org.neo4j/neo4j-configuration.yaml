@@ -37,6 +37,9 @@ revisions:
   3.5.2:
     licensed:
       declared: GPL-3.0-or-later OR OTHER
+  3.4.13:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER
   3.5.26:
     licensed:
       declared: GPL-3.0-or-later OR OTHER
