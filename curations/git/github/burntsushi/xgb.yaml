@@ -1,0 +1,13 @@
+coordinates:
+  name: xgb
+  namespace: burntsushi
+  provider: github
+  type: git
+revisions:
+  27f122750802c950b2c869a5b63dafcf590ced95:
+    files:
+      - license: OTHER
+        # LICENSE contains also patent file   
+        path: LICENSE
+    licensed:
+      declared: BSD-3-Clause AND OTHER

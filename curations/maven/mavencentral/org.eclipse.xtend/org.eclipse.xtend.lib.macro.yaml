@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.xtend.lib.macro
+  namespace: org.eclipse.xtend
+  provider: mavencentral
+  type: maven
+revisions:
+  2.18.0:
+    licensed:
+      declared: EPL-1.0

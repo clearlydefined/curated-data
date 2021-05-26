@@ -3,7 +3,106 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  0.3.0:
+    licensed:
+      declared: MIT
+  0.3.1:
+    licensed:
+      declared: MIT
+  0.3.10:
+    licensed:
+      declared: MIT
   0.3.11:
+    licensed:
+      declared: MIT
+  0.3.12:
+    licensed:
+      declared: MIT
+  0.3.13:
+    licensed:
+      declared: MIT
+  0.3.15:
+    licensed:
+      declared: MIT
+  0.3.16:
+    licensed:
+      declared: MIT
+  0.3.17:
+    licensed:
+      declared: MIT
+  0.3.18:
+    licensed:
+      declared: MIT
+  0.3.19:
+    licensed:
+      declared: MIT
+  0.3.2:
+    licensed:
+      declared: MIT
+  0.3.20:
+    licensed:
+      declared: MIT
+  0.3.21:
+    licensed:
+      declared: MIT
+  0.3.22:
+    licensed:
+      declared: MIT
+  0.3.23:
+    licensed:
+      declared: MIT
+  0.3.24:
+    licensed:
+      declared: MIT
+  0.3.25:
+    licensed:
+      declared: MIT
+  0.3.26:
+    licensed:
+      declared: MIT
+  0.3.27:
+    licensed:
+      declared: MIT
+  0.3.28:
+    licensed:
+      declared: MIT
+  0.3.3:
+    licensed:
+      declared: MIT
+  0.3.30:
+    licensed:
+      declared: MIT
+  0.3.31:
+    licensed:
+      declared: MIT
+  0.3.4:
+    licensed:
+      declared: MIT
+  0.3.5:
+    licensed:
+      declared: MIT
+  0.3.6:
+    licensed:
+      declared: MIT
+  0.3.7:
+    licensed:
+      declared: MIT
+  0.3.8:
+    licensed:
+      declared: MIT
+  0.3.9:
+    licensed:
+      declared: MIT
+  0.4.0:
+    licensed:
+      declared: MIT
+  0.4.1:
+    licensed:
+      declared: MIT
+  0.4.2:
+    licensed:
+      declared: MIT
+  0.4.3:
     licensed:
       declared: MIT
   0.4.4:

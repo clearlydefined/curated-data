@@ -1,0 +1,18 @@
+coordinates:
+  name: clang
+  provider: pypi
+  type: pypi
+revisions:
+  10.0.1:
+    licensed:
+      declared: NCSA
+  '11.0':
+    files:
+      - license: Apache-2.0 WITH LLVM-exception
+        path: clang-11.0/clang/__init__.py
+      - license: Apache-2.0 WITH LLVM-exception
+        path: clang-11.0/clang/cindex.py
+      - license: Apache-2.0 WITH LLVM-exception
+        path: clang-11.0/clang/enumerations.py
+    licensed:
+      declared: NCSA

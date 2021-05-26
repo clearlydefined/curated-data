@@ -3,6 +3,87 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  6.0.10:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.0.12:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.0.14:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.0.17:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.0.18:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.0.8:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.1.17:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.1.18:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.1.4:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.11.4:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.14.0:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.16.0:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
   6.16.1:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.2.0:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.2.4:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.3.13:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.3.18:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.3.2:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.3.26:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.4.3:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.4.4:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.5.0:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.5.0-1:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.5.2:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.6.0:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.6.5:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.8.0:
+    licensed:
+      declared: BSD-2-Clause AND OTHER
+  6.9.0:
     licensed:
       declared: BSD-2-Clause AND OTHER

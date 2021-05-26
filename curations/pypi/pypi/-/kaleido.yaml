@@ -6,3 +6,21 @@ revisions:
   0.0.3:
     licensed:
       declared: MIT
+  0.0.3.post1:
+    licensed:
+      declared: MIT
+  0.1.0:
+    licensed:
+      declared: MIT
+  0.1.0.post1:
+    licensed:
+      declared: MIT
+  0.2.0:
+    licensed:
+      declared: MIT
+  0.2.1:
+    licensed:
+      declared: MIT
+  0.2.1.post1:
+    licensed:
+      declared: MIT

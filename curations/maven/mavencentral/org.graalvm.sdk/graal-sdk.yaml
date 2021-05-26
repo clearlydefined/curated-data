@@ -4,6 +4,66 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  1.0.0-rc10:
+    licensed:
+      declared: UPL-1.0
+  1.0.0-rc11:
+    licensed:
+      declared: UPL-1.0
+  1.0.0-rc12:
+    licensed:
+      declared: UPL-1.0
+  1.0.0-rc13:
+    licensed:
+      declared: UPL-1.0
+  1.0.0-rc14:
+    licensed:
+      declared: UPL-1.0
+  1.0.0-rc15:
+    licensed:
+      declared: UPL-1.0
+  1.0.0-rc16:
+    licensed:
+      declared: UPL-1.0
+  1.0.0-rc8:
+    licensed:
+      declared: UPL-1.0
+  1.0.0-rc9:
+    licensed:
+      declared: UPL-1.0
+  19.0.0:
+    licensed:
+      declared: UPL-1.0
+  19.0.2:
+    licensed:
+      declared: UPL-1.0
+  19.1.0:
+    licensed:
+      declared: UPL-1.0
+  19.1.1:
+    licensed:
+      declared: UPL-1.0
+  19.2.0:
+    licensed:
+      declared: UPL-1.0
+  19.2.0.1:
+    licensed:
+      declared: UPL-1.0
+  19.2.1:
+    licensed:
+      declared: UPL-1.0
+  19.3.0:
+    licensed:
+      declared: UPL-1.0
+  19.3.0.2:
+    licensed:
+      declared: UPL-1.0
+  19.3.1:
+    licensed:
+      declared: UPL-1.0
+  20.0.0:
+    licensed:
+      declared: UPL-1.0
   20.1.0:
     licensed:
       declared: UPL-1.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.servlet-api
+  namespace: jakarta.servlet
+  provider: mavencentral
+  type: maven
+revisions:
+  4.0.3:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0

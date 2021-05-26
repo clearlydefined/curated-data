@@ -3,13 +3,130 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  4.2.1:
+    licensed:
+      declared: OTHER
+  4.2.2:
+    licensed:
+      declared: OTHER
+  4.2.3:
+    licensed:
+      declared: OTHER
+  4.2.4:
+    licensed:
+      declared: OTHER
+  4.2.5:
+    licensed:
+      declared: OTHER
+  4.2.6:
+    licensed:
+      declared: OTHER
+  4.2.7:
+    licensed:
+      declared: OTHER
+  5.0.0:
+    licensed:
+      declared: OTHER
+  5.0.1:
+    licensed:
+      declared: OTHER
+  5.0.10:
+    licensed:
+      declared: OTHER
+  5.0.11:
+    licensed:
+      declared: OTHER
+  5.0.12:
+    licensed:
+      declared: OTHER
+  5.0.13:
+    licensed:
+      declared: OTHER
+  5.0.14:
+    licensed:
+      declared: OTHER
+  5.0.15:
+    licensed:
+      declared: OTHER
+  5.0.2:
+    licensed:
+      declared: OTHER
+  5.0.3:
+    licensed:
+      declared: OTHER
+  5.0.4:
+    licensed:
+      declared: OTHER
+  5.0.5:
+    licensed:
+      declared: OTHER
+  5.0.6:
+    licensed:
+      declared: OTHER
+  5.0.7:
+    licensed:
+      declared: OTHER
+  5.0.8:
+    licensed:
+      declared: OTHER
+  5.0.9:
+    licensed:
+      declared: OTHER
+  6.0.0:
+    licensed:
+      declared: OTHER
   6.0.1:
+    licensed:
+      declared: OTHER
+  6.0.2:
+    licensed:
+      declared: OTHER
+  6.0.3:
+    licensed:
+      declared: OTHER
+  6.0.4:
+    licensed:
+      declared: OTHER
+  6.0.5:
+    licensed:
+      declared: OTHER
+  6.0.6:
     licensed:
       declared: OTHER
   6.0.7:
     licensed:
       declared: OTHER
+  6.1.0:
+    licensed:
+      declared: OTHER
+  6.1.1:
+    licensed:
+      declared: OTHER
+  6.1.2:
+    licensed:
+      declared: OTHER
+  6.1.3:
+    licensed:
+      declared: OTHER
+  6.1.4:
+    licensed:
+      declared: OTHER
   6.2.0:
+    licensed:
+      declared: OTHER
+  7.0.0:
+    licensed:
+      declared: OTHER
+  7.0.1:
+    licensed:
+      declared: OTHER
+  7.0.2:
+    licensed:
+      declared: OTHER
+  7.0.3:
+    licensed:
+      declared: OTHER
+  7.1.0:
     licensed:
       declared: OTHER
   7.1.1:
@@ -33,6 +150,15 @@ revisions:
   8.0.0:
     licensed:
       declared: OTHER
+  8.0.1:
+    licensed:
+      declared: OTHER
+  8.0.2:
+    licensed:
+      declared: OTHER
+  8.0.3:
+    licensed:
+      declared: OTHER
   8.0.4:
     licensed:
       declared: OTHER
@@ -49,5 +175,14 @@ revisions:
     licensed:
       declared: OTHER
   8.2.2:
+    licensed:
+      declared: OTHER
+  9.0.0:
+    licensed:
+      declared: OTHER
+  9.0.1:
+    licensed:
+      declared: OTHER
+  9.1.0:
     licensed:
       declared: OTHER

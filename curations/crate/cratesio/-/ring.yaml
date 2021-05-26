@@ -3,10 +3,46 @@ coordinates:
   provider: cratesio
   type: crate
 revisions:
+  0.13.2:
+    licensed:
+      declared: ISC
+  0.13.3:
+    licensed:
+      declared: ISC
+  0.13.5:
+    licensed:
+      declared: ISC
+  0.14.1:
+    licensed:
+      declared: ISC
+  0.14.3:
+    licensed:
+      declared: ISC
+  0.14.6:
+    licensed:
+      declared: ISC
+  0.16.10:
+    licensed:
+      declared: ISC
   0.16.11:
     licensed:
       declared: ISC
+  0.16.13:
+    licensed:
+      declared: ISC
+  0.16.14:
+    licensed:
+      declared: ISC
   0.16.15:
+    licensed:
+      declared: ISC
+  0.16.16:
+    licensed:
+      declared: ISC
+  0.16.17:
+    licensed:
+      declared: ISC
+  0.16.18:
     licensed:
       declared: ISC
   0.16.19:

@@ -1,0 +1,12 @@
+coordinates:
+  name: neo4j
+  namespace: org.neo4j
+  provider: mavencentral
+  type: maven
+revisions:
+  3.4.1:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER
+  3.5.26:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER

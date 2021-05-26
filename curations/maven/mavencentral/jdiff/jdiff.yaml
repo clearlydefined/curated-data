@@ -1,0 +1,9 @@
+coordinates:
+  name: jdiff
+  namespace: jdiff
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.9:
+    licensed:
+      declared: NONE

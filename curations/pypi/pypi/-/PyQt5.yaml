@@ -1,0 +1,95 @@
+coordinates:
+  name: PyQt5
+  provider: pypi
+  type: pypi
+revisions:
+  '5.10':
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.10.1:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  '5.11':
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.11.1:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.11.2:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.11.3:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  '5.12':
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.12.1:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.12.2:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.12.3:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.13.0:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.13.1:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.13.2:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.14.0:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.14.1:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.14.2:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.15.0:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.15.1:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.15.2:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.15.3:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.15.4:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  '5.6':
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  '5.7':
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.7.1:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  '5.8':
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.8.1:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.8.2:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  '5.9':
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.9.1:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
+  5.9.2:
+    licensed:
+      declared: GPL-3.0-only OR OTHER

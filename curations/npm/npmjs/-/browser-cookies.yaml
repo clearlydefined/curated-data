@@ -3,6 +3,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  1.1.0:
+    licensed:
+      declared: Unlicense
   1.2.0:
     licensed:
       declared: Unlicense

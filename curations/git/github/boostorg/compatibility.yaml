@@ -1,0 +1,9 @@
+coordinates:
+  name: compatibility
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  445fbc1633cbaf49b0c3310db95a642e9c3fe89b:
+    licensed:
+      declared: BSL-1.0

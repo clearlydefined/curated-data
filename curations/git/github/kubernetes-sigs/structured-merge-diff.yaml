@@ -1,0 +1,9 @@
+coordinates:
+  name: structured-merge-diff
+  namespace: kubernetes-sigs
+  provider: github
+  type: git
+revisions:
+  c6e603f78e91dbe936d8217a72a1955c99046f61:
+    licensed:
+      declared: Apache-2.0

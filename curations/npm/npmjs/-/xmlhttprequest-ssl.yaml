@@ -3,7 +3,36 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  1.5.1:
+    licensed:
+      declared: MIT
+  1.5.2:
+    licensed:
+      declared: MIT
   1.5.3:
+    described:
+      sourceLocation:
+        name: node-xmlhttprequest
+        namespace: mjwwit
+        provider: github
+        revision: d35e16183e162f3c67b29191ab20e4c81db68742
+        type: git
+        url: 'https://github.com/mjwwit/node-XMLHttpRequest/commit/d35e16183e162f3c67b29191ab20e4c81db68742'
+    licensed:
+      declared: MIT
+  1.5.4:
+    licensed:
+      declared: MIT
+  1.5.5:
+    licensed:
+      declared: MIT
+  1.6.0:
+    licensed:
+      declared: MIT
+  1.6.1:
+    licensed:
+      declared: MIT
+  1.6.2:
     described:
       sourceLocation:
         name: node-xmlhttprequest

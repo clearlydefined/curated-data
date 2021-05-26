@@ -1,0 +1,11 @@
+coordinates:
+  name: Xamarin.AndroidX.Work.Runtime
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.4.3:
+    licensed:
+      declared: MIT
+  2.5.0:
+    licensed:
+      declared: MIT

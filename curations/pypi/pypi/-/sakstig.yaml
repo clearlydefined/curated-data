@@ -1,0 +1,8 @@
+coordinates:
+  name: sakstig
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.6:
+    licensed:
+      declared: MIT

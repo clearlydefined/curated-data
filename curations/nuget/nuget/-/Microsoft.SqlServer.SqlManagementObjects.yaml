@@ -3,7 +3,43 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  160.1908269.0-preview:
+    licensed:
+      declared: OTHER
+  160.1909171.0-preview:
+    licensed:
+      declared: OTHER
+  160.1910103.0-preview:
+    licensed:
+      declared: OTHER
+  160.1910301.0-preview:
+    licensed:
+      declared: OTHER
+  160.1910315.0-preview:
+    licensed:
+      declared: OTHER
+  160.1911221.0-preview:
+    licensed:
+      declared: OTHER
+  160.2001141.0-preview:
+    licensed:
+      declared: OTHER
+  160.2003261.0-preview:
+    licensed:
+      declared: OTHER
   160.2004021.0:
+    licensed:
+      declared: OTHER
+  161.40241.8-msdata:
+    licensed:
+      declared: OTHER
+  161.41011.9:
+    licensed:
+      declared: OTHER
+  161.44091.28:
+    licensed:
+      declared: OTHER
+  161.46041.41:
     licensed:
       declared: OTHER
   161.46367.54:

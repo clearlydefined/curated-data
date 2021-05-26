@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Android.DocuSign
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.2:
+    licensed:
+      declared: OTHER

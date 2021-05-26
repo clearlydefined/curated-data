@@ -1,0 +1,140 @@
+coordinates:
+  name: jaxlib
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.11:
+    licensed:
+      declared: Apache-2.0
+  0.1.12:
+    licensed:
+      declared: Apache-2.0
+  0.1.15:
+    licensed:
+      declared: Apache-2.0
+  0.1.16:
+    licensed:
+      declared: Apache-2.0
+  0.1.17:
+    licensed:
+      declared: Apache-2.0
+  0.1.18:
+    licensed:
+      declared: Apache-2.0
+  0.1.19:
+    licensed:
+      declared: Apache-2.0
+  0.1.20:
+    licensed:
+      declared: Apache-2.0
+  0.1.21:
+    licensed:
+      declared: Apache-2.0
+  0.1.22:
+    licensed:
+      declared: Apache-2.0
+  0.1.23:
+    licensed:
+      declared: Apache-2.0
+  0.1.24:
+    licensed:
+      declared: Apache-2.0
+  0.1.25:
+    licensed:
+      declared: Apache-2.0
+  0.1.26:
+    licensed:
+      declared: Apache-2.0
+  0.1.27:
+    licensed:
+      declared: Apache-2.0
+  0.1.28:
+    licensed:
+      declared: Apache-2.0
+  0.1.29:
+    licensed:
+      declared: Apache-2.0
+  0.1.30:
+    licensed:
+      declared: Apache-2.0
+  0.1.31:
+    licensed:
+      declared: Apache-2.0
+  0.1.32:
+    licensed:
+      declared: Apache-2.0
+  0.1.33:
+    licensed:
+      declared: Apache-2.0
+  0.1.34:
+    licensed:
+      declared: Apache-2.0
+  0.1.35:
+    licensed:
+      declared: Apache-2.0
+  0.1.36:
+    licensed:
+      declared: Apache-2.0
+  0.1.37:
+    licensed:
+      declared: Apache-2.0
+  0.1.38:
+    licensed:
+      declared: Apache-2.0
+  0.1.39:
+    licensed:
+      declared: Apache-2.0
+  0.1.40:
+    licensed:
+      declared: Apache-2.0
+  0.1.41:
+    licensed:
+      declared: Apache-2.0
+  0.1.42:
+    licensed:
+      declared: Apache-2.0
+  0.1.43:
+    licensed:
+      declared: Apache-2.0
+  0.1.44:
+    licensed:
+      declared: Apache-2.0
+  0.1.45:
+    licensed:
+      declared: Apache-2.0
+  0.1.46:
+    licensed:
+      declared: Apache-2.0
+  0.1.47:
+    licensed:
+      declared: Apache-2.0
+  0.1.52:
+    licensed:
+      declared: Apache-2.0
+  0.1.55:
+    licensed:
+      declared: Apache-2.0
+  0.1.56:
+    licensed:
+      declared: Apache-2.0
+  0.1.60:
+    licensed:
+      declared: Apache-2.0
+  0.1.64:
+    licensed:
+      declared: Apache-2.0
+  0.1.65:
+    licensed:
+      declared: Apache-2.0
+  0.1.66:
+    licensed:
+      declared: Apache-2.0
+  0.1.7:
+    licensed:
+      declared: Apache-2.0
+  0.1.8:
+    licensed:
+      declared: Apache-2.0
+  0.1.9:
+    licensed:
+      declared: Apache-2.0

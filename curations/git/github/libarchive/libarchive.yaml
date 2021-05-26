@@ -1,0 +1,9 @@
+coordinates:
+  name: libarchive
+  namespace: libarchive
+  provider: github
+  type: git
+revisions:
+  227a4b9719a7fbeba6ba46e377ff7d953f405cd5:
+    licensed:
+      declared: BSD-2-Clause

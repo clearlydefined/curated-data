@@ -1,0 +1,8 @@
+coordinates:
+  name: GraphQL.Authorization
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.29:
+    licensed:
+      declared: MIT
