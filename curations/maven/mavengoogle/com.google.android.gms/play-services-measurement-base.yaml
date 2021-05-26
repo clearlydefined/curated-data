@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-measurement-base
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.5.0:
+    licensed:
+      declared: Apache-2.0 AND BSD-3-Clause AND MIT AND NOASSERTION
