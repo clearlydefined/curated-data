@@ -48,3 +48,6 @@ revisions:
   8.1.0:
     licensed:
       declared: HPND
+  8.2.0:
+    licensed:
+      declared: HPND
