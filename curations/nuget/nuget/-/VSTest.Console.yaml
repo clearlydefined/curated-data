@@ -1,0 +1,8 @@
+coordinates:
+  name: VSTest.Console
+  provider: nuget
+  type: nuget
+revisions:
+  12.0.30723:
+    licensed:
+      declared: NONE

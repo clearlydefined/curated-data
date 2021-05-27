@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.WebJobs.Logging
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.2:
+    licensed:
+      declared: OTHER

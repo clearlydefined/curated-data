@@ -171,7 +171,13 @@ revisions:
   1.0.68:
     licensed:
       declared: Apache-2.0 OR MIT
+  1.0.69:
+    licensed:
+      declared: Apache-2.0 OR MIT
   1.0.7:
+    licensed:
+      declared: Apache-2.0 OR MIT
+  1.0.72:
     licensed:
       declared: Apache-2.0 OR MIT
   1.0.8:

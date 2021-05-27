@@ -3,16 +3,109 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  0.1.57:
+    licensed:
+      declared: OTHER
+  0.1.68:
+    licensed:
+      declared: OTHER
+  0.1.74:
+    licensed:
+      declared: OTHER
+  0.1.80:
+    licensed:
+      declared: OTHER
+  1.0.10:
+    licensed:
+      declared: OTHER
+  1.0.15:
+    licensed:
+      declared: OTHER
+  1.0.17:
+    licensed:
+      declared: OTHER
   1.0.18:
+    licensed:
+      declared: OTHER
+  1.0.21:
+    licensed:
+      declared: OTHER
+  1.0.21.1:
+    licensed:
+      declared: OTHER
+  1.0.23:
+    licensed:
+      declared: OTHER
+  1.0.30:
+    licensed:
+      declared: OTHER
+  1.0.33:
     licensed:
       declared: OTHER
   1.0.39:
     licensed:
       declared: OTHER
+  1.0.41:
+    licensed:
+      declared: OTHER
+  1.0.41.1:
+    licensed:
+      declared: OTHER
+  1.0.43:
+    licensed:
+      declared: OTHER
+  1.0.45:
+    licensed:
+      declared: OTHER
+  1.0.48:
+    licensed:
+      declared: OTHER
   1.0.53:
     licensed:
       declared: OTHER
+  1.0.55:
+    licensed:
+      declared: OTHER
+  1.0.57:
+    licensed:
+      declared: OTHER
   1.0.60:
+    licensed:
+      declared: OTHER
+  1.0.62:
+    licensed:
+      declared: OTHER
+  1.0.65:
+    licensed:
+      declared: OTHER
+  1.0.69:
+    licensed:
+      declared: OTHER
+  1.0.72:
+    licensed:
+      declared: OTHER
+  1.0.74:
+    licensed:
+      declared: OTHER
+  1.0.76:
+    licensed:
+      declared: OTHER
+  1.0.79:
+    licensed:
+      declared: OTHER
+  1.0.8:
+    licensed:
+      declared: OTHER
+  1.0.81:
+    licensed:
+      declared: OTHER
+  1.0.83:
+    licensed:
+      declared: OTHER
+  1.0.85:
+    licensed:
+      declared: OTHER
+  1.1.5:
     licensed:
       declared: OTHER
   1.10.0:
@@ -21,7 +114,16 @@ revisions:
   1.11.0:
     licensed:
       declared: OTHER
+  1.12.0:
+    licensed:
+      declared: OTHER
   1.13.0:
+    licensed:
+      declared: OTHER
+  1.14.0:
+    licensed:
+      declared: OTHER
+  1.15.0:
     licensed:
       declared: OTHER
   1.16.0:
@@ -36,18 +138,63 @@ revisions:
   1.18.0.post1:
     licensed:
       declared: OTHER
+  1.19.0:
+    licensed:
+      declared: OTHER
   1.2.0:
     licensed:
       declared: OTHER
   1.20.0:
     licensed:
       declared: OTHER
+  1.21.0:
+    licensed:
+      declared: OTHER
   1.22.0:
+    licensed:
+      declared: OTHER
+  1.23.0:
+    licensed:
+      declared: OTHER
+  1.24.0:
+    licensed:
+      declared: OTHER
+  1.25.0:
+    licensed:
+      declared: OTHER
+  1.26.0:
+    licensed:
+      declared: OTHER
+  1.27.0:
+    licensed:
+      declared: OTHER
+  1.28.0:
+    licensed:
+      declared: OTHER
+  1.3.0:
+    licensed:
+      declared: OTHER
+  1.3.0.post1:
     licensed:
       declared: OTHER
   1.4.0:
     licensed:
       declared: OTHER
+  1.5.0:
+    licensed:
+      declared: OTHER
+  1.6.0:
+    licensed:
+      declared: OTHER
+  1.6.0.post1:
+    licensed:
+      declared: OTHER
+  1.7.0:
+    licensed:
+      declared: OTHER
   1.8.0:
+    licensed:
+      declared: OTHER
+  1.9.0:
     licensed:
       declared: OTHER

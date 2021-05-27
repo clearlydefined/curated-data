@@ -1,0 +1,8 @@
+coordinates:
+  name: DotNetty.Buffers-signed
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.3:
+    licensed:
+      declared: MIT

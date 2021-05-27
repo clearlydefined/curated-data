@@ -1,0 +1,9 @@
+coordinates:
+  name: mikktspace
+  namespace: mmikk
+  provider: github
+  type: git
+revisions:
+  3e895b49d05ea07e4c2133156cfa94369e19e409:
+    licensed:
+      declared: Zlib

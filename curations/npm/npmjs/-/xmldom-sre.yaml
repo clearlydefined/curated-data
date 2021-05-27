@@ -1,0 +1,17 @@
+coordinates:
+  name: xmldom-sre
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.30:
+    licensed:
+      declared: MIT OR LGPL-2.0-only
+  0.1.30-beta.0:
+    licensed:
+      declared: MIT OR LGPL-2.0-only
+  0.1.31:
+    licensed:
+      declared: MIT OR LGPL-2.0-only
+  0.1.31-beta.0:
+    licensed:
+      declared: MIT OR LGPL-2.0-only

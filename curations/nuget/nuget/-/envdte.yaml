@@ -1,0 +1,8 @@
+coordinates:
+  name: envdte
+  provider: nuget
+  type: nuget
+revisions:
+  17.0.0-preview-1-31216-036:
+    licensed:
+      declared: OTHER

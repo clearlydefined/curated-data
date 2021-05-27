@@ -1,0 +1,9 @@
+coordinates:
+  name: pptxtemplater
+  namespace: tkrotoff
+  provider: github
+  type: git
+revisions:
+  7dc1411d008f7d051c0adba346ff0f3578bce12a:
+    licensed:
+      declared: NONE

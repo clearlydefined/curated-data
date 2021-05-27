@@ -4,7 +4,43 @@ coordinates:
   provider: github
   type: git
 revisions:
+  2574f3cbc3736db085497b9b241ea5ae338357b9:
+    licensed:
+      declared: MIT
+  4d5d77d95507239d3d840c0ecbe84a342013b066:
+    licensed:
+      declared: MIT
+  535158822edd2760a81fa1e9ef902e3959dd65d3:
+    licensed:
+      declared: MIT
   5810cd81dd3d7a802f111005f42990dc8ebb0aa7:
+    licensed:
+      declared: MIT
+  7d3571f697178b62b2d537a588bc3c5262de5cd4:
+    licensed:
+      declared: MIT
+  824068adaeb7b158df2b36d8787f689646e715e0:
+    licensed:
+      declared: MIT
+  876c6253d7a9d91ad3563ebf120cd13fc486c0b0:
+    licensed:
+      declared: MIT
+  9aa81240cba038eb040068ea2e99b722de548508:
+    licensed:
+      declared: MIT
+  a22c4f474b806c7c90f6dd9b5fd371fd55db51d4:
+    licensed:
+      declared: MIT
+  a89db27e54e639a1c958d99ac3816c092603b8fc:
+    licensed:
+      declared: MIT
+  a9a4da0263cdf28d97056159247618040e8d1f87:
+    licensed:
+      declared: MIT
+  aab47faa665b6c976a69c05a1eb2edc4c93b6878:
+    licensed:
+      declared: MIT
+  cf6e77de14a3d8b3fa0cbaf8b83d600c938f649f:
     licensed:
       declared: MIT
   e14e92ad0c00791c7652226b72bb336229e9ac12:

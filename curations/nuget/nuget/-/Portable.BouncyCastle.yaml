@@ -15,6 +15,18 @@ revisions:
   1.8.2:
     licensed:
       declared: MIT
+  1.8.3:
+    licensed:
+      declared: MIT
+  1.8.3.25:
+    licensed:
+      declared: MIT
+  1.8.3.37:
+    licensed:
+      declared: MIT
+  1.8.4:
+    licensed:
+      declared: MIT
   1.8.5:
     licensed:
       declared: MIT

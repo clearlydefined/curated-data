@@ -1,0 +1,443 @@
+coordinates:
+  name: FakeXrmEasy
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT
+  1.10.0:
+    licensed:
+      declared: MIT
+  1.10.1:
+    licensed:
+      declared: MIT
+  1.11.0:
+    licensed:
+      declared: MIT
+  1.11.1:
+    licensed:
+      declared: MIT
+  1.12.0:
+    licensed:
+      declared: MIT
+  1.12.1:
+    licensed:
+      declared: MIT
+  1.12.2:
+    licensed:
+      declared: MIT
+  1.12.3:
+    licensed:
+      declared: MIT
+  1.13.0:
+    licensed:
+      declared: MIT
+  1.13.1:
+    licensed:
+      declared: MIT
+  1.13.2:
+    licensed:
+      declared: MIT
+  1.13.3:
+    licensed:
+      declared: MIT
+  1.13.4:
+    licensed:
+      declared: MIT
+  1.13.5:
+    licensed:
+      declared: MIT
+  1.13.6:
+    licensed:
+      declared: MIT
+  1.13.7:
+    licensed:
+      declared: MIT
+  1.13.8:
+    licensed:
+      declared: MIT
+  1.14.0:
+    licensed:
+      declared: MIT
+  1.14.1:
+    licensed:
+      declared: MIT
+  1.14.2:
+    licensed:
+      declared: MIT
+  1.14.3:
+    licensed:
+      declared: MIT
+  1.14.4:
+    licensed:
+      declared: MIT
+  1.15.0:
+    licensed:
+      declared: MIT
+  1.15.1:
+    licensed:
+      declared: MIT
+  1.15.10:
+    licensed:
+      declared: MIT
+  1.15.2:
+    licensed:
+      declared: MIT
+  1.15.3:
+    licensed:
+      declared: MIT
+  1.15.4:
+    licensed:
+      declared: MIT
+  1.15.5:
+    licensed:
+      declared: MIT
+  1.15.6:
+    licensed:
+      declared: MIT
+  1.15.7:
+    licensed:
+      declared: MIT
+  1.15.8:
+    licensed:
+      declared: MIT
+  1.15.9:
+    licensed:
+      declared: MIT
+  1.16.0:
+    licensed:
+      declared: MIT
+  1.16.1:
+    licensed:
+      declared: MIT
+  1.16.2:
+    licensed:
+      declared: MIT
+  1.16.3:
+    licensed:
+      declared: MIT
+  1.16.4:
+    licensed:
+      declared: MIT
+  1.17.0:
+    licensed:
+      declared: MIT
+  1.17.1:
+    licensed:
+      declared: MIT
+  1.17.2:
+    licensed:
+      declared: MIT
+  1.17.3:
+    licensed:
+      declared: MIT
+  1.18.0:
+    licensed:
+      declared: MIT
+  1.18.1:
+    licensed:
+      declared: MIT
+  1.19.0:
+    licensed:
+      declared: MIT
+  1.19.1:
+    licensed:
+      declared: MIT
+  1.19.2:
+    licensed:
+      declared: MIT
+  1.19.3:
+    licensed:
+      declared: MIT
+  1.2.0:
+    licensed:
+      declared: MIT
+  1.2.1-alpha:
+    licensed:
+      declared: MIT
+  1.2.10-alpha:
+    licensed:
+      declared: MIT
+  1.2.11-alpha:
+    licensed:
+      declared: MIT
+  1.2.12-alpha:
+    licensed:
+      declared: MIT
+  1.2.3-alpha:
+    licensed:
+      declared: MIT
+  1.2.4-alpha:
+    licensed:
+      declared: MIT
+  1.2.5-alpha:
+    licensed:
+      declared: MIT
+  1.2.6-alpha:
+    licensed:
+      declared: MIT
+  1.2.7-alpha:
+    licensed:
+      declared: MIT
+  1.2.8-alpha:
+    licensed:
+      declared: MIT
+  1.2.9-alpha:
+    licensed:
+      declared: MIT
+  1.20.0:
+    licensed:
+      declared: MIT
+  1.20.1:
+    licensed:
+      declared: MIT
+  1.21.0:
+    licensed:
+      declared: MIT
+  1.21.1:
+    licensed:
+      declared: MIT
+  1.21.2:
+    licensed:
+      declared: MIT
+  1.21.3:
+    licensed:
+      declared: MIT
+  1.21.4:
+    licensed:
+      declared: MIT
+  1.22.0:
+    licensed:
+      declared: MIT
+  1.22.1:
+    licensed:
+      declared: MIT
+  1.22.2:
+    licensed:
+      declared: MIT
+  1.22.3:
+    licensed:
+      declared: MIT
+  1.23.0:
+    licensed:
+      declared: MIT
+  1.24.0:
+    licensed:
+      declared: MIT
+  1.25.0:
+    licensed:
+      declared: MIT
+  1.26.0:
+    licensed:
+      declared: MIT
+  1.27.0:
+    licensed:
+      declared: MIT
+  1.28.0:
+    licensed:
+      declared: MIT
+  1.29.0:
+    licensed:
+      declared: MIT
+  1.29.1:
+    licensed:
+      declared: MIT
+  1.29.2:
+    licensed:
+      declared: MIT
+  1.29.3:
+    licensed:
+      declared: MIT
+  1.29.4:
+    licensed:
+      declared: MIT
+  1.3.0:
+    licensed:
+      declared: MIT
+  1.3.1:
+    licensed:
+      declared: MIT
+  1.30.0:
+    licensed:
+      declared: MIT
+  1.30.1:
+    licensed:
+      declared: MIT
+  1.31.0:
+    licensed:
+      declared: MIT
+  1.31.1:
+    licensed:
+      declared: MIT
+  1.32.0:
+    licensed:
+      declared: MIT
+  1.32.1:
+    licensed:
+      declared: MIT
+  1.33.0:
+    licensed:
+      declared: MIT
+  1.33.1:
+    licensed:
+      declared: MIT
+  1.34.0:
+    licensed:
+      declared: MIT
+  1.34.1:
+    licensed:
+      declared: MIT
+  1.35.0:
+    licensed:
+      declared: MIT
+  1.35.1:
+    licensed:
+      declared: MIT
+  1.35.2:
+    licensed:
+      declared: MIT
+  1.35.3:
+    licensed:
+      declared: MIT
+  1.36.1:
+    licensed:
+      declared: MIT
+  1.37.0:
+    licensed:
+      declared: MIT
+  1.37.1:
+    licensed:
+      declared: MIT
+  1.37.2:
+    licensed:
+      declared: MIT
+  1.37.3:
+    licensed:
+      declared: MIT
+  1.37.4:
+    licensed:
+      declared: MIT
+  1.38.0:
+    licensed:
+      declared: MIT
+  1.39.0:
+    licensed:
+      declared: MIT
+  1.39.1:
+    licensed:
+      declared: MIT
+  1.39.2:
+    licensed:
+      declared: MIT
+  1.39.3:
+    licensed:
+      declared: MIT
+  1.39.4:
+    licensed:
+      declared: MIT
+  1.4.0:
+    licensed:
+      declared: MIT
+  1.40.0:
+    licensed:
+      declared: MIT
+  1.41.0:
+    licensed:
+      declared: MIT
+  1.41.1:
+    licensed:
+      declared: MIT
+  1.42.0:
+    licensed:
+      declared: MIT
+  1.43.0:
+    licensed:
+      declared: MIT
+  1.44.0:
+    licensed:
+      declared: MIT
+  1.45.0:
+    licensed:
+      declared: MIT
+  1.45.1:
+    licensed:
+      declared: MIT
+  1.46.0:
+    licensed:
+      declared: MIT
+  1.46.1:
+    licensed:
+      declared: MIT
+  1.47.0:
+    licensed:
+      declared: MIT
+  1.47.1:
+    licensed:
+      declared: MIT
+  1.5.0:
+    licensed:
+      declared: MIT
+  1.5.1:
+    licensed:
+      declared: MIT
+  1.50.0:
+    licensed:
+      declared: MIT
+  1.50.1:
+    licensed:
+      declared: MIT
+  1.51.0:
+    licensed:
+      declared: MIT
+  1.51.1:
+    licensed:
+      declared: MIT
+  1.51.2:
+    licensed:
+      declared: MIT
+  1.52.0:
+    licensed:
+      declared: MIT
+  1.57.1:
+    licensed:
+      declared: MIT
+  1.6.1:
+    licensed:
+      declared: MIT
+  1.6.2:
+    licensed:
+      declared: MIT
+  1.7.0:
+    licensed:
+      declared: MIT
+  1.8.0:
+    licensed:
+      declared: MIT
+  1.8.1:
+    licensed:
+      declared: MIT
+  1.8.2:
+    licensed:
+      declared: MIT
+  1.8.3:
+    licensed:
+      declared: MIT
+  1.8.4:
+    licensed:
+      declared: MIT
+  1.9.0:
+    licensed:
+      declared: MIT
+  1.9.1:
+    licensed:
+      declared: MIT
+  1.9.2:
+    licensed:
+      declared: MIT
+  1.9.3:
+    licensed:
+      declared: MIT
+  1.9.4:
+    licensed:
+      declared: MIT

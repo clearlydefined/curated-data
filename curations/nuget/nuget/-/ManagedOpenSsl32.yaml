@@ -1,0 +1,8 @@
+coordinates:
+  name: ManagedOpenSsl32
+  provider: nuget
+  type: nuget
+revisions:
+  0.6.1.3:
+    licensed:
+      declared: OpenSSL

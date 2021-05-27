@@ -1,0 +1,8 @@
+coordinates:
+  name: PyQt5-Qt5
+  provider: pypi
+  type: pypi
+revisions:
+  5.15.2:
+    licensed:
+      declared: LGPL-3.0-only OR OTHER

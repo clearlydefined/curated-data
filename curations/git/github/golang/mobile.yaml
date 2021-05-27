@@ -1,0 +1,9 @@
+coordinates:
+  name: mobile
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  d2bd2a29d028cb94031e5e81788b19b371d00eb8:
+    licensed:
+      declared: BSD-3-Clause AND OTHER

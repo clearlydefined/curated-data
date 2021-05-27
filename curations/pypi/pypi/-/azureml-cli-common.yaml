@@ -42,6 +42,12 @@ revisions:
   1.24.0:
     licensed:
       declared: OTHER
+  1.25.0:
+    licensed:
+      declared: OTHER
+  1.26.0:
+    licensed:
+      declared: OTHER
   1.5.0:
     licensed:
       declared: OTHER

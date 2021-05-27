@@ -39,3 +39,12 @@ revisions:
   89.0.14:
     licensed:
       declared: BSD-3-Clause
+  89.0.17:
+    licensed:
+      declared: BSD-3-Clause
+  90.5.7:
+    licensed:
+      declared: BSD-3-Clause
+  90.6.5:
+    licensed:
+      declared: BSD-3-Clause

@@ -42,6 +42,12 @@ revisions:
   3.4.3:
     licensed:
       declared: MIT
+  3.4.5:
+    licensed:
+      declared: MIT
+  3.4.7:
+    licensed:
+      declared: MIT
   4.0.0:
     licensed:
       declared: MIT
@@ -82,5 +88,8 @@ revisions:
     licensed:
       declared: MIT
   4.2.9:
+    licensed:
+      declared: MIT
+  5.0.0:
     licensed:
       declared: MIT

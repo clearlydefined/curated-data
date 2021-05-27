@@ -4,9 +4,60 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  0.0.0.M0:
+    licensed:
+      declared: EPL-1.0
+  0.0.0.M1:
+    licensed:
+      declared: EPL-1.0
+  0.0.0.M2:
+    licensed:
+      declared: EPL-1.0
+  0.0.0.M2a:
+    licensed:
+      declared: EPL-1.0
+  0.0.0.M3:
+    licensed:
+      declared: EPL-1.0
+  0.0.0.M4:
+    licensed:
+      declared: EPL-1.0
+  0.0.0.M5:
+    licensed:
+      declared: EPL-1.0
+  0.1.0:
+    licensed:
+      declared: EPL-1.0
+  0.1.1:
+    licensed:
+      declared: EPL-1.0
+  0.2.0:
+    licensed:
+      declared: EPL-1.0
+  0.2.0.M1:
+    licensed:
+      declared: EPL-1.0
+  0.2.0.M2:
+    licensed:
+      declared: EPL-1.0
+  0.2.1:
+    licensed:
+      declared: EPL-1.0
   0.3.0:
     licensed:
       declared: EPL-1.0
+  0.3.0.M1:
+    licensed:
+      declared: EPL-1.0
+  0.3.1:
+    licensed:
+      declared: EPL-1.0
   0.3.2:
+    licensed:
+      declared: EPL-1.0
+  0.3.3:
+    licensed:
+      declared: EPL-1.0
+  0.3.4:
     licensed:
       declared: EPL-1.0

@@ -4,6 +4,33 @@ coordinates:
   provider: github
   type: git
 revisions:
+  545788942d5f7c9be8d1347fb6e38e5a3e33e214:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  5a2aa26beb6587cf5cf1a195bbc405f3bd845f05:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  5fb3ff1bbb9ff378f1bb4d26459e6ad97cba3304:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  6cd1fcedba52a3e8045a1c96970cec308e4a632c:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  938dd670d280c9d37a6b1b2241a4b8b3e4061aa0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  b0650ceb63d94ec56d3a00dbdd5e37d944dbeabf:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  c8f393745106186a7426391f8abfe8ef8d82e221:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  d58e364bc7f2d287ef7c17fd8d25e1746667b733:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  fd2d2c45eb2dff7b87eab4303a1016b4dbf95e81:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
   ff9f1409240a6589b749f29c118cc0ac9bd5bcde:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER

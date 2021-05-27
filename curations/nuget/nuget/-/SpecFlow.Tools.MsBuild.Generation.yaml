@@ -6,10 +6,49 @@ revisions:
   3.0.225:
     licensed:
       declared: BSD-3-Clause
+  3.1.78:
+    licensed:
+      declared: BSD-3-Clause
   3.1.80:
     licensed:
       declared: BSD-3-Clause
+  3.1.82:
+    licensed:
+      declared: BSD-3-Clause
+  3.1.86:
+    licensed:
+      declared: BSD-3-Clause
+  3.1.89:
+    licensed:
+      declared: BSD-3-Clause
+  3.1.95:
+    licensed:
+      declared: BSD-3-Clause
+  3.1.97:
+    licensed:
+      declared: BSD-3-Clause
+  3.3.15-beta:
+    licensed:
+      declared: BSD-3-Clause
+  3.3.16-beta:
+    licensed:
+      declared: BSD-3-Clause
+  3.3.22-beta:
+    licensed:
+      declared: BSD-3-Clause
+  3.3.23-beta:
+    licensed:
+      declared: BSD-3-Clause
   3.3.30:
+    licensed:
+      declared: BSD-3-Clause
+  3.3.57:
+    licensed:
+      declared: BSD-3-Clause
+  3.3.67-beta:
+    licensed:
+      declared: BSD-3-Clause
+  3.3.72:
     licensed:
       declared: BSD-3-Clause
   3.3.74:
@@ -21,6 +60,18 @@ revisions:
   3.4.3:
     licensed:
       declared: BSD-3-Clause
+  3.4.31:
+    licensed:
+      declared: BSD-3-Clause
+  3.4.32-beta:
+    licensed:
+      declared: BSD-3-Clause
+  3.4.36-beta:
+    licensed:
+      declared: BSD-3-Clause
+  3.4.41-beta:
+    licensed:
+      declared: BSD-3-Clause
   3.4.8:
     licensed:
       declared: BSD-3-Clause
@@ -30,9 +81,21 @@ revisions:
   3.5.5:
     licensed:
       declared: BSD-3-Clause
+  3.6.19-beta:
+    licensed:
+      declared: BSD-3-Clause
   3.6.23:
     licensed:
       declared: BSD-3-Clause
+  3.7.1-beta:
+    licensed:
+      declared: BSD-3-Clause
   3.7.13:
+    licensed:
+      declared: BSD-3-Clause
+  3.7.38:
+    licensed:
+      declared: BSD-3-Clause
+  3.8.7:
     licensed:
       declared: BSD-3-Clause

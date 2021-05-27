@@ -5,28 +5,31 @@ coordinates:
 revisions:
   3.4.5:
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-only
   4.2.1:
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-only
   4.2.7:
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-only
   4.3.2:
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-only
   4.6.0:
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-only
   4.7.13:
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-only
   4.7.6:
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-only
   4.8.5:
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-only
   4.9.2:
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-only
+  5.7.1:
+    licensed:
+      declared: LGPL-2.1-only

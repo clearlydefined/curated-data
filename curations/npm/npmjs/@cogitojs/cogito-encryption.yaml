@@ -1,0 +1,24 @@
+coordinates:
+  name: cogito-encryption
+  namespace: '@cogitojs'
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.15:
+    described:
+      sourceLocation:
+        name: cogito
+        namespace: philips-software
+        provider: github
+        revision: ac873d6de60d6b70df8c60ef87aa16e3eda4a15f
+        type: git
+        url: 'https://github.com/philips-software/cogito/commit/ac873d6de60d6b70df8c60ef87aa16e3eda4a15f'
+  0.2.16:
+    described:
+      sourceLocation:
+        name: cogito
+        namespace: philips-software
+        provider: github
+        revision: a382fe85b85b35969ec6236d167f0ac93088774e
+        type: git
+        url: 'https://github.com/philips-software/cogito/commit/a382fe85b85b35969ec6236d167f0ac93088774e'

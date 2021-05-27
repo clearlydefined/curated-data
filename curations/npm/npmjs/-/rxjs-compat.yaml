@@ -3,6 +3,54 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  6.0.0:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-beta.0:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-beta.1:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-beta.4:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-rc.0:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-rc.1:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-tactical-rc.1:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-tenacious-rc.2:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-terrific-rc.3:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-turbo-rc.4:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-uber-rc.5:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-ucandoit-rc.6:
+    licensed:
+      declared: Apache-2.0
+  6.0.0-uncanny-rc.7:
+    licensed:
+      declared: Apache-2.0
+  6.1.0:
+    licensed:
+      declared: Apache-2.0
+  6.2.0:
+    licensed:
+      declared: Apache-2.0
   6.2.1:
+    licensed:
+      declared: Apache-2.0
+  6.2.2:
     licensed:
       declared: Apache-2.0

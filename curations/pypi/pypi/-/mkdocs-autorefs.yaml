@@ -1,0 +1,8 @@
+coordinates:
+  name: mkdocs-autorefs
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.1:
+    licensed:
+      declared: ISC

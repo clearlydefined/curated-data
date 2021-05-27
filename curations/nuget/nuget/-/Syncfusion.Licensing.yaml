@@ -195,10 +195,25 @@ revisions:
   18.1.0.52:
     licensed:
       declared: OTHER
+  18.1.0.53:
+    licensed:
+      declared: OTHER
   18.1.0.54:
     licensed:
       declared: OTHER
+  18.1.0.55:
+    licensed:
+      declared: OTHER
+  18.1.0.56:
+    licensed:
+      declared: OTHER
+  18.1.0.57:
+    licensed:
+      declared: OTHER
   18.1.0.59:
+    licensed:
+      declared: OTHER
+  18.2.0.44:
     licensed:
       declared: OTHER
   18.2.0.45:
@@ -210,7 +225,40 @@ revisions:
   18.2.0.47:
     licensed:
       declared: OTHER
+  18.2.0.48:
+    licensed:
+      declared: OTHER
+  18.2.0.54:
+    licensed:
+      declared: OTHER
+  18.2.0.55:
+    licensed:
+      declared: OTHER
   18.2.0.56:
+    licensed:
+      declared: OTHER
+  18.2.0.57:
+    licensed:
+      declared: OTHER
+  18.2.0.58:
+    licensed:
+      declared: OTHER
+  18.2.0.59:
+    licensed:
+      declared: OTHER
+  18.3.0.35:
+    licensed:
+      declared: OTHER
+  18.3.0.38:
+    licensed:
+      declared: OTHER
+  18.3.0.40:
+    licensed:
+      declared: OTHER
+  18.3.0.42:
+    licensed:
+      declared: OTHER
+  18.3.0.44:
     licensed:
       declared: OTHER
   18.3.0.47:
@@ -219,7 +267,25 @@ revisions:
   18.3.0.48:
     licensed:
       declared: OTHER
+  18.3.0.50:
+    licensed:
+      declared: OTHER
+  18.3.0.51:
+    licensed:
+      declared: OTHER
+  18.3.0.52:
+    licensed:
+      declared: OTHER
   18.3.0.53:
+    licensed:
+      declared: OTHER
+  18.4.0.30:
+    licensed:
+      declared: OTHER
+  18.4.0.31:
+    licensed:
+      declared: OTHER
+  18.4.0.32:
     licensed:
       declared: OTHER
   18.4.0.33:
@@ -228,10 +294,28 @@ revisions:
   18.4.0.34:
     licensed:
       declared: OTHER
+  18.4.0.35:
+    licensed:
+      declared: OTHER
+  18.4.0.39:
+    licensed:
+      declared: OTHER
+  18.4.0.41:
+    licensed:
+      declared: OTHER
   18.4.0.42:
     licensed:
       declared: OTHER
+  18.4.0.43:
+    licensed:
+      declared: OTHER
+  18.4.0.44:
+    licensed:
+      declared: OTHER
   18.4.0.46:
+    licensed:
+      declared: OTHER
+  18.4.0.47:
     licensed:
       declared: OTHER
   18.4.0.48:
@@ -241,5 +325,23 @@ revisions:
     licensed:
       declared: OTHER
   19.1.0.54:
+    licensed:
+      declared: OTHER
+  19.1.0.55:
+    licensed:
+      declared: OTHER
+  19.1.0.56:
+    licensed:
+      declared: OTHER
+  19.1.0.57:
+    licensed:
+      declared: OTHER
+  19.1.0.58:
+    licensed:
+      declared: OTHER
+  19.1.0.59:
+    licensed:
+      declared: OTHER
+  19.1.0.63:
     licensed:
       declared: OTHER

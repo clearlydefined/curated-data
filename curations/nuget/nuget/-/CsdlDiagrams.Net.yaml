@@ -1,0 +1,11 @@
+coordinates:
+  name: CsdlDiagrams.Net
+  provider: nuget
+  type: nuget
+revisions:
+  0.13.4:
+    licensed:
+      declared: MIT
+  0.13.5:
+    licensed:
+      declared: MIT

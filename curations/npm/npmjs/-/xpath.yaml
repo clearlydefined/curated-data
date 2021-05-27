@@ -3,6 +3,12 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.0.20:
+    licensed:
+      declared: CC-BY-SA-2.0
+  0.0.21:
+    licensed:
+      declared: CC-BY-SA-2.0
   0.0.22:
     licensed:
       declared: CC-BY-SA-2.0

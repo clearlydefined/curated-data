@@ -9,12 +9,96 @@ revisions:
   2.2.6:
     licensed:
       declared: OTHER
+  3.0.0-dev24:
+    licensed:
+      declared: OTHER
+  3.0.1:
+    licensed:
+      declared: OTHER
+  3.0.1-dev1:
+    licensed:
+      declared: OTHER
+  3.0.1-dev2:
+    licensed:
+      declared: OTHER
+  3.0.11:
+    licensed:
+      declared: OTHER
+  3.0.12:
+    licensed:
+      declared: OTHER
+  3.0.13:
+    licensed:
+      declared: OTHER
+  3.0.14:
+    licensed:
+      declared: OTHER
+  3.0.15:
+    licensed:
+      declared: OTHER
+  3.0.17:
+    licensed:
+      declared: OTHER
+  3.0.2:
+    licensed:
+      declared: OTHER
+  3.0.2-dev1:
+    licensed:
+      declared: OTHER
+  3.0.2-dev2:
+    licensed:
+      declared: OTHER
+  3.0.3:
+    licensed:
+      declared: OTHER
+  3.0.3-dev1:
+    licensed:
+      declared: OTHER
+  3.0.4:
+    licensed:
+      declared: OTHER
+  3.0.4-dev1:
+    licensed:
+      declared: OTHER
+  3.0.4-dev2:
+    licensed:
+      declared: OTHER
+  3.0.4-dev3:
+    licensed:
+      declared: OTHER
+  3.0.4-dev4:
+    licensed:
+      declared: OTHER
+  3.0.4-dev5:
+    licensed:
+      declared: OTHER
+  3.0.4-dev6:
+    licensed:
+      declared: OTHER
   3.0.5:
+    licensed:
+      declared: OTHER
+  3.0.5-dev1:
+    licensed:
+      declared: OTHER
+  3.0.6:
+    licensed:
+      declared: OTHER
+  3.0.6-dev1:
     licensed:
       declared: OTHER
   3.0.7:
     licensed:
       declared: OTHER
-  3.0.14:
+  3.0.7-dev1:
+    licensed:
+      declared: OTHER
+  3.0.7-dev2:
+    licensed:
+      declared: OTHER
+  3.0.8-dev1:
+    licensed:
+      declared: OTHER
+  3.0.9:
     licensed:
       declared: OTHER

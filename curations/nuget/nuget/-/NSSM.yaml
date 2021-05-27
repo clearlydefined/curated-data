@@ -1,0 +1,8 @@
+coordinates:
+  name: NSSM
+  provider: nuget
+  type: nuget
+revisions:
+  2.24.0:
+    licensed:
+      declared: OTHER

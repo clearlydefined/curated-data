@@ -4,27 +4,690 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '2.10':
+    licensed:
+      declared: Apache-2.0
+  '2.11':
+    licensed:
+      declared: Apache-2.0
+  '2.12':
+    licensed:
+      declared: Apache-2.0
+  '2.13':
+    licensed:
+      declared: Apache-2.0
+  '2.14':
+    licensed:
+      declared: Apache-2.0
+  2.14.1:
+    licensed:
+      declared: Apache-2.0
+  2.14.2:
+    licensed:
+      declared: Apache-2.0
+  '2.15':
+    licensed:
+      declared: Apache-2.0
+  2.15.1:
+    licensed:
+      declared: Apache-2.0
+  2.15.2:
+    licensed:
+      declared: Apache-2.0
+  2.15.3:
+    licensed:
+      declared: Apache-2.0
+  '2.9':
+    licensed:
+      declared: Apache-2.0
+  '3.0':
+    licensed:
+      declared: Apache-2.0
+  3.0.1:
+    licensed:
+      declared: Apache-2.0
+  3.0.2:
+    licensed:
+      declared: Apache-2.0
+  '3.1':
+    licensed:
+      declared: Apache-2.0
+  '3.2':
+    licensed:
+      declared: Apache-2.0
+  '3.3':
+    licensed:
+      declared: Apache-2.0
+  '3.4':
+    licensed:
+      declared: Apache-2.0
+  3.4.1:
+    licensed:
+      declared: Apache-2.0
+  '4.0':
+    licensed:
+      declared: Apache-2.0
+  '4.1':
+    licensed:
+      declared: Apache-2.0
+  '4.11':
+    licensed:
+      declared: Apache-2.0
+  '4.12':
+    licensed:
+      declared: Apache-2.0
+  4.12.1:
+    licensed:
+      declared: Apache-2.0
+  '4.13':
+    licensed:
+      declared: Apache-2.0
+  '4.14':
+    licensed:
+      declared: Apache-2.0
+  4.14.1:
+    licensed:
+      declared: Apache-2.0
+  4.14.2:
+    licensed:
+      declared: Apache-2.0
+  4.14.3:
+    licensed:
+      declared: Apache-2.0
+  '4.15':
+    licensed:
+      declared: Apache-2.0
+  '4.16':
+    licensed:
+      declared: Apache-2.0
+  4.16.1:
+    licensed:
+      declared: Apache-2.0
+  '4.17':
+    licensed:
+      declared: Apache-2.0
+  '4.2':
+    licensed:
+      declared: Apache-2.0
+  '4.3':
+    licensed:
+      declared: Apache-2.0
+  '4.4':
+    licensed:
+      declared: Apache-2.0
+  4.4.1:
+    licensed:
+      declared: Apache-2.0
+  4.4.2:
+    licensed:
+      declared: Apache-2.0
+  4.4.3:
+    licensed:
+      declared: Apache-2.0
+  '4.5':
+    licensed:
+      declared: Apache-2.0
+  '4.6':
+    licensed:
+      declared: Apache-2.0
+  '4.7':
+    licensed:
+      declared: Apache-2.0
+  4.7.1:
+    licensed:
+      declared: Apache-2.0
+  '4.8':
+    licensed:
+      declared: Apache-2.0
+  4.8.1:
+    licensed:
+      declared: Apache-2.0
+  4.8.2:
+    licensed:
+      declared: Apache-2.0
+  4.8.3:
+    licensed:
+      declared: Apache-2.0
+  4.8.4:
+    licensed:
+      declared: Apache-2.0
+  4.8.5:
+    licensed:
+      declared: Apache-2.0
+  '4.9':
+    licensed:
+      declared: Apache-2.0
+  '5.0':
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha1:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha10:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha11:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha12:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha13:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha14:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha15:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha2:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha3:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha4:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha5:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha6:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha7:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha8:
+    licensed:
+      declared: Apache-2.0
+  5.0-alpha9:
+    licensed:
+      declared: Apache-2.0
+  '5.1':
+    licensed:
+      declared: Apache-2.0
+  5.1.1:
+    licensed:
+      declared: Apache-2.0
+  '5.10':
+    licensed:
+      declared: Apache-2.0
+  5.10.1:
+    licensed:
+      declared: Apache-2.0
+  '5.11':
+    licensed:
+      declared: Apache-2.0
+  '5.12':
+    licensed:
+      declared: Apache-2.0
+  '5.13':
+    licensed:
+      declared: Apache-2.0
+  '5.14':
+    licensed:
+      declared: Apache-2.0
+  '5.15':
+    licensed:
+      declared: Apache-2.0
+  '5.16':
+    licensed:
+      declared: Apache-2.0
+  5.16.1:
+    licensed:
+      declared: Apache-2.0
+  '5.17':
+    licensed:
+      declared: Apache-2.0
+  5.17.1:
+    licensed:
+      declared: Apache-2.0
+  5.17.2:
+    licensed:
+      declared: Apache-2.0
+  5.17.3:
+    licensed:
+      declared: Apache-2.0
+  5.17.4:
+    licensed:
+      declared: Apache-2.0
+  5.17.5:
+    licensed:
+      declared: Apache-2.0
+  5.17.6:
+    licensed:
+      declared: Apache-2.0
+  '5.18':
+    licensed:
+      declared: Apache-2.0
   5.18.1:
+    licensed:
+      declared: Apache-2.0
+  '5.19':
+    licensed:
+      declared: Apache-2.0
+  5.19.1:
+    licensed:
+      declared: Apache-2.0
+  5.19.2:
+    licensed:
+      declared: Apache-2.0
+  '5.2':
+    licensed:
+      declared: Apache-2.0
+  '5.20':
+    licensed:
+      declared: Apache-2.0
+  '5.21':
+    licensed:
+      declared: Apache-2.0
+  '5.22':
+    licensed:
+      declared: Apache-2.0
+  5.22.1:
+    licensed:
+      declared: Apache-2.0
+  5.22.2:
+    licensed:
+      declared: Apache-2.0
+  '5.23':
+    licensed:
+      declared: Apache-2.0
+  '5.24':
     licensed:
       declared: Apache-2.0
   5.24.1:
     licensed:
       declared: Apache-2.0
+  5.24.2:
+    licensed:
+      declared: Apache-2.0
+  '5.25':
+    licensed:
+      declared: Apache-2.0
+  '5.26':
+    licensed:
+      declared: Apache-2.0
+  '5.27':
+    licensed:
+      declared: Apache-2.0
+  5.27.1:
+    licensed:
+      declared: Apache-2.0
+  '5.28':
+    licensed:
+      declared: Apache-2.0
+  '5.29':
+    licensed:
+      declared: Apache-2.0
+  '5.3':
+    licensed:
+      declared: Apache-2.0
+  '5.30':
+    licensed:
+      declared: Apache-2.0
+  '5.31':
+    licensed:
+      declared: Apache-2.0
+  '5.32':
+    licensed:
+      declared: Apache-2.0
+  '5.33':
+    licensed:
+      declared: Apache-2.0
+  '5.34':
+    licensed:
+      declared: Apache-2.0
+  5.34.1:
+    licensed:
+      declared: Apache-2.0
+  5.34.2:
+    licensed:
+      declared: Apache-2.0
+  '5.35':
+    licensed:
+      declared: Apache-2.0
+  '5.37':
+    licensed:
+      declared: Apache-2.0
+  '5.38':
+    licensed:
+      declared: Apache-2.0
+  '5.39':
+    licensed:
+      declared: Apache-2.0
+  '5.4':
+    licensed:
+      declared: Apache-2.0
+  '5.40':
+    licensed:
+      declared: Apache-2.0
+  '5.41':
+    licensed:
+      declared: Apache-2.0
+  5.41.1:
+    licensed:
+      declared: Apache-2.0
+  '5.42':
+    licensed:
+      declared: Apache-2.0
+  '5.43':
+    licensed:
+      declared: Apache-2.0
+  '5.44':
+    licensed:
+      declared: Apache-2.0
+  '5.45':
+    licensed:
+      declared: Apache-2.0
+  '5.46':
+    licensed:
+      declared: Apache-2.0
+  '5.47':
+    licensed:
+      declared: Apache-2.0
+  '5.48':
+    licensed:
+      declared: Apache-2.0
+  '5.49':
+    licensed:
+      declared: Apache-2.0
+  '5.5':
+    licensed:
+      declared: Apache-2.0
+  5.5.1:
+    licensed:
+      declared: Apache-2.0
+  '5.50':
+    licensed:
+      declared: Apache-2.0
+  '5.51':
+    licensed:
+      declared: Apache-2.0
+  '5.52':
+    licensed:
+      declared: Apache-2.0
+  '5.53':
+    licensed:
+      declared: Apache-2.0
+  '5.54':
+    licensed:
+      declared: Apache-2.0
+  '5.55':
+    licensed:
+      declared: Apache-2.0
+  '5.56':
+    licensed:
+      declared: Apache-2.0
+  '5.57':
+    licensed:
+      declared: Apache-2.0
+  '5.58':
+    licensed:
+      declared: Apache-2.0
+  '5.59':
+    licensed:
+      declared: Apache-2.0
+  '5.6':
+    licensed:
+      declared: Apache-2.0
+  '5.60':
+    licensed:
+      declared: Apache-2.0
+  '5.61':
+    licensed:
+      declared: Apache-2.0
+  '5.62':
+    licensed:
+      declared: Apache-2.0
+  '5.63':
+    licensed:
+      declared: Apache-2.0
+  5.64.1:
+    licensed:
+      declared: Apache-2.0
+  5.64.2:
+    licensed:
+      declared: Apache-2.0
+  5.64.3:
+    licensed:
+      declared: Apache-2.0
   5.64.4:
+    licensed:
+      declared: Apache-2.0
+  '5.7':
+    licensed:
+      declared: Apache-2.0
+  '5.8':
+    licensed:
+      declared: Apache-2.0
+  5.8.1:
+    licensed:
+      declared: Apache-2.0
+  5.8.2:
+    licensed:
+      declared: Apache-2.0
+  '5.9':
+    licensed:
+      declared: Apache-2.0
+  5.9.1:
+    licensed:
+      declared: Apache-2.0
+  '6.0':
+    licensed:
+      declared: Apache-2.0
+  '6.1':
+    licensed:
+      declared: Apache-2.0
+  6.1.1:
+    licensed:
+      declared: Apache-2.0
+  '6.10':
+    licensed:
+      declared: Apache-2.0
+  '6.11':
+    licensed:
+      declared: Apache-2.0
+  '6.12':
+    licensed:
+      declared: Apache-2.0
+  '6.13':
     licensed:
       declared: Apache-2.0
   '6.14':
     licensed:
       declared: Apache-2.0
+  '6.15':
+    licensed:
+      declared: Apache-2.0
+  '6.16':
+    licensed:
+      declared: Apache-2.0
+  6.16.1:
+    licensed:
+      declared: Apache-2.0
+  6.16.2:
+    licensed:
+      declared: Apache-2.0
+  6.16.3:
+    licensed:
+      declared: Apache-2.0
+  6.16.4:
+    licensed:
+      declared: Apache-2.0
+  6.16.5:
+    licensed:
+      declared: Apache-2.0
+  '6.17':
+    licensed:
+      declared: Apache-2.0
+  6.17.1:
+    licensed:
+      declared: Apache-2.0
+  '6.18':
+    licensed:
+      declared: Apache-2.0
+  6.18.1:
+    licensed:
+      declared: Apache-2.0
+  6.18.2:
+    licensed:
+      declared: Apache-2.0
+  '6.19':
+    licensed:
+      declared: Apache-2.0
+  '6.2':
+    licensed:
+      declared: Apache-2.0
+  '6.20':
+    licensed:
+      declared: Apache-2.0
+  '6.21':
+    licensed:
+      declared: Apache-2.0
+  6.21.1:
+    licensed:
+      declared: Apache-2.0
+  6.21.2:
+    licensed:
+      declared: Apache-2.0
+  '6.22':
+    licensed:
+      declared: Apache-2.0
   '6.23':
+    licensed:
+      declared: Apache-2.0
+  '6.3':
+    licensed:
+      declared: Apache-2.0
+  '6.4':
     licensed:
       declared: Apache-2.0
   '6.5':
     licensed:
       declared: Apache-2.0
+  '6.6':
+    licensed:
+      declared: Apache-2.0
+  6.6.1:
+    licensed:
+      declared: Apache-2.0
+  '6.7':
+    licensed:
+      declared: Apache-2.0
+  '6.8':
+    licensed:
+      declared: Apache-2.0
+  '6.9':
+    licensed:
+      declared: Apache-2.0
+  '7.0':
+    licensed:
+      declared: Apache-2.0
+  7.0.1:
+    licensed:
+      declared: Apache-2.0
+  7.0.2:
+    licensed:
+      declared: Apache-2.0
+  7.0.3:
+    licensed:
+      declared: Apache-2.0
+  '7.1':
+    licensed:
+      declared: Apache-2.0
   7.1.1:
     licensed:
       declared: Apache-2.0
+  '7.2':
+    licensed:
+      declared: Apache-2.0
+  '7.3':
+    licensed:
+      declared: Apache-2.0
   '7.4':
+    licensed:
+      declared: Apache-2.0
+  '7.5':
+    licensed:
+      declared: Apache-2.0
+  '8.0':
+    licensed:
+      declared: Apache-2.0
+  '8.1':
+    licensed:
+      declared: Apache-2.0
+  '8.19':
+    licensed:
+      declared: Apache-2.0
+  8.19.2:
+    licensed:
+      declared: Apache-2.0
+  '8.2':
+    licensed:
+      declared: Apache-2.0
+  '8.21':
+    licensed:
+      declared: Apache-2.0
+  '8.22':
+    licensed:
+      declared: Apache-2.0
+  8.23.1:
+    licensed:
+      declared: Apache-2.0
+  '8.26':
+    licensed:
+      declared: Apache-2.0
+  '8.27':
+    licensed:
+      declared: Apache-2.0
+  '8.3':
+    licensed:
+      declared: Apache-2.0
+  '8.30':
+    licensed:
+      declared: Apache-2.0
+  '8.32':
+    licensed:
+      declared: Apache-2.0
+  8.32.1:
+    licensed:
+      declared: Apache-2.0
+  '8.33':
+    licensed:
+      declared: Apache-2.0
+  '8.36':
+    licensed:
+      declared: Apache-2.0
+  8.36.1:
+    licensed:
+      declared: Apache-2.0
+  '8.4':
+    licensed:
+      declared: Apache-2.0
+  8.4.1:
+    licensed:
+      declared: Apache-2.0
+  8.4.2:
+    licensed:
+      declared: Apache-2.0
+  8.4.3:
+    licensed:
+      declared: Apache-2.0
+  '8.9':
+    licensed:
+      declared: Apache-2.0
+  '9.1':
+    licensed:
+      declared: Apache-2.0
+  '9.4':
+    licensed:
+      declared: Apache-2.0
+  9.5.1:
+    licensed:
+      declared: Apache-2.0
+  9.5.2:
     licensed:
       declared: Apache-2.0

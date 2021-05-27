@@ -3,6 +3,60 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.10.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.10.0-beta01:
+    licensed:
+      declared: BSD-3-Clause
+  2.10.0-beta02:
+    licensed:
+      declared: BSD-3-Clause
+  2.10.0-beta03:
+    licensed:
+      declared: BSD-3-Clause
+  2.10.0-beta04:
+    licensed:
+      declared: BSD-3-Clause
+  2.7.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.7.0-beta02:
+    licensed:
+      declared: BSD-3-Clause
+  2.7.0-beta03:
+    licensed:
+      declared: BSD-3-Clause
+  2.7.0-beta04:
+    licensed:
+      declared: BSD-3-Clause
+  2.8.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.8.0-beta01:
+    licensed:
+      declared: BSD-3-Clause
+  2.9.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0-beta01:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0-beta02:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0-beta03:
+    licensed:
+      declared: BSD-3-Clause
   3.1.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.2.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.3.0-alpha01:
     licensed:
       declared: BSD-3-Clause

@@ -1,0 +1,473 @@
+coordinates:
+  name: Z.EntityFramework.Extensions
+  provider: nuget
+  type: nuget
+revisions:
+  3.16.10:
+    licensed:
+      declared: OTHER
+  3.16.11:
+    licensed:
+      declared: OTHER
+  3.16.12:
+    licensed:
+      declared: OTHER
+  3.16.13:
+    licensed:
+      declared: OTHER
+  3.16.14:
+    licensed:
+      declared: OTHER
+  3.16.15:
+    licensed:
+      declared: OTHER
+  3.16.16:
+    licensed:
+      declared: OTHER
+  3.16.17:
+    licensed:
+      declared: OTHER
+  3.16.18:
+    licensed:
+      declared: OTHER
+  3.16.19:
+    licensed:
+      declared: OTHER
+  3.16.20:
+    licensed:
+      declared: OTHER
+  3.16.21:
+    licensed:
+      declared: OTHER
+  3.16.22:
+    licensed:
+      declared: OTHER
+  3.16.23:
+    licensed:
+      declared: OTHER
+  3.16.24:
+    licensed:
+      declared: OTHER
+  3.16.25:
+    licensed:
+      declared: OTHER
+  3.16.26:
+    licensed:
+      declared: OTHER
+  3.16.27:
+    licensed:
+      declared: OTHER
+  3.16.28:
+    licensed:
+      declared: OTHER
+  3.16.29:
+    licensed:
+      declared: OTHER
+  3.16.30:
+    licensed:
+      declared: OTHER
+  3.16.31:
+    licensed:
+      declared: OTHER
+  3.16.32:
+    licensed:
+      declared: OTHER
+  3.16.33:
+    licensed:
+      declared: OTHER
+  3.16.34:
+    licensed:
+      declared: OTHER
+  3.16.35:
+    licensed:
+      declared: OTHER
+  3.16.36:
+    licensed:
+      declared: OTHER
+  3.16.37:
+    licensed:
+      declared: OTHER
+  3.16.38:
+    licensed:
+      declared: OTHER
+  3.16.39:
+    licensed:
+      declared: OTHER
+  3.16.40:
+    licensed:
+      declared: OTHER
+  3.16.41:
+    licensed:
+      declared: OTHER
+  3.16.42:
+    licensed:
+      declared: OTHER
+  3.16.43:
+    licensed:
+      declared: OTHER
+  3.16.44:
+    licensed:
+      declared: OTHER
+  3.16.45:
+    licensed:
+      declared: OTHER
+  3.16.46:
+    licensed:
+      declared: OTHER
+  3.16.5:
+    licensed:
+      declared: OTHER
+  3.16.6:
+    licensed:
+      declared: OTHER
+  3.16.7:
+    licensed:
+      declared: OTHER
+  3.16.8:
+    licensed:
+      declared: OTHER
+  3.16.9:
+    licensed:
+      declared: OTHER
+  3.17.0:
+    licensed:
+      declared: OTHER
+  3.17.1:
+    licensed:
+      declared: OTHER
+  3.17.2:
+    licensed:
+      declared: OTHER
+  3.17.3:
+    licensed:
+      declared: OTHER
+  3.17.4:
+    licensed:
+      declared: OTHER
+  3.17.5:
+    licensed:
+      declared: OTHER
+  3.17.6:
+    licensed:
+      declared: OTHER
+  3.17.7:
+    licensed:
+      declared: OTHER
+  3.17.8:
+    licensed:
+      declared: OTHER
+  3.18.0:
+    licensed:
+      declared: OTHER
+  3.18.1:
+    licensed:
+      declared: OTHER
+  3.18.2:
+    licensed:
+      declared: OTHER
+  3.18.3:
+    licensed:
+      declared: OTHER
+  3.18.4:
+    licensed:
+      declared: OTHER
+  3.18.5:
+    licensed:
+      declared: OTHER
+  3.18.6:
+    licensed:
+      declared: OTHER
+  3.19.0:
+    licensed:
+      declared: OTHER
+  3.20.0:
+    licensed:
+      declared: OTHER
+  3.20.1:
+    licensed:
+      declared: OTHER
+  3.20.2:
+    licensed:
+      declared: OTHER
+  3.20.3:
+    licensed:
+      declared: OTHER
+  3.20.4:
+    licensed:
+      declared: OTHER
+  3.20.5:
+    licensed:
+      declared: OTHER
+  3.20.6:
+    licensed:
+      declared: OTHER
+  3.20.7:
+    licensed:
+      declared: OTHER
+  3.21.0:
+    licensed:
+      declared: OTHER
+  3.21.1:
+    licensed:
+      declared: OTHER
+  3.21.10:
+    licensed:
+      declared: OTHER
+  3.21.11:
+    licensed:
+      declared: OTHER
+  3.21.12:
+    licensed:
+      declared: OTHER
+  3.21.13:
+    licensed:
+      declared: OTHER
+  3.21.2:
+    licensed:
+      declared: OTHER
+  3.21.3:
+    licensed:
+      declared: OTHER
+  3.21.4:
+    licensed:
+      declared: OTHER
+  3.21.5:
+    licensed:
+      declared: OTHER
+  3.21.6:
+    licensed:
+      declared: OTHER
+  3.21.7:
+    licensed:
+      declared: OTHER
+  3.21.8:
+    licensed:
+      declared: OTHER
+  3.21.9:
+    licensed:
+      declared: OTHER
+  3.22.0:
+    licensed:
+      declared: OTHER
+  3.22.1:
+    licensed:
+      declared: OTHER
+  3.22.2:
+    licensed:
+      declared: OTHER
+  3.22.3:
+    licensed:
+      declared: OTHER
+  3.22.4:
+    licensed:
+      declared: OTHER
+  3.22.5:
+    licensed:
+      declared: OTHER
+  3.22.6:
+    licensed:
+      declared: OTHER
+  3.22.7:
+    licensed:
+      declared: OTHER
+  4.0.0:
+    licensed:
+      declared: OTHER
+  4.0.0-beta1:
+    licensed:
+      declared: OTHER
+  4.0.1:
+    licensed:
+      declared: OTHER
+  4.0.10:
+    licensed:
+      declared: OTHER
+  4.0.11:
+    licensed:
+      declared: OTHER
+  4.0.12:
+    licensed:
+      declared: OTHER
+  4.0.13:
+    licensed:
+      declared: OTHER
+  4.0.18:
+    licensed:
+      declared: OTHER
+  4.0.19:
+    licensed:
+      declared: OTHER
+  4.0.2:
+    licensed:
+      declared: OTHER
+  4.0.20:
+    licensed:
+      declared: OTHER
+  4.0.21:
+    licensed:
+      declared: OTHER
+  4.0.22:
+    licensed:
+      declared: OTHER
+  4.0.23:
+    licensed:
+      declared: OTHER
+  4.0.24:
+    licensed:
+      declared: OTHER
+  4.0.27:
+    licensed:
+      declared: OTHER
+  4.0.28:
+    licensed:
+      declared: OTHER
+  4.0.29:
+    licensed:
+      declared: OTHER
+  4.0.3:
+    licensed:
+      declared: OTHER
+  4.0.30:
+    licensed:
+      declared: OTHER
+  4.0.33:
+    licensed:
+      declared: OTHER
+  4.0.34:
+    licensed:
+      declared: OTHER
+  4.0.35:
+    licensed:
+      declared: OTHER
+  4.0.39:
+    licensed:
+      declared: OTHER
+  4.0.4:
+    licensed:
+      declared: OTHER
+  4.0.40:
+    licensed:
+      declared: OTHER
+  4.0.42:
+    licensed:
+      declared: OTHER
+  4.0.43:
+    licensed:
+      declared: OTHER
+  4.0.44:
+    licensed:
+      declared: OTHER
+  4.0.45:
+    licensed:
+      declared: OTHER
+  4.0.46:
+    licensed:
+      declared: OTHER
+  4.0.47:
+    licensed:
+      declared: OTHER
+  4.0.48:
+    licensed:
+      declared: OTHER
+  4.0.49:
+    licensed:
+      declared: OTHER
+  4.0.5:
+    licensed:
+      declared: OTHER
+  4.0.50:
+    licensed:
+      declared: OTHER
+  4.0.51:
+    licensed:
+      declared: OTHER
+  4.0.52:
+    licensed:
+      declared: OTHER
+  4.0.53:
+    licensed:
+      declared: OTHER
+  4.0.54:
+    licensed:
+      declared: OTHER
+  4.0.55:
+    licensed:
+      declared: OTHER
+  4.0.56:
+    licensed:
+      declared: OTHER
+  4.0.57:
+    licensed:
+      declared: OTHER
+  4.0.58:
+    licensed:
+      declared: OTHER
+  4.0.59:
+    licensed:
+      declared: OTHER
+  4.0.6:
+    licensed:
+      declared: OTHER
+  4.0.60:
+    licensed:
+      declared: OTHER
+  4.0.61:
+    licensed:
+      declared: OTHER
+  4.0.62:
+    licensed:
+      declared: OTHER
+  4.0.63:
+    licensed:
+      declared: OTHER
+  4.0.65:
+    licensed:
+      declared: OTHER
+  4.0.66:
+    licensed:
+      declared: OTHER
+  4.0.67:
+    licensed:
+      declared: OTHER
+  4.0.68:
+    licensed:
+      declared: OTHER
+  4.0.7:
+    licensed:
+      declared: OTHER
+  4.0.79:
+    licensed:
+      declared: OTHER
+  4.0.9:
+    licensed:
+      declared: OTHER
+  4.0.96:
+    licensed:
+      declared: OTHER
+  5.1.12:
+    licensed:
+      declared: OTHER
+  5.1.15:
+    licensed:
+      declared: OTHER
+  5.1.22:
+    licensed:
+      declared: OTHER
+  5.1.29:
+    licensed:
+      declared: OTHER
+  5.1.3:
+    licensed:
+      declared: OTHER
+  5.1.30:
+    licensed:
+      declared: OTHER
+  5.1.35:
+    licensed:
+      declared: OTHER
+  5.1.8:
+    licensed:
+      declared: OTHER
+  5.1.9:
+    licensed:
+      declared: OTHER

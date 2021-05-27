@@ -1,0 +1,11 @@
+coordinates:
+  name: JsonPointer.Net
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.1:
+    licensed:
+      declared: MIT
+  1.3.2:
+    licensed:
+      declared: MIT

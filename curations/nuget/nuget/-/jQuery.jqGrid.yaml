@@ -1,0 +1,8 @@
+coordinates:
+  name: jQuery.jqGrid
+  provider: nuget
+  type: nuget
+revisions:
+  4.4.4:
+    licensed:
+      declared: OTHER

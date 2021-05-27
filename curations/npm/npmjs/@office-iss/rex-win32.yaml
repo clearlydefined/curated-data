@@ -1,0 +1,9 @@
+coordinates:
+  name: rex-win32
+  namespace: '@office-iss'
+  provider: npmjs
+  type: npm
+revisions:
+  0.62.12-tenantreactnativewin-13326:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: client-go
+  namespace: kubernetes
+  provider: github
+  type: git
+revisions:
+  b09a9ce3bf3b6a4e288530e952cf2d74902394d2:
+    licensed:
+      declared: Apache-2.0

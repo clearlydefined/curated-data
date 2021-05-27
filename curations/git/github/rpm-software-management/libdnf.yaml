@@ -1,0 +1,9 @@
+coordinates:
+  name: libdnf
+  namespace: rpm-software-management
+  provider: github
+  type: git
+revisions:
+  751f89045b80d58c0d05800f74357cf78cdf7e77:
+    licensed:
+      declared: LGPL-2.1-or-later

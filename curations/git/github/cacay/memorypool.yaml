@@ -1,0 +1,9 @@
+coordinates:
+  name: memorypool
+  namespace: cacay
+  provider: github
+  type: git
+revisions:
+  1ab4683e38f24940afb397b06a2d86814d898e63:
+    licensed:
+      declared: MIT

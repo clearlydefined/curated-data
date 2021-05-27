@@ -4,6 +4,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  2.11.0:
+    licensed:
+      declared: OTHER
   3.12.0:
     licensed:
       declared: OTHER
@@ -23,5 +26,119 @@ revisions:
     licensed:
       declared: OTHER
   4.4.0:
+    licensed:
+      declared: OTHER
+  4.5.0:
+    licensed:
+      declared: OTHER
+  4.5.0-dev.202103070821:
+    licensed:
+      declared: OTHER
+  4.5.0-dev.202103111014:
+    licensed:
+      declared: OTHER
+  4.5.0-dev.202103111313:
+    licensed:
+      declared: OTHER
+  4.5.0-dev.202103111407:
+    licensed:
+      declared: OTHER
+  4.5.0-dev.202103111451:
+    licensed:
+      declared: OTHER
+  4.5.0-dev.202103121123:
+    licensed:
+      declared: OTHER
+  4.5.0-dev.202103150651:
+    licensed:
+      declared: OTHER
+  4.5.0-dev.202103170641:
+    licensed:
+      declared: OTHER
+  4.5.0-dev.202103180840:
+    licensed:
+      declared: OTHER
+  4.5.1-dev.202103231059:
+    licensed:
+      declared: OTHER
+  4.6.0:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202103111153:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202103250741:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202103251119:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202103291254:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104020751:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104060707:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104060800:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104091415:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104131131:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104150920:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104160914:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104161321:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104190817:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104190934:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104190936:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104191000:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104191247:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104200757:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104211134:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104231222:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104260943:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104261800:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104270855:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202104291340:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202105071001:
+    licensed:
+      declared: OTHER
+  4.6.0-dev.202105101005:
     licensed:
       declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: nmap
+  namespace: nmap
+  provider: github
+  type: git
+revisions:
+  a36a34aa69f59b9ab14bef9648ee9e089ea9a4d9:
+    licensed:
+      declared: OTHER

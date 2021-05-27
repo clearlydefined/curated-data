@@ -1,0 +1,11 @@
+coordinates:
+  name: FMPy
+  provider: pypi
+  type: pypi
+revisions:
+  0.2.27:
+    licensed:
+      declared: BSD-2-Clause
+  0.3.0:
+    licensed:
+      declared: BSD-2-Clause

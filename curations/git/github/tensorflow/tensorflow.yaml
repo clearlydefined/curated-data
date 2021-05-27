@@ -4,9 +4,96 @@ coordinates:
   provider: github
   type: git
 revisions:
+  25fba035f3e453d94490932096282c7b0624bbb3:
+    licensed:
+      declared: Apache-2.0
+  295ad2781683835be974faba0a191528d8079768:
+    licensed:
+      declared: Apache-2.0
+  2b96f3662bd776e277f86997659e61046b56c315:
+    licensed:
+      declared: Apache-2.0
+  2c2fdd3205a8d31e5f09a71ac7eb52b8c0294a60:
+    licensed:
+      declared: Apache-2.0
+  2cbb43e1fc944ccbb3f9e137a8086bb275cef9cb:
+    licensed:
+      declared: Apache-2.0
+  3db52be7be81a87c623cdeb7f03d3767521c5246:
+    licensed:
+      declared: Apache-2.0
+  3ecef3cbc66c9c509514651cd121ebb290e1f1e5:
+    licensed:
+      declared: Apache-2.0
+  3f197f3f0e562be8b5ca04acb66487c8864ae5e6:
+    licensed:
+      declared: Apache-2.0
   3ffdb91f122f556a74a6e1efd2469bfe1063cb5c:
     licensed:
       declared: Apache-2.0
+  4386a6640c9fb65503750c37714971031f3dc1fd:
+    licensed:
+      declared: Apache-2.0
+  47a0bf5313119741570c029b84266b6c52abeb47:
+    licensed:
+      declared: Apache-2.0
+  582c8d236cb079023657287c318ff26adb239002:
+    licensed:
+      declared: Apache-2.0
+  590d6eef7e91a6a7392c8ffffb7b58f2e0c8bc6b:
+    licensed:
+      declared: Apache-2.0
+  5d80e1e8e6ee999be7db39461e0e79c90403a2e4:
+    licensed:
+      declared: Apache-2.0
+  5e8d4012b4d46b3be6a0888e41a407a1371ccc53:
+    licensed:
+      declared: Apache-2.0
+  5fd6a2d0a8e2cc5dca8b4d2bd1fba8ca5b6a32e7:
+    licensed:
+      declared: Apache-2.0
+  64c3d382cadf7bbe8e7e99884bede8284ff67f56:
+    licensed:
+      declared: Apache-2.0
+  765ac8d16eff6d6ff997ee73809b402d8b1194ae:
+    licensed:
+      declared: Apache-2.0
+  77f47d6ed6ca1f50b6f2c4919097e625d50398a9:
+    licensed:
+      declared: Apache-2.0
+  85c8b2a817f95a3e979ecd1ed95bff1dc1335cff:
+    licensed:
+      declared: Apache-2.0
+  9edbe5075f79a4a95ed14a2be831f9b59e61f49d:
+    licensed:
+      declared: Apache-2.0
+  a3832f7d43bfdec5b9faecce86be643389bf3299:
+    licensed:
+      declared: Apache-2.0
+  ab35f2bf7132f9d20a0bea9a5d1849862737d4b4:
+    licensed:
+      declared: Apache-2.0
+  b36436b087bd8e8701ef51718179037cccdfc26e:
+    licensed:
+      declared: Apache-2.0
   ba63891c8b2eb4776a0a2cac65df844bb141c37b:
+    licensed:
+      declared: Apache-2.0
+  cdb35502d835135f71b3cd5a30e1e6dd05fbbfdd:
+    licensed:
+      declared: Apache-2.0
+  d745ff2a48cebf18e847e8b602a744e97e058946:
+    licensed:
+      declared: Apache-2.0
+  df8c55ce12b5cfc6f29b01889f7773911a75e6ef:
+    licensed:
+      declared: Apache-2.0
+  e5bf8de410005de06a7ff5393fafdf832ef1d4ad:
+    licensed:
+      declared: Apache-2.0
+  fcc4b966f1265f466e82617020af93670141b009:
+    licensed:
+      declared: Apache-2.0
+  fdb85890df5df1e6b3867c842aabb44f561b446d:
     licensed:
       declared: Apache-2.0

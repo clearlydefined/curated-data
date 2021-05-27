@@ -1,0 +1,9 @@
+coordinates:
+  name: neo4j-bolt
+  namespace: org.neo4j
+  provider: mavencentral
+  type: maven
+revisions:
+  3.5.26:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER

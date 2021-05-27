@@ -12,7 +12,37 @@ revisions:
   6.6.0.3969:
     licensed:
       declared: LGPL-3.0-or-later
+  7.11.0.8083:
+    licensed:
+      declared: LGPL-3.0-or-later
+  7.12.0.8217:
+    licensed:
+      declared: LGPL-3.0-or-later
+  7.13.0.8313:
+    licensed:
+      declared: LGPL-3.0-or-later
+  7.14.0.8411:
+    licensed:
+      declared: LGPL-3.0-or-later
+  7.15.0.8572:
+    licensed:
+      declared: LGPL-3.0-or-later
+  7.16.0.8981:
+    licensed:
+      declared: LGPL-3.0-or-later
+  7.17.0.9346:
+    licensed:
+      declared: LGPL-3.0-or-later
   7.7.0.7192:
+    licensed:
+      declared: LGPL-3.0-or-later
+  8.0.0.9566:
+    licensed:
+      declared: LGPL-3.0-or-later
+  8.1.0.13383:
+    licensed:
+      declared: LGPL-3.0-or-later
+  8.10.0.19839:
     licensed:
       declared: LGPL-3.0-or-later
   8.11.0.20529:
@@ -21,19 +51,43 @@ revisions:
   8.12.0.21095:
     licensed:
       declared: LGPL-3.0-or-later
+  8.13.0.21683:
+    licensed:
+      declared: LGPL-3.0-or-later
   8.13.1.21947:
     licensed:
       declared: LGPL-3.0-or-later
   8.14.0.22654:
     licensed:
       declared: LGPL-3.0-or-later
+  8.15.0.24505:
+    licensed:
+      declared: LGPL-3.0-or-later
+  8.16.0.25740:
+    licensed:
+      declared: LGPL-3.0-or-later
+  8.2.0.14119:
+    licensed:
+      declared: LGPL-3.0-or-later
+  8.3.0.14607:
+    licensed:
+      declared: LGPL-3.0-or-later
   8.4.0.15306:
+    licensed:
+      declared: LGPL-3.0-or-later
+  8.5.0.15942:
+    licensed:
+      declared: LGPL-3.0-or-later
+  8.6.0.16497:
     licensed:
       declared: LGPL-3.0-or-later
   8.6.1.17183:
     licensed:
       declared: LGPL-3.0-or-later
   8.7.0.17535:
+    licensed:
+      declared: LGPL-3.0-or-later
+  8.8.0.18411:
     licensed:
       declared: LGPL-3.0-or-later
   8.9.0.19135:

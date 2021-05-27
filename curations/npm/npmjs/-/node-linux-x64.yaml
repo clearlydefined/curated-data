@@ -1,0 +1,8 @@
+coordinates:
+  name: node-linux-x64
+  provider: npmjs
+  type: npm
+revisions:
+  13.14.0:
+    licensed:
+      declared: MIT

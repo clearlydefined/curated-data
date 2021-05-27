@@ -1,0 +1,14 @@
+coordinates:
+  name: Xamarin.AndroidX.Leanback
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT
+  1.0.0.2:
+    licensed:
+      declared: MIT
+  1.0.0.6:
+    licensed:
+      declared: MIT

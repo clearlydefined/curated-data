@@ -1,0 +1,8 @@
+coordinates:
+  name: gzip-js
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.2:
+    licensed:
+      declared: GPL-2.0-only

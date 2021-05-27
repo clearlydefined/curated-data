@@ -4,6 +4,306 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  1.0.12:
+    licensed:
+      declared: OTHER OR OTHER
+  1.0.15:
+    licensed:
+      declared: OTHER OR OTHER
+  15.4.23:
+    licensed:
+      declared: OTHER OR OTHER
+  16.1.24:
+    licensed:
+      declared: OTHER OR OTHER
+  16.1.26:
+    licensed:
+      declared: OTHER OR OTHER
+  16.1.27:
+    licensed:
+      declared: OTHER OR OTHER
+  16.1.28:
+    licensed:
+      declared: OTHER OR OTHER
+  16.1.29:
+    licensed:
+      declared: OTHER OR OTHER
+  16.1.30:
+    licensed:
+      declared: OTHER OR OTHER
+  16.1.32:
+    licensed:
+      declared: OTHER OR OTHER
+  16.1.33:
+    licensed:
+      declared: OTHER OR OTHER
+  16.1.35:
+    licensed:
+      declared: OTHER OR OTHER
+  16.1.37:
+    licensed:
+      declared: OTHER OR OTHER
+  16.1.38:
+    licensed:
+      declared: OTHER OR OTHER
+  16.2.41:
+    licensed:
+      declared: OTHER OR OTHER
+  16.2.45:
+    licensed:
+      declared: OTHER OR OTHER
+  16.2.46:
+    licensed:
+      declared: OTHER OR OTHER
+  16.2.47:
+    licensed:
+      declared: OTHER OR OTHER
+  16.2.49:
+    licensed:
+      declared: OTHER OR OTHER
+  16.2.50:
+    licensed:
+      declared: OTHER OR OTHER
+  16.3.17:
+    licensed:
+      declared: OTHER OR OTHER
+  16.3.21:
+    licensed:
+      declared: OTHER OR OTHER
+  16.3.24:
+    licensed:
+      declared: OTHER OR OTHER
+  16.3.29:
+    licensed:
+      declared: OTHER OR OTHER
+  16.3.30:
+    licensed:
+      declared: OTHER OR OTHER
+  16.3.32:
+    licensed:
+      declared: OTHER OR OTHER
+  16.3.33:
+    licensed:
+      declared: OTHER OR OTHER
+  16.3.34:
+    licensed:
+      declared: OTHER OR OTHER
+  16.4.40-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  16.4.42:
+    licensed:
+      declared: OTHER OR OTHER
+  16.4.47:
+    licensed:
+      declared: OTHER OR OTHER
+  16.4.52:
+    licensed:
+      declared: OTHER OR OTHER
+  17.1.1-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.1.32-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.1.38:
+    licensed:
+      declared: OTHER OR OTHER
+  17.1.41:
+    licensed:
+      declared: OTHER OR OTHER
+  17.1.42:
+    licensed:
+      declared: OTHER OR OTHER
+  17.1.43:
+    licensed:
+      declared: OTHER OR OTHER
+  17.1.47:
+    licensed:
+      declared: OTHER OR OTHER
+  17.1.48:
+    licensed:
+      declared: OTHER OR OTHER
+  17.1.49:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.28-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.29-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.34:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.35:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.39:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.40:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.46:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.47:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.48-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.49:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.52-1205479:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.53-1205479:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.14:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.16:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.19:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.27:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.9-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.4.43:
+    licensed:
+      declared: OTHER OR OTHER
+  17.4.47:
+    licensed:
+      declared: OTHER OR OTHER
+  17.4.51:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.42:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.44:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.52:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.53:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.56:
+    licensed:
+      declared: OTHER OR OTHER
+  18.2.44:
+    licensed:
+      declared: OTHER OR OTHER
+  18.2.47:
+    licensed:
+      declared: OTHER OR OTHER
+  18.2.54:
+    licensed:
+      declared: OTHER OR OTHER
+  18.2.55:
+    licensed:
+      declared: OTHER OR OTHER
+  18.2.57:
+    licensed:
+      declared: OTHER OR OTHER
+  18.2.59:
+    licensed:
+      declared: OTHER OR OTHER
+  18.3.35:
+    licensed:
+      declared: OTHER OR OTHER
+  18.3.40:
+    licensed:
+      declared: OTHER OR OTHER
+  18.3.44:
+    licensed:
+      declared: OTHER OR OTHER
+  18.3.49:
+    licensed:
+      declared: OTHER OR OTHER
+  18.3.52:
+    licensed:
+      declared: OTHER OR OTHER
+  18.4.31:
+    licensed:
+      declared: OTHER OR OTHER
+  18.4.34:
+    licensed:
+      declared: OTHER OR OTHER
+  18.4.39:
+    licensed:
+      declared: OTHER OR OTHER
+  18.4.41:
+    licensed:
+      declared: OTHER OR OTHER
+  18.4.42:
+    licensed:
+      declared: OTHER OR OTHER
+  18.4.43:
+    licensed:
+      declared: OTHER OR OTHER
+  17.4.41:
+    licensed:
+      declared: OTHER OR OTHER
+  17.4.46:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.26:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.57:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.36-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.43:
+    licensed:
+      declared: OTHER OR OTHER
+  17.4.39:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.49-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.54-1205479:
+    licensed:
+      declared: OTHER OR OTHER
+  18.3.48:
+    licensed:
+      declared: OTHER OR OTHER
+  18.3.51:
+    licensed:
+      declared: OTHER OR OTHER
+  18.3.47:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.14-4568:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.55-1205479:
+    licensed:
+      declared: OTHER OR OTHER
+  18.4.30:
+    licensed:
+      declared: OTHER OR OTHER
   18.4.44:
+    licensed:
+      declared: OTHER OR OTHER
+  19.1.54:
+    licensed:
+      declared: OTHER OR OTHER
+  19.1.56:
     licensed:
       declared: OTHER OR OTHER

@@ -1,0 +1,182 @@
+coordinates:
+  name: ServiceStack
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.10:
+    licensed:
+      declared: OTHER
+  4.0.11:
+    licensed:
+      declared: OTHER
+  4.0.12:
+    licensed:
+      declared: OTHER
+  4.0.13:
+    licensed:
+      declared: OTHER
+  4.0.14:
+    licensed:
+      declared: OTHER
+  4.0.15:
+    licensed:
+      declared: OTHER
+  4.0.16:
+    licensed:
+      declared: OTHER
+  4.0.17:
+    licensed:
+      declared: OTHER
+  4.0.18:
+    licensed:
+      declared: OTHER
+  4.0.19:
+    licensed:
+      declared: OTHER
+  4.0.2:
+    licensed:
+      declared: OTHER
+  4.0.20:
+    licensed:
+      declared: OTHER
+  4.0.21:
+    licensed:
+      declared: OTHER
+  4.0.22:
+    licensed:
+      declared: OTHER
+  4.0.23:
+    licensed:
+      declared: OTHER
+  4.0.24:
+    licensed:
+      declared: OTHER
+  4.0.3:
+    licensed:
+      declared: OTHER
+  4.0.30:
+    licensed:
+      declared: OTHER
+  4.0.31:
+    licensed:
+      declared: OTHER
+  4.0.32:
+    licensed:
+      declared: OTHER
+  4.0.33:
+    licensed:
+      declared: OTHER
+  4.0.34:
+    licensed:
+      declared: OTHER
+  4.0.35:
+    licensed:
+      declared: OTHER
+  4.0.36:
+    licensed:
+      declared: OTHER
+  4.0.38:
+    licensed:
+      declared: OTHER
+  4.0.4:
+    licensed:
+      declared: OTHER
+  4.0.40:
+    licensed:
+      declared: OTHER
+  4.0.42:
+    licensed:
+      declared: OTHER
+  4.0.44:
+    licensed:
+      declared: OTHER
+  4.0.46:
+    licensed:
+      declared: OTHER
+  4.0.48:
+    licensed:
+      declared: OTHER
+  4.0.5:
+    licensed:
+      declared: OTHER
+  4.0.50:
+    licensed:
+      declared: OTHER
+  4.0.52:
+    licensed:
+      declared: OTHER
+  4.0.54:
+    licensed:
+      declared: OTHER
+  4.0.56:
+    licensed:
+      declared: OTHER
+  4.0.58:
+    licensed:
+      declared: OTHER
+  4.0.6:
+    licensed:
+      declared: OTHER
+  4.0.60:
+    licensed:
+      declared: OTHER
+  4.0.62:
+    licensed:
+      declared: OTHER
+  4.0.7:
+    licensed:
+      declared: OTHER
+  4.0.8:
+    licensed:
+      declared: OTHER
+  4.0.9:
+    licensed:
+      declared: OTHER
+  4.5.0:
+    licensed:
+      declared: OTHER
+  4.5.10:
+    licensed:
+      declared: OTHER
+  4.5.12:
+    licensed:
+      declared: OTHER
+  4.5.14:
+    licensed:
+      declared: OTHER
+  4.5.2:
+    licensed:
+      declared: OTHER
+  4.5.4:
+    licensed:
+      declared: OTHER
+  4.5.6:
+    licensed:
+      declared: OTHER
+  4.5.8:
+    licensed:
+      declared: OTHER
+  5.0.0:
+    licensed:
+      declared: OTHER
+  5.1.0:
+    licensed:
+      declared: OTHER
+  5.10.2:
+    licensed:
+      declared: OTHER
+  5.10.4:
+    licensed:
+      declared: OTHER
+  5.2.0:
+    licensed:
+      declared: OTHER
+  5.5.0:
+    licensed:
+      declared: OTHER
+  5.7.0:
+    licensed:
+      declared: OTHER
+  5.9.2:
+    licensed:
+      declared: OTHER

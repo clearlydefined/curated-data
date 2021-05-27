@@ -1,0 +1,9 @@
+coordinates:
+  name: websocket
+  namespace: gorilla
+  provider: github
+  type: git
+revisions:
+  b65e62901fc1c0d968042419e74789f6af455eb9:
+    licensed:
+      declared: BSD-2-Clause
