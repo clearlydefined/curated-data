@@ -1,0 +1,9 @@
+coordinates:
+  name: eclipse-collections-api
+  namespace: org.eclipse.collections
+  provider: mavencentral
+  type: maven
+revisions:
+  9.2.0:
+    licensed:
+      declared: EPL-1.0 AND BSD-3-Clause
