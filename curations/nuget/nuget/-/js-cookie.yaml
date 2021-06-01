@@ -1,0 +1,8 @@
+coordinates:
+  name: js-cookie
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.3:
+    licensed:
+      declared: MIT

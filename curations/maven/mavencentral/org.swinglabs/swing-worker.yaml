@@ -1,0 +1,9 @@
+coordinates:
+  name: swing-worker
+  namespace: org.swinglabs
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: LGPL-2.0-or-later
