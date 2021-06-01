@@ -1,0 +1,8 @@
+coordinates:
+  name: HotChocolate.Types.Scalars.Upload
+  provider: nuget
+  type: nuget
+revisions:
+  11.2.1:
+    licensed:
+      declared: MIT

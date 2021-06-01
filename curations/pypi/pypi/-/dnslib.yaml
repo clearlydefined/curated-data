@@ -1,0 +1,8 @@
+coordinates:
+  name: dnslib
+  provider: pypi
+  type: pypi
+revisions:
+  0.9.16:
+    licensed:
+      declared: BSD-2-Clause

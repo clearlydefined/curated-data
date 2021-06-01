@@ -4,6 +4,27 @@ coordinates:
   provider: github
   type: git
 revisions:
+  10f0e6993f9d2f682da6d04aa2385b7d53cbb4ee:
+    licensed:
+      declared: BSD-3-Clause OR GPL-2.0-only
+  21cd8a9d95a321f1fe256dc837e388bbc168fdbf:
+    licensed:
+      declared: BSD-3-Clause OR GPL-2.0-only
+  52181f877a96ca3feb688820ba852a0c044cc620:
+    licensed:
+      declared: BSD-3-Clause OR GPL-2.0-only
+  83b51e9f886be7c2a4d477b6e7bc6db831791d8d:
+    licensed:
+      declared: BSD-3-Clause OR GPL-2.0-only
+  a3d655d2255481333e09ecca9855f1b37f757c52:
+    licensed:
+      declared: BSD-3-Clause OR GPL-2.0-only
   b706286adbba780006a47ef92df0ad7a785666b6:
+    licensed:
+      declared: BSD-3-Clause OR GPL-2.0-only
+  f800e72a3c04604475dcfbb337c4fe0cdd430ead:
+    licensed:
+      declared: BSD-3-Clause OR GPL-2.0-only
+  ff304e9e65e7cde17a637eea190a874c26c48634:
     licensed:
       declared: BSD-3-Clause OR GPL-2.0-only
