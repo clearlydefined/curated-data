@@ -8,4 +8,4 @@ revisions:
       declared: GPL-3.0
   4.5.1.4349:
     licensed:
-      declared: OTHER
+      declared: GPL-3.0-only OR OTHER
