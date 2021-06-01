@@ -6,7 +6,7 @@ coordinates:
 revisions:
   1.16.22:
     licensed:
-      declared: NONE
+      declared: MIT
   1.18.6:
     licensed:
       declared: MIT
