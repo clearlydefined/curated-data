@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.xtext.xbase.lib
+  namespace: org.eclipse.xtext
+  provider: mavencentral
+  type: maven
+revisions:
+  2.18.0:
+    licensed:
+      declared: EPL-1.0

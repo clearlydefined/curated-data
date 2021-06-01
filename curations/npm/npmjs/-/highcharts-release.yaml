@@ -1,0 +1,8 @@
+coordinates:
+  name: highcharts-release
+  provider: npmjs
+  type: npm
+revisions:
+  4.1.8:
+    licensed:
+      declared: OTHER

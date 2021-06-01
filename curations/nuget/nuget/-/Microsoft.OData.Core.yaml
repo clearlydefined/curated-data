@@ -6,10 +6,64 @@ revisions:
   6.13.0:
     licensed:
       declared: MIT
+  6.16.0:
+    licensed:
+      declared: MIT
+  6.16.0-beta:
+    licensed:
+      declared: MIT
+  6.17.0:
+    licensed:
+      declared: MIT
+  6.18.0:
+    licensed:
+      declared: MIT
+  6.18.0-beta:
+    licensed:
+      declared: MIT
+  6.19.0:
+    licensed:
+      declared: MIT
+  7.1.0:
+    licensed:
+      declared: MIT
+  7.1.1:
+    licensed:
+      declared: MIT
   7.2.0:
     licensed:
       declared: MIT
+  7.3.0:
+    licensed:
+      declared: MIT
+  7.3.0-beta:
+    licensed:
+      declared: MIT
   7.3.1:
+    licensed:
+      declared: MIT
+  7.4.0:
+    licensed:
+      declared: MIT
+  7.4.0-beta:
+    licensed:
+      declared: MIT
+  7.4.0-beta2:
+    licensed:
+      declared: MIT
+  7.4.0-beta3:
+    licensed:
+      declared: MIT
+  7.4.1:
+    licensed:
+      declared: MIT
+  7.4.2:
+    licensed:
+      declared: MIT
+  7.4.3:
+    licensed:
+      declared: MIT
+  7.4.4:
     licensed:
       declared: MIT
   7.5.0:
@@ -18,9 +72,60 @@ revisions:
   7.5.1:
     licensed:
       declared: MIT
+  7.5.3:
+    licensed:
+      declared: MIT
   7.5.4:
     licensed:
       declared: MIT
+  7.6.0:
+    licensed:
+      declared: MIT
+  7.6.0-beta:
+    licensed:
+      declared: MIT
+  7.6.1:
+    licensed:
+      declared: MIT
+  7.6.1-beta:
+    licensed:
+      declared: MIT
+  7.6.2:
+    licensed:
+      declared: MIT
+  7.6.3:
+    licensed:
+      declared: MIT
   7.6.4:
+    licensed:
+      declared: MIT
+  7.7.0:
+    licensed:
+      declared: MIT
+  7.7.0-beta:
+    licensed:
+      declared: MIT
+  7.7.1:
+    licensed:
+      declared: MIT
+  7.7.2:
+    licensed:
+      declared: MIT
+  7.7.3:
+    licensed:
+      declared: MIT
+  7.8.0:
+    licensed:
+      declared: MIT
+  7.8.1:
+    licensed:
+      declared: MIT
+  7.8.2:
+    licensed:
+      declared: MIT
+  7.8.3:
+    licensed:
+      declared: MIT
+  7.9.0:
     licensed:
       declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: program_options
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  bc0c90a70f0435ee4ce65b97a68d864a7d627e35:
+    licensed:
+      declared: BSL-1.0
