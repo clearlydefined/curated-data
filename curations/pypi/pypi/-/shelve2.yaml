@@ -1,0 +1,8 @@
+coordinates:
+  name: shelve2
+  provider: pypi
+  type: pypi
+revisions:
+  '1.0':
+    licensed:
+      declared: PSF-2.0

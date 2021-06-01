@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-annotations-api_1.3_spec
+  namespace: org.jboss.spec.javax.annotation
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.1.Final:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0

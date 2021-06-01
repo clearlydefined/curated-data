@@ -1,0 +1,9 @@
+coordinates:
+  name: aerospike-client
+  namespace: com.aerospike
+  provider: mavencentral
+  type: maven
+revisions:
+  4.0.6:
+    licensed:
+      declared: Apache-2.0
