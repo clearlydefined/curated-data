@@ -4,6 +4,33 @@ coordinates:
   provider: github
   type: git
 revisions:
+  085f24b9ecbc0e90d204cab1c111c4abe4608ce0:
+    licensed:
+      declared: Apache-2.0 OR MIT
+  2659cbf14bfb0929a16d7ce9b6858d0bb286ede7:
+    licensed:
+      declared: Apache-2.0 OR MIT
+  48ef96dd00b90d950a122ca180923aba77efaf74:
+    licensed:
+      declared: Apache-2.0 OR MIT
+  585cab26ca17f23035de054a325b9dd62ae0e738:
+    licensed:
+      declared: Apache-2.0 OR MIT
+  5fde462d8c53b86840100a927a17c8353bba3e3f:
+    licensed:
+      declared: Apache-2.0 OR MIT
+  7d3aba2a930943c23a33d69bea9f2805d63836da:
+    licensed:
+      declared: Apache-2.0 OR MIT
   b27e1173969639448cd2e486b1c5f0fcb1b3b17c:
+    licensed:
+      declared: Apache-2.0 OR MIT
+  dab1468d6aeed0e49f7d0569c1d2128b5a7751e0:
+    licensed:
+      declared: Apache-2.0 OR MIT
+  dd341d53075411cf0f71c5853c98facda35112ef:
+    licensed:
+      declared: Apache-2.0 OR MIT
+  fd1df1554a22accde727e8c4bdeb2a065627d10c:
     licensed:
       declared: Apache-2.0 OR MIT

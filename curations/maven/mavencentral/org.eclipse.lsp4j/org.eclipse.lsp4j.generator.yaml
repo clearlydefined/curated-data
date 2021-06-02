@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.lsp4j.generator
+  namespace: org.eclipse.lsp4j
+  provider: mavencentral
+  type: maven
+revisions:
+  0.8.1:
+    licensed:
+      declared: EPL-2.0

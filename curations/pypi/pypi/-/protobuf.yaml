@@ -5,7 +5,7 @@ coordinates:
 revisions:
   2.0.0beta:
     licensed:
-      declared: Apache-2.0
+      declared: BSD-3-Clause
   2.0.3:
     licensed:
       declared: BSD-3-Clause
@@ -156,6 +156,24 @@ revisions:
   3.15.8:
     licensed:
       declared: BSD-3-Clause
+  3.16.0:
+    licensed:
+      declared: Apache-2.0
+  3.16.0rc1:
+    licensed:
+      declared: BSD-3-Clause
+  3.17.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.17.1:
+    licensed:
+      declared: BSD-3-Clause
+  3.17.0rc1:
+    licensed:
+      declared: BSD-3-Clause
+  3.17.0rc2:
+    licensed:
+      declared: BSD-3-Clause
   3.2.0:
     licensed:
       declared: BSD-3-Clause
@@ -175,9 +193,6 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   3.5.0.post1:
-    licensed:
-      declared: BSD-3-Clause
-  3.16.0rc1:
     licensed:
       declared: BSD-3-Clause
   3.5.1:
