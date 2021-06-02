@@ -1,0 +1,9 @@
+coordinates:
+  name: dr_libs
+  namespace: mackron
+  provider: github
+  type: git
+revisions:
+  ac9a8ef455d1170655883e346b35fc1db7effb73:
+    licensed:
+      declared: MIT-0 OR OTHER
