@@ -1,0 +1,9 @@
+coordinates:
+  name: react-icons-mdl2-branded
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.1:
+    licensed:
+      declared: OTHER

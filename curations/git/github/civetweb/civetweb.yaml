@@ -1,0 +1,9 @@
+coordinates:
+  name: civetweb
+  namespace: civetweb
+  provider: github
+  type: git
+revisions:
+  ce8f6d38a60eb16c996afee1e5340f76ef4d0923:
+    licensed:
+      declared: MIT

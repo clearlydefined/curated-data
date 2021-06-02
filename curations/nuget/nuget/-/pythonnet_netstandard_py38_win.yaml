@@ -1,0 +1,8 @@
+coordinates:
+  name: pythonnet_netstandard_py38_win
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.1.1:
+    licensed:
+      declared: MIT
