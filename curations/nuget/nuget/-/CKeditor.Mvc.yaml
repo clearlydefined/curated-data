@@ -1,0 +1,8 @@
+coordinates:
+  name: CKeditor.Mvc
+  provider: nuget
+  type: nuget
+revisions:
+  3.6.5:
+    licensed:
+      declared: MS-PL
