@@ -1,0 +1,9 @@
+coordinates:
+  name: java-getopt
+  namespace: gnu.getopt
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.13:
+    licensed:
+      declared: LGPL-2.0-or-later
