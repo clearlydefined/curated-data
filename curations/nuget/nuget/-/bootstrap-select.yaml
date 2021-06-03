@@ -1,0 +1,8 @@
+coordinates:
+  name: bootstrap-select
+  provider: nuget
+  type: nuget
+revisions:
+  1.12.2:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: elasticsearch
+  namespace: org.elasticsearch
+  provider: mavencentral
+  type: maven
+revisions:
+  7.12.1:
+    licensed:
+      declared: SSPL-1.0 OR OTHER

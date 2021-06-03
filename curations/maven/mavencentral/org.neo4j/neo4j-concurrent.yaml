@@ -1,0 +1,30 @@
+coordinates:
+  name: neo4j-concurrent
+  namespace: org.neo4j
+  provider: mavencentral
+  type: maven
+revisions:
+  3.5.0-alpha02:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER
+  3.5.12:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER
+  3.5.14:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER
+  3.5.15:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER
+  3.5.16:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER
+  3.5.2:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER
+  3.5.26:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER
+  3.5.4:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER

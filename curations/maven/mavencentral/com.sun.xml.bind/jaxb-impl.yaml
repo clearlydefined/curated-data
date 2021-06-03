@@ -10,3 +10,30 @@ revisions:
   2.3.2:
     licensed:
       declared: BSD-3-Clause
+  2.3.3:
+    licensed:
+      declared: BSD-3-Clause
+  2.3.3-b01:
+    licensed:
+      declared: BSD-3-Clause
+  2.3.3-b02:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0-M1:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0-M2:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0-M3:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.0-M4:
+    licensed:
+      declared: BSD-3-Clause
+  3.0.2-b01:
+    licensed:
+      declared: BSD-3-Clause

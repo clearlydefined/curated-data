@@ -7,3 +7,6 @@ revisions:
   19.3.0.2:
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
+  20.0.0:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
