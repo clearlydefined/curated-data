@@ -36,3 +36,6 @@ revisions:
   3.4.1:
     licensed:
       declared: PSF-2.0
+  3.4.2:
+    licensed:
+      declared: PSF-2.0
