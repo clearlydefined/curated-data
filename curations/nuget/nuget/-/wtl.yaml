@@ -1,0 +1,8 @@
+coordinates:
+  name: wtl
+  provider: nuget
+  type: nuget
+revisions:
+  10.0.10320:
+    licensed:
+      declared: CPL-1.0
