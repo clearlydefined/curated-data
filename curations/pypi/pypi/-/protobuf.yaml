@@ -158,8 +158,11 @@ revisions:
       declared: BSD-3-Clause
   3.16.0:
     licensed:
-      declared: Apache-2.0
+      declared: BSD-3-Clause
   3.16.0rc1:
+    licensed:
+      declared: BSD-3-Clause
+  3.16.0rc2:
     licensed:
       declared: BSD-3-Clause
   3.17.0:
