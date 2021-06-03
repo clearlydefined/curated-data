@@ -1,0 +1,9 @@
+coordinates:
+  name: spirv-reflect
+  namespace: khronosgroup
+  provider: github
+  type: git
+revisions:
+  f61b8dc39f5cdbf21bee6bcc7e5af01dd4f5da83:
+    licensed:
+      declared: Apache-2.0

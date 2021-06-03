@@ -6,9 +6,33 @@ revisions:
   6.0.2:
     licensed:
       declared: OTHER
+  6.3.0:
+    licensed:
+      declared: OTHER
+  6.6.0:
+    licensed:
+      declared: OTHER
+  6.6.2:
+    licensed:
+      declared: OTHER
   6.7.0:
     licensed:
       declared: OTHER
+  6.8.3:
+    licensed:
+      declared: OTHER
   6.9.0:
+    licensed:
+      declared: OTHER
+  7.0.0:
+    licensed:
+      declared: OTHER
+  7.1.0:
+    licensed:
+      declared: OTHER
+  7.2.0:
+    licensed:
+      declared: OTHER
+  7.3.0:
     licensed:
       declared: OTHER
