@@ -1,0 +1,9 @@
+coordinates:
+  name: neo4j-cypher-frontend-2.3
+  namespace: org.neo4j
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.12:
+    licensed:
+      declared: GPL-3.0-or-later OR OTHER

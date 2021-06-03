@@ -1,0 +1,8 @@
+coordinates:
+  name: furl
+  provider: pypi
+  type: pypi
+revisions:
+  2.1.2:
+    licensed:
+      declared: Unlicense

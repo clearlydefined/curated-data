@@ -9,9 +9,33 @@ revisions:
   19.8.0:
     licensed:
       declared: OTHER
+  20.10.0:
+    licensed:
+      declared: OTHER
+  20.11.0:
+    licensed:
+      declared: OTHER
+  20.12.0:
+    licensed:
+      declared: OTHER
+  20.4.0:
+    licensed:
+      declared: OTHER
+  20.5.0:
+    licensed:
+      declared: OTHER
+  20.6.0:
+    licensed:
+      declared: OTHER
+  20.7.0:
+    licensed:
+      declared: OTHER
   20.8.0:
     licensed:
       declared: OTHER
   20.9.0:
+    licensed:
+      declared: OTHER
+  21.1.0:
     licensed:
       declared: OTHER

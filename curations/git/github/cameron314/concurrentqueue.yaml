@@ -1,0 +1,9 @@
+coordinates:
+  name: concurrentqueue
+  namespace: cameron314
+  provider: github
+  type: git
+revisions:
+  5ec729e63560a01f3dadc1f58d07b36bbd76a373:
+    licensed:
+      declared: BSD-2-Clause

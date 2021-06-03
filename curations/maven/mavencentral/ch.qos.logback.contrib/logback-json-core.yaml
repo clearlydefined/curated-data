@@ -1,0 +1,9 @@
+coordinates:
+  name: logback-json-core
+  namespace: ch.qos.logback.contrib
+  provider: mavencentral
+  type: maven
+revisions:
+  0.1.5:
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1-only

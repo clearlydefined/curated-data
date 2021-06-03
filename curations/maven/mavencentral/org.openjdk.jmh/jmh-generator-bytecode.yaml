@@ -1,0 +1,57 @@
+coordinates:
+  name: jmh-generator-bytecode
+  namespace: org.openjdk.jmh
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.13':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.14':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  1.14.1:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.15':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.16':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.17':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  1.17.1:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  1.17.2:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  1.17.3:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  1.17.4:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  1.17.5:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.18':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.19':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.20':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.21':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.22':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.23':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0

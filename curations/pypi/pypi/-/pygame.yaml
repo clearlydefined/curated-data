@@ -3,6 +3,84 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  1.9.2:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.2.dev1:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.2b1:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.2b4:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.2b5:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.2b6:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.2b7:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.2b8:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.2rc1:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.3:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.4.dev0:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.4.post1:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.4rc1:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.5:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.5.dev0:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.5rc1:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.5rc2:
+    licensed:
+      declared: LGPL-2.1-only
+  1.9.6:
+    licensed:
+      declared: LGPL-2.1-only
+  2.0.0:
+    licensed:
+      declared: LGPL-2.1-only
+  2.0.0.dev10:
+    licensed:
+      declared: LGPL-2.1-only
+  2.0.0.dev2:
+    licensed:
+      declared: LGPL-2.1-only
+  2.0.0.dev3:
+    licensed:
+      declared: LGPL-2.1-only
+  2.0.0.dev4:
+    licensed:
+      declared: LGPL-2.1-only
+  2.0.0.dev6:
+    licensed:
+      declared: LGPL-2.1-only
+  2.0.0.dev8:
+    licensed:
+      declared: LGPL-2.1-only
+  2.0.0.dev9:
+    licensed:
+      declared: LGPL-2.1-only
   2.0.1:
     licensed:
       declared: LGPL-2.1-only

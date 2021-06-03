@@ -1,0 +1,9 @@
+coordinates:
+  name: xpressive
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  a79ffb49e84dc5083e31e2070c5effd3b7f5301a:
+    licensed:
+      declared: BSL-1.0

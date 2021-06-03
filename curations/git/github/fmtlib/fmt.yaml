@@ -6,27 +6,30 @@ coordinates:
 revisions:
   16aec06179a2c2661be77fd9ba3b202955de0c0b:
     licensed:
-      declared: MIT WITH OTHER
+      declared: OTHER
   19bd751020a1f3c3363b2eb67a039852f139a8d3:
     licensed:
-      declared: MIT WITH OTHER
+      declared: OTHER
+  4fe0b11195b7cd71f39253c44db2c9dddf6b82d4:
+    licensed:
+      declared: OTHER
   6cccdc24bcb8605965c1e2497c61504cd388bde9:
     licensed:
-      declared: MIT WITH OTHER
+      declared: OTHER
   7bdf0628b1276379886c7f6dda2cef2b3b374f0b:
     licensed:
-      declared: MIT WITH OTHER
+      declared: OTHER
   9bdd1596cef1b57b9556f8bef32dc4a32322ef3e:
     files:
       - attributions:
           - 'Copyright (c) 2012 - present, Victor Zverovich'
-        license: MIT WITH OTHER
+        license: OTHER
         path: LICENSE.rst
     licensed:
-      declared: MIT WITH OTHER
+      declared: OTHER
   cd4af11efc9c622896a3e4cb599fa28668ca3d05:
     licensed:
-      declared: MIT WITH OTHER
+      declared: OTHER
   f19b1a521ee8b606dedcadfda69fd10ddf882753:
     licensed:
-      declared: MIT WITH OTHER
+      declared: OTHER

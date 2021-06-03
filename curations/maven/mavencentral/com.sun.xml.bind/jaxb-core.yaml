@@ -1,0 +1,27 @@
+coordinates:
+  name: jaxb-core
+  namespace: com.sun.xml.bind
+  provider: mavencentral
+  type: maven
+revisions:
+  2.2.10:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
+  2.2.10-b140310.1920:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
+  2.2.10-b140802.1033:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
+  2.2.11:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
+  2.3.0:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
+  2.3.0-b170127.1453:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
+  2.3.0.1:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
