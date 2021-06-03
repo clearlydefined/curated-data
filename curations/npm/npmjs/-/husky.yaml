@@ -8,4 +8,4 @@ revisions:
       declared: MIT AND Parity-7.0.0 AND OTHER
   5.2.0:
     licensed:
-      declared: Parity-7.0.0 WITH OTHER AND MIT
+      declared: MIT AND Parity-7.0.0 AND OTHER
