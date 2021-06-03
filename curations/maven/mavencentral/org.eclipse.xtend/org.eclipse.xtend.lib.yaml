@@ -1,0 +1,108 @@
+coordinates:
+  name: org.eclipse.xtend.lib
+  namespace: org.eclipse.xtend
+  provider: mavencentral
+  type: maven
+revisions:
+  2.11.0:
+    licensed:
+      declared: EPL-1.0
+  2.11.0.RC1:
+    licensed:
+      declared: EPL-1.0
+  2.11.0.RC2:
+    licensed:
+      declared: EPL-1.0
+  2.11.0.beta2:
+    licensed:
+      declared: EPL-1.0
+  2.12.0:
+    licensed:
+      declared: EPL-1.0
+  2.12.0.M1:
+    licensed:
+      declared: EPL-1.0
+  2.13.0:
+    licensed:
+      declared: EPL-1.0
+  2.13.0.M2:
+    licensed:
+      declared: EPL-1.0
+  2.13.0.RC1:
+    licensed:
+      declared: EPL-1.0
+  2.14.0:
+    licensed:
+      declared: EPL-1.0
+  2.14.0.RC1:
+    licensed:
+      declared: EPL-1.0
+  2.15.0:
+    licensed:
+      declared: EPL-1.0
+  2.16.0:
+    licensed:
+      declared: EPL-1.0
+  2.16.0.M1:
+    licensed:
+      declared: EPL-1.0
+  2.16.0.M3:
+    licensed:
+      declared: EPL-1.0
+  2.17.0:
+    licensed:
+      declared: EPL-1.0
+  2.17.0.M1:
+    licensed:
+      declared: EPL-1.0
+  2.17.0.M2:
+    licensed:
+      declared: EPL-1.0
+  2.17.0.M3:
+    licensed:
+      declared: EPL-1.0
+  2.17.1:
+    licensed:
+      declared: EPL-1.0
+  2.18.0:
+    licensed:
+      declared: EPL-1.0
+  2.18.0.M1:
+    licensed:
+      declared: EPL-1.0
+  2.18.0.M2:
+    licensed:
+      declared: EPL-1.0
+  2.18.0.M3:
+    licensed:
+      declared: EPL-1.0
+  2.19.0:
+    licensed:
+      declared: EPL-1.0
+  2.19.0.M1:
+    licensed:
+      declared: EPL-1.0
+  2.19.0.M2:
+    licensed:
+      declared: EPL-1.0
+  2.19.0.M3:
+    licensed:
+      declared: EPL-1.0
+  2.20.0:
+    licensed:
+      declared: EPL-1.0
+  2.20.0.M1:
+    licensed:
+      declared: EPL-1.0
+  2.20.0.M2:
+    licensed:
+      declared: EPL-1.0
+  2.20.0.M3:
+    licensed:
+      declared: EPL-1.0
+  2.21.0.M1:
+    licensed:
+      declared: EPL-1.0
+  2.21.0.M2:
+    licensed:
+      declared: EPL-1.0

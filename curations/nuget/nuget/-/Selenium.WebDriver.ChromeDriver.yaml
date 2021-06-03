@@ -6,7 +6,52 @@ revisions:
   2.24.0:
     licensed:
       declared: Unlicense
+  2.26.0:
+    licensed:
+      declared: Unlicense
+  2.27.0:
+    licensed:
+      declared: Unlicense
+  2.27.0.2-beta:
+    licensed:
+      declared: Unlicense
+  2.27.0.6-beta:
+    licensed:
+      declared: Unlicense
+  2.27.0.7-beta:
+    licensed:
+      declared: Unlicense
+  2.28.0:
+    licensed:
+      declared: Unlicense
+  2.28.0.1-beta:
+    licensed:
+      declared: Unlicense
+  2.28.0.2-beta:
+    licensed:
+      declared: Unlicense
+  2.29.0:
+    licensed:
+      declared: Unlicense
+  2.30.0:
+    licensed:
+      declared: Unlicense
+  2.30.0.1:
+    licensed:
+      declared: Unlicense
+  2.31.0:
+    licensed:
+      declared: Unlicense
+  2.32.0:
+    licensed:
+      declared: Unlicense
   2.33.0:
+    licensed:
+      declared: Unlicense
+  2.34.0:
+    licensed:
+      declared: Unlicense
+  2.35.0:
     licensed:
       declared: Unlicense
   2.36.0:
@@ -18,15 +63,42 @@ revisions:
   2.38.0:
     licensed:
       declared: Unlicense
+  2.38.0.1:
+    licensed:
+      declared: Unlicense
+  2.39.0:
+    licensed:
+      declared: Unlicense
   2.40.0:
     licensed:
       declared: Unlicense
   2.41.0:
     licensed:
       declared: Unlicense
+  2.42.0:
+    licensed:
+      declared: Unlicense
   2.42.0.1:
     licensed:
       declared: Unlicense
+  2.43.0:
+    licensed:
+      declared: Unlicense
+  2.44.0:
+    licensed:
+      declared: Unlicense
   2.45.0:
+    licensed:
+      declared: Unlicense
+  2.46.0:
+    licensed:
+      declared: Unlicense
+  71.0.3578.137:
+    licensed:
+      declared: Unlicense
+  72.0.3626.69:
+    licensed:
+      declared: Unlicense
+  73.0.3683.20:
     licensed:
       declared: Unlicense

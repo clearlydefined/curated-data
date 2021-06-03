@@ -1,0 +1,9 @@
+coordinates:
+  name: xsoup
+  namespace: us.codecraft
+  provider: mavencentral
+  type: maven
+revisions:
+  0.3.1:
+    licensed:
+      declared: MIT
