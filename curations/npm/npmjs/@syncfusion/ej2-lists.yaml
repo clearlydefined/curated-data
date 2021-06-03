@@ -130,19 +130,19 @@ revisions:
   17.2.28-beta:
     licensed:
       declared: OTHER OR OTHER
-  17.2.46:
-    licensed:
-      declared: OTHER OR OTHER
-  17.2.48-beta:
-    licensed:
-      declared: OTHER OR OTHER
   17.2.29-beta:
     licensed:
       declared: OTHER OR OTHER
   17.2.34:
     licensed:
       declared: OTHER OR OTHER
+  17.2.46:
+    licensed:
+      declared: OTHER OR OTHER
   17.2.47:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.48-beta:
     licensed:
       declared: OTHER OR OTHER
   17.2.49-beta:
@@ -154,9 +154,6 @@ revisions:
   17.2.55-1205479:
     licensed:
       declared: OTHER OR OTHER
-  17.3.9-beta:
-    licensed:
-      declared: OTHER OR OTHER 
   17.3.14:
     licensed:
       declared: OTHER OR OTHER
@@ -173,6 +170,9 @@ revisions:
     licensed:
       declared: OTHER OR OTHER
   17.3.27:
+    licensed:
+      declared: OTHER OR OTHER
+  17.3.9-beta:
     licensed:
       declared: OTHER OR OTHER
   17.4.39:
@@ -263,5 +263,8 @@ revisions:
     licensed:
       declared: OTHER OR OTHER
   19.1.56:
+    licensed:
+      declared: OTHER OR OTHER
+  19.1.63:
     licensed:
       declared: OTHER OR OTHER
