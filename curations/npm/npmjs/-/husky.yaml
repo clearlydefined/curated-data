@@ -6,3 +6,6 @@ revisions:
   5.1.3:
     licensed:
       declared: MIT AND Parity-7.0.0 AND OTHER
+  5.2.0:
+    licensed:
+      declared: MIT AND Parity-7.0.0 AND OTHER
