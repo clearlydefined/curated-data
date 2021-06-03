@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-measurement-impl
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.5.0:
+    licensed:
+      declared: OTHER
