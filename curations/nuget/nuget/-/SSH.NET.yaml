@@ -8,7 +8,7 @@ revisions:
       declared: BSD-3-Clause
   2014.4.6-beta2:
     licensed:
-      declared: MIT
+      declared: BSD-3-Clause
   2016.0.0:
     licensed:
       declared: MIT
