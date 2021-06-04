@@ -1,0 +1,15 @@
+coordinates:
+  name: react-core
+  namespace: '@patternfly'
+  provider: npmjs
+  type: npm
+revisions:
+  4.120.0:
+    described:
+      sourceLocation:
+        name: patternfly-react
+        namespace: patternfly
+        provider: github
+        revision: b13fcbd18827c0c80f82ac60f204152c3dd7eec5
+        type: git
+        url: 'https://github.com/patternfly/patternfly-react/commit/b13fcbd18827c0c80f82ac60f204152c3dd7eec5'
