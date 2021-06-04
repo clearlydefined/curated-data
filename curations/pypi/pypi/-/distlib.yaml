@@ -9,3 +9,6 @@ revisions:
   0.3.1:
     licensed:
       declared: Python-2.0
+  0.3.2:
+    licensed:
+      declared: PSF-2.0
