@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: k8s-cloud-provider
+  namespace: GoogleCloudPlatform
+  provider: github
+revisions:
+  7901bc822317c56ff20e5189878966a70d52321e:
+    licensed:
+      declared: Apache-2.0
