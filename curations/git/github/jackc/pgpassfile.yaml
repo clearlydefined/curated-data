@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: pgpassfile
+  namespace: jackc
+  provider: github
+revisions:
+  99d8e8e28945ffceaf75b0299fcb2bb656b8a683:
+    licensed:
+      declared: MIT
