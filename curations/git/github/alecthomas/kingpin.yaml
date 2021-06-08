@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: kingpin
+  namespace: alecthomas
+  provider: github
+revisions:
+  947dcec5ba9c011838740e680966fd7087a71d0d:
+    licensed:
+      declared: MIT
