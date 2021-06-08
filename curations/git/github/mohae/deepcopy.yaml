@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: deepcopy
+  namespace: mohae
+  provider: github
+revisions:
+  491d3605edfb866af34a48075bd4355ac1bf46ca:
+    licensed:
+      declared: MIT
