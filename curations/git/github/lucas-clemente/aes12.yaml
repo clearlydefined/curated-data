@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: aes12
+  namespace: lucas-clemente
+  provider: github
+revisions:
+  cd47fb39b79f867c6e4e5cd39cf7abd799f71670:
+    licensed:
+      declared: MIT
