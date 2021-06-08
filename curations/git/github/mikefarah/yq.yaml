@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: yq
+  namespace: mikefarah
+  provider: github
+revisions:
+  8846255d1c37457b729108cfa4160b4b678b8003:
+    licensed:
+      declared: MIT
