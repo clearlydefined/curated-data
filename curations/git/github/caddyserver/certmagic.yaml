@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: certmagic
+  namespace: caddyserver
+  provider: github
+revisions:
+  6a42ef9fe8c2ba8af5d2918a838ec6dbaf3a8edb:
+    licensed:
+      declared: Apache-2.0
