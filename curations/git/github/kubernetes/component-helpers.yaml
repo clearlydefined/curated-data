@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: component-helpers
+  namespace: kubernetes
+  provider: github
+revisions:
+  fb2b7e6065f426f2dac708ad93518177c879a9ab:
+    licensed:
+      declared: Apache-2.0
