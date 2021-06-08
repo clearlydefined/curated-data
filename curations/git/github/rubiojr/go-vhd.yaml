@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-vhd
+  namespace: rubiojr
+  provider: github
+revisions:
+  02e2102990218160c1cb608a3e9679312a3b8425:
+    licensed:
+      declared: MIT
