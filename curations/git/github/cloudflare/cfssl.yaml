@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: cfssl
+  namespace: cloudflare
+  provider: github
+revisions:
+  56268a613adfed278936377c18b1152d2c4ad5da:
+    licensed:
+      declared: BSD-2-Clause
