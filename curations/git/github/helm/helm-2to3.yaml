@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: helm-2to3
+  namespace: helm
+  provider: github
+revisions:
+  0c9acefe0b09b6b9e1ae23feb58e06404f35174b:
+    licensed:
+      declared: Apache-2.0
