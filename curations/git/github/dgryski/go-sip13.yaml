@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-sip13
+  namespace: dgryski
+  provider: github
+revisions:
+  e10d5fee79544bd84105c9329adcc7b745fd588c:
+    licensed:
+      declared: MIT
