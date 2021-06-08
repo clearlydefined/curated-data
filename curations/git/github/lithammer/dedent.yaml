@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: dedent
+  namespace: lithammer
+  provider: github
+revisions:
+  8478954c3bc893cf36c5ee7c822266b993a3b3ee:
+    licensed:
+      declared: MIT
