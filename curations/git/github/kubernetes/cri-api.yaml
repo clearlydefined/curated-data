@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: cri-api
+  namespace: kubernetes
+  provider: github
+revisions:
+  a46b7043c8c47f5de7d758595fb903d8482c286b:
+    licensed:
+      declared: Apache-2.0
