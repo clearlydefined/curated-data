@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: mint
+  namespace: otiai10
+  provider: github
+revisions:
+  bef812dd30a0e7e65435fde5ef6a81277d78ca05:
+    licensed:
+      declared: MIT
