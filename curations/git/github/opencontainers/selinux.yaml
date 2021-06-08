@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: selinux
+  namespace: opencontainers
+  provider: github
+revisions:
+  3a1f366feb7aecbf7a0e71ac4cea88b31597de9e:
+    licensed:
+      declared: Apache-2.0
