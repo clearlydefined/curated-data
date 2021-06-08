@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: pb
+  namespace: cheggaaa
+  provider: github
+revisions:
+  2af8bbdea9e99e83b3ac400d8f6b6d1b8cbbf338:
+    licensed:
+      declared: BSD-3-Clause
