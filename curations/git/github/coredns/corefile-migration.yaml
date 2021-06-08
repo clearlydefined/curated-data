@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: corefile-migration
+  namespace: coredns
+  provider: github
+revisions:
+  51882049e16f8db9f7480ea711e1c1daeb2a9103:
+    licensed:
+      declared: Apache-2.0
