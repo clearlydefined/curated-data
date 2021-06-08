@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: api
+  namespace: openshift
+  provider: github
+revisions:
+  32369d4db2ada1c1cdb95b99b568a9925e2a4480:
+    licensed:
+      declared: Apache-2.0
