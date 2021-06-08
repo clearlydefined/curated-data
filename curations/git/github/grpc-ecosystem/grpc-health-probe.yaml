@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: grpc-health-probe
+  namespace: grpc-ecosystem
+  provider: github
+revisions:
+  71ebd03865797e785bdc7ae6fababe548b75188e:
+    licensed:
+      declared: Apache-2.0
