@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: mesos-go
+  namespace: mesos
+  provider: github
+revisions:
+  70c84f58f355c1fa339e0f95d40144ce47fe3013:
+    licensed:
+      declared: Apache-2.0
