@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: shellescape
+  namespace: alessio
+  provider: github
+revisions:
+  c3b6e53cea4242a4d6a2ee925c4b38c1f80e44e9:
+    licensed:
+      declared: MIT
