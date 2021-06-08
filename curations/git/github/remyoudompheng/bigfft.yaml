@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: bigfft
+  namespace: remyoudompheng
+  provider: github
+revisions:
+  6a916e37a237384e18eefa3270c09247db1ecf50:
+    licensed:
+      declared: BSD-3-Clause
