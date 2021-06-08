@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: rest
+  namespace: heketi
+  provider: github
+revisions:
+  aa6a652074133e6b0836bb095e847021fcb94b6a:
+    licensed:
+      declared: Apache-2.0
