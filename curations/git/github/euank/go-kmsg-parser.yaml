@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-kmsg-parser
+  namespace: euank
+  provider: github
+revisions:
+  5ba4d492e455a77d25dcf0d2c4acc9f2afebef4e:
+    licensed:
+      declared: Apache-2.0
