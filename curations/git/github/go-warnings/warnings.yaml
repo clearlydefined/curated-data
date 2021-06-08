@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: warnings
+  namespace: go-warnings
+  provider: github
+revisions:
+  8a331561fe74dadba6edfc59f3be66c22c3b065d:
+    licensed:
+      declared: BSD-2-Clause
