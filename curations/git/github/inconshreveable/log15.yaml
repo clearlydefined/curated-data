@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: log15
+  namespace: inconshreveable
+  provider: github
+revisions:
+  67afb5ed74ec82fd7ac8f49d27c509ac6f991970:
+    licensed:
+      declared: Apache-2.0
