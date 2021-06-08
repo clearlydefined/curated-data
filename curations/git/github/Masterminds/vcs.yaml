@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: vcs
+  namespace: Masterminds
+  provider: github
+revisions:
+  f94282d8632a0620f79f0c6ff0e82604e8c5c85b:
+    licensed:
+      declared: MIT
