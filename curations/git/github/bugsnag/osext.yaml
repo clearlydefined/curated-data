@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: osext
+  namespace: bugsnag
+  provider: github
+revisions:
+  0dd3f918b21bec95ace9dc86c7e70266cfc5c702:
+    licensed:
+      declared: Zlib
