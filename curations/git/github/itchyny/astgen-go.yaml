@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: astgen-go
+  namespace: itchyny
+  provider: github
+revisions:
+  cf3ea398f64584ef328f8fa3e0281536dbaffa4b:
+    licensed:
+      declared: MIT
