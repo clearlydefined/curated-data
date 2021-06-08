@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: sortorder
+  namespace: fvbommel
+  provider: github
+revisions:
+  a1ddee917217bbd0691affdca9c88d24d3f5c27d:
+    licensed:
+      declared: MIT
