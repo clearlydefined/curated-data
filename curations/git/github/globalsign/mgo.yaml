@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: mgo
+  namespace: globalsign
+  provider: github
+revisions:
+  eeefdecb41b842af6dc652aaea4026e8403e62df:
+    licensed:
+      declared: BSD-2-Clause
