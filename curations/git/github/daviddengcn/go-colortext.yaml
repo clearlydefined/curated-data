@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-colortext
+  namespace: daviddengcn
+  provider: github
+revisions:
+  511bcaf42ccd42c38aba7427b6673277bf19e2a1:
+    licensed:
+      declared: MIT AND BSD-3-Clause
