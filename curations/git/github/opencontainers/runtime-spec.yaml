@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: runtime-spec
+  namespace: opencontainers
+  provider: github
+revisions:
+  02137cd4e50b37a01665e1731fcd4ac2d2178230:
+    licensed:
+      declared: Apache-2.0
