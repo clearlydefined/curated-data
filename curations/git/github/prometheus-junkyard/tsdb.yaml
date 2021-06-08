@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: tsdb
+  namespace: prometheus-junkyard
+  provider: github
+revisions:
+  d48a5e2d5c34116dfcbc7b935c66157847b2d8b5:
+    licensed:
+      declared: Apache-2.0
