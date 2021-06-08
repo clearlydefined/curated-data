@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: prom-label-proxy
+  namespace: openshift
+  provider: github
+revisions:
+  b8153a7f39f1a34c03059f1b9dfb05d2c1297414:
+    licensed:
+      declared: Apache-2.0
