@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: analysis
+  namespace: go-openapi
+  provider: github
+revisions:
+  147e766af12c74c10c633436007317dbcd9abb0b:
+    licensed:
+      declared: Apache-2.0
