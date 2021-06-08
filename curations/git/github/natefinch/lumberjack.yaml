@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: lumberjack
+  namespace: natefinch
+  provider: github
+revisions:
+  7d6a1875575e09256dc552b4c0e450dcd02bd10e:
+    licensed:
+      declared: MIT
