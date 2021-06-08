@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: certificate-transparency-go
+  namespace: google
+  provider: github
+revisions:
+  3629d6846518309d22c16fee15d1007262a459d2:
+    licensed:
+      declared: Apache-2.0
