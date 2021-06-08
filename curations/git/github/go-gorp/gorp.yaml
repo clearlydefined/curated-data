@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gorp
+  namespace: go-gorp
+  provider: github
+revisions:
+  6a667da9c028871f98598d85413e3fc4c6daa52e:
+    licensed:
+      declared: MIT
