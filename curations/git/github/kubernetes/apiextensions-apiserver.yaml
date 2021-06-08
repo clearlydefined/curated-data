@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: apiextensions-apiserver
+  namespace: kubernetes
+  provider: github
+revisions:
+  df15c4cbb9004e93a53e7c7b0701934f070a09bd:
+    licensed:
+      declared: Apache-2.0
