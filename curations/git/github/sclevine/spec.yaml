@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: spec
+  namespace: sclevine
+  provider: github
+revisions:
+  b518b20aa1af75d314a31c9b3acfeeab7c4cbfb4:
+    licensed:
+      declared: Apache-2.0
