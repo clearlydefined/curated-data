@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: cli
+  namespace: docker
+  provider: github
+revisions:
+  5d0cf8839492eb1af7c611a58d09034d29aa9631:
+    licensed:
+      declared: Apache-2.0
