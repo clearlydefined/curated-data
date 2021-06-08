@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: panicwrap
+  namespace: bugsnag
+  provider: github
+revisions:
+  4009b2b7c78d820cc4a2e42f035bb557ce4ae45b:
+    licensed:
+      declared: MIT
