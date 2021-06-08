@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: cli-runtime
+  namespace: kubernetes
+  provider: github
+revisions:
+  cff917553a6a27a3b3d9af0369ccfdf8b70099eb:
+    licensed:
+      declared: Apache-2.0
