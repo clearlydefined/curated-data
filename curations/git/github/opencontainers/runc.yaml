@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: runc
+  namespace: opencontainers
+  provider: github
+revisions:
+  6cc515888830787a93d82138821f0309ad970640:
+    licensed:
+      declared: Apache-2.0
