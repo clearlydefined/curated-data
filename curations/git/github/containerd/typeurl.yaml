@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: typeurl
+  namespace: containerd
+  provider: github
+revisions:
+  2a93cfde8c20b23de8eb84a5adbc234ddf7a9e8d:
+    licensed:
+      declared: Apache-2.0
