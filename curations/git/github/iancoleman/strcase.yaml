@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: strcase
+  namespace: iancoleman
+  provider: github
+revisions:
+  e506e3ef73653e84c592ba44aab577a46678f68c:
+    licensed:
+      declared: MIT
