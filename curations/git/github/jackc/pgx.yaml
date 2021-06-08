@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: pgx
+  namespace: jackc
+  provider: github
+revisions:
+  6972a57421861e041adb04dc7294c0ef40e5b3a6:
+    licensed:
+      declared: MIT
