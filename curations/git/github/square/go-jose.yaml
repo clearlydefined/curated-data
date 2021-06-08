@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-jose
+  namespace: square
+  provider: github
+revisions:
+  e94fb177d3668d35ab39c61cbb2f311550557e83:
+    licensed:
+      declared: Apache-2.0
