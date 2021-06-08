@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: quic-go-certificates
+  namespace: lucas-clemente
+  provider: github
+revisions:
+  d2f86524cced5186554df90d92529757d22c1cb6:
+    licensed:
+      declared: MIT
