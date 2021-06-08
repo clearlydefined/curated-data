@@ -1,0 +1,8 @@
+coordinates:
+  name: Eigen
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.3:
+    licensed:
+      declared: MPL-2.0
