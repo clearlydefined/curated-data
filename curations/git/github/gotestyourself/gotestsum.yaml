@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gotestsum
+  namespace: gotestyourself
+  provider: github
+revisions:
+  17961884134160fd4bbb35c286a1d97c9a4f35b7:
+    licensed:
+      declared: Apache-2.0
