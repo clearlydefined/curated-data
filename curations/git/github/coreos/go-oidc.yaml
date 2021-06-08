@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-oidc
+  namespace: coreos
+  provider: github
+revisions:
+  2be1c5b8a260760503f66dc0996e102b683b3ac3:
+    licensed:
+      declared: Apache-2.0
