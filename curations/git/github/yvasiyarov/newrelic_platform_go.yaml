@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: newrelic_platform_go
+  namespace: yvasiyarov
+  provider: github
+revisions:
+  9c099fbc30e90de5bb5c5f94aa5fd08f2daeaacd:
+    licensed:
+      declared: BSD-2-Clause
