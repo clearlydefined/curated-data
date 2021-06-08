@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: crypt
+  namespace: bketelsen
+  provider: github
+revisions:
+  5cbc8cc4026c0c1d3bf9c5d4e5a30398f99c99a9:
+    licensed:
+      declared: MIT
