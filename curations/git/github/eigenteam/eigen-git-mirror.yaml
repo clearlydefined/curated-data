@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  9e97af7de76716c99abdbfd4a4acb182ef098808:
+    licensed:
+      declared: MPL-2.0
   cf794d3b741a6278df169e58461f8529f43bce5d:
     licensed:
       declared: MPL-2.0
