@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-prettyjson
+  namespace: hokaccha
+  provider: github
+revisions:
+  108c894c2c0e4a3236172e3698c14f1e3199548d:
+    licensed:
+      declared: MIT
