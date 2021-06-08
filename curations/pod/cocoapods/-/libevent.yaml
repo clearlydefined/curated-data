@@ -1,0 +1,8 @@
+coordinates:
+  name: libevent
+  provider: cocoapods
+  type: pod
+revisions:
+  2.1.12:
+    licensed:
+      declared: BSD-3-Clause
