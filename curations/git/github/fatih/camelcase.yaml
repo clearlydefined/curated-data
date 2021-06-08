@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: camelcase
+  namespace: fatih
+  provider: github
+revisions:
+  44e46d280b43ec1531bb25252440e34f1b800b65:
+    licensed:
+      declared: MIT
