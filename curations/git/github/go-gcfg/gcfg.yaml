@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gcfg
+  namespace: go-gcfg
+  provider: github
+revisions:
+  27e4946190b4a327b539185f2b5b1f7c84730728:
+    licensed:
+      declared: BSD-3-Clause
