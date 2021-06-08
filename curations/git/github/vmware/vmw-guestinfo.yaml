@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: vmw-guestinfo
+  namespace: vmware
+  provider: github
+revisions:
+  25eff159a728be87e103a0b8045e08273f4dbec4:
+    licensed:
+      declared: Apache-2.0
