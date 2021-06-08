@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-yaml
+  namespace: goccy
+  provider: github
+revisions:
+  cd8ac389c6a53046e2b9129eb8cffd9f9cc23fc1:
+    licensed:
+      declared: MIT
