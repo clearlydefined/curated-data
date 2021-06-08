@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gorelic
+  namespace: yvasiyarov
+  provider: github
+revisions:
+  ba7bf1b45591045ab2a20feca0fa8c22d0698c12:
+    licensed:
+      declared: BSD-2-Clause
