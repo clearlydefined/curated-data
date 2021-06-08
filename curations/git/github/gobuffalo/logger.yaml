@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: logger
+  namespace: gobuffalo
+  provider: github
+revisions:
+  7c291b53e05b81d77bd43109b4a3c6f84e45c8e1:
+    licensed:
+      declared: MIT
