@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: netlib
+  namespace: gonum
+  provider: github
+revisions:
+  8cb42192e0e0b08ed60c6c306a63d0b2ea460e51:
+    licensed:
+      declared: BSD-3-Clause
