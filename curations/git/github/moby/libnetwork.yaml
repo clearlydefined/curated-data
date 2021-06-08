@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: libnetwork
+  namespace: moby
+  provider: github
+revisions:
+  a9cd636e37898226332c439363e2ed0ea185ae92:
+    licensed:
+      declared: Apache-2.0
