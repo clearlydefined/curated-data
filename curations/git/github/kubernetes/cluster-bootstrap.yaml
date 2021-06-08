@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: cluster-bootstrap
+  namespace: kubernetes
+  provider: github
+revisions:
+  84eebdb50ee291ef6755f60dcd008934e112471f:
+    licensed:
+      declared: Apache-2.0
