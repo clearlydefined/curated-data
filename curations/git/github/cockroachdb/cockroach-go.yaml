@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: cockroach-go
+  namespace: cockroachdb
+  provider: github
+revisions:
+  606b3d062051259eca584a3f998d37e39b3b7622:
+    licensed:
+      declared: Apache-2.0
