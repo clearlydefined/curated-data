@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: neo4j-go-driver
+  namespace: neo4j
+  provider: github
+revisions:
+  934739616886b903306e1df80aa58047407a1971:
+    licensed:
+      declared: Apache-2.0
