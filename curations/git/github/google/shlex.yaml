@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: shlex
+  namespace: google
+  provider: github
+revisions:
+  e7afc7fbc51079733e9468cdfd1efcd7d196cd1d:
+    licensed:
+      declared: Apache-2.0
