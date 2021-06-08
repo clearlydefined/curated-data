@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gocql
+  namespace: gocql
+  provider: github
+revisions:
+  f6df8288f9b44e66f50c9a59aee53a705c788dbe:
+    licensed:
+      declared: BSD-3-Clause
