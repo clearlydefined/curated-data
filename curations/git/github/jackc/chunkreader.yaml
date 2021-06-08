@@ -1,0 +1,12 @@
+coordinates:
+  type: git
+  name: chunkreader
+  namespace: jackc
+  provider: github
+revisions:
+  517cfde605cd1f91edc0a62affca418114388fc3:
+    licensed:
+      declared: MIT
+  3c4a99247c6656284dd2be8d74438ca9bbb4f342:
+    licensed:
+      declared: MIT
