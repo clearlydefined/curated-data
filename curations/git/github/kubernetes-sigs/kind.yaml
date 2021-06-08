@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: kind
+  namespace: kubernetes-sigs
+  provider: github
+revisions:
+  dfa6e881fe189577194b867bdffbfdc3d17ea05a:
+    licensed:
+      declared: Apache-2.0
