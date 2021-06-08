@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: csi-translation-lib
+  namespace: kubernetes
+  provider: github
+revisions:
+  b782d5f5b28ea49a0d08c60e93696a6065d12896:
+    licensed:
+      declared: Apache-2.0
