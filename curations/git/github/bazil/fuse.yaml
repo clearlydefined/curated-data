@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: fuse
+  namespace: bazil
+  provider: github
+revisions:
+  371fbbdaa8987b715bdd21d6adc4c9b20155f748:
+    licensed:
+      declared: MIT
