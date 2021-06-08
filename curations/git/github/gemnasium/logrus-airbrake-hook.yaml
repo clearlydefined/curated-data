@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: logrus-airbrake-hook
+  namespace: gemnasium
+  provider: github
+revisions:
+  e928b033a891c0175fb643d5aa0779e86325eb12:
+    licensed:
+      declared: MIT
