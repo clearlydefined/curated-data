@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: ini
+  namespace: go-ini
+  provider: github
+revisions:
+  87e589f4917038ae250cff2446db7573f47e97ca:
+    licensed:
+      declared: Apache-2.0
