@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: osext
+  namespace: mitchellh
+  provider: github
+revisions:
+  5e2d6d41470f99c881826dedd8c526728b783c9c:
+    licensed:
+      declared: Zlib
