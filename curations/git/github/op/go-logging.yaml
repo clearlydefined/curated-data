@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-logging
+  namespace: op
+  provider: github
+revisions:
+  b2cb9fa56473e98db8caba80237377e83fe44db5:
+    licensed:
+      declared: BSD-3-Clause
