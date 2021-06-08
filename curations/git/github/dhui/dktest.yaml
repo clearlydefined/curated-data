@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: dktest
+  namespace: dhui
+  provider: github
+revisions:
+  dcda20d18d8d6b3cb5614ea2f6ad883e387efcf0:
+    licensed:
+      declared: Apache-2.0
