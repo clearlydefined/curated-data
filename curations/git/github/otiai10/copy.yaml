@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: copy
+  namespace: otiai10
+  provider: github
+revisions:
+  c5f0361fe546fb0f4f26b13746afc8864ea7f6d9:
+    licensed:
+      declared: MIT
