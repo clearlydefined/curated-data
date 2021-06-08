@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: curr
+  namespace: otiai10
+  provider: github
+revisions:
+  88e2f2cffa0b5f13e90ee963a321bd1b2f715561:
+    licensed:
+      declared: MIT
