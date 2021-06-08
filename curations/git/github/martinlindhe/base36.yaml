@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: base36
+  namespace: martinlindhe
+  provider: github
+revisions:
+  7c6542dfbb41505111dde1f321eb5d5002f5fb88:
+    licensed:
+      declared: MIT
