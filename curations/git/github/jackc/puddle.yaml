@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: puddle
+  namespace: jackc
+  provider: github
+revisions:
+  11cab39313c9677f9807fef985e6f44e44ddb2ce:
+    licensed:
+      declared: MIT
