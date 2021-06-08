@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: strftime
+  namespace: tebeka
+  provider: github
+revisions:
+  1e60d44622e3f9de852e0ae26f5a02ea3354623e:
+    licensed:
+      declared: MIT
