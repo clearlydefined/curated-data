@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: strftime
+  namespace: lestrrat-go
+  provider: github
+revisions:
+  6b63b6de4db1514785520f626319d12516ee6932:
+    licensed:
+      declared: MIT
