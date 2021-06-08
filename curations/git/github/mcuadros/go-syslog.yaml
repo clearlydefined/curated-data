@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-syslog
+  namespace: mcuadros
+  provider: github
+revisions:
+  9cf13b7327c0e153da3cba3540c2ae2b879c3859:
+    licensed:
+      declared: MIT
