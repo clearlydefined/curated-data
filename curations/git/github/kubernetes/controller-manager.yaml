@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: controller-manager
+  namespace: kubernetes
+  provider: github
+revisions:
+  f0e191876d59eea59b5a6c7182d09c2e3dc28bed:
+    licensed:
+      declared: Apache-2.0
