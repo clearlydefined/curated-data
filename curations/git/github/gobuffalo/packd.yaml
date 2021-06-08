@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: packd
+  namespace: gobuffalo
+  provider: github
+revisions:
+  54ea459691466cfb630ccc276723fe3963f3e9d5:
+    licensed:
+      declared: MIT
