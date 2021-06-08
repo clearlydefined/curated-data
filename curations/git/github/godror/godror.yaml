@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: godror
+  namespace: godror
+  provider: github
+revisions:
+  422450dd04cabc746befbc4f61b7c383fe6235f0:
+    licensed:
+      declared: OR UPL-1.0 Apache-2.0 OR UPL-1.0
