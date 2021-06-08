@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-xdr
+  namespace: davecgh
+  provider: github
+revisions:
+  e6a2ba005892b6a5b27cb5352f64c2e96942dd28:
+    licensed:
+      declared: ISC
