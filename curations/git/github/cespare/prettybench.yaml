@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: prettybench
+  namespace: cespare
+  provider: github
+revisions:
+  03b8cfe5406ce67a0b0da46f0c9e78b3d915a2c1:
+    licensed:
+      declared: MIT
