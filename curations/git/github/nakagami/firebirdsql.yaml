@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: firebirdsql
+  namespace: nakagami
+  provider: github
+revisions:
+  3c02a58cfed8c5b191d653309705042fcd6c4f9c:
+    licensed:
+      declared: MIT
