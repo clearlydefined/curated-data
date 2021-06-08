@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gini
+  namespace: irifrance
+  provider: github
+revisions:
+  ab553a98575687dd98cf73371b2fc398f41d10fc:
+    licensed:
+      declared: MIT
