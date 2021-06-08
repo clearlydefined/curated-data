@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: letsencrypt
+  namespace: rsc
+  provider: github
+revisions:
+  2cfe43d8f3ba33d75c390b0e1e62e0a5f403605e:
+    licensed:
+      declared: BSD-3-Clause
