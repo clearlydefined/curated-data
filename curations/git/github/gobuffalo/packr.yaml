@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: packr
+  namespace: gobuffalo
+  provider: github
+revisions:
+  e4f52d87ce714b0cda77bf66e4eadd57cada24cf:
+    licensed:
+      declared: MIT
