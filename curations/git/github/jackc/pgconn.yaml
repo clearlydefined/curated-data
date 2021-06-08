@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: pgconn
+  namespace: jackc
+  provider: github
+revisions:
+  6db848c6fca46bd3c67b1a66b5f764fbb16807ba:
+    licensed:
+      declared: MIT
