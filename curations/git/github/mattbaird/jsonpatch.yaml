@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: jsonpatch
+  namespace: mattbaird
+  provider: github
+revisions:
+  81af80346b1a01caae0cbc27fd3c1ba5b11e189f:
+    licensed:
+      declared: Apache-2.0
