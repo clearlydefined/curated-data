@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-utils
+  namespace: fastly
+  provider: github
+revisions:
+  d95a45783239f69a867fec572fb7675bcee07d88:
+    licensed:
+      declared: MIT
