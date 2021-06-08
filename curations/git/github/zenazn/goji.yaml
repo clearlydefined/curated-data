@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: goji
+  namespace: zenazn
+  provider: github
+revisions:
+  845982030542a0fd9c8e8cbf76a84c7482cb3755:
+    licensed:
+      declared: MIT
