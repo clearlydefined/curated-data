@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: rainbow-reporter
+  namespace: joefitzgerald
+  provider: github
+revisions:
+  f35bccf50a5c24f2fca9dc7e131454c60efba904:
+    licensed:
+      declared: Apache-2.0
