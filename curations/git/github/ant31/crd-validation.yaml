@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: crd-validation
+  namespace: ant31
+  provider: github
+revisions:
+  30f8a35d0ac2d8a2825c78ff47885979e3ee1121:
+    licensed:
+      declared: Apache-2.0
