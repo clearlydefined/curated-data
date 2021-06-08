@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: term
+  namespace: moby
+  provider: github
+revisions:
+  df9cb8a406352e9543f2b7cae1c8579b51b8013e:
+    licensed:
+      declared: Apache-2.0
