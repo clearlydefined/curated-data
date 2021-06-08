@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: dbus
+  namespace: godbus
+  provider: github
+revisions:
+  a389bdde4dd695d414e47b755e95e72b7826432c:
+    licensed:
+      declared: BSD-2-Clause
