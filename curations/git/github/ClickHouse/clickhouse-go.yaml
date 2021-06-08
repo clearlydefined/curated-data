@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: clickhouse-go
+  namespace: ClickHouse
+  provider: github
+revisions:
+  6b1ba590788873fd6993f50f823bb90274a23ba5:
+    licensed:
+      declared: MIT
