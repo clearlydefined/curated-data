@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: embedmd
+  namespace: campoy
+  provider: github
+revisions:
+  54781ea47c31d8d2e4e351c1e05ce3ebf95f1446:
+    licensed:
+      declared: Apache-2.0
