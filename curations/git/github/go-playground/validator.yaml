@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: validator
+  namespace: go-playground
+  provider: github
+revisions:
+  cd1bd581694a11c089aea885a26247c5f783a4cf:
+    licensed:
+      declared: MIT
