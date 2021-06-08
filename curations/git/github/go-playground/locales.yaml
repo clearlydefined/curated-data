@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: locales
+  namespace: go-playground
+  provider: github
+revisions:
+  9f105231d3a5f6877a2bf8321dfa15ea6f844b1b:
+    licensed:
+      declared: MIT
