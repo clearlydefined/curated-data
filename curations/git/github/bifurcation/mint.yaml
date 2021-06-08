@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: mint
+  namespace: bifurcation
+  provider: github
+revisions:
+  93c51c6ce11597a26e246fc33a301d62d3439cd2:
+    licensed:
+      declared: MIT
