@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-flags
+  namespace: itchyny
+  provider: github
+revisions:
+  765e423eeffbc58f082a396986fd06d7e6e4a435:
+    licensed:
+      declared: BSD-3-Clause
