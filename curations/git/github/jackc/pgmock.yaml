@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: pgmock
+  namespace: jackc
+  provider: github
+revisions:
+  13a1b77aafa2641ad31b655a18e8c3605ef55e2d:
+    licensed:
+      declared: MIT
