@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gobolt
+  namespace: neo4j-drivers
+  provider: github
+revisions:
+  0b8728e471cbd11fe5ffa3ae65a467886018012e:
+    licensed:
+      declared: Apache-2.0
