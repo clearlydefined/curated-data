@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: handysort
+  namespace: xlab
+  provider: github
+revisions:
+  fb3537ed64a14615a020f0fe8dc08424233d491f:
+    licensed:
+      declared: MIT
