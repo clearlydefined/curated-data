@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: kubernetes
+  namespace: kubernetes
+  provider: github
+revisions:
+  c97fe5036ef3df2967d086711e6c0c405941e14b:
+    licensed:
+      declared: Apache-2.0
