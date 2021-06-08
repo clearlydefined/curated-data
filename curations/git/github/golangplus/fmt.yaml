@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: fmt
+  namespace: golangplus
+  provider: github
+revisions:
+  2a5d6d7d2995baf7d847b7f16ac0179c6888d37b:
+    licensed:
+      declared: BSD-3-Clause
