@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gojsontoyaml
+  namespace: brancz
+  provider: github
+revisions:
+  e8bd32d46b3d764bef60f12b3bada1c132c4be55:
+    licensed:
+      declared: MIT
