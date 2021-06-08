@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: godbc
+  namespace: lpabon
+  provider: github
+revisions:
+  d6a6d74016a4f32dd9a9bd32c1ac6c28ae68fa6a:
+    licensed:
+      declared: Apache-2.0
