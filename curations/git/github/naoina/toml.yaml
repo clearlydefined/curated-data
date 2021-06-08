@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: toml
+  namespace: naoina
+  provider: github
+revisions:
+  e6f5723bf2a66af014955e0888881314cf294129:
+    licensed:
+      declared: MIT
