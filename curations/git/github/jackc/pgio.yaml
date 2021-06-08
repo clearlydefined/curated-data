@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: pgio
+  namespace: jackc
+  provider: github
+revisions:
+  8d9c2a3dafd92d070bd758a165022fd1059e3195:
+    licensed:
+      declared: MIT
