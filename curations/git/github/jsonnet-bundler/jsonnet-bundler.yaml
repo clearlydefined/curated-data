@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: jsonnet-bundler
+  namespace: jsonnet-bundler
+  provider: github
+revisions:
+  080f157c7fb85ad0281ea78f6c641eaa570a582f:
+    licensed:
+      declared: Apache-2.0
