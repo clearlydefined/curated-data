@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: resty
+  namespace: go-resty
+  provider: github
+revisions:
+  fa5875c0caa5c260ab78acec5a244215a730247f:
+    licensed:
+      declared: MIT
