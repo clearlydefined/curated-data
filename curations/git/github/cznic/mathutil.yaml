@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: mathutil
+  namespace: cznic
+  provider: github
+revisions:
+  ca4c9f2c136954238c3158b92de72078c7672ecc:
+    licensed:
+      declared: BSD-3-Clause
