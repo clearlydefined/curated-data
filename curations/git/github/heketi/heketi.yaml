@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: heketi
+  namespace: heketi
+  provider: github
+revisions:
+  891a99667d82b04208dfe7d55567f17b05f0cc18:
+    licensed:
+      declared: Apache-2.0 OR LGPL-3.0-or-later
