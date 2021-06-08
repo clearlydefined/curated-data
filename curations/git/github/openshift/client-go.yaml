@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: client-go
+  namespace: openshift
+  provider: github
+revisions:
+  2a6cd50aedd02a8b1573c0de49169a43061cf587:
+    licensed:
+      declared: Apache-2.0
