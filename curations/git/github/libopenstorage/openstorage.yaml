@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: openstorage
+  namespace: libopenstorage
+  provider: github
+revisions:
+  093a0c3888753c2056e7373183693d670c6bba01:
+    licensed:
+      declared: Apache-2.0
