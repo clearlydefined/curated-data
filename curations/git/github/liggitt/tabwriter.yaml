@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: tabwriter
+  namespace: liggitt
+  provider: github
+revisions:
+  89fcab3d43de07060e4fd4c1547430ed57e87f24:
+    licensed:
+      declared: BSD-3-Clause
