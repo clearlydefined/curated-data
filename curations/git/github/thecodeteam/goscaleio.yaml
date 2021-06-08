@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: goscaleio
+  namespace: thecodeteam
+  provider: github
+revisions:
+  19b7692523ba7a945b47672a2b976fd0f42449b3:
+    licensed:
+      declared: Apache-2.0
