@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: tests
+  namespace: heketi
+  provider: github
+revisions:
+  f3775cbcefd6822086c729e3ce4b70ca85a5bd21:
+    licensed:
+      declared: Apache-2.0
