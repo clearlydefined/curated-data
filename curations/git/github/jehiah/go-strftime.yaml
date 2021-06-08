@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-strftime
+  namespace: jehiah
+  provider: github
+revisions:
+  1d33003b386959af197ba96475f198c114627b5e:
+    licensed:
+      declared: MIT
