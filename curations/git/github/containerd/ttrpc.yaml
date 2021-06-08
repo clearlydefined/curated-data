@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: ttrpc
+  namespace: containerd
+  provider: github
+revisions:
+  72bb1b21c5b0a4a107f59dd85f6ab58e564b68d6:
+    licensed:
+      declared: Apache-2.0
