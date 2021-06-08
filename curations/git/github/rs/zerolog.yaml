@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: zerolog
+  namespace: rs
+  provider: github
+revisions:
+  b806a5ecbe5347ad9ef05121fea8f4acc65fa5fc:
+    licensed:
+      declared: MIT
