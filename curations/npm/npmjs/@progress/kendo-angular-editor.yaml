@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-editor
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.5:
+    licensed:
+      declared: OTHER
