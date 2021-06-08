@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-lz4
+  namespace: bkaradzic
+  provider: github
+revisions:
+  74ddf82598bc4745b965729e9c6a463bedd33049:
+    licensed:
+      declared: BSD-2-Clause
