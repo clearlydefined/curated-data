@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gojq
+  namespace: itchyny
+  provider: github
+revisions:
+  d33449f4c07af896f91db06c7b64052c92ebe42b:
+    licensed:
+      declared: MIT
