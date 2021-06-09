@@ -5,7 +5,7 @@ coordinates:
 revisions:
   2019.1.177.4442:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-2-Clause
   2019.2.185.9614:
     licensed:
       declared: BSD-2-Clause
