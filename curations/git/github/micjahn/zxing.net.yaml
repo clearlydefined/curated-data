@@ -1,0 +1,9 @@
+coordinates:
+  name: zxing.net
+  namespace: micjahn
+  provider: github
+  type: git
+revisions:
+  612374be60b73e8cc18f85e75fc4c282bf0ae5bd:
+    licensed:
+      declared: Apache-2.0
