@@ -1,0 +1,8 @@
+coordinates:
+  name: Box.V2
+  provider: nuget
+  type: nuget
+revisions:
+  2.6.2:
+    licensed:
+      declared: Apache-2.0
