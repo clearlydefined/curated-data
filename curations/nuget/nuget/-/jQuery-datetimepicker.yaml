@@ -1,0 +1,8 @@
+coordinates:
+  name: jQuery-datetimepicker
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.5:
+    licensed:
+      declared: MIT
