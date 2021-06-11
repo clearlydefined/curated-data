@@ -1,0 +1,8 @@
+coordinates:
+  name: Sprache.StrongNamed
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.2:
+    licensed:
+      declared: MIT
