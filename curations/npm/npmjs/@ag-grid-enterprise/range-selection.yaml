@@ -1,0 +1,9 @@
+coordinates:
+  name: range-selection
+  namespace: '@ag-grid-enterprise'
+  provider: npmjs
+  type: npm
+revisions:
+  23.1.1:
+    licensed:
+      declared: NONE
