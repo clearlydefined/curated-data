@@ -9,6 +9,9 @@ revisions:
   1.0.129:
     licensed:
       declared: OTHER
+  1.0.163:
+    licensed:
+      declared: MIT
   1.0.164:
     licensed:
       declared: OTHER
