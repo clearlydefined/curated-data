@@ -6,3 +6,6 @@ revisions:
   1.4.359.31:
     licensed:
       declared: OTHER
+  1.4.361.39:
+    licensed:
+      declared: GPL-2.0-only
