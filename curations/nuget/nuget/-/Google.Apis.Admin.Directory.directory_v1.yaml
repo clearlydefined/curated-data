@@ -57,6 +57,9 @@ revisions:
   1.48.0.1982:
     licensed:
       declared: Apache-2.0
+  1.49.0.1982:
+    licensed:
+      declared: Apache-2.0
   1.49.0.2069:
     licensed:
       declared: Apache-2.0
