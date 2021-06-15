@@ -1,0 +1,8 @@
+coordinates:
+  name: ImpromptuNinjas.ZStd
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.5.5:
+    licensed:
+      declared: 0BSD
