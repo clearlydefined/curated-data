@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: probing
+  namespace: xiang90
+  provider: github
+revisions:
+  43a291ad63a214a207fefbf03c7d9d78b703162b:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-metrics
+  namespace: yvasiyarov
+  provider: github
+revisions:
+  c25f46c4b94079672242ec48a545e7ca9ebe3aec:
+    licensed:
+      declared: BSD-2-Clause-Views

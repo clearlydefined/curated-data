@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-treelist
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.3:
+    licensed:
+      declared: OTHER
