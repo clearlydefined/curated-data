@@ -1,0 +1,9 @@
+coordinates:
+  name: master-detail
+  namespace: '@ag-grid-enterprise'
+  provider: npmjs
+  type: npm
+revisions:
+  23.1.1:
+    licensed:
+      declared: OTHER

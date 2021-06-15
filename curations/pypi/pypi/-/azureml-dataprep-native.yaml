@@ -45,6 +45,9 @@ revisions:
   29.0.0:
     licensed:
       declared: OTHER
+  30.0.0:
+    licensed:
+      declared: OTHER
   33.0.0:
     licensed:
       declared: OTHER
