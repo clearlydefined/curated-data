@@ -1,0 +1,8 @@
+coordinates:
+  name: stylecop-targets
+  provider: nuget
+  type: nuget
+revisions:
+  4.7.0.2:
+    licensed:
+      declared: MIT
