@@ -1,0 +1,8 @@
+coordinates:
+  name: DotNet.ReproducibleBuilds.Isolated
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.64:
+    licensed:
+      declared: MIT

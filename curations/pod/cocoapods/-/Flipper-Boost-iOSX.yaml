@@ -1,0 +1,8 @@
+coordinates:
+  name: Flipper-Boost-iOSX
+  provider: cocoapods
+  type: pod
+revisions:
+  1.76.0.1.11:
+    licensed:
+      declared: BSL-1.0
