@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-upload
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  7.1.0:
+    licensed:
+      declared: OTHER

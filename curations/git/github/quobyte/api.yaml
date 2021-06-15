@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: api
+  namespace: quobyte
+  provider: github
+revisions:
+  9cfd29338dd9fdaaf956b7082e5550aab5fe3841:
+    licensed:
+      declared: BSD-3-Clause

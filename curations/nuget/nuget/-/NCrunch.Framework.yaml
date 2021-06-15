@@ -6,6 +6,12 @@ revisions:
   3.17.0:
     licensed:
       declared: Apache-2.0
+  2.8.0.34:
+    licensed:
+      declared: OTHER
+  2.27.0.3:
+    licensed:
+      declared: OTHER
   3.2.0.3:
     licensed:
       declared: OTHER
