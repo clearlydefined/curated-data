@@ -9,6 +9,9 @@ revisions:
   2018.3.2.1:
     licensed:
       declared: MIT
+  2019.7.24.1:
+    licensed:
+      declared: MIT
   2019.9.25.1:
     licensed:
       declared: MIT
