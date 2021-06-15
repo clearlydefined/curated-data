@@ -1,0 +1,9 @@
+coordinates:
+  name: tinyply
+  namespace: ddiakopoulos
+  provider: github
+  type: git
+revisions:
+  ca7b279fb6c9af931ffdaed96a3b11ca3ccd79ea:
+    licensed:
+      declared: OTHER OR OTHER OR BSD-2-Clause
