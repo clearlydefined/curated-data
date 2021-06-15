@@ -1,0 +1,8 @@
+coordinates:
+  name: EWSoftware.SHFB.NETCore
+  provider: nuget
+  type: nuget
+revisions:
+  4.5.1:
+    licensed:
+      declared: MS-PL
