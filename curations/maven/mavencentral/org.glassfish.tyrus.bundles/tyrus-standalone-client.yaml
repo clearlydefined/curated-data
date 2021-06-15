@@ -1,0 +1,9 @@
+coordinates:
+  name: tyrus-standalone-client
+  namespace: org.glassfish.tyrus.bundles
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.16':
+    licensed:
+      declared: NOASSERTION OR GPL-2.0-only
