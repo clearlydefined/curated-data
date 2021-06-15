@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-menu
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.1:
+    licensed:
+      declared: OTHER
