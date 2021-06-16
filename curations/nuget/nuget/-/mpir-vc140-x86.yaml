@@ -1,0 +1,8 @@
+coordinates:
+  name: mpir-vc140-x86
+  provider: nuget
+  type: nuget
+revisions:
+  2.7.2.1:
+    licensed:
+      declared: GPL-3.0-only
