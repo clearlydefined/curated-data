@@ -1,0 +1,8 @@
+coordinates:
+  name: EWSoftware.SHFB.NETPortable
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.0:
+    licensed:
+      declared: MS-PL
