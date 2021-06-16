@@ -1,0 +1,47 @@
+coordinates:
+  name: slog-scope
+  provider: cratesio
+  type: crate
+revisions:
+  4.4.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  4.3.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  4.2.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  4.1.2:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  4.1.1:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  4.1.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  4.0.1:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  4.0.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  3.0.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  2.0.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  0.3.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  0.2.2:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  0.2.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  0.1.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
