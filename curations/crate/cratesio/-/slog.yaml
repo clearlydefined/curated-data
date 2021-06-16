@@ -1,0 +1,14 @@
+coordinates:
+  name: slog
+  provider: cratesio
+  type: crate
+revisions:
+  2.7.0:
+    described:
+      sourceLocation:
+        name: slog
+        namespace: slog-rs
+        provider: github
+        revision: 87babc83ec27bd1ce6dba664dec57a403de7748f
+        type: git
+        url: 'https://github.com/slog-rs/slog/commit/87babc83ec27bd1ce6dba664dec57a403de7748f'
