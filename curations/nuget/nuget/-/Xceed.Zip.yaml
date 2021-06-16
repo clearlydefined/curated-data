@@ -1,0 +1,8 @@
+coordinates:
+  name: Xceed.Zip
+  provider: nuget
+  type: nuget
+revisions:
+  6.7.19076.18060:
+    licensed:
+      declared: OTHER
