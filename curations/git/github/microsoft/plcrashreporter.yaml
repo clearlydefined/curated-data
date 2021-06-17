@@ -10,3 +10,6 @@ revisions:
   259ca8bafb1ea65426ab9616f51e0d3565e46720:
     licensed:
       declared: MIT
+  d747ab5de269cd44022bbe96ff9609d8626694ab:
+    licensed:
+      declared: Apache-2.0
