@@ -1,0 +1,9 @@
+coordinates:
+  name: jersey-media-json-jackson
+  namespace: org.glassfish.jersey.media
+  provider: mavencentral
+  type: maven
+revisions:
+  2.23.2:
+    licensed:
+      declared: GPL-2.0 OR CDDL-1.1
