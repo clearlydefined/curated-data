@@ -1,0 +1,9 @@
+coordinates:
+  name: fluentd-kubernetes-daemonset
+  namespace: fluent
+  provider: github
+  type: git
+revisions:
+  fcdf045fec92b70f40c05cba3a00117ed0c11547:
+    licensed:
+      declared: Apache-2.0
