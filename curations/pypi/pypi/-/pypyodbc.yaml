@@ -1,0 +1,8 @@
+coordinates:
+  name: pypyodbc
+  provider: pypi
+  type: pypi
+revisions:
+  1.3.4:
+    licensed:
+      declared: NONE
