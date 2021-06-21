@@ -1,8 +1,8 @@
 coordinates:
-  name: Nethereum.Quorum
+  name: ObjectStore
   provider: nuget
   type: nuget
 revisions:
-  0.0.21:
+  2.0.34:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only

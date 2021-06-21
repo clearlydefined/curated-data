@@ -1,11 +1,8 @@
 coordinates:
-  name: Lamar
+  name: Sprache.StrongNamed
   provider: nuget
   type: nuget
 revisions:
-  4.4.0:
-    licensed:
-      declared: MIT
-  4.3.1:
+  2.3.2:
     licensed:
       declared: MIT

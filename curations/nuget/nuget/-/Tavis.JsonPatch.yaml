@@ -1,8 +1,8 @@
 coordinates:
-  name: Nethereum.Quorum
+  name: Tavis.JsonPatch
   provider: nuget
   type: nuget
 revisions:
-  0.0.21:
+  0.5.2-beta:
     licensed:
-      declared: OTHER
+      declared: Apache-2.0

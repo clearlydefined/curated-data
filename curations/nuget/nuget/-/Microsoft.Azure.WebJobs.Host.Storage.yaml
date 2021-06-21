@@ -1,11 +1,8 @@
 coordinates:
-  name: Nethereum.KeyStore
+  name: Microsoft.Azure.WebJobs.Host.Storage
   provider: nuget
   type: nuget
 revisions:
-  2.5.1:
-    licensed:
-      declared: OTHER
-  3.7.1:
+  3.0.14:
     licensed:
       declared: OTHER

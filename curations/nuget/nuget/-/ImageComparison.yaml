@@ -1,8 +1,8 @@
 coordinates:
-  name: Nethereum.Quorum
+  name: ImageComparison
   provider: nuget
   type: nuget
 revisions:
-  0.0.21:
+  2.0.4:
     licensed:
-      declared: OTHER
+      declared: CPOL-1.02

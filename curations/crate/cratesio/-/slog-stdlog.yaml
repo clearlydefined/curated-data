@@ -1,0 +1,41 @@
+coordinates:
+  name: slog-stdlog
+  provider: cratesio
+  type: crate
+revisions:
+  4.1.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  4.0.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  3.0.5:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  3.0.2:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  3.0.1:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  3.0.0:
+    licensed:
+      declared: MPL-2.0 OR MIT OR Apache-2.0
+  2.0.0:
+    licensed:
+      declared: MPL-2.0
+  1.1.0:
+    licensed:
+      declared: MPL-2.0
+  1.0.1:
+    licensed:
+      declared: MPL-2.0
+  1.0.0:
+    licensed:
+      declared: MPL-2.0
+  0.7.0:
+    licensed:
+      declared: MPL-2.0
+  0.6.0:
+    licensed:
+      declared: MPL-2.0
