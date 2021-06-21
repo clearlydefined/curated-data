@@ -1,0 +1,8 @@
+coordinates:
+  name: ObjectStore.Interfaces
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.37:
+    licensed:
+      declared: GPL-2.0-only
