@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: operator-lifecycle-manager
+  namespace: operator-framework
+  provider: github
+revisions:
+  02d278ba2d9d884888eb6f8a5ce2f4abdc56e581:
+    licensed:
+      declared: Apache-2.0
