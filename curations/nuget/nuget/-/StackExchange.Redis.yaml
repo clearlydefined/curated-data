@@ -61,15 +61,6 @@ revisions:
     licensed:
       declared: MIT
   2.0.558:
-    described:
-      releaseDate: '2019-04-03'
-      sourceLocation:
-        name: stackexchange.redis
-        namespace: stackexchange
-        provider: github
-        revision: v2.0.558
-        type: git
-        url: 'https://github.com/stackexchange/stackexchange.redis/commit/v2.0.558'
     licensed:
       declared: MIT
   2.0.571:
@@ -95,7 +86,7 @@ revisions:
         url: 'https://github.com/stackexchange/stackexchange.redis/commit/4a0d3538da09fc1ddba120efaaefd5787533a1e0'
     licensed:
       declared: MIT
-  2.1.28:
+  2.1.30:
     described:
       sourceLocation:
         name: stackexchange.redis
