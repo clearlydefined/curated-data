@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: http-authentication
+  namespace: jimstudt
+  provider: github
+revisions:
+  3eca13d6893afd7ecabe15f4445f5d2872a1b012:
+    licensed:
+      declared: MIT
