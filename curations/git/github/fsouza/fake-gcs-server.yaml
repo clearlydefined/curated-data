@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: fake-gcs-server
+  namespace: fsouza
+  provider: github
+revisions:
+  e7301000a5ffd02a6dac05f97342f668f6e574b9:
+    licensed:
+      declared: BSD-2-Clause
