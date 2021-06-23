@@ -9,6 +9,9 @@ revisions:
   4.52.4518.14738:
     licensed:
       declared: Apache-2.0
+  4.84.4790.14417:
+    licensed:
+      declared: MIT
   4.94.4916.15482:
     licensed:
       declared: Apache-2.0
