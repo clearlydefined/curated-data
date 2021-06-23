@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: logrus-bugsnag
+  namespace: Shopify
+  provider: github
+revisions:
+  577dee27f20dd8f1a529f82210094af593be12bd:
+    licensed:
+      declared: MIT
