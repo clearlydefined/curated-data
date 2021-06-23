@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: logrus-logstash-hook
+  namespace: bshuster-repo
+  provider: github
+revisions:
+  b3d898b5138adbc4c4da62fa6d889f18a587566b:
+    licensed:
+      declared: MIT
