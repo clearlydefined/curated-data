@@ -1,0 +1,8 @@
+coordinates:
+  name: XmpCore
+  provider: nuget
+  type: nuget
+revisions:
+  6.1.10:
+    licensed:
+      declared: BSD-2-Clause
