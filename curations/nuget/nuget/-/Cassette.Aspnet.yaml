@@ -1,0 +1,8 @@
+coordinates:
+  name: Cassette.Aspnet
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.2:
+    licensed:
+      declared: MIT
