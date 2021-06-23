@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: operator-registry
+  namespace: operator-framework
+  provider: github
+revisions:
+  19378f26062a39c92e7ab118a530fd80f45229aa:
+    licensed:
+      declared: Apache-2.0
