@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: consul
+  namespace: hashicorp
+  provider: github
+revisions:
+  6abe00cb2c8a3298794a7a9a67815937bd56ed63:
+    licensed:
+      declared: MPL-2.0
