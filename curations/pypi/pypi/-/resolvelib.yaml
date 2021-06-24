@@ -1,0 +1,8 @@
+coordinates:
+  name: resolvelib
+  provider: pypi
+  type: pypi
+revisions:
+  0.5.4:
+    licensed:
+      declared: ISC
