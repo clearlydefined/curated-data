@@ -42,10 +42,16 @@ revisions:
   1.2.6:
     licensed:
       declared: MIT
+  2.0.0-alpha.465:
+    licensed:
+      declared: MIT
   2.0.495:
     licensed:
       declared: MIT
   2.0.505:
+    licensed:
+      declared: MIT
+  2.0.510:
     licensed:
       declared: MIT
   2.0.513:
@@ -54,7 +60,16 @@ revisions:
   2.0.519:
     licensed:
       declared: MIT
+  2.0.544:
+    licensed:
+      declared: MIT
+  2.0.558:
+    licensed:
+      declared: MIT
   2.0.571:
+    licensed:
+      declared: MIT
+  2.0.588:
     licensed:
       declared: MIT
   2.0.593:
@@ -64,5 +79,34 @@ revisions:
     licensed:
       declared: MIT
   2.0.601:
+    described:
+      sourceLocation:
+        name: stackexchange.redis
+        namespace: stackexchange
+        provider: github
+        revision: 4a0d3538da09fc1ddba120efaaefd5787533a1e0
+        type: git
+        url: 'https://github.com/stackexchange/stackexchange.redis/commit/4a0d3538da09fc1ddba120efaaefd5787533a1e0'
     licensed:
       declared: MIT
+  2.1.30:
+    described:
+      sourceLocation:
+        name: stackexchange.redis
+        namespace: stackexchange
+        provider: github
+        revision: 5c3036ab7aebd647f3dd3d89f07e02d4c2a48d5e
+        type: git
+        url: 'https://github.com/stackexchange/stackexchange.redis/commit/5c3036ab7aebd647f3dd3d89f07e02d4c2a48d5e'
+  2.1.39:
+    described:
+      releaseDate: '2020-04-21'
+  2.1.58:
+    described:
+      sourceLocation:
+        name: stackexchange.redis
+        namespace: stackexchange
+        provider: github
+        revision: 118698d486fed50fb0092e8d7274022812a4f737
+        type: git
+        url: 'https://github.com/stackexchange/stackexchange.redis/commit/118698d486fed50fb0092e8d7274022812a4f737'
