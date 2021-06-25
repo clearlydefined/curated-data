@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-oci8
+  namespace: mattn
+  provider: github
+revisions:
+  16089af2a9f809e56ca6d1aeebc8a76b32d74fc5:
+    licensed:
+      declared: MIT

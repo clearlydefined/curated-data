@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: strptime
+  namespace: pbnjay
+  provider: github
+revisions:
+  5c05b0d668c919165e2c16298c96a3f2ab4564b3:
+    licensed:
+      declared: MIT

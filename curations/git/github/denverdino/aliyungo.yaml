@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: aliyungo
+  namespace: denverdino
+  provider: github
+revisions:
+  a747050bb1baf06cdd65de7cddc281a2b1c2fde5:
+    licensed:
+      declared: Apache-2.0

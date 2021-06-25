@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-label
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.2:
+    licensed:
+      declared: OTHER

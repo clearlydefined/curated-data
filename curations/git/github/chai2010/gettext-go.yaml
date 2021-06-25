@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gettext-go
+  namespace: chai2010
+  provider: github
+revisions:
+  c6fed771bfd517099caf0f7a961671fa8ed08723:
+    licensed:
+      declared: BSD-3-Clause

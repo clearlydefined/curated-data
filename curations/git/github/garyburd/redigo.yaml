@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: redigo
+  namespace: garyburd
+  provider: github
+revisions:
+  a69d19351219b6dd56f274f96d85a7014a2ec34e:
+    licensed:
+      declared: Apache-2.0

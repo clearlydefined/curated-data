@@ -1,0 +1,12 @@
+coordinates:
+  type: git
+  name: go-bindata
+  namespace: go-bindata
+  provider: github
+revisions:
+  a9c83481b38ebb1c4eb8f0168fd4b10ca1d3c523:
+    licensed:
+      declared: CC0-1.0
+  23ef162b685b439bad2750a8d72846a7fb1893be:
+    licensed:
+      declared: CC0-1.0

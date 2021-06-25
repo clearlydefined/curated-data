@@ -1,0 +1,8 @@
+coordinates:
+  name: MSBuild.Microsoft.VisualStudio.Web_WebApplication.Targets
+  provider: nuget
+  type: nuget
+revisions:
+  12.0.2:
+    licensed:
+      declared: NONE
