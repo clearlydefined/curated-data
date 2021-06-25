@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: testing
+  namespace: golangplus
+  provider: github
+revisions:
+  af21d9c3145e9c670ea7eb7fc85456c1449edf1c:
+    licensed:
+      declared: BSD-3-Clause

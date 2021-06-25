@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: helm-plugin-utils
+  namespace: maorfr
+  provider: github
+revisions:
+  588190cb5e3b7a83ff958dcd55e4990429b4845a:
+    licensed:
+      declared: Apache-2.0

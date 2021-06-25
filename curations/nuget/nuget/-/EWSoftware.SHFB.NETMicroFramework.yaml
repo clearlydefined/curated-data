@@ -1,0 +1,8 @@
+coordinates:
+  name: EWSoftware.SHFB.NETMicroFramework
+  provider: nuget
+  type: nuget
+revisions:
+  4.3.0:
+    licensed:
+      declared: MS-PL

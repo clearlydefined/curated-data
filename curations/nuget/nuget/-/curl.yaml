@@ -1,0 +1,8 @@
+coordinates:
+  name: curl
+  provider: nuget
+  type: nuget
+revisions:
+  7.30.0.2:
+    licensed:
+      declared: curl
