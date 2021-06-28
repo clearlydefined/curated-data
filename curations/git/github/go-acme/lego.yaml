@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: lego
+  namespace: go-acme
+  provider: github
+revisions:
+  3d13faf68920543a393ad6cdfdea429627af2d34:
+    licensed:
+      declared: MIT

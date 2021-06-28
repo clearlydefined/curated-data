@@ -1,0 +1,8 @@
+coordinates:
+  name: cppzmq
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.1:
+    licensed:
+      declared: MIT

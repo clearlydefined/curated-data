@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: legacy-cloud-providers
+  namespace: kubernetes
+  provider: github
+revisions:
+  a30a1670a4ff49f08afca9b8e1caab9bb753e3a7:
+    licensed:
+      declared: Apache-2.0

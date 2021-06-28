@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: win_pdh
+  namespace: JeffAshton
+  provider: github
+revisions:
+  76bb4ee9f0ab50f77826f2a2ee7fb9d3880d6ec2:
+    licensed:
+      declared: BSD-3-Clause

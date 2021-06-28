@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: envload
+  namespace: lestrrat-go
+  provider: github
+revisions:
+  a3eb8ddeffccdbca0eb6dd6cc7c7950c040a6546:
+    licensed:
+      declared: MIT

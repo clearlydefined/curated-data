@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: distribution
+  namespace: distribution
+  provider: github
+revisions:
+  2461543d988979529609e8cb6fca9ca190dc48da:
+    licensed:
+      declared: Apache-2.0

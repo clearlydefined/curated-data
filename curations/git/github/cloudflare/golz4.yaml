@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: golz4
+  namespace: cloudflare
+  provider: github
+revisions:
+  ef862a3cdc58a6f1fee4e3af3d44fbe279194cde:
+    licensed:
+      declared: BSD-3-Clause

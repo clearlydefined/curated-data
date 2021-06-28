@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: utils
+  namespace: heketi
+  provider: github
+revisions:
+  435bc5bdfa64550e867cd7ef0b9181adc02b88d2:
+    licensed:
+      declared: Apache-2.0
