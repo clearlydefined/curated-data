@@ -1,0 +1,12 @@
+coordinates:
+  type: git
+  name: pgproto3
+  namespace: jackc
+  provider: github
+revisions:
+  b2a540ca814e2103bdb45188625a035e2ef3f6b6:
+    licensed:
+      declared: MIT
+  595780be0f9f581451a23a5151b77f782202ad72:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gobrake
+  namespace: airbrake
+  provider: github
+revisions:
+  668876711219e8b0206e2994bf0a59d889c775aa:
+    licensed:
+      declared: BSD-3-Clause

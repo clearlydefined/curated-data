@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: gonum
+  namespace: gonum
+  provider: github
+revisions:
+  4340aa3071a0acb819e023bd5cd455c714a1f154:
+    licensed:
+      declared: BSD-3-Clause

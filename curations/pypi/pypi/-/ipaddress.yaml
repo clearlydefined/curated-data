@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  1.0.17:
+    licensed:
+      declared: PSF-2.0
   1.0.22:
     licensed:
       declared: PSF-2.0

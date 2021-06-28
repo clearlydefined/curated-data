@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: api
+  namespace: operator-framework
+  provider: github
+revisions:
+  01e8bf8bd934a18aef1d22e9e4c523f293b2a633:
+    licensed:
+      declared: Apache-2.0

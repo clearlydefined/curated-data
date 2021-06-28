@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: quic-clients
+  namespace: lucas-clemente
+  provider: github
+revisions:
+  5b47d1e1120e49a4174d1858b8dbbce80712201c:
+    licensed:
+      declared: BSD-3-Clause

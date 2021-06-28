@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: retry
+  namespace: Rican7
+  provider: github
+revisions:
+  28d17f812805614e76f170aa3c8698155ea8e019:
+    licensed:
+      declared: MIT

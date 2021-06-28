@@ -1,0 +1,11 @@
+coordinates:
+  name: ObjectStore
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.37:
+    licensed:
+      declared: GPL-2.0-only
+  2.0.34:
+    licensed:
+      declared: GPL-2.0-only

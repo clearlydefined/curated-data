@@ -177,6 +177,9 @@ revisions:
   3.17.1:
     licensed:
       declared: BSD-3-Clause
+  3.17.2:
+    licensed:
+      declared: BSD-3-Clause
   3.17.3:
     licensed:
       declared: BSD-3-Clause

@@ -1,0 +1,8 @@
+coordinates:
+  name: NSwag.AspNet.Owin
+  provider: nuget
+  type: nuget
+revisions:
+  11.17.18:
+    licensed:
+      declared: MIT

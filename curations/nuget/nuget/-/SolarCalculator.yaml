@@ -1,0 +1,8 @@
+coordinates:
+  name: SolarCalculator
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.4:
+    licensed:
+      declared: MS-RL

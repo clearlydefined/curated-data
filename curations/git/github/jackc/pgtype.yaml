@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: pgtype
+  namespace: jackc
+  provider: github
+revisions:
+  a8802b16cc593842f5c69b0f7cfb0de11d5cd3a8:
+    licensed:
+      declared: MIT

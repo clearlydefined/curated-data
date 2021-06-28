@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: flect
+  namespace: gobuffalo
+  provider: github
+revisions:
+  89744b3e498c96c5566f5c86c032207ff49c3b96:
+    licensed:
+      declared: MIT
