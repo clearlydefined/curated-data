@@ -1,0 +1,8 @@
+coordinates:
+  name: Protractor
+  provider: nuget
+  type: nuget
+revisions:
+  0.6.0:
+    licensed:
+      declared: MIT
