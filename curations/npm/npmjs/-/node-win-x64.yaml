@@ -6,6 +6,9 @@ revisions:
   12.14.1:
     licensed:
       declared: NONE
+  12.18.0:
+    licensed:
+      declared: MIT
   12.6.0:
     licensed:
       declared: NONE
