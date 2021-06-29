@@ -1,0 +1,8 @@
+coordinates:
+  name: boost_locale-vc140
+  provider: nuget
+  type: nuget
+revisions:
+  1.60.0:
+    licensed:
+      declared: Apache-2.0
