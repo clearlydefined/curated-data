@@ -1,0 +1,8 @@
+coordinates:
+  name: MvcContrib.Mvc3.TestHelper-ci
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.100:
+    licensed:
+      declared: Apache-2.0
