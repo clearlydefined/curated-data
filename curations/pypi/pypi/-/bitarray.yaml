@@ -8,7 +8,7 @@ revisions:
       declared: PSF-2.0
   1.2.1:
     licensed:
-      declared: Python-2.0
+      declared: PSF-2.0
   1.5.1:
     licensed:
       declared: PSF-2.0
