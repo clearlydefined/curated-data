@@ -1,11 +1,8 @@
 coordinates:
-  name: LibLog
+  name: NSwag.AspNet.Owin
   provider: nuget
   type: nuget
 revisions:
-  4.2.6:
-    licensed:
-      declared: MIT
-  5.0.6:
+  11.17.18:
     licensed:
       declared: MIT
