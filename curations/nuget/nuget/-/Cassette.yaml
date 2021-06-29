@@ -1,11 +1,8 @@
 coordinates:
-  name: LibLog
+  name: Cassette
   provider: nuget
   type: nuget
 revisions:
-  4.2.6:
-    licensed:
-      declared: MIT
-  5.0.6:
+  2.4.2:
     licensed:
       declared: MIT
