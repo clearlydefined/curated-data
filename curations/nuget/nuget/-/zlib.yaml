@@ -6,3 +6,6 @@ revisions:
   1.2.8.6:
     licensed:
       declared: Zlib
+  1.2.8.8:
+    licensed:
+      declared: Zlib

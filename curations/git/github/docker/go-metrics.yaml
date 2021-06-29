@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-metrics
+  namespace: docker
+  provider: github
+revisions:
+  b619b3592b65de4f087d9f16863a7e6ff905973c:
+    licensed:
+      declared: Apache-2.0
