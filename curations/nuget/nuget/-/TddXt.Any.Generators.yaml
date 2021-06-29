@@ -1,0 +1,8 @@
+coordinates:
+  name: TddXt.Any.Generators
+  provider: nuget
+  type: nuget
+revisions:
+  6.1.4:
+    licensed:
+      declared: MIT
