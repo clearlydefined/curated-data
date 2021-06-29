@@ -1,0 +1,8 @@
+coordinates:
+  name: PyAudio
+  provider: pypi
+  type: pypi
+revisions:
+  0.2.11:
+    licensed:
+      declared: MIT
