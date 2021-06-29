@@ -1,11 +1,8 @@
 coordinates:
-  name: LibLog
+  name: ColoredConsole
   provider: nuget
   type: nuget
 revisions:
-  4.2.6:
-    licensed:
-      declared: MIT
-  5.0.6:
+  1.0.0:
     licensed:
       declared: MIT

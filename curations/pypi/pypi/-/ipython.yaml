@@ -1,0 +1,23 @@
+coordinates:
+  name: ipython
+  provider: pypi
+  type: pypi
+revisions:
+  7.1.0:
+    described:
+      sourceLocation:
+        name: ipython
+        namespace: ipython
+        provider: github
+        revision: de31a74aff8765c2b3df4a1981bec757de937362
+        type: git
+        url: 'https://github.com/ipython/ipython/commit/de31a74aff8765c2b3df4a1981bec757de937362'
+  7.8.0:
+    described:
+      sourceLocation:
+        name: ipython
+        namespace: ipython
+        provider: github
+        revision: c233c25ab8b724646b9bdc407214c3bb7294683c
+        type: git
+        url: 'https://github.com/ipython/ipython/commit/c233c25ab8b724646b9bdc407214c3bb7294683c'
