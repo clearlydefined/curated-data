@@ -84,6 +84,9 @@ revisions:
   1.0.81:
     licensed:
       declared: OTHER
+  1.0.85:
+    licensed:
+      declared: OTHER
   1.13.0:
     licensed:
       declared: OTHER
@@ -103,6 +106,9 @@ revisions:
     licensed:
       declared: OTHER
   1.19.0:
+    licensed:
+      declared: OTHER
+  1.2.0:
     licensed:
       declared: OTHER
   1.20.0:
@@ -135,12 +141,21 @@ revisions:
   1.29.0:
     licensed:
       declared: OTHER
+  1.30.0:
+    licensed:
+      declared: OTHER
   1.5.0:
+    licensed:
+      declared: OTHER
+  1.6.0:
     licensed:
       declared: OTHER
   1.7.0:
     licensed:
       declared: OTHER
   1.8.0:
+    licensed:
+      declared: OTHER
+  1.9.0:
     licensed:
       declared: OTHER
