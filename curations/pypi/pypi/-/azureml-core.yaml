@@ -342,6 +342,9 @@ revisions:
   1.28.0.post1:
     licensed:
       declared: OTHER
+  1.29.0:
+    licensed:
+      declared: OTHER
   1.29.0.post1:
     licensed:
       declared: OTHER
