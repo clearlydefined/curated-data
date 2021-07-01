@@ -153,6 +153,9 @@ revisions:
   1.29.0:
     licensed:
       declared: OTHER
+  1.30.0:
+    licensed:
+      declared: OTHER
   1.4.0:
     licensed:
       declared: OTHER
@@ -160,6 +163,9 @@ revisions:
     licensed:
       declared: OTHER
   1.7.0:
+    licensed:
+      declared: OTHER
+  1.7.0.post1:
     licensed:
       declared: OTHER
   1.8.0:
