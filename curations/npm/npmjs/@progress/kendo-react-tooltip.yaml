@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-react-tooltip
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  2.3.0:
+    licensed:
+      declared: OTHER
