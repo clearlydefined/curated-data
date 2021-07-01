@@ -69,3 +69,6 @@ revisions:
   1.29.0:
     licensed:
       declared: OTHER
+  1.30.0:
+    licensed:
+      declared: OTHER
