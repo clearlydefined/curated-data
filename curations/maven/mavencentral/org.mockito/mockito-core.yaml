@@ -39,6 +39,9 @@ revisions:
         path: LICENSE
     licensed:
       declared: MIT
+  3.11.2:
+    licensed:
+      declared: MIT
   3.2.4:
     licensed:
       declared: MIT
