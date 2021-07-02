@@ -1,0 +1,8 @@
+coordinates:
+  name: System.Configuration
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.5:
+    licensed:
+      declared: NONE
