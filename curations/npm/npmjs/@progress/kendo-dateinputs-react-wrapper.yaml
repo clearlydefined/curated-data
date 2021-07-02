@@ -1,12 +1,9 @@
 coordinates:
-  name: kendo-react-tooltip
+  name: kendo-dateinputs-react-wrapper
   namespace: '@progress'
   provider: npmjs
   type: npm
 revisions:
-  2.3.0:
-    licensed:
-      declared: OTHER
-  2.11.0:
+  2018.3.1017:
     licensed:
       declared: OTHER
