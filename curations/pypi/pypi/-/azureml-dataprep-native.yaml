@@ -9,6 +9,9 @@ revisions:
   14.1.0:
     licensed:
       declared: OTHER
+  14.2.0:
+    licensed:
+      declared: OTHER
   14.2.1:
     licensed:
       declared: OTHER
@@ -22,6 +25,9 @@ revisions:
     licensed:
       declared: OTHER
   20.1.1:
+    licensed:
+      declared: OTHER
+  21.0.1:
     licensed:
       declared: OTHER
   21.0.3:
@@ -49,6 +55,9 @@ revisions:
     licensed:
       declared: OTHER
   30.0.0:
+    licensed:
+      declared: OTHER
+  32.0.0:
     licensed:
       declared: OTHER
   33.0.0:
