@@ -24,6 +24,9 @@ revisions:
   1.0.60:
     licensed:
       declared: OTHER
+  1.0.85:
+    licensed:
+      declared: OTHER
   1.0rc83:
     licensed:
       declared: OTHER
@@ -39,7 +42,13 @@ revisions:
   1.1.2rc0:
     licensed:
       declared: OTHER
+  1.1.5:
+    licensed:
+      declared: OTHER
   1.10.0:
+    licensed:
+      declared: OTHER
+  1.12.0:
     licensed:
       declared: OTHER
   1.13.0:
@@ -60,10 +69,16 @@ revisions:
   1.18.0:
     licensed:
       declared: OTHER
+  1.19.0:
+    licensed:
+      declared: OTHER
   1.2.0:
     licensed:
       declared: OTHER
   1.20.0:
+    licensed:
+      declared: OTHER
+  1.21.0:
     licensed:
       declared: OTHER
   1.22.0:
@@ -72,7 +87,13 @@ revisions:
   1.23.0:
     licensed:
       declared: OTHER
+  1.24.0:
+    licensed:
+      declared: OTHER
   1.25.0:
+    licensed:
+      declared: OTHER
+  1.26.0:
     licensed:
       declared: OTHER
   1.27.0:
@@ -84,12 +105,24 @@ revisions:
   1.29.0:
     licensed:
       declared: OTHER
+  1.3.0:
+    licensed:
+      declared: OTHER
   1.4.0:
     licensed:
       declared: OTHER
   1.6.0:
     licensed:
       declared: OTHER
+  1.5.0:
+    licensed:
+      declared: OTHER
+  1.7.0:
+    licensed:
+      declared: OTHER
   1.8.0:
+    licensed:
+      declared: OTHER
+  1.9.0:
     licensed:
       declared: OTHER
