@@ -6,10 +6,10 @@ coordinates:
 revisions:
   0.5.0:
     licensed:
-      declared: EPL-2.0
+      declared: EPL-2.0 OR BSD-3-Clause
   0.7.2:
     licensed:
-      declared: EPL-2.0
+      declared: EPL-2.0 OR BSD-3-Clause
   0.8.1:
     licensed:
-      declared: EPL-2.0
+      declared: EPL-2.0 OR BSD-3-Clause
