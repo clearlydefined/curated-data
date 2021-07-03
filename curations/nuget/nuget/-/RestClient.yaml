@@ -1,0 +1,8 @@
+coordinates:
+  name: RestClient
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.0.10:
+    licensed:
+      declared: NONE
