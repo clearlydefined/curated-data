@@ -1,0 +1,9 @@
+coordinates:
+  name: tyrus-container-grizzly
+  namespace: org.glassfish.tyrus
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.1:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0 OR CDDL-1.1
