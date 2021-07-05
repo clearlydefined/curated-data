@@ -51,3 +51,6 @@ revisions:
   2021.4.4:
     licensed:
       declared: Apache-2.0
+  2021.7.1:
+    licensed:
+      declared: MIT
