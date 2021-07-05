@@ -9,3 +9,6 @@ revisions:
   1.4.4:
     licensed:
       declared: OTHER
+  1.7.4:
+    licensed:
+      declared: MPL-2.0
