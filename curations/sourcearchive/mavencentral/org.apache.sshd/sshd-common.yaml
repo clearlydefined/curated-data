@@ -1,0 +1,9 @@
+coordinates:
+  name: sshd-common
+  namespace: org.apache.sshd
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.3.0:
+    licensed:
+      declared: Apache-2.0
