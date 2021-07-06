@@ -6,7 +6,7 @@ coordinates:
 revisions:
   0.9.0:
     licensed:
-      declared: EPL-1.0
+      declared: EPL-1.0 OR LGPL-2.1-or-later
   1.0.1:
     licensed:
-      declared: EPL-1.0 OR LGPL-2.1
+      declared: EPL-1.0 OR LGPL-2.1-or-later
