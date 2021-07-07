@@ -12,4 +12,4 @@ revisions:
       declared: BSD-3-Clause AND IJG AND Zlib
   c23672ce52ae53bd846b555439aa0a070b6d2c07:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND IJG AND Zlib
