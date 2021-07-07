@@ -30,6 +30,9 @@ revisions:
   3.0.13:
     licensed:
       declared: AGPL-3.0-only OR OTHER
+  3.0.14:
+    licensed:
+      declared: AGPL-3.0-only OR OTHER
   3.0.2:
     licensed:
       declared: AGPL-3.0-only OR OTHER
