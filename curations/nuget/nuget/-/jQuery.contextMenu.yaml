@@ -1,11 +1,8 @@
 coordinates:
-  name: ExpectedObjects
+  name: jQuery.contextMenu
   provider: nuget
   type: nuget
 revisions:
-  1.2.3:
-    licensed:
-      declared: MIT
-  2.3.4:
+  2.2.4.2:
     licensed:
       declared: MIT

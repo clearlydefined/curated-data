@@ -1,11 +1,8 @@
 coordinates:
-  name: ExpectedObjects
+  name: SpecsFor
   provider: nuget
   type: nuget
 revisions:
-  1.2.3:
-    licensed:
-      declared: MIT
-  2.3.4:
+  5.0.0:
     licensed:
       declared: MIT
