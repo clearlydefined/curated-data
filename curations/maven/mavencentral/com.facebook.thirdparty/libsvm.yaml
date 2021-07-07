@@ -1,0 +1,9 @@
+coordinates:
+  name: libsvm
+  namespace: com.facebook.thirdparty
+  provider: mavencentral
+  type: maven
+revisions:
+  3.18.1:
+    licensed:
+      declared: BSD-3-Clause
