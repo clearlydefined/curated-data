@@ -1,0 +1,9 @@
+coordinates:
+  name: faiss
+  namespace: facebookresearch
+  provider: github
+  type: git
+revisions:
+  0fb6c00cfa9487416b5cdf514f5f796476eecb06:
+    licensed:
+      declared: MIT
