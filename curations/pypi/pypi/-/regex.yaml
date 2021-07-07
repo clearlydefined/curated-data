@@ -54,3 +54,6 @@ revisions:
   2021.7.1:
     licensed:
       declared: Apache-2.0
+  2021.7.5:
+    licensed:
+      declared: Apache-2.0
