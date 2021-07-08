@@ -1,0 +1,8 @@
+coordinates:
+  name: VSLangProj80
+  provider: nuget
+  type: nuget
+revisions:
+  16.9.31023.347:
+    licensed:
+      declared: OTHER
