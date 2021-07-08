@@ -1,0 +1,9 @@
+coordinates:
+  name: json-js
+  namespace: douglascrockford
+  provider: github
+  type: git
+revisions:
+  47a9882cddeb1e8529e07af9736218075372b8ac:
+    licensed:
+      declared: OTHER
