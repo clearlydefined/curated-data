@@ -1,0 +1,9 @@
+coordinates:
+  name: libpostal-rest
+  namespace: johnlonganecker
+  provider: github
+  type: git
+revisions:
+  babf16cee439f891fbdbaa22c9a86724a4720d75:
+    licensed:
+      declared: NONE
