@@ -1,0 +1,8 @@
+coordinates:
+  name: VSLangProj165
+  provider: nuget
+  type: nuget
+revisions:
+  16.9.31024.71:
+    licensed:
+      declared: OTHER
