@@ -1,0 +1,14 @@
+coordinates:
+  name: uid2
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.3:
+    described:
+      sourceLocation:
+        name: uid2
+        namespace: coreh
+        provider: github
+        revision: de1b40992074e01983dd1d145af369eb8bc41137
+        type: git
+        url: 'https://github.com/coreh/uid2/commit/de1b40992074e01983dd1d145af369eb8bc41137'
