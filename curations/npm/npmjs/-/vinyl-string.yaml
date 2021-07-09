@@ -1,0 +1,14 @@
+coordinates:
+  name: vinyl-string
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.2:
+    described:
+      sourceLocation:
+        name: vinyl-string
+        namespace: armordog
+        provider: github
+        revision: 9e9cbe5fd2423d49349ab9a03c24d10c5b8adab8
+        type: git
+        url: 'https://github.com/armordog/vinyl-string/commit/9e9cbe5fd2423d49349ab9a03c24d10c5b8adab8'
