@@ -1,0 +1,14 @@
+coordinates:
+  name: polylabel
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.2:
+    described:
+      sourceLocation:
+        name: polylabel
+        namespace: mapbox
+        provider: github
+        revision: 64fe15722f380a53821286ee712abdd2ef79861a
+        type: git
+        url: 'https://github.com/mapbox/polylabel/commit/64fe15722f380a53821286ee712abdd2ef79861a'
