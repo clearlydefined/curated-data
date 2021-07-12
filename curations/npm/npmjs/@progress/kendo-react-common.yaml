@@ -148,3 +148,6 @@ revisions:
   4.6.0-dev.202105101005:
     licensed:
       declared: OTHER
+  4.7.0:
+    licensed:
+      declared: OTHER
