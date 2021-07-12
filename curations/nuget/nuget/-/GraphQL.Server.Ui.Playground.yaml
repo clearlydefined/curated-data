@@ -12,3 +12,6 @@ revisions:
   3.5.0-alpha0027:
     licensed:
       declared: MIT
+  4.2.1:
+    licensed:
+      declared: MIT
