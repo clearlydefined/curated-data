@@ -1,0 +1,8 @@
+coordinates:
+  name: CommandLine.Options
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.3:
+    licensed:
+      declared: MIT
