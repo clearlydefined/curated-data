@@ -30,3 +30,6 @@ revisions:
   1.5.3:
     licensed:
       declared: BSD-2-Clause
+  1.7.0:
+    licensed:
+      declared: BSD-2-Clause
