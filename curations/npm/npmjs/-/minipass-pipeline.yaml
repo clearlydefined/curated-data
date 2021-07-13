@@ -1,0 +1,32 @@
+coordinates:
+  name: minipass-pipeline
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.2:
+    described:
+      sourceLocation:
+        name: minipass-pipeline
+        namespace: isaacs
+        provider: github
+        revision: c1b660ea62856d8bbd909618f5a3c3d51e29e69b
+        type: git
+        url: 'https://github.com/isaacs/minipass-pipeline/commit/c1b660ea62856d8bbd909618f5a3c3d51e29e69b'
+  1.2.3:
+    described:
+      sourceLocation:
+        name: minipass-pipeline
+        namespace: isaacs
+        provider: github
+        revision: 29b2399520fa0cbe38f9932f03f9ee8205ccd12e
+        type: git
+        url: 'https://github.com/isaacs/minipass-pipeline/commit/29b2399520fa0cbe38f9932f03f9ee8205ccd12e'
+  1.2.4:
+    described:
+      sourceLocation:
+        name: minipass-pipeline
+        namespace: isaacs
+        provider: github
+        revision: ead0263f019a9ec1eeb6db5da34c62479bb0a967
+        type: git
+        url: 'https://github.com/isaacs/minipass-pipeline/commit/ead0263f019a9ec1eeb6db5da34c62479bb0a967'
