@@ -1,0 +1,14 @@
+coordinates:
+  name: node-bin-setup
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.6:
+    described:
+      sourceLocation:
+        name: node-bin-setup
+        namespace: aredridel
+        provider: github
+        revision: ad56be2b72108028fc058c07665035e34f25c0e9
+        type: git
+        url: 'https://github.com/aredridel/node-bin-setup/commit/ad56be2b72108028fc058c07665035e34f25c0e9'
