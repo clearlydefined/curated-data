@@ -1,0 +1,14 @@
+coordinates:
+  name: eslint-plugin-rulesdir
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.0:
+    described:
+      sourceLocation:
+        name: eslint-plugin-rulesdir
+        namespace: not-an-aardvark
+        provider: github
+        revision: 0678a8bc7358856e3c9ecdbb3ba31db587094121
+        type: git
+        url: 'https://github.com/not-an-aardvark/eslint-plugin-rulesdir/commit/0678a8bc7358856e3c9ecdbb3ba31db587094121'
