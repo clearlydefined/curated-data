@@ -1,0 +1,14 @@
+coordinates:
+  name: ember-cli-shims
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.0:
+    described:
+      sourceLocation:
+        name: ember-cli-shims
+        namespace: ember-cli
+        provider: github
+        revision: 4a504d0302c58708519d327fcd1d25a00f9ac490
+        type: git
+        url: 'https://github.com/ember-cli/ember-cli-shims/commit/4a504d0302c58708519d327fcd1d25a00f9ac490'
