@@ -80,6 +80,9 @@ revisions:
   1.32.0:
     licensed:
       declared: MIT
+  1.32.0-preview-001:
+    licensed:
+      declared: MIT
   1.33.0:
     licensed:
       declared: MIT
@@ -104,6 +107,12 @@ revisions:
         revision: 88a5330e462f042f5784fc8e6734bdf4bda0dd53
         type: git
         url: 'https://github.com/azure/azure-iot-sdk-csharp/commit/88a5330e462f042f5784fc8e6734bdf4bda0dd53'
+    licensed:
+      declared: MIT
+  1.37.1:
+    licensed:
+      declared: MIT
+  1.37.2:
     licensed:
       declared: MIT
   1.5.1:
