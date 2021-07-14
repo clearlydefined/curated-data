@@ -1,0 +1,9 @@
+coordinates:
+  name: applicationinsights-angularplugin-js
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  2.6.3:
+    licensed:
+      declared: MIT
