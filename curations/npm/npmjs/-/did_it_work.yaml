@@ -1,0 +1,14 @@
+coordinates:
+  name: did_it_work
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.6:
+    described:
+      sourceLocation:
+        name: did_it_work
+        namespace: airportyh
+        provider: github
+        revision: 601246d9b7bb5419c162777a49f1fb1a98304262
+        type: git
+        url: 'https://github.com/airportyh/did_it_work/commit/601246d9b7bb5419c162777a49f1fb1a98304262'
