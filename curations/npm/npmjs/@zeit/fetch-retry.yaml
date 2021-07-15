@@ -1,0 +1,42 @@
+coordinates:
+  name: fetch-retry
+  namespace: '@zeit'
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.0:
+    described:
+      sourceLocation:
+        name: fetch-retry
+        namespace: vercel
+        provider: github
+        revision: 756b513f65e139ee22518ce2954cc361e71d2a45
+        type: git
+        url: 'https://github.com/vercel/fetch-retry/commit/756b513f65e139ee22518ce2954cc361e71d2a45'
+  4.0.1:
+    described:
+      sourceLocation:
+        name: fetch-retry
+        namespace: vercel
+        provider: github
+        revision: 0ae78d1970a0e447a2c78d6ee90a659579b1e5e9
+        type: git
+        url: 'https://github.com/vercel/fetch-retry/commit/0ae78d1970a0e447a2c78d6ee90a659579b1e5e9'
+  4.1.0:
+    described:
+      sourceLocation:
+        name: fetch-retry
+        namespace: vercel
+        provider: github
+        revision: 532d20923783d8f3d774f48c1a49c52be24a3e20
+        type: git
+        url: 'https://github.com/vercel/fetch-retry/commit/532d20923783d8f3d774f48c1a49c52be24a3e20'
+  5.0.0:
+    described:
+      sourceLocation:
+        name: fetch-retry
+        namespace: vercel
+        provider: github
+        revision: 35274d795802958ffd72b8410529ae666d6cda47
+        type: git
+        url: 'https://github.com/vercel/fetch-retry/commit/35274d795802958ffd72b8410529ae666d6cda47'
