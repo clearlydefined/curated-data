@@ -1,0 +1,8 @@
+coordinates:
+  name: survey-pdf
+  provider: npmjs
+  type: npm
+revisions:
+  1.8.55:
+    licensed:
+      declared: OTHER
