@@ -1,0 +1,9 @@
+coordinates:
+  name: ngx_cache_purge
+  namespace: frickle
+  provider: github
+  type: git
+revisions:
+  331fe43e8d9a3d1fa5e0c9fec7d3201d431a9177:
+    licensed:
+      declared: BSD-2-Clause
