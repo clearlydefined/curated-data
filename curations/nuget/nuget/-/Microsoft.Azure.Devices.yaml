@@ -60,6 +60,9 @@ revisions:
   1.28.0:
     licensed:
       declared: MIT
+  1.28.0-preview-001:
+    licensed:
+      declared: MIT
   1.28.1:
     licensed:
       declared: MIT
