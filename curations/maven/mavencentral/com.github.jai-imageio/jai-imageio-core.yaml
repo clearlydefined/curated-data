@@ -1,0 +1,9 @@
+coordinates:
+  name: jai-imageio-core
+  namespace: com.github.jai-imageio
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.0:
+    licensed:
+      declared: BSD-3-Clause
