@@ -1,0 +1,9 @@
+coordinates:
+  name: bcutil-jdk15on
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.69':
+    licensed:
+      declared: MIT
