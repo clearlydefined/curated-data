@@ -1,0 +1,8 @@
+coordinates:
+  name: gridstack
+  provider: npmjs
+  type: npm
+revisions:
+  4.2.5:
+    licensed:
+      declared: MIT

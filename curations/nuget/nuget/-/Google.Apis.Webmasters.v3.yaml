@@ -9,3 +9,6 @@ revisions:
   1.41.0.1578:
     licensed:
       declared: Apache-2.0
+  1.48.0.1578:
+    licensed:
+      declared: Apache-2.0

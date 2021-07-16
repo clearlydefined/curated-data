@@ -1,0 +1,8 @@
+coordinates:
+  name: SharePoint.Client.Office.Tools
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.4907.1000:
+    licensed:
+      declared: NONE

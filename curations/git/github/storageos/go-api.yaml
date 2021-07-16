@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-api
+  namespace: storageos
+  provider: github
+revisions:
+  343b3eff91fcc84b0165e252eb843f5fd720fa4e:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: minreq
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.3:
+    licensed:
+      declared: BSD-2-Clause

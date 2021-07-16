@@ -1,0 +1,9 @@
+coordinates:
+  name: ruby-build
+  namespace: rbenv
+  provider: github
+  type: git
+revisions:
+  ebdcf0c26ed0039762dca01844ce8175c0d02755:
+    licensed:
+      declared: MIT

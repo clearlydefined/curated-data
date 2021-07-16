@@ -6,6 +6,21 @@ revisions:
   10.0.0:
     licensed:
       declared: OTHER
+  10.0.0-eap:
+    licensed:
+      declared: OTHER
+  10.0.0-eap3:
+    licensed:
+      declared: OTHER
+  10.1.0-eap:
+    licensed:
+      declared: OTHER
+  10.1.1-eap:
+    licensed:
+      declared: OTHER
+  10.1.2-eap:
+    licensed:
+      declared: OTHER
   10.1.4:
     licensed:
       declared: MIT
@@ -34,6 +49,9 @@ revisions:
     licensed:
       declared: MIT
   9.1.1:
+    licensed:
+      declared: OTHER
+  9.1.2:
     licensed:
       declared: OTHER
   9.2.0:

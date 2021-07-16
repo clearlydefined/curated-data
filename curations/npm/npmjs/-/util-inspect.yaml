@@ -4,5 +4,13 @@ coordinates:
   type: npm
 revisions:
   0.1.8:
+    described:
+      sourceLocation:
+        name: util-inspect
+        namespace: automattic
+        provider: github
+        revision: 29aaab6a8aef31e5628119954c3f4ca6400129ab
+        type: git
+        url: 'https://github.com/automattic/util-inspect/commit/29aaab6a8aef31e5628119954c3f4ca6400129ab'
     licensed:
       declared: MIT

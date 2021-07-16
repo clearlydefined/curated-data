@@ -1,0 +1,8 @@
+coordinates:
+  name: GraphQL.Server.Transports.AspNetCore.NewtonsoftJson
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.1:
+    licensed:
+      declared: MIT
