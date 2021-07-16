@@ -1,0 +1,14 @@
+coordinates:
+  name: typings-global
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.19:
+    described:
+      sourceLocation:
+        name: typings-global
+        namespace: pushrocks
+        provider: github
+        revision: 10f66aa9ed75055478a7f6aa5f8da0963e2fc859
+        type: git
+        url: 'https://github.com/pushrocks/typings-global/commit/10f66aa9ed75055478a7f6aa5f8da0963e2fc859'
