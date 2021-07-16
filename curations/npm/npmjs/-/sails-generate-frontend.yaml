@@ -1,0 +1,14 @@
+coordinates:
+  name: sails-generate-frontend
+  provider: npmjs
+  type: npm
+revisions:
+  0.12.3:
+    described:
+      sourceLocation:
+        name: sails-generate-frontend
+        namespace: balderdashy
+        provider: github
+        revision: 83c07ecf5c831f9858587c8f39de1a13ec16c167
+        type: git
+        url: 'https://github.com/balderdashy/sails-generate-frontend/commit/83c07ecf5c831f9858587c8f39de1a13ec16c167'
