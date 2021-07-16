@@ -1,0 +1,14 @@
+coordinates:
+  name: smart-mixin
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0:
+    described:
+      sourceLocation:
+        name: smart-mixin
+        namespace: brigand
+        provider: github
+        revision: 1644dded94e7ab08ae0d86bfb04c07d5431fab75
+        type: git
+        url: 'https://github.com/brigand/smart-mixin/commit/1644dded94e7ab08ae0d86bfb04c07d5431fab75'
