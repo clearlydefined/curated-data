@@ -1,0 +1,9 @@
+coordinates:
+  name: sext
+  namespace: com.github.nikita-volkov
+  provider: mavencentral
+  type: maven
+revisions:
+  0.2.4:
+    licensed:
+      declared: MIT
