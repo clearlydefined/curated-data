@@ -1,0 +1,14 @@
+coordinates:
+  name: sails-generate-gruntfile
+  provider: npmjs
+  type: npm
+revisions:
+  0.10.11:
+    described:
+      sourceLocation:
+        name: sails-generate-gruntfile
+        namespace: balderdashy
+        provider: github
+        revision: 1f7ad1ebf10df065654c06f4551ff75e17885459
+        type: git
+        url: 'https://github.com/balderdashy/sails-generate-gruntfile/commit/1f7ad1ebf10df065654c06f4551ff75e17885459'
