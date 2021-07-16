@@ -1,0 +1,14 @@
+coordinates:
+  name: tinycolor2
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.1:
+    described:
+      sourceLocation:
+        name: tinycolor
+        namespace: bgrins
+        provider: github
+        revision: 80f7225029c428c0de0757f7d98ac15f497bee57
+        type: git
+        url: 'https://github.com/bgrins/tinycolor/commit/80f7225029c428c0de0757f7d98ac15f497bee57'
