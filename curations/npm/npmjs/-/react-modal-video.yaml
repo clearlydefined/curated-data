@@ -1,0 +1,14 @@
+coordinates:
+  name: react-modal-video
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.3:
+    described:
+      sourceLocation:
+        name: react-modal-video
+        namespace: appleple
+        provider: github
+        revision: 1611402a6fcc03110621ae24a80572c29d07d59d
+        type: git
+        url: 'https://github.com/appleple/react-modal-video/commit/1611402a6fcc03110621ae24a80572c29d07d59d'
