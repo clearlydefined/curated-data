@@ -1,0 +1,32 @@
+coordinates:
+  name: pinkie
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    described:
+      sourceLocation:
+        name: pinkie
+        namespace: floatdrop
+        provider: github
+        revision: 5f8b60f31ec8624995d224f5990c81be83dd1d90
+        type: git
+        url: 'https://github.com/floatdrop/pinkie/commit/5f8b60f31ec8624995d224f5990c81be83dd1d90'
+  2.0.1:
+    described:
+      sourceLocation:
+        name: pinkie
+        namespace: floatdrop
+        provider: github
+        revision: 11d969408e6004f50c3b442fe330f2ead7eb3619
+        type: git
+        url: 'https://github.com/floatdrop/pinkie/commit/11d969408e6004f50c3b442fe330f2ead7eb3619'
+  2.0.4:
+    described:
+      sourceLocation:
+        name: pinkie
+        namespace: floatdrop
+        provider: github
+        revision: 8d4a92447a5c62bff9f89756caeb4c9c8770579b
+        type: git
+        url: 'https://github.com/floatdrop/pinkie/commit/8d4a92447a5c62bff9f89756caeb4c9c8770579b'
