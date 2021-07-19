@@ -15,3 +15,6 @@ revisions:
   8.0.0.1909:
     licensed:
       declared: MIT
+  8.1.97:
+    licensed:
+      declared: MIT
