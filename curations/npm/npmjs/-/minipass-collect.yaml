@@ -1,0 +1,14 @@
+coordinates:
+  name: minipass-collect
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.2:
+    described:
+      sourceLocation:
+        name: minipass-collect
+        namespace: isaacs
+        provider: github
+        revision: 95c7358c4b4f940568f209dd408730a6943ecb8e
+        type: git
+        url: 'https://github.com/isaacs/minipass-collect/commit/95c7358c4b4f940568f209dd408730a6943ecb8e'
