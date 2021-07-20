@@ -1,0 +1,14 @@
+coordinates:
+  name: html-loader-jest
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.1:
+    described:
+      sourceLocation:
+        name: html-loader-jest
+        namespace: gpincheiraa
+        provider: github
+        revision: c8290f9d2b0bf083a43e35a48efb71457110fcee
+        type: git
+        url: 'https://github.com/gpincheiraa/html-loader-jest/commit/c8290f9d2b0bf083a43e35a48efb71457110fcee'
