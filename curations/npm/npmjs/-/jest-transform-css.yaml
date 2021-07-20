@@ -1,0 +1,14 @@
+coordinates:
+  name: jest-transform-css
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0:
+    described:
+      sourceLocation:
+        name: jest-transform-css
+        namespace: dferber90
+        provider: github
+        revision: 65edbc1c4aab904934d765aad57484184f5e2fde
+        type: git
+        url: 'https://github.com/dferber90/jest-transform-css/commit/65edbc1c4aab904934d765aad57484184f5e2fde'
