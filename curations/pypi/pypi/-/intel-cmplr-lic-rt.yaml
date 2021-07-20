@@ -1,0 +1,8 @@
+coordinates:
+  name: intel-cmplr-lic-rt
+  provider: pypi
+  type: pypi
+revisions:
+  2021.3.0:
+    licensed:
+      declared: Intel
