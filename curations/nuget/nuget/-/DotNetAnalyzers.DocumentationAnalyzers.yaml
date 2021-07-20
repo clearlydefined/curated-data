@@ -1,0 +1,8 @@
+coordinates:
+  name: DotNetAnalyzers.DocumentationAnalyzers
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0-beta.59:
+    licensed:
+      declared: MIT
