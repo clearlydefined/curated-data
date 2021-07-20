@@ -1,0 +1,8 @@
+coordinates:
+  name: Dynamics365.UIAutomation.Api
+  provider: nuget
+  type: nuget
+revisions:
+  9.2.21014.138:
+    licensed:
+      declared: MIT
