@@ -3,6 +3,60 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.0.0.452:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.470:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.480:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.569:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.580:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.594:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.601:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.602:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.611:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.612:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.614:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.619:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.621:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.638:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.640:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.663:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.664:
+    licensed:
+      declared: Apache-2.0
+  2.0.0.666:
+    licensed:
+      declared: Apache-2.0
   2.0.0.668:
     licensed:
       declared: Apache-2.0
