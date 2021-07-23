@@ -13,9 +13,12 @@ revisions:
   b9ee5c702d0ffe94a091bf06a2267242aa0ecae6:
     licensed:
       declared: Apache-2.0
-  fd7a73a9ad5b5ce9194a755e1805d4c5ac2d3cfa:
+  bd0b380acd8968ceb01c20edf7c86433da8bfd1c:
     licensed:
       declared: Apache-2.0
-  bd0b380acd8968ceb01c20edf7c86433da8bfd1c:
+  d1af076dc3f6a314e9dd6610fe83b0f7afaff6d6:
+    licensed:
+      declared: Apache-2.0
+  fd7a73a9ad5b5ce9194a755e1805d4c5ac2d3cfa:
     licensed:
       declared: Apache-2.0
