@@ -1,0 +1,9 @@
+coordinates:
+  name: spek-dsl-jvm
+  namespace: org.spekframework.spek2
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.14:
+    licensed:
+      declared: BSD-3-Clause
