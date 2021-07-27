@@ -1,0 +1,9 @@
+coordinates:
+  name: jsqlparser
+  namespace: jsqlparser
+  provider: github
+  type: git
+revisions:
+  05761c552f52f15b6bde2e4a5fb25cb15c9e5791:
+    licensed:
+      declared: LGPL-2.1 OR Apache-2.0
