@@ -1,0 +1,23 @@
+coordinates:
+  name: ember-basic-dropdown-hover
+  provider: npmjs
+  type: npm
+revisions:
+  0.5.0:
+    described:
+      sourceLocation:
+        name: ember-basic-dropdown-hover
+        namespace: cibernox
+        provider: github
+        revision: 76da1a346f2d058916f30dc95dba095a76ea6241
+        type: git
+        url: 'https://github.com/cibernox/ember-basic-dropdown-hover/commit/76da1a346f2d058916f30dc95dba095a76ea6241'
+  0.6.0:
+    described:
+      sourceLocation:
+        name: ember-basic-dropdown-hover
+        namespace: cibernox
+        provider: github
+        revision: d8417305c686de8aef705c092264a81c50d81b87
+        type: git
+        url: 'https://github.com/cibernox/ember-basic-dropdown-hover/commit/d8417305c686de8aef705c092264a81c50d81b87'
