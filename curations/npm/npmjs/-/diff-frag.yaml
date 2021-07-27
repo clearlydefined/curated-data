@@ -1,0 +1,14 @@
+coordinates:
+  name: diff-frag
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.1:
+    described:
+      sourceLocation:
+        name: diff-frag
+        namespace: isaacs
+        provider: github
+        revision: 8a018258c21b8e7074d6631b412956c84ec31295
+        type: git
+        url: 'https://github.com/isaacs/diff-frag/commit/8a018258c21b8e7074d6631b412956c84ec31295'
