@@ -1,0 +1,8 @@
+coordinates:
+  name: GenTreeOps
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: NONE
