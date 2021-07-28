@@ -1,0 +1,6 @@
+coordinates:
+  name: string
+  namespace: 'Unknown Type: string,null'
+  provider: npmjs
+  type: npm
+revisions: {}
