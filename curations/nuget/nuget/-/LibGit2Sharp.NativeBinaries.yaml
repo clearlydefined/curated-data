@@ -21,6 +21,9 @@ revisions:
   1.0.185:
     licensed:
       declared: OTHER
+  1.0.217:
+    licensed:
+      declared: MIT
   1.0.226:
     licensed:
       declared: OTHER
