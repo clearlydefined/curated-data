@@ -4,5 +4,13 @@ coordinates:
   type: npm
 revisions:
   1.0.0:
+    described:
+      sourceLocation:
+        name: callsite
+        namespace: tj
+        provider: github
+        revision: 8d3927995821596148e77f4af049ab38b03d1b99
+        type: git
+        url: 'https://github.com/tj/callsite/commit/8d3927995821596148e77f4af049ab38b03d1b99'
     licensed:
       declared: MIT
