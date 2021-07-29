@@ -1,0 +1,14 @@
+coordinates:
+  name: copy-button
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    described:
+      sourceLocation:
+        name: copy-button
+        namespace: sudodoki
+        provider: github
+        revision: 615e883fe0073da8f0e487f5fb8d6b99b5bca0de
+        type: git
+        url: 'https://github.com/sudodoki/copy-button/commit/615e883fe0073da8f0e487f5fb8d6b99b5bca0de'
