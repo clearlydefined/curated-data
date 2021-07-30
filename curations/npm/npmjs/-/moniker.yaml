@@ -4,5 +4,13 @@ coordinates:
   type: npm
 revisions:
   0.1.2:
+    described:
+      sourceLocation:
+        name: moniker
+        namespace: weaver
+        provider: github
+        revision: 01dade91f40890b7c1b8b716fd43facf9f7ea797
+        type: git
+        url: 'https://github.com/weaver/moniker/commit/01dade91f40890b7c1b8b716fd43facf9f7ea797'
     licensed:
       declared: NONE

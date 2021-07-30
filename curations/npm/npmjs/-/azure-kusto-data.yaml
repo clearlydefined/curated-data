@@ -1,0 +1,14 @@
+coordinates:
+  name: azure-kusto-data
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.1:
+    described:
+      sourceLocation:
+        name: azure-kusto-node
+        namespace: azure
+        provider: github
+        revision: 55300226459a83910c1b7a182430cefd5eca3797
+        type: git
+        url: 'https://github.com/azure/azure-kusto-node/commit/55300226459a83910c1b7a182430cefd5eca3797'

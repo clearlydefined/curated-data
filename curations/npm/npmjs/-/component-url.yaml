@@ -1,0 +1,14 @@
+coordinates:
+  name: component-url
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.1:
+    described:
+      sourceLocation:
+        name: url
+        namespace: component
+        provider: github
+        revision: 8b6943e2e53186faa3930a6b9eb23e5a6d8fd1a0
+        type: git
+        url: 'https://github.com/component/url/commit/8b6943e2e53186faa3930a6b9eb23e5a6d8fd1a0'

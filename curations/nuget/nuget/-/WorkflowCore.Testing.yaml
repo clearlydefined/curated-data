@@ -1,0 +1,8 @@
+coordinates:
+  name: WorkflowCore.Testing
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.0:
+    licensed:
+      declared: NONE

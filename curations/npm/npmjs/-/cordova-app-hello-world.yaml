@@ -1,0 +1,14 @@
+coordinates:
+  name: cordova-app-hello-world
+  provider: npmjs
+  type: npm
+revisions:
+  3.12.0:
+    described:
+      sourceLocation:
+        name: cordova-app-hello-world
+        namespace: apache
+        provider: github
+        revision: a82a0c55233010f3ac0a7cd776f8240279b8a1ae
+        type: git
+        url: 'https://github.com/apache/cordova-app-hello-world/commit/a82a0c55233010f3ac0a7cd776f8240279b8a1ae'

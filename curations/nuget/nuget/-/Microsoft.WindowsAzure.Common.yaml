@@ -3,13 +3,37 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.9.10-preview:
+    licensed:
+      declared: Apache-2.0
+  0.9.11-preview:
+    licensed:
+      declared: Apache-2.0
   0.9.12-preview:
+    licensed:
+      declared: Apache-2.0
+  0.9.13-preview:
     licensed:
       declared: Apache-2.0
   0.9.3-preview:
     licensed:
       declared: Apache-2.0
+  0.9.4-preview:
+    licensed:
+      declared: Apache-2.0
+  0.9.5-preview:
+    licensed:
+      declared: Apache-2.0
   0.9.6-preview:
+    licensed:
+      declared: Apache-2.0
+  0.9.7-preview:
+    licensed:
+      declared: Apache-2.0
+  0.9.8-preview:
+    licensed:
+      declared: Apache-2.0
+  0.9.9-preview:
     licensed:
       declared: Apache-2.0
   1.0.0:

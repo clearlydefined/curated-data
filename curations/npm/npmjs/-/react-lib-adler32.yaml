@@ -1,0 +1,14 @@
+coordinates:
+  name: react-lib-adler32
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.3:
+    described:
+      sourceLocation:
+        name: react-lib-adler32
+        namespace: buildbreakdo
+        provider: github
+        revision: 8395cc95e270efc633a09a1e959125bc6d23f85a
+        type: git
+        url: 'https://github.com/buildbreakdo/react-lib-adler32/commit/8395cc95e270efc633a09a1e959125bc6d23f85a'

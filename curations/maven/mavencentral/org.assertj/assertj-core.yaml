@@ -1,0 +1,9 @@
+coordinates:
+  name: assertj-core
+  namespace: org.assertj
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.1:
+    licensed:
+      declared: Apache-2.0

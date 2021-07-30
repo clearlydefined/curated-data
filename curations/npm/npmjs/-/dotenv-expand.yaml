@@ -1,0 +1,14 @@
+coordinates:
+  name: dotenv-expand
+  provider: npmjs
+  type: npm
+revisions:
+  5.1.0:
+    described:
+      sourceLocation:
+        name: dotenv-expand
+        namespace: motdotla
+        provider: github
+        revision: ddb73d02322fe8522b4e05b73e1c1ad24ea7c14a
+        type: git
+        url: 'https://github.com/motdotla/dotenv-expand/commit/ddb73d02322fe8522b4e05b73e1c1ad24ea7c14a'

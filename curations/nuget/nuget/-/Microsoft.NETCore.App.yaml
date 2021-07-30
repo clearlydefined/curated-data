@@ -27,6 +27,9 @@ revisions:
   2.1.22:
     licensed:
       declared: MIT
+  2.1.26:
+    licensed:
+      declared: MIT
   2.1.27:
     licensed:
       declared: MIT
@@ -37,6 +40,21 @@ revisions:
     licensed:
       declared: MIT
   2.1.7:
+    licensed:
+      declared: MIT
+  3.0.0-preview-27122-01:
+    licensed:
+      declared: MIT
+  3.0.0-preview-27324-5:
+    licensed:
+      declared: MIT
+  3.0.0-preview3-27503-5:
+    licensed:
+      declared: MIT
+  3.0.0-preview4-27615-11:
+    licensed:
+      declared: MIT
+  3.0.0-preview5-27626-15:
     licensed:
       declared: MIT
   3.0.0-preview6-27804-01:
