@@ -1,0 +1,23 @@
+coordinates:
+  name: sails-generate-sails.io.js
+  provider: npmjs
+  type: npm
+revisions:
+  0.13.4:
+    described:
+      sourceLocation:
+        name: sails-generate-sails.io.js
+        namespace: balderdashy
+        provider: github
+        revision: bb6e2cd1fccb34e6281595d7413cd38fe9511c71
+        type: git
+        url: 'https://github.com/balderdashy/sails-generate-sails.io.js/commit/bb6e2cd1fccb34e6281595d7413cd38fe9511c71'
+  0.14.0:
+    described:
+      sourceLocation:
+        name: sails-generate-sails.io.js
+        namespace: balderdashy
+        provider: github
+        revision: 3fbb253fef675af233dc1d3fa71ea2572eb0c039
+        type: git
+        url: 'https://github.com/balderdashy/sails-generate-sails.io.js/commit/3fbb253fef675af233dc1d3fa71ea2572eb0c039'

@@ -1,0 +1,14 @@
+coordinates:
+  name: mailsplit
+  provider: npmjs
+  type: npm
+revisions:
+  5.0.0:
+    described:
+      sourceLocation:
+        name: mailsplit
+        namespace: andris9
+        provider: github
+        revision: ca9dce8d25f613dc2b53cc8d72e941906c127c0c
+        type: git
+        url: 'https://github.com/andris9/mailsplit/commit/ca9dce8d25f613dc2b53cc8d72e941906c127c0c'

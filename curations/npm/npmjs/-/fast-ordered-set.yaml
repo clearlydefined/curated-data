@@ -1,0 +1,14 @@
+coordinates:
+  name: fast-ordered-set
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.3:
+    described:
+      sourceLocation:
+        name: fast-ordered-set
+        namespace: stefanpenner
+        provider: github
+        revision: a67a1c67b7f7742f979b639313b25b70257e6023
+        type: git
+        url: 'https://github.com/stefanpenner/fast-ordered-set/commit/a67a1c67b7f7742f979b639313b25b70257e6023'

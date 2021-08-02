@@ -12,3 +12,6 @@ revisions:
   2020.1.193.5313:
     licensed:
       declared: BSD-2-Clause
+  2020.2.207.5590:
+    licensed:
+      declared: BSD-3-Clause

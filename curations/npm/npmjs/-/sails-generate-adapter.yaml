@@ -1,0 +1,14 @@
+coordinates:
+  name: sails-generate-adapter
+  provider: npmjs
+  type: npm
+revisions:
+  0.10.7:
+    described:
+      sourceLocation:
+        name: sails-generate-adapter
+        namespace: balderdashy
+        provider: github
+        revision: 6a76d8e7a2e9427bcfad6967ee3a6de1da767e12
+        type: git
+        url: 'https://github.com/balderdashy/sails-generate-adapter/commit/6a76d8e7a2e9427bcfad6967ee3a6de1da767e12'

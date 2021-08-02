@@ -1,0 +1,14 @@
+coordinates:
+  name: fp-and-or
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.3:
+    described:
+      sourceLocation:
+        name: fp-and-or
+        namespace: raineorshine
+        provider: github
+        revision: 92a0f35d1a83aca20f0283bf88a981cae0af8ed3
+        type: git
+        url: 'https://github.com/raineorshine/fp-and-or/commit/92a0f35d1a83aca20f0283bf88a981cae0af8ed3'

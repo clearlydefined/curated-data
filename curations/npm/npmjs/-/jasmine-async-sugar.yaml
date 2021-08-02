@@ -1,0 +1,14 @@
+coordinates:
+  name: jasmine-async-sugar
+  provider: npmjs
+  type: npm
+revisions:
+  1.5.0:
+    described:
+      sourceLocation:
+        name: jasmine-async-sugar
+        namespace: tomastrajan
+        provider: github
+        revision: e5e979d2889a6e55e078e2c1e9602109010d9c56
+        type: git
+        url: 'https://github.com/tomastrajan/jasmine-async-sugar/commit/e5e979d2889a6e55e078e2c1e9602109010d9c56'

@@ -1,0 +1,23 @@
+coordinates:
+  name: lightercollective
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.0:
+    described:
+      sourceLocation:
+        name: lightercollective
+        namespace: webreflection
+        provider: github
+        revision: c2ab86a7e19fd24a3749b706ae4e6265a681bff4
+        type: git
+        url: 'https://github.com/webreflection/lightercollective/commit/c2ab86a7e19fd24a3749b706ae4e6265a681bff4'
+  0.3.0:
+    described:
+      sourceLocation:
+        name: lightercollective
+        namespace: webreflection
+        provider: github
+        revision: e1845f46a0b39e9c9399452d3e1c5a612d191b2d
+        type: git
+        url: 'https://github.com/webreflection/lightercollective/commit/e1845f46a0b39e9c9399452d3e1c5a612d191b2d'

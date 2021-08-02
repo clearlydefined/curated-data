@@ -1,0 +1,14 @@
+coordinates:
+  name: google-code-prettify
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.5:
+    described:
+      sourceLocation:
+        name: google-code-prettify
+        namespace: spencewood
+        provider: github
+        revision: 5e0b27bba2583a386c08ead942bbf25418c28784
+        type: git
+        url: 'https://github.com/spencewood/google-code-prettify/commit/5e0b27bba2583a386c08ead942bbf25418c28784'

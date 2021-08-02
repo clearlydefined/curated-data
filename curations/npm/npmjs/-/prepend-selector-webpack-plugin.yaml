@@ -1,0 +1,14 @@
+coordinates:
+  name: prepend-selector-webpack-plugin
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    described:
+      sourceLocation:
+        name: prepend-selector-webpack-plugin
+        namespace: stutrek
+        provider: github
+        revision: db54f71f523349a7ed5000a101caabf40477fbc3
+        type: git
+        url: 'https://github.com/stutrek/prepend-selector-webpack-plugin/commit/db54f71f523349a7ed5000a101caabf40477fbc3'

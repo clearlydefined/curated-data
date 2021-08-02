@@ -1,0 +1,14 @@
+coordinates:
+  name: argv
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.2:
+    described:
+      sourceLocation:
+        name: argv
+        namespace: codenothing
+        provider: github
+        revision: f13161899daf0b4ee8c0fe41909d8a11cf5adfa7
+        type: git
+        url: 'https://github.com/codenothing/argv/commit/f13161899daf0b4ee8c0fe41909d8a11cf5adfa7'

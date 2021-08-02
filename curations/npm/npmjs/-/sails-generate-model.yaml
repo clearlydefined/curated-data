@@ -1,0 +1,14 @@
+coordinates:
+  name: sails-generate-model
+  provider: npmjs
+  type: npm
+revisions:
+  0.10.12:
+    described:
+      sourceLocation:
+        name: sails-generate-model
+        namespace: balderdashy
+        provider: github
+        revision: a2c5e2183ebf406dcc29c0ba281657b0a4c86a04
+        type: git
+        url: 'https://github.com/balderdashy/sails-generate-model/commit/a2c5e2183ebf406dcc29c0ba281657b0a4c86a04'

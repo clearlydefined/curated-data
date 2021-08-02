@@ -1,0 +1,14 @@
+coordinates:
+  name: require-css
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.8:
+    described:
+      sourceLocation:
+        name: require-css
+        namespace: guybedford
+        provider: github
+        revision: 3b1d86858259762e5bb9db72c3df6ea808cd9d6d
+        type: git
+        url: 'https://github.com/guybedford/require-css/commit/3b1d86858259762e5bb9db72c3df6ea808cd9d6d'

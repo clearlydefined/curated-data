@@ -1,0 +1,14 @@
+coordinates:
+  name: sails-generate-controller
+  provider: npmjs
+  type: npm
+revisions:
+  0.10.9:
+    described:
+      sourceLocation:
+        name: sails-generate-controller
+        namespace: balderdashy
+        provider: github
+        revision: 53ef3148b2ad569e5179b29168fd9cbebf765ef6
+        type: git
+        url: 'https://github.com/balderdashy/sails-generate-controller/commit/53ef3148b2ad569e5179b29168fd9cbebf765ef6'
