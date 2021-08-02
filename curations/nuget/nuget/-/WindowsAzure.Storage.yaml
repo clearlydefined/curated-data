@@ -84,6 +84,9 @@ revisions:
   4.3.0:
     licensed:
       declared: Apache-2.0
+  4.3.1-preview:
+    licensed:
+      declared: Apache-2.0
   4.3.2-preview:
     licensed:
       declared: Apache-2.0
@@ -102,6 +105,9 @@ revisions:
   5.0.2:
     licensed:
       declared: Apache-2.0
+  5.0.3-preview:
+    licensed:
+      declared: Apache-2.0
   6.0.0:
     licensed:
       declared: Apache-2.0
@@ -111,13 +117,31 @@ revisions:
   6.1.0:
     licensed:
       declared: Apache-2.0
+  6.1.1-preview:
+    licensed:
+      declared: Apache-2.0
   6.2.0:
+    licensed:
+      declared: Apache-2.0
+  6.2.1-preview:
     licensed:
       declared: Apache-2.0
   6.2.2-preview:
     licensed:
       declared: Apache-2.0
   7.0.0:
+    licensed:
+      declared: Apache-2.0
+  7.0.1-preview:
+    licensed:
+      declared: Apache-2.0
+  7.0.2-preview:
+    licensed:
+      declared: Apache-2.0
+  7.1.0:
+    licensed:
+      declared: Apache-2.0
+  7.1.1-preview:
     licensed:
       declared: Apache-2.0
   7.1.2:
