@@ -72,3 +72,6 @@ revisions:
   1.30.0:
     licensed:
       declared: OTHER
+  1.31.0:
+    licensed:
+      declared: OTHER
