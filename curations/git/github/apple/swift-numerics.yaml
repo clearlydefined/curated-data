@@ -1,0 +1,9 @@
+coordinates:
+  name: swift-numerics
+  namespace: apple
+  provider: github
+  type: git
+revisions:
+  6583ac70c326c3ee080c1d42d9ca3361dca816cd:
+    licensed:
+      declared: Apache-2.0
