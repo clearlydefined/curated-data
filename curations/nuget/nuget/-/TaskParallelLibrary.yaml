@@ -1,0 +1,8 @@
+coordinates:
+  name: TaskParallelLibrary
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.2856:
+    licensed:
+      declared: OTHER
