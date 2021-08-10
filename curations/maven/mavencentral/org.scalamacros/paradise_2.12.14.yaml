@@ -1,0 +1,9 @@
+coordinates:
+  name: paradise_2.12.14
+  namespace: org.scalamacros
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.1:
+    licensed:
+      declared: Apache-2.0
