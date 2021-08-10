@@ -60,3 +60,6 @@ revisions:
   fdf2ef5809ca875c454510610764d9125ef2ebbd:
     licensed:
       declared: BSD-2-Clause AND GPL-2.0-only
+  d44371841a2f1728a3f36839fd4b7e872d0927d3:
+    licensed:
+      declared: BSD-2-Clause AND GPL-2.0-only
