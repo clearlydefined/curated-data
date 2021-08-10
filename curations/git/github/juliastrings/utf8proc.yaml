@@ -1,0 +1,9 @@
+coordinates:
+  name: utf8proc
+  namespace: juliastrings
+  provider: github
+  type: git
+revisions:
+  0890a538bf8238cded9be0c81171f57e43f2c755:
+    licensed:
+      declared: MIT
