@@ -165,7 +165,13 @@ revisions:
   1.29.0:
     licensed:
       declared: OTHER
+  1.3.0:
+    licensed:
+      declared: OTHER
   1.30.0:
+    licensed:
+      declared: OTHER
+  1.33.0:
     licensed:
       declared: OTHER
   1.4.0:
