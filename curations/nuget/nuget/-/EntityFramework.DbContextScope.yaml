@@ -1,11 +1,8 @@
 coordinates:
-  name: Divergic.Logging.Xunit
+  name: EntityFramework.DbContextScope
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  2.2.0:
+  1.0.0:
     licensed:
       declared: MIT
