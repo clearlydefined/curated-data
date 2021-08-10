@@ -1,0 +1,9 @@
+coordinates:
+  name: javafx-base
+  namespace: org.openjfx
+  provider: mavencentral
+  type: maven
+revisions:
+  '16':
+    licensed:
+      declared: GPL-2.0-only
