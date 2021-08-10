@@ -1,0 +1,8 @@
+coordinates:
+  name: OAuth.DotNetCore
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.1:
+    licensed:
+      declared: CC0-1.0
