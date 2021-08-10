@@ -1,11 +1,8 @@
 coordinates:
-  name: Divergic.Logging.Xunit
+  name: CS-Script
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  2.2.0:
+  3.29.0:
     licensed:
       declared: MIT
