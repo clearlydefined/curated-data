@@ -1,0 +1,8 @@
+coordinates:
+  name: ExpressiveAnnotations
+  provider: nuget
+  type: nuget
+revisions:
+  2.9.6:
+    licensed:
+      declared: MIT
