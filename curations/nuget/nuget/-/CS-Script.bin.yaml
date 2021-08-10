@@ -1,0 +1,8 @@
+coordinates:
+  name: CS-Script.bin
+  provider: nuget
+  type: nuget
+revisions:
+  3.29.0:
+    licensed:
+      declared: MIT
