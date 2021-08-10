@@ -6,6 +6,12 @@ revisions:
   0.9.1-preview:
     licensed:
       declared: Apache-2.0
+  0.9.2-preview:
+    licensed:
+      declared: Apache-2.0
+  0.9.3-preview:
+    licensed:
+      declared: Apache-2.0
   1.0.0:
     licensed:
       declared: Apache-2.0

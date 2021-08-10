@@ -9,6 +9,9 @@ revisions:
   1.0.3:
     licensed:
       declared: MIT
+  1.0.3-preview1:
+    licensed:
+      declared: MIT
   1.0.3.1:
     files:
       - attributions:
@@ -17,7 +20,40 @@ revisions:
         path: Xamarin.Android.Arch.Lifecycle.Runtime.nuspec
     licensed:
       declared: MIT
+  1.1.1:
+    licensed:
+      declared: MIT
+  1.1.1-preview1:
+    licensed:
+      declared: MIT
+  1.1.1-preview2:
+    licensed:
+      declared: MIT
+  1.1.1-preview3:
+    licensed:
+      declared: MIT
+  1.1.1-preview4:
+    licensed:
+      declared: MIT
+  1.1.1-preview5:
+    licensed:
+      declared: MIT
+  1.1.1-preview6:
+    licensed:
+      declared: MIT
+  1.1.1-preview7:
+    licensed:
+      declared: MIT
+  1.1.1-preview8:
+    licensed:
+      declared: MIT
+  1.1.1-preview9:
+    licensed:
+      declared: MIT
   1.1.1.1:
+    licensed:
+      declared: MIT
+  1.1.1.2:
     licensed:
       declared: MIT
   1.1.1.3:

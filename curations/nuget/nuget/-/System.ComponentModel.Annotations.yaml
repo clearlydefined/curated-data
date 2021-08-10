@@ -6,12 +6,66 @@ revisions:
   4.4.0:
     licensed:
       declared: MIT
+  4.4.0-preview2-25405-01:
+    licensed:
+      declared: MIT
   4.4.1:
     licensed:
       declared: MIT
   4.5.0:
     licensed:
       declared: MIT
+  4.5.0-preview1-26216-02:
+    licensed:
+      declared: MIT
+  4.5.0-preview2-26406-04:
+    licensed:
+      declared: MIT
+  4.5.0-rc1:
+    licensed:
+      declared: MIT
   4.6.0:
+    licensed:
+      declared: MIT
+  4.6.0-preview.18571.3:
+    licensed:
+      declared: MIT
+  4.6.0-preview.19073.11:
+    licensed:
+      declared: MIT
+  4.6.0-preview3.19128.7:
+    licensed:
+      declared: MIT
+  4.6.0-preview4.19212.13:
+    licensed:
+      declared: MIT
+  4.6.0-preview5.19224.8:
+    licensed:
+      declared: MIT
+  4.6.0-preview6.19264.9:
+    licensed:
+      declared: MIT
+  4.6.0-preview6.19303.8:
+    licensed:
+      declared: MIT
+  4.6.0-preview7.19362.9:
+    licensed:
+      declared: MIT
+  4.6.0-preview8.19405.3:
+    licensed:
+      declared: MIT
+  4.6.0-preview9.19416.11:
+    licensed:
+      declared: MIT
+  4.6.0-preview9.19421.4:
+    licensed:
+      declared: MIT
+  4.6.0-rc1.19456.4:
+    licensed:
+      declared: MIT
+  4.7.0-preview1.19504.10:
+    licensed:
+      declared: MIT
+  4.7.0-preview2.19523.17:
     licensed:
       declared: MIT
