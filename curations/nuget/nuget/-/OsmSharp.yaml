@@ -1,11 +1,8 @@
 coordinates:
-  name: Divergic.Logging.Xunit
+  name: OsmSharp
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: MIT
-  2.2.0:
+  7.0.0-pre014:
     licensed:
       declared: MIT
