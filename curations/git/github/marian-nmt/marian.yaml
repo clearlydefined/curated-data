@@ -1,0 +1,9 @@
+coordinates:
+  name: marian
+  namespace: marian-nmt
+  provider: github
+  type: git
+revisions:
+  63afe09901f10f8d7613307881559fde102126b4:
+    licensed:
+      declared: MIT
