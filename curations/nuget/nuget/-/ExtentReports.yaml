@@ -4,13 +4,5 @@ coordinates:
   type: nuget
 revisions:
   2.41.0:
-    described:
-      sourceLocation:
-        name: extentreports-csharp
-        namespace: anshooarora
-        provider: github
-        revision: adab1c035c47366091203192b12aad026d93064f
-        type: git
-        url: 'https://github.com/anshooarora/extentreports-csharp/commit/adab1c035c47366091203192b12aad026d93064f'
     licensed:
       declared: BSD-3-Clause
