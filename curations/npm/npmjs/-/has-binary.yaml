@@ -1,0 +1,14 @@
+coordinates:
+  name: has-binary
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.7:
+    described:
+      sourceLocation:
+        name: has-binary
+        namespace: socketio
+        provider: github
+        revision: 73875a20978a219f726f7d313ccd1de19335f5a1
+        type: git
+        url: 'https://github.com/socketio/has-binary/commit/73875a20978a219f726f7d313ccd1de19335f5a1'
