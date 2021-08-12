@@ -1,0 +1,9 @@
+coordinates:
+  name: hyperkit
+  namespace: moby
+  provider: github
+  type: git
+revisions:
+  06c3cf7ec253534b2d81f61ee3c85c5c9aafa4ee:
+    licensed:
+      declared: BSD-2-Clause
