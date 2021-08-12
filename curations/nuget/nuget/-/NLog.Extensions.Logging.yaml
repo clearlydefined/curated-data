@@ -6,6 +6,9 @@ revisions:
   1.0.0-rtm-beta2:
     licensed:
       declared: BSD-2-Clause
+  1.0.0-rtm-beta4:
+    licensed:
+      declared: BSD-2-Clause
   1.0.0-rtm-beta5:
     licensed:
       declared: BSD-2-Clause
