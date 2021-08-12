@@ -1,0 +1,9 @@
+coordinates:
+  name: dbus-java
+  namespace: com.github.hypfvieh
+  provider: mavencentral
+  type: maven
+revisions:
+  3.3.0:
+    licensed:
+      declared: AFL-2.1 OR LGPL-2.0-only
