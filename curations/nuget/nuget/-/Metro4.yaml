@@ -1,0 +1,8 @@
+coordinates:
+  name: Metro4
+  provider: nuget
+  type: nuget
+revisions:
+  4.3.10:
+    licensed:
+      declared: MIT
