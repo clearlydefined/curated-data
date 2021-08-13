@@ -3,6 +3,24 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.1.5:
+    described:
+      sourceLocation:
+        name: has-binary
+        namespace: automattic
+        provider: github
+        revision: 9034d3f6822521245b2507633b7d4eb54dc5ec91
+        type: git
+        url: 'https://github.com/automattic/has-binary/commit/9034d3f6822521245b2507633b7d4eb54dc5ec91'
+  0.1.6:
+    described:
+      sourceLocation:
+        name: has-binary
+        namespace: automattic
+        provider: github
+        revision: a37d7ed88fb88e49d5ed1ca15e6cc7dd004dd0e8
+        type: git
+        url: 'https://github.com/automattic/has-binary/commit/a37d7ed88fb88e49d5ed1ca15e6cc7dd004dd0e8'
   0.1.7:
     described:
       sourceLocation:
