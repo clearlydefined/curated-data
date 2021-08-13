@@ -1,5 +1,5 @@
 coordinates:
-  name: eclipse-collections-api
+  name: eclipse-collections-forkjoin
   namespace: org.eclipse.collections
   provider: mavencentral
   type: maven
@@ -7,6 +7,3 @@ revisions:
   11.0.0.M3:
     licensed:
       declared: BSD-3-Clause OR EPL-1.0
-  9.2.0:
-    licensed:
-      declared: EPL-1.0 OR BSD-3-Clause

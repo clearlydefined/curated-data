@@ -1,0 +1,9 @@
+coordinates:
+  name: msal-angular
+  namespace: '@azure'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.2:
+    licensed:
+      declared: MIT
