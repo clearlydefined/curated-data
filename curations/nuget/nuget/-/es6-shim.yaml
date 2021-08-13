@@ -1,0 +1,8 @@
+coordinates:
+  name: es6-shim
+  provider: nuget
+  type: nuget
+revisions:
+  0.35.3:
+    licensed:
+      declared: MIT
