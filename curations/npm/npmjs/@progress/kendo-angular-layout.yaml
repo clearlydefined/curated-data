@@ -7,6 +7,9 @@ revisions:
   3.3.2:
     licensed:
       declared: OTHER
+  5.1.0:
+    licensed:
+      declared: OTHER
   6.1.2:
     licensed:
       declared: OTHER
