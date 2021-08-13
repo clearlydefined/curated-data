@@ -1,0 +1,9 @@
+coordinates:
+  name: jersey-grizzly2-servlet
+  namespace: com.sun.jersey
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.19':
+    licensed:
+      declared: CDDL-1.0
