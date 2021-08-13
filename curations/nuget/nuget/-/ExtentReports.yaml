@@ -1,0 +1,8 @@
+coordinates:
+  name: ExtentReports
+  provider: nuget
+  type: nuget
+revisions:
+  2.41.0:
+    licensed:
+      declared: BSD-3-Clause
