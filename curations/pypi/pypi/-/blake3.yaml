@@ -1,0 +1,8 @@
+coordinates:
+  name: blake3
+  provider: pypi
+  type: pypi
+revisions:
+  0.2.0:
+    licensed:
+      declared: MIT
