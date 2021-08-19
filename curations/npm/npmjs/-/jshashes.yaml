@@ -1,0 +1,8 @@
+coordinates:
+  name: jshashes
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.8:
+    licensed:
+      declared: BSD-3-Clause
