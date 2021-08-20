@@ -5,7 +5,7 @@ coordinates:
 revisions:
   2.5.10.11092:
     licensed:
-      declared: Zlib
+      declared: zlib-acknowledgement
   2.6.0.12054:
     licensed:
       declared: zlib-acknowledgement
