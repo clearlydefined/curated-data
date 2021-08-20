@@ -99,6 +99,9 @@ revisions:
   1.28.0:
     licensed:
       declared: OTHER
+  1.33.0:
+    licensed:
+      declared: MIT
   1.4.0:
     licensed:
       declared: OTHER
