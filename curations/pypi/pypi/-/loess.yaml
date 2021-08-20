@@ -1,0 +1,8 @@
+coordinates:
+  name: loess
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.11:
+    licensed:
+      declared: BSD-3-Clause-No-Nuclear-Warranty
