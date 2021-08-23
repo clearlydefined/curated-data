@@ -1,0 +1,9 @@
+coordinates:
+  name: javafx-web
+  namespace: org.openjfx
+  provider: mavencentral
+  type: maven
+revisions:
+  '15':
+    licensed:
+      declared: GPL-2.0-only
