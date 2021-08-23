@@ -1,0 +1,8 @@
+coordinates:
+  name: Ix-Async
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.5:
+    licensed:
+      declared: MIT

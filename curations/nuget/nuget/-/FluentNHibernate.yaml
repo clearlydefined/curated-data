@@ -1,0 +1,8 @@
+coordinates:
+  name: FluentNHibernate
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.3:
+    licensed:
+      declared: BSD-3-Clause
