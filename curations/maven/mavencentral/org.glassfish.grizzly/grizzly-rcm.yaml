@@ -1,0 +1,9 @@
+coordinates:
+  name: grizzly-rcm
+  namespace: org.glassfish.grizzly
+  provider: mavencentral
+  type: maven
+revisions:
+  2.2.21:
+    licensed:
+      declared: CDDL-1.0
