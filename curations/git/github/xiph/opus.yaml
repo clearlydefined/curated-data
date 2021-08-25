@@ -1,0 +1,9 @@
+coordinates:
+  name: opus
+  namespace: xiph
+  provider: github
+  type: git
+revisions:
+  e85ed7726db5d677c9c0677298ea0cb9c65bdd23:
+    licensed:
+      declared: BSD-3-Clause
