@@ -1,0 +1,8 @@
+coordinates:
+  name: ImageProcessor.Web
+  provider: nuget
+  type: nuget
+revisions:
+  4.10.0.100:
+    licensed:
+      declared: NONE
