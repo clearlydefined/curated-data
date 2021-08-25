@@ -1,0 +1,8 @@
+coordinates:
+  name: UrlRewritingNet
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.7:
+    licensed:
+      declared: NONE
