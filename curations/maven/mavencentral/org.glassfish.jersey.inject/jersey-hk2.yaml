@@ -1,0 +1,9 @@
+coordinates:
+  name: jersey-hk2
+  namespace: org.glassfish.jersey.inject
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.26':
+    licensed:
+      declared: NONE
