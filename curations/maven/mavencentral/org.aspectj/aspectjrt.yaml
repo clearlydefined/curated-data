@@ -1,0 +1,9 @@
+coordinates:
+  name: aspectjrt
+  namespace: org.aspectj
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.0:
+    licensed:
+      declared: EPL-1.0
