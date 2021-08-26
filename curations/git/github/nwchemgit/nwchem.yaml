@@ -1,0 +1,9 @@
+coordinates:
+  name: nwchem
+  namespace: nwchemgit
+  provider: github
+  type: git
+revisions:
+  735cdaa70c11dab5cef410424845a80f286dcfce:
+    licensed:
+      declared: ECL-2.0
