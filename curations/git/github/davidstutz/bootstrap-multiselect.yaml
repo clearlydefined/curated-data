@@ -1,0 +1,9 @@
+coordinates:
+  name: bootstrap-multiselect
+  namespace: davidstutz
+  provider: github
+  type: git
+revisions:
+  1f502143366ad6586901a25be11ee2e3bfbfae38:
+    licensed:
+      declared: Apache-2.0
