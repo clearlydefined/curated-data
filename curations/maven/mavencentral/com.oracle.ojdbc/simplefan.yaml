@@ -1,0 +1,9 @@
+coordinates:
+  name: simplefan
+  namespace: com.oracle.ojdbc
+  provider: mavencentral
+  type: maven
+revisions:
+  19.3.0.0:
+    licensed:
+      declared: OTHER

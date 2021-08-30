@@ -1,0 +1,8 @@
+coordinates:
+  name: Unofficial.Microsoft.WindowsAzure.ServiceRuntime.Msshrtmi
+  provider: nuget
+  type: nuget
+revisions:
+  2.9.0:
+    licensed:
+      declared: NONE

@@ -1,0 +1,9 @@
+coordinates:
+  name: mimalloc
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  985f313b35bc709aaa15d0f01867f857923c2ca6:
+    licensed:
+      declared: MIT
