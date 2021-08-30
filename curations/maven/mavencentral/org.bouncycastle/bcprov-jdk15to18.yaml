@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '1.64':
+    licensed:
+      declared: MIT
   '1.65':
     licensed:
       declared: MIT
