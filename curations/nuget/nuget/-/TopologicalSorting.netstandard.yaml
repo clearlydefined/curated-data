@@ -1,0 +1,8 @@
+coordinates:
+  name: TopologicalSorting.netstandard
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.3:
+    licensed:
+      declared: Apache-2.0

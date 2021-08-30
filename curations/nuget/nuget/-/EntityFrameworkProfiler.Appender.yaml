@@ -1,0 +1,8 @@
+coordinates:
+  name: EntityFrameworkProfiler.Appender
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.2233:
+    licensed:
+      declared: OTHER

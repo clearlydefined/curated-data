@@ -1,0 +1,9 @@
+coordinates:
+  name: bcpkix-jdk15to18
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.64':
+    licensed:
+      declared: MIT

@@ -88,3 +88,6 @@ revisions:
   1.8.2-plusbeta:
     licensed:
       declared: OTHER
+  1.9.1:
+    licensed:
+      declared: OTHER
