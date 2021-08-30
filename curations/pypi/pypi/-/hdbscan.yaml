@@ -6,3 +6,6 @@ revisions:
   0.8.22:
     licensed:
       declared: BSD-3-Clause
+  0.8.23:
+    licensed:
+      declared: BSD-3-Clause

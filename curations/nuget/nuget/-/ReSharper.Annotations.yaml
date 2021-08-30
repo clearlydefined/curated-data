@@ -1,0 +1,8 @@
+coordinates:
+  name: ReSharper.Annotations
+  provider: nuget
+  type: nuget
+revisions:
+  7.1.3.130415:
+    licensed:
+      declared: OTHER
