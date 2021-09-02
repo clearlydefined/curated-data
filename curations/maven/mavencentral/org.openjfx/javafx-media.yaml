@@ -1,0 +1,9 @@
+coordinates:
+  name: javafx-media
+  namespace: org.openjfx
+  provider: mavencentral
+  type: maven
+revisions:
+  '15':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
