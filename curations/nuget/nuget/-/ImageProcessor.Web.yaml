@@ -5,4 +5,4 @@ coordinates:
 revisions:
   4.10.0.100:
     licensed:
-      declared: NONE
+      declared: Apache-2.0
