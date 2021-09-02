@@ -1,0 +1,9 @@
+coordinates:
+  name: libwebm
+  namespace: webmproject
+  provider: github
+  type: git
+revisions:
+  11cae244cc06c1295bffa9861c610dcde3b9da18:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
