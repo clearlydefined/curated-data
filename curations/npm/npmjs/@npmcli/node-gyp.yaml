@@ -1,0 +1,24 @@
+coordinates:
+  name: node-gyp
+  namespace: '@npmcli'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.1:
+    described:
+      sourceLocation:
+        name: node-gyp
+        namespace: npm
+        provider: github
+        revision: 391b87a3b45e7457b31211c952bd4693d6c5c243
+        type: git
+        url: 'https://github.com/npm/node-gyp/commit/391b87a3b45e7457b31211c952bd4693d6c5c243'
+  1.0.2:
+    described:
+      sourceLocation:
+        name: node-gyp
+        namespace: npm
+        provider: github
+        revision: 6ab304a5afffb9b116c2b00c798ee1c5f33684a0
+        type: git
+        url: 'https://github.com/npm/node-gyp/commit/6ab304a5afffb9b116c2b00c798ee1c5f33684a0'
