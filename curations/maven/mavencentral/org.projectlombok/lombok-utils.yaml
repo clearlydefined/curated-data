@@ -1,0 +1,9 @@
+coordinates:
+  name: lombok-utils
+  namespace: org.projectlombok
+  provider: mavencentral
+  type: maven
+revisions:
+  1.18.12:
+    licensed:
+      declared: MIT
