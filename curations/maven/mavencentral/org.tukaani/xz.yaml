@@ -13,3 +13,6 @@ revisions:
   '1.5':
     licensed:
       declared: OTHER
+  '1.8':
+    licensed:
+      declared: NONE
