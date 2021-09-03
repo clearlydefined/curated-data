@@ -1,0 +1,9 @@
+coordinates:
+  name: apache-curator
+  namespace: org.apache.curator
+  provider: mavencentral
+  type: maven
+revisions:
+  2.6.0:
+    licensed:
+      declared: Artistic-2.0
