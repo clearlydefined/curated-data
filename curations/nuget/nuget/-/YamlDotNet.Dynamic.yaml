@@ -1,0 +1,8 @@
+coordinates:
+  name: YamlDotNet.Dynamic
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.3:
+    licensed:
+      declared: MIT

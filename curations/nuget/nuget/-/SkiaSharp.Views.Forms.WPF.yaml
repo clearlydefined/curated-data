@@ -1,0 +1,8 @@
+coordinates:
+  name: SkiaSharp.Views.Forms.WPF
+  provider: nuget
+  type: nuget
+revisions:
+  2.80.2:
+    licensed:
+      declared: MIT

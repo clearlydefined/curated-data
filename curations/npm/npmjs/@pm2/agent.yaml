@@ -1,0 +1,15 @@
+coordinates:
+  name: agent
+  namespace: '@pm2'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.4:
+    described:
+      sourceLocation:
+        name: pm2-io-agent
+        namespace: keymetrics
+        provider: github
+        revision: dbf98d7496c756ce1eaba7bb6e0ddf942e661d8d
+        type: git
+        url: 'https://github.com/keymetrics/pm2-io-agent/commit/dbf98d7496c756ce1eaba7bb6e0ddf942e661d8d'
