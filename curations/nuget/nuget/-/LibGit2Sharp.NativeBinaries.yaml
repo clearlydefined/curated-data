@@ -5,46 +5,52 @@ coordinates:
 revisions:
   1.0.106:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.129:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.163:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.164:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.165:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.185:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
+  1.0.217:
+    licensed:
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.226:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.252:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.81:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   2.0.263:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   2.0.267:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   2.0.289:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   2.0.298:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   2.0.306:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   2.0.312:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH GCC-exception-2.0
+  2.0.314:
+    licensed:
+      declared: GPL-2.0-only WITH GCC-exception-2.0

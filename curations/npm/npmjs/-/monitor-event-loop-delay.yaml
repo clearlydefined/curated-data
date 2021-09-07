@@ -1,0 +1,14 @@
+coordinates:
+  name: monitor-event-loop-delay
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    described:
+      sourceLocation:
+        name: monitor-event-loop-delay
+        namespace: elastic
+        provider: github
+        revision: 50b3fc3c618a1b2e1e515ca8212e53b1d3d684f4
+        type: git
+        url: 'https://github.com/elastic/monitor-event-loop-delay/commit/50b3fc3c618a1b2e1e515ca8212e53b1d3d684f4'

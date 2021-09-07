@@ -1,0 +1,9 @@
+coordinates:
+  name: xalan
+  namespace: xalan
+  provider: mavencentral
+  type: maven
+revisions:
+  2.7.0:
+    licensed:
+      declared: Apache-2.0

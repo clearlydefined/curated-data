@@ -1,0 +1,14 @@
+coordinates:
+  name: FakeXrmEasy.2016
+  provider: nuget
+  type: nuget
+revisions:
+  1.29.0:
+    licensed:
+      declared: MIT
+  1.30.0:
+    licensed:
+      declared: MIT
+  1.40.0:
+    licensed:
+      declared: MIT

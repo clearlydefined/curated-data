@@ -17,3 +17,6 @@ revisions:
         url: 'https://github.com/dotnet/corefx/commit/30ab651fcb4354552bd4891619a0bdd81e0ebdbf'
     licensed:
       declared: MIT
+  4.6.0-preview5.19224.8:
+    licensed:
+      declared: MIT

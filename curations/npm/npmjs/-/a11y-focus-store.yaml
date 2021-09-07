@@ -1,0 +1,14 @@
+coordinates:
+  name: a11y-focus-store
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    described:
+      sourceLocation:
+        name: a11y-focus-store
+        namespace: cloudflare
+        provider: github
+        revision: ce64f9d763f8a40b8ab04bea85b37a279ee66440
+        type: git
+        url: 'https://github.com/cloudflare/a11y-focus-store/commit/ce64f9d763f8a40b8ab04bea85b37a279ee66440'

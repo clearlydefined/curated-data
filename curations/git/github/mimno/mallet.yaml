@@ -1,0 +1,9 @@
+coordinates:
+  name: mallet
+  namespace: mimno
+  provider: github
+  type: git
+revisions:
+  b248453895b043ae9d99f11a0816884b2a1a4e97:
+    licensed:
+      declared: Apache-2.0

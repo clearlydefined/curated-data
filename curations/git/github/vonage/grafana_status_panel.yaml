@@ -1,0 +1,9 @@
+coordinates:
+  name: grafana_status_panel
+  namespace: vonage
+  provider: github
+  type: git
+revisions:
+  d5173e4aeffe46ddc0433423a37e032a24ea40dd:
+    licensed:
+      declared: Apache-2.0

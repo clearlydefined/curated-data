@@ -1,0 +1,8 @@
+coordinates:
+  name: loess
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.11:
+    licensed:
+      declared: OTHER
