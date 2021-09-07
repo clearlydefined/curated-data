@@ -1,0 +1,9 @@
+coordinates:
+  name: hadoop-apache2
+  namespace: com.facebook.presto.hadoop
+  provider: mavencentral
+  type: maven
+revisions:
+  2.7.3-1:
+    licensed:
+      declared: Apache-2.0

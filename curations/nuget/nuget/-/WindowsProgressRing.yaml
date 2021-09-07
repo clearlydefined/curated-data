@@ -1,0 +1,8 @@
+coordinates:
+  name: WindowsProgressRing
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: CPOL-1.02

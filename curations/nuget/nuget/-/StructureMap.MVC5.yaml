@@ -1,0 +1,8 @@
+coordinates:
+  name: StructureMap.MVC5
+  provider: nuget
+  type: nuget
+revisions:
+  3.1.1.134:
+    licensed:
+      declared: Apache-2.0

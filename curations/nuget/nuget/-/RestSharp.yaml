@@ -41,6 +41,9 @@ revisions:
   106.3.1:
     licensed:
       declared: Apache-2.0
+  106.4.2:
+    licensed:
+      declared: Apache-2.0
   106.5.4:
     licensed:
       declared: Apache-2.0
