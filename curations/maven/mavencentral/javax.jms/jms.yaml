@@ -1,0 +1,9 @@
+coordinates:
+  name: jms
+  namespace: javax.jms
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: NONE
