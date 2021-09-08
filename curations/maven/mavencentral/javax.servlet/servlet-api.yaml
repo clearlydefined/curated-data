@@ -6,7 +6,7 @@ coordinates:
 revisions:
   '2.4':
     licensed:
-      declared: NONE
+      declared: Apache-2.0
   '2.5':
     licensed:
       declared: CDDL-1.0
