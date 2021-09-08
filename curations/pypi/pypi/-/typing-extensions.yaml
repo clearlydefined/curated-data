@@ -6,6 +6,12 @@ revisions:
   3.10.0.0:
     licensed:
       declared: OTHER
+  3.10.0.1:
+    licensed:
+      declared: OTHER
+  3.10.0.2:
+    licensed:
+      declared: OTHER
   3.6.5:
     licensed:
       declared: OTHER

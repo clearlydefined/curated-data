@@ -12,3 +12,6 @@ revisions:
         revision: 8702385af98d4f814fc9254f0e93a0254df73d7b
         type: git
         url: 'https://github.com/tj/js-yaml/commit/8702385af98d4f814fc9254f0e93a0254df73d7b'
+    licensed:
+      declared: MIT
+

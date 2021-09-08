@@ -1,0 +1,8 @@
+coordinates:
+  name: jsonlint-mod
+  provider: npmjs
+  type: npm
+revisions:
+  1.7.6:
+    licensed:
+      declared: MIT

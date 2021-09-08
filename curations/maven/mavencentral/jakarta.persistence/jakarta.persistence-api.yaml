@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.persistence-api
+  namespace: jakarta.persistence
+  provider: mavencentral
+  type: maven
+revisions:
+  2.2.3:
+    licensed:
+      declared: EPL-2.0 OR BSD-3-Clause

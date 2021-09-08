@@ -1,0 +1,8 @@
+coordinates:
+  name: KK.AspNetCore.EasyAuthAuthentication
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.3:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: transaction-api
+  namespace: javax.transaction
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: CDDL-1.0
