@@ -685,6 +685,9 @@ revisions:
   '9.1':
     licensed:
       declared: Apache-2.0
+  '9.15':
+    licensed:
+      declared: Apache-2.0
   '9.4':
     licensed:
       declared: Apache-2.0
