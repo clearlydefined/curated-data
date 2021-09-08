@@ -1,0 +1,8 @@
+coordinates:
+  name: ng2-file-upload
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.0:
+    licensed:
+      declared: MIT

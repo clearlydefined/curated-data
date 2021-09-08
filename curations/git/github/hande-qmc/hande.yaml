@@ -1,0 +1,9 @@
+coordinates:
+  name: hande
+  namespace: hande-qmc
+  provider: github
+  type: git
+revisions:
+  0cd750354e5a04678e04bf0b7a04945cb5e0b58a:
+    licensed:
+      declared: LGPL-2.1-only

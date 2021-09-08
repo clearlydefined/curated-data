@@ -1,0 +1,8 @@
+coordinates:
+  name: NHibernate.Caches.SysCache2
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.0.4000:
+    licensed:
+      declared: LGPL-2.1-only

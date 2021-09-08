@@ -1,0 +1,9 @@
+coordinates:
+  name: stanford-corenlp
+  namespace: edu.stanford.nlp
+  provider: mavencentral
+  type: maven
+revisions:
+  4.2.1:
+    licensed:
+      declared: GPL-3.0-only

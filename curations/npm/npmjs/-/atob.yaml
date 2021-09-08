@@ -6,3 +6,21 @@ revisions:
   1.1.2:
     licensed:
       declared: Apache-2.0 OR MIT
+  2.1.1:
+    described:
+      sourceLocation:
+        name: atob
+        namespace: node-browser-compat
+        provider: github
+        revision: e468cb840c6c611af031f4cc8b29cf7274cf1d2d
+        type: git
+        url: 'https://github.com/node-browser-compat/atob/commit/e468cb840c6c611af031f4cc8b29cf7274cf1d2d'
+  2.1.2:
+    described:
+      sourceLocation:
+        name: atob
+        namespace: node-browser-compat
+        provider: github
+        revision: 755cfea7899074a17e83a248c7cfc3960d956d82
+        type: git
+        url: 'https://github.com/node-browser-compat/atob/commit/755cfea7899074a17e83a248c7cfc3960d956d82'

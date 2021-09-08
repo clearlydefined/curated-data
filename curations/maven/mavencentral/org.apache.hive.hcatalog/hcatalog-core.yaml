@@ -1,0 +1,9 @@
+coordinates:
+  name: hcatalog-core
+  namespace: org.apache.hive.hcatalog
+  provider: mavencentral
+  type: maven
+revisions:
+  0.12.0:
+    licensed:
+      declared: Apache-2.0

@@ -51,3 +51,6 @@ revisions:
   2.0.312:
     licensed:
       declared: GPL-2.0-only WITH GCC-exception-2.0
+  2.0.314:
+    licensed:
+      declared: GPL-2.0-only WITH GCC-exception-2.0
