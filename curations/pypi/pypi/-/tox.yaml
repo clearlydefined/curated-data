@@ -1,0 +1,14 @@
+coordinates:
+  name: tox
+  provider: pypi
+  type: pypi
+revisions:
+  3.23.1:
+    described:
+      sourceLocation:
+        name: tox
+        namespace: tox-dev
+        provider: github
+        revision: d98f589197f033fa9846918f309bf66a645f905b
+        type: git
+        url: 'https://github.com/tox-dev/tox/commit/d98f589197f033fa9846918f309bf66a645f905b'
