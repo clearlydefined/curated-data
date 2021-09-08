@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  1faecd9c508e30ef392849a4cb66a09fcb615eb3:
+    licensed:
+      declared: blessing
   562fd18b9dc27216191c0a6477bba9b175f7f0d2:
     licensed:
       declared: blessing

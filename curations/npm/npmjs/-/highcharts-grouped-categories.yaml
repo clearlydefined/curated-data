@@ -1,0 +1,8 @@
+coordinates:
+  name: highcharts-grouped-categories
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.7:
+    licensed:
+      declared: CC-BY-3.0

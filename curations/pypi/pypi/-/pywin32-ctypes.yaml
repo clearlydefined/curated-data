@@ -1,0 +1,8 @@
+coordinates:
+  name: pywin32-ctypes
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.1:
+    licensed:
+      declared: BSD-3-Clause

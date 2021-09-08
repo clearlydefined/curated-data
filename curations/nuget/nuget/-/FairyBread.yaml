@@ -1,0 +1,8 @@
+coordinates:
+  name: FairyBread
+  provider: nuget
+  type: nuget
+revisions:
+  6.1.0:
+    licensed:
+      declared: MIT

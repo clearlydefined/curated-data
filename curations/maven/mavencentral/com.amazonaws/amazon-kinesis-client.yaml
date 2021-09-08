@@ -1,0 +1,9 @@
+coordinates:
+  name: amazon-kinesis-client
+  namespace: com.amazonaws
+  provider: mavencentral
+  type: maven
+revisions:
+  1.6.3:
+    licensed:
+      declared: OTHER

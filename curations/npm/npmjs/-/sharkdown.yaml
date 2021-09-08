@@ -1,0 +1,23 @@
+coordinates:
+  name: sharkdown
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.0:
+    described:
+      sourceLocation:
+        name: sharkdown
+        namespace: tmcw-up-for-adoption
+        provider: github
+        revision: f460ecbcd8101c876b124eaacdf76d38124ed921
+        type: git
+        url: 'https://github.com/tmcw-up-for-adoption/sharkdown/commit/f460ecbcd8101c876b124eaacdf76d38124ed921'
+  0.1.1:
+    described:
+      sourceLocation:
+        name: sharkdown
+        namespace: tmcw-up-for-adoption
+        provider: github
+        revision: 407983bcb7a8acf36a7d6ae3d5ad2ed65799e1a8
+        type: git
+        url: 'https://github.com/tmcw-up-for-adoption/sharkdown/commit/407983bcb7a8acf36a7d6ae3d5ad2ed65799e1a8'
