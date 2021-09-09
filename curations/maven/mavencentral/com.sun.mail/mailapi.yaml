@@ -1,0 +1,9 @@
+coordinates:
+  name: mailapi
+  namespace: com.sun.mail
+  provider: mavencentral
+  type: maven
+revisions:
+  1.6.2:
+    licensed:
+      declared: GPL-2.0-only
