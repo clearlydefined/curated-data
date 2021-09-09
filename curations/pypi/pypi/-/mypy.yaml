@@ -22,5 +22,13 @@ revisions:
     licensed:
       declared: MIT
   '0.910':
+    described:
+      sourceLocation:
+        name: mypy
+        namespace: python
+        provider: github
+        revision: f5fc579cf07f2078c9312044f6bcb132f891d746
+        type: git
+        url: 'https://github.com/python/mypy/commit/f5fc579cf07f2078c9312044f6bcb132f891d746'
     licensed:
       declared: MIT
