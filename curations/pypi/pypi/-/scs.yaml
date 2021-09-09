@@ -1,0 +1,8 @@
+coordinates:
+  name: scs
+  provider: pypi
+  type: pypi
+revisions:
+  2.1.4:
+    licensed:
+      declared: MIT
