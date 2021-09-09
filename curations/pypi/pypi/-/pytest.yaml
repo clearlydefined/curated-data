@@ -1,0 +1,14 @@
+coordinates:
+  name: pytest
+  provider: pypi
+  type: pypi
+revisions:
+  6.2.5:
+    described:
+      sourceLocation:
+        name: pytest
+        namespace: pytest-dev
+        provider: github
+        revision: 1569fac603d9a50022e1474b494eebf970a2a3af
+        type: git
+        url: 'https://github.com/pytest-dev/pytest/commit/1569fac603d9a50022e1474b494eebf970a2a3af'
