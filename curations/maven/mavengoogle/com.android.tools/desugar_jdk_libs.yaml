@@ -1,0 +1,9 @@
+coordinates:
+  name: desugar_jdk_libs
+  namespace: com.android.tools
+  provider: mavengoogle
+  type: maven
+revisions:
+  1.1.5:
+    licensed:
+      declared: GPL-2.0-only
