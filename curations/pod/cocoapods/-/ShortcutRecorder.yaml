@@ -1,0 +1,8 @@
+coordinates:
+  name: ShortcutRecorder
+  provider: cocoapods
+  type: pod
+revisions:
+  3.3.0:
+    licensed:
+      declared: CC-BY-4.0
