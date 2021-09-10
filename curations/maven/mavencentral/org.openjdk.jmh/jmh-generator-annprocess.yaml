@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '1.19':
+    licensed:
+      declared: GPL-2.0-only
   '1.21':
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
