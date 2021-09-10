@@ -1,0 +1,9 @@
+coordinates:
+  name: postgresql
+  namespace: postgresql
+  provider: mavencentral
+  type: maven
+revisions:
+  9.1-901.jdbc4:
+    licensed:
+      declared: BSD-2-Clause
