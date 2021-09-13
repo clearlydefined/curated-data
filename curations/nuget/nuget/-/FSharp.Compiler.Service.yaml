@@ -9,6 +9,9 @@ revisions:
   23.0.1:
     licensed:
       declared: Apache-2.0
+  28.0.0:
+    licensed:
+      declared: MIT
   31.0.0:
     licensed:
       declared: MIT
