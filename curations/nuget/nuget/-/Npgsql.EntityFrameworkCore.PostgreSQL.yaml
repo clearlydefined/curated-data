@@ -1,0 +1,8 @@
+coordinates:
+  name: Npgsql.EntityFrameworkCore.PostgreSQL
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.2:
+    licensed:
+      declared: PostgreSQL
