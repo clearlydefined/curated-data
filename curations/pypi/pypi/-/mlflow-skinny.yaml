@@ -12,3 +12,6 @@ revisions:
   1.20.1:
     licensed:
       declared: Apache-2.0
+  1.20.2:
+    licensed:
+      declared: MIT
