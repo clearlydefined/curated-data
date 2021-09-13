@@ -1,0 +1,8 @@
+coordinates:
+  name: FSharpIDD.WS
+  provider: nuget
+  type: nuget
+revisions:
+  0.4.3:
+    licensed:
+      declared: MIT
