@@ -1,0 +1,9 @@
+coordinates:
+  name: jetty-runner
+  namespace: org.eclipse.jetty
+  provider: mavencentral
+  type: maven
+revisions:
+  9.3.25.v20180904:
+    licensed:
+      declared: EPL-1.0 OR Apache-2.0
