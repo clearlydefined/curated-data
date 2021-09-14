@@ -1,0 +1,8 @@
+coordinates:
+  name: Fable.Remoting.Server
+  provider: nuget
+  type: nuget
+revisions:
+  4.9.0:
+    licensed:
+      declared: MIT
