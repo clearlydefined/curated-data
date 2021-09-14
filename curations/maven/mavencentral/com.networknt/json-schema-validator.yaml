@@ -1,0 +1,9 @@
+coordinates:
+  name: json-schema-validator
+  namespace: com.networknt
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.57:
+    licensed:
+      declared: Apache-2.0
