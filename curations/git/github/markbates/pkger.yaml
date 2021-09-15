@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: pkger
+  namespace: markbates
+  provider: github
+revisions:
+  0273362499c78b8d8ac7047eadd4f38454bc609a:
+    licensed:
+      declared: MIT
