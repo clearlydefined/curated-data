@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Firebase.iOS.RemoteConfig
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.1:
+    licensed:
+      declared: MIT
