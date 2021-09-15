@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: clock
+  namespace: benbjohnson
+  provider: github
+revisions:
+  307483a2173c76d3ded778bd68214865fcf05ec8:
+    licensed:
+      declared: MIT
