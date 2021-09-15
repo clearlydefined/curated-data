@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Firebase.iOS.ABTesting
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0.2:
+    licensed:
+      declared: MIT
