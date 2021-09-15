@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Firebase.iOS.InstanceID
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.0:
+    licensed:
+      declared: MIT
