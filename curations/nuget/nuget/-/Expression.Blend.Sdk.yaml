@@ -1,0 +1,8 @@
+coordinates:
+  name: Expression.Blend.Sdk
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.2:
+    licensed:
+      declared: NONE
