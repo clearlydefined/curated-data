@@ -11,6 +11,9 @@ revisions:
         path: Xamarin.Android.Support.v8.RenderScript.nuspec
     licensed:
       declared: MIT
+  26.0.2:
+    licensed:
+      declared: MIT
   27.0.2-preview1:
     licensed:
       declared: MIT
