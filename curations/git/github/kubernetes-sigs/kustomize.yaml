@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: kustomize
+  namespace: kubernetes-sigs
+  provider: github
+revisions:
+  aa1dd9ddc28df4800d4262715c5a925fc5e0b1cf:
+    licensed:
+      declared: Apache-2.0
