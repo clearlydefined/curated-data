@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: apiserver-network-proxy
+  namespace: kubernetes-sigs
+  provider: github
+revisions:
+  603aa670ea3d1e8449dfc7ddd9a303a07a53b904:
+    licensed:
+      declared: Apache-2.0
