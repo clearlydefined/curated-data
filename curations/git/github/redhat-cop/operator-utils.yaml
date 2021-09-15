@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: operator-utils
+  namespace: redhat-cop
+  provider: github
+revisions:
+  26a9d4efe6c40ed22f302342196ea6afc8b63170:
+    licensed:
+      declared: Apache-2.0
