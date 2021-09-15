@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Firebase.iOS.Analytics
+  provider: nuget
+  type: nuget
+revisions:
+  5.5.0:
+    licensed:
+      declared: MIT
