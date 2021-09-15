@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Android.Support.v14.Preference
+  provider: nuget
+  type: nuget
+revisions:
+  26.0.2:
+    licensed:
+      declared: MIT
