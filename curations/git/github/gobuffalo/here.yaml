@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: here
+  namespace: gobuffalo
+  provider: github
+revisions:
+  3546a4df46e5292e9b982a7d8ea6f2c0791d676c:
+    licensed:
+      declared: MIT
