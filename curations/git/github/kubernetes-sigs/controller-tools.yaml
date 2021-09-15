@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: controller-tools
+  namespace: kubernetes-sigs
+  provider: github
+revisions:
+  62b96d93404e1a297aa02d08fd564a430bd24420:
+    licensed:
+      declared: Apache-2.0
