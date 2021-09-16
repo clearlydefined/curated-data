@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: component-base
+  namespace: kubernetes
+  provider: github
+revisions:
+  4902ee6603292d29c9ee763aaf41327497536a82:
+    licensed:
+      declared: Apache-2.0
