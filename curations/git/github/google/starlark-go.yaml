@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: starlark-go
+  namespace: google
+  provider: github
+revisions:
+  8dd3e2ee1dd5d034baada4c7b4fcf231294a1013:
+    licensed:
+      declared: BSD-3-Clause
