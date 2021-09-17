@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: log
+  namespace: go-kit
+  provider: github
+revisions:
+  63376a29a92260f7b256eedf2fae39e28161114d:
+    licensed:
+      declared: MIT
