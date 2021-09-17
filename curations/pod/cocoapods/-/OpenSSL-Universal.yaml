@@ -11,4 +11,4 @@ revisions:
       declared: OpenSSL
   1.1.1100:
     licensed:
-      declared: BSD-2-Clause
+      declared: OpenSSL
