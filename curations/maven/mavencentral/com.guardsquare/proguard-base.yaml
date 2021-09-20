@@ -1,0 +1,9 @@
+coordinates:
+  name: proguard-base
+  namespace: com.guardsquare
+  provider: mavencentral
+  type: maven
+revisions:
+  7.1.1:
+    licensed:
+      declared: GPL-2.0-only
