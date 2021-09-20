@@ -1,0 +1,8 @@
+coordinates:
+  name: MicrosoftExpressionInteractions
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.40218:
+    licensed:
+      declared: OTHER
