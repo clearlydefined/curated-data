@@ -1,0 +1,8 @@
+coordinates:
+  name: WindowsDevicePortalWrapper
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.5.1:
+    licensed:
+      declared: NONE
