@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-set
+  namespace: scylladb
+  provider: github
+revisions:
+  e560bb8f49bb7f34d4f59b7e771f6e1307c329da:
+    licensed:
+      declared: Apache-2.0
