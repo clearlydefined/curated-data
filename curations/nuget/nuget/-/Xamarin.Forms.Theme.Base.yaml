@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Forms.Theme.Base
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.43-pre1:
+    licensed:
+      declared: MIT
