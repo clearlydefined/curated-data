@@ -21,3 +21,6 @@ revisions:
   92.0.902.62:
     licensed:
       declared: OTHER
+  92.0.902.73:
+    licensed:
+      declared: NONE
