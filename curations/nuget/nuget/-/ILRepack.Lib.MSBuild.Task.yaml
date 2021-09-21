@@ -1,0 +1,8 @@
+coordinates:
+  name: ILRepack.Lib.MSBuild.Task
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.13:
+    licensed:
+      declared: BSD-3-Clause
