@@ -1,0 +1,8 @@
+coordinates:
+  name: agi
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.1:
+    licensed:
+      declared: GPL-2.0-only
