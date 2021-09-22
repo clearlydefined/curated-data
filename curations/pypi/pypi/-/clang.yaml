@@ -16,3 +16,6 @@ revisions:
         path: clang-11.0/clang/enumerations.py
     licensed:
       declared: NCSA
+  '5.0':
+    licensed:
+      declared: NCSA

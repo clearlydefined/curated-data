@@ -16,3 +16,6 @@ revisions:
         path: vendor/golang.org/x/text/PATENTS
       - license: OTHER
         path: vendor/golang.org/x/time/PATENTS
+  8348079b5c466abd1eabac09d01cd194fe6602af:
+    licensed:
+      declared: Apache-2.0

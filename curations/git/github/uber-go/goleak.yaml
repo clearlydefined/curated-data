@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: goleak
+  namespace: uber-go
+  provider: github
+revisions:
+  8186b793a375782d05df2748849e26b541b19ace:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: HockeySDK.Xamarin
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.0-beta1:
+    licensed:
+      declared: MIT

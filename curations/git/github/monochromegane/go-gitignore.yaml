@@ -1,0 +1,9 @@
+coordinates:
+  type: git
+  name: go-gitignore
+  namespace: monochromegane
+  provider: github
+revisions:
+  205db1a8cc001de79230472da52edde4974df734:
+    licensed:
+      declared: MIT
