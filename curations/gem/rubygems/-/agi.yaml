@@ -1,0 +1,14 @@
+coordinates:
+  name: agi
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.1:
+    described:
+      sourceLocation:
+        name: dotfiles
+        namespace: iamwillbar
+        provider: github
+        revision: ccb857ba1bc94d7415321c5688db732c9d38519e
+        type: git
+        url: 'https://github.com/iamwillbar/dotfiles/commit/ccb857ba1bc94d7415321c5688db732c9d38519e'
