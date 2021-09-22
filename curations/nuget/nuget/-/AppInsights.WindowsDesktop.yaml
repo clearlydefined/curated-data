@@ -1,0 +1,8 @@
+coordinates:
+  name: AppInsights.WindowsDesktop
+  provider: nuget
+  type: nuget
+revisions:
+  2.17.1:
+    licensed:
+      declared: MIT
