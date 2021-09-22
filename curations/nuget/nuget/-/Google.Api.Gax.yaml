@@ -20,7 +20,7 @@ revisions:
       declared: BSD-3-Clause
   2.2.0:
     licensed:
-      declared: Apache-1.1
+      declared: BSD-3-Clause
   2.7.0:
     licensed:
       declared: BSD-3-Clause
