@@ -1,0 +1,9 @@
+coordinates:
+  name: android-retrostreams
+  namespace: net.sourceforge.streamsupport
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.3:
+    licensed:
+      declared: GPL-2.0-only
