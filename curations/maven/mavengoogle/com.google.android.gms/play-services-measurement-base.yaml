@@ -7,3 +7,6 @@ revisions:
   16.5.0:
     licensed:
       declared: OTHER
+  19.0.0:
+    licensed:
+      declared: NONE
