@@ -12,3 +12,6 @@ revisions:
   0.3.2:
     licensed:
       declared: OTHER
+  0.3.3:
+    licensed:
+      declared: CNRI-Python-GPL-Compatible
