@@ -1,0 +1,8 @@
+coordinates:
+  name: dependabot-bundler
+  provider: rubygems
+  type: gem
+revisions:
+  0.162.1:
+    licensed:
+      declared: 0BSD
