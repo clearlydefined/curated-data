@@ -1,0 +1,8 @@
+coordinates:
+  name: NStack.Core
+  provider: nuget
+  type: nuget
+revisions:
+  0.12.0:
+    licensed:
+      declared: BSD-3-Clause
