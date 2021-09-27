@@ -1,0 +1,9 @@
+coordinates:
+  name: oshi-core
+  namespace: com.github.oshi
+  provider: mavencentral
+  type: maven
+revisions:
+  3.4.0:
+    licensed:
+      declared: MIT
