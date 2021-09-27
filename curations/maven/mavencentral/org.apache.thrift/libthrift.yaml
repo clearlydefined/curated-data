@@ -1,0 +1,9 @@
+coordinates:
+  name: libthrift
+  namespace: org.apache.thrift
+  provider: mavencentral
+  type: maven
+revisions:
+  0.7.0:
+    licensed:
+      declared: Apache-2.0
