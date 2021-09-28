@@ -1,0 +1,9 @@
+coordinates:
+  name: cgal
+  namespace: cgal
+  provider: github
+  type: git
+revisions:
+  ea20dfd63fcdec0b98258c9c47b0cbb88cdb356c:
+    licensed:
+      declared: BSL-1.0
