@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.LibZipSharp
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0-alpha7:
+    licensed:
+      declared: MIT
