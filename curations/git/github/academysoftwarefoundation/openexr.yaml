@@ -1,0 +1,9 @@
+coordinates:
+  name: openexr
+  namespace: academysoftwarefoundation
+  provider: github
+  type: git
+revisions:
+  0ac2ea34c8f3134148a5df4052e40f155b76f6fb:
+    licensed:
+      declared: OTHER
