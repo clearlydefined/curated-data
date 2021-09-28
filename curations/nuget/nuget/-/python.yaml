@@ -36,6 +36,9 @@ revisions:
   3.8.7:
     licensed:
       declared: OTHER
+  3.8.9:
+    licensed:
+      declared: PSF-2.0
   3.9.7:
     licensed:
       declared: OTHER
