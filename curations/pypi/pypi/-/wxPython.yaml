@@ -1,0 +1,8 @@
+coordinates:
+  name: wxPython
+  provider: pypi
+  type: pypi
+revisions:
+  4.1.0:
+    licensed:
+      declared: wxWindows
