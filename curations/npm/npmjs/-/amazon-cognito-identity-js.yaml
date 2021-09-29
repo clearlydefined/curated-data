@@ -1,0 +1,8 @@
+coordinates:
+  name: amazon-cognito-identity-js
+  provider: npmjs
+  type: npm
+revisions:
+  5.1.0:
+    licensed:
+      declared: MIT
