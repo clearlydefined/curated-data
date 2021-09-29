@@ -27,6 +27,9 @@ revisions:
   3.8.2:
     licensed:
       declared: OTHER
+  3.8.3:
+    licensed:
+      declared: GPL-3.0-only
   3.8.5:
     licensed:
       declared: OTHER
