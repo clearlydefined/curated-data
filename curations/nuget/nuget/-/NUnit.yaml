@@ -20,7 +20,7 @@ revisions:
       declared: zlib-acknowledgement
   2.7.0:
     licensed:
-      declared: Nunit
+      declared: zlib-acknowledgement
   3.0.0:
     licensed:
       declared: MIT
