@@ -1,0 +1,9 @@
+coordinates:
+  name: lodepng
+  namespace: lvandeve
+  provider: github
+  type: git
+revisions:
+  148987254da889a317e2d249c5f7f68849267de5:
+    licensed:
+      declared: Zlib
