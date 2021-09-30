@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-communication-calling
+  namespace: com.azure.android
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.0:
+    licensed:
+      declared: OTHER
