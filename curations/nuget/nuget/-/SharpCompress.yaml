@@ -6,6 +6,9 @@ revisions:
   0.17.1:
     licensed:
       declared: MIT
+  0.21.1:
+    licensed:
+      declared: MIT
   0.22.0:
     files:
       - attributions:
