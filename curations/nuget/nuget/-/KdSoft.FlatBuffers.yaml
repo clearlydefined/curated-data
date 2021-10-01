@@ -1,0 +1,16 @@
+coordinates:
+  name: KdSoft.FlatBuffers
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.3:
+    described:
+      sourceLocation:
+        name: flatbuffers
+        namespace: kwaclaw
+        provider: github
+        revision: 20a400e940634108bad812f571582eeffc728eac
+        type: git
+        url: 'https://github.com/kwaclaw/flatbuffers/commit/20a400e940634108bad812f571582eeffc728eac'
+    licensed:
+      declared: Apache-2.0
