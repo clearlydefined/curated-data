@@ -1,0 +1,9 @@
+coordinates:
+  name: glslang
+  namespace: '@webgpu'
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.15:
+    licensed:
+      declared: MIT
