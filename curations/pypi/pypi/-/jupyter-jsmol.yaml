@@ -6,3 +6,6 @@ revisions:
   2021.3.0:
     licensed:
       declared: BSD-3-Clause
+  2021.9.0:
+    licensed:
+      declared: BSD-3-Clause
