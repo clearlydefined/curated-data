@@ -9,8 +9,8 @@ revisions:
         name: flatbuffers
         namespace: kwaclaw
         provider: github
-        revision: 20a400e940634108bad812f571582eeffc728eac
+        revision: 7f2dcd10de8c455493ef90e242fd52781011b0d9
         type: git
-        url: 'https://github.com/kwaclaw/flatbuffers/commit/20a400e940634108bad812f571582eeffc728eac'
+        url: 'https://github.com/kwaclaw/flatbuffers/commit/7f2dcd10de8c455493ef90e242fd52781011b0d9'
     licensed:
       declared: Apache-2.0
