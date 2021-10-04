@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-react-treelist
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  4.7.0:
+    licensed:
+      declared: OTHER
