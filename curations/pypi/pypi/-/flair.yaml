@@ -6,6 +6,9 @@ revisions:
   '0.7':
     licensed:
       declared: MIT
+  '0.8':
+    licensed:
+      declared: MIT
   0.8.0.post1:
     licensed:
       declared: MIT
