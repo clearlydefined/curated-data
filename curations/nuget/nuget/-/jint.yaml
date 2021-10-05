@@ -1,0 +1,8 @@
+coordinates:
+  name: jint
+  provider: nuget
+  type: nuget
+revisions:
+  2.10.4:
+    licensed:
+      declared: BSD-2-Clause
