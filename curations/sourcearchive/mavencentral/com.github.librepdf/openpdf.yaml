@@ -1,0 +1,15 @@
+coordinates:
+  name: openpdf
+  namespace: com.github.librepdf
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.3.26:
+    described:
+      sourceLocation:
+        name: openpdf
+        namespace: librepdf
+        provider: github
+        revision: 77dd308b7bc31e42395990d65e3fda75c6dfffa7
+        type: git
+        url: 'https://github.com/librepdf/openpdf/commit/77dd308b7bc31e42395990d65e3fda75c6dfffa7'
