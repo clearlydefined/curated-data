@@ -1,0 +1,8 @@
+coordinates:
+  name: Tomlyn
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.2:
+    licensed:
+      declared: BSD-2-Clause

@@ -1,0 +1,9 @@
+coordinates:
+  name: picojson
+  namespace: kazuho
+  provider: github
+  type: git
+revisions:
+  25fc213cca61ea22b3c2e4db8def9927562ba5f7:
+    licensed:
+      declared: BSD-2-Clause

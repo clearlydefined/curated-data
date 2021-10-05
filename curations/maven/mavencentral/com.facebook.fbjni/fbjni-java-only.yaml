@@ -1,0 +1,9 @@
+coordinates:
+  name: fbjni-java-only
+  namespace: com.facebook.fbjni
+  provider: mavencentral
+  type: maven
+revisions:
+  0.0.4:
+    licensed:
+      declared: Apache-2.0

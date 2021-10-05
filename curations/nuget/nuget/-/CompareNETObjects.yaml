@@ -33,3 +33,6 @@ revisions:
   4.73.0:
     licensed:
       declared: MS-PL
+  4.74.0:
+    licensed:
+      declared: MS-PL
