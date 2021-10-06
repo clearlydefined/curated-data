@@ -177,6 +177,9 @@ revisions:
   5.11.0:
     licensed:
       declared: OTHER
+  5.12.0:
+    licensed:
+      declared: GPL-3.0-only
   5.2.0:
     licensed:
       declared: OTHER
