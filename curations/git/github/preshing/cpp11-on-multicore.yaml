@@ -1,0 +1,9 @@
+coordinates:
+  name: cpp11-on-multicore
+  namespace: preshing
+  provider: github
+  type: git
+revisions:
+  41ac9c73dfa32e2fbc0af6668358092fafdfcae4:
+    licensed:
+      declared: Zlib
