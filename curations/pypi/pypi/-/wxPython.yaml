@@ -5,4 +5,4 @@ coordinates:
 revisions:
   4.1.0:
     licensed:
-      declared: wxWindows
+      declared: LGPL-2.0-or-later WITH WxWindows-exception-3.1
