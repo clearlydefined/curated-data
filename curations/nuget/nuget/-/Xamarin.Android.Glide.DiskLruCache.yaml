@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Android.Glide.DiskLruCache
+  provider: nuget
+  type: nuget
+revisions:
+  4.11.0.1:
+    licensed:
+      declared: MIT

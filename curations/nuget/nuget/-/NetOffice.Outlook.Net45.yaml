@@ -1,0 +1,8 @@
+coordinates:
+  name: NetOffice.Outlook.Net45
+  provider: nuget
+  type: nuget
+revisions:
+  1.7.3:
+    licensed:
+      declared: MIT

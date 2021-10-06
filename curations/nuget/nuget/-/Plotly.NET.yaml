@@ -1,0 +1,8 @@
+coordinates:
+  name: Plotly.NET
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0-alpha5:
+    licensed:
+      declared: MIT

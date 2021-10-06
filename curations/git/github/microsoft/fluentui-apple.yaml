@@ -1,0 +1,9 @@
+coordinates:
+  name: fluentui-apple
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  32b8a50a9876260d00f4ca41711e65577e6ee53a:
+    licensed:
+      declared: MIT

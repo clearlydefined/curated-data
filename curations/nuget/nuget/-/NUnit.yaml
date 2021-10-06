@@ -18,6 +18,9 @@ revisions:
   2.6.4:
     licensed:
       declared: zlib-acknowledgement
+  2.7.0:
+    licensed:
+      declared: zlib-acknowledgement
   3.0.0:
     licensed:
       declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: utcstring
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.0:
+    licensed:
+      declared: MPL-2.0

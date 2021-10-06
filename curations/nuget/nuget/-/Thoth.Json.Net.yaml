@@ -1,0 +1,11 @@
+coordinates:
+  name: Thoth.Json.Net
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.0:
+    licensed:
+      declared: MIT
+  3.6.0:
+    licensed:
+      declared: MIT

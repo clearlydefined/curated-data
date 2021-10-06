@@ -1,0 +1,8 @@
+coordinates:
+  name: summernote.editor
+  provider: nuget
+  type: nuget
+revisions:
+  0.8.10:
+    licensed:
+      declared: MIT

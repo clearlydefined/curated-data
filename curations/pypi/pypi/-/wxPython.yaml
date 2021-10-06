@@ -1,0 +1,8 @@
+coordinates:
+  name: wxPython
+  provider: pypi
+  type: pypi
+revisions:
+  4.1.0:
+    licensed:
+      declared: LGPL-2.0-or-later WITH WxWindows-exception-3.1

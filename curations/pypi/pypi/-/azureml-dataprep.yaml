@@ -117,6 +117,9 @@ revisions:
   2.20.1:
     licensed:
       declared: OTHER
+  2.22.2:
+    licensed:
+      declared: OTHER
   2.3.3:
     licensed:
       declared: OTHER

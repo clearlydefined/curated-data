@@ -1,0 +1,8 @@
+coordinates:
+  name: pandarallel
+  provider: pypi
+  type: pypi
+revisions:
+  1.5.2:
+    licensed:
+      declared: BSD-3-Clause
