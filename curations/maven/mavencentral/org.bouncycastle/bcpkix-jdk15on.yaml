@@ -12,7 +12,7 @@ revisions:
       declared: MIT
   '1.59':
     licensed:
-      declared: NONE
+      declared: MIT
   '1.60':
     licensed:
       declared: MIT
