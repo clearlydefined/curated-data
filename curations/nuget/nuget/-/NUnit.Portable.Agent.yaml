@@ -1,0 +1,8 @@
+coordinates:
+  name: NUnit.Portable.Agent
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.0-beta-3:
+    licensed:
+      declared: MIT
