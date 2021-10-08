@@ -1,0 +1,14 @@
+coordinates:
+  name: nearley
+  provider: npmjs
+  type: npm
+revisions:
+  2.19.7:
+    described:
+      sourceLocation:
+        name: nearley
+        namespace: kach
+        provider: github
+        revision: 7c0fd952b85b833a1b6ff377b7f4366c633204df
+        type: git
+        url: 'https://github.com/kach/nearley/commit/7c0fd952b85b833a1b6ff377b7f4366c633204df'
