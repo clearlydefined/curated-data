@@ -1,0 +1,8 @@
+coordinates:
+  name: Aspose.Cells
+  provider: nuget
+  type: nuget
+revisions:
+  21.8.0:
+    licensed:
+      declared: OTHER
