@@ -6,3 +6,6 @@ revisions:
   1.15.3.5:
     licensed:
       declared: MIT
+  1.16.0.4:
+    licensed:
+      declared: NONE
