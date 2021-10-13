@@ -1,0 +1,14 @@
+coordinates:
+  name: nise
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.4:
+    described:
+      sourceLocation:
+        name: nise
+        namespace: sinonjs
+        provider: github
+        revision: 870b60cae044a7125eba9005339bc912b7512d50
+        type: git
+        url: 'https://github.com/sinonjs/nise/commit/870b60cae044a7125eba9005339bc912b7512d50'
