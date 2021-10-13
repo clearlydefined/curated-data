@@ -1,0 +1,15 @@
+coordinates:
+  name: mutationobserver-shim
+  namespace: '@sheerun'
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.3:
+    described:
+      sourceLocation:
+        name: mutationobserver.js
+        namespace: sheerun
+        provider: github
+        revision: cafcbe7f47530d3785f961a5c8fc45392129c628
+        type: git
+        url: 'https://github.com/sheerun/mutationobserver.js/commit/cafcbe7f47530d3785f961a5c8fc45392129c628'
