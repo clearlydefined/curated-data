@@ -1,0 +1,9 @@
+coordinates:
+  name: dx-react-chart-material-ui
+  namespace: '@devexpress'
+  provider: npmjs
+  type: npm
+revisions:
+  2.7.4:
+    licensed:
+      declared: OTHER
