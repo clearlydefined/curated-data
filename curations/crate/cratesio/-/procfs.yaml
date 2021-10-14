@@ -1,0 +1,8 @@
+coordinates:
+  name: procfs
+  provider: cratesio
+  type: crate
+revisions:
+  0.9.1:
+    licensed:
+      declared: Apache-2.0 OR MIT
