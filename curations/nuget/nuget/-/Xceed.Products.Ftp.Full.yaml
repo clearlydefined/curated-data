@@ -1,0 +1,8 @@
+coordinates:
+  name: Xceed.Products.Ftp.Full
+  provider: nuget
+  type: nuget
+revisions:
+  6.7.19075.7501:
+    licensed:
+      declared: OTHER
