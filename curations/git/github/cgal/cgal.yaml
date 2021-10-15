@@ -1,0 +1,9 @@
+coordinates:
+  name: cgal
+  namespace: cgal
+  provider: github
+  type: git
+revisions:
+  ea20dfd63fcdec0b98258c9c47b0cbb88cdb356c:
+    licensed:
+      declared: GPL-3.0-or-later AND LGPL-3.0-or-later OR OTHER
