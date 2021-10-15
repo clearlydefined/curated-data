@@ -1,0 +1,14 @@
+coordinates:
+  name: System.Memory.Data
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.2:
+    described:
+      sourceLocation:
+        name: azure-sdk-for-net
+        namespace: azure
+        provider: github
+        revision: 7e3cf643977591e9041f4c628fd4d28237398e0b
+        type: git
+        url: 'https://github.com/azure/azure-sdk-for-net/commit/7e3cf643977591e9041f4c628fd4d28237398e0b'
