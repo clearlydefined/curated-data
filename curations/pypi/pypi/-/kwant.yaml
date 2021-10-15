@@ -1,0 +1,8 @@
+coordinates:
+  name: kwant
+  provider: pypi
+  type: pypi
+revisions:
+  1.4.1:
+    licensed:
+      declared: BSD-2-Clause
