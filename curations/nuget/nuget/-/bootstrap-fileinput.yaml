@@ -1,0 +1,8 @@
+coordinates:
+  name: bootstrap-fileinput
+  provider: nuget
+  type: nuget
+revisions:
+  4.3.6:
+    licensed:
+      declared: BSD-3-Clause
