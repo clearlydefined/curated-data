@@ -1,0 +1,8 @@
+coordinates:
+  name: Nustache.Compilation
+  provider: nuget
+  type: nuget
+revisions:
+  1.16.0.4:
+    licensed:
+      declared: MIT
