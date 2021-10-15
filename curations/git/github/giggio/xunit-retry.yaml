@@ -1,0 +1,13 @@
+coordinates:
+  name: xunit-retry
+  namespace: giggio
+  provider: github
+  type: git
+revisions:
+  7a99f99f678fab808a846a305140afd81329a00d:
+    described:
+      facets:
+        doc: []
+        tests: []
+    licensed:
+      declared: GPL-2.0-only
