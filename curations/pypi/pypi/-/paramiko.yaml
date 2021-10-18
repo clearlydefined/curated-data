@@ -12,3 +12,6 @@ revisions:
   2.7.2:
     licensed:
       declared: LGPL-2.1-or-later
+  2.8.0:
+    licensed:
+      declared: LGPL-2.1-or-later
