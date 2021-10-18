@@ -1,0 +1,8 @@
+coordinates:
+  name: thin
+  provider: rubygems
+  type: gem
+revisions:
+  1.7.2:
+    licensed:
+      declared: GPL-2.0-or-later OR Ruby
