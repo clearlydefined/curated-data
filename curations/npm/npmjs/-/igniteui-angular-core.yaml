@@ -12,6 +12,9 @@ revisions:
   11.2.1:
     licensed:
       declared: OTHER
+  12.1.1:
+    licensed:
+      declared: OTHER
   6.2.0:
     licensed:
       declared: OTHER
