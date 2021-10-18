@@ -1,0 +1,9 @@
+coordinates:
+  name: core
+  namespace: '@react-leaflet'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.2:
+    licensed:
+      declared: Hippocratic-2.1
