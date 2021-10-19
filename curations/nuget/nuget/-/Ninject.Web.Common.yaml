@@ -17,4 +17,4 @@ revisions:
       declared: Apache-2.0 OR MS-PL
   3.3.1:
     licensed:
-      declared: Artistic-2.0
+      declared: Apache-2.0 OR MS-PL
