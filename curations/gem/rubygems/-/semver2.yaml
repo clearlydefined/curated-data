@@ -1,0 +1,8 @@
+coordinates:
+  name: semver2
+  provider: rubygems
+  type: gem
+revisions:
+  3.4.2:
+    licensed:
+      declared: MIT
