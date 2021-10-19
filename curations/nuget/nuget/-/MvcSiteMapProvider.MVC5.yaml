@@ -1,0 +1,8 @@
+coordinates:
+  name: MvcSiteMapProvider.MVC5
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.22:
+    licensed:
+      declared: MS-PL
