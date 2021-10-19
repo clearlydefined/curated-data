@@ -1,0 +1,9 @@
+coordinates:
+  name: sp-dialog
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.9.1:
+    licensed:
+      declared: OTHER
