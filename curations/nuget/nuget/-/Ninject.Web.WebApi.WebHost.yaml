@@ -6,3 +6,6 @@ revisions:
   3.2.4:
     licensed:
       declared: Apache-2.0 OR MS-PL
+  3.3.0:
+    licensed:
+      declared: Apache-2.0 OR MS-PL
