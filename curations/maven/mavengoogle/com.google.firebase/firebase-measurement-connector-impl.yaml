@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-measurement-connector-impl
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  17.0.5:
+    licensed:
+      declared: OTHER
