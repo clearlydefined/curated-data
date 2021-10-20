@@ -1,0 +1,8 @@
+coordinates:
+  name: TelerikMvcExtensions
+  provider: nuget
+  type: nuget
+revisions:
+  2013.1.219:
+    licensed:
+      declared: OTHER
