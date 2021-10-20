@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-analytics-impl
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.3.0:
+    licensed:
+      declared: OTHER
