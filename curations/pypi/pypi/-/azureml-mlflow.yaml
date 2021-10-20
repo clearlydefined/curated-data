@@ -108,6 +108,9 @@ revisions:
   1.34.0:
     licensed:
       declared: OTHER
+  1.35.0:
+    licensed:
+      declared: MS-PL
   1.4.0:
     licensed:
       declared: OTHER
