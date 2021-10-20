@@ -1,0 +1,8 @@
+coordinates:
+  name: RequireJsNet
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.44:
+    licensed:
+      declared: MIT
