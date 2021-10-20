@@ -1,0 +1,8 @@
+coordinates:
+  name: RequireJsNet.Compressor
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.33:
+    licensed:
+      declared: MIT
