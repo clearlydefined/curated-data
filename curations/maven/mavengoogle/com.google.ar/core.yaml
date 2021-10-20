@@ -1,0 +1,9 @@
+coordinates:
+  name: core
+  namespace: com.google.ar
+  provider: mavengoogle
+  type: maven
+revisions:
+  1.25.0:
+    licensed:
+      declared: Apache-2.0
