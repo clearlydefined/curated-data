@@ -1,0 +1,9 @@
+coordinates:
+  name: karma-chromium-edge-launcher
+  namespace: '@chiragrupani'
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.0:
+    licensed:
+      declared: OTHER
