@@ -1,0 +1,9 @@
+coordinates:
+  name: persistence-api
+  namespace: javax.persistence
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.2:
+    licensed:
+      declared: CDDL-1.0
