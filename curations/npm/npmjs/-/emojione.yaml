@@ -1,0 +1,8 @@
+coordinates:
+  name: emojione
+  provider: npmjs
+  type: npm
+revisions:
+  3.1.7:
+    licensed:
+      declared: MIT
