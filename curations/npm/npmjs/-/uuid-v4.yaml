@@ -1,11 +1,8 @@
 coordinates:
-  name: mkdirp
+  name: uuid-v4
   provider: npmjs
   type: npm
 revisions:
-  0.3.0:
-    licensed:
-      declared: MIT
-  0.3.4:
+  0.1.0:
     licensed:
       declared: MIT

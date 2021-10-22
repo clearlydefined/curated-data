@@ -1,11 +1,8 @@
 coordinates:
-  name: mkdirp
+  name: recursive-readdir
   provider: npmjs
   type: npm
 revisions:
-  0.3.0:
-    licensed:
-      declared: MIT
-  0.3.4:
+  0.0.2:
     licensed:
       declared: MIT

@@ -1,11 +1,8 @@
 coordinates:
-  name: FiddlerCore
+  name: ServiceStack.Common
   provider: nuget
   type: nuget
 revisions:
-  4.5.1:
-    licensed:
-      declared: OTHER
-  4.6.2:
+  5.11.0:
     licensed:
       declared: OTHER
