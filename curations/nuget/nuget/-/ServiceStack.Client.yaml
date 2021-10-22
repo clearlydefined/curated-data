@@ -1,0 +1,8 @@
+coordinates:
+  name: ServiceStack.Client
+  provider: nuget
+  type: nuget
+revisions:
+  5.11.0:
+    licensed:
+      declared: OTHER
