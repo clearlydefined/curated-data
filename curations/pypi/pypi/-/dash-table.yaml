@@ -1,0 +1,8 @@
+coordinates:
+  name: dash-table
+  provider: pypi
+  type: pypi
+revisions:
+  5.0.0:
+    licensed:
+      declared: MIT
