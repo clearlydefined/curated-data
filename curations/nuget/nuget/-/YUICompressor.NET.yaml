@@ -1,0 +1,8 @@
+coordinates:
+  name: YUICompressor.NET
+  provider: nuget
+  type: nuget
+revisions:
+  2.7.0:
+    licensed:
+      declared: BSD-3-Clause
