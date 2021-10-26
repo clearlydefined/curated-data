@@ -1,0 +1,8 @@
+coordinates:
+  name: ldap3
+  provider: pypi
+  type: pypi
+revisions:
+  '2.9':
+    licensed:
+      declared: LGPL-3.0-or-later
