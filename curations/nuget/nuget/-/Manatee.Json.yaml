@@ -3,6 +3,15 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  13.0.5:
+    described:
+      sourceLocation:
+        name: manatee.json
+        namespace: gregsdennis
+        provider: github
+        revision: b80a961
+        type: git
+        url: 'https://github.com/gregsdennis/manatee.json/commit/b80a961'
   9.9.5:
     licensed:
       declared: MIT
