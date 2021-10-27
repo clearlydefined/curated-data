@@ -6,6 +6,9 @@ revisions:
   0.7.2-microsoft.5:
     licensed:
       declared: MIT
+  0.8.0-ms.0:
+    licensed:
+      declared: MIT
   0.9.0-ms.4:
     licensed:
       declared: MIT
