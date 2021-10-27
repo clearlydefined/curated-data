@@ -5,4 +5,4 @@ coordinates:
 revisions:
   1.3.5:
     licensed:
-      declared: MIT
+      declared: BSD-2-Clause
