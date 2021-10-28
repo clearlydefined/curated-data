@@ -6,12 +6,12 @@ revisions:
   13.0.5:
     described:
       sourceLocation:
-        name: manatee.json
+        name: Manatee.Json
         namespace: gregsdennis
         provider: github
-        revision: b80a961
+        revision: b80a961bfa1214cb7744a44f04897aeb21ae26e2
         type: git
-        url: 'https://github.com/gregsdennis/manatee.json/commit/b80a961'
+        url: 'https://github.com/gregsdennis/Manatee.Json/commit/b80a961bfa1214cb7744a44f04897aeb21ae26e2'
   9.9.5:
     licensed:
       declared: MIT
