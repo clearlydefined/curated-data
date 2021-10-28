@@ -1,15 +1,9 @@
 coordinates:
-  name: multi-filter
+  name: sparklines
   namespace: '@ag-grid-enterprise'
   provider: npmjs
   type: npm
 revisions:
-  24.1.0:
-    licensed:
-      declared: OTHER
   26.1.0:
-    licensed:
-      declared: OTHER
-  25.0.1:
     licensed:
       declared: OTHER
