@@ -7,3 +7,6 @@ revisions:
   '4.10':
     licensed:
       declared: CPL-1.0
+  '4.11':
+    licensed:
+      declared: CPL-1.0

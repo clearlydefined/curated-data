@@ -1,11 +1,8 @@
 coordinates:
-  name: LazyCache
+  name: Xamarin.AndroidX.Navigation.UI
   provider: nuget
   type: nuget
 revisions:
-  0.7.0.34:
-    licensed:
-      declared: MIT
-  0.7.1.44:
+  2.3.2.1:
     licensed:
       declared: MIT

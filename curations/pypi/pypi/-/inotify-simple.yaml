@@ -1,0 +1,8 @@
+coordinates:
+  name: inotify-simple
+  provider: pypi
+  type: pypi
+revisions:
+  1.3.5:
+    licensed:
+      declared: BSD-2-Clause
