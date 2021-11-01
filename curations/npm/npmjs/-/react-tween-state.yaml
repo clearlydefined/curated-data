@@ -1,0 +1,8 @@
+coordinates:
+  name: react-tween-state
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.5:
+    licensed:
+      declared: BSD-3-Clause
