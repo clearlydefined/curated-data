@@ -5,7 +5,7 @@ coordinates:
 revisions:
   '223':
     licensed:
-      declared: Python-2.0
+      declared: PSF-2.0
   '224':
     licensed:
       declared: PSF-2.0
@@ -14,7 +14,7 @@ revisions:
       declared: PSF-2.0
   '226':
     licensed:
-      declared: PSF-2.0 AND BSD-3-Clause
+      declared: PSF-2.0
   '227':
     licensed:
       declared: PSF-2.0
@@ -25,5 +25,8 @@ revisions:
     licensed:
       declared: PSF-2.0
   '301':
+    licensed:
+      declared: PSF-2.0
+  '302':
     licensed:
       declared: PSF-2.0
