@@ -1,0 +1,9 @@
+coordinates:
+  name: httpmime
+  namespace: org.apache.httpcomponents
+  provider: mavencentral
+  type: maven
+revisions:
+  4.3.3:
+    licensed:
+      declared: Apache-2.0
