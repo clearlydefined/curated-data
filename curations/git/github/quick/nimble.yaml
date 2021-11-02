@@ -1,0 +1,9 @@
+coordinates:
+  name: nimble
+  namespace: quick
+  provider: github
+  type: git
+revisions:
+  c93f16c25af5770f0d3e6af27c9634640946b068:
+    licensed:
+      declared: Apache-2.0
