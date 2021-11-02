@@ -1,0 +1,8 @@
+coordinates:
+  name: pyvis
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.9:
+    licensed:
+      declared: BSD-3-Clause
