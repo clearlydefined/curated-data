@@ -1,0 +1,9 @@
+coordinates:
+  name: moodle-mod_questionnaire
+  namespace: poetos
+  provider: github
+  type: git
+revisions:
+  a5d2b59271a5273d621c88f5221c982b22737b37:
+    licensed:
+      declared: GPL-3.0-or-later
