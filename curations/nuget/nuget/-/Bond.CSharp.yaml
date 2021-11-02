@@ -67,6 +67,9 @@ revisions:
   6.0.0:
     licensed:
       declared: MIT
+  7.0.0:
+    licensed:
+      declared: MIT
   7.0.1:
     described:
       releaseDate: '2017-10-26'
