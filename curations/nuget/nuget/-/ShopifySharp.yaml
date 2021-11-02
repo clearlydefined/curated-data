@@ -1,0 +1,8 @@
+coordinates:
+  name: ShopifySharp
+  provider: nuget
+  type: nuget
+revisions:
+  5.13.1:
+    licensed:
+      declared: MIT
