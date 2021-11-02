@@ -1,12 +1,10 @@
 name: "Check for conflicts"
 on:
-  # So that PRs touching the same files as the push are updated
   push:
-  # So that the `dirtyLabel` is removed if conflicts are resolve
-  # We recommend `pull_request_target` so that github secrets are available.
-  # In `pull_request` we wouldn't be able to change labels of fork PRs
+    branches:
+      - main
   pull_request_target:
-    types: [synchronize]
+
 
 jobs:
   main:
@@ -17,4 +15,6 @@ jobs:
         with:
           dirtyLabel: "merge conflict"
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
-          commentOnClean: "Conflicts have been resolved."
+          commentOnClean: |
+            @${{github.actor}}
+            Conflicts have been resolved. :thumbsup:
