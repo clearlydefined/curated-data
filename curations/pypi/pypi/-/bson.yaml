@@ -1,0 +1,8 @@
+coordinates:
+  name: bson
+  provider: pypi
+  type: pypi
+revisions:
+  0.5.10:
+    licensed:
+      declared: BSD-3-Clause
