@@ -5,4 +5,4 @@ coordinates:
 revisions:
   2.0.4.3:
     licensed:
-      declared: IJG
+      declared: IJG AND BSD-3-Clause AND Zlib
