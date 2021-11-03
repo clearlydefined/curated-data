@@ -6,6 +6,9 @@ revisions:
   0.0.21:
     licensed:
       declared: BSD-2-Clause
+  0.0.23:
+    licensed:
+      declared: BSD-2-Clause
   0.0.28:
     licensed:
       declared: BSD-2-Clause
