@@ -1,0 +1,8 @@
+coordinates:
+  name: ppft
+  provider: pypi
+  type: pypi
+revisions:
+  1.6.6.4:
+    licensed:
+      declared: BSD-3-Clause
