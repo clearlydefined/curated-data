@@ -1,0 +1,8 @@
+coordinates:
+  name: TypeLite
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.4:
+    licensed:
+      declared: MIT
