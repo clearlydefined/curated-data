@@ -1,0 +1,8 @@
+coordinates:
+  name: JetBrains.dotMemoryUnit
+  provider: nuget
+  type: nuget
+revisions:
+  3.1.20200127.214830:
+    licensed:
+      declared: OTHER
