@@ -1,0 +1,14 @@
+coordinates:
+  name: clap
+  provider: cratesio
+  type: crate
+revisions:
+  3.0.0-beta.5:
+    described:
+      sourceLocation:
+        name: clap
+        namespace: clap-rs
+        provider: github
+        revision: 33d86effc9b34e207268977ba45c97f80b3f1b57
+        type: git
+        url: 'https://github.com/clap-rs/clap/commit/33d86effc9b34e207268977ba45c97f80b3f1b57'
