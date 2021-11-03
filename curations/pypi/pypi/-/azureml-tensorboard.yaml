@@ -1,0 +1,8 @@
+coordinates:
+  name: azureml-tensorboard
+  provider: pypi
+  type: pypi
+revisions:
+  1.22.0:
+    licensed:
+      declared: OTHER
