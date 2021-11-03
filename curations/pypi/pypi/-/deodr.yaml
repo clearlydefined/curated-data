@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  0.1.14:
+    licensed:
+      declared: BSD-2-Clause
   0.1.19:
     described:
       releaseDate: '2021-01-04'
