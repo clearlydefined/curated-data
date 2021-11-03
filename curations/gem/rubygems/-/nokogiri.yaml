@@ -1,0 +1,8 @@
+coordinates:
+  name: nokogiri
+  provider: rubygems
+  type: gem
+revisions:
+  1.12.5:
+    licensed:
+      declared: MIT
