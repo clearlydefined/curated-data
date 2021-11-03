@@ -1,0 +1,8 @@
+coordinates:
+  name: ldjson-stream
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.1:
+    licensed:
+      declared: BSD-3-Clause
