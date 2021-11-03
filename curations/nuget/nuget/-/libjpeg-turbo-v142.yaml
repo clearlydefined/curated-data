@@ -1,0 +1,8 @@
+coordinates:
+  name: libjpeg-turbo-v142
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.4.3:
+    licensed:
+      declared: IJG AND BSD-3-Clause AND Zlib
