@@ -1,0 +1,8 @@
+coordinates:
+  name: thop
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.22:
+    licensed:
+      declared: MIT
