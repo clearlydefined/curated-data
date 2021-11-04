@@ -1,0 +1,14 @@
+coordinates:
+  name: sha3
+  provider: cratesio
+  type: crate
+revisions:
+  0.9.1:
+    described:
+      sourceLocation:
+        name: hashes
+        namespace: rustcrypto
+        provider: github
+        revision: 22f903a754ff4b846101869bc151d3879d7e77d3
+        type: git
+        url: 'https://github.com/rustcrypto/hashes/commit/22f903a754ff4b846101869bc151d3879d7e77d3'
