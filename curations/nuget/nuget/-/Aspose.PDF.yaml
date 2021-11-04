@@ -1,0 +1,8 @@
+coordinates:
+  name: Aspose.PDF
+  provider: nuget
+  type: nuget
+revisions:
+  21.10.1:
+    licensed:
+      declared: OTHER
