@@ -1,0 +1,9 @@
+coordinates:
+  name: xsdlib
+  namespace: net.java.dev.msv
+  provider: mavencentral
+  type: maven
+revisions:
+  2013.6.1:
+    licensed:
+      declared: BSD-3-Clause
