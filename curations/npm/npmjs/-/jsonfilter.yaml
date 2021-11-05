@@ -1,0 +1,8 @@
+coordinates:
+  name: jsonfilter
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.2:
+    licensed:
+      declared: BSD-3-Clause
