@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  2.4.0-b10:
+    licensed:
+      declared: CDDL-1.1 AND GPL-2.0-only WITH Classpath-exception-2.0
   2.4.0-b34:
     licensed:
       declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
