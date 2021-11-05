@@ -1,0 +1,8 @@
+coordinates:
+  name: bootstrap-dialog
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.4.1:
+    licensed:
+      declared: MIT
