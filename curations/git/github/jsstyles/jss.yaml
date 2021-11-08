@@ -1,0 +1,9 @@
+coordinates:
+  name: jss
+  namespace: jsstyles
+  provider: github
+  type: git
+revisions:
+  2ed79e0139cfc06922ef74a6e5745f219d23ee80:
+    licensed:
+      declared: MIT
