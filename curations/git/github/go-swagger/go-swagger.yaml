@@ -1,0 +1,9 @@
+coordinates:
+  name: go-swagger
+  namespace: go-swagger
+  provider: github
+  type: git
+revisions:
+  8dfd9cdaac6292e37023827f9618397f495d62f3:
+    licensed:
+      declared: Apache-2.0
