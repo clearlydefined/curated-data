@@ -1,0 +1,9 @@
+coordinates:
+  name: findbugs
+  namespace: org.glassfish.findbugs
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
