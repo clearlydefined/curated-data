@@ -1,0 +1,15 @@
+coordinates:
+  name: widgets
+  namespace: '@phosphor'
+  provider: npmjs
+  type: npm
+revisions:
+  1.5.0:
+    described:
+      sourceLocation:
+        name: phosphor
+        namespace: phosphorjs
+        provider: github
+        revision: 39d54e8a5863f4e96b80dc05404e07367af5e638
+        type: git
+        url: 'https://github.com/phosphorjs/phosphor/commit/39d54e8a5863f4e96b80dc05404e07367af5e638'
