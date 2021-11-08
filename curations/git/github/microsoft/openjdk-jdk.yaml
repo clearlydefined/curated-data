@@ -1,0 +1,9 @@
+coordinates:
+  name: openjdk-jdk
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  36b8ebf5c9da1de3e8dfe6a084f380d165ce4b36:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
