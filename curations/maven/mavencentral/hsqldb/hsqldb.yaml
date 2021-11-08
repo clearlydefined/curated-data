@@ -1,0 +1,9 @@
+coordinates:
+  name: hsqldb
+  namespace: hsqldb
+  provider: mavencentral
+  type: maven
+revisions:
+  1.8.0.10:
+    licensed:
+      declared: BSD-3-Clause
