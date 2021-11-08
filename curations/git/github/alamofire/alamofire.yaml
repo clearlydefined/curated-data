@@ -1,0 +1,9 @@
+coordinates:
+  name: alamofire
+  namespace: alamofire
+  provider: github
+  type: git
+revisions:
+  d120af1e8638c7da36c8481fd61a66c0c08dc4fc:
+    licensed:
+      declared: MIT
