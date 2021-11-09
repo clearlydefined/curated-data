@@ -1,0 +1,17 @@
+coordinates:
+  name: ngx-scanner
+  namespace: '@zxing'
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.0:
+    described:
+      sourceLocation:
+        name: ngx-scanner
+        namespace: zxing-js
+        provider: github
+        revision: a28b478530e9ed8b94b35ae0aa534b84385de5ce
+        type: git
+        url: 'https://github.com/zxing-js/ngx-scanner/commit/a28b478530e9ed8b94b35ae0aa534b84385de5ce'
+    licensed:
+      declared: MIT
