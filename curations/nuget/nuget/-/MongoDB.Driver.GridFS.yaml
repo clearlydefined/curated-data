@@ -9,6 +9,9 @@ revisions:
   2.10.0-beta1:
     licensed:
       declared: Apache-2.0
+  2.10.1:
+    licensed:
+      declared: Apache-2.0
   2.10.2:
     licensed:
       declared: Apache-2.0
@@ -42,9 +45,6 @@ revisions:
   2.11.5:
     licensed:
       declared: Apache-2.0
-  2.10.1:
-    licensed:
-      declared: Apache-2.0
   2.11.6:
     licensed:
       declared: Apache-2.0
@@ -55,6 +55,9 @@ revisions:
     licensed:
       declared: Apache-2.0
   2.12.1:
+    licensed:
+      declared: Apache-2.0
+  2.12.3:
     licensed:
       declared: Apache-2.0
   2.13.0-beta1:
