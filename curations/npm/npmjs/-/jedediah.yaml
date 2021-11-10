@@ -1,0 +1,8 @@
+coordinates:
+  name: jedediah
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.1:
+    licensed:
+      declared: BSD-3-Clause
