@@ -1,0 +1,8 @@
+coordinates:
+  name: svg-intersections
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.0:
+    licensed:
+      declared: BSD-3-Clause
