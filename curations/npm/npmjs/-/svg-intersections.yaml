@@ -1,11 +1,8 @@
 coordinates:
-  name: kld-polynomial
+  name: svg-intersections
   provider: npmjs
   type: npm
 revisions:
-  0.1.3:
-    licensed:
-      declared: BSD-3-Clause
-  0.1.1:
+  0.4.0:
     licensed:
       declared: BSD-3-Clause

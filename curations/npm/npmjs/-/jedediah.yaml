@@ -1,11 +1,8 @@
 coordinates:
-  name: kld-polynomial
+  name: jedediah
   provider: npmjs
   type: npm
 revisions:
-  0.1.3:
-    licensed:
-      declared: BSD-3-Clause
   0.1.1:
     licensed:
       declared: BSD-3-Clause
