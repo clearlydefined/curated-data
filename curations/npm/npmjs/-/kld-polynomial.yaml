@@ -1,0 +1,8 @@
+coordinates:
+  name: kld-polynomial
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.3:
+    licensed:
+      declared: BSD-3-Clause
