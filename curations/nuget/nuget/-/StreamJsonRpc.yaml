@@ -15,6 +15,9 @@ revisions:
   1.4.121:
     licensed:
       declared: MIT
+  1.4.128:
+    licensed:
+      declared: MIT
   1.4.44-beta:
     licensed:
       declared: MIT
