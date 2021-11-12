@@ -1,0 +1,9 @@
+coordinates:
+  name: protobuf-go
+  namespace: protocolbuffers
+  provider: github
+  type: git
+revisions:
+  f2d1f6cbe10b90d22296ea09a7217081c2798009:
+    licensed:
+      declared: BSD-3-Clause
