@@ -1,0 +1,9 @@
+coordinates:
+  name: lint
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  5b3e6a55c961c61f4836ae6868c17b070744c590:
+    licensed:
+      declared: BSD-3-Clause
