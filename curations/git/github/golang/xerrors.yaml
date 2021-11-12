@@ -1,0 +1,9 @@
+coordinates:
+  name: xerrors
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  5ec99f83aff198f5fbd629d6c8d8eb38a04218ca:
+    licensed:
+      declared: BSD-3-Clause
