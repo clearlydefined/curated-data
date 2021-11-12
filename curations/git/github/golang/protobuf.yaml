@@ -1,0 +1,9 @@
+coordinates:
+  name: protobuf
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  1b794fe86dd6a0c7c52ae69b5c9cb0aeedc52afa:
+    licensed:
+      declared: BSD-3-Clause
