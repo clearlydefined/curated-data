@@ -54,6 +54,9 @@ revisions:
   2021.10.8:
     licensed:
       declared: Apache-2.0
+  2021.11.10:
+    licensed:
+      declared: Apache-2.0
   2021.11.2:
     licensed:
       declared: Apache-2.0
