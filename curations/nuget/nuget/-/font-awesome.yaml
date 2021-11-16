@@ -5,4 +5,7 @@ coordinates:
 revisions:
   4.5.0:
     licensed:
-      declared:  OFL-1.1 AND MIT
+      declared: OFL-1.1 AND MIT
+  4.7.0:
+    licensed:
+      declared: OFL-1.1 AND MIT
