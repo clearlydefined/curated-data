@@ -1,0 +1,14 @@
+coordinates:
+  name: keccak
+  provider: cratesio
+  type: crate
+revisions:
+  0.1.0:
+    described:
+      sourceLocation:
+        name: sponges
+        namespace: rustcrypto
+        provider: github
+        revision: fcb42fe8d12780744f6c5bd90596ad8881816d94
+        type: git
+        url: 'https://github.com/rustcrypto/sponges/commit/fcb42fe8d12780744f6c5bd90596ad8881816d94'
