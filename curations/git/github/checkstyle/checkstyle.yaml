@@ -1,0 +1,21 @@
+coordinates:
+  name: checkstyle
+  namespace: checkstyle
+  provider: github
+  type: git
+revisions:
+  5f62e6406680bb91ef505b9a1932e398bf42532d:
+    files:
+      - attributions:
+          - copyrighted by the Free Software Foundation
+          - 'Copyright (c) 1991, 1999 Free Software Foundation, Inc.'
+        license: LGPL-2.1-or-later
+        path: LICENSE
+      - license: LGPL-2.1-or-later
+        path: config/java_regexp.header
+      - attributions:
+          - Copyright (c) 2001-2014 Oliver Burn
+        license: LGPL-2.1-or-later
+        path: src/main/resources/com/puppycrawl/tools/checkstyle/grammars/java.g
+    licensed:
+      declared: LGPL-2.1-or-later
