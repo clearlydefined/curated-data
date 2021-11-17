@@ -1,0 +1,9 @@
+coordinates:
+  name: go-msgpack
+  namespace: hashicorp
+  provider: github
+  type: git
+revisions:
+  be3a5be7ee2202386d02936a19ae4fbde1c77800:
+    licensed:
+      declared: BSD-3-Clause
