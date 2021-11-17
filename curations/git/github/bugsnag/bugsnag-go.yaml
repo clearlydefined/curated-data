@@ -1,0 +1,9 @@
+coordinates:
+  name: bugsnag-go
+  namespace: bugsnag
+  provider: github
+  type: git
+revisions:
+  b1d153021fcd90ca3f080db36bec96dc690fb274:
+    licensed:
+      declared: MIT
