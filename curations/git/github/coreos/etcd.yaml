@@ -1,0 +1,9 @@
+coordinates:
+  name: etcd
+  namespace: coreos
+  provider: github
+  type: git
+revisions:
+  98d308426819d892e149fe45f6fd542464cb1f9d:
+    licensed:
+      declared: Apache-2.0
