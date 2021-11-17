@@ -1,0 +1,9 @@
+coordinates:
+  name: xz
+  namespace: ulikunitz
+  provider: github
+  type: git
+revisions:
+  067145b4480ef600b25a0403f386ea25ffe42fd5:
+    licensed:
+      declared: BSD-3-Clause

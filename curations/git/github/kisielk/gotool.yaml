@@ -1,0 +1,9 @@
+coordinates:
+  name: gotool
+  namespace: kisielk
+  provider: github
+  type: git
+revisions:
+  80517062f582ea3340cd4baf70e86d539ae7d84d:
+    licensed:
+      declared: MIT
