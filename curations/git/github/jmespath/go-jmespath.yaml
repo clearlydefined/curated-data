@@ -1,0 +1,9 @@
+coordinates:
+  name: go-jmespath
+  namespace: jmespath
+  provider: github
+  type: git
+revisions:
+  3d4fd11601ddca248480565884e34e393313cd62:
+    licensed:
+      declared: Apache-2.0

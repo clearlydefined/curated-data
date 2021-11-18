@@ -1,0 +1,9 @@
+coordinates:
+  name: resumable
+  namespace: stevvooe
+  provider: github
+  type: git
+revisions:
+  51ad44105773cafcbe91927f70ac68e1bf78f8b4:
+    licensed:
+      declared: BSD-3-Clause

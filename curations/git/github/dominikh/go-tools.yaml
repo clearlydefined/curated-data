@@ -1,0 +1,9 @@
+coordinates:
+  name: go-tools
+  namespace: dominikh
+  provider: github
+  type: git
+revisions:
+  3c17a0d920718d58e7fdc0508f211aff0701dd6d:
+    licensed:
+      declared: MIT

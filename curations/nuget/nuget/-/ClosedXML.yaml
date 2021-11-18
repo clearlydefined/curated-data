@@ -36,3 +36,6 @@ revisions:
   0.94.2:
     licensed:
       declared: MIT
+  0.95.0-beta1:
+    licensed:
+      declared: MIT

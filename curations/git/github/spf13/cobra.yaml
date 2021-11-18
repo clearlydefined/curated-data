@@ -1,0 +1,9 @@
+coordinates:
+  name: cobra
+  namespace: spf13
+  provider: github
+  type: git
+revisions:
+  312092086bed4968099259622145a0c9ae280064:
+    licensed:
+      declared: Apache-2.0

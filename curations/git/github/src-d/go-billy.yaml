@@ -1,0 +1,9 @@
+coordinates:
+  name: go-billy
+  namespace: src-d
+  provider: github
+  type: git
+revisions:
+  780403cfc1bc95ff4d07e7b26db40a6186c5326e:
+    licensed:
+      declared: Apache-2.0

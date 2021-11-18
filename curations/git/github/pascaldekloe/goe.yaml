@@ -1,0 +1,9 @@
+coordinates:
+  name: goe
+  namespace: pascaldekloe
+  provider: github
+  type: git
+revisions:
+  57f6aae5913c64c9bcae5dbdffd33365b5a7f138:
+    licensed:
+      declared: CC0-1.0
