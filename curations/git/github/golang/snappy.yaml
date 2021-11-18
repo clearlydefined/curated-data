@@ -1,0 +1,9 @@
+coordinates:
+  name: snappy
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  674baa8c7fc30da5df3074a459494a7e6b427dff:
+    licensed:
+      declared: BSD-3-Clause
