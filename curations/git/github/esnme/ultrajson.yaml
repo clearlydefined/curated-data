@@ -1,0 +1,9 @@
+coordinates:
+  name: ultrajson
+  namespace: esnme
+  provider: github
+  type: git
+revisions:
+  0b5b6358893a4b593c2f977f67f1f7cce0dce0ec:
+    licensed:
+      declared: BSD-3-Clause
