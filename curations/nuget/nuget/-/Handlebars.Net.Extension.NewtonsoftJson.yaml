@@ -1,0 +1,8 @@
+coordinates:
+  name: Handlebars.Net.Extension.NewtonsoftJson
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.1:
+    licensed:
+      declared: MIT

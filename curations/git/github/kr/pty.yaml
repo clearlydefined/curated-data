@@ -1,0 +1,9 @@
+coordinates:
+  name: pty
+  namespace: kr
+  provider: github
+  type: git
+revisions:
+  24b51915630e1d9d3c6adf15a3a96796bbc3cd43:
+    licensed:
+      declared: MIT

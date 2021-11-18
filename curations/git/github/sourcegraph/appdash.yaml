@@ -1,0 +1,9 @@
+coordinates:
+  name: appdash
+  namespace: sourcegraph
+  provider: github
+  type: git
+revisions:
+  ebfcffb1b5c00031ce797183546746715a3cfe87:
+    licensed:
+      declared: MIT
