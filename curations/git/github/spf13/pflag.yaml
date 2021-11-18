@@ -1,0 +1,9 @@
+coordinates:
+  name: pflag
+  namespace: spf13
+  provider: github
+  type: git
+revisions:
+  5644820622454e71517561946e3d94b9f9db6842:
+    licensed:
+      declared: BSD-3-Clause

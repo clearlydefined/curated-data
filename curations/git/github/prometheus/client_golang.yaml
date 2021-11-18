@@ -1,0 +1,9 @@
+coordinates:
+  name: client_golang
+  namespace: prometheus
+  provider: github
+  type: git
+revisions:
+  c317fb74746eac4fc65fe3909195f4cf67c5562a:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: iochan
+  namespace: mitchellh
+  provider: github
+  type: git
+revisions:
+  b6e3aadd28864e14dae41ff5c7261455b1242d24:
+    licensed:
+      declared: MIT
