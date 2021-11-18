@@ -1,0 +1,9 @@
+coordinates:
+  name: gods
+  namespace: emirpasic
+  provider: github
+  type: git
+revisions:
+  1615341f118ae12f353cc8a983f35b584342c9b3:
+    licensed:
+      declared: BSD-2-Clause
