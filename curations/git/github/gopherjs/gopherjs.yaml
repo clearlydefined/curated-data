@@ -1,0 +1,9 @@
+coordinates:
+  name: gopherjs
+  namespace: gopherjs
+  provider: github
+  type: git
+revisions:
+  0766667cb4d1cfb8d5fde1fe210ae41ead3cf589:
+    licensed:
+      declared: BSD-2-Clause

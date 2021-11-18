@@ -1,0 +1,9 @@
+coordinates:
+  name: go.net
+  namespace: hashicorp
+  provider: github
+  type: git
+revisions:
+  afc3cb3a421746fc66dd55b09a270c750cf536ce:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
