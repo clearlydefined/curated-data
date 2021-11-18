@@ -1,0 +1,9 @@
+coordinates:
+  name: goconvey
+  namespace: smartystreets
+  provider: github
+  type: git
+revisions:
+  505e419363375c0dc132d3ac02632a4ee32199ca:
+    licensed:
+      declared: MIT

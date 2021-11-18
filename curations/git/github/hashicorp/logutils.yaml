@@ -1,0 +1,9 @@
+coordinates:
+  name: logutils
+  namespace: hashicorp
+  provider: github
+  type: git
+revisions:
+  a335183dfd075f638afcc820c90591ca3c97eba6:
+    licensed:
+      declared: MPL-2.0
