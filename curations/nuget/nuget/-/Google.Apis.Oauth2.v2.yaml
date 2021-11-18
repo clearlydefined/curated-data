@@ -9,3 +9,6 @@ revisions:
   1.52.0.1869:
     licensed:
       declared: Apache-2.0
+  1.55.0.1869:
+    licensed:
+      declared: Apache-2.0

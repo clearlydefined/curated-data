@@ -1,0 +1,9 @@
+coordinates:
+  name: go-zookeeper
+  namespace: samuel
+  provider: github
+  type: git
+revisions:
+  2cc03de413da42869e2db7ce7965d3e978d917eb:
+    licensed:
+      declared: BSD-3-Clause
