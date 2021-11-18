@@ -1,9 +1,12 @@
 coordinates:
-  type: git
   name: assertions
   namespace: smartystreets
   provider: github
+  type: git
 revisions:
   b2de0cb4f26d0705483a2f495d89896d0b808573:
+    licensed:
+      declared: MIT
+  d380eccd517d419eb73a0a90cc3ffc405f1e029e:
     licensed:
       declared: MIT

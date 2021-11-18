@@ -1,0 +1,9 @@
+coordinates:
+  name: pkg
+  namespace: coreos
+  provider: github
+  type: git
+revisions:
+  399ea9e2e55f791b6e3d920860dbecb99c3692f0:
+    licensed:
+      declared: Apache-2.0
