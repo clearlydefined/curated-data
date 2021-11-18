@@ -1,0 +1,9 @@
+coordinates:
+  name: hector
+  namespace: hector-client
+  provider: github
+  type: git
+revisions:
+  6c75206381f8b4987fecfc37f4aa944730c9495a:
+    licensed:
+      declared: MIT
