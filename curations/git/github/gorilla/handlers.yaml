@@ -1,0 +1,9 @@
+coordinates:
+  name: handlers
+  namespace: gorilla
+  provider: github
+  type: git
+revisions:
+  60c7bfde3e33c201519a200a4507a158cc03a17b:
+    licensed:
+      declared: BSD-2-Clause

@@ -1,0 +1,9 @@
+coordinates:
+  name: go-semver
+  namespace: coreos
+  provider: github
+  type: git
+revisions:
+  e214231b295a8ea9479f11b70b35d5acf3556d9b:
+    licensed:
+      declared: Apache-2.0

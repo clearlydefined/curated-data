@@ -1,0 +1,9 @@
+coordinates:
+  name: amqp
+  namespace: streadway
+  provider: github
+  type: git
+revisions:
+  edfb9018d2714e4ec54dbaba37dbfef2bdadf0e4:
+    licensed:
+      declared: BSD-2-Clause

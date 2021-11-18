@@ -1,0 +1,9 @@
+coordinates:
+  name: go-git
+  namespace: src-d
+  provider: github
+  type: git
+revisions:
+  0d1a009cbb604db18be960db5f1525b99a55d727:
+    licensed:
+      declared: Apache-2.0
