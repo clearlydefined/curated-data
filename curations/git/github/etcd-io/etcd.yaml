@@ -1,9 +1,12 @@
 coordinates:
-  type: git
   name: etcd
   namespace: etcd-io
   provider: github
+  type: git
 revisions:
+  3cf2f69b5738fb702ba1a935590f36b52b18979b:
+    licensed:
+      declared: Apache-2.0
   dd1b699fc4895de8cc23c3cac5a428c37eee384a:
     licensed:
       declared: Apache-2.0

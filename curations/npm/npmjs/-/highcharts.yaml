@@ -195,3 +195,6 @@ revisions:
   9.2.2:
     licensed:
       declared: OTHER
+  9.3.1:
+    licensed:
+      declared: OTHER
