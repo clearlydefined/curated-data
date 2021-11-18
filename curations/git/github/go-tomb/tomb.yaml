@@ -1,0 +1,9 @@
+coordinates:
+  name: tomb
+  namespace: go-tomb
+  provider: github
+  type: git
+revisions:
+  dd632973f1e7218eb1089048e0798ec9ae7dceb8:
+    licensed:
+      declared: BSD-3-Clause
