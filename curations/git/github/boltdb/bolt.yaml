@@ -1,0 +1,9 @@
+coordinates:
+  name: bolt
+  namespace: boltdb
+  provider: github
+  type: git
+revisions:
+  2f1ce7a837dcb8da3ec595b1dac9d0632f0f99e8:
+    licensed:
+      declared: MIT

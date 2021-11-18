@@ -1,0 +1,9 @@
+coordinates:
+  name: jsr-275
+  namespace: javax.measure
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0:
+    licensed:
+      declared: BSD-2-Clause
