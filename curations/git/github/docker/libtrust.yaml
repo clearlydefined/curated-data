@@ -1,0 +1,9 @@
+coordinates:
+  name: libtrust
+  namespace: docker
+  provider: github
+  type: git
+revisions:
+  fa567046d9b14f6aa788882a950d69651d230b21:
+    licensed:
+      declared: Apache-2.0
