@@ -8,11 +8,8 @@ revisions:
     licensed:
       declared: BSD-3-Clause AND OTHER
   0ba52f642ac2f9371a88bfdde41f4b4e195a37c0:
-    files:
-      - license: OTHER
-        path: PATENTS
     licensed:
-      declared: BSD-3-Clause AND NOASSERTION
+      declared: BSD-3-Clause AND OTHER
   1e06a53dbb7e2ed46e91183f219db23c6943c532:
     licensed:
       declared: BSD-3-Clause AND OTHER
