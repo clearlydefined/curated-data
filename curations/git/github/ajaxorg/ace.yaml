@@ -1,0 +1,9 @@
+coordinates:
+  name: ace
+  namespace: ajaxorg
+  provider: github
+  type: git
+revisions:
+  0b7504dae1efe06e058c7fba777e3485cd9294ec:
+    licensed:
+      declared: BSD-3-Clause
