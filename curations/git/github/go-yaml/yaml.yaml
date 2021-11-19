@@ -30,7 +30,7 @@ revisions:
       declared: Apache-2.0
   bef53efd0c76e49e6de55ead051f886bea7e9420:
     licensed:
-      declared: GPL-3.0-only
+      declared: LGPL-3.0-only WITH LGPL-3.0-linking-exception
   eb3733d160e74a9c7e442f435eb3bea458e1d19f:
     licensed:
       declared: Apache-2.0
