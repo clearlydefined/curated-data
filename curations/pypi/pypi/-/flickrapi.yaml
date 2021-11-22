@@ -1,0 +1,8 @@
+coordinates:
+  name: flickrapi
+  provider: pypi
+  type: pypi
+revisions:
+  2.4.0:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,12 @@
+coordinates:
+  name: mod
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  d6ab96f2441f9631f81862375ef66782fc4a9c12:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  c90efee705eefc6efa975842f5e85f455b0b4639:
+    licensed:
+      declared: BSD-3-Clause AND OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: go-digest
+  namespace: opencontainers
+  provider: github
+  type: git
+revisions:
+  a6d0ee40d4207ea02364bd3b9e8e77b9159ba1eb:
+    licensed:
+      declared: Apache-2.0 AND CC-BY-SA-4.0
