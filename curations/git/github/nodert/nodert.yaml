@@ -1,0 +1,9 @@
+coordinates:
+  name: nodert
+  namespace: nodert
+  provider: github
+  type: git
+revisions:
+  fc5008e9a3d0dd7709a3a468d5eca3e3229d8061:
+    licensed:
+      declared: Apache-2.0

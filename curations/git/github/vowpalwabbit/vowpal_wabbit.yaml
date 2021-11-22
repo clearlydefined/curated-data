@@ -9,7 +9,10 @@ revisions:
       declared: BSD-3-Clause
   cb914a038fdb238bc577257b3328c63e02ca74aa:
     licensed:
-      declared: MS-PL
+      declared: BSD-3-Clause
+  e63abfb6d76d8df9060ecd932dbb3d81216fe338:
+    licensed:
+      declared: BSD-3-Clause
   fdc14769939a81ca393575b477df72fbb6681912:
     licensed:
       declared: BSD-3-Clause
