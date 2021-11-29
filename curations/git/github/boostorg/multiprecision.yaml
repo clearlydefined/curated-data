@@ -1,0 +1,9 @@
+coordinates:
+  name: multiprecision
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  b16bcf5f13983656e6bdaddcdf439c366e74691d:
+    licensed:
+      declared: BSL-1.0
