@@ -14,7 +14,7 @@ revisions:
       declared: OTHER
   6.2.13:
     licensed:
-      declared: NONE
+      declared: OTHER
   6.2.3:
     licensed:
       declared: MIT
