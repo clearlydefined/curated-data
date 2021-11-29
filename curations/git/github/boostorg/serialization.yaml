@@ -1,0 +1,9 @@
+coordinates:
+  name: serialization
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  07de314975ce7beb15e618b2021ecbf54ce2c299:
+    licensed:
+      declared: BSL-1.0
