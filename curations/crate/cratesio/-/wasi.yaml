@@ -9,6 +9,6 @@ revisions:
         name: wasi
         namespace: bytecodealliance
         provider: github
-        revision: 23d4d4acaf10254003a75442993092ade04e6293
+        revision: 45536ac956a6211e3cff047f36cf19d6da82fd95
         type: git
-        url: 'https://github.com/bytecodealliance/wasi/commit/23d4d4acaf10254003a75442993092ade04e6293'
+        url: 'https://github.com/bytecodealliance/wasi/commit/45536ac956a6211e3cff047f36cf19d6da82fd95'
