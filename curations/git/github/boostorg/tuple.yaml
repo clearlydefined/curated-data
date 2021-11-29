@@ -1,0 +1,9 @@
+coordinates:
+  name: tuple
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  a4dff52f676679d07a7ed74621fd4c0a371c0e21:
+    licensed:
+      declared: BSL-1.0
