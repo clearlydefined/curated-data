@@ -1,0 +1,9 @@
+coordinates:
+  name: bimap
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  a4317e5c82589d5635a27c2fea02003eeabd072c:
+    licensed:
+      declared: BSL-1.0
