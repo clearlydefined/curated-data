@@ -1,0 +1,9 @@
+coordinates:
+  name: multi_array
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  3b405720559ff9acc968e1a40102ca6245a64e6c:
+    licensed:
+      declared: BSL-1.0
