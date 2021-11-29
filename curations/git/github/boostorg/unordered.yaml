@@ -1,0 +1,9 @@
+coordinates:
+  name: unordered
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  0960f885d51f56bda07a55b146ff75b6f336336a:
+    licensed:
+      declared: BSL-1.0
