@@ -1,0 +1,9 @@
+coordinates:
+  name: units
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  ef96ba8a2e15438243ff4fd46c2b9c33183f3c0d:
+    licensed:
+      declared: BSL-1.0
