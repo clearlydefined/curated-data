@@ -1,0 +1,9 @@
+coordinates:
+  name: container
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  8a2444201ac4856e77b46220cb91beb8e8b3c34d:
+    licensed:
+      declared: BSL-1.0
