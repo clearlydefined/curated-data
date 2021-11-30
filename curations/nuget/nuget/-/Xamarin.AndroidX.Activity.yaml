@@ -39,15 +39,18 @@ revisions:
   1.2.0:
     licensed:
       declared: MIT
-  1.2.1:
-    licensed:
-      declared: MIT
   1.2.0-alpha05:
     licensed:
       declared: MIT
   1.2.0.1:
     licensed:
       declared: MIT
+  1.2.1:
+    licensed:
+      declared: MIT
   1.2.2:
+    licensed:
+      declared: MIT
+  1.2.4.1:
     licensed:
       declared: MIT
