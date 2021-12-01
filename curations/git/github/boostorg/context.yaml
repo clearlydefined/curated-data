@@ -1,0 +1,9 @@
+coordinates:
+  name: context
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  ca52f2da4908fbee36c5e0b00f800793f6b52b50:
+    licensed:
+      declared: BSL-1.0

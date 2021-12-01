@@ -1,0 +1,9 @@
+coordinates:
+  name: move
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  4a60a8eb0660ac83fdb4886c1eb60dc6e6a4b2ca:
+    licensed:
+      declared: BSL-1.0

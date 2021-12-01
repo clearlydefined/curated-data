@@ -114,6 +114,9 @@ revisions:
   1.1.8:
     licensed:
       declared: MIT
+  1.1.9:
+    licensed:
+      declared: MIT
   1.2.0-alpha0024:
     licensed:
       declared: MIT

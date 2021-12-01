@@ -1,0 +1,9 @@
+coordinates:
+  name: istack-commons-tools
+  namespace: com.sun.istack
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.8:
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,9 @@
+coordinates:
+  name: math
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  a0a97b768afd4188c2985081fab937c0b655df4a:
+    licensed:
+      declared: BSL-1.0

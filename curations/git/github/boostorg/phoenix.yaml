@@ -1,0 +1,9 @@
+coordinates:
+  name: phoenix
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  f9233b64170e9d5ac185e176bf382710d816a3ca:
+    licensed:
+      declared: BSL-1.0

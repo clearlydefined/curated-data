@@ -1,0 +1,9 @@
+coordinates:
+  name: ublas
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  f0e55caf310d5e01c7e9f2190b2422e113ddeedb:
+    licensed:
+      declared: BSL-1.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: random
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  0251684151cf6017b34cbfa2a0c3c76b60922fe3:
+    licensed:
+      declared: BSL-1.0

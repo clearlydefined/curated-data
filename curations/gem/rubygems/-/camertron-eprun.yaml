@@ -1,0 +1,8 @@
+coordinates:
+  name: camertron-eprun
+  provider: rubygems
+  type: gem
+revisions:
+  1.1.1:
+    licensed:
+      declared: Ruby OR BSD-2-Clause
