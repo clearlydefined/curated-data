@@ -1,0 +1,9 @@
+coordinates:
+  name: ratio
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  96888514780dbe8d1729a8248fbafdeda79bcdc4:
+    licensed:
+      declared: BSL-1.0

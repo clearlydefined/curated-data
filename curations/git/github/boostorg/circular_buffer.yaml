@@ -1,0 +1,9 @@
+coordinates:
+  name: circular_buffer
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  59640fa9dc760fd6aecb346e72b77d2c4fff0eb1:
+    licensed:
+      declared: BSL-1.0
