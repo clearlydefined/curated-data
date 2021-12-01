@@ -1,0 +1,9 @@
+coordinates:
+  name: slf4j-test
+  namespace: uk.org.lidalia
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.0:
+    licensed:
+      declared: MIT

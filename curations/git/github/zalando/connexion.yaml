@@ -1,0 +1,16 @@
+coordinates:
+  name: connexion
+  namespace: zalando
+  provider: github
+  type: git
+revisions:
+  f846126d42fb97d1526da0cc62e6e7a2d716840c:
+    files:
+      - license: NONE
+        path: examples/enforcedefaults/README.rst
+      - license: MIT
+        path: connexion/vendor/swagger-ui/lib/jquery-1.8.0.min.js
+      - license: BSD-3-Clause
+        path: connexion/vendor/swagger-ui/lib/highlight.9.1.0.pack.js
+      - license: MIT
+        path: connexion/vendor/swagger-ui/lib/lodash.min.js
