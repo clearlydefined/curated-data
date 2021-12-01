@@ -1,0 +1,9 @@
+coordinates:
+  name: antlr4
+  namespace: antlr
+  provider: github
+  type: git
+revisions:
+  621b933c7a7f01c67ae9de15103151fa0f9d6d90:
+    licensed:
+      declared: BSD-3-Clause

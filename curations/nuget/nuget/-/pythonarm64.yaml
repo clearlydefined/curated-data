@@ -1,11 +1,8 @@
 coordinates:
-  name: System.Data.SQLite
+  name: pythonarm64
   provider: nuget
   type: nuget
 revisions:
-  1.0.102:
-    licensed:
-      declared: OTHER
-  1.0.112:
+  3.11.0-a2:
     licensed:
       declared: OTHER
