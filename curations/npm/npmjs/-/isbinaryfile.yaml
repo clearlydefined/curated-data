@@ -1,0 +1,8 @@
+coordinates:
+  name: isbinaryfile
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.9:
+    licensed:
+      declared: MIT

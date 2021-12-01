@@ -1,0 +1,9 @@
+coordinates:
+  name: foreach
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  ba7b0ba950d6dbcfa52645ba41defe8cd6b44ccf:
+    licensed:
+      declared: BSL-1.0

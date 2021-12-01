@@ -1,0 +1,8 @@
+coordinates:
+  name: LimitsMiddleware.AspNetCore
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.0-alpha:
+    licensed:
+      declared: MIT

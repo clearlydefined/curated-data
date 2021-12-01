@@ -1,0 +1,8 @@
+coordinates:
+  name: runtime.osx.10.11-x64.native.Microsoft.SqlToolsService
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0-release.157:
+    licensed:
+      declared: OTHER

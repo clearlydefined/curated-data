@@ -12,6 +12,9 @@ revisions:
   1.13.8:
     licensed:
       declared: BSD-2-Clause
+  1.16.4:
+    licensed:
+      declared: BSD-2-Clause
   1.5.1:
     licensed:
       declared: BSD-2-Clause

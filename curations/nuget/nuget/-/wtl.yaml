@@ -6,3 +6,6 @@ revisions:
   10.0.10320:
     licensed:
       declared: MS-PL
+  9.1.0:
+    licensed:
+      declared: CPL-1.0

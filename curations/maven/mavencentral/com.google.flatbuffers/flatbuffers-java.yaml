@@ -10,3 +10,6 @@ revisions:
   1.9.0:
     licensed:
       declared: Apache-2.0
+  2.0.0:
+    licensed:
+      declared: Apache-2.0

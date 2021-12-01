@@ -1,0 +1,9 @@
+coordinates:
+  name: junit-interface
+  namespace: com.novocode
+  provider: mavencentral
+  type: maven
+revisions:
+  '0.11':
+    licensed:
+      declared: BSD-2-Clause

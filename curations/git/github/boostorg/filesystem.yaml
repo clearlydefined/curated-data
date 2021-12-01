@@ -1,0 +1,9 @@
+coordinates:
+  name: filesystem
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  9cab675b71e98706886a87afe7c19eb9da568961:
+    licensed:
+      declared: BSL-1.0
