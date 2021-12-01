@@ -1,0 +1,10 @@
+coordinates:
+  name: angular-translate
+  namespace: angular-translate
+  provider: github
+  type: git
+revisions:
+  fdb55bda5551223760a881d92afa2d6a38f35200:
+    files:
+      - license: NONE
+        path: src/service/sanitization.js
