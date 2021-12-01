@@ -33,7 +33,7 @@ revisions:
       - license: OTHER
         path: PATENTS
     licensed:
-      declared: BSD-3-Clause AND NOASSERTION
+      declared: BSD-3-Clause AND OTHER
   c89045814202410a2d67ec20ecf177ec77ceae7f:
     licensed:
       declared: BSD-3-Clause AND OTHER
