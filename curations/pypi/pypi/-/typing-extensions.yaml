@@ -30,3 +30,6 @@ revisions:
   3.7.4.3:
     licensed:
       declared: OTHER
+  4.0.0:
+    licensed:
+      declared: OTHER
