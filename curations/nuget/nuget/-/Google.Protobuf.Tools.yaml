@@ -77,7 +77,7 @@ revisions:
       declared: BSD-3-Clause
   3.9.0:
     licensed:
-      declared: OTHER
+      declared: BSD-3-Clause
   3.9.1:
     licensed:
       declared: BSD-3-Clause
