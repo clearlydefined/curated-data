@@ -5,7 +5,7 @@ coordinates:
 revisions:
   3.8.1128:
     licensed:
-      declared: MIT
+      declared: MS-RL
   3.9.1208:
     licensed:
       declared: MS-RL
