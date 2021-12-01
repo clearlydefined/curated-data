@@ -1,0 +1,9 @@
+coordinates:
+  name: pagehelper-spring-boot-starter
+  namespace: com.github.pagehelper
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.0:
+    licensed:
+      declared: MIT
