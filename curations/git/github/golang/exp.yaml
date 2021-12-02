@@ -1,0 +1,12 @@
+coordinates:
+  name: exp
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  509febef88a4b4fad613c9cc84ac7e982f22e774:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  e8c3332aa8e5b8e6acb4707c3a7e5979052b20aa:
+    licensed:
+      declared: BSD-3-Clause AND OTHER

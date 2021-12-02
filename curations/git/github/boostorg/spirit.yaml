@@ -1,0 +1,9 @@
+coordinates:
+  name: spirit
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  e0625d190bef75ce9be96b1963f153c3c9e65ada:
+    licensed:
+      declared: BSL-1.0

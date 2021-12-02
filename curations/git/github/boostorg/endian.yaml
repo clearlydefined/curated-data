@@ -1,0 +1,9 @@
+coordinates:
+  name: endian
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  9420226cbc45aeeda31f3569cdd2f6981cbb4d4d:
+    licensed:
+      declared: BSL-1.0

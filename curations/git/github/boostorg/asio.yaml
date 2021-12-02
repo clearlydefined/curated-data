@@ -1,0 +1,9 @@
+coordinates:
+  name: asio
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  8dee85c35afa493ca35a006bc54442d4661dc064:
+    licensed:
+      declared: BSL-1.0

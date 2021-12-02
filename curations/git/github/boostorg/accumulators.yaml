@@ -1,0 +1,9 @@
+coordinates:
+  name: accumulators
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  b12a189fefd17ff3a6a68fc24b4135f0e0c498f6:
+    licensed:
+      declared: BSL-1.0

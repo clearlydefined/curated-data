@@ -1,0 +1,9 @@
+coordinates:
+  name: intrusive
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  cb3752dbb1f2e95d28adc541a0e2f4ae72e196a5:
+    licensed:
+      declared: BSL-1.0
