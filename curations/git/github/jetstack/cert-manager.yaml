@@ -21,7 +21,7 @@ revisions:
       - attributions:
           - Copyright (c) 2015 Canonical Ltd.
           - 'Copyright (c) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
-        license: LGPL-3.0
+        license: LGPL-3.0-only WITH LGPL-3.0-linking-exception
         path: vendor/github.com/juju/ratelimit/LICENSE
       - license: OTHER
         path: vendor/golang.org/x/crypto/PATENTS
