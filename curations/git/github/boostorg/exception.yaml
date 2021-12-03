@@ -1,0 +1,9 @@
+coordinates:
+  name: exception
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  9bd0584aa9d97adea2d9ed00738c05c8a1b14eba:
+    licensed:
+      declared: BSL-1.0

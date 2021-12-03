@@ -1,0 +1,14 @@
+coordinates:
+  name: wasi
+  provider: cratesio
+  type: crate
+revisions:
+  0.10.0+wasi-snapshot-preview1:
+    described:
+      sourceLocation:
+        name: wasi
+        namespace: bytecodealliance
+        provider: github
+        revision: 45536ac956a6211e3cff047f36cf19d6da82fd95
+        type: git
+        url: 'https://github.com/bytecodealliance/wasi/commit/45536ac956a6211e3cff047f36cf19d6da82fd95'

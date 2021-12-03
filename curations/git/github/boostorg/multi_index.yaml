@@ -1,0 +1,9 @@
+coordinates:
+  name: multi_index
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  1dcb5fe1370d7f76d4f3fe844533fc6fee30452a:
+    licensed:
+      declared: BSL-1.0

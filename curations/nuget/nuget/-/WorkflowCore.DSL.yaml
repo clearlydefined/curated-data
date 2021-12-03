@@ -1,0 +1,8 @@
+coordinates:
+  name: WorkflowCore.DSL
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.1:
+    licensed:
+      declared: MIT

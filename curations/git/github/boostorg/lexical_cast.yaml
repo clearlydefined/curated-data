@@ -1,0 +1,9 @@
+coordinates:
+  name: lexical_cast
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  9fdbf5ce67d9a9302cf16de4760d99090da97f44:
+    licensed:
+      declared: BSL-1.0

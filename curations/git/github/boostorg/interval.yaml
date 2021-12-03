@@ -1,0 +1,9 @@
+coordinates:
+  name: interval
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  ed01cdab6d89579e56ed5b831ed339fe98deba98:
+    licensed:
+      declared: BSL-1.0

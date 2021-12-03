@@ -1,0 +1,9 @@
+coordinates:
+  name: graph
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  0c9dbd7808ef92dd14111b8a604ffd9860b42b51:
+    licensed:
+      declared: BSL-1.0

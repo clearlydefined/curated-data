@@ -1,0 +1,9 @@
+coordinates:
+  name: gofail
+  namespace: etcd-io
+  provider: github
+  type: git
+revisions:
+  ad7f989257ca7de90de65657c9748a3108b1460f:
+    licensed:
+      declared: Apache-2.0

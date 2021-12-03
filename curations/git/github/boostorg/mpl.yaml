@@ -1,0 +1,9 @@
+coordinates:
+  name: mpl
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  cc883aa12a61dd0e53b10657eb41a47374726c3c:
+    licensed:
+      declared: BSL-1.0
