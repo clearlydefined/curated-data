@@ -1,0 +1,9 @@
+coordinates:
+  name: coil
+  namespace: io.coil-kt
+  provider: mavencentral
+  type: maven
+revisions:
+  0.8.0:
+    licensed:
+      declared: Apache-2.0
