@@ -23,7 +23,7 @@ revisions:
       declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.210:
     licensed:
-      declared: GPL-2.0-with-GCC-exception
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.217:
     licensed:
       declared: GPL-2.0-only WITH GCC-exception-2.0
