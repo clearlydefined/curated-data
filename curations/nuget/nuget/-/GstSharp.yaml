@@ -1,0 +1,8 @@
+coordinates:
+  name: GstSharp
+  provider: nuget
+  type: nuget
+revisions:
+  1.16.0:
+    licensed:
+      declared: LGPL-2.1-only

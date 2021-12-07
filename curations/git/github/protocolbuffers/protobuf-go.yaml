@@ -1,0 +1,42 @@
+coordinates:
+  name: protobuf-go
+  namespace: protocolbuffers
+  provider: github
+  type: git
+revisions:
+  1c57cacb0336ff4ba2035968a176d0a310be8e09:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  3b9eee12916ce611400f93d6c2fed2fc2911b0ad:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  3f7a61f89bb6813f89d981d1870ed68da0b3c3f1:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  4d8936d0db64b6e6de56ba714c942542cca031fb:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  81db48ad09ccc6ee1fcae434baa4bb1b7a7a7a72:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  8b0d71ac935315b10385aaaf30175de0c74bbba6:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  ab0ca4ff8a60eb84ec53793ee6cfb4e7c0c67d17:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  b92717ecb630d4a4824b372bf98c729d87311a4d:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  d165be301fb1e13390ad453281ded24385fd8ebc:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  e05f789c09678a21d72233703c0027e1958343e7:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  ec00e32a8dfdf9c92bb2f5946450a42874aa9244:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  f2d1f6cbe10b90d22296ea09a7217081c2798009:
+    licensed:
+      declared: BSD-3-Clause AND OTHER

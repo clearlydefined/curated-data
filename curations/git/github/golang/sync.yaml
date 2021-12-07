@@ -1,0 +1,21 @@
+coordinates:
+  name: sync
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  036812b2e83c0ddf193dd5a34e034151da389d09:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  112230192c580c3556b8cee6403af37a4fc5f28c:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  1d60e4601c6fd243af51cc01ddf169918a5407ca:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  37e7f081c4d4c64e13b10787722085407fe5d15f:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  42b317875d0fa942474b76e1b46a6060d720ae6e:
+    licensed:
+      declared: BSD-3-Clause AND OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: odeint
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  db8f91a51da630957d6bfa1ff87be760b0be97a6:
+    licensed:
+      declared: BSL-1.0

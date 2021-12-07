@@ -1,9 +1,15 @@
 coordinates:
-  type: git
   name: go-systemd
   namespace: coreos
   provider: github
+  type: git
 revisions:
+  777e73a89cef78631ccaa97f53a9bae67e166186:
+    licensed:
+      declared: Apache-2.0
+  95778dfbb74eb7e4dbaf43bf7d71809650ef8076:
+    licensed:
+      declared: Apache-2.0
   fd7a80b32e1fc73e890fde45604ed5009dc817a3:
     licensed:
       declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: xom
+  namespace: xom
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: LGPL-2.1-only

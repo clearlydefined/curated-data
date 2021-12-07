@@ -1,0 +1,8 @@
+coordinates:
+  name: lcov-parse
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.4:
+    licensed:
+      declared: BSD-3-Clause

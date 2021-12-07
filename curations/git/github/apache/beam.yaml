@@ -1,0 +1,9 @@
+coordinates:
+  name: beam
+  namespace: apache
+  provider: github
+  type: git
+revisions:
+  c026c9fa00239a6f3650a6fa69f3aa864f692afe:
+    licensed:
+      declared: Apache-2.0

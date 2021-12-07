@@ -4,6 +4,21 @@ coordinates:
   provider: github
   type: git
 revisions:
+  11955173bddd0ab0afcd688e6dc9c1b7c28fb546:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  13cf844527f48de3074270bb538dff67117a6655:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  298f0cb1881e71e68bc5bc17757fabe78a426460:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  2c0ae70061356820330c96810d9483beb9a6da8e:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  2f3ba24bd6e75104fb11be4edf062de340ffd1ab:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
   545788942d5f7c9be8d1347fb6e38e5a3e33e214:
     licensed:
       declared: BSD-3-Clause AND OTHER
@@ -16,16 +31,28 @@ revisions:
   6cd1fcedba52a3e8045a1c96970cec308e4a632c:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  90fa682c2a6e6a37b3a1364ce2fe1d5e41af9d6d:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
   938dd670d280c9d37a6b1b2241a4b8b3e4061aa0:
     licensed:
       declared: BSD-3-Clause AND OTHER
   b0650ceb63d94ec56d3a00dbdd5e37d944dbeabf:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  bf090417da8b6150dcfe96795325f5aa78fff718:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
   c8f393745106186a7426391f8abfe8ef8d82e221:
     licensed:
       declared: BSD-3-Clause AND OTHER
   d58e364bc7f2d287ef7c17fd8d25e1746667b733:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  ef97713d99aa4e69742aa68fd45a63247b5d3ea0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  f727befe758c04ce68d52abc6e69ad111e2c6797:
     licensed:
       declared: BSD-3-Clause AND OTHER
   fd2d2c45eb2dff7b87eab4303a1016b4dbf95e81:

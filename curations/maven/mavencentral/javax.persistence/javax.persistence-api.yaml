@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.persistence-api
+  namespace: javax.persistence
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.2':
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause

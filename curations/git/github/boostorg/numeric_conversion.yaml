@@ -1,0 +1,9 @@
+coordinates:
+  name: numeric_conversion
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  07d5e56494deffd25ac0e46fabc645b3b2a01873:
+    licensed:
+      declared: BSL-1.0

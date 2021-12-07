@@ -1,0 +1,9 @@
+coordinates:
+  name: align
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  2dc98d3e164066325cc97cf038155a8707053740:
+    licensed:
+      declared: BSL-1.0

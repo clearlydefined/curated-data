@@ -1,0 +1,32 @@
+coordinates:
+  name: etcd
+  namespace: coreos
+  provider: github
+  type: git
+revisions:
+  0f4a535c2fb7a2920e13e2e19b9eaf6b2e9285e5:
+    files:
+      - attributions:
+          - 'Copyright (c) 2004, 2006 The Linux Foundation and its contributors.'
+        license: NONE
+        path: DCO
+      - license: OTHER
+        path: cmd/vendor/golang.org/x/crypto/PATENTS
+      - license: OTHER
+        path: cmd/vendor/golang.org/x/net/PATENTS
+      - license: OTHER
+        path: cmd/vendor/golang.org/x/sys/PATENTS
+      - license: OTHER
+        path: cmd/vendor/golang.org/x/time/PATENTS
+      - license: OTHER
+        path: cmd/vendor/google.golang.org/grpc/PATENTS
+      - attributions:
+          - Copyright (c) 2011-2014 - Canonical Inc.
+          - 'Copyright (c) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
+        license: LGPL-3.0-only WITH LGPL-3.0-linking-exception
+        path: cmd/vendor/gopkg.in/yaml.v2/LICENSE
+    licensed:
+      declared: Apache-2.0
+  98d308426819d892e149fe45f6fd542464cb1f9d:
+    licensed:
+      declared: Apache-2.0

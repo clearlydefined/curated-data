@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-react-gantt
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.0:
+    licensed:
+      declared: OTHER
