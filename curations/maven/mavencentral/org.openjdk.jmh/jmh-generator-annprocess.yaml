@@ -18,4 +18,4 @@ revisions:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
   '1.33':
     licensed:
-      declared: GPL-2.0-only
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
