@@ -10,9 +10,12 @@ revisions:
   24.1.0:
     licensed:
       declared: OTHER
-  26.1.0:
+  25.0.1:
     licensed:
       declared: OTHER
-  25.0.1:
+  26.0.0:
+    licensed:
+      declared: OTHER
+  26.1.0:
     licensed:
       declared: OTHER
