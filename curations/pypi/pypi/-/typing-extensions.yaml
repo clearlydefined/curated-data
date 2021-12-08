@@ -33,3 +33,6 @@ revisions:
   4.0.0:
     licensed:
       declared: OTHER
+  4.0.1:
+    licensed:
+      declared: CNRI-Python
