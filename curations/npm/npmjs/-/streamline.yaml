@@ -1,0 +1,8 @@
+coordinates:
+  name: streamline
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.11:
+    licensed:
+      declared: MIT
