@@ -1,0 +1,9 @@
+coordinates:
+  name: cpuid
+  namespace: klauspost
+  provider: github
+  type: git
+revisions:
+  6903d4066801a7d800d4537ee9eebe81ea97000e:
+    licensed:
+      declared: MIT

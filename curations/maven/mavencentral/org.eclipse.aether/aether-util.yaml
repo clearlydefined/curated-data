@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  0.9.0.M2:
+    licensed:
+      declared: EPL-1.0
   1.0.2.v20150114:
     licensed:
       declared: EPL-1.0

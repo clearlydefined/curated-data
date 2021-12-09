@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-cast
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.1.2:
+    licensed:
+      declared: OTHER

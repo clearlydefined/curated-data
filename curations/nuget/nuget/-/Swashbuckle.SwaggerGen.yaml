@@ -1,0 +1,8 @@
+coordinates:
+  name: Swashbuckle.SwaggerGen
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.0-beta902:
+    licensed:
+      declared: BSD-3-Clause
