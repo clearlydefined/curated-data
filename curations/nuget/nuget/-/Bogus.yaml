@@ -21,6 +21,9 @@ revisions:
   28.0.3:
     licensed:
       declared: MIT
+  29.0.1:
+    licensed:
+      declared: MIT OR BSD-3-Clause
   29.0.2:
     licensed:
       declared: MIT
