@@ -18,3 +18,17 @@ revisions:
         path: about.html
     licensed:
       declared: EPL-2.0
+  3.28.0:
+    described:
+      sourceLocation:
+        name: eclipse.jdt.core
+        namespace: eclipse
+        provider: github
+        revision: f3c6f1407f1890a707ec2c4f28ca7a69da53c606
+        type: git
+        url: 'https://github.com/eclipse/eclipse.jdt.core/commit/f3c6f1407f1890a707ec2c4f28ca7a69da53c606'
+    files:
+      - license: EPL-2.0
+        path: about.html
+    licensed:
+      declared: EPL-2.0
