@@ -6,3 +6,6 @@ revisions:
   5.1.0:
     licensed:
       declared: OTHER
+  5.2.4-geo.44:
+    licensed:
+      declared: OTHER
