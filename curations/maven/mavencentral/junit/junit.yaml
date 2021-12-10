@@ -4,13 +4,31 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '3.7':
+    licensed:
+      declared: CPL-1.0
+  '3.8':
+    licensed:
+      declared: CPL-1.0
   3.8.1:
     licensed:
       declared: CPL-1.0
   3.8.2:
     licensed:
       declared: CPL-1.0
+  '4.1':
+    licensed:
+      declared: CPL-1.0
   '4.11':
+    licensed:
+      declared: CPL-1.0
+  '4.2':
+    licensed:
+      declared: CPL-1.0
+  '4.3':
+    licensed:
+      declared: CPL-1.0
+  4.3.1:
     licensed:
       declared: CPL-1.0
   '4.4':
