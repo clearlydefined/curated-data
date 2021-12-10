@@ -10,3 +10,21 @@ revisions:
   '4.11':
     licensed:
       declared: CPL-1.0
+  '4.4':
+    licensed:
+      declared: CPL-1.0
+  '4.5':
+    licensed:
+      declared: CPL-1.0
+  '4.6':
+    licensed:
+      declared: CPL-1.0
+  '4.7':
+    licensed:
+      declared: CPL-1.0
+  4.8.1:
+    licensed:
+      declared: CPL-1.0
+  '4.9':
+    licensed:
+      declared: CPL-1.0
