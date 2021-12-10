@@ -5,7 +5,6 @@ coordinates:
   type: maven
 revisions:
   1.2.1:
-      licensed:
     licensed:
       declared: Apache-2.0
   1.2.0-RC4:
