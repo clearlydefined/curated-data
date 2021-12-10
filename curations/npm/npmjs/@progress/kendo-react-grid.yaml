@@ -28,6 +28,9 @@ revisions:
   4.0.0:
     licensed:
       declared: OTHER
+  4.13.0-dev.202112031343:
+    licensed:
+      declared: OTHER
   4.3.0:
     licensed:
       declared: OTHER
