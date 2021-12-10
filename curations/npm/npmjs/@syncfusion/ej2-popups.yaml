@@ -136,39 +136,6 @@ revisions:
   17.1.50:
     licensed:
       declared: OTHER OR OTHER
-  18.3.50:
-    licensed:
-      declared: OTHER OR OTHER
-  17.2.52-1205479:
-    licensed:
-      declared: OTHER OR OTHER
-  18.1.53:
-    licensed:
-      declared: OTHER OR OTHER
-  18.2.44:
-    licensed:
-      declared: OTHER OR OTHER
-  18.1.57:
-    licensed:
-      declared: OTHER OR OTHER
-  18.1.55:
-    licensed:
-      declared: OTHER OR OTHER
-  17.2.49-beta:
-    licensed:
-      declared: OTHER OR OTHER
-  18.1.42:
-    licensed:
-      declared: OTHER OR OTHER
-  17.4.46:
-    licensed:
-      declared: OTHER OR OTHER
-  17.4.39:
-    licensed:
-      declared: OTHER OR OTHER
-  17.2.46:
-    licensed:
-      declared: OTHER OR OTHER
   17.2.29-beta:
     licensed:
       declared: OTHER OR OTHER
@@ -178,10 +145,19 @@ revisions:
   17.2.35:
     licensed:
       declared: OTHER OR OTHER
+  17.2.46:
+    licensed:
+      declared: OTHER OR OTHER
   17.2.47:
     licensed:
       declared: OTHER OR OTHER
   17.2.48-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.49-beta:
+    licensed:
+      declared: OTHER OR OTHER
+  17.2.52-1205479:
     licensed:
       declared: OTHER OR OTHER
   17.2.53-1205479:
@@ -217,7 +193,13 @@ revisions:
   17.3.9-beta:
     licensed:
       declared: OTHER OR OTHER
+  17.4.39:
+    licensed:
+      declared: OTHER OR OTHER
   17.4.43:
+    licensed:
+      declared: OTHER OR OTHER
+  17.4.46:
     licensed:
       declared: OTHER OR OTHER
   17.4.47:
@@ -235,6 +217,9 @@ revisions:
   18.1.36-beta:
     licensed:
       declared: OTHER OR OTHER
+  18.1.42:
+    licensed:
+      declared: OTHER OR OTHER
   18.1.43:
     licensed:
       declared: OTHER OR OTHER
@@ -250,7 +235,19 @@ revisions:
   18.1.52:
     licensed:
       declared: OTHER OR OTHER
+  18.1.53:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.55:
+    licensed:
+      declared: OTHER OR OTHER
   18.1.56:
+    licensed:
+      declared: OTHER OR OTHER
+  18.1.57:
+    licensed:
+      declared: OTHER OR OTHER
+  18.2.44:
     licensed:
       declared: OTHER OR OTHER
   18.2.46:
@@ -269,6 +266,9 @@ revisions:
     licensed:
       declared: OTHER OR OTHER
   18.3.47:
+    licensed:
+      declared: OTHER OR OTHER
+  18.3.50:
     licensed:
       declared: OTHER OR OTHER
   18.3.52:
@@ -296,5 +296,8 @@ revisions:
     licensed:
       declared: OTHER OR OTHER
   19.1.56:
+    licensed:
+      declared: OTHER OR OTHER
+  19.3.57:
     licensed:
       declared: OTHER OR OTHER
