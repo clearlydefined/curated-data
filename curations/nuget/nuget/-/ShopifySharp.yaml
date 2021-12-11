@@ -6,3 +6,6 @@ revisions:
   5.13.1:
     licensed:
       declared: MIT
+  5.14.1-b00489:
+    licensed:
+      declared: MIT
