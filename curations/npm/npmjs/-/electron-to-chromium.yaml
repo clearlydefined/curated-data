@@ -2007,3 +2007,6 @@ revisions:
   1.3.99:
     licensed:
       declared: ISC
+  1.4.16:
+    licensed:
+      declared: ISC
