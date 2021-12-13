@@ -4,7 +4,127 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '5.4':
+    licensed:
+      declared: LGPL-2.1-only
+  '5.5':
+    licensed:
+      declared: LGPL-2.1-only
+  '5.6':
+    licensed:
+      declared: LGPL-2.1-only
+  '5.7':
+    licensed:
+      declared: LGPL-2.1-only
+  '5.8':
+    licensed:
+      declared: LGPL-2.1-only
+  '5.9':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.0':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.1':
+    licensed:
+      declared: LGPL-2.1-only
+  6.1.1:
+    licensed:
+      declared: LGPL-2.1-only
+  '6.10':
+    licensed:
+      declared: LGPL-2.1-only
+  6.10.1:
+    licensed:
+      declared: LGPL-2.1-only
+  '6.11':
+    licensed:
+      declared: LGPL-2.1-only
+  6.11.1:
+    licensed:
+      declared: LGPL-2.1-only
   '6.12':
+    licensed:
+      declared: LGPL-2.1-only
+  6.12.1:
+    licensed:
+      declared: LGPL-2.1-only
+  '6.13':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.14':
+    licensed:
+      declared: LGPL-2.1-only
+  6.14.1:
+    licensed:
+      declared: LGPL-2.1-only
+  '6.15':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.16':
+    licensed:
+      declared: LGPL-2.1-only
+  6.16.1:
+    licensed:
+      declared: LGPL-2.1-only
+  '6.17':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.18':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.19':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.2':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.3':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.4':
+    licensed:
+      declared: LGPL-2.1-only
+  6.4.1:
+    licensed:
+      declared: LGPL-2.1-only
+  '6.5':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.6':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.7':
+    licensed:
+      declared: LGPL-2.1-only
+  '6.8':
+    licensed:
+      declared: LGPL-2.1-only
+  6.8.1:
+    licensed:
+      declared: LGPL-2.1-only
+  6.8.2:
+    licensed:
+      declared: LGPL-2.1-only
+  '6.9':
+    licensed:
+      declared: LGPL-2.1-only
+  '7.0':
+    licensed:
+      declared: LGPL-2.1-only
+  '7.1':
+    licensed:
+      declared: LGPL-2.1-only
+  7.1.1:
+    licensed:
+      declared: LGPL-2.1-only
+  7.1.2:
+    licensed:
+      declared: LGPL-2.1-only
+  '7.2':
+    licensed:
+      declared: LGPL-2.1-only
+  '7.3':
     licensed:
       declared: LGPL-2.1-only
   '8.29':
