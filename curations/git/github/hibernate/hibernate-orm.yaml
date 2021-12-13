@@ -1,0 +1,9 @@
+coordinates:
+  name: hibernate-orm
+  namespace: hibernate
+  provider: github
+  type: git
+revisions:
+  05792d951052a72a183e58896abea9f8de515d51:
+    licensed:
+      declared: LGPL-2.1-or-later
