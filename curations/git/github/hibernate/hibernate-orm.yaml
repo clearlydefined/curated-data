@@ -4,6 +4,12 @@ coordinates:
   provider: github
   type: git
 revisions:
+  05792d951052a72a183e58896abea9f8de515d51:
+    licensed:
+      declared: LGPL-2.1-or-later
   18026e0dd5660cb1330a2fef009d99f61e78e2ff:
+    licensed:
+      declared: LGPL-2.1-or-later
+  31f8d9efb65373c9f31e94cf4dd0dd73abbc6d66:
     licensed:
       declared: LGPL-2.1-or-later
