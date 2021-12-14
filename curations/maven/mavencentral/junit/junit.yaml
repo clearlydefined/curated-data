@@ -16,3 +16,6 @@ revisions:
   '4.4':
     licensed:
       declared: CPL-1.0
+  4.8.2:
+    licensed:
+      declared: CPL-1.0
