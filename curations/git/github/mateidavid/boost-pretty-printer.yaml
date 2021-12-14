@@ -1,0 +1,9 @@
+coordinates:
+  name: boost-pretty-printer
+  namespace: mateidavid
+  provider: github
+  type: git
+revisions:
+  e5df4bd9059d6a07cbeef47d005c84fbdb656438:
+    licensed:
+      declared: BSL-1.0
