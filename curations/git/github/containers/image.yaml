@@ -1,0 +1,12 @@
+coordinates:
+  name: image
+  namespace: containers
+  provider: github
+  type: git
+revisions:
+  e5b5d45390c655df9d2e451c508634afa5cf55a1:
+    files:
+      - attributions:
+          - 'Copyright (c) 2004, 2006 The Linux Foundation and its contributors.'
+        license: NONE
+        path: CONTRIBUTING.md

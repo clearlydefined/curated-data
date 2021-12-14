@@ -1,0 +1,9 @@
+coordinates:
+  name: go-agent
+  namespace: newrelic
+  provider: github
+  type: git
+revisions:
+  71b189101d95daff8af73d3ca0af5f7f5948d917:
+    licensed:
+      declared: OTHER

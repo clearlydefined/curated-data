@@ -1,0 +1,9 @@
+coordinates:
+  name: proto
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  333db1d6e21ad6a4d543c0a6e837a2ef3e155f39:
+    licensed:
+      declared: BSL-1.0

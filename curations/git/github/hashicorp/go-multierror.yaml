@@ -1,0 +1,9 @@
+coordinates:
+  name: go-multierror
+  namespace: hashicorp
+  provider: github
+  type: git
+revisions:
+  9974e9ec57696378079ecc3accd3d6f29401b3a0:
+    licensed:
+      declared: MPL-2.0

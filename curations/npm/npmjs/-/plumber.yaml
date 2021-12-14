@@ -1,0 +1,8 @@
+coordinates:
+  name: plumber
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.8:
+    licensed:
+      declared: GPL-3.0-only

@@ -1,0 +1,9 @@
+coordinates:
+  name: regex
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  39f28ac456395ec5ded7b40686c9830c87ae63a3:
+    licensed:
+      declared: BSL-1.0
