@@ -18,6 +18,12 @@ revisions:
   3.2.3:
     licensed:
       declared: BSD-2-Clause
+  3.2.9:
+    licensed:
+      declared: BSD-2-Clause
+  3.2.8:
+    licensed:
+      declared: BSD-2-Clause
   4.0.4:
     licensed:
       declared: BSD-2-Clause

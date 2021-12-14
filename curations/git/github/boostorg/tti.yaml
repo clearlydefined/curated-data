@@ -1,0 +1,9 @@
+coordinates:
+  name: tti
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  8b9f27e5fe05340a0ad411e0f56c91f14f60673a:
+    licensed:
+      declared: BSL-1.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: jackson-datatype-protobuf
+  namespace: com.hubspot.jackson
+  provider: mavencentral
+  type: maven
+revisions:
+  0.9.10-jackson2.9-proto2:
+    licensed:
+      declared: Apache-2.0

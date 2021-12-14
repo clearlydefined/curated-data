@@ -1,0 +1,38 @@
+coordinates:
+  name: certificate-transparency-go
+  namespace: google
+  provider: github
+  type: git
+revisions:
+  7618200f647971f5f6b0efc6e3498af5b0133a48:
+    files:
+      - attributions:
+          - 'Copyright (c) 2004, 2006 The Linux Foundation and its contributors.'
+        license: NONE
+        path: vendor/github.com/coreos/etcd/DCO
+      - attributions:
+          - Copyright 2014 Oleku Konko
+        license: MIT
+        path: vendor/github.com/coreos/etcd/cmd/vendor/github.com/olekukonko/tablewriter/csv.go
+      - attributions:
+          - Copyright 2014 Oleku Konko
+        license: MIT
+        path: vendor/github.com/coreos/etcd/cmd/vendor/github.com/olekukonko/tablewriter/table.go
+      - attributions:
+          - Copyright 2014 Oleku Konko
+        license: MIT
+        path: vendor/github.com/coreos/etcd/cmd/vendor/github.com/olekukonko/tablewriter/util.go
+      - attributions:
+          - Copyright 2014 Oleku Konko
+        license: MIT
+        path: vendor/github.com/coreos/etcd/cmd/vendor/github.com/olekukonko/tablewriter/wrap.go
+      - license: OTHER
+        path: vendor/github.com/coreos/etcd/cmd/vendor/golang.org/x/crypto/PATENTS
+      - license: OTHER
+        path: vendor/github.com/coreos/etcd/cmd/vendor/golang.org/x/net/PATENTS
+      - license: OTHER
+        path: vendor/github.com/coreos/etcd/cmd/vendor/golang.org/x/sys/PATENTS
+      - license: OTHER
+        path: vendor/github.com/coreos/etcd/cmd/vendor/golang.org/x/time/PATENTS
+      - license: OTHER
+        path: vendor/github.com/coreos/etcd/cmd/vendor/google.golang.org/grpc/PATENTS

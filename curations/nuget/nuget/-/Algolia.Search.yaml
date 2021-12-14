@@ -1,0 +1,8 @@
+coordinates:
+  name: Algolia.Search
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.2:
+    licensed:
+      declared: MIT

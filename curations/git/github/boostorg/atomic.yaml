@@ -1,0 +1,9 @@
+coordinates:
+  name: atomic
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  ea5911a413a698f5b7a2db24a705bcc358611d0e:
+    licensed:
+      declared: BSL-1.0

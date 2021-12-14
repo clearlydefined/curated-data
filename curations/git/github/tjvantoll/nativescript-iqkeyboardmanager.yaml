@@ -1,0 +1,9 @@
+coordinates:
+  name: nativescript-iqkeyboardmanager
+  namespace: tjvantoll
+  provider: github
+  type: git
+revisions:
+  b705493e6cc5ab99515758179a5479ed32cb50e7:
+    licensed:
+      declared: MIT

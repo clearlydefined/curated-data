@@ -1,0 +1,11 @@
+coordinates:
+  name: SpecFlow.Autofac
+  provider: nuget
+  type: nuget
+revisions:
+  3.9.40:
+    licensed:
+      declared: BSD-3-Clause
+  3.9.8:
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,9 @@
+coordinates:
+  name: fusion
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  4a699a39f5e339b8efd6e0ea1a2ea1f747137e54:
+    licensed:
+      declared: BSL-1.0

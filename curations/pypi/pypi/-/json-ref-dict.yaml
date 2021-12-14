@@ -1,0 +1,8 @@
+coordinates:
+  name: json-ref-dict
+  provider: pypi
+  type: pypi
+revisions:
+  0.7.0:
+    licensed:
+      declared: MIT

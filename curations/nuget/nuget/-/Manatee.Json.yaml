@@ -12,6 +12,8 @@ revisions:
         revision: b80a961bfa1214cb7744a44f04897aeb21ae26e2
         type: git
         url: 'https://github.com/gregsdennis/Manatee.Json/commit/b80a961bfa1214cb7744a44f04897aeb21ae26e2'
+    licensed:
+      declared: MIT
   9.9.5:
     licensed:
       declared: MIT
