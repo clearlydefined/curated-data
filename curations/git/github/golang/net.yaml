@@ -28,7 +28,16 @@ revisions:
   7fd8e65b642006927f6cec5cb4241df7f98a2210:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  8a410e7b638dca158bf9e766925842f6651ff828:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
   a5a99cb37ef4b68617775ab669177656090ab396:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  ab34263943818b32f575efc978a3d24e80b04bd7:
+    files:
+      - license: OTHER
+        path: PATENTS
     licensed:
       declared: BSD-3-Clause AND OTHER
   c89045814202410a2d67ec20ecf177ec77ceae7f:

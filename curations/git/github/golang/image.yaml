@@ -1,0 +1,9 @@
+coordinates:
+  name: image
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  cff245a6509b8c4de022d0d5b9037c503c5989d6:
+    licensed:
+      declared: BSD-3-Clause AND OTHER

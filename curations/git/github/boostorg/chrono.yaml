@@ -1,0 +1,9 @@
+coordinates:
+  name: chrono
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  aa51cbd5121ed29093484f53e5f96e13a9a915b4:
+    licensed:
+      declared: BSL-1.0

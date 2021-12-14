@@ -1,9 +1,36 @@
 coordinates:
-  type: git
   name: cert-manager
   namespace: jetstack
   provider: github
+  type: git
 revisions:
+  4dac8737f479ff0bcdaedcda62fb1ef7f84d9389:
+    files:
+      - attributions:
+          - 'Copyright (c) 2004, 2006 The Linux Foundation and its contributors.'
+        license: NONE
+        path: vendor/github.com/go-openapi/jsonpointer/.github/CONTRIBUTING.md
+      - attributions:
+          - 'Copyright (c) 2004, 2006 The Linux Foundation and its contributors.'
+        license: NONE
+        path: vendor/github.com/go-openapi/jsonreference/.github/CONTRIBUTING.md
+      - attributions:
+          - 'Copyright (c) 2004, 2006 The Linux Foundation and its contributors.'
+        license: NONE
+        path: vendor/github.com/go-openapi/swag/.github/CONTRIBUTING.md
+      - attributions:
+          - Copyright (c) 2015 Canonical Ltd.
+          - 'Copyright (c) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
+        license: LGPL-3.0-only WITH LGPL-3.0-linking-exception
+        path: vendor/github.com/juju/ratelimit/LICENSE
+      - license: OTHER
+        path: vendor/golang.org/x/crypto/PATENTS
+      - license: OTHER
+        path: vendor/golang.org/x/net/PATENTS
+      - license: OTHER
+        path: vendor/golang.org/x/sys/PATENTS
+      - license: OTHER
+        path: vendor/golang.org/x/text/PATENTS
   b26bd256f124d480fcb198e1464854f41b0d0d2c:
     licensed:
       declared: Apache-2.0

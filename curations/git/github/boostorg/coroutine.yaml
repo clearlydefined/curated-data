@@ -1,0 +1,9 @@
+coordinates:
+  name: coroutine
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  21b704e16c32a63cd60df689c4763a29d5df6d42:
+    licensed:
+      declared: BSL-1.0

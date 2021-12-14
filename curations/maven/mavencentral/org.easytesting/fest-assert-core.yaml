@@ -1,0 +1,9 @@
+coordinates:
+  name: fest-assert-core
+  namespace: org.easytesting
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0M10:
+    licensed:
+      declared: Apache-2.0

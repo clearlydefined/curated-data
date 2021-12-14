@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-ml-vision
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  24.0.0:
+    licensed:
+      declared: OTHER

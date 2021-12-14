@@ -6,6 +6,9 @@ revisions:
   1.1.1:
     licensed:
       declared: Apache-2.0
+  2.2.1:
+    licensed:
+      declared: BSD-3-Clause
   3.1.62:
     licensed:
       declared: BSD-3-Clause
@@ -16,5 +19,8 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   3.3.30:
+    licensed:
+      declared: BSD-3-Clause
+  3.9.40:
     licensed:
       declared: BSD-3-Clause

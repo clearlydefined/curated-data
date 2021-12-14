@@ -15,6 +15,9 @@ revisions:
   2.1.0.178:
     licensed:
       declared: MS-PL
+  2.1.0.230:
+    licensed:
+      declared: MIT
   3.0.10:
     licensed:
       declared: MIT
@@ -22,6 +25,9 @@ revisions:
     licensed:
       declared: MIT
   6.0.14:
+    licensed:
+      declared: MIT
+  6.0.21:
     licensed:
       declared: MIT
   7.0.7:

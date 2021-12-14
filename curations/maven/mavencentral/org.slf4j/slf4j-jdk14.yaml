@@ -1,0 +1,9 @@
+coordinates:
+  name: slf4j-jdk14
+  namespace: org.slf4j
+  provider: mavencentral
+  type: maven
+revisions:
+  1.5.6:
+    licensed:
+      declared: MIT

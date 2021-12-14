@@ -1,0 +1,9 @@
+coordinates:
+  name: thread
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  409c98f8b745e72bc326e93bfaf8a353d94a69b0:
+    licensed:
+      declared: BSL-1.0

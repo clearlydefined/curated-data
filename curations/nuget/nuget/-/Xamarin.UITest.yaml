@@ -102,3 +102,6 @@ revisions:
   3.0.9:
     licensed:
       declared: OTHER
+  3.2.3:
+    licensed:
+      declared: OTHER

@@ -12,6 +12,12 @@ revisions:
         path: META-INF/MANIFEST.MF
     licensed:
       declared: BSD-3-Clause
+  '5.1':
+    licensed:
+      declared: BSD-3-Clause
+  '5.2':
+    licensed:
+      declared: BSD-3-Clause
   '6.0':
     licensed:
       declared: BSD-3-Clause
