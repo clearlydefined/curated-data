@@ -1,0 +1,8 @@
+coordinates:
+  name: ICSharpCode.SharpZipLib.dll
+  provider: nuget
+  type: nuget
+revisions:
+  0.85.4.369:
+    licensed:
+      declared: NONE
