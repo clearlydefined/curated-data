@@ -7,3 +7,6 @@ revisions:
   '15':
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
+  18-ea+8:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
