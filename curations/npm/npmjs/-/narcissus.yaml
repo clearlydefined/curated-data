@@ -1,0 +1,8 @@
+coordinates:
+  name: narcissus
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1:
+    licensed:
+      declared: (MPL-1.1+ OR GPL-2.0-or-later+) OR LGPL-2.1-or-later+
