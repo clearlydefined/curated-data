@@ -6,3 +6,12 @@ revisions:
   3.8.0:
     licensed:
       declared: NCSA
+  4.1.0:
+    described:
+      sourceLocation:
+        name: fsunit
+        namespace: fsprojects
+        provider: github
+        revision: d01df16dc4e9eb367c7a57999f5bc440590c483a
+        type: git
+        url: 'https://github.com/fsprojects/fsunit/commit/d01df16dc4e9eb367c7a57999f5bc440590c483a'
