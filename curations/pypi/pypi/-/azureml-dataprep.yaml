@@ -162,6 +162,9 @@ revisions:
   2.6.1:
     licensed:
       declared: OTHER
+  2.6.2:
+    licensed:
+      declared: OTHER
   2.6.3:
     licensed:
       declared: OTHER
