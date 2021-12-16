@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.GooglePlayServices.Places
+  provider: nuget
+  type: nuget
+revisions:
+  117.0.0.3:
+    licensed:
+      declared: MIT
