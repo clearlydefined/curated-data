@@ -1,0 +1,22 @@
+coordinates:
+  name: bcutil-jdk15on
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  '1.70':
+    described:
+      facets:
+        dev:
+          - util/src/main
+        tests:
+          - util/src/test
+      sourceLocation:
+        name: bc-java
+        namespace: bcgit
+        provider: github
+        revision: 1ef1da015e116c1c2d09719674dfdd437971077f
+        type: git
+        url: 'https://github.com/bcgit/bc-java/commit/1ef1da015e116c1c2d09719674dfdd437971077f'
+    licensed:
+      declared: MIT
