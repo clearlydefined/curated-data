@@ -1,0 +1,8 @@
+coordinates:
+  name: Owin.HSTS
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.0:
+    licensed:
+      declared: NONE
