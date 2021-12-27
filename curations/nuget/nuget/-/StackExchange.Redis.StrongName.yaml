@@ -9,6 +9,9 @@ revisions:
   1.0.333:
     licensed:
       declared: MIT
+  1.0.394:
+    licensed:
+      declared: MIT
   1.0.414:
     files:
       - attributions:
