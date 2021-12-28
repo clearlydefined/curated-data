@@ -1,0 +1,9 @@
+coordinates:
+  name: jainslee-api
+  namespace: javax.slee
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: NONE
