@@ -1,0 +1,8 @@
+coordinates:
+  name: Reactive.AzureStorage.Table
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: NONE
