@@ -1,0 +1,9 @@
+coordinates:
+  name: jacoco-maven-plugin
+  namespace: org.jacoco
+  provider: mavencentral
+  type: maven
+revisions:
+  0.8.4:
+    licensed:
+      declared: EPL-1.0
