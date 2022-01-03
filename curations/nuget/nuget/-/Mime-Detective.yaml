@@ -1,0 +1,8 @@
+coordinates:
+  name: Mime-Detective
+  provider: nuget
+  type: nuget
+revisions:
+  22.7.19:
+    licensed:
+      declared: OTHER

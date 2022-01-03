@@ -1,0 +1,9 @@
+coordinates:
+  name: rxtx
+  namespace: org.rxtx
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.7:
+    licensed:
+      declared: LGPL-2.0-or-later

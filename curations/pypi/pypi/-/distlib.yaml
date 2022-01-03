@@ -13,5 +13,10 @@ revisions:
     licensed:
       declared: OTHER
   0.3.3:
+    described:
+      releaseDate: '2021-09-22'
+    licensed:
+      declared: OTHER
+  0.3.4:
     licensed:
       declared: OTHER

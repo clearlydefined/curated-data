@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  0.6.1.post1:
+    licensed:
+      declared: MIT
   '0.7':
     licensed:
       declared: MIT
