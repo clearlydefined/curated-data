@@ -1,0 +1,8 @@
+coordinates:
+  name: tlslite
+  provider: pypi
+  type: pypi
+revisions:
+  0.4.9:
+    licensed:
+      declared: NOASSERTION AND BSD-3-Clause
