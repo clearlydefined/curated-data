@@ -9,4 +9,4 @@ revisions:
       declared: LGPL-2.1-or-later OR Apache-2.0
   4.1.0:
     licensed:
-      declared: Apache-2.0 AND LGPL-2.1
+      declared: Apache-2.0 OR LGPL-2.1-or-later
