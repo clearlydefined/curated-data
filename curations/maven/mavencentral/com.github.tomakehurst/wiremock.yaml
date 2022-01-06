@@ -1,0 +1,9 @@
+coordinates:
+  name: wiremock
+  namespace: com.github.tomakehurst
+  provider: mavencentral
+  type: maven
+revisions:
+  2.16.0:
+    licensed:
+      declared: Apache-2.0

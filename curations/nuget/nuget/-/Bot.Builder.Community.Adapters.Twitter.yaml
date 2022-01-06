@@ -1,0 +1,8 @@
+coordinates:
+  name: Bot.Builder.Community.Adapters.Twitter
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.3:
+    licensed:
+      declared: MIT

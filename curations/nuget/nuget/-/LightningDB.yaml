@@ -1,0 +1,8 @@
+coordinates:
+  name: LightningDB
+  provider: nuget
+  type: nuget
+revisions:
+  0.13.0:
+    licensed:
+      declared: OLDAP-2.8
