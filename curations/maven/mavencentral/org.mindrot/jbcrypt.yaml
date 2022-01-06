@@ -1,0 +1,9 @@
+coordinates:
+  name: jbcrypt
+  namespace: org.mindrot
+  provider: mavencentral
+  type: maven
+revisions:
+  0.3m:
+    licensed:
+      declared: ISC

@@ -18,3 +18,6 @@ revisions:
   3.17.5:
     licensed:
       declared: AFL-2.1 OR MIT
+  3.17.6:
+    licensed:
+      declared: AFL-2.1 OR MIT
