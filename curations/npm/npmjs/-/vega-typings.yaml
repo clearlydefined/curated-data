@@ -1,0 +1,8 @@
+coordinates:
+  name: vega-typings
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.53:
+    licensed:
+      declared: BSD-3-Clause
