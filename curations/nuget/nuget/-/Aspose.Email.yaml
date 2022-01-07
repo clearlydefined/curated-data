@@ -6,6 +6,9 @@ revisions:
   20.8.0:
     licensed:
       declared: OTHER
+  21.4.0:
+    licensed:
+      declared: OTHER
   5.8.0:
     licensed:
       declared: OTHER

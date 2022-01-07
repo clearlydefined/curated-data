@@ -1,0 +1,8 @@
+coordinates:
+  name: ServiceStack.Redis
+  provider: nuget
+  type: nuget
+revisions:
+  5.9.2:
+    licensed:
+      declared: OTHER

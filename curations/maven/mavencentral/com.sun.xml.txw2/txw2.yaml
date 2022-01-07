@@ -1,0 +1,9 @@
+coordinates:
+  name: txw2
+  namespace: com.sun.xml.txw2
+  provider: mavencentral
+  type: maven
+revisions:
+  '20110809':
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
