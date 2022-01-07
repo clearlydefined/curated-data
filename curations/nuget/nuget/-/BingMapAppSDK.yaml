@@ -1,0 +1,8 @@
+coordinates:
+  name: BingMapAppSDK
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.1011.1716:
+    licensed:
+      declared: NONE
