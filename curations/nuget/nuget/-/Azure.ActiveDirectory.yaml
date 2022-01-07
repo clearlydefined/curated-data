@@ -1,0 +1,8 @@
+coordinates:
+  name: Azure.ActiveDirectory
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.5197.40350:
+    licensed:
+      declared: NONE
