@@ -1,0 +1,9 @@
+coordinates:
+  name: plantuml
+  namespace: net.sourceforge.plantuml
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2021.10:
+    licensed:
+      declared: GPL-3.0-or-later
