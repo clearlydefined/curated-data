@@ -1,0 +1,9 @@
+coordinates:
+  name: native-lib-loader
+  namespace: org.scijava
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.4:
+    licensed:
+      declared: BSD-2-Clause
