@@ -1,0 +1,8 @@
+coordinates:
+  name: colorcet
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.6:
+    licensed:
+      declared: OTHER
