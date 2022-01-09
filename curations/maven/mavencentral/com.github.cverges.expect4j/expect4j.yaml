@@ -1,0 +1,9 @@
+coordinates:
+  name: expect4j
+  namespace: com.github.cverges.expect4j
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.6':
+    licensed:
+      declared: Apache-2.0
