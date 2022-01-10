@@ -13,4 +13,4 @@ revisions:
         type: git
         url: 'https://github.com/sonarsource/sonar-scanner-msbuild/commit/c2cc39130ade25de918e43552e7e94e6839baf59'
     licensed:
-      declared: LGPL-3.0-only
+      declared: LGPL-3.0-or-later
