@@ -1,0 +1,8 @@
+coordinates:
+  name: StructureMap.WebApi2
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.4.125:
+    licensed:
+      declared: Apache-2.0
