@@ -1,0 +1,9 @@
+coordinates:
+  name: awaitility
+  namespace: org.awaitility
+  provider: mavencentral
+  type: maven
+revisions:
+  4.0.0-rc1:
+    licensed:
+      declared: Apache-2.0
