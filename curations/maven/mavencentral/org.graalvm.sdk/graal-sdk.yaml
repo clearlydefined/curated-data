@@ -79,3 +79,6 @@ revisions:
   21.2.0:
     licensed:
       declared: UPL-1.0
+  21.3.0:
+    licensed:
+      declared: UPL-1.0
