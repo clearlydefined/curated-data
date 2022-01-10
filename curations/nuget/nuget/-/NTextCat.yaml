@@ -1,0 +1,8 @@
+coordinates:
+  name: NTextCat
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.1.30:
+    licensed:
+      declared: MIT
