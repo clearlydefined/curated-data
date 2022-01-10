@@ -9,6 +9,9 @@ revisions:
   0.20.0:
     licensed:
       declared: Unlicense
+  0.21.0:
+    licensed:
+      declared: Unlicense
   0.22.0:
     licensed:
       declared: Unlicense
