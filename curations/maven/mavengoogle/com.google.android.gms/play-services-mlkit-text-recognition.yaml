@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-mlkit-text-recognition
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.1.1:
+    licensed:
+      declared: OTHER

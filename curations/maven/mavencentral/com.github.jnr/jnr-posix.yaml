@@ -10,6 +10,9 @@ revisions:
   3.0.50:
     licensed:
       declared: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+  3.1.14:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
   3.1.4:
     licensed:
       declared: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later

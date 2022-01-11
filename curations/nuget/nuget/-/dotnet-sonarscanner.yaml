@@ -1,0 +1,16 @@
+coordinates:
+  name: dotnet-sonarscanner
+  provider: nuget
+  type: nuget
+revisions:
+  5.4.0:
+    described:
+      sourceLocation:
+        name: sonar-scanner-msbuild
+        namespace: sonarsource
+        provider: github
+        revision: c2cc39130ade25de918e43552e7e94e6839baf59
+        type: git
+        url: 'https://github.com/sonarsource/sonar-scanner-msbuild/commit/c2cc39130ade25de918e43552e7e94e6839baf59'
+    licensed:
+      declared: LGPL-3.0-or-later
