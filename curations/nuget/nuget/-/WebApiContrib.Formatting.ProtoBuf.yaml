@@ -1,0 +1,8 @@
+coordinates:
+  name: WebApiContrib.Formatting.ProtoBuf
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.5:
+    licensed:
+      declared: MIT
