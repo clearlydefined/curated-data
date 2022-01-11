@@ -195,9 +195,12 @@ revisions:
   3.19.1:
     licensed:
       declared: BSD-3-Clause
+  3.19.2:
+    licensed:
+      declared: BSD-3-Clause
   3.19.3:
     licensed:
-      declared: MIT
+      declared: BSD-3-Clause
   3.2.0:
     licensed:
       declared: BSD-3-Clause

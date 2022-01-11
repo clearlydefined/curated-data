@@ -1,11 +1,8 @@
 coordinates:
-  name: EntityFramework.Functions
+  name: DynamicQueryable
   provider: nuget
   type: nuget
 revisions:
-  1.4.0:
-    licensed:
-      declared: MIT
-  1.4.1:
+  2.0.25:
     licensed:
       declared: MIT
