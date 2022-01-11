@@ -1,0 +1,9 @@
+coordinates:
+  name: minimal-json
+  namespace: com.eclipsesource.minimal-json
+  provider: mavencentral
+  type: maven
+revisions:
+  0.9.1:
+    licensed:
+      declared: EPL-1.0

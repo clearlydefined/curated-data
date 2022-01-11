@@ -1,0 +1,9 @@
+coordinates:
+  name: netcdf4
+  namespace: edu.ucar
+  provider: mavencentral
+  type: maven
+revisions:
+  4.5.5:
+    licensed:
+      declared: BSD-3-Clause

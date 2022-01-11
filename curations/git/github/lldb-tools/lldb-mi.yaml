@@ -1,0 +1,9 @@
+coordinates:
+  name: lldb-mi
+  namespace: lldb-tools
+  provider: github
+  type: git
+revisions:
+  2388bd74133bc21eac59b2e2bf97f2a30770a315:
+    licensed:
+      declared: Apache-2.0 WITH LLVM-exception

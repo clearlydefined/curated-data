@@ -1,0 +1,8 @@
+coordinates:
+  name: Mono.Options.Signed
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.3:
+    licensed:
+      declared: MIT AND OTHER
