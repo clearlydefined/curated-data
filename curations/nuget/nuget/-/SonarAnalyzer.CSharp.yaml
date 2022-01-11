@@ -35,7 +35,7 @@ revisions:
       declared: LGPL-3.0-or-later
   7.3.0.5690:
     licensed:
-      declared: LGPL-3.0-only
+      declared: LGPL-3.0-or-later
   7.7.0.7192:
     licensed:
       declared: LGPL-3.0-or-later
