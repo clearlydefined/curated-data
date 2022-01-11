@@ -1,0 +1,8 @@
+coordinates:
+  name: encoding_rs
+  provider: cratesio
+  type: crate
+revisions:
+  0.8.30:
+    licensed:
+      declared: Apache-2.0 OR MIT
