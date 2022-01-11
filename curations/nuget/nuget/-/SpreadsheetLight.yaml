@@ -1,0 +1,8 @@
+coordinates:
+  name: SpreadsheetLight
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.9:
+    licensed:
+      declared: MIT
