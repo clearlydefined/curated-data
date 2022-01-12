@@ -35,3 +35,9 @@ revisions:
   '0.920':
     licensed:
       declared: MIT
+  '0.930':
+    licensed:
+      declared: MIT
+  '0.931':
+    licensed:
+      declared: MIT
