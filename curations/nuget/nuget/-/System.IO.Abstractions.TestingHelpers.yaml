@@ -5,7 +5,7 @@ coordinates:
 revisions:
   2.0.0.124:
     licensed:
-      declared: MIT
+      declared: MS-PL
   2.1.0.174:
     licensed:
       declared: MS-PL
