@@ -1,0 +1,9 @@
+coordinates:
+  name: choco
+  namespace: chocolatey
+  provider: github
+  type: git
+revisions:
+  22b78564609aba03c8600059bd7fe29eec5719ac:
+    licensed:
+      declared: Apache-2.0
