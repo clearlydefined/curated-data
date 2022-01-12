@@ -1,0 +1,9 @@
+coordinates:
+  name: dtd-parser
+  namespace: com.sun.xml.dtd-parser
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.1:
+    licensed:
+      declared: BSD-3-Clause

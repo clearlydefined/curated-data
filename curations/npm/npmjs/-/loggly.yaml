@@ -1,0 +1,8 @@
+coordinates:
+  name: loggly
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.11:
+    licensed:
+      declared: MIT

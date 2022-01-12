@@ -1,0 +1,9 @@
+coordinates:
+  name: dbi
+  namespace: r-dbi
+  provider: github
+  type: git
+revisions:
+  add9daaa98f8b6bd41eec51a92b20aff94c725b0:
+    licensed:
+      declared: LGPL-2.1-or-later

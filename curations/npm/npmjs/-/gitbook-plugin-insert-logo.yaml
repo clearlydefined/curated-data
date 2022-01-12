@@ -1,0 +1,8 @@
+coordinates:
+  name: gitbook-plugin-insert-logo
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.5:
+    licensed:
+      declared: Unlicense

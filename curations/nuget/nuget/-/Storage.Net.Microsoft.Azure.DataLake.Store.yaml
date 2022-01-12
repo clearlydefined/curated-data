@@ -1,0 +1,8 @@
+coordinates:
+  name: Storage.Net.Microsoft.Azure.DataLake.Store
+  provider: nuget
+  type: nuget
+revisions:
+  8.1.17:
+    licensed:
+      declared: MIT

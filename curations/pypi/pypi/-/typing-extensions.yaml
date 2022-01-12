@@ -33,3 +33,8 @@ revisions:
   4.0.0:
     licensed:
       declared: OTHER
+  4.0.1:
+    described:
+      releaseDate: '2021-11-30'
+    licensed:
+      declared: OTHER

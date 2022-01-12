@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Mac.SignPostWrapper
+  provider: nuget
+  type: nuget
+revisions:
+  2020.1.20.1:
+    licensed:
+      declared: MIT

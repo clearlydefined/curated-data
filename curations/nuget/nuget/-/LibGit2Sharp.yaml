@@ -39,6 +39,9 @@ revisions:
   0.24.1:
     licensed:
       declared: MIT
+  0.25.0:
+    licensed:
+      declared: MIT
   0.25.0-preview-0033:
     licensed:
       declared: MIT
@@ -94,5 +97,8 @@ revisions:
     licensed:
       declared: MIT
   0.27.0-preview-0119:
+    licensed:
+      declared: MIT
+  0.27.0-preview-0158:
     licensed:
       declared: MIT

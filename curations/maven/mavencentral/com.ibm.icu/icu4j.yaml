@@ -6,13 +6,19 @@ coordinates:
 revisions:
   '58.2':
     licensed:
-      declared: Unicode-DFS-2016
+      declared: OTHER
+  '60.2':
+    licensed:
+      declared: OTHER
   '61.1':
     licensed:
-      declared: Unicode-DFS-2016
+      declared: OTHER
   '64.2':
     licensed:
-      declared: Unicode-DFS-2016
+      declared: OTHER
+  '66.1':
+    licensed:
+      declared: OTHER
   '67.1':
     licensed:
-      declared: Unicode-DFS-2016
+      declared: OTHER

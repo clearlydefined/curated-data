@@ -1,0 +1,9 @@
+coordinates:
+  name: trouter-client-android
+  namespace: com.microsoft
+  provider: mavencentral
+  type: maven
+revisions:
+  0.1.1:
+    licensed:
+      declared: OTHER

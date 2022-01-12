@@ -1,0 +1,8 @@
+coordinates:
+  name: Ben.BlockingDetector
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.4:
+    licensed:
+      declared: Apache-2.0

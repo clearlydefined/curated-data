@@ -1,0 +1,9 @@
+coordinates:
+  name: gmbal-api-only
+  namespace: org.glassfish.gmbal
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.0-b023:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: SQLinq.Dapper
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.1-b5:
+    licensed:
+      declared: LGPL-2.1-only

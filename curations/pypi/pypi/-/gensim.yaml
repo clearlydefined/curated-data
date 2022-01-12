@@ -12,3 +12,6 @@ revisions:
   4.0.1:
     licensed:
       declared: LGPL-2.1-only
+  4.1.2:
+    licensed:
+      declared: LGPL-2.1-only

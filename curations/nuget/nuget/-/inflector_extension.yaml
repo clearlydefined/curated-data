@@ -1,0 +1,8 @@
+coordinates:
+  name: inflector_extension
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.8:
+    licensed:
+      declared: BSD-3-Clause

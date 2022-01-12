@@ -1,0 +1,9 @@
+coordinates:
+  name: icu4j-localespi
+  namespace: com.ibm.icu
+  provider: mavencentral
+  type: maven
+revisions:
+  '60.2':
+    licensed:
+      declared: OTHER

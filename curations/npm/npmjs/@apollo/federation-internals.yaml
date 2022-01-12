@@ -1,0 +1,9 @@
+coordinates:
+  name: federation-internals
+  namespace: '@apollo'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0-alpha.1:
+    licensed:
+      declared: OTHER

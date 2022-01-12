@@ -1,0 +1,8 @@
+coordinates:
+  name: LamarCompiler
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.3:
+    licensed:
+      declared: MIT

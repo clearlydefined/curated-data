@@ -1,0 +1,8 @@
+coordinates:
+  name: fmt
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.1:
+    licensed:
+      declared: MIT

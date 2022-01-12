@@ -1,0 +1,23 @@
+coordinates:
+  name: log4j-api
+  namespace: org.apache.logging.log4j
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.15.0:
+    described:
+      facets:
+        dev:
+          - log4j-api/src/main
+        tests:
+          - log4j-api/src/test
+      releaseDate: '2021-12-09'
+      sourceLocation:
+        name: logging-log4j2
+        namespace: apache
+        provider: github
+        revision: c30a1398a6697fb832c650870c44284d0052103e
+        type: git
+        url: 'https://github.com/apache/logging-log4j2/commit/c30a1398a6697fb832c650870c44284d0052103e'
+    licensed:
+      declared: Apache-2.0

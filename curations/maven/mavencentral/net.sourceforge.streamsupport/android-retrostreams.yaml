@@ -7,3 +7,6 @@ revisions:
   1.7.3:
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
+  1.7.4:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0 AND CC0-1.0

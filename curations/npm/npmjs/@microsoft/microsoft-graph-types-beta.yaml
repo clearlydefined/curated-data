@@ -1,0 +1,9 @@
+coordinates:
+  name: microsoft-graph-types-beta
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  0.16.0-preview:
+    licensed:
+      declared: MIT

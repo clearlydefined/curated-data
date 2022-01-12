@@ -1,0 +1,9 @@
+coordinates:
+  name: sp-listview-extensibility
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.12.1:
+    licensed:
+      declared: OTHER
