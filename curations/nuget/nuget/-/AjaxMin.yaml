@@ -27,6 +27,9 @@ revisions:
   5.6.5100.19204:
     licensed:
       declared: Apache-2.0
+  5.7.5124.21499:
+    licensed:
+      declared: MIT
   5.9.5229.26438:
     licensed:
       declared: Apache-2.0
