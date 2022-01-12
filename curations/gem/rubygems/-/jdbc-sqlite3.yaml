@@ -1,0 +1,8 @@
+coordinates:
+  name: jdbc-sqlite3
+  provider: rubygems
+  type: gem
+revisions:
+  3.20.1:
+    licensed:
+      declared: Apache-2.0
