@@ -1,0 +1,9 @@
+coordinates:
+  name: validation-api
+  namespace: javax.validation
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0.GA:
+    licensed:
+      declared: Apache-2.0

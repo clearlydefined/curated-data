@@ -15,6 +15,9 @@ revisions:
   2.38.0:
     licensed:
       declared: Unlicense
+  2.40.0:
+    licensed:
+      declared: Unlicense
   2.41.0:
     licensed:
       declared: Unlicense

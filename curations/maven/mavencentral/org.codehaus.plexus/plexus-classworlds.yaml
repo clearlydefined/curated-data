@@ -1,0 +1,9 @@
+coordinates:
+  name: plexus-classworlds
+  namespace: org.codehaus.plexus
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2-alpha-9:
+    licensed:
+      declared: Apache-2.0

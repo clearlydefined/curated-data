@@ -1,0 +1,8 @@
+coordinates:
+  name: System.Core
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.21022.801:
+    licensed:
+      declared: NONE

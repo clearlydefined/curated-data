@@ -1,0 +1,8 @@
+coordinates:
+  name: sequential-task-queue
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.1:
+    licensed:
+      declared: MIT

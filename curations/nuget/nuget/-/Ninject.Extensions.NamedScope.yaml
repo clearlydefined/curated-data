@@ -1,0 +1,8 @@
+coordinates:
+  name: Ninject.Extensions.NamedScope
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.0:
+    licensed:
+      declared: MS-PL OR Apache-2.0

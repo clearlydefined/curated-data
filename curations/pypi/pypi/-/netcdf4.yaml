@@ -1,0 +1,8 @@
+coordinates:
+  name: netcdf4
+  provider: pypi
+  type: pypi
+revisions:
+  1.5.4:
+    licensed:
+      declared: OTHER

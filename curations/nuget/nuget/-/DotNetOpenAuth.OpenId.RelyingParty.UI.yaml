@@ -1,0 +1,8 @@
+coordinates:
+  name: DotNetOpenAuth.OpenId.RelyingParty.UI
+  provider: nuget
+  type: nuget
+revisions:
+  4.3.4.13329:
+    licensed:
+      declared: MS-PL
