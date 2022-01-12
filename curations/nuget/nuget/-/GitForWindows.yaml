@@ -1,0 +1,8 @@
+coordinates:
+  name: GitForWindows
+  provider: nuget
+  type: nuget
+revisions:
+  2.33.1:
+    licensed:
+      declared: GPL-2.0-only
