@@ -1,0 +1,9 @@
+coordinates:
+  name: plexus-interactivity-api
+  namespace: org.codehaus.plexus
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0-alpha-4:
+    licensed:
+      declared: MIT

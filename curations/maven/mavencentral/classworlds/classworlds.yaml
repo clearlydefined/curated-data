@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '1.1':
+    licensed:
+      declared: Plexus
   1.1-alpha-2:
     licensed:
-      declared: OTHER
+      declared: Plexus

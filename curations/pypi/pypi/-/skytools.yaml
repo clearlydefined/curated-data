@@ -1,0 +1,8 @@
+coordinates:
+  name: skytools
+  provider: pypi
+  type: pypi
+revisions:
+  '3.5':
+    licensed:
+      declared: ISC

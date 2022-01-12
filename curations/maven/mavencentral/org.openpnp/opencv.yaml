@@ -1,0 +1,9 @@
+coordinates:
+  name: opencv
+  namespace: org.openpnp
+  provider: mavencentral
+  type: maven
+revisions:
+  3.2.0-1:
+    licensed:
+      declared: BSD-3-Clause

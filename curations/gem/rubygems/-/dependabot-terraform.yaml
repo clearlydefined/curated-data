@@ -1,0 +1,11 @@
+coordinates:
+  name: dependabot-terraform
+  provider: rubygems
+  type: gem
+revisions:
+  0.129.5:
+    licensed:
+      declared: OTHER
+  0.162.2:
+    licensed:
+      declared: OTHER

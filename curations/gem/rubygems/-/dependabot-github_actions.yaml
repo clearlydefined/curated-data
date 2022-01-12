@@ -1,0 +1,8 @@
+coordinates:
+  name: dependabot-github_actions
+  provider: rubygems
+  type: gem
+revisions:
+  0.129.5:
+    licensed:
+      declared: OTHER

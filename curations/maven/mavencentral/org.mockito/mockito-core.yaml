@@ -16,16 +16,19 @@ revisions:
   2.12.0:
     licensed:
       declared: MIT
+  2.13.0:
+    licensed:
+      declared: MIT
   2.17.0:
     licensed:
       declared: MIT
   2.19.0:
     licensed:
       declared: MIT
-  2.23.0:
+  2.21.0:
     licensed:
       declared: MIT
-  2.21.0:
+  2.23.0:
     licensed:
       declared: MIT
   2.23.4:
@@ -35,6 +38,9 @@ revisions:
     licensed:
       declared: MIT
   2.27.0:
+    licensed:
+      declared: MIT
+  2.4.0:
     licensed:
       declared: MIT
   2.7.21:

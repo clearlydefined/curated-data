@@ -13,6 +13,9 @@ revisions:
   20.1.0:
     licensed:
       declared: OTHER
+  20.1.5:
+    licensed:
+      declared: OTHER
   21.0.1:
     licensed:
       declared: OTHER

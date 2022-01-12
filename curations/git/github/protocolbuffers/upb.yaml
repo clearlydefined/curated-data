@@ -1,0 +1,9 @@
+coordinates:
+  name: upb
+  namespace: protocolbuffers
+  provider: github
+  type: git
+revisions:
+  160625a9728b4031a21ad1e1c0146ea2c3a851eb:
+    licensed:
+      declared: BSD-3-Clause

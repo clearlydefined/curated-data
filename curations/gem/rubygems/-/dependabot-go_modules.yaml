@@ -1,0 +1,8 @@
+coordinates:
+  name: dependabot-go_modules
+  provider: rubygems
+  type: gem
+revisions:
+  0.162.2:
+    licensed:
+      declared: OTHER
