@@ -1,0 +1,9 @@
+coordinates:
+  name: react
+  namespace: '@handsontable'
+  provider: npmjs
+  type: npm
+revisions:
+  10.0.0:
+    licensed:
+      declared: NONE
