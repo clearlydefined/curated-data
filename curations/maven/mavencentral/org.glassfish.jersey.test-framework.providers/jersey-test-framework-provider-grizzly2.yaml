@@ -1,0 +1,9 @@
+coordinates:
+  name: jersey-test-framework-provider-grizzly2
+  namespace: org.glassfish.jersey.test-framework.providers
+  provider: mavencentral
+  type: maven
+revisions:
+  2.25.1:
+    licensed:
+      declared: CDDL-1.0
