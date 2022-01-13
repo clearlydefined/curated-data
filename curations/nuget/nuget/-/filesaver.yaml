@@ -1,0 +1,8 @@
+coordinates:
+  name: filesaver
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.20151003:
+    licensed:
+      declared: MIT
