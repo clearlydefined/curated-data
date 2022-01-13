@@ -1,0 +1,8 @@
+coordinates:
+  name: ckeditor5-custom-build
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1:
+    licensed:
+      declared: MIT OR OTHER
