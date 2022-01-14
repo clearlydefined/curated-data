@@ -1,0 +1,6 @@
+coordinates:
+  name: ignore-this-test
+  namespace: boostorg
+  provider: github
+  type: git
+revisions: {}
