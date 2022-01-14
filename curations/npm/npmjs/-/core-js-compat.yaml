@@ -1,0 +1,11 @@
+coordinates:
+  name: core-js-compat
+  provider: npmjs
+  type: npm
+revisions:
+  3.20.1:
+    licensed:
+      declared: BSD-3-Clause
+  3.20.2:
+    licensed:
+      declared: MIT
