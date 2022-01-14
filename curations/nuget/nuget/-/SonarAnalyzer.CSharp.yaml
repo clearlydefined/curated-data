@@ -12,6 +12,9 @@ revisions:
   6.6.0.3969:
     licensed:
       declared: LGPL-3.0-or-later
+  7.1.0.5212:
+    licensed:
+      declared: LGPL-3.0-or-later
   7.11.0.8083:
     licensed:
       declared: LGPL-3.0-or-later
@@ -31,6 +34,9 @@ revisions:
     licensed:
       declared: LGPL-3.0-or-later
   7.17.0.9346:
+    licensed:
+      declared: LGPL-3.0-or-later
+  7.3.0.5690:
     licensed:
       declared: LGPL-3.0-or-later
   7.7.0.7192:

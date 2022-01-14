@@ -1,0 +1,8 @@
+coordinates:
+  name: System.Windows.Forms
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.0:
+    licensed:
+      declared: NONE
