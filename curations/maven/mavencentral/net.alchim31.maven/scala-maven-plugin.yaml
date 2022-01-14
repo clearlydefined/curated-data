@@ -1,0 +1,9 @@
+coordinates:
+  name: scala-maven-plugin
+  namespace: net.alchim31.maven
+  provider: mavencentral
+  type: maven
+revisions:
+  4.5.4:
+    licensed:
+      declared: Unlicense
