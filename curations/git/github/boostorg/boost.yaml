@@ -10,3 +10,9 @@ revisions:
   436ad1dfcfc7e0246141beddd11c8a4e9c10b146:
     licensed:
       declared: BSL-1.0
+  9d3f9bcd7d416880d4631d7d39cceeb4e8f25da0:
+    licensed:
+      declared: BSD-3-Clause
+  ecb35096bc1cb37ba62d9cb93a344b76ea4943ce:
+    licensed:
+      declared: MIT
