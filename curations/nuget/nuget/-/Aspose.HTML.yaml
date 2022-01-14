@@ -1,0 +1,8 @@
+coordinates:
+  name: Aspose.HTML
+  provider: nuget
+  type: nuget
+revisions:
+  21.10.0:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,16 @@
+coordinates:
+  name: couchbase-net-client
+  namespace: couchbase
+  provider: github
+  type: git
+revisions:
+  617b1a05f7491b0006c0c9df222828641aa5b5fb:
+    files:
+      - license: NONE
+        path: Src/Couchbase/IO/Operations/SubDocument/SubCounter.cs
+      - license: NONE
+        path: README.md
+      - license: OTHER
+        path: Src/Couchbase/Authentication/SASL/PBKDF2.cs
+    licensed:
+      declared: Apache-2.0

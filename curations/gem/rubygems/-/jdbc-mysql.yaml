@@ -1,0 +1,8 @@
+coordinates:
+  name: jdbc-mysql
+  provider: rubygems
+  type: gem
+revisions:
+  5.1.46:
+    licensed:
+      declared: GPL-2.0-only

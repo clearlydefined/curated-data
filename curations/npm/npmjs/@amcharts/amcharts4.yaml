@@ -1,0 +1,9 @@
+coordinates:
+  name: amcharts4
+  namespace: '@amcharts'
+  provider: npmjs
+  type: npm
+revisions:
+  4.5.3:
+    licensed:
+      declared: OTHER
