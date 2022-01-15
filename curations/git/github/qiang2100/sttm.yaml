@@ -1,0 +1,9 @@
+coordinates:
+  name: sttm
+  namespace: qiang2100
+  provider: github
+  type: git
+revisions:
+  b5ba197cede4d8451c109a994127d9bdcce316c9:
+    licensed:
+      declared: NONE
