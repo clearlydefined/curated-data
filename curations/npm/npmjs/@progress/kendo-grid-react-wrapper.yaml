@@ -1,12 +1,9 @@
 coordinates:
-  name: kendo-react-progressbars
+  name: kendo-grid-react-wrapper
   namespace: '@progress'
   provider: npmjs
   type: npm
 revisions:
-  3.15.0:
-    licensed:
-      declared: OTHER
-  4.0.0:
+  2019.4.1014:
     licensed:
       declared: OTHER

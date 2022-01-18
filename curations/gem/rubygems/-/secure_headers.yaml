@@ -1,11 +1,8 @@
 coordinates:
-  name: standard
+  name: secure_headers
   provider: rubygems
   type: gem
 revisions:
-  1.6.0:
-    licensed:
-      declared: MIT
-  1.5.0:
+  6.3.3:
     licensed:
       declared: MIT
