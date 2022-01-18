@@ -1,0 +1,8 @@
+coordinates:
+  name: standard
+  provider: rubygems
+  type: gem
+revisions:
+  1.5.0:
+    licensed:
+      declared: MIT
