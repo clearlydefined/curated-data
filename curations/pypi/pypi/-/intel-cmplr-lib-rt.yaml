@@ -1,0 +1,8 @@
+coordinates:
+  name: intel-cmplr-lib-rt
+  provider: pypi
+  type: pypi
+revisions:
+  2022.0.1:
+    licensed:
+      declared: OTHER
