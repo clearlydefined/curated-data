@@ -1,0 +1,17 @@
+coordinates:
+  name: shiro-crypto-core
+  namespace: org.apache.shiro
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.8.0:
+    described:
+      sourceLocation:
+        name: shiro
+        namespace: apache
+        provider: github
+        revision: a86c51a11c1b6df6b097e312f5709924479edccc
+        type: git
+        url: 'https://github.com/apache/shiro/commit/a86c51a11c1b6df6b097e312f5709924479edccc'
+    licensed:
+      declared: Apache-2.0
