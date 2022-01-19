@@ -6,11 +6,6 @@ coordinates:
 revisions:
   2.16.0:
     described:
-      facets:
-        dev:
-          - log4j-core/src/main
-        examples:
-          - log4j-core/src/test
       sourceLocation:
         name: logging-log4j2
         namespace: apache
