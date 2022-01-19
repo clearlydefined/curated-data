@@ -1,0 +1,9 @@
+coordinates:
+  name: jdom
+  namespace: jdom
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: OTHER

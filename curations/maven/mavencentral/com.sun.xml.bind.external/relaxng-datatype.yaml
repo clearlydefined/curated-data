@@ -1,0 +1,9 @@
+coordinates:
+  name: relaxng-datatype
+  namespace: com.sun.xml.bind.external
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.2:
+    licensed:
+      declared: BSD-3-Clause

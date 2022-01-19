@@ -1,0 +1,8 @@
+coordinates:
+  name: ruamel-yaml-conda
+  provider: pypi
+  type: pypi
+revisions:
+  0.15.80:
+    licensed:
+      declared: NONE

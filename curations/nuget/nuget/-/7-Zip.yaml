@@ -1,0 +1,8 @@
+coordinates:
+  name: 7-Zip
+  provider: nuget
+  type: nuget
+revisions:
+  9.22.0:
+    licensed:
+      declared: NONE

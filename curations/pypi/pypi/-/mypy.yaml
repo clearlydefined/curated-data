@@ -32,3 +32,12 @@ revisions:
         url: 'https://github.com/python/mypy/commit/f5fc579cf07f2078c9312044f6bcb132f891d746'
     licensed:
       declared: MIT
+  '0.920':
+    licensed:
+      declared: MIT
+  '0.930':
+    licensed:
+      declared: MIT
+  '0.931':
+    licensed:
+      declared: MIT

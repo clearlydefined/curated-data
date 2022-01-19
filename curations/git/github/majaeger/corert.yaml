@@ -1,0 +1,9 @@
+coordinates:
+  name: corert
+  namespace: majaeger
+  provider: github
+  type: git
+revisions:
+  c46f46f5ac01bc89b658a520dd413cf2566e42da:
+    licensed:
+      declared: MIT AND OTHER

@@ -1,0 +1,8 @@
+coordinates:
+  name: secure_headers
+  provider: rubygems
+  type: gem
+revisions:
+  6.3.3:
+    licensed:
+      declared: MIT

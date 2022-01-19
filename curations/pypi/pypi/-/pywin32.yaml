@@ -30,3 +30,6 @@ revisions:
   '302':
     licensed:
       declared: PSF-2.0
+  '303':
+    licensed:
+      declared: PSF-2.0

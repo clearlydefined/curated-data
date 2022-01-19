@@ -1,0 +1,9 @@
+coordinates:
+  name: junit-platform-native
+  namespace: org.graalvm.buildtools
+  provider: mavencentral
+  type: maven
+revisions:
+  0.9.8:
+    licensed:
+      declared: UPL-1.0

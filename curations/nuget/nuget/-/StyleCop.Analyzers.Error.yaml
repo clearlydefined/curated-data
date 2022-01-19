@@ -1,0 +1,8 @@
+coordinates:
+  name: StyleCop.Analyzers.Error
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.2:
+    licensed:
+      declared: NONE

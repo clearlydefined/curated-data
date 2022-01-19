@@ -48,6 +48,9 @@ revisions:
   1.2.13:
     licensed:
       declared: MIT
+  1.2.15:
+    licensed:
+      declared: MIT
   1.2.2-beta:
     licensed:
       declared: MIT

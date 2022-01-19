@@ -1,0 +1,8 @@
+coordinates:
+  name: Akamai.EdgeGrid.Auth
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.0.1:
+    licensed:
+      declared: Apache-2.0

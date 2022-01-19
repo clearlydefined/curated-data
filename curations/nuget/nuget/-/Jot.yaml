@@ -1,0 +1,8 @@
+coordinates:
+  name: Jot
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.7:
+    licensed:
+      declared: MIT

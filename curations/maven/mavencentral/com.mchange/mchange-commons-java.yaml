@@ -7,3 +7,6 @@ revisions:
   0.2.15:
     licensed:
       declared: LGPL-2.1-only OR EPL-1.0
+  0.2.19:
+    licensed:
+      declared: LGPL-2.1-only OR EPL-1.0

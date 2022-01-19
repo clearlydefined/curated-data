@@ -1,0 +1,9 @@
+coordinates:
+  name: json4s-ext_2.11
+  namespace: org.json4s
+  provider: mavencentral
+  type: maven
+revisions:
+  3.2.11:
+    licensed:
+      declared: Apache-2.0

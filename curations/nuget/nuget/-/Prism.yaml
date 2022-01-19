@@ -5,4 +5,7 @@ coordinates:
 revisions:
   4.1.0:
     licensed:
-      declared: MS-PL
+      declared: OTHER
+  5.0.0:
+    licensed:
+      declared: OTHER
