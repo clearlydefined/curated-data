@@ -1,0 +1,22 @@
+coordinates:
+  name: log4j-core
+  namespace: org.apache.logging.log4j
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.16.0:
+    described:
+      facets:
+        dev:
+          - log4j-core/src/main
+        examples:
+          - log4j-core/src/test
+      sourceLocation:
+        name: logging-log4j2
+        namespace: apache
+        provider: github
+        revision: cffe58f6a433ea1ab60ceb129d4c9b3377acda1d
+        type: git
+        url: 'https://github.com/apache/logging-log4j2/commit/cffe58f6a433ea1ab60ceb129d4c9b3377acda1d'
+    licensed:
+      declared: Apache-2.0
