@@ -9,6 +9,9 @@ revisions:
         path: package/package.json
     licensed:
       declared: OTHER
+  1.20.6:
+    licensed:
+      declared: OTHER
   2.1.2:
     files:
       - license: OTHER
