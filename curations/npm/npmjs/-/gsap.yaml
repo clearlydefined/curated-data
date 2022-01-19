@@ -9,6 +9,9 @@ revisions:
         path: package/package.json
     licensed:
       declared: OTHER
+  2.0.2:
+    licensed:
+      declared: MIT
   2.1.2:
     files:
       - license: OTHER
