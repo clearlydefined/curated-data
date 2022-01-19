@@ -1,0 +1,8 @@
+coordinates:
+  name: NLog.Extensions.AzureTableStorage
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.4:
+    licensed:
+      declared: GPL-2.0-only
