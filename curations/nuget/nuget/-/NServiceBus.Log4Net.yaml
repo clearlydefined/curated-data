@@ -1,11 +1,8 @@
 coordinates:
-  name: Prism
+  name: NServiceBus.Log4Net
   provider: nuget
   type: nuget
 revisions:
-  4.1.0:
-    licensed:
-      declared: OTHER
-  5.0.0:
+  2.0.0:
     licensed:
       declared: OTHER

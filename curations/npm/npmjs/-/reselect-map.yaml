@@ -1,0 +1,14 @@
+coordinates:
+  name: reselect-map
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.5:
+    described:
+      sourceLocation:
+        name: reselect-map
+        namespace: heyimalex
+        provider: github
+        revision: c15a52e4ebe94b78642a014631d55f343f35f3e7
+        type: git
+        url: 'https://github.com/heyimalex/reselect-map/commit/c15a52e4ebe94b78642a014631d55f343f35f3e7'
