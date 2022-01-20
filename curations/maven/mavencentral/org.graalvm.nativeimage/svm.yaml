@@ -1,0 +1,9 @@
+coordinates:
+  name: svm
+  namespace: org.graalvm.nativeimage
+  provider: mavencentral
+  type: maven
+revisions:
+  21.3.0:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
