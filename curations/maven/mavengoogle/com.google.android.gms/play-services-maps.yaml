@@ -1,12 +1,9 @@
 coordinates:
-  name: play-services-auth-api-phone
+  name: play-services-maps
   namespace: com.google.android.gms
   provider: mavengoogle
   type: maven
 revisions:
-  16.0.0:
-    licensed:
-      declared: OTHER
   17.0.0:
     licensed:
       declared: OTHER

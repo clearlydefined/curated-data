@@ -1,0 +1,9 @@
+coordinates:
+  name: ck-node16-win64
+  namespace: '@chilkat'
+  provider: npmjs
+  type: npm
+revisions:
+  9.50.88:
+    licensed:
+      declared: OTHER
