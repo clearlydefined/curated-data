@@ -1,0 +1,14 @@
+coordinates:
+  name: big-integer
+  provider: npmjs
+  type: npm
+revisions:
+  1.6.25:
+    described:
+      sourceLocation:
+        name: biginteger.js
+        namespace: peterolson
+        provider: github
+        revision: ae15d64d76a94a3fcc506df920e573d23066fd9e
+        type: git
+        url: 'https://github.com/peterolson/biginteger.js/commit/ae15d64d76a94a3fcc506df920e573d23066fd9e'
