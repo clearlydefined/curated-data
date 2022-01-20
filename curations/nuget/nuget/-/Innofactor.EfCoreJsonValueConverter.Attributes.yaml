@@ -1,0 +1,8 @@
+coordinates:
+  name: Innofactor.EfCoreJsonValueConverter.Attributes
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.1:
+    licensed:
+      declared: LGPL-3.0-only
