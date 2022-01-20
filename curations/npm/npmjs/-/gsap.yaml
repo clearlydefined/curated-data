@@ -23,6 +23,9 @@ revisions:
         path: package/package.json
     licensed:
       declared: OTHER
+  3.6.0:
+    licensed:
+      declared: OTHER
   3.6.1:
    licensed:
       declared: OTHER
