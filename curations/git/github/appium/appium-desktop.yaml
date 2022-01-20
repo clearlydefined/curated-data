@@ -1,0 +1,9 @@
+coordinates:
+  name: appium-desktop
+  namespace: appium
+  provider: github
+  type: git
+revisions:
+  5cac2f51c60445b17ecc82a014d182af9d3fcdcd:
+    licensed:
+      declared: Apache-2.0

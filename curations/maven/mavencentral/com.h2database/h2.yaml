@@ -33,3 +33,6 @@ revisions:
         url: 'https://github.com/h2database/h2database/commit/e1bcf3b6ba8927ff640299c879011f2df0750ef9'
     licensed:
       declared: MPL-2.0 OR EPL-1.0
+  2.0.206:
+    licensed:
+      declared: MPL-2.0 OR EPL-1.0

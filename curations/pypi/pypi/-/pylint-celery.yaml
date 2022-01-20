@@ -1,0 +1,8 @@
+coordinates:
+  name: pylint-celery
+  provider: pypi
+  type: pypi
+revisions:
+  '0.3':
+    licensed:
+      declared: GPL-2.0-only

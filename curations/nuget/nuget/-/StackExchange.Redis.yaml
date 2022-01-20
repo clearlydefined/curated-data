@@ -18,7 +18,13 @@ revisions:
   1.0.488:
     licensed:
       declared: MIT
+  1.1.553-alpha:
+    licensed:
+      declared: MIT
   1.1.572:
+    licensed:
+      declared: MIT
+  1.1.572-alpha:
     licensed:
       declared: MIT
   1.1.603:

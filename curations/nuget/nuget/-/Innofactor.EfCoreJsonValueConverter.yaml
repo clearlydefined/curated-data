@@ -1,0 +1,13 @@
+coordinates:
+  name: Innofactor.EfCoreJsonValueConverter
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.2:
+    files:
+      - attributions:
+          - 'Copyright (c) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
+        license: LGPL-3.0-only
+        path: clearlydefined/downloaded/LICENSE
+    licensed:
+      declared: LGPL-3.0-only
