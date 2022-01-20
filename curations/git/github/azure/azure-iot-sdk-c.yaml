@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-iot-sdk-c
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  17b7d536485b5e69555d76074803495b7b18e7ab:
+    licensed:
+      declared: MIT
