@@ -1,0 +1,9 @@
+coordinates:
+  name: tokenizer
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  f0857f042d96b5dd04ad5c2561f7006cddbdcde5:
+    licensed:
+      declared: BSL-1.0
