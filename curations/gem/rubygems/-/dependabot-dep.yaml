@@ -1,0 +1,8 @@
+coordinates:
+  name: dependabot-dep
+  provider: rubygems
+  type: gem
+revisions:
+  0.129.5:
+    licensed:
+      declared: AGPL-3.0-or-later
