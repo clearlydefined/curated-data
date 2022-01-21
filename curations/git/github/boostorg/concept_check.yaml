@@ -1,0 +1,9 @@
+coordinates:
+  name: concept_check
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  e34c735a1a6902de0d3e20ea58cfd8f101702458:
+    licensed:
+      declared: BSL-1.0
