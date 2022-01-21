@@ -1,0 +1,9 @@
+coordinates:
+  name: rational
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  564623136417068916495e2b24737054d607347c:
+    licensed:
+      declared: BSL-1.0
