@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.1.2:
+    licensed:
+      declared: CC0-1.0
   3.1.0:
     licensed:
       declared: CC0-1.0
