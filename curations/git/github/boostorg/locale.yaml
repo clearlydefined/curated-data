@@ -1,0 +1,9 @@
+coordinates:
+  name: locale
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  5789ae2532abbc3d9f5908b7c71ab079455d75a5:
+    licensed:
+      declared: BSL-1.0
