@@ -1,0 +1,9 @@
+coordinates:
+  name: pool
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  b516ac5b82571902ced902394b30d38b7d8182f0:
+    licensed:
+      declared: BSL-1.0
