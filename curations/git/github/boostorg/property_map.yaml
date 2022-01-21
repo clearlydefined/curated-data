@@ -1,0 +1,9 @@
+coordinates:
+  name: property_map
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  6ed5bffff77d0ca5502d581ddc557208a3f43cd7:
+    licensed:
+      declared: BSL-1.0
