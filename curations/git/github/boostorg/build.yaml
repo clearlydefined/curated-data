@@ -1,0 +1,9 @@
+coordinates:
+  name: build
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  aaa95bba19a7acb07badb1929737c67583b14ba0:
+    licensed:
+      declared: BSL-1.0
