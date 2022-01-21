@@ -1,0 +1,9 @@
+coordinates:
+  name: dynamic_bitset
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  11d85403b905e8a1b485590dd170fef90d4bd045:
+    licensed:
+      declared: BSL-1.0
