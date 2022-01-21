@@ -1,0 +1,9 @@
+coordinates:
+  name: interprocess
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  85786848f0c659173cf0f27eba7fa5401db562cc:
+    licensed:
+      declared: BSL-1.0
