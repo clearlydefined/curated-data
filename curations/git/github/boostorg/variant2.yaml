@@ -1,0 +1,9 @@
+coordinates:
+  name: variant2
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  e4b4b3f02beb42c3dce3b5d352bc225ea6a6cb8f:
+    licensed:
+      declared: BSL-1.0
