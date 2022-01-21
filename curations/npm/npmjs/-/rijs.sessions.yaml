@@ -1,0 +1,8 @@
+coordinates:
+  name: rijs.sessions
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.2:
+    licensed:
+      declared: MIT
