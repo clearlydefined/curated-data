@@ -1,0 +1,9 @@
+coordinates:
+  name: log
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  1aaf946b18fada68adc7ff9cbdc67d7609e07610:
+    licensed:
+      declared: BSL-1.0
