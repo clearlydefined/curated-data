@@ -1,0 +1,9 @@
+coordinates:
+  name: uuid
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  eaa4be7b96c99ad56effc351aa44d0bef04da5a3:
+    licensed:
+      declared: BSL-1.0
