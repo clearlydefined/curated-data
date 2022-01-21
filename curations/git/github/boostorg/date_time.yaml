@@ -1,0 +1,9 @@
+coordinates:
+  name: date_time
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  33dc6136f193a100c753c819694d6d11e9ab4123:
+    licensed:
+      declared: BSL-1.0
