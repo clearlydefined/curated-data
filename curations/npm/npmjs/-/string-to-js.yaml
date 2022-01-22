@@ -1,0 +1,8 @@
+coordinates:
+  name: string-to-js
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1:
+    licensed:
+      declared: MIT
