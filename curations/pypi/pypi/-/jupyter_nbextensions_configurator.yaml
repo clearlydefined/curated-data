@@ -1,0 +1,8 @@
+coordinates:
+  name: jupyter_nbextensions_configurator
+  provider: pypi
+  type: pypi
+revisions:
+  0.4.1:
+    licensed:
+      declared: BSD-3-Clause
