@@ -1,0 +1,9 @@
+coordinates:
+  name: scala-actors
+  namespace: org.scala-lang
+  provider: mavencentral
+  type: maven
+revisions:
+  2.11.12:
+    licensed:
+      declared: BSD-3-Clause
