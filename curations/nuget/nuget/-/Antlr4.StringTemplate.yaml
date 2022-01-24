@@ -1,0 +1,8 @@
+coordinates:
+  name: Antlr4.StringTemplate
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.6.9004:
+    licensed:
+      declared: BSD-3-Clause
