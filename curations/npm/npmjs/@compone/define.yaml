@@ -1,0 +1,9 @@
+coordinates:
+  name: define
+  namespace: '@compone'
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.4:
+    licensed:
+      declared: MIT
