@@ -1,0 +1,8 @@
+coordinates:
+  name: js-priority-queue
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.5:
+    licensed:
+      declared: CC0-1.0
