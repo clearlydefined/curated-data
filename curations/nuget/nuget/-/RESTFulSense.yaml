@@ -15,3 +15,6 @@ revisions:
   1.9.0:
     licensed:
       declared: MIT AND CC-BY-3.0
+  2.0.0:
+    licensed:
+      declared: MIT
