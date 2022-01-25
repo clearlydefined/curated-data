@@ -1,0 +1,9 @@
+coordinates:
+  name: jaxws-api
+  namespace: javax.xml.ws
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.0:
+    licensed:
+      declared: CDDL-1.1
