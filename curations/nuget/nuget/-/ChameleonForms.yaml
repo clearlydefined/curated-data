@@ -1,0 +1,8 @@
+coordinates:
+  name: ChameleonForms
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.0.16:
+    licensed:
+      declared: MIT
