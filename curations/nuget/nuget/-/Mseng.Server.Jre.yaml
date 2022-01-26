@@ -1,0 +1,8 @@
+coordinates:
+  name: Mseng.Server.Jre
+  provider: nuget
+  type: nuget
+revisions:
+  8.51.0:
+    licensed:
+      declared: NONE
