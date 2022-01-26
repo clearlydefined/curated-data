@@ -1,0 +1,15 @@
+coordinates:
+  name: reload4j
+  namespace: ch.qos.reload4j
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.2.18.3:
+    described:
+      sourceLocation:
+        name: reload4j
+        namespace: qos-ch
+        provider: github
+        revision: 493dabf689321c160a60aee5c6698a532a38e323
+        type: git
+        url: 'https://github.com/qos-ch/reload4j/commit/493dabf689321c160a60aee5c6698a532a38e323'
