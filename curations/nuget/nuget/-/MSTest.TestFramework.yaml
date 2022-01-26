@@ -29,3 +29,6 @@ revisions:
   2.2.4:
     licensed:
       declared: MIT
+  2.2.4-preview-20210331-02:
+    licensed:
+      declared: MIT
