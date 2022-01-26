@@ -1,0 +1,8 @@
+coordinates:
+  name: Lucene.Net.Spatial
+  provider: nuget
+  type: nuget
+revisions:
+  4.8.0-beta00015:
+    licensed:
+      declared: Apache-2.0
