@@ -1,0 +1,8 @@
+coordinates:
+  name: ngx-device-detector
+  provider: npmjs
+  type: npm
+revisions:
+  1.5.2:
+    licensed:
+      declared: MIT
