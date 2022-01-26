@@ -1,0 +1,8 @@
+coordinates:
+  name: utilise
+  provider: npmjs
+  type: npm
+revisions:
+  2.3.8:
+    licensed:
+      declared: MIT
