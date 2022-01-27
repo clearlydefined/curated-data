@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Apis.CloudSecurityToken.v1
+  provider: nuget
+  type: nuget
+revisions:
+  1.54.0.2425:
+    licensed:
+      declared: Apache-2.0
