@@ -14,19 +14,19 @@ revisions:
         path: www/resources/icons/silk/exclamation.png
       - license: CC-BY-2.5
         path: www/resources/icons/silk/readme.txt
-      - license: LGPL-2.1
+      - license: LGPL-2.1-only
         path: www/resources/icons/crystal_project/kchart.32x32.png
       - attributions:
           - Copyright (c) 2006-2007 Everaldo Coelho.
-        license: LGPL-2.1
+        license: LGPL-2.1-only
         path: www/resources/icons/crystal_project/readme.txt
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-error.48x48.png
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-error.svg.gz
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-about.64x64.png
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-authentication.48x48.png
       - license: CC-BY-2.5
         path: www/resources/icons/silk/heart.png
@@ -36,45 +36,45 @@ revisions:
         path: www/resources/icons/silk/error.png
       - license: CC-BY-2.5
         path: www/resources/icons/silk/accept.png
-      - license: LGPL-2.1
+      - license: LGPL-2.1-only
         path: www/resources/icons/crystal_project/date.32x32.png
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-warning.svg.gz
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-about.svg.gz
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-authentication.svg.gz
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-warning.48x48.png
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/readme.txt
   f5ff7c4643b9b784957f5e1fbf86fc740cd6b78a:
     files:
-      - license: LGPL-2.1
+      - license: LGPL-2.1-only
         path: www/resources/icons/crystal_project/date.32x32.png
-      - license: LGPL-2.1
+      - license: LGPL-2.1-only
         path: www/resources/icons/crystal_project/kchart.32x32.png
       - attributions:
           - Copyright (c) 2006-2007 Everaldo Coelho.
-        license: LGPL-2.1
+        license: LGPL-2.1-only
         path: www/resources/icons/crystal_project/readme.txt
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-about.64x64.png
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-about.svg.gz
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-authentication.48x48.png
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-authentication.svg.gz
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-error.48x48.png
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-error.svg.gz
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-warning.48x48.png
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/gtk-dialog-warning.svg.gz
-      - license: GPL-2.0
+      - license: GPL-2.0-only
         path: www/resources/icons/experience/readme.txt
       - license: CC-BY-2.5
         path: www/resources/icons/silk/accept.png
