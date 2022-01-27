@@ -8,67 +8,67 @@ revisions:
     files:
       - attributions:
           - Copyright (c) 2005-2011 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/Resources.java
       - attributions:
           - Copyright (c) 2009-2010 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/ManagedBean.java
       - attributions:
           - Copyright (c) 2009-2012 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/sql/DataSourceDefinitions.java
       - attributions:
           - Copyright (c) 2005-2011 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/Resource.java
       - attributions:
           - Copyright (c) 2005-2011 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/security/DenyAll.java
       - attributions:
           - Copyright (c) 2005-2011 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/security/RolesAllowed.java
       - attributions:
           - Copyright (c) 2005-2010 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/security/package.html
       - attributions:
           - Copyright (c) 2005-2010 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/package.html
       - attributions:
           - Copyright (c) 2005-2011 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/Generated.java
       - attributions:
           - Copyright (c) 2009-2012 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/sql/DataSourceDefinition.java
       - attributions:
           - Copyright (c) 2005-2011 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/PostConstruct.java
       - attributions:
           - Copyright (c) 2005-2011 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/security/RunAs.java
       - attributions:
           - Copyright (c) 2005-2011 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/security/DeclareRoles.java
       - attributions:
           - Copyright (c) 2005-2011 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/security/PermitAll.java
       - attributions:
           - Copyright (c) 2005-2011 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: src/main/java/javax/annotation/PreDestroy.java
       - attributions:
           - Copyright (c) 1997-2012 Oracle and/or its affiliates. All rights reserved.
-        license: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+        license: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
         path: pom.xml
     licensed:
-      declared: CDDL-1.1 OR GPL-2.0-with-classpath-exception
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
