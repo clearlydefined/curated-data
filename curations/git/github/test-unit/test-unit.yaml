@@ -1,3 +1,11 @@
+coordinates:
+  name: test-unit
+  namespace: test-unit
+  provider: github
+  type: git
+revisions:
+  c004319558db37f5f6426ea52668920690ceb9a8:
+    files:
       - attributions:
           - Copyright (c) 2001-2008 Python Software Foundation
           - Copyright (c) 2008-2011 Kouhei Sutou
