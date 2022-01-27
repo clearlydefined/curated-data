@@ -1,0 +1,8 @@
+coordinates:
+  name: xrs
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.2:
+    licensed:
+      declared: MIT
