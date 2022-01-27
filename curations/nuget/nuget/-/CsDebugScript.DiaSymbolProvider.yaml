@@ -1,0 +1,8 @@
+coordinates:
+  name: CsDebugScript.DiaSymbolProvider
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.0.355:
+    licensed:
+      declared: Apache-2.0
