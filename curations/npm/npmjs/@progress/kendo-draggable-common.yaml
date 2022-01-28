@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-draggable-common
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.0-dev.202111240934:
+    licensed:
+      declared: OTHER
