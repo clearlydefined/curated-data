@@ -1,5 +1,5 @@
 coordinates:
-  name: dependabot-composer
+  name: dependabot-python
   provider: rubygems
   type: gem
 revisions:
