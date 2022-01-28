@@ -1,0 +1,8 @@
+coordinates:
+  name: Gu.Roslyn.Extensions
+  provider: nuget
+  type: nuget
+revisions:
+  0.5.1-dev:
+    licensed:
+      declared: MIT
