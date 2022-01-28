@@ -1,0 +1,8 @@
+coordinates:
+  name: dependabot-python
+  provider: rubygems
+  type: gem
+revisions:
+  0.162.0:
+    licensed:
+      declared: OTHER
