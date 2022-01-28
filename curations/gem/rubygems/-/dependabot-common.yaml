@@ -1,9 +1,12 @@
 coordinates:
-  name: dependabot-composer
+  name: dependabot-common
   provider: rubygems
   type: gem
 revisions:
   0.129.5:
+    licensed:
+      declared: OTHER
+  0.145.4:
     licensed:
       declared: OTHER
   0.162.0:
