@@ -700,3 +700,6 @@ revisions:
   '9.7':
     licensed:
       declared: Apache-2.0
+  9.9.1:
+    licensed:
+      declared: Apache-2.0
