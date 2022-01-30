@@ -1,0 +1,9 @@
+coordinates:
+  name: sonic
+  namespace: waywardgeek
+  provider: github
+  type: git
+revisions:
+  60eeb064f62a106069d2ce148fabd724f9df9780:
+    licensed:
+      declared: Apache-2.0
