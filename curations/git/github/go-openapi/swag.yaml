@@ -1,0 +1,9 @@
+coordinates:
+  name: swag
+  namespace: go-openapi
+  provider: github
+  type: git
+revisions:
+  cf0bdb963811675a4d7e74901cefc7411a1df939:
+    licensed:
+      declared: Apache-2.0
