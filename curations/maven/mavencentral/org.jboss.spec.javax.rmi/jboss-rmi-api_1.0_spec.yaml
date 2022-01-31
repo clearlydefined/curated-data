@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-rmi-api_1.0_spec
+  namespace: org.jboss.spec.javax.rmi
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.6.Final:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
