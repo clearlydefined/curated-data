@@ -1,0 +1,9 @@
+coordinates:
+  name: ffmpeg-kit-min
+  namespace: com.arthenica
+  provider: mavencentral
+  type: maven
+revisions:
+  4.5.1.LTS:
+    licensed:
+      declared: LGPL-3.0-or-later
