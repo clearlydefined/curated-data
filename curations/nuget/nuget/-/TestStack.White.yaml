@@ -1,0 +1,8 @@
+coordinates:
+  name: TestStack.White
+  provider: nuget
+  type: nuget
+revisions:
+  0.13.3:
+    licensed:
+      declared: Apache-2.0 OR MIT
