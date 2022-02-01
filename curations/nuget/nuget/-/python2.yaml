@@ -5,7 +5,10 @@ coordinates:
 revisions:
   2.7.12:
     licensed:
-      declared: Python-2.0
+      declared: OTHER
+  2.7.13:
+    licensed:
+      declared: OTHER
   2.7.17:
     licensed:
-      declared: Python-2.0
+      declared: OTHER
