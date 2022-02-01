@@ -6,6 +6,9 @@ revisions:
   1.10.10:
     licensed:
       declared: MIT
+  1.10.12:
+    licensed:
+      declared: MIT
   1.10.15:
     licensed:
       declared: MIT
