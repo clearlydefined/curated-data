@@ -1,0 +1,8 @@
+coordinates:
+  name: active_record_union
+  provider: rubygems
+  type: gem
+revisions:
+  1.3.0:
+    licensed:
+      declared: CC0-1.0
