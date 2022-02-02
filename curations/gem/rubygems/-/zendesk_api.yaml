@@ -1,0 +1,8 @@
+coordinates:
+  name: zendesk_api
+  provider: rubygems
+  type: gem
+revisions:
+  1.26.0:
+    licensed:
+      declared: Apache-2.0
