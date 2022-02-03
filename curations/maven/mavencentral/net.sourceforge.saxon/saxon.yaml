@@ -1,0 +1,9 @@
+coordinates:
+  name: saxon
+  namespace: net.sourceforge.saxon
+  provider: mavencentral
+  type: maven
+revisions:
+  9.1.0.8:
+    licensed:
+      declared: MPL-1.0
