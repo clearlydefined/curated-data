@@ -1,0 +1,9 @@
+coordinates:
+  name: jhighlight
+  namespace: org.codelibs
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.3:
+    licensed:
+      declared: CDDL-1.0 OR LGPL-2.1-or-later
