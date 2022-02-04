@@ -1,0 +1,9 @@
+coordinates:
+  name: jain-sip-ri
+  namespace: javax.sip
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.344:
+    licensed:
+      declared: OTHER
