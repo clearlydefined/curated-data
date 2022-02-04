@@ -1,0 +1,9 @@
+coordinates:
+  name: pmd-core
+  namespace: net.sourceforge.pmd
+  provider: mavencentral
+  type: maven
+revisions:
+  5.5.2:
+    licensed:
+      declared: BSD-3-Clause

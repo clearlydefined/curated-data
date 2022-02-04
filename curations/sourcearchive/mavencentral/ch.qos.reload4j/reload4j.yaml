@@ -26,3 +26,14 @@ revisions:
         url: 'https://github.com/qos-ch/reload4j/commit/3d0e11a3e15250ad410751200257f01789e9eb6c'
     licensed:
       declared: Apache-2.0
+  1.2.18.5:
+    described:
+      sourceLocation:
+        name: reload4j
+        namespace: qos-ch
+        provider: github
+        revision: 98e380decc741e0e478b380bfd12724ecf4ec323
+        type: git
+        url: 'https://github.com/qos-ch/reload4j/commit/98e380decc741e0e478b380bfd12724ecf4ec323'
+    licensed:
+      declared: Apache-2.0
