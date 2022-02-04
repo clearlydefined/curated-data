@@ -1,0 +1,9 @@
+coordinates:
+  name: jsonsql
+  namespace: trentrichardson
+  provider: github
+  type: git
+revisions:
+  a9b954bad061fe1c22df9c631d77a89a9c7e4016:
+    licensed:
+      declared: MIT
