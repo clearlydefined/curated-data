@@ -1,0 +1,9 @@
+coordinates:
+  name: oauth2
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  81ed05c6b58c5509b83ac75450e38d97242e7168:
+    licensed:
+      declared: BSD-3-Clause
