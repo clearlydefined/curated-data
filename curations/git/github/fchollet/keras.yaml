@@ -1,0 +1,9 @@
+coordinates:
+  name: keras
+  namespace: fchollet
+  provider: github
+  type: git
+revisions:
+  018e55be7c77f168abaea898233ccec035bb39d0:
+    licensed:
+      declared: MIT
