@@ -1,0 +1,9 @@
+coordinates:
+  name: google-api-go-client
+  namespace: googleapis
+  provider: github
+  type: git
+revisions:
+  9c02ff42de049ba27fb380e5660276ecbe0315a2:
+    licensed:
+      declared: BSD-3-Clause
