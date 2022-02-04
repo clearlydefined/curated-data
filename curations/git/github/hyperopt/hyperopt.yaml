@@ -1,0 +1,9 @@
+coordinates:
+  name: hyperopt
+  namespace: hyperopt
+  provider: github
+  type: git
+revisions:
+  f38b538cfed9271e0fed5c5336eb8a45ae91d015:
+    licensed:
+      declared: BSD-3-Clause
