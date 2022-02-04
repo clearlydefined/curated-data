@@ -1,0 +1,8 @@
+coordinates:
+  name: XMPPFramework
+  provider: cocoapods
+  type: pod
+revisions:
+  3.6.4:
+    licensed:
+      declared: BSD-Source-Code
