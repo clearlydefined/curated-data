@@ -1,0 +1,9 @@
+coordinates:
+  name: json-patch
+  namespace: evanphx
+  provider: github
+  type: git
+revisions:
+  d05b3863d2c7bf53a3c4e789a5f9dc33e3b40bee:
+    licensed:
+      declared: BSD-3-Clause
