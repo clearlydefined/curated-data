@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.swt.cocoa.macosx.x86_64
+  namespace: org.eclipse.swt
+  provider: mavencentral
+  type: maven
+revisions:
+  '4.3':
+    licensed:
+      declared: EPL-1.0
