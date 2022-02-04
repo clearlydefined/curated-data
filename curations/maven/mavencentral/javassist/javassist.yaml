@@ -1,0 +1,9 @@
+coordinates:
+  name: javassist
+  namespace: javassist
+  provider: mavencentral
+  type: maven
+revisions:
+  3.11.0.GA:
+    licensed:
+      declared: OTHER
