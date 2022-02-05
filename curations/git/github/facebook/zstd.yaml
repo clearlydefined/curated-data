@@ -15,7 +15,7 @@ revisions:
       declared: BSD-3-Clause OR GPL-2.0-only
   645a2975c394dc115b57a652cf175cd4c2b59292:
     licensed:
-      declared: BSD-3-Clause AND GPL-2.0 OR GPL-2.0-only
+      declared: BSD-3-Clause OR GPL-2.0-only
   791626dfb92acf4a3d3ba0342636b0dd82848e01:
     licensed:
       declared: BSD-3-Clause OR GPL-2.0-only
