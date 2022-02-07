@@ -1,0 +1,9 @@
+coordinates:
+  name: jaeger-lib
+  namespace: uber
+  provider: github
+  type: git
+revisions:
+  19c1561a544f618cb465213b043f67103c09107b:
+    licensed:
+      declared: Apache-2.0
