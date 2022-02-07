@@ -6,4 +6,4 @@ coordinates:
 revisions:
   3.11.0.GA:
     licensed:
-      declared: OTHER
+      declared: MPL-1.1 OR LGPL-2.1-or-later
