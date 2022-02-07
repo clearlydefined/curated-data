@@ -1,0 +1,9 @@
+coordinates:
+  name: go-stdlib
+  namespace: opentracing-contrib
+  provider: github
+  type: git
+revisions:
+  8a6ff1ad1691a29e4f7b5d46604f97634997c8c4:
+    licensed:
+      declared: Apache-2.0
