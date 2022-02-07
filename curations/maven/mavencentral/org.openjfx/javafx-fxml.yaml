@@ -1,0 +1,9 @@
+coordinates:
+  name: javafx-fxml
+  namespace: org.openjfx
+  provider: mavencentral
+  type: maven
+revisions:
+  11.0.2:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0

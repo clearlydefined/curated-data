@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Apis.Dfareporting.v3_5
+  provider: nuget
+  type: nuget
+revisions:
+  1.55.0.2560:
+    licensed:
+      declared: Apache-2.0

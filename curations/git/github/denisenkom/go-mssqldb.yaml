@@ -1,0 +1,9 @@
+coordinates:
+  name: go-mssqldb
+  namespace: denisenkom
+  provider: github
+  type: git
+revisions:
+  d9abbec934ba5bf95d48b9510668cd7226ce8c5d:
+    licensed:
+      declared: BSD-3-Clause

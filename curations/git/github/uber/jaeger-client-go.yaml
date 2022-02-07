@@ -1,0 +1,9 @@
+coordinates:
+  name: jaeger-client-go
+  namespace: uber
+  provider: github
+  type: git
+revisions:
+  049c226d206a6d9e1c0d47c93991275d0698ee9e:
+    licensed:
+      declared: Apache-2.0
