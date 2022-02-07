@@ -1,0 +1,9 @@
+coordinates:
+  name: jsonreference
+  namespace: go-openapi
+  provider: github
+  type: git
+revisions:
+  28a8ff900147568dc266d4cd84e062750e44f161:
+    licensed:
+      declared: Apache-2.0
