@@ -1,0 +1,9 @@
+coordinates:
+  name: mapstructure
+  namespace: mitchellh
+  provider: github
+  type: git
+revisions:
+  8ebf2d61a8b4adcce25fc9fc9b76e8452a00672f:
+    licensed:
+      declared: MIT
