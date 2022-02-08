@@ -1,0 +1,8 @@
+coordinates:
+  name: UCWA.CSharp
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.13.1:
+    licensed:
+      declared: MIT
