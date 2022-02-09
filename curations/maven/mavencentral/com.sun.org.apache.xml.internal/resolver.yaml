@@ -1,0 +1,9 @@
+coordinates:
+  name: resolver
+  namespace: com.sun.org.apache.xml.internal
+  provider: mavencentral
+  type: maven
+revisions:
+  '20050927':
+    licensed:
+      declared: Apache-2.0
