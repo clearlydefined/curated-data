@@ -6,7 +6,7 @@ coordinates:
 revisions:
   859b3ef565e237f9f1a0fb6b55385c497545680d:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER
   c90efee705eefc6efa975842f5e85f455b0b4639:
     licensed:
       declared: BSD-3-Clause AND OTHER
