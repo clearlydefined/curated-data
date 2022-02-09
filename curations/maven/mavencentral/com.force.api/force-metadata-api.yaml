@@ -1,0 +1,9 @@
+coordinates:
+  name: force-metadata-api
+  namespace: com.force.api
+  provider: mavencentral
+  type: maven
+revisions:
+  29.0.0:
+    licensed:
+      declared: BSD-3-Clause

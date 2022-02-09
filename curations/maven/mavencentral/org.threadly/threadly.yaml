@@ -1,0 +1,9 @@
+coordinates:
+  name: threadly
+  namespace: org.threadly
+  provider: mavencentral
+  type: maven
+revisions:
+  4.9.0:
+    licensed:
+      declared: MPL-2.0

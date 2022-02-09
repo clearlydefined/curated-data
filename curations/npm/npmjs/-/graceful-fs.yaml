@@ -10,6 +10,9 @@ revisions:
     files:
       - license: BSD-2-Clause
         path: package/package.json
+  2.0.1:
+    licensed:
+      declared: BSD-2-Clause
   2.0.3:
     licensed:
       declared: BSD-2-Clause

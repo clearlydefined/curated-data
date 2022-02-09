@@ -1,0 +1,8 @@
+coordinates:
+  name: HTTPlease.Formatters
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.2:
+    licensed:
+      declared: MIT
