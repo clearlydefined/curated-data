@@ -6,7 +6,7 @@ coordinates:
 revisions:
   555d28b269f0569763d25dbe1a237ae74c6bcc82:
     licensed:
-      declared: Apache-2.0
+      declared: BSD-3-Clause AND OTHER
   6dc17368e09b0e8634d71cac8168d853e869a0c7:
     licensed:
       declared: BSD-3-Clause AND OTHER
