@@ -9,6 +9,6 @@ revisions:
         name: biginteger.js
         namespace: peterolson
         provider: github
-        revision: ae15d64d76a94a3fcc506df920e573d23066fd9e
+        revision: a0c10d68aae8f5df56a67b3e3eb353b428abf170
         type: git
-        url: 'https://github.com/peterolson/biginteger.js/commit/ae15d64d76a94a3fcc506df920e573d23066fd9e'
+        url: 'https://github.com/peterolson/biginteger.js/commit/a0c10d68aae8f5df56a67b3e3eb353b428abf170'
