@@ -1,0 +1,8 @@
+coordinates:
+  name: koa2-ratelimit
+  provider: npmjs
+  type: npm
+revisions:
+  0.9.0:
+    licensed:
+      declared: MIT
