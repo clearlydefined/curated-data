@@ -1,0 +1,8 @@
+coordinates:
+  name: mod_spatialite
+  provider: nuget
+  type: nuget
+revisions:
+  4.3.0.1:
+    licensed:
+      declared: MPL-2.0
