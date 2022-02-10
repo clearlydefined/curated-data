@@ -1,0 +1,8 @@
+coordinates:
+  name: hamljs
+  provider: npmjs
+  type: npm
+revisions:
+  0.6.2:
+    licensed:
+      declared: MIT
