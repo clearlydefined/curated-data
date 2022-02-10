@@ -1,0 +1,9 @@
+coordinates:
+  name: jmatio
+  namespace: org.tallison
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.5':
+    licensed:
+      declared: BSD-3-Clause
