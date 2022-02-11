@@ -13,10 +13,16 @@ revisions:
   52181f877a96ca3feb688820ba852a0c044cc620:
     licensed:
       declared: BSD-3-Clause OR GPL-2.0-only
+  645a2975c394dc115b57a652cf175cd4c2b59292:
+    licensed:
+      declared: BSD-3-Clause OR GPL-2.0-only
   791626dfb92acf4a3d3ba0342636b0dd82848e01:
     licensed:
       declared: BSD-3-Clause OR GPL-2.0-only
   83b51e9f886be7c2a4d477b6e7bc6db831791d8d:
+    licensed:
+      declared: BSD-3-Clause OR GPL-2.0-only
+  97a3da1df009d4dc67251de0c4b1c9d7fe286fc1:
     licensed:
       declared: BSD-3-Clause OR GPL-2.0-only
   a3d655d2255481333e09ecca9855f1b37f757c52:
@@ -26,6 +32,9 @@ revisions:
     licensed:
       declared: GPL-2.0-only OR BSD-3-Clause
   b706286adbba780006a47ef92df0ad7a785666b6:
+    licensed:
+      declared: BSD-3-Clause OR GPL-2.0-only
+  d903b552c83a18cfdd7481e39fccbdb1da2a2230:
     licensed:
       declared: BSD-3-Clause OR GPL-2.0-only
   e4558ffd1dc49399faf4ee5d85abed4386b4dcf5:
