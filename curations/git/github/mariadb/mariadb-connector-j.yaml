@@ -1,0 +1,9 @@
+coordinates:
+  name: mariadb-connector-j
+  namespace: mariadb
+  provider: github
+  type: git
+revisions:
+  67aaeb1cd42bca8c61656f886114119ab3938d12:
+    licensed:
+      declared: LGPL-2.1-or-later
