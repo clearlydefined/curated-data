@@ -1,0 +1,8 @@
+coordinates:
+  name: npm-registry-client
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.28:
+    licensed:
+      declared: BSD-2-Clause
