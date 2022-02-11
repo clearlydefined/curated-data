@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Google.Guava
+  provider: nuget
+  type: nuget
+revisions:
+  29.0.0:
+    licensed:
+      declared: MIT
