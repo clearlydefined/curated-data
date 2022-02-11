@@ -172,6 +172,9 @@ revisions:
   e0c6998df7e52453d088b8dd1eb22ee43ba6b718:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  ebe580a85c4094482133940983c6d766aefb1942:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
   eeed37f84f13f52d35e095e8023ba65671ff86a1:
     licensed:
       declared: BSD-3-Clause AND OTHER
