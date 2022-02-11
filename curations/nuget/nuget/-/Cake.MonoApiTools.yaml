@@ -1,0 +1,8 @@
+coordinates:
+  name: Cake.MonoApiTools
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.5:
+    licensed:
+      declared: MIT
