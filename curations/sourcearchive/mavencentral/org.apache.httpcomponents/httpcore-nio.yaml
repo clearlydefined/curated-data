@@ -1,0 +1,22 @@
+coordinates:
+  name: httpcore-nio
+  namespace: org.apache.httpcomponents
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  4.4.15:
+    described:
+      facets:
+        dev:
+          - httpcore-nio/src/main
+        tests:
+          - httpcore-nio/src/test
+      sourceLocation:
+        name: httpcomponents-core
+        namespace: apache
+        provider: github
+        revision: ec46f7f13243dece355fa297f41874e5a11dd7e1
+        type: git
+        url: 'https://github.com/apache/httpcomponents-core/commit/ec46f7f13243dece355fa297f41874e5a11dd7e1'
+    licensed:
+      declared: Apache-2.0
