@@ -19,6 +19,9 @@ revisions:
   1.1.2:
     licensed:
       declared: OTHER
+  1.1.22:
+    licensed:
+      declared: MS-PL
   1.1.3:
     licensed:
       declared: OTHER
