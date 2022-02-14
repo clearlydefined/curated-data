@@ -1,0 +1,8 @@
+coordinates:
+  name: FluentIcons
+  provider: cocoapods
+  type: pod
+revisions:
+  1.1.142:
+    licensed:
+      declared: MIT
