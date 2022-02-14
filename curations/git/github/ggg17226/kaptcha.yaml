@@ -1,0 +1,9 @@
+coordinates:
+  name: kaptcha
+  namespace: ggg17226
+  provider: github
+  type: git
+revisions:
+  02da219e0f5d5e57b556f8e9d89c053d5b9751a3:
+    licensed:
+      declared: Apache-2.0
