@@ -48,6 +48,9 @@ revisions:
   3.8.9:
     licensed:
       declared: OTHER
+  3.9.0-a4:
+    licensed:
+      declared: OTHER
   3.9.7:
     licensed:
       declared: OTHER
