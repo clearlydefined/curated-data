@@ -1,0 +1,9 @@
+coordinates:
+  name: android-database-sqlcipher
+  namespace: sqlcipher
+  provider: github
+  type: git
+revisions:
+  972d1aa0bf132608fecb7f4c8a9c695dec46a8c2:
+    licensed:
+      declared: BSD-3-Clause
