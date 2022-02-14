@@ -21,3 +21,6 @@ revisions:
   3.8.2:
     licensed:
       declared: OTHER
+  3.9.0-a4:
+    licensed:
+      declared: OTHER
