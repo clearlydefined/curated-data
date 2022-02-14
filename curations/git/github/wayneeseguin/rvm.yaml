@@ -1,0 +1,9 @@
+coordinates:
+  name: rvm
+  namespace: wayneeseguin
+  provider: github
+  type: git
+revisions:
+  d507565d50644736d80f5a77a3c44507aa8000a4:
+    licensed:
+      declared: Apache-2.0
