@@ -1,0 +1,8 @@
+coordinates:
+  name: survey-creator
+  provider: npmjs
+  type: npm
+revisions:
+  1.7.20:
+    licensed:
+      declared: OTHER
