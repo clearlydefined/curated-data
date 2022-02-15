@@ -1,0 +1,8 @@
+coordinates:
+  name: visdom
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.8.9:
+    licensed:
+      declared: CC-BY-NC-4.0
