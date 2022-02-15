@@ -5,8 +5,11 @@ coordinates:
   type: maven
 revisions:
   0.12.11:
-    licensed:
-      declared: OTHER
     files:
       - license: OTHER
         path: META-INF/LICENSE
+    licensed:
+      declared: OTHER
+  0.12.8:
+    licensed:
+      declared: OTHER
