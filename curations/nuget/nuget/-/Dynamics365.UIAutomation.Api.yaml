@@ -6,12 +6,42 @@ revisions:
   8.2.0.2:
     licensed:
       declared: MIT
+  9.0.0:
+    licensed:
+      declared: MIT
   9.0.0.1:
+    licensed:
+      declared: MIT
+  9.0.2.7:
+    licensed:
+      declared: MIT
+  9.1.0.12013:
+    licensed:
+      declared: MIT
+  9.1.0.17139:
+    licensed:
+      declared: MIT
+  9.1.0.23435:
     licensed:
       declared: MIT
   9.1.0.27021:
     licensed:
       declared: MIT
   9.2.21014.138:
+    licensed:
+      declared: MIT
+  9.2.21062.131:
+    licensed:
+      declared: MIT
+  9.2.21074.117:
+    licensed:
+      declared: MIT
+  9.2.21084.148:
+    licensed:
+      declared: MIT
+  9.2.21102.117-rw2-preview:
+    licensed:
+      declared: MIT
+  9.2.21111.116-rw2-preview:
     licensed:
       declared: MIT
