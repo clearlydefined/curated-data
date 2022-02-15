@@ -1,0 +1,8 @@
+coordinates:
+  name: raygun4js
+  provider: npmjs
+  type: npm
+revisions:
+  2.25.0:
+    licensed:
+      declared: MIT
