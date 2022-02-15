@@ -1,0 +1,8 @@
+coordinates:
+  name: rijs.data
+  provider: npmjs
+  type: npm
+revisions:
+  2.2.4:
+    licensed:
+      declared: MIT
