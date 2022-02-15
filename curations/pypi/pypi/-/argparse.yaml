@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  '1.1':
+    licensed:
+      declared: Artistic-2.0
   1.2.1:
     licensed:
       declared: OTHER
