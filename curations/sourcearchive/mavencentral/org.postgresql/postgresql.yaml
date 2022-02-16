@@ -1,0 +1,9 @@
+coordinates:
+  name: postgresql
+  namespace: org.postgresql
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  42.3.2:
+    licensed:
+      declared: BSD-2-Clause
