@@ -1,0 +1,8 @@
+coordinates:
+  name: little-plugger
+  provider: rubygems
+  type: gem
+revisions:
+  1.1.4:
+    licensed:
+      declared: MIT
