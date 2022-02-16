@@ -1,0 +1,9 @@
+coordinates:
+  name: android-gif-drawable
+  namespace: pl.droidsonroids.gif
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.24:
+    licensed:
+      declared: MIT
