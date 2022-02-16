@@ -1,0 +1,9 @@
+coordinates:
+  name: mixpanel-android
+  namespace: com.mixpanel.android
+  provider: mavencentral
+  type: maven
+revisions:
+  6.0.0:
+    licensed:
+      declared: Apache-2.0
