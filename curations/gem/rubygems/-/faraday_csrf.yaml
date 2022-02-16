@@ -1,0 +1,8 @@
+coordinates:
+  name: faraday_csrf
+  provider: rubygems
+  type: gem
+revisions:
+  0.1.0:
+    licensed:
+      declared: NONE
