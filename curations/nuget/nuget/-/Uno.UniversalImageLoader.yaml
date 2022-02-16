@@ -1,0 +1,8 @@
+coordinates:
+  name: Uno.UniversalImageLoader
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.33:
+    licensed:
+      declared: Apache-2.0
