@@ -1,0 +1,8 @@
+coordinates:
+  name: JetBrains.ExternalAnnotations
+  provider: nuget
+  type: nuget
+revisions:
+  10.2.20:
+    licensed:
+      declared: MIT
