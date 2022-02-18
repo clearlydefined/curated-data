@@ -1,0 +1,9 @@
+coordinates:
+  name: reflections8
+  namespace: net.oneandone.reflections8
+  provider: mavencentral
+  type: maven
+revisions:
+  0.11.7:
+    licensed:
+      declared: BSD-2-Clause
