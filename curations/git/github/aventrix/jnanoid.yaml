@@ -1,0 +1,9 @@
+coordinates:
+  name: jnanoid
+  namespace: aventrix
+  provider: github
+  type: git
+revisions:
+  ad74ceb6f7626de0e56907d29a897c9909b2a37a:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: facebook-core
+  namespace: com.facebook.android
+  provider: mavencentral
+  type: maven
+revisions:
+  12.3.0:
+    licensed:
+      declared: OTHER

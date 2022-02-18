@@ -1,0 +1,9 @@
+coordinates:
+  name: account-kit-sdk
+  namespace: com.facebook.android
+  provider: mavencentral
+  type: maven
+revisions:
+  5.4.0:
+    licensed:
+      declared: OTHER
