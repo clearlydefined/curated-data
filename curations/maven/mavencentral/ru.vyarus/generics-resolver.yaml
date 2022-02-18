@@ -1,0 +1,9 @@
+coordinates:
+  name: generics-resolver
+  namespace: ru.vyarus
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.2:
+    licensed:
+      declared: MIT
