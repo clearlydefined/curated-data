@@ -3,7 +3,853 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  0.1.20100217:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100226:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100305:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100323:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100331:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100706:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100706.1:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100709:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100709.1:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100719:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100725:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100814:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100816:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100824:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100912:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100913:
+    licensed:
+      declared: CNRI-Python
+  0.1.20100918:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101009:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101029:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101030:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101030b:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101101:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101102:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101102a:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101106:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101113:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101120:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101121:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101123:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101130:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101207:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101210:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101224:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101228:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101228a:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101229:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101230:
+    licensed:
+      declared: CNRI-Python
+  0.1.20101231:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110104:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110106:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110124:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110313:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110314:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110315:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110429:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110502:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110504:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110510:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110514:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110524:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110608:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110608a:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110609:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110610:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110616:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110623:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110623a:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110627:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110702:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110717:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110917:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110917a:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110922:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110922a:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110927:
+    licensed:
+      declared: CNRI-Python
+  0.1.20110929:
+    licensed:
+      declared: CNRI-Python
+  0.1.20111004:
+    licensed:
+      declared: CNRI-Python
+  0.1.20111005:
+    licensed:
+      declared: CNRI-Python
+  0.1.20111006:
+    licensed:
+      declared: CNRI-Python
+  0.1.20111014:
+    licensed:
+      declared: CNRI-Python
+  0.1.20111103:
+    licensed:
+      declared: CNRI-Python
+  0.1.20111223:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120103:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120105:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120112:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120114:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120115:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120119:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120122:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120123:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120126:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120128:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120129:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120208:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120209:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120301:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120303:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120316:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120317:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120323:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120416:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120502:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120503:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120504:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120506:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120611:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120613:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120705:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120708:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120709:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120710:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120803:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120825:
+    licensed:
+      declared: CNRI-Python
+  0.1.20120904:
+    licensed:
+      declared: CNRI-Python
+  0.1.20121008:
+    licensed:
+      declared: CNRI-Python
+  0.1.20121017:
+    licensed:
+      declared: CNRI-Python
+  0.1.20121031:
+    licensed:
+      declared: CNRI-Python
+  0.1.20121105:
+    licensed:
+      declared: CNRI-Python
+  0.1.20121113:
+    licensed:
+      declared: CNRI-Python
+  0.1.20121120:
+    licensed:
+      declared: CNRI-Python
+  0.1.20121216:
+    licensed:
+      declared: CNRI-Python
+  0.1.20130120:
+    licensed:
+      declared: CNRI-Python
+  0.1.20130124:
+    licensed:
+      declared: CNRI-Python
+  0.1.20130125:
+    licensed:
+      declared: CNRI-Python
+  '2013-02-16':
+    licensed:
+      declared: CNRI-Python
+  '2013-02-23':
+    licensed:
+      declared: CNRI-Python
+  '2013-03-11':
+    licensed:
+      declared: CNRI-Python
+  '2013-05-21':
+    licensed:
+      declared: CNRI-Python
+  '2013-06-05':
+    licensed:
+      declared: CNRI-Python
+  '2013-06-26':
+    licensed:
+      declared: CNRI-Python
+  '2013-08-04':
+    licensed:
+      declared: CNRI-Python
+  '2013-10-04':
+    licensed:
+      declared: CNRI-Python
+  '2013-10-12':
+    licensed:
+      declared: CNRI-Python
+  '2013-10-21':
+    licensed:
+      declared: CNRI-Python
+  '2013-10-22':
+    licensed:
+      declared: CNRI-Python
+  '2013-10-23':
+    licensed:
+      declared: CNRI-Python
+  '2013-10-24':
+    licensed:
+      declared: CNRI-Python
+  '2013-10-25':
+    licensed:
+      declared: CNRI-Python
+  '2013-10-26':
+    licensed:
+      declared: CNRI-Python
+  '2013-11-29':
+    licensed:
+      declared: CNRI-Python
+  '2013-12-31':
+    licensed:
+      declared: CNRI-Python
+  2014.01.10:
+    licensed:
+      declared: CNRI-Python
+  2014.01.20:
+    licensed:
+      declared: CNRI-Python
+  2014.01.30:
+    licensed:
+      declared: CNRI-Python
+  2014.02.16:
+    licensed:
+      declared: CNRI-Python
+  2014.02.19:
+    licensed:
+      declared: CNRI-Python
+  2014.04.10:
+    licensed:
+      declared: CNRI-Python
+  2014.05.17:
+    licensed:
+      declared: CNRI-Python
+  2014.05.23:
+    licensed:
+      declared: CNRI-Python
+  2014.06.28:
+    licensed:
+      declared: CNRI-Python
+  2014.08.15:
+    licensed:
+      declared: CNRI-Python
+  2014.08.28:
+    licensed:
+      declared: CNRI-Python
+  2014.09.18:
+    licensed:
+      declared: CNRI-Python
+  2014.09.22:
+    licensed:
+      declared: CNRI-Python
+  2014.10.01:
+    licensed:
+      declared: CNRI-Python
+  2014.10.02:
+    licensed:
+      declared: CNRI-Python
+  2014.10.07:
+    licensed:
+      declared: CNRI-Python
+  2014.10.09:
+    licensed:
+      declared: CNRI-Python
+  2014.10.24:
+    licensed:
+      declared: CNRI-Python
+  2014.11.03:
+    licensed:
+      declared: CNRI-Python
+  2014.11.13:
+    licensed:
+      declared: CNRI-Python
+  2014.11.14:
+    licensed:
+      declared: CNRI-Python
+  2014.12.15:
+    licensed:
+      declared: CNRI-Python
+  2014.12.24:
+    licensed:
+      declared: CNRI-Python
+  2015.03.18:
+    licensed:
+      declared: CNRI-Python
+  2015.05.07:
+    licensed:
+      declared: CNRI-Python
+  2015.05.10:
+    licensed:
+      declared: CNRI-Python
+  2015.05.28:
+    licensed:
+      declared: CNRI-Python
+  2015.06.02:
+    licensed:
+      declared: CNRI-Python
+  2015.06.04:
+    licensed:
+      declared: CNRI-Python
+  2015.06.09:
+    licensed:
+      declared: CNRI-Python
+  2015.06.10:
+    licensed:
+      declared: CNRI-Python
+  2015.06.14:
+    licensed:
+      declared: CNRI-Python
+  2015.06.15:
+    licensed:
+      declared: CNRI-Python
+  2015.06.19:
+    licensed:
+      declared: CNRI-Python
+  2015.06.21:
+    licensed:
+      declared: CNRI-Python
+  2015.06.24:
+    licensed:
+      declared: CNRI-Python
+  2015.07.12:
+    licensed:
+      declared: CNRI-Python
+  2015.07.19:
+    licensed:
+      declared: CNRI-Python
+  2015.09.14:
+    licensed:
+      declared: CNRI-Python
+  2015.09.15:
+    licensed:
+      declared: CNRI-Python
+  2015.09.23:
+    licensed:
+      declared: CNRI-Python
+  2015.09.28:
+    licensed:
+      declared: CNRI-Python
+  2015.10.01:
+    licensed:
+      declared: CNRI-Python
+  2015.10.05:
+    licensed:
+      declared: CNRI-Python
+  2015.10.22:
+    licensed:
+      declared: CNRI-Python
+  2015.10.29:
+    licensed:
+      declared: CNRI-Python
+  2015.11.05:
+    licensed:
+      declared: CNRI-Python
+  2015.11.07:
+    licensed:
+      declared: CNRI-Python
+  2015.11.08:
+    licensed:
+      declared: CNRI-Python
+  2015.11.09:
+    licensed:
+      declared: CNRI-Python
+  2015.11.12:
+    licensed:
+      declared: CNRI-Python
+  2015.11.14:
+    licensed:
+      declared: CNRI-Python
+  2015.11.22:
+    licensed:
+      declared: CNRI-Python
+  2015.3.18:
+    licensed:
+      declared: CNRI-Python
+  2016.01.10:
+    licensed:
+      declared: CNRI-Python
+  2016.02.23:
+    licensed:
+      declared: CNRI-Python
+  2016.02.24:
+    licensed:
+      declared: CNRI-Python
+  2016.02.25:
+    licensed:
+      declared: CNRI-Python
+  2016.03.02:
+    licensed:
+      declared: CNRI-Python
+  2016.03.24:
+    licensed:
+      declared: CNRI-Python
+  2016.03.26:
+    licensed:
+      declared: CNRI-Python
+  2016.03.31:
+    licensed:
+      declared: CNRI-Python
+  2016.04.01:
+    licensed:
+      declared: CNRI-Python
+  2016.04.02:
+    licensed:
+      declared: CNRI-Python
+  2016.04.03:
+    licensed:
+      declared: CNRI-Python
+  2016.04.08:
+    licensed:
+      declared: CNRI-Python
+  2016.04.15:
+    licensed:
+      declared: CNRI-Python
+  2016.04.25:
+    licensed:
+      declared: CNRI-Python
+  2016.05.13:
+    licensed:
+      declared: CNRI-Python
+  2016.05.14:
+    licensed:
+      declared: CNRI-Python
+  2016.05.15:
+    licensed:
+      declared: CNRI-Python
+  2016.05.23:
+    licensed:
+      declared: CNRI-Python
+  2016.06.02:
+    licensed:
+      declared: CNRI-Python
+  2016.06.05:
+    licensed:
+      declared: CNRI-Python
+  2016.06.14:
+    licensed:
+      declared: CNRI-Python
+  2016.06.19:
+    licensed:
+      declared: CNRI-Python
+  2016.06.24:
+    licensed:
+      declared: CNRI-Python
+  2016.07.14:
+    licensed:
+      declared: CNRI-Python
+  2016.07.21:
+    licensed:
+      declared: CNRI-Python
+  2016.08.27:
+    licensed:
+      declared: CNRI-Python
+  2016.09.22:
+    licensed:
+      declared: CNRI-Python
+  2016.10.22:
+    licensed:
+      declared: CNRI-Python
+  2016.11.18:
+    licensed:
+      declared: CNRI-Python
+  2016.11.21:
+    licensed:
+      declared: CNRI-Python
+  2016.12.27:
+    licensed:
+      declared: CNRI-Python
+  2017.01.12:
+    licensed:
+      declared: CNRI-Python
+  2017.01.14:
+    licensed:
+      declared: CNRI-Python
+  2017.01.17:
+    licensed:
+      declared: CNRI-Python
+  2017.02.08:
+    licensed:
+      declared: CNRI-Python
+  2017.04.05:
+    licensed:
+      declared: CNRI-Python
+  2017.04.23:
+    licensed:
+      declared: CNRI-Python
+  2017.04.29:
+    licensed:
+      declared: CNRI-Python
+  2017.05.26:
+    licensed:
+      declared: CNRI-Python
+  2017.06.07:
+    licensed:
+      declared: CNRI-Python
+  2017.06.20:
+    licensed:
+      declared: CNRI-Python
+  2017.06.23:
+    licensed:
+      declared: CNRI-Python
+  2017.07.11:
+    licensed:
+      declared: CNRI-Python
+  2017.07.26:
+    licensed:
+      declared: CNRI-Python
+  2017.07.28:
+    licensed:
+      declared: CNRI-Python
+  2017.09.23:
+    licensed:
+      declared: CNRI-Python
+  2017.11.08:
+    licensed:
+      declared: CNRI-Python
+  2017.11.09:
+    licensed:
+      declared: CNRI-Python
+  2017.12.05:
+    licensed:
+      declared: CNRI-Python
+  2017.12.09:
+    licensed:
+      declared: CNRI-Python
+  2017.12.12:
+    licensed:
+      declared: CNRI-Python
+  2017.4.5:
+    licensed:
+      declared: CNRI-Python
+  2017.7.28:
+    licensed:
+      declared: CNRI-Python
+  2018.01.10:
+    licensed:
+      declared: CNRI-Python
+  2018.02.03:
+    licensed:
+      declared: CNRI-Python
+  2018.02.08:
+    licensed:
+      declared: CNRI-Python
+  2018.02.21:
+    licensed:
+      declared: CNRI-Python
+  2018.06.09:
+    licensed:
+      declared: CNRI-Python
+  2018.06.20:
+    licensed:
+      declared: CNRI-Python
+  2018.06.21:
+    licensed:
+      declared: CNRI-Python
+  2018.07.11:
+    licensed:
+      declared: CNRI-Python
+  2018.08.17:
+    licensed:
+      declared: CNRI-Python
+  2018.08.29:
+    licensed:
+      declared: CNRI-Python
+  2018.1.10:
+    licensed:
+      declared: CNRI-Python
+  2018.11.02:
+    licensed:
+      declared: CNRI-Python
+  2018.11.03:
+    licensed:
+      declared: CNRI-Python
+  2018.11.06:
+    licensed:
+      declared: CNRI-Python
+  2018.11.07:
+    licensed:
+      declared: CNRI-Python
+  2018.11.22:
+    licensed:
+      declared: CNRI-Python
+  2018.6.21:
+    licensed:
+      declared: CNRI-Python
+  2019.02.03:
+    licensed:
+      declared: CNRI-Python
+  2019.02.05:
+    licensed:
+      declared: CNRI-Python
+  2019.02.06:
+    licensed:
+      declared: CNRI-Python
+  2019.02.07:
+    licensed:
+      declared: CNRI-Python
+  2019.02.18:
+    licensed:
+      declared: CNRI-Python
+  2019.02.19:
+    licensed:
+      declared: CNRI-Python
+  2019.02.20:
+    licensed:
+      declared: CNRI-Python
+  2019.02.21:
+    licensed:
+      declared: CNRI-Python
+  2019.03.08:
+    licensed:
+      declared: CNRI-Python
+  2019.03.09:
+    licensed:
+      declared: CNRI-Python
+  2019.03.12:
+    licensed:
+      declared: CNRI-Python
+  2019.05.25:
+    licensed:
+      declared: CNRI-Python
+  2019.06.02:
+    licensed:
+      declared: CNRI-Python
+  2019.06.05:
+    licensed:
+      declared: CNRI-Python
+  2019.06.08:
+    licensed:
+      declared: CNRI-Python
+  2019.08.19:
+    licensed:
+      declared: CNRI-Python
+  2019.10.31:
+    licensed:
+      declared: CNRI-Python
   2019.11.1:
+    licensed:
+      declared: CNRI-Python
+  2019.12.17:
+    licensed:
+      declared: CNRI-Python
+  2019.12.18:
+    licensed:
+      declared: CNRI-Python
+  2019.12.19:
+    licensed:
+      declared: CNRI-Python
+  2019.12.20:
+    licensed:
+      declared: CNRI-Python
+  2019.12.9:
+    licensed:
+      declared: CNRI-Python
+  2019.2.7:
+    licensed:
+      declared: CNRI-Python
+  2019.3.12:
+    licensed:
+      declared: CNRI-Python
+  2019.6.8:
+    licensed:
+      declared: CNRI-Python
+  2019.8.19:
+    licensed:
+      declared: CNRI-Python
+  2020.1.7:
     licensed:
       declared: CNRI-Python
   2020.1.8:
@@ -24,16 +870,25 @@ revisions:
   2020.11.13:
     licensed:
       declared: Apache-2.0
+  2020.2.18:
+    licensed:
+      declared: CNRI-Python
   2020.2.20:
     licensed:
       declared: CNRI-Python
   2020.4.4:
     licensed:
       declared: CNRI-Python
+  2020.5.13:
+    licensed:
+      declared: CNRI-Python
   2020.5.14:
     licensed:
       declared: CNRI-Python
   2020.5.7:
+    licensed:
+      declared: CNRI-Python
+  2020.6.7:
     licensed:
       declared: CNRI-Python
   2020.6.8:
