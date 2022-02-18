@@ -8,7 +8,7 @@ revisions:
     files:
       - attributions:
           - 'Copyright (c) 1997, PostgreSQL Global Development Group'
-        license: Apache-2.0 AND BSD-2-Clause
+        license: BSD-2-Clause
         path: META-INF/LICENSE
   9.3-1102-jdbc41:
     licensed:
