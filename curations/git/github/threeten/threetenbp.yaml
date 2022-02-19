@@ -1,0 +1,9 @@
+coordinates:
+  name: threetenbp
+  namespace: threeten
+  provider: github
+  type: git
+revisions:
+  cefa50ae8c42beb2f414c5a74f5278ce6b86235d:
+    licensed:
+      declared: BSD-3-Clause
