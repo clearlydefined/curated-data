@@ -5,12 +5,12 @@ coordinates:
 revisions:
   0.0.1:
     licensed:
-      declared: Python-2.0
+      declared: PSF-2.0
   1.0.0:
     files:
-      - license: Python-2.0
+      - license: PSF-2.0
         path: linecache2-1.0.0/PKG-INFO
-      - license: Python-2.0
+      - license: PSF-2.0
         path: linecache2-1.0.0/setup.cfg
     licensed:
-      declared: Python-2.0
+      declared: PSF-2.0
