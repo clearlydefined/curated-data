@@ -5,10 +5,10 @@ coordinates:
 revisions:
   0.1.2:
     licensed:
-      declared: MIT
+      declared: OTHER
   0.1.3:
     licensed:
-      declared: MIT
+      declared: OTHER
   0.1.4:
     licensed:
       declared: MIT
