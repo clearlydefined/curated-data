@@ -38,3 +38,6 @@ revisions:
       releaseDate: '2021-11-30'
     licensed:
       declared: OTHER
+  4.1.1:
+    licensed:
+      declared: OTHER
