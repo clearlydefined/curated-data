@@ -1,0 +1,8 @@
+coordinates:
+  name: zodbpickle
+  provider: pypi
+  type: pypi
+revisions:
+  2.2.0:
+    licensed:
+      declared: ZPL-2.1
