@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  5.1.49:
+    licensed:
+      declared: GPL-2.0-only
   8.0.11:
     licensed:
       declared: OTHER
