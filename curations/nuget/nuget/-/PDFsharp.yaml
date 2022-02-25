@@ -6,6 +6,9 @@ revisions:
   1.32.3057:
     licensed:
       declared: MIT
+  1.50.4000-beta3b:
+    licensed:
+      declared: MIT
   1.50.4845-rc2a:
     licensed:
       declared: MIT
