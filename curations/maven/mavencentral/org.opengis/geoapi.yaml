@@ -1,0 +1,9 @@
+coordinates:
+  name: geoapi
+  namespace: org.opengis
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.1:
+    licensed:
+      declared: OTHER

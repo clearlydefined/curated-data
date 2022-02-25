@@ -12,7 +12,16 @@ revisions:
   3.10.0.2:
     licensed:
       declared: OTHER
+  3.6.2:
+    licensed:
+      declared: OTHER
+  3.6.2.1:
+    licensed:
+      declared: OTHER
   3.6.5:
+    licensed:
+      declared: OTHER
+  3.6.6:
     licensed:
       declared: OTHER
   3.7.2:
@@ -36,5 +45,8 @@ revisions:
   4.0.1:
     described:
       releaseDate: '2021-11-30'
+    licensed:
+      declared: OTHER
+  4.1.1:
     licensed:
       declared: OTHER
