@@ -1,0 +1,8 @@
+coordinates:
+  name: persistent
+  provider: pypi
+  type: pypi
+revisions:
+  4.7.0:
+    licensed:
+      declared: ZPL-2.1

@@ -1,11 +1,8 @@
 coordinates:
-  name: DotNet.SleetLib
+  name: Xamarin.Google.Crypto.Tink.Android
   provider: nuget
   type: nuget
 revisions:
-  2.2.139:
-    licensed:
-      declared: MIT
-  2.2.143:
+  1.6.1.2:
     licensed:
       declared: MIT

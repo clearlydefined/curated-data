@@ -1,11 +1,8 @@
 coordinates:
-  name: DotNet.SleetLib
+  name: NJsonSchema.CodeGeneration.TypeScript
   provider: nuget
   type: nuget
 revisions:
-  2.2.139:
-    licensed:
-      declared: MIT
-  2.2.143:
+  10.3.3:
     licensed:
       declared: MIT
