@@ -5,13 +5,13 @@ coordinates:
 revisions:
   '0.5':
     licensed:
-      declared: ZPL-2.1
+      declared: PSF-2.0 OR ZPL-2.1
   '0.6':
     licensed:
-      declared: ZPL-2.1
+      declared: PSF-2.0 OR ZPL-2.1
   '0.7':
     licensed:
-      declared: ZPL-2.1
+      declared: Apache-2.0
   '0.8':
     licensed:
       declared: ZPL-2.1
