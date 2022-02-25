@@ -3,6 +3,18 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  '0.5':
+    licensed:
+      declared: PSF-2.0 OR ZPL-2.1
+  '0.6':
+    licensed:
+      declared: PSF-2.0 OR ZPL-2.1
+  '0.7':
+    licensed:
+      declared: Apache-2.0
+  '0.8':
+    licensed:
+      declared: ZPL-2.1
   0.8.1:
     licensed:
       declared: ZPL-2.1
