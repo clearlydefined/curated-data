@@ -5,13 +5,13 @@ coordinates:
 revisions:
   1.64.0:
     licensed:
-      declared: Apache-2.0
+      declared: BSL-1.0
   1.66.0:
     licensed:
-      declared: Apache-2.0
+      declared: BSL-1.0
   1.68.0:
     licensed:
       declared: BSL-1.0
   1.70.0:
     licensed:
-      declared: Apache-2.0
+      declared: BSL-1.0
