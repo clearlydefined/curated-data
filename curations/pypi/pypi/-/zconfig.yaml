@@ -1,0 +1,8 @@
+coordinates:
+  name: zconfig
+  provider: pypi
+  type: pypi
+revisions:
+  3.6.0:
+    licensed:
+      declared: ZPL-2.1
