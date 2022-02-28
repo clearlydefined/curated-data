@@ -1,0 +1,9 @@
+coordinates:
+  name: tomcat-servlet-api
+  namespace: org.apache.tomcat
+  provider: mavencentral
+  type: maven
+revisions:
+  9.0.33:
+    licensed:
+      declared: Apache-2.0
