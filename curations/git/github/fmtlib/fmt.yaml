@@ -30,6 +30,9 @@ revisions:
         path: LICENSE.rst
     licensed:
       declared: OTHER
+  cc09f1a6798c085c325569ef466bcdcffdc266d4:
+    licensed:
+      declared: MIT
   cd4af11efc9c622896a3e4cb599fa28668ca3d05:
     licensed:
       declared: OTHER
