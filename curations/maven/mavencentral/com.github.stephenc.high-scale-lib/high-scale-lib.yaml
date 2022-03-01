@@ -1,0 +1,9 @@
+coordinates:
+  name: high-scale-lib
+  namespace: com.github.stephenc.high-scale-lib
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.4:
+    licensed:
+      declared: CC-PDDC
