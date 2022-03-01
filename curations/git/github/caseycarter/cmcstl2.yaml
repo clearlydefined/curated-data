@@ -1,0 +1,9 @@
+coordinates:
+  name: cmcstl2
+  namespace: caseycarter
+  provider: github
+  type: git
+revisions:
+  30a97f4554b0a22603d7044f5803c1dc4abebe6f:
+    licensed:
+      declared: BSL-1.0
