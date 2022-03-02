@@ -3,10 +3,43 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  1.0.23:
+    licensed:
+      declared: OTHER
+  1.0.30:
+    licensed:
+      declared: OTHER
+  1.0.33:
+    licensed:
+      declared: OTHER
   1.0.39:
     licensed:
       declared: OTHER
+  1.0.39.1:
+    licensed:
+      declared: OTHER
+  1.0.41:
+    licensed:
+      declared: OTHER
+  1.0.43:
+    licensed:
+      declared: OTHER
+  1.0.45:
+    licensed:
+      declared: OTHER
+  1.0.45.1:
+    licensed:
+      declared: OTHER
   1.0.48:
+    licensed:
+      declared: OTHER
+  1.0.53:
+    licensed:
+      declared: OTHER
+  1.0.55:
+    licensed:
+      declared: OTHER
+  1.0.55.1:
     licensed:
       declared: OTHER
   1.0.57:
@@ -31,6 +64,9 @@ revisions:
     licensed:
       declared: OTHER
   1.0.72:
+    licensed:
+      declared: OTHER
+  1.0.72.1:
     licensed:
       declared: OTHER
   1.0.74:
@@ -60,7 +96,28 @@ revisions:
   1.0.85.1:
     licensed:
       declared: OTHER
+  1.0.85.2:
+    licensed:
+      declared: OTHER
+  1.0.85.4:
+    licensed:
+      declared: OTHER
   1.0.85.5:
+    licensed:
+      declared: OTHER
+  1.0rc83:
+    licensed:
+      declared: OTHER
+  1.0rc85:
+    licensed:
+      declared: OTHER
+  1.1.0rc0:
+    licensed:
+      declared: OTHER
+  1.1.1rc0:
+    licensed:
+      declared: OTHER
+  1.1.2rc0:
     licensed:
       declared: OTHER
   1.1.5:
@@ -118,6 +175,9 @@ revisions:
     licensed:
       declared: OTHER
   1.22.0:
+    licensed:
+      declared: OTHER
+  1.22.0.post1:
     licensed:
       declared: OTHER
   1.23.0:
@@ -190,6 +250,12 @@ revisions:
     licensed:
       declared: OTHER
   1.38.0:
+    licensed:
+      declared: OTHER
+  1.38.1:
+    licensed:
+      declared: OTHER
+  1.39.0:
     licensed:
       declared: OTHER
   1.4.0:
