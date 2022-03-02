@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Facebook.LoginKit.Android
+  provider: nuget
+  type: nuget
+revisions:
+  4.36.0:
+    licensed:
+      declared: MIT
