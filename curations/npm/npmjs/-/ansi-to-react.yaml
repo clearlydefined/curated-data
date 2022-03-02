@@ -3,9 +3,12 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  3.3.4:
+    licensed:
+      declared: BSD-3-Clause
   3.3.5:
     licensed:
       declared: BSD-3-Clause
-  3.3.4:
+  4.0.3-alpha.0:
     licensed:
       declared: BSD-3-Clause
