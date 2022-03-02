@@ -1,0 +1,9 @@
+coordinates:
+  name: mvel2
+  namespace: org.mvel
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.14:
+    licensed:
+      declared: Apache-2.0
