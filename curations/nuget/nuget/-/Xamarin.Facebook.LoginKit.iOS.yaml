@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Facebook.LoginKit.iOS
+  provider: nuget
+  type: nuget
+revisions:
+  5.12.0:
+    licensed:
+      declared: MIT

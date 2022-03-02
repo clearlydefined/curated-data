@@ -3,9 +3,114 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  '0.1':
+    licensed:
+      declared: BSD-3-Clause
+  '0.2':
+    licensed:
+      declared: BSD-3-Clause
+  '0.3':
+    licensed:
+      declared: BSD-3-Clause
+  0.3.1:
+    licensed:
+      declared: BSD-3-Clause
+  '0.4':
+    licensed:
+      declared: BSD-3-Clause
+  0.4.1:
+    licensed:
+      declared: BSD-3-Clause
+  0.4.2:
+    licensed:
+      declared: BSD-3-Clause
+  '0.5':
+    licensed:
+      declared: BSD-3-Clause
+  '0.6':
+    licensed:
+      declared: BSD-3-Clause
+  0.6.1:
+    licensed:
+      declared: BSD-3-Clause
+  0.6.2:
+    licensed:
+      declared: BSD-3-Clause
+  0.6.4:
+    licensed:
+      declared: BSD-3-Clause
+  0.6.5:
+    licensed:
+      declared: BSD-3-Clause
+  '0.7':
+    licensed:
+      declared: BSD-3-Clause
+  0.7.1:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.2:
+    licensed:
+      declared: BSD-3-Clause
+  0.7.3:
+    licensed:
+      declared: BSD-3-Clause
+  '0.8':
+    licensed:
+      declared: BSD-3-Clause
+  0.8.1:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.10:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.11:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.12:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.13:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.14:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.15:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.18:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.19:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.2:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.20:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.21:
+    licensed:
+      declared: BSD-3-Clause
   0.8.22:
     licensed:
       declared: BSD-3-Clause
   0.8.23:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.3:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.4:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.5:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.7:
+    licensed:
+      declared: BSD-3-Clause
+  0.8.8:
     licensed:
       declared: BSD-3-Clause

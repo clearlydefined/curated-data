@@ -1,0 +1,8 @@
+coordinates:
+  name: python_speech_features
+  provider: pypi
+  type: pypi
+revisions:
+  '0.6':
+    licensed:
+      declared: MIT

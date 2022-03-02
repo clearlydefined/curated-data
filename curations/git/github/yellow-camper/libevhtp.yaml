@@ -1,0 +1,9 @@
+coordinates:
+  name: libevhtp
+  namespace: yellow-camper
+  provider: github
+  type: git
+revisions:
+  a70c9facfee07e6900a21d5a8ab8df260f64162f:
+    licensed:
+      declared: BSD-3-Clause
