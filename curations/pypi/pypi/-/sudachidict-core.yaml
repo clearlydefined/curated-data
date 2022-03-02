@@ -1,0 +1,8 @@
+coordinates:
+  name: sudachidict-core
+  provider: pypi
+  type: pypi
+revisions:
+  '20211220':
+    licensed:
+      declared: Apache-2.0

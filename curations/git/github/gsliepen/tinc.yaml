@@ -1,0 +1,9 @@
+coordinates:
+  name: tinc
+  namespace: gsliepen
+  provider: github
+  type: git
+revisions:
+  0edef996a6d944e9143f87dd3c72390979c33630:
+    licensed:
+      declared: GPL-2.0-or-later

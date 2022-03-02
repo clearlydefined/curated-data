@@ -1,0 +1,8 @@
+coordinates:
+  name: NJsonSchema.CodeGeneration.TypeScript
+  provider: nuget
+  type: nuget
+revisions:
+  10.3.3:
+    licensed:
+      declared: MIT

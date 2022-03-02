@@ -1,0 +1,9 @@
+coordinates:
+  name: liblfds7.1.1
+  namespace: liblfds
+  provider: github
+  type: git
+revisions:
+  da3494fef10df4681e267d8b2b8cce2c90d5a9fa:
+    licensed:
+      declared: OTHER
