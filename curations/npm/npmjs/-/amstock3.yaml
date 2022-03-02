@@ -1,0 +1,8 @@
+coordinates:
+  name: amstock3
+  provider: npmjs
+  type: npm
+revisions:
+  3.21.15:
+    licensed:
+      declared: OTHER
