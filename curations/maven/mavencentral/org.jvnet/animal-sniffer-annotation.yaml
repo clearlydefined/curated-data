@@ -1,0 +1,9 @@
+coordinates:
+  name: animal-sniffer-annotation
+  namespace: org.jvnet
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: CDDL-1.0
