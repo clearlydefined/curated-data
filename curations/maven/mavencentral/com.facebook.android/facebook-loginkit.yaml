@@ -1,0 +1,9 @@
+coordinates:
+  name: facebook-loginkit
+  namespace: com.facebook.android
+  provider: mavencentral
+  type: maven
+revisions:
+  4.36.0:
+    licensed:
+      declared: OTHER
