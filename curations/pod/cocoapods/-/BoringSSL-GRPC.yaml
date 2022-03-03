@@ -1,0 +1,8 @@
+coordinates:
+  name: BoringSSL-GRPC
+  provider: cocoapods
+  type: pod
+revisions:
+  0.0.7:
+    licensed:
+      declared: ISC
