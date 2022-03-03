@@ -1,0 +1,9 @@
+coordinates:
+  name: jai-imageio-jpeg2000
+  namespace: com.github.jai-imageio
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.0:
+    licensed:
+      declared: LGPL-2.1-only
