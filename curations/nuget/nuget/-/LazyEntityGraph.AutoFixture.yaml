@@ -1,0 +1,8 @@
+coordinates:
+  name: LazyEntityGraph.AutoFixture
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.0:
+    licensed:
+      declared: MIT
