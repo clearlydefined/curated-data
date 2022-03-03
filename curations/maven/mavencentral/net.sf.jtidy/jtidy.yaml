@@ -1,0 +1,9 @@
+coordinates:
+  name: jtidy
+  namespace: net.sf.jtidy
+  provider: mavencentral
+  type: maven
+revisions:
+  r938:
+    licensed:
+      declared: OTHER
