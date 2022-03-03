@@ -1,0 +1,8 @@
+coordinates:
+  name: fmdev.XliffParser
+  provider: nuget
+  type: nuget
+revisions:
+  0.5.3:
+    licensed:
+      declared: BSD-2-Clause
