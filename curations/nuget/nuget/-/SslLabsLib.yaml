@@ -1,0 +1,8 @@
+coordinates:
+  name: SslLabsLib
+  provider: nuget
+  type: nuget
+revisions:
+  0.4.3-alpha:
+    licensed:
+      declared: MIT
