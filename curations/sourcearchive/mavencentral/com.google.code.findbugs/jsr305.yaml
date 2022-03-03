@@ -1,0 +1,9 @@
+coordinates:
+  name: jsr305
+  namespace: com.google.code.findbugs
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  3.0.2:
+    licensed:
+      declared: BSD-3-Clause

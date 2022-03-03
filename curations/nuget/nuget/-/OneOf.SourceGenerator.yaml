@@ -1,11 +1,8 @@
 coordinates:
-  name: Marvin.JsonPatch.Dynamic
+  name: OneOf.SourceGenerator
   provider: nuget
   type: nuget
 revisions:
-  1.0.0:
-    licensed:
-      declared: MIT
-  1.1.0:
+  3.0.211:
     licensed:
       declared: MIT
