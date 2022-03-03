@@ -1,0 +1,8 @@
+coordinates:
+  name: FBSDKShareKit
+  provider: cocoapods
+  type: pod
+revisions:
+  9.0.1:
+    licensed:
+      declared: OTHER
