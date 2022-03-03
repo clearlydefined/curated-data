@@ -1,0 +1,8 @@
+coordinates:
+  name: OneOf.SourceGenerator
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.211:
+    licensed:
+      declared: MIT
