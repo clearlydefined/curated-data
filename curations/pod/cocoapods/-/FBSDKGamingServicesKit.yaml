@@ -1,0 +1,8 @@
+coordinates:
+  name: FBSDKGamingServicesKit
+  provider: cocoapods
+  type: pod
+revisions:
+  9.0.1:
+    licensed:
+      declared: OTHER
