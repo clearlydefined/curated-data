@@ -1,0 +1,9 @@
+coordinates:
+  name: optee_os
+  namespace: op-tee
+  provider: github
+  type: git
+revisions:
+  d21befa5e53eae9db469eba1685f5aa5c6f92c2f:
+    licensed:
+      declared: BSD-2-Clause
