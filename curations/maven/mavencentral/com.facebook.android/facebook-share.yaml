@@ -1,0 +1,9 @@
+coordinates:
+  name: facebook-share
+  namespace: com.facebook.android
+  provider: mavencentral
+  type: maven
+revisions:
+  5.11.2:
+    licensed:
+      declared: OTHER
