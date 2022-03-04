@@ -1,0 +1,9 @@
+coordinates:
+  name: modernizr
+  namespace: modernizr
+  provider: github
+  type: git
+revisions:
+  d6bb30c0f12ebb3ddd01e90b0bf435e1c34e6f11:
+    licensed:
+      declared: MIT OR BSD-3-Clause
