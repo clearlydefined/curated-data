@@ -1,0 +1,8 @@
+coordinates:
+  name: MaxMind.GeoIP
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.17:
+    licensed:
+      declared: OTHER
