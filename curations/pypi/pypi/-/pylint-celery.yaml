@@ -3,6 +3,12 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  '0.1':
+    licensed:
+      declared: GPL-2.0-only
+  0.2.dev1406726496:
+    licensed:
+      declared: GPL-2.0-only
   '0.3':
     licensed:
       declared: GPL-2.0-only
