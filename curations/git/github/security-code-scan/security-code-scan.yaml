@@ -1,0 +1,9 @@
+coordinates:
+  name: security-code-scan
+  namespace: security-code-scan
+  provider: github
+  type: git
+revisions:
+  da8a6ab566acd05fb3b4402114e4f11923e4982e:
+    licensed:
+      declared: LGPL-3.0-only
