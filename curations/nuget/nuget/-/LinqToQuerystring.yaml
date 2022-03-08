@@ -1,0 +1,8 @@
+coordinates:
+  name: LinqToQuerystring
+  provider: nuget
+  type: nuget
+revisions:
+  0.7.0.8:
+    licensed:
+      declared: MIT
