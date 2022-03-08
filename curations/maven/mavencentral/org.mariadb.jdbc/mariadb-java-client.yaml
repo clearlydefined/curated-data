@@ -197,6 +197,14 @@ revisions:
     licensed:
       declared: LGPL-2.1-or-later
   2.4.2:
+    described:
+      sourceLocation:
+        name: mariadb-connector-j
+        namespace: mariadb-corporation
+        provider: github
+        revision: c160500cc2e7eb423c37cc72f2c95151e67954f5
+        type: git
+        url: 'https://github.com/mariadb-corporation/mariadb-connector-j/commit/c160500cc2e7eb423c37cc72f2c95151e67954f5'
     licensed:
       declared: LGPL-2.1-or-later
   2.4.3:
