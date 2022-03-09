@@ -1,0 +1,9 @@
+coordinates:
+  name: audit-userspace
+  namespace: linux-audit
+  provider: github
+  type: git
+revisions:
+  5fae55c1ad15b3cefe6890eba7311af163e9133c:
+    licensed:
+      declared: GPL-2.0-or-later
