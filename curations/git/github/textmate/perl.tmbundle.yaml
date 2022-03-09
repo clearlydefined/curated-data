@@ -1,0 +1,9 @@
+coordinates:
+  name: perl.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  80826abe75250286c2a1a07958e50e8551d3f50c:
+    licensed:
+      declared: OTHER
