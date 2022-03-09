@@ -1,0 +1,9 @@
+coordinates:
+  name: junrar
+  namespace: com.github.junrar
+  provider: mavencentral
+  type: maven
+revisions:
+  7.4.1:
+    licensed:
+      declared: OTHER
