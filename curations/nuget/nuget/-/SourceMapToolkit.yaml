@@ -1,0 +1,8 @@
+coordinates:
+  name: SourceMapToolkit
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.33:
+    licensed:
+      declared: MIT
