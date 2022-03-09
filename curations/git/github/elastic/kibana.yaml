@@ -1,0 +1,9 @@
+coordinates:
+  name: kibana
+  namespace: elastic
+  provider: github
+  type: git
+revisions:
+  7bdb99203c3b0d113668b9a96b1daaa920d654a2:
+    licensed:
+      declared: NOASSERTION AND Apache-2.0 AND NOASSERTION
