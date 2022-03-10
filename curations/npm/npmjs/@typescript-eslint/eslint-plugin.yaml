@@ -1,0 +1,9 @@
+coordinates:
+  name: eslint-plugin
+  namespace: '@typescript-eslint'
+  provider: npmjs
+  type: npm
+revisions:
+  3.8.0:
+    licensed:
+      declared: BSD-2-Clause
