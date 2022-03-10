@@ -1,0 +1,9 @@
+coordinates:
+  name: bbloom
+  namespace: andreasbriese
+  provider: github
+  type: git
+revisions:
+  46b345b51c9667fcbaad862a370d73bd7aa802b6:
+    licensed:
+      declared: MIT
