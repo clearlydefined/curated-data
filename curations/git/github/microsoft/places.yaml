@@ -1,0 +1,9 @@
+coordinates:
+  name: places
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  5adca97155e52720d76bee70f0ec6e1c49a55f42:
+    licensed:
+      declared: MIT
