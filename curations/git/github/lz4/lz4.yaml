@@ -51,15 +51,18 @@ revisions:
         path: tests/test-lz4-versions.py
     licensed:
       declared: BSD-2-Clause AND GPL-2.0-only
+  b3692db46d2b23a7c0af2d5e69988c94f126e10a:
+    licensed:
+      declared: BSD-2-Clause AND GPL-2.0-or-later
   c04df7e1b5fb1e4ffa796d2b3d2dea208f7116da:
+    licensed:
+      declared: BSD-2-Clause AND GPL-2.0-only
+  d44371841a2f1728a3f36839fd4b7e872d0927d3:
     licensed:
       declared: BSD-2-Clause AND GPL-2.0-only
   d86dc916771c126afb797637dda9f6421c0cb998:
     licensed:
       declared: BSD-2-Clause AND GPL-2.0-only
   fdf2ef5809ca875c454510610764d9125ef2ebbd:
-    licensed:
-      declared: BSD-2-Clause AND GPL-2.0-only
-  d44371841a2f1728a3f36839fd4b7e872d0927d3:
     licensed:
       declared: BSD-2-Clause AND GPL-2.0-only
