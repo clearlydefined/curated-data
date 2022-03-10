@@ -1,0 +1,8 @@
+coordinates:
+  name: pycryptodome
+  provider: pypi
+  type: pypi
+revisions:
+  3.14.1:
+    licensed:
+      declared: BSD-2-Clause AND Unlicense

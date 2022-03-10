@@ -1,0 +1,9 @@
+coordinates:
+  name: quasiquotes_2.10
+  namespace: org.scalamacros
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.1:
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,9 @@
+coordinates:
+  name: numactl
+  namespace: numactl
+  provider: github
+  type: git
+revisions:
+  841253d1313b01a968c380cae4f498f20c46e5aa:
+    licensed:
+      declared: GPL-2.0-only

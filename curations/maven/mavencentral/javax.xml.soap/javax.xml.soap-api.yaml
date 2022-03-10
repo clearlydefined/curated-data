@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.xml.soap-api
+  namespace: javax.xml.soap
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.0:
+    licensed:
+      declared: CDDL-1.1 AND GPL-2.0-only WITH Classpath-exception-2.0

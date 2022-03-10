@@ -1,0 +1,12 @@
+coordinates:
+  name: file
+  namespace: file
+  provider: github
+  type: git
+revisions:
+  315cef2f699da3c31a54bd3c6c6070680fbaf1f5:
+    licensed:
+      declared: BSD-2-Clause
+  ec41083645689a787cdd00cb3b5bf578aa79e46c:
+    licensed:
+      declared: BSD-2-Clause
