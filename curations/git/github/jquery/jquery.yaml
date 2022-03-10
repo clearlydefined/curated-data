@@ -28,6 +28,9 @@ revisions:
           - '(c) jQuery Foundation, Inc.'
         license: MIT
         path: external/sizzle/dist/sizzle.min.js
+  4dec426aa2a6cbabb1b064319ba7c272d594a688:
+    licensed:
+      declared: MIT
   8f2a9d9272d6ed7f32d3a484740ab342c02541e0:
     licensed:
       declared: MIT
