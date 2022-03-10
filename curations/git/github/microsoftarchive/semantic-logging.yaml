@@ -1,0 +1,9 @@
+coordinates:
+  name: semantic-logging
+  namespace: microsoftarchive
+  provider: github
+  type: git
+revisions:
+  cf77a19fb97952a52428e7cc0b803d956e125407:
+    licensed:
+      declared: Apache-2.0
