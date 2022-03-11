@@ -1,0 +1,9 @@
+coordinates:
+  name: snowball-stemmer
+  namespace: com.github.rholder
+  provider: mavencentral
+  type: maven
+revisions:
+  1.3.0.581.1:
+    licensed:
+      declared: BSD-2-Clause
