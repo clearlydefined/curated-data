@@ -3,6 +3,195 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  '0.1':
+    licensed:
+      declared: MIT
+  0.1.2:
+    licensed:
+      declared: MIT
+  0.10.0:
+    licensed:
+      declared: MIT
+  0.10.1:
+    licensed:
+      declared: MIT
+  0.10.2:
+    licensed:
+      declared: MIT
+  0.10.3:
+    licensed:
+      declared: MIT
+  0.11.0:
+    licensed:
+      declared: MIT
+  0.11.1:
+    licensed:
+      declared: MIT
+  0.12.0:
+    licensed:
+      declared: MIT
+  0.12.1:
+    licensed:
+      declared: MIT
+  '0.13':
+    licensed:
+      declared: MIT
+  0.13.1:
+    licensed:
+      declared: MIT
+  0.13.2:
+    licensed:
+      declared: MIT
+  0.13.3:
+    licensed:
+      declared: MIT
+  0.13.5:
+    licensed:
+      declared: MIT
+  0.13.6:
+    licensed:
+      declared: MIT
+  0.13.7:
+    licensed:
+      declared: MIT
+  0.14.0:
+    licensed:
+      declared: MIT
+  0.14.1:
+    licensed:
+      declared: MIT
+  0.15.0:
+    licensed:
+      declared: MIT
+  0.16.1:
+    licensed:
+      declared: MIT
+  0.19.1:
+    licensed:
+      declared: MIT
+  0.19.2:
+    licensed:
+      declared: MIT
+  0.19.3:
+    licensed:
+      declared: MIT
+  0.19.4:
+    licensed:
+      declared: MIT
+  0.19.5:
+    licensed:
+      declared: MIT
+  '0.2':
+    licensed:
+      declared: MIT
+  0.2.1:
+    licensed:
+      declared: MIT
+  0.2.2:
+    licensed:
+      declared: MIT
+  0.2.3:
+    licensed:
+      declared: MIT
+  0.2.4:
+    licensed:
+      declared: MIT
+  0.20.0:
+    licensed:
+      declared: MIT
+  0.20.1:
+    licensed:
+      declared: MIT
+  0.20.2:
+    licensed:
+      declared: MIT
+  0.21.0:
+    licensed:
+      declared: MIT
+  0.22.0:
+    licensed:
+      declared: MIT
+  0.22.1:
+    licensed:
+      declared: MIT
+  0.22.2:
+    licensed:
+      declared: MIT
+  0.22.3:
+    licensed:
+      declared: MIT
+  0.23.0:
+    licensed:
+      declared: MIT
+  0.23.1:
+    licensed:
+      declared: MIT
+  0.23.2:
+    licensed:
+      declared: MIT
+  0.24.0:
+    licensed:
+      declared: MIT
+  0.25.1:
+    licensed:
+      declared: MIT
+  0.25.2:
+    licensed:
+      declared: MIT
+  0.26.0:
+    licensed:
+      declared: MIT
+  0.28.4:
+    licensed:
+      declared: MIT
+  0.28.5:
+    licensed:
+      declared: MIT
+  0.28.6:
+    licensed:
+      declared: MIT
+  0.29.1:
+    licensed:
+      declared: MIT
+  0.29.2:
+    licensed:
+      declared: MIT
+  0.29.3:
+    licensed:
+      declared: MIT
+  '0.3':
+    licensed:
+      declared: MIT
+  0.3.1:
+    licensed:
+      declared: MIT
+  0.3.2:
+    licensed:
+      declared: MIT
+  0.3.3:
+    licensed:
+      declared: MIT
+  0.30.0:
+    licensed:
+      declared: MIT
+  0.30.1:
+    licensed:
+      declared: MIT
+  0.30.2:
+    licensed:
+      declared: MIT
+  0.31.0:
+    licensed:
+      declared: MIT
+  0.32.0:
+    licensed:
+      declared: MIT
+  0.32.1:
+    licensed:
+      declared: MIT
+  0.33.0:
+    licensed:
+      declared: MIT
   0.34.0:
     licensed:
       declared: MIT
@@ -19,5 +208,50 @@ revisions:
     licensed:
       declared: MIT
   0.39.0:
+    licensed:
+      declared: MIT
+  '0.5':
+    licensed:
+      declared: MIT
+  '0.6':
+    licensed:
+      declared: MIT
+  0.6.1:
+    licensed:
+      declared: MIT
+  0.7.0:
+    licensed:
+      declared: MIT
+  0.8.0:
+    licensed:
+      declared: MIT
+  0.8.1:
+    licensed:
+      declared: MIT
+  0.8.2:
+    licensed:
+      declared: MIT
+  0.8.3:
+    licensed:
+      declared: MIT
+  0.8.4:
+    licensed:
+      declared: MIT
+  0.8.5:
+    licensed:
+      declared: MIT
+  0.8.6:
+    licensed:
+      declared: MIT
+  0.8.7:
+    licensed:
+      declared: MIT
+  0.8.8:
+    licensed:
+      declared: MIT
+  0.8.9:
+    licensed:
+      declared: MIT
+  0.9.1:
     licensed:
       declared: MIT
