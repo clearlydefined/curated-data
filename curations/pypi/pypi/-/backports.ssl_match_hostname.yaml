@@ -8,7 +8,7 @@ revisions:
       declared: MIT
   3.4.0.1:
     licensed:
-      declared: MIT
+      declared: PSF-2.0
   3.4.0.2:
     licensed:
       declared: PSF-2.0
