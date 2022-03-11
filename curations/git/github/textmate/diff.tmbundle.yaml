@@ -1,0 +1,9 @@
+coordinates:
+  name: diff.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  0593bb775eab1824af97ef2172fd38822abd97d7:
+    licensed:
+      declared: OTHER

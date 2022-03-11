@@ -1,0 +1,12 @@
+coordinates:
+  name: kibana
+  namespace: elastic
+  provider: github
+  type: git
+revisions:
+  e13d5b1fed429df03e29af259ffccd6453250947:
+    licensed:
+      declared: Apache-2.0 AND OTHER
+  7bdb99203c3b0d113668b9a96b1daaa920d654a2:
+    licensed:
+      declared: Apache-2.0 AND OTHER

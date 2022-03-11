@@ -1,0 +1,9 @@
+coordinates:
+  name: grouped_categories
+  namespace: blacklabel
+  provider: github
+  type: git
+revisions:
+  f93ad04c668a0d7e5443d97358dca77bd31cf8b8:
+    licensed:
+      declared: CC-BY-3.0

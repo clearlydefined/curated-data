@@ -1,0 +1,9 @@
+coordinates:
+  name: jcr
+  namespace: javax.jcr
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.0':
+    licensed:
+      declared: OTHER

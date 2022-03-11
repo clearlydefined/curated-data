@@ -1,0 +1,9 @@
+coordinates:
+  name: lua.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  8ae5641365b28f697121ba1133890e8d81f5b00e:
+    licensed:
+      declared: OTHER
