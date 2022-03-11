@@ -69,6 +69,9 @@ revisions:
   1.55.0:
     licensed:
       declared: Apache-2.0
+  1.56.0:
+    licensed:
+      declared: Apache-2.0
   1.9.0:
     licensed:
       declared: Apache-2.0
