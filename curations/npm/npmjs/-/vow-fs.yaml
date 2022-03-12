@@ -1,0 +1,8 @@
+coordinates:
+  name: vow-fs
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.1:
+    licensed:
+      declared: MIT OR GPL-1.0-or-later
