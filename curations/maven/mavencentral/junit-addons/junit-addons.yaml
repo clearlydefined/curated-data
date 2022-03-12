@@ -1,0 +1,9 @@
+coordinates:
+  name: junit-addons
+  namespace: junit-addons
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.4':
+    licensed:
+      declared: Apache-1.1
