@@ -1,0 +1,9 @@
+coordinates:
+  name: respond
+  namespace: scottjehl
+  provider: github
+  type: git
+revisions:
+  b21c5785e8442cca651f532ce72e6e515817ad3d:
+    licensed:
+      declared: GPL-2.0-only OR MIT
