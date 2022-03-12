@@ -6,4 +6,4 @@ coordinates:
 revisions:
   b21c5785e8442cca651f532ce72e6e515817ad3d:
     licensed:
-      declared: MIT
+      declared: GPL-2.0-only OR MIT
