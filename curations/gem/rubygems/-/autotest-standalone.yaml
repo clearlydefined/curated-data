@@ -1,0 +1,8 @@
+coordinates:
+  name: autotest-standalone
+  provider: rubygems
+  type: gem
+revisions:
+  4.5.11:
+    licensed:
+      declared: MIT
