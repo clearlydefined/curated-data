@@ -1,0 +1,9 @@
+coordinates:
+  name: ldapsdk
+  namespace: ldapsdk
+  provider: mavencentral
+  type: maven
+revisions:
+  '4.1':
+    licensed:
+      declared: NONE
