@@ -1,0 +1,8 @@
+coordinates:
+  name: MarkdownLog.NS20
+  provider: nuget
+  type: nuget
+revisions:
+  0.10.1:
+    licensed:
+      declared: MIT

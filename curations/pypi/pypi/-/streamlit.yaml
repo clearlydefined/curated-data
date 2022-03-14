@@ -162,3 +162,6 @@ revisions:
   1.7.0:
     licensed:
       declared: Apache-2.0
+  1.6.0:
+    licensed:
+      declared: Apache-2.0
