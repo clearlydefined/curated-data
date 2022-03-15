@@ -16,3 +16,6 @@ revisions:
   e2d85306162d3a0691b070b4f0a73e4012433444:
     licensed:
       declared: Unicode-DFS-2016
+  fd123bf023882f07bfacf51c39111be2f946d8f8:
+    licensed:
+      declared: ICU
