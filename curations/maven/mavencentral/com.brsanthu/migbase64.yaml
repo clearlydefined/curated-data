@@ -1,0 +1,9 @@
+coordinates:
+  name: migbase64
+  namespace: com.brsanthu
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.2':
+    licensed:
+      declared: OTHER
