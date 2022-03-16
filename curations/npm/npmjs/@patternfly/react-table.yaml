@@ -1,0 +1,15 @@
+coordinates:
+  name: react-table
+  namespace: '@patternfly'
+  provider: npmjs
+  type: npm
+revisions:
+  4.30.3:
+    described:
+      sourceLocation:
+        name: patternfly-react
+        namespace: patternfly
+        provider: github
+        revision: 463b824d3b7efca8f94c4b33f62eefc880eafe46
+        type: git
+        url: 'https://github.com/patternfly/patternfly-react/commit/463b824d3b7efca8f94c4b33f62eefc880eafe46'
