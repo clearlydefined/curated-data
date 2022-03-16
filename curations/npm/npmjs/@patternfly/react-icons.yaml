@@ -4,6 +4,15 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  4.33.0:
+    described:
+      sourceLocation:
+        name: patternfly-react
+        namespace: patternfly
+        provider: github
+        revision: 496b6ded6379af684e78a87f13484aaa9fbb779e
+        type: git
+        url: 'https://github.com/patternfly/patternfly-react/commit/496b6ded6379af684e78a87f13484aaa9fbb779e'
   4.49.19:
     described:
       sourceLocation:
