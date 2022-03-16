@@ -1,0 +1,14 @@
+coordinates:
+  name: http-parser-js
+  provider: npmjs
+  type: npm
+revisions:
+  0.5.6:
+    described:
+      sourceLocation:
+        name: http-parser-js
+        namespace: creationix
+        provider: github
+        revision: 8a13b79e0d9ddadbb0997eaf3d375aa5bc89e0f1
+        type: git
+        url: 'https://github.com/creationix/http-parser-js/commit/8a13b79e0d9ddadbb0997eaf3d375aa5bc89e0f1'
