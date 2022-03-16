@@ -1,0 +1,8 @@
+coordinates:
+  name: datetime
+  provider: pypi
+  type: pypi
+revisions:
+  '4.4':
+    licensed:
+      declared: ZPL-2.1
