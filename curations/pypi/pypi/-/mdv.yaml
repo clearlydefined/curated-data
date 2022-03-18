@@ -1,0 +1,16 @@
+coordinates:
+  name: mdv
+  provider: pypi
+  type: pypi
+revisions:
+  1.7.4:
+    described:
+      sourceLocation:
+        name: terminal_markdown_viewer
+        namespace: axiros
+        provider: github
+        revision: 978e6d84f154d77f6bb9996e52cc08f7a190e1bc
+        type: git
+        url: 'https://github.com/axiros/terminal_markdown_viewer/commit/978e6d84f154d77f6bb9996e52cc08f7a190e1bc'
+    licensed:
+      declared: BSD-3-Clause
