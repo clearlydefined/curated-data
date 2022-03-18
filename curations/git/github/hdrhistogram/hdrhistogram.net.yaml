@@ -1,0 +1,9 @@
+coordinates:
+  name: hdrhistogram.net
+  namespace: hdrhistogram
+  provider: github
+  type: git
+revisions:
+  58e33440549be69a13a56c60f5e68bbccaae86af:
+    licensed:
+      declared: BSD-2-Clause
