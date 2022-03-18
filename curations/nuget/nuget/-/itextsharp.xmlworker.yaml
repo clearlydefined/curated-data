@@ -6,3 +6,6 @@ revisions:
   5.5.11:
     licensed:
       declared: AGPL-3.0-only
+  5.5.13.2:
+    licensed:
+      declared: AGPL-3.0-only OR OTHER
