@@ -1,0 +1,8 @@
+coordinates:
+  name: Autofac.Extras.NLog
+  provider: nuget
+  type: nuget
+revisions:
+  1.3.0:
+    licensed:
+      declared: MIT
