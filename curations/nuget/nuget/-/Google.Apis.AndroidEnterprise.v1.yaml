@@ -30,3 +30,6 @@ revisions:
   1.49.0.2191:
     licensed:
       declared: Apache-2.0
+  1.56.0.2395:
+    licensed:
+      declared: Apache-2.0
