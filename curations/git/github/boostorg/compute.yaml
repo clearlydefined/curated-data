@@ -1,0 +1,9 @@
+coordinates:
+  name: compute
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  36350b7de849300bd3d72a05d8bf890ca405a014:
+    licensed:
+      declared: BSL-1.0
