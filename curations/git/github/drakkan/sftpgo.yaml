@@ -1,0 +1,9 @@
+coordinates:
+  name: sftpgo
+  namespace: drakkan
+  provider: github
+  type: git
+revisions:
+  1ac4baa00a06247d372f2913a38e451c560d97ca:
+    licensed:
+      declared: GPL-3.0-only
