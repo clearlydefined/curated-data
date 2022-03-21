@@ -1,0 +1,9 @@
+coordinates:
+  name: devtools
+  namespace: r-lib
+  provider: github
+  type: git
+revisions:
+  4564f5930298194376801a4a0beca31235ecd95c:
+    licensed:
+      declared: GPL-2.0-or-later
