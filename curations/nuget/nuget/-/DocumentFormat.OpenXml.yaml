@@ -7,8 +7,16 @@ revisions:
     licensed:
       declared: Apache-2.0
   2.5.0:
+    described:
+      sourceLocation:
+        name: open-xml-sdk
+        namespace: officedev
+        provider: github
+        revision: 798250cdf725a0db173888268e60aeca88eff633
+        type: git
+        url: 'https://github.com/officedev/open-xml-sdk/commit/798250cdf725a0db173888268e60aeca88eff633'
     licensed:
-      declared: Apache-2.0
+      declared: MIT
   2.7.1:
     licensed:
       declared: Apache-2.0
