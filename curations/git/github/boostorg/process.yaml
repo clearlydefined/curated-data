@@ -1,0 +1,9 @@
+coordinates:
+  name: process
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  c1d0f1be76572e2e5ba9513468e2e030a61a6179:
+    licensed:
+      declared: BSL-1.0
