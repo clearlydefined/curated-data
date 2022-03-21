@@ -1,0 +1,9 @@
+coordinates:
+  name: logic
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  a5b56ff6fe7368e5f5ebbb374279ddc9fb49a2d5:
+    licensed:
+      declared: BSL-1.0
