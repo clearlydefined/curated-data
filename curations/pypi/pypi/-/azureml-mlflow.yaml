@@ -120,6 +120,9 @@ revisions:
   1.38.0:
     licensed:
       declared: OTHER
+  1.39.0:
+    licensed:
+      declared: MS-PL
   1.4.0:
     licensed:
       declared: OTHER
