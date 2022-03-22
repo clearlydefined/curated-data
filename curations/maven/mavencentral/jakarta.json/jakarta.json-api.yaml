@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.json-api
+  namespace: jakarta.json
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.1:
+    licensed:
+      declared: Apache-2.0
