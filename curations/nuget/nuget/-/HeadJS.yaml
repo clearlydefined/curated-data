@@ -1,0 +1,8 @@
+coordinates:
+  name: HeadJS
+  provider: nuget
+  type: nuget
+revisions:
+  0.99.0:
+    licensed:
+      declared: MIT
