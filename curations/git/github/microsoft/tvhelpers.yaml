@@ -1,0 +1,9 @@
+coordinates:
+  name: tvhelpers
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  5808de6031caed64b484e465f83f953fa8f42437:
+    licensed:
+      declared: MIT
