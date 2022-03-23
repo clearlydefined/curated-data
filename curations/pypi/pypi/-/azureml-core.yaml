@@ -417,6 +417,9 @@ revisions:
   1.39.0:
     licensed:
       declared: OTHER
+  1.39.0.post1:
+    licensed:
+      declared: OTHER
   1.4.0:
     licensed:
       declared: OTHER
