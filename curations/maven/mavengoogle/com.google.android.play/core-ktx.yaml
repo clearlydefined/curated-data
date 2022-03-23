@@ -1,0 +1,9 @@
+coordinates:
+  name: core-ktx
+  namespace: com.google.android.play
+  provider: mavengoogle
+  type: maven
+revisions:
+  1.8.1:
+    licensed:
+      declared: OTHER
