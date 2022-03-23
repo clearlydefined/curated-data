@@ -3,6 +3,9 @@ coordinates:
   provider: cocoapods
   type: pod
 revisions:
+  3.10.0:
+    licensed:
+      declared: OTHER
   3.20.4:
     licensed:
       declared: OTHER
