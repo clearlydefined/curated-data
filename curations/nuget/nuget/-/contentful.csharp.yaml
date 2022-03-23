@@ -1,0 +1,8 @@
+coordinates:
+  name: contentful.csharp
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.6:
+    licensed:
+      declared: MIT
