@@ -1,0 +1,9 @@
+coordinates:
+  name: flyingsaucer
+  namespace: flyingsaucerproject
+  provider: github
+  type: git
+revisions:
+  b73073224e7dc82cf36481acdd8a564190bee60a:
+    licensed:
+      declared: LGPL-2.1-or-later
