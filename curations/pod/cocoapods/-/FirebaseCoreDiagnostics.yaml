@@ -60,3 +60,12 @@ revisions:
   8.0.0:
     licensed:
       declared: Apache-2.0
+  8.1.0:
+    licensed:
+      declared: Apache-2.0
+  8.3.0:
+    licensed:
+      declared: Apache-2.0
+  8.8.0:
+    licensed:
+      declared: Apache-2.0
