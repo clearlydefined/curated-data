@@ -1,0 +1,9 @@
+coordinates:
+  name: pim-community-dev
+  namespace: akeneo
+  provider: github
+  type: git
+revisions:
+  8cbbbb44e12528e8eecdf3e8ebedaa98d423d2fc:
+    licensed:
+      declared: OSL-3.0
