@@ -1,0 +1,8 @@
+coordinates:
+  name: mocha-fivemat-progress-reporter
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.0:
+    licensed:
+      declared: Apache-2.0
