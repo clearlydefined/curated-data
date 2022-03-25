@@ -1,0 +1,8 @@
+coordinates:
+  name: OctoPack
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.43:
+    licensed:
+      declared: OTHER
