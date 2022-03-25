@@ -6,7 +6,19 @@ revisions:
   3.10.0:
     licensed:
       declared: OTHER
+  3.18.0:
+    licensed:
+      declared: OTHER
+  3.20.3:
+    licensed:
+      declared: OTHER
   3.20.4:
+    licensed:
+      declared: OTHER
+  3.21.3:
+    licensed:
+      declared: OTHER
+  3.23.0:
     licensed:
       declared: OTHER
   3.31.2:
