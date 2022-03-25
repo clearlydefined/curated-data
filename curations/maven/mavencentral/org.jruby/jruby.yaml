@@ -1,0 +1,9 @@
+coordinates:
+  name: jruby
+  namespace: org.jruby
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.0:
+    licensed:
+      declared: Apache-2.0

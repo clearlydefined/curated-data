@@ -14,7 +14,7 @@ revisions:
         type: git
         url: 'https://github.com/eclipse-ee4j/jsonp/commit/517c036150ca4e6bfe7257adde0e6f00958e0d45'
     licensed:
-      declared: EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0
   2.0.0:
     described:
       sourceLocation:
@@ -25,4 +25,7 @@ revisions:
         type: git
         url: 'https://github.com/eclipse-ee4j/jsonp/commit/c3699129534055833b1e070f67ca5d8cf401933d'
     licensed:
-      declared: EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0
+  2.0.1:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0

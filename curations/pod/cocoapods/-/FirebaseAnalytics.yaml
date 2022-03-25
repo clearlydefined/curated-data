@@ -6,6 +6,12 @@ revisions:
   6.0.2:
     licensed:
       declared: OTHER
+  6.1.6:
+    licensed:
+      declared: OTHER
+  6.1.7:
+    licensed:
+      declared: OTHER
   6.3.0:
     licensed:
       declared: OTHER
@@ -30,12 +36,87 @@ revisions:
   7.1.0:
     licensed:
       declared: OTHER
+  7.10.0:
+    licensed:
+      declared: OTHER
+  7.11.0:
+    licensed:
+      declared: OTHER
   7.2.0:
     licensed:
       declared: OTHER
   7.3.0:
     licensed:
       declared: OTHER
+  7.4.0:
+    licensed:
+      declared: OTHER
+  7.5.0:
+    licensed:
+      declared: OTHER
+  7.6.0:
+    licensed:
+      declared: OTHER
+  7.7.0:
+    licensed:
+      declared: OTHER
+  7.8.0:
+    licensed:
+      declared: OTHER
+  7.8.1:
+    licensed:
+      declared: OTHER
+  7.9.0:
+    licensed:
+      declared: OTHER
+  8.0.0:
+    licensed:
+      declared: OTHER
+  8.1.0:
+    licensed:
+      declared: OTHER
+  8.1.1:
+    licensed:
+      declared: OTHER
   8.10.0:
+    licensed:
+      declared: OTHER
+  8.11.0:
+    licensed:
+      declared: OTHER
+  8.12.0:
+    licensed:
+      declared: OTHER
+  8.13.0:
+    licensed:
+      declared: OTHER
+  8.14.0:
+    licensed:
+      declared: OTHER
+  8.2.0:
+    licensed:
+      declared: OTHER
+  8.3.0:
+    licensed:
+      declared: OTHER
+  8.4.0:
+    licensed:
+      declared: OTHER
+  8.5.0:
+    licensed:
+      declared: OTHER
+  8.6.0:
+    licensed:
+      declared: OTHER
+  8.7.0:
+    licensed:
+      declared: OTHER
+  8.8.0:
+    licensed:
+      declared: OTHER
+  8.9.0:
+    licensed:
+      declared: OTHER
+  8.9.1:
     licensed:
       declared: OTHER

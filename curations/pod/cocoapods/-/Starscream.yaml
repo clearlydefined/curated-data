@@ -1,11 +1,8 @@
 coordinates:
-  name: GoogleUtilities
+  name: Starscream
   provider: cocoapods
   type: pod
 revisions:
-  6.7.2:
-    licensed:
-      declared: Apache-2.0
-  7.0.0:
+  3.0.6:
     licensed:
       declared: Apache-2.0
