@@ -1,0 +1,9 @@
+coordinates:
+  name: org.osgi.compendium
+  namespace: org.osgi
+  provider: mavencentral
+  type: maven
+revisions:
+  4.0.0:
+    licensed:
+      declared: EPL-1.0
