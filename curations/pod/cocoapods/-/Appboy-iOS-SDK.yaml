@@ -12,6 +12,7 @@ revisions:
   3.18.0:
     licensed:
       declared: OTHER
+  3.20.3:
     licensed:
       declared: OTHER
   3.20.4:
