@@ -1,0 +1,8 @@
+coordinates:
+  name: i18n_yaml_sorter_2
+  provider: rubygems
+  type: gem
+revisions:
+  0.3.0:
+    described:
+      releaseDate: '2018-04-06'
