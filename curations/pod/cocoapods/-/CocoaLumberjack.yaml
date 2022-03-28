@@ -6,6 +6,9 @@ revisions:
   1.8.1:
     licensed:
       declared: BSD-Source-Code
+  1.9.2:
+    licensed:
+      declared: BSD-Source-Code
   2.3.0:
     licensed:
       declared: BSD-Source-Code
