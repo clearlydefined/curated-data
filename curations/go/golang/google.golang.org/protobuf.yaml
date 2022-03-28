@@ -7,3 +7,30 @@ revisions:
   v1.23.1-0.20200526195155-81db48ad09cc:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  v0.0.0-20200109180630-ec00e32a8dfd:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20200221191635-4d8936d0db64:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20200228230310-ab0ca4ff8a60:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v1.25.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v1.26.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v1.23.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v1.26.0-rc.1:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v1.20.1-0.20200309200217-e05f789c0967:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v1.24.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
