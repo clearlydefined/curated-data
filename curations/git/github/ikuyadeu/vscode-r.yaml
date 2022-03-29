@@ -1,0 +1,9 @@
+coordinates:
+  name: vscode-r
+  namespace: ikuyadeu
+  provider: github
+  type: git
+revisions:
+  ff60e426f66503f3c9533c7a62a8fd3f9f6c53df:
+    licensed:
+      declared: MIT
