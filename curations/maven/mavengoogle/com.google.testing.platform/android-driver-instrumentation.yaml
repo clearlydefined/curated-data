@@ -1,0 +1,9 @@
+coordinates:
+  name: android-driver-instrumentation
+  namespace: com.google.testing.platform
+  provider: mavengoogle
+  type: maven
+revisions:
+  0.0.8-alpha07:
+    licensed:
+      declared: OTHER
