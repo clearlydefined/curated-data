@@ -1,0 +1,9 @@
+coordinates:
+  name: java.interop
+  namespace: xamarin
+  provider: github
+  type: git
+revisions:
+  05bfece482abf273c481e03006db3aab616f560b:
+    licensed:
+      declared: MIT
