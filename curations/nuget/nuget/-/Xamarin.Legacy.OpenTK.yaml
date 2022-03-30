@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Legacy.OpenTK
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.1-alpha:
+    licensed:
+      declared: MIT
