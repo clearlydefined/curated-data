@@ -18,7 +18,7 @@ revisions:
       declared: BSD-3-Clause AND OTHER
   v1.21.0:
     licensed:
-      declared: NONE
+      declared: BSD-3-Clause AND OTHER
   v1.23.0:
     licensed:
       declared: BSD-3-Clause AND OTHER
