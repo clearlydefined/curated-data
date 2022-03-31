@@ -1,0 +1,16 @@
+coordinates:
+  name: ApacheOrcDotNet
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    described:
+      sourceLocation:
+        name: apacheorcdotnet
+        namespace: ddrinka
+        provider: github
+        revision: e4ed926
+        type: git
+        url: 'https://github.com/ddrinka/apacheorcdotnet/commit/e4ed926'
+    licensed:
+      declared: MIT
