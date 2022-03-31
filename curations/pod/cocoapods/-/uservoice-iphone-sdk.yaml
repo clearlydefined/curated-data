@@ -1,0 +1,8 @@
+coordinates:
+  name: uservoice-iphone-sdk
+  provider: cocoapods
+  type: pod
+revisions:
+  3.2.3:
+    licensed:
+      declared: Apache-2.0
