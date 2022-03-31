@@ -8,3 +8,6 @@ revisions:
     files:
       - license: CC-BY-NC-SA-2.0
         path: brut.apktool/apktool-lib/src/test/resources/aapt1/testapp/res/drawable-ldpi/data.jpg
+  66ead001c6d9151968de22346c2618b0c1720fa2:
+    licensed:
+      declared: Apache-2.0
