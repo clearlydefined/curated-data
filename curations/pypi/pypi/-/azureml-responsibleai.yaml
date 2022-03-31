@@ -1,0 +1,8 @@
+coordinates:
+  name: azureml-responsibleai
+  provider: pypi
+  type: pypi
+revisions:
+  1.39.0:
+    licensed:
+      declared: OTHER
