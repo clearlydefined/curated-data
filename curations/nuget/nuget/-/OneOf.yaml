@@ -30,3 +30,6 @@ revisions:
   3.0.211:
     licensed:
       declared: MIT
+  3.0.216:
+    licensed:
+      declared: MIT
