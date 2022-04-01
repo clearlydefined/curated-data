@@ -1,0 +1,9 @@
+coordinates:
+  name: pretty
+  namespace: github.com%2Ftidwall
+  provider: golang
+  type: go
+revisions:
+  v1.0.0:
+    licensed:
+      declared: MIT
