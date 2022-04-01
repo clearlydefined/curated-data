@@ -1,0 +1,9 @@
+coordinates:
+  name: sys
+  namespace: golang.org%2Fx
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220128215802-99c3d69c2c27:
+    licensed:
+      declared: BSD-3-Clause
