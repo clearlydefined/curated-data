@@ -1,0 +1,9 @@
+coordinates:
+  name: libffi
+  namespace: libffi
+  provider: github
+  type: git
+revisions:
+  5dcb741f1544c5e18c9dbf96aeb8b61cc556a616:
+    licensed:
+      declared: MIT
