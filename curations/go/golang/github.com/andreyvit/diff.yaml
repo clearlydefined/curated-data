@@ -1,0 +1,9 @@
+coordinates:
+  name: diff
+  namespace: github.com%2Fandreyvit
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170406064948-c7f18ee00883:
+    licensed:
+      declared: MIT

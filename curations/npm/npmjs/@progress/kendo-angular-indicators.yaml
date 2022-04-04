@@ -1,12 +1,9 @@
 coordinates:
-  name: kendo-angular-tooltip
+  name: kendo-angular-indicators
   namespace: '@progress'
   provider: npmjs
   type: npm
 revisions:
-  3.0.0:
-    licensed:
-      declared: OTHER
-  3.0.2:
+  1.1.3:
     licensed:
       declared: OTHER
