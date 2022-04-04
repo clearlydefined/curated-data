@@ -1,0 +1,9 @@
+coordinates:
+  name: api
+  namespace: sigs.k8s.io%2Fkustomize
+  provider: golang
+  type: go
+revisions:
+  v0.8.8:
+    licensed:
+      declared: Apache-2.0
