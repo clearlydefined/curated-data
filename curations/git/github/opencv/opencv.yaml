@@ -1,0 +1,9 @@
+coordinates:
+  name: opencv
+  namespace: opencv
+  provider: github
+  type: git
+revisions:
+  64e6cf9fe50ef25d317d3529a42d4862b93f002a:
+    licensed:
+      declared: Apache-2.0
