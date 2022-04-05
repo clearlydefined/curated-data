@@ -1,0 +1,9 @@
+coordinates:
+  name: quirc
+  namespace: dlbeer
+  provider: github
+  type: git
+revisions:
+  7e7ab596e4d0988faf1c12ae89c354b114181c40:
+    licensed:
+      declared: ISC
