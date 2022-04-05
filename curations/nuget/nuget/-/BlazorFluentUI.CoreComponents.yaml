@@ -1,11 +1,8 @@
 coordinates:
-  name: Snapshooter
+  name: BlazorFluentUI.CoreComponents
   provider: nuget
   type: nuget
 revisions:
-  0.6.1:
-    licensed:
-      declared: MIT
-  0.7.1:
+  6.0.1:
     licensed:
       declared: MIT

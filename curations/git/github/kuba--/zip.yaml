@@ -1,0 +1,9 @@
+coordinates:
+  name: zip
+  namespace: kuba--
+  provider: github
+  type: git
+revisions:
+  96924c94dabe362bbb1588aa70209e638e6fb35c:
+    licensed:
+      declared: Unlicense
