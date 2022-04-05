@@ -1,0 +1,8 @@
+coordinates:
+  name: bo-selector
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.10:
+    licensed:
+      declared: BSD-2-Clause
