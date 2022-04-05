@@ -13,6 +13,9 @@ revisions:
   5.0.0:
     licensed:
       declared: OTHER
+  5.1.1:
+    licensed:
+      declared: OTHER
   5.2.3:
     licensed:
       declared: OTHER

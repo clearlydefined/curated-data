@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  10ba6ed3365615ed5c2995fe2d240cb2d5000173:
+    licensed:
+      declared: BSD-3-Clause AND IJG AND Zlib
   166e34213e4f4e2363ce058a7bcc69fd03e38b76:
     licensed:
       declared: BSD-3-Clause AND IJG AND Zlib
@@ -11,6 +14,9 @@ revisions:
     licensed:
       declared: BSD-3-Clause AND IJG AND Zlib
   ad8330af72aefe5f07f79f6922fb5aa9ed209d18:
+    licensed:
+      declared: BSD-3-Clause AND IJG AND Zlib
+  ae87a958613b69628b92088b313ded0d4f59a716:
     licensed:
       declared: BSD-3-Clause AND IJG AND Zlib
   c23672ce52ae53bd846b555439aa0a070b6d2c07:
