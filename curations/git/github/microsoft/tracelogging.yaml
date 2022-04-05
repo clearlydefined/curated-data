@@ -1,0 +1,9 @@
+coordinates:
+  name: tracelogging
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  2ef5e888874d316efddcab75dbf49a40b98bc3df:
+    licensed:
+      declared: MIT

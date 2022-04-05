@@ -1,0 +1,9 @@
+coordinates:
+  name: poly2tri
+  namespace: greenm01
+  provider: github
+  type: git
+revisions:
+  88de49021b6d9bef6faa1bc94ceb3fbd85c3c204:
+    licensed:
+      declared: BSD-3-Clause
