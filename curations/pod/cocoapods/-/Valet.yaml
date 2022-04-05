@@ -1,0 +1,8 @@
+coordinates:
+  name: Valet
+  provider: cocoapods
+  type: pod
+revisions:
+  2.2.1:
+    licensed:
+      declared: Apache-2.0
