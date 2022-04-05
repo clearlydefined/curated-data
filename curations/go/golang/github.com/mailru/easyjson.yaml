@@ -1,0 +1,9 @@
+coordinates:
+  name: easyjson
+  namespace: github.com%2Fmailru
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190312143242-1de009706dbe:
+    licensed:
+      declared: MIT
