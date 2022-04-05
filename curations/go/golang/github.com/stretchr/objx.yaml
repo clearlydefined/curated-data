@@ -1,0 +1,9 @@
+coordinates:
+  name: objx
+  namespace: github.com%2Fstretchr
+  provider: golang
+  type: go
+revisions:
+  v0.1.0:
+    licensed:
+      declared: MIT
