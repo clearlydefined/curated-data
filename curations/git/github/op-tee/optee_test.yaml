@@ -1,0 +1,9 @@
+coordinates:
+  name: optee_test
+  namespace: op-tee
+  provider: github
+  type: git
+revisions:
+  f2eb88affbb7f028561b4fd5cbd049d5d704f741:
+    licensed:
+      declared: BSD-2-Clause AND GPL-2.0-only
