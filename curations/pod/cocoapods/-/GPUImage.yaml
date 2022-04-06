@@ -1,0 +1,8 @@
+coordinates:
+  name: GPUImage
+  provider: cocoapods
+  type: pod
+revisions:
+  0.1.6:
+    licensed:
+      declared: BSD-3-Clause
