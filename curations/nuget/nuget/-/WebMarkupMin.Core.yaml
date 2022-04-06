@@ -1,0 +1,8 @@
+coordinates:
+  name: WebMarkupMin.Core
+  provider: nuget
+  type: nuget
+revisions:
+  2.9.0:
+    licensed:
+      declared: Apache-2.0
