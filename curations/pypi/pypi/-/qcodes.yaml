@@ -1,0 +1,8 @@
+coordinates:
+  name: qcodes
+  provider: pypi
+  type: pypi
+revisions:
+  0.22.0:
+    licensed:
+      declared: MIT
