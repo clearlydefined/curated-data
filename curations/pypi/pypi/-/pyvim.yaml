@@ -1,0 +1,8 @@
+coordinates:
+  name: pyvim
+  provider: pypi
+  type: pypi
+revisions:
+  3.0.2:
+    licensed:
+      declared: BSD-3-Clause
