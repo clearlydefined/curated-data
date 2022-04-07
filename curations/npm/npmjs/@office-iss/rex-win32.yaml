@@ -4,6 +4,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.0.0-devmain.12823.10000:
+    licensed:
+      declared: OTHER
   0.62.12-tenantreactnativewin-13326:
     licensed:
       declared: OTHER
