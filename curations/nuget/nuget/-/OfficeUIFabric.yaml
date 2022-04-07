@@ -1,0 +1,8 @@
+coordinates:
+  name: OfficeUIFabric
+  provider: nuget
+  type: nuget
+revisions:
+  2.6.3:
+    licensed:
+      declared: MIT
