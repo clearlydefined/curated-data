@@ -1,0 +1,9 @@
+coordinates:
+  name: cronet-api
+  namespace: org.chromium.net
+  provider: mavengoogle
+  type: maven
+revisions:
+  72.3626.96:
+    licensed:
+      declared: BSD-3-Clause
