@@ -12,7 +12,7 @@ revisions:
       declared: OTHER
   20.0.0:
     licensed:
-      declared: LicenseRef-scancode-android-sdk-license
+      declared: OTHER
   21.0.1:
     licensed:
       declared: OTHER
