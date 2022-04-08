@@ -1,0 +1,9 @@
+coordinates:
+  name: xmpcore
+  namespace: com.adobe.xmp
+  provider: mavencentral
+  type: maven
+revisions:
+  5.1.3:
+    licensed:
+      declared: BSD-3-Clause
