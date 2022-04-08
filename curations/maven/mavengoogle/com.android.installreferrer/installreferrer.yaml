@@ -9,7 +9,7 @@ revisions:
       declared: OTHER
   '2.1':
     licensed:
-      declared: LicenseRef-scancode-android-sdk-license
+      declared: OTHER
   '2.2':
     licensed:
       declared: OTHER
