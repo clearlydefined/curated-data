@@ -1,0 +1,8 @@
+coordinates:
+  name: requests-pkcs12
+  provider: pypi
+  type: pypi
+revisions:
+  '1.8':
+    licensed:
+      declared: ISC
