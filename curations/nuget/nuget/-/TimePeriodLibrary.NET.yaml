@@ -1,0 +1,8 @@
+coordinates:
+  name: TimePeriodLibrary.NET
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.1:
+    licensed:
+      declared: MIT
