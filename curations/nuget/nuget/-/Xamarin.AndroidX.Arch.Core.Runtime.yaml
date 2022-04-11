@@ -18,3 +18,6 @@ revisions:
   2.1.0.7:
     licensed:
       declared: MIT
+  2.1.0.8:
+    licensed:
+      declared: MIT
