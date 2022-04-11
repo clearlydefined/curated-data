@@ -1,0 +1,9 @@
+coordinates:
+  name: topicmodels
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  4b9cfb2145fe58fa849a0cf981a9563fb8ba8d4c:
+    licensed:
+      declared: GPL-2.0-or-later
