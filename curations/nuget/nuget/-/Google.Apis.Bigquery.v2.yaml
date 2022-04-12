@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Apis.Bigquery.v2
+  provider: nuget
+  type: nuget
+revisions:
+  1.45.0.1909:
+    licensed:
+      declared: Apache-2.0
