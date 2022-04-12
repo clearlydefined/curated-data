@@ -1,0 +1,9 @@
+coordinates:
+  name: openair
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  573bbc1c72958690b1e740be154d07e7ee649ab6:
+    licensed:
+      declared: GPL-2.0-or-later
