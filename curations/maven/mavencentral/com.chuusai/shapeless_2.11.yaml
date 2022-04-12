@@ -1,0 +1,9 @@
+coordinates:
+  name: shapeless_2.11
+  namespace: com.chuusai
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0:
+    licensed:
+      declared: NONE
