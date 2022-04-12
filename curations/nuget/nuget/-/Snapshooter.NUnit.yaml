@@ -1,0 +1,8 @@
+coordinates:
+  name: Snapshooter.NUnit
+  provider: nuget
+  type: nuget
+revisions:
+  0.7.1:
+    licensed:
+      declared: MIT

@@ -84,6 +84,9 @@ revisions:
   2.14.1:
     licensed:
       declared: Apache-2.0
+  2.15.0:
+    licensed:
+      declared: Apache-2.0
   2.8.0:
     licensed:
       declared: Apache-2.0
