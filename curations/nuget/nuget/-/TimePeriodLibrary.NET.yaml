@@ -1,14 +1,8 @@
 coordinates:
-  name: Fare
+  name: TimePeriodLibrary.NET
   provider: nuget
   type: nuget
 revisions:
   2.1.1:
-    licensed:
-      declared: MIT
-  2.1.2:
-    licensed:
-      declared: MIT
-  2.2.0:
     licensed:
       declared: MIT

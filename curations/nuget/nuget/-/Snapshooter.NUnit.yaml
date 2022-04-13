@@ -1,11 +1,8 @@
 coordinates:
-  name: RazorEngineCore
+  name: Snapshooter.NUnit
   provider: nuget
   type: nuget
 revisions:
-  2020.5.1:
-    licensed:
-      declared: MIT
-  2022.1.2:
+  0.7.1:
     licensed:
       declared: MIT

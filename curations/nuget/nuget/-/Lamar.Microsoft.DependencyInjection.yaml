@@ -1,11 +1,8 @@
 coordinates:
-  name: RazorEngineCore
+  name: Lamar.Microsoft.DependencyInjection
   provider: nuget
   type: nuget
 revisions:
-  2020.5.1:
-    licensed:
-      declared: MIT
-  2022.1.2:
+  8.0.0:
     licensed:
       declared: MIT

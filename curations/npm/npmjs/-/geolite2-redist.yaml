@@ -1,0 +1,8 @@
+coordinates:
+  name: geolite2-redist
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.4:
+    licensed:
+      declared: OTHER

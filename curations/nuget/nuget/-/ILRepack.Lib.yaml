@@ -1,11 +1,8 @@
 coordinates:
-  name: RazorGenerator.Testing
+  name: ILRepack.Lib
   provider: nuget
   type: nuget
 revisions:
-  2.0.1:
-    licensed:
-      declared: Apache-2.0
-  2.4.7:
+  2.0.18:
     licensed:
       declared: Apache-2.0
