@@ -1,0 +1,9 @@
+coordinates:
+  name: formattable
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  6c838e625d8f4eec7efe9327c6aa742006334974:
+    licensed:
+      declared: MIT
