@@ -1,0 +1,8 @@
+coordinates:
+  name: 7-Zip.StandaloneConsole
+  provider: nuget
+  type: nuget
+revisions:
+  21.7.0:
+    licensed:
+      declared: LGPL-2.1-or-later
