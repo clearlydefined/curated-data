@@ -1,0 +1,8 @@
+coordinates:
+  name: ILRepack.Lib
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.18:
+    licensed:
+      declared: Apache-2.0
