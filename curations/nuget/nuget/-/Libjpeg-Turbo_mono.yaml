@@ -1,0 +1,8 @@
+coordinates:
+  name: Libjpeg-Turbo_mono
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0:
+    licensed:
+      declared: BSD-3-Clause
