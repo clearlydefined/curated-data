@@ -9,3 +9,6 @@ revisions:
   1.46.0.1995:
     licensed:
       declared: Apache-2.0
+  1.51.0.2310:
+    licensed:
+      declared: Apache-2.0
