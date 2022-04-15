@@ -1,0 +1,9 @@
+coordinates:
+  name: modeltools
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  07501d5bd7deda0e925fd7a7937e63517d22c2d8:
+    licensed:
+      declared: GPL-2.0-only
