@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Cloud.Storage.V1
+  provider: nuget
+  type: nuget
+revisions:
+  3.7.0:
+    licensed:
+      declared: Apache-2.0
