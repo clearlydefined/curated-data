@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-pipeline-go
+  namespace: github.com%2Fazure
+  provider: golang
+  type: go
+revisions:
+  v0.2.3:
+    licensed:
+      declared: MIT
