@@ -25,6 +25,9 @@ revisions:
   9.4.1208.jre7:
     licensed:
       declared: BSD-3-Clause
+  9.4.1211.jre7:
+    licensed:
+      declared: BSD-2-Clause
   9.4.1212:
     licensed:
       declared: BSD-2-Clause
