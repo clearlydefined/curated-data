@@ -50,3 +50,6 @@ revisions:
   4.1.1:
     licensed:
       declared: OTHER
+  4.2.0:
+    licensed:
+      declared: PSF-2.0
