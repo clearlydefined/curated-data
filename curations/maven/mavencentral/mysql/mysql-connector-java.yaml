@@ -31,6 +31,9 @@ revisions:
   8.0.19:
     licensed:
       declared: OTHER
+  8.0.20:
+    licensed:
+      declared: GPL-2.0-only
   8.0.21:
     licensed:
       declared: OTHER
