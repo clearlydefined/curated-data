@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.json.bind-api
+  namespace: javax.json.bind
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: Apache-2.0
