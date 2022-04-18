@@ -60,3 +60,6 @@ revisions:
   3.3.0-alpha01:
     licensed:
       declared: BSD-3-Clause
+  3.6.0:
+    licensed:
+      declared: BSD-3-Clause
