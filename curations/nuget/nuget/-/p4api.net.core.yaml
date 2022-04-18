@@ -1,0 +1,8 @@
+coordinates:
+  name: p4api.net.core
+  provider: nuget
+  type: nuget
+revisions:
+  2020.2.207.5590:
+    licensed:
+      declared: OTHER
