@@ -1,0 +1,9 @@
+coordinates:
+  name: composite_primary_keys
+  namespace: composite-primary-keys
+  provider: github
+  type: git
+revisions:
+  c50642f95574e3cd920154cba1e4c80476549e8f:
+    licensed:
+      declared: MIT
