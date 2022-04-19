@@ -6,3 +6,6 @@ revisions:
   0.2.0:
     licensed:
       declared: GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1
+  1.0.0:
+    licensed:
+      declared: LGPL-2.1-or-later AND MPL-1.1
