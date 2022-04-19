@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Kotlin.StdLib.Jdk8
+  provider: nuget
+  type: nuget
+revisions:
+  1.6.20.1:
+    licensed:
+      declared: MIT
