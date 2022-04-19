@@ -148,4 +148,4 @@ revisions:
         path: src/lib/gssapi/krb5/gssapi_krb5.c
   a6566760ec7c5fb8eca6ae3a6f2729d5002b03e0:
     licensed:
-      declared: BSD-2-Clause
+      declared: OTHER
