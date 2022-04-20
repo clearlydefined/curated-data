@@ -1,0 +1,8 @@
+coordinates:
+  name: JetBrains.runAs
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.61:
+    licensed:
+      declared: Apache-2.0
