@@ -1,0 +1,8 @@
+coordinates:
+  name: Scriban.Signed
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.9:
+    licensed:
+      declared: BSD-2-Clause
