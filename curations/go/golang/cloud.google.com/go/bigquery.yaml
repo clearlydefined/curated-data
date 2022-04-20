@@ -1,0 +1,9 @@
+coordinates:
+  name: bigquery
+  namespace: cloud.google.com%2Fgo
+  provider: golang
+  type: go
+revisions:
+  v1.3.0:
+    licensed:
+      declared: Apache-2.0
