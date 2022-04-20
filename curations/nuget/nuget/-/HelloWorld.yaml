@@ -1,0 +1,8 @@
+coordinates:
+  name: HelloWorld
+  provider: nuget
+  type: nuget
+revisions:
+  1.3.0.17:
+    licensed:
+      declared: NONE
