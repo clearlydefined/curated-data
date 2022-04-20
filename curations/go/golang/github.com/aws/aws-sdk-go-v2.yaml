@@ -1,0 +1,9 @@
+coordinates:
+  name: aws-sdk-go-v2
+  namespace: github.com%2Faws
+  provider: golang
+  type: go
+revisions:
+  v0.18.0:
+    licensed:
+      declared: Apache-2.0
