@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.jakartaee-api
+  namespace: jakarta.platform
+  provider: mavencentral
+  type: maven
+revisions:
+  8.0.0:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0
