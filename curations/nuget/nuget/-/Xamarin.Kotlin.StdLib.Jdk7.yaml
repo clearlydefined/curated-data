@@ -1,11 +1,8 @@
 coordinates:
-  name: LightGBM
+  name: Xamarin.Kotlin.StdLib.Jdk7
   provider: nuget
   type: nuget
 revisions:
-  2.2.3:
-    licensed:
-      declared: MIT
-  2.3.1:
+  1.6.20.1:
     licensed:
       declared: MIT
