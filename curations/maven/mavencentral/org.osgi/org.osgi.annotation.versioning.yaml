@@ -1,0 +1,9 @@
+coordinates:
+  name: org.osgi.annotation.versioning
+  namespace: org.osgi
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0:
+    licensed:
+      declared: Apache-2.0

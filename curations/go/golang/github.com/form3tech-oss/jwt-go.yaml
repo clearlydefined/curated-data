@@ -1,0 +1,9 @@
+coordinates:
+  name: jwt-go
+  namespace: github.com%2Fform3tech-oss
+  provider: golang
+  type: go
+revisions:
+  v3.2.2+incompatible:
+    licensed:
+      declared: MIT

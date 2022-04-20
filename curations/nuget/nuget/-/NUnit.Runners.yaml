@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.6.2:
+    licensed:
+      declared: zlib-acknowledgement
   2.6.3:
     licensed:
       declared: zlib-acknowledgement
