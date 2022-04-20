@@ -1,0 +1,9 @@
+coordinates:
+  name: robustbase
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  d5c7990559d5cab8ce95bcbc079545ac4052d247:
+    licensed:
+      declared: GPL-2.0-or-later
