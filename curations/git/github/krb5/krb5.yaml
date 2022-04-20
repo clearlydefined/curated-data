@@ -5,7 +5,7 @@ coordinates:
   type: git
 revisions:
   97e3c42b2a89a2ec60eb93d3f974769e3e3cbdc5:
-    files:    
+    files:
       - attributions:
           - 'Copyright 1992-2018 Free Software Foundation, Inc.'
           - 'Copyright (c) 2010, 2011 by the Massachusetts Institute of Technology.'
@@ -146,3 +146,6 @@ revisions:
           - 'Copyright 1993 by OpenVision Technologies, Inc.'
         license: 'HPND-sell-variant AND BSD-3-Clause AND OTHER '
         path: src/lib/gssapi/krb5/gssapi_krb5.c
+  a6566760ec7c5fb8eca6ae3a6f2729d5002b03e0:
+    licensed:
+      declared: OTHER

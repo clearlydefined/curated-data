@@ -1,0 +1,9 @@
+coordinates:
+  name: tinymce
+  namespace: tinymce
+  provider: github
+  type: git
+revisions:
+  7bf9c066a06abe1b478c73628241fad71085da6d:
+    licensed:
+      declared: LGPL-2.1-only OR OTHER

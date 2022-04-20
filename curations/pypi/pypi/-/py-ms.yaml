@@ -1,0 +1,8 @@
+coordinates:
+  name: py-ms
+  provider: pypi
+  type: pypi
+revisions:
+  2.4.0:
+    licensed:
+      declared: GPL-3.0-only

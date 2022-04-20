@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.KotlinX.Coroutines.Android
+  provider: nuget
+  type: nuget
+revisions:
+  1.6.0.1:
+    licensed:
+      declared: MIT
