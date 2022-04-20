@@ -1,0 +1,9 @@
+coordinates:
+  name: ehcache
+  namespace: net.sf.ehcache
+  provider: mavencentral
+  type: maven
+revisions:
+  2.10.6:
+    licensed:
+      declared: Apache-2.0
