@@ -1,12 +1,9 @@
 coordinates:
-  name: adal
+  name: mocks
   namespace: github.com%2Fazure%2Fgo-autorest%2Fautorest
   provider: golang
   type: go
 revisions:
-  v0.9.14:
-    licensed:
-      declared: Apache-2.0
-  v0.9.5:
+  v0.4.1:
     licensed:
       declared: Apache-2.0
