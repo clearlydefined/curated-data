@@ -30,6 +30,9 @@ revisions:
         path: LICENSE.rst
     licensed:
       declared: OTHER
+  a30b279bad752ff4c4967c6d1bfcfc8d79c6b170:
+    licensed:
+      declared: OTHER
   b6f4ceaed0a0a24ccf575fab6c56dd50ccf6f1a9:
     licensed:
       declared: OTHER
