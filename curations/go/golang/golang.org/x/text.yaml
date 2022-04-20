@@ -6,4 +6,7 @@ coordinates:
 revisions:
   v0.3.3:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER
+  v0.3.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
