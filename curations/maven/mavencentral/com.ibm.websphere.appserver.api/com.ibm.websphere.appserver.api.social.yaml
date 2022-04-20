@@ -1,0 +1,9 @@
+coordinates:
+  name: com.ibm.websphere.appserver.api.social
+  namespace: com.ibm.websphere.appserver.api
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.42:
+    licensed:
+      declared: EPL-1.0
