@@ -1,0 +1,9 @@
+coordinates:
+  name: difflib
+  namespace: github.com%2Faryann
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170710044230-e206f873d14a:
+    licensed:
+      declared: MIT
