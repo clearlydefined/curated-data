@@ -1,11 +1,8 @@
 coordinates:
-  name: JsonSchema.Net
+  name: Metro.UI.CSS
   provider: nuget
   type: nuget
 revisions:
-  1.11.3:
-    licensed:
-      declared: MIT
-  2.3.0:
+  3.0.17:
     licensed:
       declared: MIT

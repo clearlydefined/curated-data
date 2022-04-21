@@ -1,11 +1,12 @@
 coordinates:
-  name: SwaggerWcf
-  provider: nuget
-  type: nuget
+  name: thrift
+  namespace: github.com%2Fapache
+  provider: golang
+  type: go
 revisions:
-  0.1.26:
+  v0.12.0:
     licensed:
       declared: Apache-2.0
-  0.2.13:
+  v0.13.0:
     licensed:
       declared: Apache-2.0

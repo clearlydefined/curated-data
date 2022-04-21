@@ -1,0 +1,9 @@
+coordinates:
+  name: circbuf
+  namespace: github.com%2Farmon
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20150827004946-bbbad097214e:
+    licensed:
+      declared: MIT

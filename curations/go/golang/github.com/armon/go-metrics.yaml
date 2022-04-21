@@ -1,0 +1,9 @@
+coordinates:
+  name: go-metrics
+  namespace: github.com%2Farmon
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180917152333-f0300d1749da:
+    licensed:
+      declared: MIT
