@@ -1,0 +1,9 @@
+coordinates:
+  name: umbraco-cms
+  namespace: umbraco
+  provider: github
+  type: git
+revisions:
+  2ef925f9dd3c6201d3267651be2432b070ddd200:
+    licensed:
+      declared: MIT
