@@ -1,0 +1,8 @@
+coordinates:
+  name: RabbitMQ
+  provider: nuget
+  type: nuget
+revisions:
+  3.6.2:
+    licensed:
+      declared: MPL-2.0
