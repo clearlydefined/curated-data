@@ -1,0 +1,8 @@
+coordinates:
+  name: Lync2013SDK
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.4466.1000:
+    licensed:
+      declared: NONE

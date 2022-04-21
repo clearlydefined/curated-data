@@ -7,3 +7,6 @@ revisions:
   v0.0.0-20160405071501-a0175ee3bccc:
     licensed:
       declared: BSD-3-Clause
+  v0.0.0-20190718012654-fb15b899a751:
+    licensed:
+      declared: BSD-3-Clause
