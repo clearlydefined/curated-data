@@ -1,0 +1,8 @@
+coordinates:
+  name: StrawberryShake.CodeGeneration.CSharp.Analyzers
+  provider: nuget
+  type: nuget
+revisions:
+  12.7.0:
+    licensed:
+      declared: MIT
