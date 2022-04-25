@@ -1,0 +1,9 @@
+coordinates:
+  name: wildfly-openssl-java
+  namespace: org.wildfly.openssl
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.4.Final:
+    licensed:
+      declared: Apache-2.0
