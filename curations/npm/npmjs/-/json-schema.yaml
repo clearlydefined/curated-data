@@ -9,3 +9,12 @@ revisions:
   0.2.3:
     licensed:
       declared: AFL-2.1 OR BSD-3-Clause
+  0.4.0:
+    described:
+      sourceLocation:
+        name: json-schema
+        namespace: kriszyp
+        provider: github
+        revision: f6f6a3b02d667aa4ba2d5d50cc19208c4462abfa
+        type: git
+        url: 'https://github.com/kriszyp/json-schema/commit/f6f6a3b02d667aa4ba2d5d50cc19208c4462abfa'
