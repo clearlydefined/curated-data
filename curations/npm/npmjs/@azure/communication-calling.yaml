@@ -43,6 +43,9 @@ revisions:
   1.4.1-beta.1:
     licensed:
       declared: OTHER
+  1.4.3-beta.1:
+    licensed:
+      declared: OTHER
   1.4.4:
     licensed:
       declared: OTHER
