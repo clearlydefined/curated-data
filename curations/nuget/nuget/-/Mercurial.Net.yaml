@@ -1,0 +1,8 @@
+coordinates:
+  name: Mercurial.Net
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.1.607:
+    licensed:
+      declared: NONE
