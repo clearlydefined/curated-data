@@ -9,3 +9,6 @@ revisions:
   1.16.0.4:
     licensed:
       declared: MIT
+  1.16.0.8:
+    licensed:
+      declared: Apache-1.1
