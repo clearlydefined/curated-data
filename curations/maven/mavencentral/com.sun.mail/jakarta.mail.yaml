@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.mail
+  namespace: com.sun.mail
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.1:
+    licensed:
+      declared: EPL-2.0
