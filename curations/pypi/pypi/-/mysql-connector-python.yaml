@@ -3,6 +3,114 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  1.0.10:
+    licensed:
+      declared: OTHER
+  1.0.12:
+    licensed:
+      declared: OTHER
+  1.0.5:
+    licensed:
+      declared: OTHER
+  1.0.5b1:
+    licensed:
+      declared: OTHER
+  1.0.6b2:
+    licensed:
+      declared: OTHER
+  1.0.7:
+    licensed:
+      declared: OTHER
+  1.0.9:
+    licensed:
+      declared: OTHER
+  1.1.4:
+    licensed:
+      declared: OTHER
+  1.1.5:
+    licensed:
+      declared: OTHER
+  1.1.6:
+    licensed:
+      declared: OTHER
+  1.2.2:
+    licensed:
+      declared: OTHER
+  1.2.3:
+    licensed:
+      declared: OTHER
+  2.0.1:
+    licensed:
+      declared: OTHER
+  2.0.2:
+    licensed:
+      declared: OTHER
+  2.0.3:
+    licensed:
+      declared: OTHER
+  2.0.4:
+    licensed:
+      declared: OTHER
+  8.0.11:
+    licensed:
+      declared: OTHER
+  8.0.12:
+    licensed:
+      declared: OTHER
   8.0.13:
     licensed:
-      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0
+      declared: OTHER
+  8.0.14:
+    licensed:
+      declared: OTHER
+  8.0.15:
+    licensed:
+      declared: OTHER
+  8.0.16:
+    licensed:
+      declared: OTHER
+  8.0.17:
+    licensed:
+      declared: OTHER
+  8.0.18:
+    licensed:
+      declared: OTHER
+  8.0.19:
+    licensed:
+      declared: OTHER
+  8.0.20:
+    licensed:
+      declared: OTHER
+  8.0.21:
+    licensed:
+      declared: OTHER
+  8.0.22:
+    licensed:
+      declared: OTHER
+  8.0.23:
+    licensed:
+      declared: OTHER
+  8.0.24:
+    licensed:
+      declared: OTHER
+  8.0.25:
+    licensed:
+      declared: OTHER
+  8.0.26:
+    licensed:
+      declared: OTHER
+  8.0.27:
+    licensed:
+      declared: OTHER
+  8.0.28:
+    licensed:
+      declared: OTHER
+  8.0.29:
+    licensed:
+      declared: OTHER
+  8.0.5:
+    licensed:
+      declared: OTHER
+  8.0.6:
+    licensed:
+      declared: OTHER

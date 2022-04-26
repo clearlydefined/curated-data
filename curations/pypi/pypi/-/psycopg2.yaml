@@ -3,6 +3,147 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  2.0.10:
+    licensed:
+      declared: OTHER
+  2.0.11:
+    licensed:
+      declared: OTHER
+  2.0.12:
+    licensed:
+      declared: OTHER
+  2.0.13:
+    licensed:
+      declared: OTHER
+  2.0.14:
+    licensed:
+      declared: OTHER
+  2.0.2:
+    licensed:
+      declared: OTHER
+  2.0.3:
+    licensed:
+      declared: OTHER
+  2.0.4:
+    licensed:
+      declared: OTHER
+  2.0.5.1:
+    licensed:
+      declared: OTHER
+  2.0.6:
+    licensed:
+      declared: OTHER
+  2.0.7:
+    licensed:
+      declared: OTHER
+  2.0.8:
+    licensed:
+      declared: OTHER
+  2.2.0:
+    licensed:
+      declared: OTHER
+  2.2.1:
+    licensed:
+      declared: OTHER
+  2.2.2:
+    licensed:
+      declared: OTHER
+  2.3.0:
+    licensed:
+      declared: OTHER
+  2.3.1:
+    licensed:
+      declared: OTHER
+  2.3.2:
+    licensed:
+      declared: OTHER
+  '2.4':
+    licensed:
+      declared: OTHER
+  2.4.1:
+    licensed:
+      declared: OTHER
+  2.4.2:
+    licensed:
+      declared: OTHER
+  2.4.3:
+    licensed:
+      declared: OTHER
+  2.4.4:
+    licensed:
+      declared: OTHER
+  2.4.5:
+    licensed:
+      declared: OTHER
+  2.4.6:
+    licensed:
+      declared: OTHER
+  '2.5':
+    licensed:
+      declared: OTHER
+  2.5.1:
+    licensed:
+      declared: OTHER
+  2.5.2:
+    licensed:
+      declared: OTHER
+  2.5.3:
+    licensed:
+      declared: OTHER
+  2.5.4:
+    licensed:
+      declared: OTHER
+  2.5.5:
+    licensed:
+      declared: OTHER
+  '2.6':
+    licensed:
+      declared: OTHER
+  2.6.1:
+    licensed:
+      declared: OTHER
+  2.6.2:
+    licensed:
+      declared: OTHER
+  '2.7':
+    licensed:
+      declared: OTHER
+  2.7.1:
+    licensed:
+      declared: OTHER
+  2.7.2:
+    licensed:
+      declared: OTHER
+  2.7.3:
+    licensed:
+      declared: OTHER
+  2.7.3.1:
+    licensed:
+      declared: OTHER
+  2.7.3.2:
+    licensed:
+      declared: OTHER
+  2.7.4:
+    licensed:
+      declared: OTHER
+  2.7.5:
+    licensed:
+      declared: OTHER
+  2.7.6:
+    licensed:
+      declared: OTHER
+  2.7.6.1:
+    licensed:
+      declared: OTHER
+  2.7.7:
+    licensed:
+      declared: OTHER
+  '2.8':
+    licensed:
+      declared: OTHER
+  2.8.1:
+    licensed:
+      declared: OTHER
   2.8.2:
     described:
       sourceLocation:
@@ -157,5 +298,29 @@ revisions:
           - Copyright (c) 2008-2019 Federico Di Gregorio <fog@debian.org>
         license: LGPL-3.0-or-later
         path: psycopg2-2.8.2/tests/test_types_extras.py
+    licensed:
+      declared: OTHER
+  2.8.3:
+    licensed:
+      declared: OTHER
+  2.8.4:
+    licensed:
+      declared: OTHER
+  2.8.5:
+    licensed:
+      declared: OTHER
+  2.8.6:
+    licensed:
+      declared: OTHER
+  '2.9':
+    licensed:
+      declared: OTHER
+  2.9.1:
+    licensed:
+      declared: OTHER
+  2.9.2:
+    licensed:
+      declared: OTHER
+  2.9.3:
     licensed:
       declared: OTHER
