@@ -1,0 +1,9 @@
+coordinates:
+  name: com.ibm.websphere.appserver.api.jwt
+  namespace: com.ibm.websphere.appserver.api
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.63:
+    licensed:
+      declared: EPL-1.0
