@@ -1,0 +1,9 @@
+coordinates:
+  name: libjpeg
+  namespace: coapp-packages
+  provider: github
+  type: git
+revisions:
+  5cbc6a1f1b8d7bb3392c49ad7a04ba6d65085694:
+    licensed:
+      declared: IJG
