@@ -432,6 +432,9 @@ revisions:
   1.40.0:
     licensed:
       declared: OTHER
+  1.40.0.post2:
+    licensed:
+      declared: MS-PL
   1.5.0:
     licensed:
       declared: OTHER
