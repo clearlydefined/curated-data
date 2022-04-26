@@ -1,0 +1,8 @@
+coordinates:
+  name: Cake.Coverlet
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.4:
+    licensed:
+      declared: MIT
