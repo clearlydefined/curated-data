@@ -432,6 +432,9 @@ revisions:
   1.40.0:
     licensed:
       declared: OTHER
+  1.40.0.post2:
+    licensed:
+      declared: OTHER
   1.41.0:
     licensed:
       declared: OTHER
