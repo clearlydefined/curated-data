@@ -1,0 +1,9 @@
+coordinates:
+  name: mpich
+  namespace: pmodels
+  provider: github
+  type: git
+revisions:
+  f3f380e8a1d58bf0cdcf3143202c924d239c2699:
+    licensed:
+      declared: OTHER
