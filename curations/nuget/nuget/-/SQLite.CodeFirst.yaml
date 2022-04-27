@@ -1,0 +1,8 @@
+coordinates:
+  name: SQLite.CodeFirst
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.2.28:
+    licensed:
+      declared: Apache-2.0
