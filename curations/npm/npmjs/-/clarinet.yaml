@@ -1,0 +1,8 @@
+coordinates:
+  name: clarinet
+  provider: npmjs
+  type: npm
+revisions:
+  0.11.0:
+    licensed:
+      declared: BSD-2-Clause
