@@ -1,0 +1,9 @@
+coordinates:
+  name: cost-management-ux
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.64:
+    licensed:
+      declared: MIT

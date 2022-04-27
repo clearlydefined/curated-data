@@ -1,0 +1,9 @@
+coordinates:
+  name: tablewriter
+  namespace: github.com%2Folekukonko
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20150822215231-b9346ac189c5:
+    licensed:
+      declared: MIT
