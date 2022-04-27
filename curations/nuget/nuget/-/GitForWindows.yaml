@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.17.1.2:
+    licensed:
+      declared: GPL-2.0-only
   2.33.1:
     licensed:
       declared: GPL-2.0-only
