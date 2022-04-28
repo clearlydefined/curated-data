@@ -1,0 +1,8 @@
+coordinates:
+  name: nuget-bot.Microsoft.TeamFoundation.Client
+  provider: nuget
+  type: nuget
+revisions:
+  12.0.21005.3:
+    licensed:
+      declared: NONE
