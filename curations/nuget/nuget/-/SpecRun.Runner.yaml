@@ -6,6 +6,9 @@ revisions:
   1.6.0:
     licensed:
       declared: OTHER
+  1.6.2:
+    licensed:
+      declared: BSD-3-Clause
   1.8.5:
     licensed:
       declared: OTHER
