@@ -4,6 +4,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  1.2.0:
+    licensed:
+      declared: OTHER
   3.0.2:
     licensed:
       declared: OTHER
