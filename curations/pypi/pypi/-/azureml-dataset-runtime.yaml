@@ -102,3 +102,6 @@ revisions:
   1.40.0:
     licensed:
       declared: OTHER
+  1.41.0:
+    licensed:
+      declared: MS-PL
