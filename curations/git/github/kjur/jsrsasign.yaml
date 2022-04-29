@@ -1,0 +1,9 @@
+coordinates:
+  name: jsrsasign
+  namespace: kjur
+  provider: github
+  type: git
+revisions:
+  1d40a8a1ff41680e5aa8b313b7281807ba11b4bd:
+    licensed:
+      declared: MIT
