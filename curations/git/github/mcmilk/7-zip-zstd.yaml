@@ -1,0 +1,9 @@
+coordinates:
+  name: 7-zip-zstd
+  namespace: mcmilk
+  provider: github
+  type: git
+revisions:
+  0f6bcfd2edc4f9a9ec18c42a2f0af86c2d21be55:
+    licensed:
+      declared: BSD-3-Clause
