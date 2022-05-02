@@ -1,0 +1,8 @@
+coordinates:
+  name: textstat
+  provider: pypi
+  type: pypi
+revisions:
+  0.7.1:
+    licensed:
+      declared: MIT
