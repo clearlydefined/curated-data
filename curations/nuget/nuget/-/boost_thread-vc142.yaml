@@ -1,0 +1,8 @@
+coordinates:
+  name: boost_thread-vc142
+  provider: nuget
+  type: nuget
+revisions:
+  1.72.0:
+    licensed:
+      declared: Apache-2.0
