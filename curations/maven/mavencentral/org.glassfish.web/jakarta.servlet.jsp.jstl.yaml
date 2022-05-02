@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.servlet.jsp.jstl
+  namespace: org.glassfish.web
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0:
+    licensed:
+      declared: EPL-2.0
