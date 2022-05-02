@@ -1,0 +1,8 @@
+coordinates:
+  name: mlperf-loadgen-cb
+  provider: pypi
+  type: pypi
+revisions:
+  1.1.0:
+    licensed:
+      declared: Apache-2.0

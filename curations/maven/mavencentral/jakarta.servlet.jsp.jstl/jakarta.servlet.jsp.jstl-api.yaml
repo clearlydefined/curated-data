@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.servlet.jsp.jstl-api
+  namespace: jakarta.servlet.jsp.jstl
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0
