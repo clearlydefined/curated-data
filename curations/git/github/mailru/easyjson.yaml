@@ -1,0 +1,9 @@
+coordinates:
+  name: easyjson
+  namespace: mailru
+  provider: github
+  type: git
+revisions:
+  b2ccc519800e761ac8000b95e5d57c80a897ff9e:
+    licensed:
+      declared: MIT
