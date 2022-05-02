@@ -1,0 +1,8 @@
+coordinates:
+  name: rainbow_logging_handler
+  provider: pypi
+  type: pypi
+revisions:
+  2.2.2:
+    licensed:
+      declared: CPL-1.0
