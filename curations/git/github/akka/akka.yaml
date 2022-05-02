@@ -1,0 +1,9 @@
+coordinates:
+  name: akka
+  namespace: akka
+  provider: github
+  type: git
+revisions:
+  d879d0809442dc82b38a4003faab7a3f90a16cbd:
+    licensed:
+      declared: Apache-2.0
