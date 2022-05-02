@@ -21,6 +21,9 @@ revisions:
   1.54.0.2421:
     licensed:
       declared: Apache-2.0
+  1.54.0.2428:
+    licensed:
+      declared: Apache-2.0
   1.55.0.2450:
     licensed:
       declared: Apache-2.0
