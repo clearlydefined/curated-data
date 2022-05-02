@@ -1,0 +1,9 @@
+coordinates:
+  name: sockperf
+  namespace: mellanox
+  provider: github
+  type: git
+revisions:
+  a1e8e835a6897fdd1da00f466fd9213c5c9382ec:
+    licensed:
+      declared: BSD-3-Clause
