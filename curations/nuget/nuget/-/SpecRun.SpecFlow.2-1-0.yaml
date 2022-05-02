@@ -1,11 +1,8 @@
 coordinates:
-  name: Syncfusion.Blazor
+  name: SpecRun.SpecFlow.2-1-0
   provider: nuget
   type: nuget
 revisions:
-  18.3.0.53:
-    licensed:
-      declared: OTHER
-  19.2.0.49:
+  1.6.2:
     licensed:
       declared: OTHER

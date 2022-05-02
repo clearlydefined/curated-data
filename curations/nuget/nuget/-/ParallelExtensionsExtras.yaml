@@ -1,11 +1,8 @@
 coordinates:
-  name: Syncfusion.Blazor
+  name: ParallelExtensionsExtras
   provider: nuget
   type: nuget
 revisions:
-  18.3.0.53:
-    licensed:
-      declared: OTHER
-  19.2.0.49:
+  1.2.0:
     licensed:
       declared: OTHER

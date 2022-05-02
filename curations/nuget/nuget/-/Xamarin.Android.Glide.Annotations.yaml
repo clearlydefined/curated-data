@@ -1,11 +1,8 @@
 coordinates:
-  name: docopt.net
+  name: Xamarin.Android.Glide.Annotations
   provider: nuget
   type: nuget
 revisions:
-  0.6.1.5:
-    licensed:
-      declared: MIT
-  0.6.1.9:
+  4.12.0.8:
     licensed:
       declared: MIT

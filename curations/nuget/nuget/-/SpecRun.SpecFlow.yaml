@@ -6,6 +6,9 @@ revisions:
   1.6.0:
     licensed:
       declared: OTHER
+  1.6.0-rc007:
+    licensed:
+      declared: OTHER
   1.8.5:
     licensed:
       declared: OTHER

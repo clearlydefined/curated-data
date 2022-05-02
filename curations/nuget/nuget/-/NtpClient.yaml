@@ -1,11 +1,8 @@
 coordinates:
-  name: docopt.net
+  name: NtpClient
   provider: nuget
   type: nuget
 revisions:
-  0.6.1.5:
-    licensed:
-      declared: MIT
-  0.6.1.9:
+  1.0.14:
     licensed:
       declared: MIT
