@@ -138,7 +138,7 @@ revisions:
       declared: BSD-3-Clause AND OTHER
   ae814b36b87190c757eede9bc2d32ed77df88551:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER
   b0c9c05bfe149df95eb1d25642162cca051e0466:
     licensed:
       declared: BSD-3-Clause AND OTHER
