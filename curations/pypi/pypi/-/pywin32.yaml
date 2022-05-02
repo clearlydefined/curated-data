@@ -39,3 +39,6 @@ revisions:
   '303.1':
     licensed:
       declared: PSF-2.0
+  '304':
+    licensed:
+      declared: BSD-3-Clause
