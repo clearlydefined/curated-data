@@ -1,0 +1,15 @@
+coordinates:
+  name: cloudwatch_exporter
+  namespace: io.prometheus.cloudwatch
+  provider: mavencentral
+  type: maven
+revisions:
+  0.1.0:
+    described:
+      sourceLocation:
+        name: cloudwatch_exporter
+        namespace: prometheus
+        provider: github
+        revision: 8aa4ab117a6934f62c013df50deb6a2d248d30c5
+        type: git
+        url: 'https://github.com/prometheus/cloudwatch_exporter/commit/8aa4ab117a6934f62c013df50deb6a2d248d30c5'
