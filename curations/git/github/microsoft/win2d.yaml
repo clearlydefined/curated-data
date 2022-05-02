@@ -1,0 +1,9 @@
+coordinates:
+  name: win2d
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  bae3625403b8befae247cdb7cc77897fc5b0a7cb:
+    licensed:
+      declared: MIT
