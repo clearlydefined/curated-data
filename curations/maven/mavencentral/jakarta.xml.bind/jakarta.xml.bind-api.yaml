@@ -12,7 +12,7 @@ revisions:
       declared: BSD-3-Clause
   3.0.0:
     licensed:
-      declared: EPL-2.0
+      declared: BSD-3-Clause
   3.0.1:
     licensed:
       declared: BSD-3-Clause
