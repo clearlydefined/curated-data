@@ -6,3 +6,14 @@ revisions:
   4.2.0:
     licensed:
       declared: MIT
+  4.2.1:
+    described:
+      sourceLocation:
+        name: swashbuckle.aspnetcore.swaggergen.conventionalrouting
+        namespace: chsakell
+        provider: github
+        revision: bde8b101a71316683b04848104357ad9242e5497
+        type: git
+        url: 'https://github.com/chsakell/swashbuckle.aspnetcore.swaggergen.conventionalrouting/commit/bde8b101a71316683b04848104357ad9242e5497'
+    licensed:
+      declared: MIT
