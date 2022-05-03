@@ -1,0 +1,9 @@
+coordinates:
+  name: aria-practices
+  namespace: w3c
+  provider: github
+  type: git
+revisions:
+  b41f8977fb3144fdb56a0f50571be463b4dea156:
+    licensed:
+      declared: W3C-20150513
