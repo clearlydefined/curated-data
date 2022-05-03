@@ -1,0 +1,8 @@
+coordinates:
+  name: ETW2JSON
+  provider: nuget
+  type: nuget
+revisions:
+  1.3.10:
+    licensed:
+      declared: MIT
