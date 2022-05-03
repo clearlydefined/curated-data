@@ -1,0 +1,8 @@
+coordinates:
+  name: SocketRocket
+  provider: cocoapods
+  type: pod
+revisions:
+  0.6.0:
+    licensed:
+      declared: 0BSD
