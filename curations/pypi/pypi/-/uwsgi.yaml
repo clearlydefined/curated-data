@@ -1,0 +1,8 @@
+coordinates:
+  name: uwsgi
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.20:
+    licensed:
+      declared: GPL-2.0-only
