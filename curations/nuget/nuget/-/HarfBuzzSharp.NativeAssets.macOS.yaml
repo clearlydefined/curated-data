@@ -1,0 +1,8 @@
+coordinates:
+  name: HarfBuzzSharp.NativeAssets.macOS
+  provider: nuget
+  type: nuget
+revisions:
+  2.8.2-preview.178:
+    licensed:
+      declared: MIT
