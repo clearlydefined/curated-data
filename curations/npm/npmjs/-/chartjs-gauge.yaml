@@ -1,0 +1,8 @@
+coordinates:
+  name: chartjs-gauge
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.0:
+    licensed:
+      declared: MIT
