@@ -1,0 +1,9 @@
+coordinates:
+  name: kiwi
+  namespace: nucleic
+  provider: github
+  type: git
+revisions:
+  2005e73aff3ee6538e94b6ac73d39de41137f411:
+    licensed:
+      declared: BSD-3-Clause
