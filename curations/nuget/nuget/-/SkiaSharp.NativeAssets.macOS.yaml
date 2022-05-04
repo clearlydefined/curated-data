@@ -1,0 +1,8 @@
+coordinates:
+  name: SkiaSharp.NativeAssets.macOS
+  provider: nuget
+  type: nuget
+revisions:
+  2.88.0-preview.178:
+    licensed:
+      declared: MIT
