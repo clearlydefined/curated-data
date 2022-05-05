@@ -1,0 +1,8 @@
+coordinates:
+  name: NSwag.CodeGeneration
+  provider: nuget
+  type: nuget
+revisions:
+  11.12.7:
+    licensed:
+      declared: MIT
