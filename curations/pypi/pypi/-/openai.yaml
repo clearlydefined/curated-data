@@ -1,0 +1,8 @@
+coordinates:
+  name: openai
+  provider: pypi
+  type: pypi
+revisions:
+  0.11.4:
+    licensed:
+      declared: NONE
