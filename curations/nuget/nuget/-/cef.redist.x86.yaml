@@ -42,3 +42,6 @@ revisions:
   90.6.5:
     licensed:
       declared: BSD-3-Clause
+  99.2.9:
+    licensed:
+      declared: BSD-3-Clause
