@@ -5,4 +5,7 @@ coordinates:
 revisions:
   1.2.9:
     licensed:
-      declared: NONE
+      declared: Unlicense
+  1.3.0:
+    licensed:
+      declared: Unlicense
