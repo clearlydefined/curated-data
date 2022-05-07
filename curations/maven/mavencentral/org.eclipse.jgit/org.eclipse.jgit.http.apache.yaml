@@ -7,3 +7,6 @@ revisions:
   5.1.3.201810200350-r:
     licensed:
       declared: BSD-3-Clause
+  5.12.0.202106070339-r:
+    licensed:
+      declared: BSD-3-Clause
