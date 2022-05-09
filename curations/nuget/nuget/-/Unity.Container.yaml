@@ -60,6 +60,9 @@ revisions:
   5.8.11:
     licensed:
       declared: Apache-2.0
+  5.8.13:
+    licensed:
+      declared: Apache-2.0
   5.8.5:
     licensed:
       declared: Apache-2.0
