@@ -1,0 +1,8 @@
+coordinates:
+  name: playwright-sharp-tool
+  provider: nuget
+  type: nuget
+revisions:
+  0.170.2:
+    licensed:
+      declared: MIT
