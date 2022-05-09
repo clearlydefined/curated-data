@@ -62,7 +62,7 @@ revisions:
       declared: Apache-2.0
   5.8.13:
     licensed:
-      declared: Artistic-2.0
+      declared: Apache-2.0
   5.8.5:
     licensed:
       declared: Apache-2.0
