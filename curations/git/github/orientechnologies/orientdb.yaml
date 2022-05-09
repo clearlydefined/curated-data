@@ -1,0 +1,9 @@
+coordinates:
+  name: orientdb
+  namespace: orientechnologies
+  provider: github
+  type: git
+revisions:
+  da09ce5af52267b70035d8600551a5032065807a:
+    licensed:
+      declared: Apache-2.0
