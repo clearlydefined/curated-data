@@ -1,0 +1,9 @@
+coordinates:
+  name: dpdk
+  namespace: dpdk
+  provider: github
+  type: git
+revisions:
+  cd6f1d7a5fde76c4f1e771de9f7aafdf59d691e4:
+    licensed:
+      declared: BSD-3-Clause AND GPL-2.0-only

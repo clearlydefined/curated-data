@@ -9,6 +9,9 @@ revisions:
   4.6.0:
     licensed:
       declared: MIT
+  4.6.0-preview7.19362.9:
+    licensed:
+      declared: MIT
   4.6.0-preview8.19405.3:
     licensed:
       declared: MIT

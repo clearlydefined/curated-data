@@ -3,6 +3,9 @@ coordinates:
   provider: cocoapods
   type: pod
 revisions:
+  3.2.12:
+    licensed:
+      declared: Apache-2.0
   3.2.3:
     licensed:
       declared: Apache-2.0

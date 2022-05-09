@@ -1,0 +1,9 @@
+coordinates:
+  name: http
+  namespace: com.sun.net.httpserver
+  provider: mavencentral
+  type: maven
+revisions:
+  '20070405':
+    licensed:
+      declared: OTHER

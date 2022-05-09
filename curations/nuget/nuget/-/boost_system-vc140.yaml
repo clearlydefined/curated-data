@@ -9,6 +9,9 @@ revisions:
   1.65.1:
     licensed:
       declared: BSL-1.0
+  1.67.0:
+    licensed:
+      declared: BSL-1.0
   1.68.0:
     licensed:
       declared: BSL-1.0

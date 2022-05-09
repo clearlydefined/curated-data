@@ -1,0 +1,8 @@
+coordinates:
+  name: openexr-msvc-x86
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.0.8788:
+    licensed:
+      declared: BSD-3-Clause

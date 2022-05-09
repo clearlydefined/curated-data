@@ -1,0 +1,8 @@
+coordinates:
+  name: ColorCode.WinUI
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.13:
+    licensed:
+      declared: MS-PL

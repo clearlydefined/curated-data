@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Android.SceneForm.Rendering
+  provider: nuget
+  type: nuget
+revisions:
+  1.17.1:
+    licensed:
+      declared: MIT

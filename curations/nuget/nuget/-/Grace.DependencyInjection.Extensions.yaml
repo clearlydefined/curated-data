@@ -1,0 +1,11 @@
+coordinates:
+  name: Grace.DependencyInjection.Extensions
+  provider: nuget
+  type: nuget
+revisions:
+  6.4.0:
+    licensed:
+      declared: MIT
+  7.1.0:
+    licensed:
+      declared: MIT

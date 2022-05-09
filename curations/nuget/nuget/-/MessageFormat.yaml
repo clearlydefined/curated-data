@@ -1,0 +1,8 @@
+coordinates:
+  name: MessageFormat
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.0:
+    licensed:
+      declared: MIT

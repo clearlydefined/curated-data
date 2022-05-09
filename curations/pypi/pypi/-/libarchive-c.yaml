@@ -1,0 +1,8 @@
+coordinates:
+  name: libarchive-c
+  provider: pypi
+  type: pypi
+revisions:
+  '2.9':
+    licensed:
+      declared: CC0-1.0

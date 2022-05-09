@@ -1,0 +1,9 @@
+coordinates:
+  name: crc
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  c80e31f78a248e33480ced76c4b03a0b71a5c4db:
+    licensed:
+      declared: BSL-1.0

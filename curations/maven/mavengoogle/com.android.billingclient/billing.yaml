@@ -1,0 +1,9 @@
+coordinates:
+  name: billing
+  namespace: com.android.billingclient
+  provider: mavengoogle
+  type: maven
+revisions:
+  4.0.0:
+    licensed:
+      declared: OTHER

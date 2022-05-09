@@ -1,0 +1,8 @@
+coordinates:
+  name: stable-baselines3
+  provider: pypi
+  type: pypi
+revisions:
+  1.4.0:
+    licensed:
+      declared: MIT

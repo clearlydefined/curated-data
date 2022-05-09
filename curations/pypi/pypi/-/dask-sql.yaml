@@ -1,0 +1,8 @@
+coordinates:
+  name: dask-sql
+  provider: pypi
+  type: pypi
+revisions:
+  2022.1.0:
+    licensed:
+      declared: MIT

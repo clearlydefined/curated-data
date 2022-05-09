@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  2.11.1:
+    licensed:
+      declared: GPL-2.0-only
   2.3.0:
     files:
       - attributions:

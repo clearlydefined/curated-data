@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.AndroidX.Camera.Core
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.5-rc01:
+    licensed:
+      declared: MIT

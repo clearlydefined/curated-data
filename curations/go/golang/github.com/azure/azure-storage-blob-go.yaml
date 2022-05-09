@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-storage-blob-go
+  namespace: github.com%2Fazure
+  provider: golang
+  type: go
+revisions:
+  v0.14.0:
+    licensed:
+      declared: MIT

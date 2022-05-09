@@ -1,0 +1,8 @@
+coordinates:
+  name: StronglyTypedId.Generator
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.1:
+    licensed:
+      declared: MIT

@@ -1,0 +1,15 @@
+coordinates:
+  name: units
+  namespace: github.com%2Falecthomas
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20151022065526-2efee857e7cf:
+    licensed:
+      declared: MIT
+  v0.0.0-20190717042225-c3de453c63f4:
+    licensed:
+      declared: MIT
+  v0.0.0-20190924025748-f65c72e2690d:
+    licensed:
+      declared: MIT

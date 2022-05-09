@@ -1,0 +1,9 @@
+coordinates:
+  name: logrus
+  namespace: github.com%2Fsirupsen
+  provider: golang
+  type: go
+revisions:
+  v1.8.1:
+    licensed:
+      declared: MIT

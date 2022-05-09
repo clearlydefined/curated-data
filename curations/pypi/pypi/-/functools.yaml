@@ -1,0 +1,8 @@
+coordinates:
+  name: functools
+  provider: pypi
+  type: pypi
+revisions:
+  '0.5':
+    licensed:
+      declared: BSD-2-Clause

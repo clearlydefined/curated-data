@@ -1,0 +1,8 @@
+coordinates:
+  name: Avro-C
+  provider: cocoapods
+  type: pod
+revisions:
+  1.7.6:
+    licensed:
+      declared: Apache-2.0 

@@ -1,0 +1,9 @@
+coordinates:
+  name: checker-framework
+  namespace: edu.washington.cs.types.checker
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.0:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0

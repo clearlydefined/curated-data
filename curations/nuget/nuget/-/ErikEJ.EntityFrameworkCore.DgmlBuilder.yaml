@@ -1,0 +1,8 @@
+coordinates:
+  name: ErikEJ.EntityFrameworkCore.DgmlBuilder
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.1:
+    licensed:
+      declared: MIT

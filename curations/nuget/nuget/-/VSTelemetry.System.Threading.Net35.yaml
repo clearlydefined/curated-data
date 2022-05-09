@@ -1,0 +1,8 @@
+coordinates:
+  name: VSTelemetry.System.Threading.Net35
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.2856:
+    licensed:
+      declared: NONE

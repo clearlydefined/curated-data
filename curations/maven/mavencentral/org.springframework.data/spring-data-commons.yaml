@@ -1,0 +1,12 @@
+coordinates:
+  name: spring-data-commons
+  namespace: org.springframework.data
+  provider: mavencentral
+  type: maven
+revisions:
+  2.6.0:
+    licensed:
+      declared: Apache-2.0
+  2.6.3:
+    licensed:
+      declared: Apache-2.0

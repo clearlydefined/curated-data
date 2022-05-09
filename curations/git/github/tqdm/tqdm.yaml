@@ -1,0 +1,9 @@
+coordinates:
+  name: tqdm
+  namespace: tqdm
+  provider: github
+  type: git
+revisions:
+  0f823e79f303b4a93ef1381badb1e65757e5070f:
+    licensed:
+      declared: MPL-2.0

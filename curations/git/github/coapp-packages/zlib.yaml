@@ -1,0 +1,9 @@
+coordinates:
+  name: zlib
+  namespace: coapp-packages
+  provider: github
+  type: git
+revisions:
+  668a849b9f0707bdd4a4fa1782396e33691fddae:
+    licensed:
+      declared: Zlib

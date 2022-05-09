@@ -1,0 +1,8 @@
+coordinates:
+  name: Markdig.SyntaxHighlighting
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.7:
+    licensed:
+      declared: Apache-2.0

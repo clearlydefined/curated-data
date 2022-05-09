@@ -1,0 +1,8 @@
+coordinates:
+  name: MonkeyCache
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0-beta:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: radiustar
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.8:
+    licensed:
+      declared: CC0-1.0

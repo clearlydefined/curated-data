@@ -1,0 +1,8 @@
+coordinates:
+  name: zlib-msvc-x86
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.11.8900:
+    licensed:
+      declared: Zlib

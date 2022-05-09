@@ -1,0 +1,9 @@
+coordinates:
+  name: loads
+  namespace: github.com%2Fgo-openapi
+  provider: golang
+  type: go
+revisions:
+  v0.17.0:
+    licensed:
+      declared: Apache-2.0

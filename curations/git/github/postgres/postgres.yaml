@@ -1,0 +1,9 @@
+coordinates:
+  name: postgres
+  namespace: postgres
+  provider: github
+  type: git
+revisions:
+  a2098b60216c7a66054ee7b31e9f728bca43d004:
+    licensed:
+      declared: PostgreSQL

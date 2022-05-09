@@ -1,0 +1,9 @@
+coordinates:
+  name: cucumber-jvm-deps
+  namespace: cucumber
+  provider: github
+  type: git
+revisions:
+  d98b7a0794f0e40bcba9a34c6253a31cbc855d7d:
+    licensed:
+      declared: BSD-3-Clause AND Apache-2.0

@@ -1,0 +1,36 @@
+coordinates:
+  name: text
+  namespace: golang.org%2Fx
+  provider: golang
+  type: go
+revisions:
+  v0.1.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.2.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.3.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.3.1:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.3.2:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.3.3:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.3.4:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.3.5:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.3.6:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.3.7:
+    licensed:
+      declared: BSD-3-Clause AND OTHER

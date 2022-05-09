@@ -1,0 +1,11 @@
+coordinates:
+  name: chilkat-x64
+  provider: nuget
+  type: nuget
+revisions:
+  9.5.0.68:
+    licensed:
+      declared: OTHER
+  9.5.0.78:
+    licensed:
+      declared: OTHER

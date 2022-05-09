@@ -1,0 +1,8 @@
+coordinates:
+  name: Stashbox.Extensions.Dependencyinjection
+  provider: nuget
+  type: nuget
+revisions:
+  2.6.3:
+    licensed:
+      declared: MIT

@@ -649,6 +649,9 @@ revisions:
   2.2.0.Final:
     licensed:
       declared: Apache-2.0
+  2.2.10.Final:
+    licensed:
+      declared: Apache-2.0
   2.2.14.Final:
     licensed:
       declared: Apache-2.0

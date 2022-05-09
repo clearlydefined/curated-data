@@ -1,0 +1,8 @@
+coordinates:
+  name: TSQLLint
+  provider: nuget
+  type: nuget
+revisions:
+  1.14.0:
+    licensed:
+      declared: MIT

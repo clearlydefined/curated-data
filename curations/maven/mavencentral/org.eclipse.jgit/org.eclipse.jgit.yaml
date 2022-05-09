@@ -19,6 +19,9 @@ revisions:
   5.10.0.202012080955-r:
     licensed:
       declared: BSD-3-Clause
+  5.12.0.202106070339-r:
+    licensed:
+      declared: BSD-3-Clause
   6.0.0.202111291000-r:
     licensed:
       declared: BSD-3-Clause

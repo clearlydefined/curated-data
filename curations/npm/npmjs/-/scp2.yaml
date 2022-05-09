@@ -1,0 +1,8 @@
+coordinates:
+  name: scp2
+  provider: npmjs
+  type: npm
+revisions:
+  0.5.0:
+    licensed:
+      declared: MIT

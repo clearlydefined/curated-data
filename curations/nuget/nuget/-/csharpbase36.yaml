@@ -1,0 +1,8 @@
+coordinates:
+  name: csharpbase36
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: Unlicense

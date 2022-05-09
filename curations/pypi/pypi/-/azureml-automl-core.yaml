@@ -267,6 +267,12 @@ revisions:
   1.4.0.post1:
     licensed:
       declared: OTHER
+  1.40.0:
+    licensed:
+      declared: OTHER
+  1.41.0:
+    licensed:
+      declared: OTHER
   1.5.0:
     licensed:
       declared: OTHER

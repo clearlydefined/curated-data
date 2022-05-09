@@ -1,0 +1,8 @@
+coordinates:
+  name: StructureMap.Microsoft.DependencyInjection
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.0:
+    licensed:
+      declared: MIT

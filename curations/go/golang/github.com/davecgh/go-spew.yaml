@@ -1,0 +1,9 @@
+coordinates:
+  name: go-spew
+  namespace: github.com%2Fdavecgh
+  provider: golang
+  type: go
+revisions:
+  v1.1.0:
+    licensed:
+      declared: ISC

@@ -1,0 +1,8 @@
+coordinates:
+  name: zlib-msvc14-x64
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.11.7795:
+    licensed:
+      declared: Zlib

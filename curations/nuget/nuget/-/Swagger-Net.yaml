@@ -6,3 +6,6 @@ revisions:
   8.3.25.402:
     licensed:
       declared: BSD-3-Clause
+  8.4.10.301:
+    licensed:
+      declared: BSD-3-Clause

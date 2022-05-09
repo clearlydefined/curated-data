@@ -6,9 +6,15 @@ revisions:
   0.2.17:
     licensed:
       declared: MS-PL
+  0.2.3-beta:
+    licensed:
+      declared: MS-PL
   0.3.18:
     licensed:
       declared: MS-PL
   0.3.2:
+    licensed:
+      declared: MS-PL
+  0.3.5:
     licensed:
       declared: MS-PL
