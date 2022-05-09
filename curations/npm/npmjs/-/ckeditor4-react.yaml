@@ -1,0 +1,8 @@
+coordinates:
+  name: ckeditor4-react
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.1:
+    licensed:
+      declared: GPL-2.0-or-later OR LGPL-2.1-or-later AND NOASSERTION
