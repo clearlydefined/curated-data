@@ -1,0 +1,8 @@
+coordinates:
+  name: Duende.IdentityServer
+  provider: nuget
+  type: nuget
+revisions:
+  5.2.0:
+    licensed:
+      declared: OTHER
