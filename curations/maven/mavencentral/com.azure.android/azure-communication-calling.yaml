@@ -10,3 +10,6 @@ revisions:
   1.2.1-beta.1:
     licensed:
       declared: OTHER
+  2.0.0-beta.1:
+    licensed:
+      declared: NONE
