@@ -5,4 +5,4 @@ coordinates:
 revisions:
   2.1.1:
     licensed:
-      declared: GPL-2.0-or-later OR LGPL-2.1-or-later AND NOASSERTION
+      declared: GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1-or-later
