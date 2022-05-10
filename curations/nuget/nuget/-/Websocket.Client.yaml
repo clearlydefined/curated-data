@@ -1,0 +1,8 @@
+coordinates:
+  name: Websocket.Client
+  provider: nuget
+  type: nuget
+revisions:
+  4.4.43:
+    licensed:
+      declared: MIT
