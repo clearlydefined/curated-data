@@ -1,0 +1,9 @@
+coordinates:
+  name: pygresql
+  namespace: pygresql
+  provider: github
+  type: git
+revisions:
+  d648ea72cb76796295bcf247527ca6be150ba282:
+    licensed:
+      declared: PostgreSQL
