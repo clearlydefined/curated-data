@@ -1,0 +1,9 @@
+coordinates:
+  name: python-certifi
+  namespace: certifi
+  provider: github
+  type: git
+revisions:
+  45a64658872a94a83c4b70fce02a96f0f29895e6:
+    licensed:
+      declared: MPL-2.0
