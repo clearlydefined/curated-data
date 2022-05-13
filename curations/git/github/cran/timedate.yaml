@@ -1,0 +1,9 @@
+coordinates:
+  name: timedate
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  5f9ac8ba8d085de1ea66afafc2c454c3232a318e:
+    licensed:
+      declared: GPL-2.0-or-later
