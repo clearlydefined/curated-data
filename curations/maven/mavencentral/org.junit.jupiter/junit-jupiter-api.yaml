@@ -40,6 +40,9 @@ revisions:
   5.7.0:
     licensed:
       declared: EPL-2.0
+  5.7.0-M1:
+    licensed:
+      declared: EPL-2.0
   5.7.1:
     licensed:
       declared: EPL-2.0
