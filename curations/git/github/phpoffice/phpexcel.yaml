@@ -1,0 +1,9 @@
+coordinates:
+  name: phpexcel
+  namespace: phpoffice
+  provider: github
+  type: git
+revisions:
+  23fe9937fe5e814f9055f053d40e0825e54e1b8c:
+    licensed:
+      declared: LGPL-2.1-or-later
