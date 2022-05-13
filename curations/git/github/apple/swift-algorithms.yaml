@@ -1,0 +1,9 @@
+coordinates:
+  name: swift-algorithms
+  namespace: apple
+  provider: github
+  type: git
+revisions:
+  b14b7f4c528c942f121c8b860b9410b2bf57825e:
+    licensed:
+      declared: Apache-2.0
