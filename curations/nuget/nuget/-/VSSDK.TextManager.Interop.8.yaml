@@ -1,0 +1,8 @@
+coordinates:
+  name: VSSDK.TextManager.Interop.8
+  provider: nuget
+  type: nuget
+revisions:
+  8.0.4:
+    licensed:
+      declared: NONE
