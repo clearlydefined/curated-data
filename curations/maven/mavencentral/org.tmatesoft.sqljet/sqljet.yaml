@@ -1,0 +1,9 @@
+coordinates:
+  name: sqljet
+  namespace: org.tmatesoft.sqljet
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.10:
+    licensed:
+      declared: GPL-2.0-only
