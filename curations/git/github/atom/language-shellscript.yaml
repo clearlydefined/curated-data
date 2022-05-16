@@ -1,0 +1,9 @@
+coordinates:
+  name: language-shellscript
+  namespace: atom
+  provider: github
+  type: git
+revisions:
+  4f8d7bb5cc4d1643674551683df10fe552dd5a6f:
+    licensed:
+      declared: MIT
