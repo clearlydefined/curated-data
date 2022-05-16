@@ -1,0 +1,9 @@
+coordinates:
+  name: swiftyxmlparser
+  namespace: yahoojapan
+  provider: github
+  type: git
+revisions:
+  d7a1d23f04c86c1cd2e8f19247dd15d74e0ea8be:
+    licensed:
+      declared: MIT
