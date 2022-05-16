@@ -10,3 +10,6 @@ revisions:
   2.0.0-alpha.3:
     licensed:
       declared: Elastic-2.0
+  2.0.2:
+    licensed:
+      declared: MIT
