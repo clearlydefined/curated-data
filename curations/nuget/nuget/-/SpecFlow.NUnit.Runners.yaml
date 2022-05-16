@@ -1,0 +1,8 @@
+coordinates:
+  name: SpecFlow.NUnit.Runners
+  provider: nuget
+  type: nuget
+revisions:
+  3.9.40:
+    licensed:
+      declared: BSD-3-Clause
