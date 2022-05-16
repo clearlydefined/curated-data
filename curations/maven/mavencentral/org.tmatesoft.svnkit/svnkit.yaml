@@ -1,0 +1,9 @@
+coordinates:
+  name: svnkit
+  namespace: org.tmatesoft.svnkit
+  provider: mavencentral
+  type: maven
+revisions:
+  1.8.12:
+    licensed:
+      declared: TMate
