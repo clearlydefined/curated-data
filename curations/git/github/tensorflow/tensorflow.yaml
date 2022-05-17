@@ -37,6 +37,9 @@ revisions:
   47a0bf5313119741570c029b84266b6c52abeb47:
     licensed:
       declared: Apache-2.0
+  5725474d6870e1778771d899a386657696818257:
+    licensed:
+      declared: Apache-2.0
   582c8d236cb079023657287c318ff26adb239002:
     licensed:
       declared: Apache-2.0
