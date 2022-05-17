@@ -18,3 +18,6 @@ revisions:
   8.4.2:
     licensed:
       declared: OTHER
+  8.9.0:
+    licensed:
+      declared: MIT
