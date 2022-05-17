@@ -1,0 +1,8 @@
+coordinates:
+  name: combine-errors
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.3:
+    licensed:
+      declared: MIT
