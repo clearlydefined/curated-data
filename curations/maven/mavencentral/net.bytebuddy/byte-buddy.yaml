@@ -1,0 +1,9 @@
+coordinates:
+  name: byte-buddy
+  namespace: net.bytebuddy
+  provider: mavencentral
+  type: maven
+revisions:
+  1.12.5:
+    licensed:
+      declared: Apache-2.0
