@@ -92,7 +92,7 @@ revisions:
       declared: BSD-3-Clause
   3.19.0:
     licensed:
-      declared: Apache-2.0
+      declared: BSD-3-Clause
   3.19.1:
     licensed:
       declared: BSD-3-Clause
