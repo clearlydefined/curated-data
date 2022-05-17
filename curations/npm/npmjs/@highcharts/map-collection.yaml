@@ -1,0 +1,9 @@
+coordinates:
+  name: map-collection
+  namespace: '@highcharts'
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.4:
+    licensed:
+      declared: OTHER
