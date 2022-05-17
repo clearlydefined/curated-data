@@ -13,3 +13,6 @@ revisions:
   6f287a5f57ee0143156f939bad7ac398e60bcda7:
     licensed:
       declared: BSD-3-Clause
+  78f7ae495bc147e97a58e8158072fd35fdd99419:
+    licensed:
+      declared: APSL-2.0
