@@ -1,0 +1,9 @@
+coordinates:
+  name: polaris
+  namespace: '@shopify'
+  provider: npmjs
+  type: npm
+revisions:
+  9.2.3:
+    licensed:
+      declared: OTHER
