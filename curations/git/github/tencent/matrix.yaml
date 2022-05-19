@@ -1,0 +1,9 @@
+coordinates:
+  name: matrix
+  namespace: tencent
+  provider: github
+  type: git
+revisions:
+  58d9c6ba248a5e58ed8c69b3b69b41b3b098832b:
+    licensed:
+      declared: BSD-3-Clause
