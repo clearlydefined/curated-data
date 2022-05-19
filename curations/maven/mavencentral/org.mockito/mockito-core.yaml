@@ -49,6 +49,9 @@ revisions:
   2.7.21:
     licensed:
       declared: MIT
+  2.7.22:
+    licensed:
+      declared: MIT
   2.8.9:
     files:
       - attributions:
