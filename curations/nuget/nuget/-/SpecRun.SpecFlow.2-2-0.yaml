@@ -1,0 +1,16 @@
+coordinates:
+  name: SpecRun.SpecFlow.2-2-0
+  provider: nuget
+  type: nuget
+revisions:
+  1.6.0:
+    described:
+      sourceLocation:
+        name: specflow
+        namespace: specflowoss
+        provider: github
+        revision: 0fbbf507b241e9ad885a9a2d399616f5cb472f1d
+        type: git
+        url: 'https://github.com/specflowoss/specflow/commit/0fbbf507b241e9ad885a9a2d399616f5cb472f1d'
+    licensed:
+      declared: BSD-3-Clause
