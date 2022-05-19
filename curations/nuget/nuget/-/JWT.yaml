@@ -14,10 +14,10 @@ revisions:
       declared: CC0-1.0
   8.1.6:
     licensed:
-      declared: OTHER AND MIT
+      declared: OTHER
   8.4.2:
     licensed:
       declared: OTHER
   8.9.0:
     licensed:
-      declared: MIT
+      declared: OTHER
