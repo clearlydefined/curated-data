@@ -1,0 +1,9 @@
+coordinates:
+  name: ffmpeg
+  namespace: org.bytedeco
+  provider: mavencentral
+  type: maven
+revisions:
+  4.4-1.5.6:
+    licensed:
+      declared: Apache-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0

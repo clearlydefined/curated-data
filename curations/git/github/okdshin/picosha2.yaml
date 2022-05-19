@@ -1,0 +1,9 @@
+coordinates:
+  name: picosha2
+  namespace: okdshin
+  provider: github
+  type: git
+revisions:
+  599843c396681cc1ee54bde86848cc0b032fff93:
+    licensed:
+      declared: MIT

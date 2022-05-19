@@ -1,0 +1,9 @@
+coordinates:
+  name: polaris-icons
+  namespace: '@shopify'
+  provider: npmjs
+  type: npm
+revisions:
+  4.19.0:
+    licensed:
+      declared: OTHER

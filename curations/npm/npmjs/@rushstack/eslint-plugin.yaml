@@ -1,0 +1,9 @@
+coordinates:
+  name: eslint-plugin
+  namespace: '@rushstack'
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.1:
+    licensed:
+      declared: MIT

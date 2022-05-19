@@ -1,11 +1,8 @@
 coordinates:
-  name: JmesPath.Net.Parser
+  name: ExtCore.Mvc
   provider: nuget
   type: nuget
 revisions:
-  1.0.153:
-    licensed:
-      declared: Apache-2.0
-  1.0.182:
+  5.1.0:
     licensed:
       declared: Apache-2.0
