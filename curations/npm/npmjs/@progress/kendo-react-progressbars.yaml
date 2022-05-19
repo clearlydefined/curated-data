@@ -10,3 +10,6 @@ revisions:
   4.0.0:
     licensed:
       declared: OTHER
+  4.14.1:
+    licensed:
+      declared: OTHER
