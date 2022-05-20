@@ -29,7 +29,7 @@ revisions:
       declared: BSD-3-Clause
   5.6.1:
     licensed:
-      declared: NONE
+      declared: BSD-3-Clause
   5.7.0:
     licensed:
       declared: BSD-3-Clause
