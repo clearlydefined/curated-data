@@ -1,0 +1,9 @@
+coordinates:
+  name: sqlite-jdbc
+  namespace: xerial
+  provider: github
+  type: git
+revisions:
+  cf1c0f0d90b2621f76b16d50b8c471307056a8f6:
+    licensed:
+      declared: Apache-2.0
