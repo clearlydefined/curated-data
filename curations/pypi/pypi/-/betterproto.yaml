@@ -1,0 +1,8 @@
+coordinates:
+  name: betterproto
+  provider: pypi
+  type: pypi
+revisions:
+  1.2.5:
+    licensed:
+      declared: MIT
