@@ -5,4 +5,4 @@ coordinates:
 revisions:
   1.2.5:
     licensed:
-      declared: Python-2.0
+      declared: MIT
