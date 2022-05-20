@@ -9,3 +9,6 @@ revisions:
   2.0.6:
     licensed:
       declared: OTHER
+  3.0.0:
+    licensed:
+      declared: CC-BY-4.0
