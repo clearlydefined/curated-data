@@ -1,0 +1,8 @@
+coordinates:
+  name: boost_filesystem-vc142
+  provider: nuget
+  type: nuget
+revisions:
+  1.78.0:
+    licensed:
+      declared: BSL-1.0
