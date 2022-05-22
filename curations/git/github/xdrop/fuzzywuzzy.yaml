@@ -1,0 +1,9 @@
+coordinates:
+  name: fuzzywuzzy
+  namespace: xdrop
+  provider: github
+  type: git
+revisions:
+  3ee0dae4aa43cdc6c1e16e659dd3eb9153ae3308:
+    licensed:
+      declared: GPL-3.0-or-later
