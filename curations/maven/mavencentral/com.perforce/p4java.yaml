@@ -1,0 +1,9 @@
+coordinates:
+  name: p4java
+  namespace: com.perforce
+  provider: mavencentral
+  type: maven
+revisions:
+  2015.2.1365273:
+    licensed:
+      declared: BSD-2-Clause
