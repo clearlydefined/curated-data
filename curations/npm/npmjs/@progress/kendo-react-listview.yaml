@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-react-listview
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  4.14.1:
+    licensed:
+      declared: OTHER
