@@ -1,0 +1,8 @@
+coordinates:
+  name: Antlr3.Runtime.PCL
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.0.3:
+    licensed:
+      declared: BSD-3-Clause
