@@ -1,0 +1,9 @@
+coordinates:
+  name: trilead-ssh2
+  namespace: com.trilead
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0-build220:
+    licensed:
+      declared: BSD-3-Clause
