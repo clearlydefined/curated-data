@@ -14,7 +14,7 @@ revisions:
       declared: MS-PL
   3.0.0:
     licensed:
-      declared: OTHER
+      declared: MS-PL
   3.7.0:
     licensed:
       declared: OTHER
