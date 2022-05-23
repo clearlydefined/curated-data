@@ -1,0 +1,8 @@
+coordinates:
+  name: geometry3Sharp
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.324:
+    licensed:
+      declared: BSL-1.0
