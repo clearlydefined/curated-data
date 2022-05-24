@@ -83,7 +83,7 @@ revisions:
       declared: Apache-2.0
   2.13.3:
     licensed:
-      declared: Apache-1.1
+      declared: Apache-2.0
   2.14.0:
     licensed:
       declared: Apache-2.0
