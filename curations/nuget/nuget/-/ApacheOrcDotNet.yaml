@@ -1,0 +1,19 @@
+coordinates:
+  name: ApacheOrcDotNet
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    described:
+      facets:
+        doc:
+          - LICENSE
+      sourceLocation:
+        name: spark
+        namespace: apache
+        provider: github
+        revision: a7259279d07b302a51456adb13dc1e41a6fd06ed
+        type: git
+        url: 'https://github.com/apache/spark/commit/a7259279d07b302a51456adb13dc1e41a6fd06ed'
+    licensed:
+      declared: BSD-3-Clause
