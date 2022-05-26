@@ -1,0 +1,9 @@
+coordinates:
+  name: airbrake
+  namespace: airbrake
+  provider: github
+  type: git
+revisions:
+  d98d7b4c92e5f15248cfb490805cdd0f1f7f5cfb:
+    licensed:
+      declared: MIT
