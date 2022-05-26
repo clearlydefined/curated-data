@@ -13,6 +13,14 @@ revisions:
     licensed:
       declared: MS-PL
   3.0.0:
+    described:
+      sourceLocation:
+        name: wpftoolkit
+        namespace: xceedsoftware
+        provider: github
+        revision: 015d89f201800a275feacf8eccedfd58fb1a59ca
+        type: git
+        url: 'https://github.com/xceedsoftware/wpftoolkit/commit/015d89f201800a275feacf8eccedfd58fb1a59ca'
     licensed:
       declared: MS-PL
   3.7.0:
