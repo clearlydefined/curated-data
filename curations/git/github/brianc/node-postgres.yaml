@@ -1,0 +1,9 @@
+coordinates:
+  name: node-postgres
+  namespace: brianc
+  provider: github
+  type: git
+revisions:
+  4c81c6da252fbda16f9aea48ae4972f1b3850356:
+    licensed:
+      declared: MIT
