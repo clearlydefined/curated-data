@@ -1,0 +1,8 @@
+coordinates:
+  name: Csv
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.65:
+    licensed:
+      declared: MIT
