@@ -1,0 +1,8 @@
+coordinates:
+  name: gender-guesser
+  provider: pypi
+  type: pypi
+revisions:
+  0.4.0:
+    licensed:
+      declared: GPL-3.0-only
