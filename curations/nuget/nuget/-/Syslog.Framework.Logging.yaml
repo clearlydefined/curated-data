@@ -1,0 +1,8 @@
+coordinates:
+  name: Syslog.Framework.Logging
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.0:
+    licensed:
+      declared: MIT
