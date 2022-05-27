@@ -17,4 +17,4 @@ revisions:
       declared: Apache-2.0 OR MPL-2.0
   6.2.2:
     licensed:
-      declared: Apache-2.0
+      declared: Apache-2.0 OR MPL-2.0
