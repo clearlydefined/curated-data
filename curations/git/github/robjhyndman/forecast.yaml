@@ -1,0 +1,9 @@
+coordinates:
+  name: forecast
+  namespace: robjhyndman
+  provider: github
+  type: git
+revisions:
+  1a8e2c5121c0d01d3fe5d106f489059933275cc9:
+    licensed:
+      declared: GPL-3.0-only
