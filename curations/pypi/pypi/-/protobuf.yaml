@@ -288,3 +288,6 @@ revisions:
   4.0.0rc2:
     licensed:
       declared: BSD-3-Clause
+  4.21.1:
+    licensed:
+      declared: BSD-3-Clause
