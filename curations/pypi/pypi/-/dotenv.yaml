@@ -1,0 +1,8 @@
+coordinates:
+  name: dotenv
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.5:
+    licensed:
+      declared: MIT
