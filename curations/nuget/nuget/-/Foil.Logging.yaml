@@ -1,0 +1,8 @@
+coordinates:
+  name: Foil.Logging
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.37:
+    licensed:
+      declared: Apache-2.0
