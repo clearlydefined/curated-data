@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  1.5.8:
+    licensed:
+      declared: NONE
   1.7.30:
     described:
       facets:
