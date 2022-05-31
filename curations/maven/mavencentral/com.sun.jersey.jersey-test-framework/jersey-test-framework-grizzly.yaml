@@ -6,4 +6,4 @@ coordinates:
 revisions:
   '1.12':
     licensed:
-      declared: NONE
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
