@@ -1,0 +1,8 @@
+coordinates:
+  name: StringTemplate3
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.1:
+    licensed:
+      declared: BSD-2-Clause
