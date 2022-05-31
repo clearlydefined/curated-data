@@ -15,6 +15,9 @@ revisions:
   8.1.6:
     licensed:
       declared: OTHER
+  8.2.3:
+    licensed:
+      declared: CC0-1.0
   8.4.2:
     licensed:
       declared: OTHER
