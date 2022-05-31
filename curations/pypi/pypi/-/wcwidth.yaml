@@ -1,0 +1,8 @@
+coordinates:
+  name: wcwidth
+  provider: pypi
+  type: pypi
+revisions:
+  0.2.5:
+    licensed:
+      declared: MIT
