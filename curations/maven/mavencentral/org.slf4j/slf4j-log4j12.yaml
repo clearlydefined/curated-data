@@ -6,7 +6,7 @@ coordinates:
 revisions:
   1.5.8:
     licensed:
-      declared: NONE
+      declared: MIT
   1.7.30:
     described:
       facets:
