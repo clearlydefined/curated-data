@@ -1,0 +1,9 @@
+coordinates:
+  name: code
+  namespace: masteringopencv
+  provider: github
+  type: git
+revisions:
+  d1d4d99b5c07c43b50a41e3d02ffc9cae64df242:
+    licensed:
+      declared: OTHER
