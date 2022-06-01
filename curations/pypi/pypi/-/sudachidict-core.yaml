@@ -6,3 +6,6 @@ revisions:
   '20211220':
     licensed:
       declared: Apache-2.0
+  '20220519':
+    licensed:
+      declared: Apache-2.0
