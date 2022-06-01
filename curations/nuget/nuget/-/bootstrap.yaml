@@ -33,6 +33,9 @@ revisions:
   3.3.6:
     licensed:
       declared: MIT
+  3.3.6.1:
+    licensed:
+      declared: MIT
   3.3.7:
     described:
       releaseDate: '2015-07-25'
