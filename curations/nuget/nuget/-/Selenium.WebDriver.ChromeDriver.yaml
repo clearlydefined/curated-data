@@ -9,6 +9,9 @@ revisions:
   2.25.0:
     licensed:
       declared: Unlicense
+  2.25.0.8:
+    licensed:
+      declared: Unlicense
   2.26.0:
     licensed:
       declared: Unlicense
