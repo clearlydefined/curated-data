@@ -1,0 +1,8 @@
+coordinates:
+  name: DynamicTypeBuilder
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.4:
+    licensed:
+      declared: GPL-3.0-only
