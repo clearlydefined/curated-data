@@ -1,0 +1,9 @@
+coordinates:
+  name: reactor-grpc-stub
+  namespace: com.salesforce.servicelibs
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.3:
+    licensed:
+      declared: BSD-3-Clause
