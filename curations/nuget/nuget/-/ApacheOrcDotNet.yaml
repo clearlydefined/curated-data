@@ -1,0 +1,10 @@
+coordinates:
+  name: ApacheOrcDotNet
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    described:
+      facets:
+        tests:
+          - 'https://github.com/apache/spark/blob/master/LICENSE'
