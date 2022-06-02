@@ -1,0 +1,14 @@
+coordinates:
+  name: drogue-client
+  provider: cratesio
+  type: crate
+revisions:
+  0.10.0:
+    described:
+      sourceLocation:
+        name: drogue-client
+        namespace: drogue-iot
+        provider: github
+        revision: 7d8071be74471f88c8a9982d34c8e2b552831810
+        type: git
+        url: 'https://github.com/drogue-iot/drogue-client/commit/7d8071be74471f88c8a9982d34c8e2b552831810'
