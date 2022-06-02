@@ -1,0 +1,8 @@
+coordinates:
+  name: EPPlus.System.Drawing
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.0:
+    licensed:
+      declared: PolyForm-Noncommercial-1.0.0
