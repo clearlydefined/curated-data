@@ -10,3 +10,6 @@ revisions:
   '2.17':
     licensed:
       declared: MPL-2.0
+  '2.23':
+    licensed:
+      declared: Apache-2.0
