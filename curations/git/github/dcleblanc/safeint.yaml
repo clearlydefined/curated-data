@@ -1,0 +1,9 @@
+coordinates:
+  name: safeint
+  namespace: dcleblanc
+  provider: github
+  type: git
+revisions:
+  ff15c6ada150a5018c5ef2172401cb4529eac9c0:
+    licensed:
+      declared: MIT
