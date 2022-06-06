@@ -1,0 +1,9 @@
+coordinates:
+  name: caja
+  namespace: google
+  provider: github
+  type: git
+revisions:
+  43ee1c8f4f6d44032173d1c1da2d04b96f81ecf6:
+    licensed:
+      declared: Apache-2.0
