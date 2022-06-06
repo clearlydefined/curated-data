@@ -1,0 +1,8 @@
+coordinates:
+  name: Glob.cs
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.13:
+    licensed:
+      declared: Apache-2.0
