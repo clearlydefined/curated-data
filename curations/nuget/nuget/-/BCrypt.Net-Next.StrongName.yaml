@@ -1,0 +1,8 @@
+coordinates:
+  name: BCrypt.Net-Next.StrongName
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.0:
+    licensed:
+      declared: MIT
