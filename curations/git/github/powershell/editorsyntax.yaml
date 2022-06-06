@@ -1,0 +1,9 @@
+coordinates:
+  name: editorsyntax
+  namespace: powershell
+  provider: github
+  type: git
+revisions:
+  742f0b5d4b60f5930c0b47fcc1f646860521296e:
+    licensed:
+      declared: MIT
