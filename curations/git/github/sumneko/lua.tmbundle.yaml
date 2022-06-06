@@ -1,0 +1,9 @@
+coordinates:
+  name: lua.tmbundle
+  namespace: sumneko
+  provider: github
+  type: git
+revisions:
+  bc74f9230c3f07c0ecc1bc1727ad98d9e70aff5b:
+    licensed:
+      declared: MIT
