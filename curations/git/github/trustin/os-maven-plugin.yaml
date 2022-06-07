@@ -1,0 +1,9 @@
+coordinates:
+  name: os-maven-plugin
+  namespace: trustin
+  provider: github
+  type: git
+revisions:
+  3d168a9d9731953d8a9002a73bd4657f2164648a:
+    licensed:
+      declared: Apache-2.0
