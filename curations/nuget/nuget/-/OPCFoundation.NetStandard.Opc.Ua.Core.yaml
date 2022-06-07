@@ -33,3 +33,6 @@ revisions:
   1.4.368.53:
     licensed:
       declared: GPL-2.0-only OR OTHER
+  1.4.368.58:
+    licensed:
+      declared: GPL-2.0-only OR OTHER

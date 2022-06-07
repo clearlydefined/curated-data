@@ -1,0 +1,9 @@
+coordinates:
+  name: atom-language-julia
+  namespace: juliaeditorsupport
+  provider: github
+  type: git
+revisions:
+  7b7801f41ce4ac1303bd17e057dbe677e24f597f:
+    licensed:
+      declared: MIT
