@@ -49,3 +49,6 @@ revisions:
   1.4.4:
     licensed:
       declared: OTHER
+  1.5.4-beta.1:
+    licensed:
+      declared: OTHER
