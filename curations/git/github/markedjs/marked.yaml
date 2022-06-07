@@ -1,0 +1,9 @@
+coordinates:
+  name: marked
+  namespace: markedjs
+  provider: github
+  type: git
+revisions:
+  2002557d004139ca2208c910d9ca999829b65406:
+    licensed:
+      declared: MIT
