@@ -1,0 +1,8 @@
+coordinates:
+  name: huycn.zxingcpp.winrt
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: Apache-2.0
