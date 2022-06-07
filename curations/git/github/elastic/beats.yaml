@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  1122568edf4ad039734b5224aece9a6259c72684:
+    licensed:
+      declared: Apache-2.0
   154d2d0e10f36edac6bf0fb782cfa82d550c8974:
     licensed:
       declared: Apache-2.0
