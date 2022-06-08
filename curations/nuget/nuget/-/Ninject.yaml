@@ -34,3 +34,6 @@ revisions:
         path: Ninject.nuspec
     licensed:
       declared: Apache-2.0 OR MS-PL
+  3.3.6:
+    licensed:
+      declared: Apache-2.0 OR MS-PL
