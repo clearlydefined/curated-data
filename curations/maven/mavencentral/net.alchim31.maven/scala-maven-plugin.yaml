@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  4.4.0:
+    licensed:
+      declared: Unlicense
   4.5.4:
     licensed:
       declared: Unlicense
