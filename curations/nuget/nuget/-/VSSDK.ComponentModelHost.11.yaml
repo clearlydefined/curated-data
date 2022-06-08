@@ -1,0 +1,8 @@
+coordinates:
+  name: VSSDK.ComponentModelHost.11
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.4:
+    licensed:
+      declared: NONE
