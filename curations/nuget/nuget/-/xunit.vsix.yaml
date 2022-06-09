@@ -1,0 +1,8 @@
+coordinates:
+  name: xunit.vsix
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.72:
+    licensed:
+      declared: MIT
