@@ -1,0 +1,9 @@
+coordinates:
+  name: jcabi-aspects
+  namespace: com.jcabi
+  provider: mavencentral
+  type: maven
+revisions:
+  0.22.5:
+    licensed:
+      declared: BSD-3-Clause
