@@ -1,0 +1,9 @@
+coordinates:
+  name: file-browser
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0-preview.0:
+    licensed:
+      declared: OTHER
