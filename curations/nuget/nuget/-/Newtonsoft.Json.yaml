@@ -51,6 +51,9 @@ revisions:
         url: 'https://github.com/jamesnk/newtonsoft.json/commit/9396ea0994fdfe0fae627b7e63924684ef6ede7f'
     licensed:
       declared: MIT
+  4.5.9:
+    licensed:
+      declared: MIT
   5.0.1:
     licensed:
       declared: MIT
