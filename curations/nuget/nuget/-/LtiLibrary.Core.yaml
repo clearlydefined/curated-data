@@ -1,0 +1,8 @@
+coordinates:
+  name: LtiLibrary.Core
+  provider: nuget
+  type: nuget
+revisions:
+  1.6.1:
+    licensed:
+      declared: Apache-2.0
