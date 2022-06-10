@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-sdk-for-cpp
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  513805f37d5bb3024f4821bc7528a334be3f8123:
+    licensed:
+      declared: MIT
