@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-data-keyvalue
+  namespace: org.springframework.data
+  provider: mavencentral
+  type: maven
+revisions:
+  2.5.11:
+    licensed:
+      declared: Apache-2.0
