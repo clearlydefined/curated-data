@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '1.11':
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
   '1.19':
     licensed:
       declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
