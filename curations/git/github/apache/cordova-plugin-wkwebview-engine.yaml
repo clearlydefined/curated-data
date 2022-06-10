@@ -1,0 +1,9 @@
+coordinates:
+  name: cordova-plugin-wkwebview-engine
+  namespace: apache
+  provider: github
+  type: git
+revisions:
+  ac8bc9968be5d2ec1eb9ffc16e007a5f58c4b01d:
+    licensed:
+      declared: Apache-2.0
