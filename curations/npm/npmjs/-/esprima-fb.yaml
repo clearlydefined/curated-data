@@ -3,6 +3,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  10001.1.0-dev-harmony-fb:
+    licensed:
+      declared: BSD-2-Clause
   12001.1.0-dev-harmony-fb:
     licensed:
       declared: BSD-2-Clause
