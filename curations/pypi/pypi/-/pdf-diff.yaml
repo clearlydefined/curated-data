@@ -1,0 +1,8 @@
+coordinates:
+  name: pdf-diff
+  provider: pypi
+  type: pypi
+revisions:
+  0.9.1:
+    licensed:
+      declared: CC0-1.0
