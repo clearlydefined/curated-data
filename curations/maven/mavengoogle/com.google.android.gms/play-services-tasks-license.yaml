@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-tasks-license
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  12.0.1:
+    licensed:
+      declared: OTHER
