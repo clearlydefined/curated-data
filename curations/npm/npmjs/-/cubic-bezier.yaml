@@ -1,0 +1,8 @@
+coordinates:
+  name: cubic-bezier
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.2:
+    licensed:
+      declared: MIT
