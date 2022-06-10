@@ -304,3 +304,6 @@ revisions:
   3.9.3:
     licensed:
       declared: Apache-2.0
+  4.10.3:
+    licensed:
+      declared: Apache-2.0
