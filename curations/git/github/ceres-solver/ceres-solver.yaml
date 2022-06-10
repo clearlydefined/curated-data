@@ -1,0 +1,9 @@
+coordinates:
+  name: ceres-solver
+  namespace: ceres-solver
+  provider: github
+  type: git
+revisions:
+  f68321e7de8929fbcdb95dd42877531e64f72f66:
+    licensed:
+      declared: Apache-2.0
