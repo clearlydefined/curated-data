@@ -1,0 +1,9 @@
+coordinates:
+  name: junit-platform-reporting
+  namespace: org.junit.platform
+  provider: mavencentral
+  type: maven
+revisions:
+  1.5.2:
+    licensed:
+      declared: EPL-2.0
