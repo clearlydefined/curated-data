@@ -1,0 +1,9 @@
+coordinates:
+  name: wsdl4j
+  namespace: wsdl4j
+  provider: mavencentral
+  type: maven
+revisions:
+  1.6.3:
+    licensed:
+      declared: CPL-1.0
