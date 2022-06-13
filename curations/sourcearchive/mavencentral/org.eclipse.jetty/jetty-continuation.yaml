@@ -1,0 +1,9 @@
+coordinates:
+  name: jetty-continuation
+  namespace: org.eclipse.jetty
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  9.4.39.v20210325:
+    licensed:
+      declared: Apache-2.0 OR EPL-1.0
