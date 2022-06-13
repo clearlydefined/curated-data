@@ -21,3 +21,6 @@ revisions:
   0.19.1:
     licensed:
       declared: MIT
+  0.19.5:
+    licensed:
+      declared: MIT
