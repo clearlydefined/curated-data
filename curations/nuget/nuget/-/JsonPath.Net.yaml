@@ -1,0 +1,8 @@
+coordinates:
+  name: JsonPath.Net
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.1:
+    licensed:
+      declared: MIT
