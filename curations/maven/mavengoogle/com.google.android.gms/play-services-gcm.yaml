@@ -4,6 +4,9 @@ coordinates:
   provider: mavengoogle
   type: maven
 revisions:
+  11.0.2:
+    licensed:
+      declared: OTHER
   17.0.0:
     licensed:
       declared: OTHER
