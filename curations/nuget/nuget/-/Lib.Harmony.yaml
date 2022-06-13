@@ -1,0 +1,8 @@
+coordinates:
+  name: Lib.Harmony
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.0.1:
+    licensed:
+      declared: MIT
