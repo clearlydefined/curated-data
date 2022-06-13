@@ -1,0 +1,9 @@
+coordinates:
+  name: windows-appsample-networkhelper
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  05799af2715e5f545d039bf91e63bc21c9b1afc3:
+    licensed:
+      declared: MIT
