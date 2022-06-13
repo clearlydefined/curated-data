@@ -1,0 +1,8 @@
+coordinates:
+  name: SignalR.Hosting.AspNet
+  provider: nuget
+  type: nuget
+revisions:
+  0.5.3:
+    licensed:
+      declared: MIT
