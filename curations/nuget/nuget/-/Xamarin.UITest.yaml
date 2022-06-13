@@ -108,3 +108,6 @@ revisions:
   3.2.3:
     licensed:
       declared: OTHER
+  3.2.7:
+    licensed:
+      declared: OTHER
