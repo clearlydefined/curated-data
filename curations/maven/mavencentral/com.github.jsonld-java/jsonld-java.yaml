@@ -10,3 +10,6 @@ revisions:
   0.13.2:
     licensed:
       declared: BSD-3-Clause
+  0.13.4:
+    licensed:
+      declared: BSD-3-Clause
