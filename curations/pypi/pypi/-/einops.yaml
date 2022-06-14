@@ -1,0 +1,8 @@
+coordinates:
+  name: einops
+  provider: pypi
+  type: pypi
+revisions:
+  0.3.2:
+    licensed:
+      declared: MIT
