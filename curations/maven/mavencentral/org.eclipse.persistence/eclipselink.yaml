@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  2.5.2:
+    licensed:
+      declared: EPL-1.0 OR BSD-3-Clause
   2.6.4-RC1:
     licensed:
       declared: EPL-1.0 AND BSD-3-Clause
