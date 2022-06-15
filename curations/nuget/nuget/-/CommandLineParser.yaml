@@ -15,6 +15,9 @@ revisions:
         url: 'https://github.com/gsscoder/commandline/commit/205094c0c135ab5b6816f3eb0e6a84ddced5b0e2'
     licensed:
       declared: MIT
+  2.0.251-beta:
+    licensed:
+      declared: MIT
   2.0.275-beta:
     licensed:
       declared: MIT
