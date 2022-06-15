@@ -6,3 +6,6 @@ revisions:
   0.10.2.309-beta1:
     licensed:
       declared: Apache-2.0
+  0.11.6.86-beta1:
+    licensed:
+      declared: Apache-2.0
