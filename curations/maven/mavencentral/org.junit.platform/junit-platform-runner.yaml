@@ -16,3 +16,6 @@ revisions:
   1.7.0:
     licensed:
       declared: EPL-2.0
+  1.7.1:
+    licensed:
+      declared: EPL-2.0
