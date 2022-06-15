@@ -1,0 +1,9 @@
+coordinates:
+  name: matplotlib
+  namespace: matplotlib
+  provider: github
+  type: git
+revisions:
+  0fc9830fe946f6221e9ceff2910cd0c2118b0965:
+    licensed:
+      declared: PSF-2.0
