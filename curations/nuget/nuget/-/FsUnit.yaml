@@ -1,0 +1,8 @@
+coordinates:
+  name: FsUnit
+  provider: nuget
+  type: nuget
+revisions:
+  3.8.0:
+    licensed:
+      declared: MIT
