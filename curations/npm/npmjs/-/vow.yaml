@@ -6,3 +6,6 @@ revisions:
   0.4.3:
     licensed:
       declared: MIT OR GPL-1.0-or-later
+  0.4.4:
+    licensed:
+      declared: MIT OR GPL-1.0-or-later
