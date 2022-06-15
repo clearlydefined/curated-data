@@ -1,0 +1,9 @@
+coordinates:
+  name: msinttypes
+  namespace: chemeris
+  provider: github
+  type: git
+revisions:
+  f9e7c5758ed9e3b9f4b2394de1881c704dd79de0:
+    licensed:
+      declared: BSD-3-Clause
