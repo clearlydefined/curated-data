@@ -1,0 +1,8 @@
+coordinates:
+  name: jQuery1
+  provider: nuget
+  type: nuget
+revisions:
+  1.11.0:
+    licensed:
+      declared: MIT
