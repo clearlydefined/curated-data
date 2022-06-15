@@ -1,0 +1,8 @@
+coordinates:
+  name: Flutter
+  provider: cocoapods
+  type: pod
+revisions:
+  1.0.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
