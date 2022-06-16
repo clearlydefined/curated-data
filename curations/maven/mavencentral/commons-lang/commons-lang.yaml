@@ -1,0 +1,9 @@
+coordinates:
+  name: commons-lang
+  namespace: commons-lang
+  provider: mavencentral
+  type: maven
+revisions:
+  '20030203.000129':
+    licensed:
+      declared: Apache-2.0
