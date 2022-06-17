@@ -1,0 +1,9 @@
+coordinates:
+  name: javax.persistence
+  namespace: org.eclipse.persistence
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0:
+    licensed:
+      declared: EPL-1.0
