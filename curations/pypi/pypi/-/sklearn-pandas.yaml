@@ -15,3 +15,6 @@ revisions:
   2.0.1:
     licensed:
       declared: Zlib and BSD-2-Clause
+  2.2.0:
+    licensed:
+      declared: OTHER
