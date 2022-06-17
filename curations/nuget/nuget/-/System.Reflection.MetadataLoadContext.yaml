@@ -1,0 +1,8 @@
+coordinates:
+  name: System.Reflection.MetadataLoadContext
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.0:
+    licensed:
+      declared: MIT AND OTHER
