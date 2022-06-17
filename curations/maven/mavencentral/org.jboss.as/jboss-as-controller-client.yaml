@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-as-controller-client
+  namespace: org.jboss.as
+  provider: mavencentral
+  type: maven
+revisions:
+  7.0.0.Final:
+    licensed:
+      declared: LGPL-2.1-or-later
