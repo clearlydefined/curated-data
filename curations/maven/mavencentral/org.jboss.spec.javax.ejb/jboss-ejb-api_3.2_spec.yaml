@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-ejb-api_3.2_spec
+  namespace: org.jboss.spec.javax.ejb
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.1.Final:
+    licensed:
+      declared: CDDL-1.0
