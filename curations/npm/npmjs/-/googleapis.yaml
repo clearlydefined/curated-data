@@ -1,0 +1,14 @@
+coordinates:
+  name: googleapis
+  provider: npmjs
+  type: npm
+revisions:
+  19.0.0:
+    described:
+      sourceLocation:
+        name: google-api-nodejs-client
+        namespace: googleapis
+        provider: github
+        revision: 4a4cf041059ca86cd9ed5c91bd3c5c286385f8ff
+        type: git
+        url: 'https://github.com/googleapis/google-api-nodejs-client/commit/4a4cf041059ca86cd9ed5c91bd3c5c286385f8ff'
