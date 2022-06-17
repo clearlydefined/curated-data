@@ -1,0 +1,9 @@
+coordinates:
+  name: include-what-you-use
+  namespace: include-what-you-use
+  provider: github
+  type: git
+revisions:
+  78577f2ba2cd6f486bac92be9716e04cf88db92c:
+    licensed:
+      declared: NCSA
