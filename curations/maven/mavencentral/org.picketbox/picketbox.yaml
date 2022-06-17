@@ -1,0 +1,9 @@
+coordinates:
+  name: picketbox
+  namespace: org.picketbox
+  provider: mavencentral
+  type: maven
+revisions:
+  5.0.3.Final:
+    licensed:
+      declared: GPL-2.0-only
