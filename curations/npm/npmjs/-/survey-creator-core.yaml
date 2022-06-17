@@ -1,0 +1,8 @@
+coordinates:
+  name: survey-creator-core
+  provider: npmjs
+  type: npm
+revisions:
+  1.9.33:
+    licensed:
+      declared: OTHER
