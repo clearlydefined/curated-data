@@ -1,0 +1,8 @@
+coordinates:
+  name: PresentationFramework
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.0:
+    licensed:
+      declared: NONE
