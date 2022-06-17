@@ -1,0 +1,9 @@
+coordinates:
+  name: gwt-servlet
+  namespace: com.google.gwt
+  provider: mavencentral
+  type: maven
+revisions:
+  2.9.0:
+    licensed:
+      declared: Apache-2.0
