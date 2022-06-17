@@ -79,3 +79,6 @@ revisions:
   '1.34':
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
+  1.4.1:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
