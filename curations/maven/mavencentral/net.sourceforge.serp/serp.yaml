@@ -1,0 +1,9 @@
+coordinates:
+  name: serp
+  namespace: net.sourceforge.serp
+  provider: mavencentral
+  type: maven
+revisions:
+  1.15.1:
+    licensed:
+      declared: BSD-3-Clause

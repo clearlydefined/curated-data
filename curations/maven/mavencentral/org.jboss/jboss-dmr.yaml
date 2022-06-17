@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-dmr
+  namespace: org.jboss
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.1.Final:
+    licensed:
+      declared: LGPL-2.1-or-later

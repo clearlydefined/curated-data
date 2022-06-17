@@ -1,0 +1,8 @@
+coordinates:
+  name: WinPixEventRuntime
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.210209001:
+    licensed:
+      declared: OTHER
