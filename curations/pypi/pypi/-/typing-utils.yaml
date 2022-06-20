@@ -1,0 +1,8 @@
+coordinates:
+  name: typing-utils
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.0:
+    licensed:
+      declared: Apache-2.0
