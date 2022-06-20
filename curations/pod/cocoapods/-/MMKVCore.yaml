@@ -1,0 +1,8 @@
+coordinates:
+  name: MMKVCore
+  provider: cocoapods
+  type: pod
+revisions:
+  1.2.13:
+    licensed:
+      declared: BSD-3-Clause
