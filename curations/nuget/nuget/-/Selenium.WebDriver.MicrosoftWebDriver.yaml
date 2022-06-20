@@ -5,16 +5,13 @@ coordinates:
 revisions:
   10.0.14393.1:
     described:
-      facets:
-        doc:
-          - LICENSE
       sourceLocation:
         name: nuget-selenium-webdriver-microsoftwebdriver
         namespace: testpulse
         provider: github
-        revision: 09c9232bac2649a8d4fdab6203211889b728644b
+        revision: fab932473e6117e21b0eeee3bd58f172cc36e1e2
         type: git
-        url: 'https://github.com/testpulse/nuget-selenium-webdriver-microsoftwebdriver/commit/09c9232bac2649a8d4fdab6203211889b728644b'
+        url: 'https://github.com/testpulse/nuget-selenium-webdriver-microsoftwebdriver/commit/fab932473e6117e21b0eeee3bd58f172cc36e1e2'
     licensed:
       declared: Unlicense
   10.0.15063:
