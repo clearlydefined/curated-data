@@ -1,0 +1,8 @@
+coordinates:
+  name: MMKV
+  provider: cocoapods
+  type: pod
+revisions:
+  1.2.10:
+    licensed:
+      declared: BSD-3-Clause
