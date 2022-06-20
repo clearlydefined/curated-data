@@ -33,6 +33,20 @@ revisions:
   3.150.1:
     licensed:
       declared: Unlicense
+  3.3.0:
+    described:
+      facets:
+        doc:
+          - LICENSE
+      sourceLocation:
+        name: nupkg-selenium-webdriver-iedriver
+        namespace: jsakamoto
+        provider: github
+        revision: 4e3203f4ce2db1d0ef62c061a75638179ca13331
+        type: git
+        url: 'https://github.com/jsakamoto/nupkg-selenium-webdriver-iedriver/commit/4e3203f4ce2db1d0ef62c061a75638179ca13331'
+    licensed:
+      declared: Unlicense
   3.4.0:
     licensed:
       declared: Unlicense
