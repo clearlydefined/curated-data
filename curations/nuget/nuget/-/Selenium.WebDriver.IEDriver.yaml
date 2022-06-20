@@ -35,9 +35,6 @@ revisions:
       declared: Unlicense
   3.3.0:
     described:
-      facets:
-        doc:
-          - LICENSE
       sourceLocation:
         name: nupkg-selenium-webdriver-iedriver
         namespace: jsakamoto
