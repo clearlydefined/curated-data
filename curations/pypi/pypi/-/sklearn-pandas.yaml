@@ -5,7 +5,7 @@ coordinates:
 revisions:
   1.6.0:
     licensed:
-      declared: Zlib and BSD-2-Clause
+      declared: Zlib
   1.7.0:
     licensed:
       declared: Zlib
@@ -14,7 +14,7 @@ revisions:
       declared: Zlib
   2.0.1:
     licensed:
-      declared: Zlib and BSD-2-Clause
+      declared: Zlib
   2.2.0:
     licensed:
       declared: OTHER
