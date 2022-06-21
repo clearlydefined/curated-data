@@ -6,6 +6,9 @@ revisions:
   5.4.1:
     licensed:
       declared: MS-PL
+  5.4.3:
+    licensed:
+      declared: MS-PL
   5.4.5:
     licensed:
       declared: MS-PL
