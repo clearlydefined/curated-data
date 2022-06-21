@@ -1,0 +1,8 @@
+coordinates:
+  name: diff-match-patch-python
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.3:
+    licensed:
+      declared: CC0-1.0
