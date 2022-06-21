@@ -7,6 +7,9 @@ revisions:
   '1.11':
     licensed:
       declared: Apache-2.0
+  '1.12':
+    licensed:
+      declared: Apache-2.0
   '1.15':
     licensed:
       declared: Apache-2.0
