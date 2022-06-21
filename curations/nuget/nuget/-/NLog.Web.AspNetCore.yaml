@@ -36,6 +36,9 @@ revisions:
   4.8.1:
     licensed:
       declared: BSD-3-Clause
+  4.8.2:
+    licensed:
+      declared: BSD-3-Clause
   4.8.4:
     licensed:
       declared: BSD-3-Clause
