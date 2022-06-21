@@ -1,0 +1,9 @@
+coordinates:
+  name: asm-xml
+  namespace: org.ow2.asm
+  provider: mavencentral
+  type: maven
+revisions:
+  5.0.3:
+    licensed:
+      declared: BSD-3-Clause
