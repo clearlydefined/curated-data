@@ -1,0 +1,8 @@
+coordinates:
+  name: ADALiOS
+  provider: cocoapods
+  type: pod
+revisions:
+  1.2.10:
+    licensed:
+      declared: Apache-2.0
