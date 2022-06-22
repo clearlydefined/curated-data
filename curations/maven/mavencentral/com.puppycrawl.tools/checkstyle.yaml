@@ -7,6 +7,9 @@ revisions:
   '6.12':
     licensed:
       declared: LGPL-2.1-only
+  '6.18':
+    licensed:
+      declared: LGPL-2.1-or-later
   '8.29':
     described:
       releaseDate: '2020-01-26'
