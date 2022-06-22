@@ -1,0 +1,9 @@
+coordinates:
+  name: subethasmtp-smtp
+  namespace: org.subethamail
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.2':
+    licensed:
+      declared: Apache-2.0
