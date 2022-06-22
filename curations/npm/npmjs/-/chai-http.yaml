@@ -1,0 +1,8 @@
+coordinates:
+  name: chai-http
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.0:
+    licensed:
+      declared: MIT
