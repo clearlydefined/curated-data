@@ -1,0 +1,8 @@
+coordinates:
+  name: jupyter_contrib_core
+  provider: pypi
+  type: pypi
+revisions:
+  0.3.3:
+    licensed:
+      declared: BSD-3-Clause
