@@ -1,0 +1,8 @@
+coordinates:
+  name: ejs-locals
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.2:
+    licensed:
+      declared: MIT
