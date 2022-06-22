@@ -1,0 +1,8 @@
+coordinates:
+  name: jupyter_latex_envs
+  provider: pypi
+  type: pypi
+revisions:
+  1.4.6:
+    licensed:
+      declared: BSD-3-Clause
