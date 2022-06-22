@@ -1,0 +1,8 @@
+coordinates:
+  name: hidlibrary
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.46:
+    licensed:
+      declared: MIT
