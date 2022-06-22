@@ -1,0 +1,8 @@
+coordinates:
+  name: MapSuiteDesktopForWinForms-BareBone
+  provider: nuget
+  type: nuget
+revisions:
+  10.6.13:
+    licensed:
+      declared: OTHER
