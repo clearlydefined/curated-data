@@ -19,6 +19,9 @@ revisions:
   9.3-1102-jdbc41:
     licensed:
       declared: BSD-3-Clause
+  9.4-1201-jdbc41:
+    licensed:
+      declared: PostgreSQL
   9.4.1207.jre7:
     licensed:
       declared: BSD-3-Clause
