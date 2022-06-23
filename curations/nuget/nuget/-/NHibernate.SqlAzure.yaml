@@ -1,0 +1,8 @@
+coordinates:
+  name: NHibernate.SqlAzure
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.5:
+    licensed:
+      declared: MIT
