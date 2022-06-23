@@ -1,0 +1,8 @@
+coordinates:
+  name: NServiceBus.NHibernate
+  provider: nuget
+  type: nuget
+revisions:
+  7.2.4:
+    licensed:
+      declared: RPL-1.5
