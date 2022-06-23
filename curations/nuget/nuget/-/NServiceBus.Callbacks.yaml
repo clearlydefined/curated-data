@@ -1,0 +1,8 @@
+coordinates:
+  name: NServiceBus.Callbacks
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0:
+    licensed:
+      declared: RPL-1.5
