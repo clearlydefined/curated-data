@@ -1,0 +1,8 @@
+coordinates:
+  name: WinCopies.Util
+  provider: nuget
+  type: nuget
+revisions:
+  2.15.1:
+    licensed:
+      declared: Unlicense
