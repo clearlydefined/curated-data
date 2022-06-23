@@ -1,0 +1,8 @@
+coordinates:
+  name: NServiceBus.Hosting.Azure
+  provider: nuget
+  type: nuget
+revisions:
+  7.1.2:
+    licensed:
+      declared: RPL-1.5
