@@ -1,11 +1,8 @@
 coordinates:
-  name: NServiceBus.Hosting.Azure
+  name: NServiceBus.Hosting.Azure.HostProcess
   provider: nuget
   type: nuget
 revisions:
-  7.1.2:
-    licensed:
-      declared: OTHER
   7.1.3:
     licensed:
       declared: OTHER
