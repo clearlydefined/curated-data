@@ -1,0 +1,9 @@
+coordinates:
+  name: concepts
+  namespace: org.opendaylight.yangtools
+  provider: mavencentral
+  type: maven
+revisions:
+  7.0.12:
+    licensed:
+      declared: EPL-1.0
