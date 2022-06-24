@@ -1,11 +1,8 @@
 coordinates:
-  name: NServiceBus
+  name: NServiceBus.Autofac
   provider: nuget
   type: nuget
 revisions:
-  6.0.0:
-    licensed:
-      declared: OTHER
-  6.2.1:
+  6.0.1:
     licensed:
       declared: OTHER

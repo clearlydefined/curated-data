@@ -1,11 +1,8 @@
 coordinates:
-  name: NServiceBus
+  name: NServiceBus.Testing
   provider: nuget
   type: nuget
 revisions:
-  6.0.0:
-    licensed:
-      declared: OTHER
-  6.2.1:
+  6.0.3:
     licensed:
       declared: OTHER
