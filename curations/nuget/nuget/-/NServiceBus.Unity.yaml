@@ -1,11 +1,8 @@
 coordinates:
-  name: NServiceBus.Callbacks
+  name: NServiceBus.Unity
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: OTHER
-  2.0.1:
+  7.0.0:
     licensed:
       declared: OTHER

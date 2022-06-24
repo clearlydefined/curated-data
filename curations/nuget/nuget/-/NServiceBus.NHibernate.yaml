@@ -1,11 +1,8 @@
 coordinates:
-  name: NServiceBus.Callbacks
+  name: NServiceBus.NHibernate
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
-    licensed:
-      declared: OTHER
-  2.0.1:
+  7.2.4:
     licensed:
       declared: OTHER
