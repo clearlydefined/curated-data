@@ -1,14 +1,11 @@
 coordinates:
-  name: NServiceBus
+  name: NServiceBus.Callbacks
   provider: nuget
   type: nuget
 revisions:
-  6.0.0:
+  2.0.0:
     licensed:
       declared: OTHER
-  6.2.1:
-    licensed:
-      declared: OTHER
-  6.3.9:
+  2.0.1:
     licensed:
       declared: OTHER

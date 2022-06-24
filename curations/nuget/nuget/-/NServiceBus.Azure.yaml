@@ -1,0 +1,8 @@
+coordinates:
+  name: NServiceBus.Azure
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.0:
+    licensed:
+      declared: OTHER
