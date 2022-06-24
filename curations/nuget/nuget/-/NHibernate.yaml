@@ -1,0 +1,11 @@
+coordinates:
+  name: NHibernate
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.1.4000:
+    licensed:
+      declared: LGPL-2.1-only
+  4.1.2.4000:
+    licensed:
+      declared: LGPL-2.1-only

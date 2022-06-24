@@ -1,11 +1,11 @@
 coordinates:
-  name: NServiceBus.Persistence.AzureStorage
+  name: NServiceBus.Callbacks
   provider: nuget
   type: nuget
 revisions:
-  1.3.0:
+  2.0.0:
     licensed:
       declared: OTHER
-  1.5.1:
+  2.0.1:
     licensed:
       declared: OTHER
