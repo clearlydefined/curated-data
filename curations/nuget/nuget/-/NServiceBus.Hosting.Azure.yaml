@@ -1,11 +1,8 @@
 coordinates:
-  name: NServiceBus.NHibernate
+  name: NServiceBus.Hosting.Azure
   provider: nuget
   type: nuget
 revisions:
-  7.2.0:
-    licensed:
-      declared: OTHER
-  7.2.4:
+  7.1.3:
     licensed:
       declared: OTHER

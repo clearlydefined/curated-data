@@ -1,11 +1,8 @@
 coordinates:
-  name: NServiceBus.NHibernate
+  name: WinCopies.WindowsAPICodePack.Shell
   provider: nuget
   type: nuget
 revisions:
-  7.2.0:
-    licensed:
-      declared: OTHER
-  7.2.4:
+  2.8.0:
     licensed:
       declared: OTHER

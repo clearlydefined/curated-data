@@ -1,11 +1,8 @@
 coordinates:
-  name: NServiceBus.NHibernate
+  name: NServiceBus.Unity
   provider: nuget
   type: nuget
 revisions:
-  7.2.0:
-    licensed:
-      declared: OTHER
-  7.2.4:
+  7.0.0:
     licensed:
       declared: OTHER
