@@ -1,0 +1,8 @@
+coordinates:
+  name: ScipBe.Common.Office.OneNote
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.1:
+    licensed:
+      declared: MIT
