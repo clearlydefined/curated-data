@@ -1,0 +1,8 @@
+coordinates:
+  name: idna
+  provider: pypi
+  type: pypi
+revisions:
+  '2.8':
+    licensed:
+      declared: BSD-3-Clause
