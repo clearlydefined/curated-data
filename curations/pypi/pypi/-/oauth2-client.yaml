@@ -1,0 +1,8 @@
+coordinates:
+  name: oauth2-client
+  provider: pypi
+  type: pypi
+revisions:
+  1.2.1:
+    licensed:
+      declared: Apache-2.0
