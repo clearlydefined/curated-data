@@ -7,8 +7,16 @@ revisions:
     licensed:
       declared: OTHER
   2.7.11:
+    described:
+      sourceLocation:
+        name: ironpython2
+        namespace: ironlanguages
+        provider: github
+        revision: c02d86cea702fd6d253e8fb988187789f7a631b7
+        type: git
+        url: 'https://github.com/ironlanguages/ironpython2/commit/c02d86cea702fd6d253e8fb988187789f7a631b7'
     licensed:
-      declared: OTHER
+      declared: Apache-2.0
   2.7.8.1:
     licensed:
       declared: OTHER
