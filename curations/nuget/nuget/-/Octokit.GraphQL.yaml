@@ -12,6 +12,9 @@ revisions:
   0.1.7-beta:
     licensed:
       declared: MIT
+  0.1.8-beta:
+    licensed:
+      declared: MIT
   0.1.9-beta:
     licensed:
       declared: MIT
