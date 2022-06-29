@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-react-editor
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  4.5.0:
+    licensed:
+      declared: OTHER
