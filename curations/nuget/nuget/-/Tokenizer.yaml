@@ -1,0 +1,8 @@
+coordinates:
+  name: Tokenizer
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.2:
+    licensed:
+      declared: MIT
