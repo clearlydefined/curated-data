@@ -1,0 +1,9 @@
+coordinates:
+  name: xml.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  715363040b087a0c6720800e6dac30f9708b3f23:
+    licensed:
+      declared: OTHER
