@@ -1,0 +1,8 @@
+coordinates:
+  name: MathNet.Numerics.Core
+  provider: nuget
+  type: nuget
+revisions:
+  3.17.0:
+    licensed:
+      declared: MIT
