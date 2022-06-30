@@ -1,0 +1,9 @@
+coordinates:
+  name: javadoc.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  5276d7a93f0cf53b7d425c39c6968b09ea9f2d40:
+    licensed:
+      declared: OTHER
