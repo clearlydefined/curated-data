@@ -1,0 +1,9 @@
+coordinates:
+  name: objective-c.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  d59562b0948d4dae01eaee1a2b2bcde3b478404e:
+    licensed:
+      declared: OTHER
