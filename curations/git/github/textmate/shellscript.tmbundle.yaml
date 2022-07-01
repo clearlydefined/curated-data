@@ -1,0 +1,9 @@
+coordinates:
+  name: shellscript.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  5b6cee006ca05b845ef01a447313da0f2b5b2e45:
+    licensed:
+      declared: OTHER
