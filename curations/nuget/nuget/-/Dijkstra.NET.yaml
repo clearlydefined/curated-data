@@ -1,0 +1,8 @@
+coordinates:
+  name: Dijkstra.NET
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.1:
+    licensed:
+      declared: MIT
