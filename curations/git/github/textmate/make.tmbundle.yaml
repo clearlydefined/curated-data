@@ -1,0 +1,9 @@
+coordinates:
+  name: make.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  3839e8113db1ec23227dcd30d5a57508a9b05d5c:
+    licensed:
+      declared: OTHER
