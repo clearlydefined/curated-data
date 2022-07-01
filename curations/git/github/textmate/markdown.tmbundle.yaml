@@ -1,0 +1,9 @@
+coordinates:
+  name: markdown.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  c6b2d79cafcd8619c79acd79a04e7f5927062aa1:
+    licensed:
+      declared: OTHER
