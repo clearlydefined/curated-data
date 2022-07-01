@@ -1,0 +1,9 @@
+coordinates:
+  name: php.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  8f05764681d51cd0b13db1e36810d74913c86bfc:
+    licensed:
+      declared: OTHER
