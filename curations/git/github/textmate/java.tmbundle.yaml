@@ -1,0 +1,9 @@
+coordinates:
+  name: java.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  79b8b61865e40de0ff04bb16fe1076b154b9894c:
+    licensed:
+      declared: OTHER
