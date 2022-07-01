@@ -1,0 +1,9 @@
+coordinates:
+  name: sql.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  6d4edbc113d3272f7c097d6b1504624289ee2bc5:
+    licensed:
+      declared: OTHER
