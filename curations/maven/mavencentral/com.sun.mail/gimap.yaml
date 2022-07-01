@@ -1,0 +1,9 @@
+coordinates:
+  name: gimap
+  namespace: com.sun.mail
+  provider: mavencentral
+  type: maven
+revisions:
+  1.5.1:
+    licensed:
+      declared: NONE
