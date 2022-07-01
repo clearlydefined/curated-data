@@ -46,6 +46,9 @@ revisions:
   2.4.0:
     licensed:
       declared: MIT
+  2.6.2:
+    licensed:
+      declared: MIT
   2.7.19:
     licensed:
       declared: MIT
