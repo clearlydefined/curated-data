@@ -1,0 +1,8 @@
+coordinates:
+  name: HotChocolate.Data.EntityFramework
+  provider: nuget
+  type: nuget
+revisions:
+  12.6.1:
+    licensed:
+      declared: MIT
