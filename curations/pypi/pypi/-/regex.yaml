@@ -8,7 +8,7 @@ revisions:
       declared: CNRI-Python
   2019.12.20:
     licensed:
-      declared: Apache-2.0
+      declared: CNRI-Python
   2020.1.8:
     licensed:
       declared: CNRI-Python
