@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  a88d25fe6b71a9b200480374462078614f5319ac:
+    licensed:
+      declared: Apache-2.0
   aacccce032ad8cda9fc15ecabfbd844c87db5497:
     files:
       - attributions:
