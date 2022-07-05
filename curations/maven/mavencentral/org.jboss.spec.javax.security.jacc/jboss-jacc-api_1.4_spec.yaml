@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-jacc-api_1.4_spec
+  namespace: org.jboss.spec.javax.security.jacc
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.1.Final:
+    licensed:
+      declared: LGPL-2.1-or-later
