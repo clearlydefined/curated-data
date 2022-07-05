@@ -1,0 +1,9 @@
+coordinates:
+  name: carrot2-mini
+  namespace: org.carrot2
+  provider: mavencentral
+  type: maven
+revisions:
+  3.15.0:
+    licensed:
+      declared: OTHER
