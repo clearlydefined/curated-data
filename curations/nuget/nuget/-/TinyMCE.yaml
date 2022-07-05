@@ -42,3 +42,6 @@ revisions:
   5.7.1:
     licensed:
       declared: LGPL-2.1-only
+  6.0.1:
+    licensed:
+      declared: MIT
