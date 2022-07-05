@@ -1,0 +1,8 @@
+coordinates:
+  name: Downloader
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.5:
+    licensed:
+      declared: MIT
