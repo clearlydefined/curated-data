@@ -1,0 +1,9 @@
+coordinates:
+  name: pagehelper
+  namespace: com.github.pagehelper
+  provider: mavencentral
+  type: maven
+revisions:
+  5.1.0:
+    licensed:
+      declared: MIT
