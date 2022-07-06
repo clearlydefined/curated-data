@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-context-support
+  namespace: com.alibaba.spring
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.10:
+    licensed:
+      declared: Apache-2.0
