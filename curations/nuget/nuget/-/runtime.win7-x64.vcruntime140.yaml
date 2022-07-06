@@ -1,0 +1,8 @@
+coordinates:
+  name: runtime.win7-x64.vcruntime140
+  provider: nuget
+  type: nuget
+revisions:
+  14.0.24406.1:
+    licensed:
+      declared: MS-PL
