@@ -10,6 +10,9 @@ revisions:
   1.11.0:
     licensed:
       declared: LGPL-3.0-or-later
+  1.12.0:
+    licensed:
+      declared: LGPL-3.0-only
   1.8.0:
     licensed:
       declared: LGPL-3.0-or-later
