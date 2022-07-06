@@ -1,0 +1,9 @@
+coordinates:
+  name: hessian
+  namespace: com.caucho
+  provider: mavencentral
+  type: maven
+revisions:
+  4.0.63:
+    licensed:
+      declared: Apache-1.1
