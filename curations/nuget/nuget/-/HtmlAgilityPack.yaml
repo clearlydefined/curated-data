@@ -108,6 +108,9 @@ revisions:
   1.11.9:
     licensed:
       declared: MIT
+  1.4.3:
+    licensed:
+      declared: Apache-2.0
   1.4.6:
     licensed:
       declared: MS-PL
