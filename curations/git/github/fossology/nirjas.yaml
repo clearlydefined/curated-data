@@ -8,9 +8,11 @@ revisions:
     files:
       - license: LGPL-2.1-or-later
         path: Dockerfile
-      - license: LGPL-2.1-only
+      - license: LGPL-2.1-or-later
         path: MANIFEST.in
       - license: LGPL-2.1-or-later
         path: setup.py
       - license: LGPL-2.1-or-later
         path: testScript.py
+     licensed:
+      declared: LGPL-2.1-or-later
