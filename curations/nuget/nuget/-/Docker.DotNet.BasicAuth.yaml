@@ -6,3 +6,6 @@ revisions:
   3.125.2:
     licensed:
       declared: Apache-2.0
+  3.125.3:
+    licensed:
+      declared: Apache-2.0
