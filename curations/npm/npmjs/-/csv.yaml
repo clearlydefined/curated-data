@@ -1,0 +1,8 @@
+coordinates:
+  name: csv
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.7:
+    licensed:
+      declared: MIT
