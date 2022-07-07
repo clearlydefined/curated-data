@@ -14,5 +14,5 @@ revisions:
         path: setup.py
       - license: LGPL-2.1-or-later
         path: testScript.py
-     licensed:
+    licensed:
       declared: LGPL-2.1-or-later
