@@ -110,7 +110,7 @@ revisions:
       declared: MIT
   1.4.3:
     licensed:
-      declared: Apache-2.0
+      declared: MS-PL
   1.4.6:
     licensed:
       declared: MS-PL
