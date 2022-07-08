@@ -1,0 +1,9 @@
+coordinates:
+  name: logex
+  namespace: github.com%2Fchzyer
+  provider: golang
+  type: go
+revisions:
+  v1.1.10:
+    licensed:
+      declared: NONE
