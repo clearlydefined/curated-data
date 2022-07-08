@@ -6,4 +6,4 @@ coordinates:
 revisions:
   v1.1.10:
     licensed:
-      declared: NONE
+      declared: MIT
