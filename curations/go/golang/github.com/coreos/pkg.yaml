@@ -1,0 +1,9 @@
+coordinates:
+  name: pkg
+  namespace: github.com%2Fcoreos
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180928190104-399ea9e2e55f:
+    licensed:
+      declared: Apache-2.0
