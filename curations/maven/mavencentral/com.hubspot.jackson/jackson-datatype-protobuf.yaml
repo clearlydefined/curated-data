@@ -7,6 +7,9 @@ revisions:
   0.9.10-jackson2.9-proto2:
     licensed:
       declared: Apache-2.0
+  0.9.12:
+    licensed:
+      declared: Apache-2.0
   0.9.9-jackson2.9-proto2:
     licensed:
       declared: Apache-2.0
