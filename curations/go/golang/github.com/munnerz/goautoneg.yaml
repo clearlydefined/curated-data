@@ -1,0 +1,9 @@
+coordinates:
+  name: goautoneg
+  namespace: github.com%2Fmunnerz
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20120707110453-a547fc61f48d:
+    licensed:
+      declared: BSD-3-Clause
