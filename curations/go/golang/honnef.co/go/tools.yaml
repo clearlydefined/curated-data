@@ -1,0 +1,9 @@
+coordinates:
+  name: tools
+  namespace: honnef.co%2Fgo
+  provider: golang
+  type: go
+revisions:
+  v0.0.1-2020.1.3:
+    licensed:
+      declared: MIT
