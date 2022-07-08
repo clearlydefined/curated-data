@@ -1,0 +1,9 @@
+coordinates:
+  name: go-systemd
+  namespace: github.com%2Fcoreos
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190321100706-95778dfbb74e:
+    licensed:
+      declared: Apache-2.0
