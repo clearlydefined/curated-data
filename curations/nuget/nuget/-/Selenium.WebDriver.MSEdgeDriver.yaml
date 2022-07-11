@@ -15,6 +15,9 @@ revisions:
   102.0.1245.14-pre:
     licensed:
       declared: OTHER
+  103.0.1264.37:
+    licensed:
+      declared: NONE
   85.0.564.41:
     licensed:
       declared: OTHER
