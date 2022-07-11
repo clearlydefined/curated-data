@@ -5,4 +5,4 @@ coordinates:
 revisions:
   38.4.0:
     licensed:
-      declared: UPL-1.0
+      declared: UPL-1.0 OR Apache-2.0
