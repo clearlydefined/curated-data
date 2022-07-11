@@ -1,0 +1,8 @@
+coordinates:
+  name: TweetinviAPI
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.3:
+    licensed:
+      declared: MIT
