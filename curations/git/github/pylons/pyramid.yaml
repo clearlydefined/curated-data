@@ -1,0 +1,9 @@
+coordinates:
+  name: pyramid
+  namespace: pylons
+  provider: github
+  type: git
+revisions:
+  c59784ba29598170207646a8d54fdc020e0ab5b0:
+    licensed:
+      declared: BSD-3-Clause-Modification
