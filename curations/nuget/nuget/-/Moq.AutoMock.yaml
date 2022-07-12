@@ -8,7 +8,7 @@ revisions:
       declared: MIT
   2.0.0-ci17:
     licensed:
-      declared: NONE
+      declared: MIT
   2.1.0:
     licensed:
       declared: MIT
