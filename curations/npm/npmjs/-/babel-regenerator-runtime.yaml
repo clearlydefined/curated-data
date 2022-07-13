@@ -1,0 +1,8 @@
+coordinates:
+  name: babel-regenerator-runtime
+  provider: npmjs
+  type: npm
+revisions:
+  6.5.0:
+    licensed:
+      declared: BSD-2-Clause
