@@ -5,4 +5,4 @@ coordinates:
 revisions:
   1.1.3-alpha:
     licensed:
-      declared: OTHER
+      declared: BSD-2-Clause
