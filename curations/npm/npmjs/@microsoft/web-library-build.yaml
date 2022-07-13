@@ -1,0 +1,9 @@
+coordinates:
+  name: web-library-build
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  4.4.35:
+    licensed:
+      declared: MIT
