@@ -6,7 +6,7 @@ coordinates:
 revisions:
   1.6.7:
     licensed:
-      declared: NOASSERTION OR EPL-2.0
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0
   2.0.1:
     licensed:
       declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0
