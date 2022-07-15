@@ -1,0 +1,9 @@
+coordinates:
+  name: cmake
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  f18f9520f140e4be44aaa8c98e74a43fc262686d:
+    licensed:
+      declared: BSD-3-Clause
