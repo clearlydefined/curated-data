@@ -1,0 +1,9 @@
+coordinates:
+  name: prophet
+  namespace: facebook
+  provider: github
+  type: git
+revisions:
+  a50da5ee2353c35d75e0bab74558bb3b49cc1005:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
