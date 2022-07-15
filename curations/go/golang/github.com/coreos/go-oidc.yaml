@@ -1,12 +1,9 @@
 coordinates:
-  name: etcd
+  name: go-oidc
   namespace: github.com%2Fcoreos
   provider: golang
   type: go
 revisions:
-  v3.3.10+incompatible:
-    licensed:
-      declared: Apache-2.0
-  v3.3.13+incompatible:
+  v2.1.0+incompatible:
     licensed:
       declared: Apache-2.0
