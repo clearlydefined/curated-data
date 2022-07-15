@@ -1,0 +1,8 @@
+coordinates:
+  name: BlazorDownloadFile
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.0.2:
+    licensed:
+      declared: MIT
