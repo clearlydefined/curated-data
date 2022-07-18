@@ -45,3 +45,6 @@ revisions:
   2.37.0:
     licensed:
       declared: GPL-2.0-only
+  2.37.1:
+    licensed:
+      declared: GPL-2.0-only
