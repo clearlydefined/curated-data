@@ -1,0 +1,8 @@
+coordinates:
+  name: RenderCore
+  provider: cocoapods
+  type: pod
+revisions:
+  '0.31':
+    licensed:
+      declared: BSD-3-Clause
