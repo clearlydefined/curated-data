@@ -1,0 +1,9 @@
+coordinates:
+  name: noto-fontface-cjk-jp
+  namespace: vladjerca
+  provider: github
+  type: git
+revisions:
+  492a703135697b1b9851312d9d05cf0dc34a6994:
+    licensed:
+      declared: OFL-1.1
