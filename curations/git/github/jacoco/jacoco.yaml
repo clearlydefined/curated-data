@@ -1,0 +1,9 @@
+coordinates:
+  name: jacoco
+  namespace: jacoco
+  provider: github
+  type: git
+revisions:
+  d19ea595a67af6f16d76b49ccdc12858c3570298:
+    licensed:
+      declared: EPL-2.0
