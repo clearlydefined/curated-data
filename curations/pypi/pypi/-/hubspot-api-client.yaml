@@ -1,0 +1,8 @@
+coordinates:
+  name: hubspot-api-client
+  provider: pypi
+  type: pypi
+revisions:
+  3.1.0:
+    licensed:
+      declared: NONE
