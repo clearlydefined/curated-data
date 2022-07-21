@@ -1,0 +1,8 @@
+coordinates:
+  name: ddtrace
+  provider: pypi
+  type: pypi
+revisions:
+  0.57.1:
+    licensed:
+      declared: 0BSD
