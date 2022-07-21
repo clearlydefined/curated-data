@@ -1,0 +1,8 @@
+coordinates:
+  name: supervisor
+  provider: pypi
+  type: pypi
+revisions:
+  4.2.4:
+    licensed:
+      declared: ZPL-2.1
