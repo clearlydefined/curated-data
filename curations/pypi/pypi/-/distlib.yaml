@@ -83,3 +83,6 @@ revisions:
   0.3.4:
     licensed:
       declared: OTHER
+  0.3.5:
+    licensed:
+      declared: PSF-2.0
