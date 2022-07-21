@@ -10,6 +10,12 @@ revisions:
   v3.3.13+incompatible:
     licensed:
       declared: Apache-2.0
+  v3.3.15+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.17+incompatible:
+    licensed:
+      declared: Apache-2.0
   v3.3.18+incompatible:
     licensed:
       declared: Apache-2.0
