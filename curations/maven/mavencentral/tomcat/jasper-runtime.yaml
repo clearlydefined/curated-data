@@ -1,0 +1,9 @@
+coordinates:
+  name: jasper-runtime
+  namespace: tomcat
+  provider: mavencentral
+  type: maven
+revisions:
+  5.5.12:
+    licensed:
+      declared: Apache-2.0
