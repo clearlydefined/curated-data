@@ -1,0 +1,9 @@
+coordinates:
+  name: hdbext
+  namespace: '@sap'
+  provider: npmjs
+  type: npm
+revisions:
+  7.6.4:
+    licensed:
+      declared: OTHER
