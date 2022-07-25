@@ -1,0 +1,9 @@
+coordinates:
+  name: yaml.v2
+  namespace: gopkg.in
+  provider: golang
+  type: go
+revisions:
+  v2.0.0-20150116202057-bef53efd0c76:
+    licensed:
+      declared: GPL-3.0-only
