@@ -1,0 +1,9 @@
+coordinates:
+  name: xsenv
+  namespace: '@sap'
+  provider: npmjs
+  type: npm
+revisions:
+  3.3.2:
+    licensed:
+      declared: OTHER
