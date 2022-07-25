@@ -1,0 +1,9 @@
+coordinates:
+  name: cds-dk
+  namespace: '@sap'
+  provider: npmjs
+  type: npm
+revisions:
+  4.9.2:
+    licensed:
+      declared: OTHER
