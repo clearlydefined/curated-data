@@ -1,0 +1,9 @@
+coordinates:
+  name: internal
+  namespace: github.com%2Fazure%2Fazure-sdk-for-go%2Fsdk
+  provider: golang
+  type: go
+revisions:
+  v0.8.1:
+    licensed:
+      declared: MIT
