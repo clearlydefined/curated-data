@@ -1,12 +1,9 @@
 coordinates:
-  name: kendo-react-listview
+  name: kendo-react-indicators
   namespace: '@progress'
   provider: npmjs
   type: npm
 revisions:
-  4.14.1:
-    licensed:
-      declared: OTHER
   5.3.0:
     licensed:
       declared: OTHER
