@@ -1,0 +1,9 @@
+coordinates:
+  name: go-json
+  namespace: github.com%2Fgoccy
+  provider: golang
+  type: go
+revisions:
+  v0.9.7:
+    licensed:
+      declared: MIT
