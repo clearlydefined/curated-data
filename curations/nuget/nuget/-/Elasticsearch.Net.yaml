@@ -189,6 +189,9 @@ revisions:
   7.3.0:
     licensed:
       declared: Apache-2.0
+  7.4.2:
+    licensed:
+      declared: Apache-2.0
   7.5.1:
     licensed:
       declared: Apache-2.0
