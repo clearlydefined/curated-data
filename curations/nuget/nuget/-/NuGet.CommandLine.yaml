@@ -42,3 +42,6 @@ revisions:
   4.9.4:
     licensed:
       declared: Apache-2.0
+  4.9.5:
+    licensed:
+      declared: Apache-2.0
