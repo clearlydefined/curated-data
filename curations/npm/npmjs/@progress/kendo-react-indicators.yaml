@@ -1,12 +1,9 @@
 coordinates:
-  name: xsenv
-  namespace: '@sap'
+  name: kendo-react-indicators
+  namespace: '@progress'
   provider: npmjs
   type: npm
 revisions:
-  3.1.0:
-    licensed:
-      declared: OTHER
-  3.3.2:
+  5.3.0:
     licensed:
       declared: OTHER

@@ -43,3 +43,6 @@ revisions:
   4.8.0:
     licensed:
       declared: OTHER
+  5.3.0:
+    licensed:
+      declared: OTHER

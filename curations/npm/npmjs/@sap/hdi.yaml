@@ -1,12 +1,9 @@
 coordinates:
-  name: xsenv
+  name: hdi
   namespace: '@sap'
   provider: npmjs
   type: npm
 revisions:
-  3.1.0:
-    licensed:
-      declared: OTHER
-  3.3.2:
+  4.3.1:
     licensed:
       declared: OTHER
