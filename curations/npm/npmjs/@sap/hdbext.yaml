@@ -1,12 +1,9 @@
 coordinates:
-  name: hana-client
+  name: hdbext
   namespace: '@sap'
   provider: npmjs
   type: npm
 revisions:
-  2.13.13:
-    licensed:
-      declared: OTHER
-  2.12.20:
+  7.6.4:
     licensed:
       declared: OTHER
