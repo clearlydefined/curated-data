@@ -1,0 +1,9 @@
+coordinates:
+  name: audit-logging
+  namespace: '@sap'
+  provider: npmjs
+  type: npm
+revisions:
+  5.5.4:
+    licensed:
+      declared: OTHER
