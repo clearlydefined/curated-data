@@ -1,0 +1,9 @@
+coordinates:
+  name: dns
+  namespace: github.com%2Fmiekg
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20161122061214-271c58e0c14f:
+    licensed:
+      declared: BSD-3-Clause
