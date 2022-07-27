@@ -9,6 +9,9 @@ revisions:
   3.13.1909:
     licensed:
       declared: MIT
+  3.16.1912:
+    licensed:
+      declared: MS-PL
   3.17.2001.2:
     licensed:
       declared: MIT
