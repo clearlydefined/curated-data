@@ -21,6 +21,9 @@ revisions:
   2.1.10:
     licensed:
       declared: OTHER
+  2.1.15:
+    licensed:
+      declared: OTHER
   2.1.4:
     licensed:
       declared: OTHER
