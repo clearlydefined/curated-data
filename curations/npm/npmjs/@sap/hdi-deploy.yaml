@@ -1,0 +1,12 @@
+coordinates:
+  name: hdi-deploy
+  namespace: '@sap'
+  provider: npmjs
+  type: npm
+revisions:
+  4.3.3:
+    licensed:
+      declared: OTHER
+  4.4.1:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: eslint-plugin-cds
+  namespace: '@sap'
+  provider: npmjs
+  type: npm
+revisions:
+  2.3.5:
+    licensed:
+      declared: OTHER

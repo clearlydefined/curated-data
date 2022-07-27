@@ -1,0 +1,9 @@
+coordinates:
+  name: nrefactory
+  namespace: xamarin
+  provider: github
+  type: git
+revisions:
+  495405a6ffb5eb6147de754b3a0ed84805e21544:
+    licensed:
+      declared: MIT

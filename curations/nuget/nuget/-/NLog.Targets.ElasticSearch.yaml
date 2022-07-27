@@ -1,0 +1,8 @@
+coordinates:
+  name: NLog.Targets.ElasticSearch
+  provider: nuget
+  type: nuget
+revisions:
+  7.4.0:
+    licensed:
+      declared: MIT

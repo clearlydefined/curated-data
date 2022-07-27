@@ -1,0 +1,8 @@
+coordinates:
+  name: OmniSharp.Extensions.LanguageProtocol.Testing
+  provider: nuget
+  type: nuget
+revisions:
+  0.18.2:
+    licensed:
+      declared: MIT

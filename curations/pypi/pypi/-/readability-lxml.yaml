@@ -1,0 +1,8 @@
+coordinates:
+  name: readability-lxml
+  provider: pypi
+  type: pypi
+revisions:
+  0.8.1:
+    licensed:
+      declared: Apache-2.0

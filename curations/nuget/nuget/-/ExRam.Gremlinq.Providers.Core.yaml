@@ -1,0 +1,8 @@
+coordinates:
+  name: ExRam.Gremlinq.Providers.Core
+  provider: nuget
+  type: nuget
+revisions:
+  10.0.0:
+    licensed:
+      declared: MIT
