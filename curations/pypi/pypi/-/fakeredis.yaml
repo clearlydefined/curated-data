@@ -1,0 +1,8 @@
+coordinates:
+  name: fakeredis
+  provider: pypi
+  type: pypi
+revisions:
+  1.8.1:
+    licensed:
+      declared: BSD-3-Clause
