@@ -5,4 +5,10 @@ coordinates:
 revisions:
   1.7.5:
     licensed:
-      declared: 0BSD
+      declared: BSD-3-Clause
+  '1.8':
+    licensed:
+      declared: BSD-3-Clause
+  1.8.1:
+    licensed:
+      declared: BSD-3-Clause

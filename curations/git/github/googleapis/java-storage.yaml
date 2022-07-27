@@ -1,0 +1,9 @@
+coordinates:
+  name: java-storage
+  namespace: googleapis
+  provider: github
+  type: git
+revisions:
+  179cde9533880a31d17a597c19698f6543d113b5:
+    licensed:
+      declared: Apache-2.0

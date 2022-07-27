@@ -1,0 +1,9 @@
+coordinates:
+  name: cds-compiler
+  namespace: '@sap'
+  provider: npmjs
+  type: npm
+revisions:
+  2.15.4:
+    licensed:
+      declared: OTHER

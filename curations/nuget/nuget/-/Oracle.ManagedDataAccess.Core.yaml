@@ -6,6 +6,9 @@ revisions:
   2.12.0-beta2:
     licensed:
       declared: OTHER
+  2.18.3:
+    licensed:
+      declared: OTHER
   2.19.101:
     licensed:
       declared: OTHER

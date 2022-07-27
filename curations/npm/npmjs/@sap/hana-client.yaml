@@ -1,0 +1,12 @@
+coordinates:
+  name: hana-client
+  namespace: '@sap'
+  provider: npmjs
+  type: npm
+revisions:
+  2.13.13:
+    licensed:
+      declared: OTHER
+  2.12.20:
+    licensed:
+      declared: OTHER

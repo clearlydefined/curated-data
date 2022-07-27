@@ -1,0 +1,9 @@
+coordinates:
+  name: svgo
+  namespace: github.com%2Fajstarks
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180226025133-644b8db467af:
+    licensed:
+      declared: CC-BY-3.0

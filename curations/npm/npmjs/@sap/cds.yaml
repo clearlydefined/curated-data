@@ -1,0 +1,9 @@
+coordinates:
+  name: cds
+  namespace: '@sap'
+  provider: npmjs
+  type: npm
+revisions:
+  5.9.8:
+    licensed:
+      declared: OTHER
