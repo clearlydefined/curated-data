@@ -1,0 +1,8 @@
+coordinates:
+  name: LibUsbDotNet
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.29:
+    licensed:
+      declared: GPL-3.0-only
