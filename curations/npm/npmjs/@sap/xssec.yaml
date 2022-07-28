@@ -1,0 +1,9 @@
+coordinates:
+  name: xssec
+  namespace: '@sap'
+  provider: npmjs
+  type: npm
+revisions:
+  3.2.13:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,8 @@
+coordinates:
+  name: js2py
+  provider: pypi
+  type: pypi
+revisions:
+  '0.71':
+    licensed:
+      declared: MIT

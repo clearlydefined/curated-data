@@ -1,0 +1,8 @@
+coordinates:
+  name: Font.Awesome
+  provider: nuget
+  type: nuget
+revisions:
+  5.15.3:
+    licensed:
+      declared: CC-BY-4.0 AND MIT AND OFL-1.1

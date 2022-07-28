@@ -12,6 +12,9 @@ revisions:
   0.1.0.38328180:
     licensed:
       declared: OTHER
+  0.9.10.post1:
+    licensed:
+      declared: OTHER
   0.9.2.post2:
     licensed:
       declared: OTHER

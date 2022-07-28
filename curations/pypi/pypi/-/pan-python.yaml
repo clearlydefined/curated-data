@@ -1,0 +1,8 @@
+coordinates:
+  name: pan-python
+  provider: pypi
+  type: pypi
+revisions:
+  0.17.0:
+    licensed:
+      declared: ISC

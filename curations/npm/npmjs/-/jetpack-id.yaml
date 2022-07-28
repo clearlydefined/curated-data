@@ -1,0 +1,8 @@
+coordinates:
+  name: jetpack-id
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    licensed:
+      declared: MPL-2.0

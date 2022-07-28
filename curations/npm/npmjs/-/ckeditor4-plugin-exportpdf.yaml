@@ -1,0 +1,8 @@
+coordinates:
+  name: ckeditor4-plugin-exportpdf
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.1:
+    licensed:
+      declared: OTHER

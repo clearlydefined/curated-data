@@ -1,0 +1,8 @@
+coordinates:
+  name: mailchimp-transactional
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.19:
+    licensed:
+      declared: OTHER
