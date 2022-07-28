@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  3.1.10:
+    licensed:
+      declared: PostgreSQL
   3.2.7:
     licensed:
       declared: PostgreSQL
