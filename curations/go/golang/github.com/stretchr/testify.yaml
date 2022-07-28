@@ -4,6 +4,9 @@ coordinates:
   provider: golang
   type: go
 revisions:
+  v0.0.0-20151208002404-e3a8ff8ce365:
+    licensed:
+      declared: MIT
   v0.0.0-20161117074351-18a02ba4a312:
     licensed:
       declared: MIT
