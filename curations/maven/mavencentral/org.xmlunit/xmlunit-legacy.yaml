@@ -1,0 +1,9 @@
+coordinates:
+  name: xmlunit-legacy
+  namespace: org.xmlunit
+  provider: mavencentral
+  type: maven
+revisions:
+  2.5.1:
+    licensed:
+      declared: BSD-3-Clause
