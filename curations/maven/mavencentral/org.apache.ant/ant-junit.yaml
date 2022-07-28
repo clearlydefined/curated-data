@@ -1,0 +1,9 @@
+coordinates:
+  name: ant-junit
+  namespace: org.apache.ant
+  provider: mavencentral
+  type: maven
+revisions:
+  1.8.1:
+    licensed:
+      declared: Apache-2.0
