@@ -4,6 +4,15 @@ coordinates:
   provider: golang
   type: go
 revisions:
+  v0.0.0-20170330071051-c0656edd0d9e:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20171007142547-342cbe0a0415:
+    licensed:
+      declared: BSD-3-Clause
+  v1.2.2-0.20190723190241-65acae22fc9d:
+    licensed:
+      declared: BSD-3-Clause
   v1.2.2-0.20190730201129-28a6bbf47e48:
     licensed:
       declared: BSD-3-Clause
