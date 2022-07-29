@@ -13,6 +13,9 @@ revisions:
   v1.2.2-0.20190723190241-65acae22fc9d:
     licensed:
       declared: BSD-3-Clause
+  v1.2.2-0.20190730201129-28a6bbf47e48:
+    licensed:
+      declared: BSD-3-Clause
   v1.3.2:
     licensed:
       declared: BSD-3-Clause
