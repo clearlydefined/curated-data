@@ -16,6 +16,9 @@ revisions:
   v0.5.0-alpha.5.0.20200520232829-54ba9589114f:
     licensed:
       declared: Apache-2.0
+  v0.5.0-alpha.5.0.20200819165624-17cef6e3e9d5:
+    licensed:
+      declared: Apache-2.0
   v0.5.0-alpha.5.0.20200910180754-dd1b699fc489:
     licensed:
       declared: Apache-2.0
