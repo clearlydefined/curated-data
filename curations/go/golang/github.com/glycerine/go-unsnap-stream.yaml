@@ -1,0 +1,9 @@
+coordinates:
+  name: go-unsnap-stream
+  namespace: github.com%2Fglycerine
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180323001048-9f0cb55181dd:
+    licensed:
+      declared: MIT
