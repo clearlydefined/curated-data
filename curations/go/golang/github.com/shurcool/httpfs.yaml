@@ -1,0 +1,9 @@
+coordinates:
+  name: httpfs
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20171119174359-809beceb2371:
+    licensed:
+      declared: MIT
