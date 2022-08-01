@@ -1,15 +1,9 @@
 coordinates:
-  name: kendo-react-pdf
+  name: kendo-react-form
   namespace: '@progress'
   provider: npmjs
   type: npm
 revisions:
-  2.11.0:
-    licensed:
-      declared: OTHER
-  4.5.0:
-    licensed:
-      declared: OTHER
   5.5.0:
     licensed:
       declared: OTHER

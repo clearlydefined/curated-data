@@ -1,0 +1,9 @@
+coordinates:
+  name: gogo
+  namespace: github.com%2Flightstep%2Flightstep-tracer-common%2Fgolang
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190605223551-bc2310a04743:
+    licensed:
+      declared: MIT
