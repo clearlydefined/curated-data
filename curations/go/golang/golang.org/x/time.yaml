@@ -1,0 +1,9 @@
+coordinates:
+  name: time
+  namespace: golang.org%2Fx
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220609170525-579cf78fd858:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
