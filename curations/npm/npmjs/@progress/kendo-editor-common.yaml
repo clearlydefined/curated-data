@@ -22,3 +22,6 @@ revisions:
   1.9.0:
     licensed:
       declared: OTHER
+  1.9.1:
+    licensed:
+      declared: OTHER
