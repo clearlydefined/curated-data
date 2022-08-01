@@ -1,0 +1,9 @@
+coordinates:
+  name: v3
+  namespace: github.com%2Fazure%2Fazure-event-hubs-go
+  provider: golang
+  type: go
+revisions:
+  v3.3.18:
+    licensed:
+      declared: MIT
