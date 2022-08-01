@@ -1,0 +1,8 @@
+coordinates:
+  name: cjs
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.11:
+    licensed:
+      declared: MIT
