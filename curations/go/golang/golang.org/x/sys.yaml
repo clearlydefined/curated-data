@@ -6,13 +6,13 @@ coordinates:
 revisions:
   v0.0.0-20211216021012-1d35b9e2eb4e:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER
   v0.0.0-20220128215802-99c3d69c2c27:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER
   v0.0.0-20220319134239-a9b59b0215f8:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER
   v0.0.0-20220610221304-9f5ed59c137d:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER
