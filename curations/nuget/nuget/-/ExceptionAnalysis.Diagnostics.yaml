@@ -1,0 +1,8 @@
+coordinates:
+  name: ExceptionAnalysis.Diagnostics
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.39796:
+    licensed:
+      declared: NONE
