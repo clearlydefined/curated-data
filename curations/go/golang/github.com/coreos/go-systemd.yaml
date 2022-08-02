@@ -10,13 +10,28 @@ revisions:
   v0.0.0-20180511133405-39ca1b05acc7:
     licensed:
       declared: Apache-2.0
+  v0.0.0-20180525142239-a4887aeaa186:
+    licensed:
+      declared: Apache-2.0
+  v0.0.0-20180705093442-88bfeed483d3:
+    licensed:
+      declared: Apache-2.0
   v0.0.0-20181012123002-c6f51f82210d:
+    licensed:
+      declared: Apache-2.0
+  v0.0.0-20181030182848-ad9ff7f9a9ff:
     licensed:
       declared: Apache-2.0
   v0.0.0-20181031085051-9002847aa142:
     licensed:
       declared: Apache-2.0
+  v0.0.0-20190212144455-93d5ec2c7f76:
+    licensed:
+      declared: Apache-2.0
   v0.0.0-20190321100706-95778dfbb74e:
+    licensed:
+      declared: Apache-2.0
+  v0.0.0-20190617083831-1652836e9bdc:
     licensed:
       declared: Apache-2.0
   v0.0.0-20190620071333-e64a0ec8b42a:
