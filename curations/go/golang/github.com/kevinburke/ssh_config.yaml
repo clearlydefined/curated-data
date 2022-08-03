@@ -6,4 +6,4 @@ coordinates:
 revisions:
   v0.0.0-20190725054713-01f96b0aa0cd:
     licensed:
-      declared: BSD-2-Clause
+      declared: MIT
