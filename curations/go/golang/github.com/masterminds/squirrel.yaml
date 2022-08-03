@@ -7,3 +7,6 @@ revisions:
   v0.0.0-20161115235646-20f192218cf5:
     licensed:
       declared: MIT
+  v1.5.3:
+    licensed:
+      declared: MIT
