@@ -35,7 +35,7 @@ revisions:
       declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.235:
     licensed:
-      declared: MIT
+      declared: GPL-2.0-only WITH GCC-exception-2.0
   1.0.252:
     licensed:
       declared: GPL-2.0-only WITH GCC-exception-2.0
