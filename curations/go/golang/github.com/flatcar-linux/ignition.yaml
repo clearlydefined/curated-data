@@ -1,0 +1,9 @@
+coordinates:
+  name: ignition
+  namespace: github.com%2Fflatcar-linux
+  provider: golang
+  type: go
+revisions:
+  v0.36.1:
+    licensed:
+      declared: Apache-2.0

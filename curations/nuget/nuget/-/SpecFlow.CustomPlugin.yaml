@@ -12,3 +12,6 @@ revisions:
   3.9.50:
     licensed:
       declared: BSD-3-Clause
+  4.0.7-beta:
+    licensed:
+      declared: BSD-3-Clause
