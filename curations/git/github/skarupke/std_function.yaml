@@ -1,0 +1,9 @@
+coordinates:
+  name: std_function
+  namespace: skarupke
+  provider: github
+  type: git
+revisions:
+  5d07b6b725c9d94d66548b98176f0c646786575c:
+    licensed:
+      declared: Unlicense

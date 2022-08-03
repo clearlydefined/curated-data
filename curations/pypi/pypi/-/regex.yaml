@@ -6,6 +6,9 @@ revisions:
   2019.11.1:
     licensed:
       declared: CNRI-Python
+  2019.12.20:
+    licensed:
+      declared: CNRI-Python
   2020.1.8:
     licensed:
       declared: CNRI-Python
@@ -97,5 +100,11 @@ revisions:
     licensed:
       declared: Apache-2.0
   2022.3.2:
+    licensed:
+      declared: Apache-2.0
+  2022.7.25:
+    licensed:
+      declared: Apache-2.0
+  2022.7.9:
     licensed:
       declared: Apache-2.0

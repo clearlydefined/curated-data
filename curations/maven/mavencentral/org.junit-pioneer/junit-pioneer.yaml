@@ -1,0 +1,9 @@
+coordinates:
+  name: junit-pioneer
+  namespace: org.junit-pioneer
+  provider: mavencentral
+  type: maven
+revisions:
+  0.6.0:
+    licensed:
+      declared: EPL-2.0

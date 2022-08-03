@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-context-support
+  namespace: org.springframework
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  5.3.21:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: logfmt
+  namespace: github.com%2Fkr
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20140226030751-b84e30acd515:
+    licensed:
+      declared: MIT

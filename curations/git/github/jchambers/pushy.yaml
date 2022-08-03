@@ -1,0 +1,9 @@
+coordinates:
+  name: pushy
+  namespace: jchambers
+  provider: github
+  type: git
+revisions:
+  0bd0752e901a1724846b1feba8287e4fa2feb912:
+    licensed:
+      declared: MIT

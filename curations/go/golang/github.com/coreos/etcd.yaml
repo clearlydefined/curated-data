@@ -1,0 +1,51 @@
+coordinates:
+  name: etcd
+  namespace: github.com%2Fcoreos
+  provider: golang
+  type: go
+revisions:
+  v0.5.0-alpha.5:
+    licensed:
+      declared: Apache-2.0
+  v3.1.11+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.1.9+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.2.13+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.10+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.13+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.15+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.17+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.18+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.19+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.20+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.22+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.25+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.27+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.9+incompatible:
+    licensed:
+      declared: Apache-2.0

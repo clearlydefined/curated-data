@@ -1,0 +1,9 @@
+coordinates:
+  name: rubyzip
+  namespace: rubyzip
+  provider: github
+  type: git
+revisions:
+  0b791046d4aa632d1857eab6f415afa041077c95:
+    licensed:
+      declared: BSD-2-Clause OR Ruby

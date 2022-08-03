@@ -1,0 +1,9 @@
+coordinates:
+  name: googleapis
+  namespace: github.com%2Fgogo
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180223154316-0cd9801be74a:
+    licensed:
+      declared: Apache-2.0

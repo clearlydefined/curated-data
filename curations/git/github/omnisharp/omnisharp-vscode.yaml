@@ -1,0 +1,9 @@
+coordinates:
+  name: omnisharp-vscode
+  namespace: omnisharp
+  provider: github
+  type: git
+revisions:
+  07a9cf6552fbfb8ca730fdfa99a4ce46f97c13fb:
+    licensed:
+      declared: MIT

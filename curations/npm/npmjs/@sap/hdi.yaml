@@ -1,0 +1,9 @@
+coordinates:
+  name: hdi
+  namespace: '@sap'
+  provider: npmjs
+  type: npm
+revisions:
+  4.3.1:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: pat
+  namespace: github.com%2Fbmizerany
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170815010413-6226ea591a40:
+    licensed:
+      declared: MIT

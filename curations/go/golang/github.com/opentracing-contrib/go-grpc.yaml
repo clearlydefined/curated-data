@@ -1,0 +1,9 @@
+coordinates:
+  name: go-grpc
+  namespace: github.com%2Fopentracing-contrib
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180928155321-4b5a12d3ff02:
+    licensed:
+      declared: Apache-2.0

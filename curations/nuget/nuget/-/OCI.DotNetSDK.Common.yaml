@@ -1,0 +1,8 @@
+coordinates:
+  name: OCI.DotNetSDK.Common
+  provider: nuget
+  type: nuget
+revisions:
+  38.4.0:
+    licensed:
+      declared: UPL-1.0 OR Apache-2.0

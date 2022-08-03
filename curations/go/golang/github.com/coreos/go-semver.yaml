@@ -1,0 +1,15 @@
+coordinates:
+  name: go-semver
+  namespace: github.com%2Fcoreos
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180108230905-e214231b295a:
+    licensed:
+      declared: Apache-2.0
+  v0.2.1-0.20180108230905-e214231b295a:
+    licensed:
+      declared: Apache-2.0
+  v0.3.0:
+    licensed:
+      declared: Apache-2.0

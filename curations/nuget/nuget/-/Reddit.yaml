@@ -1,0 +1,11 @@
+coordinates:
+  name: Reddit
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.0:
+    licensed:
+      declared: MIT
+  1.5.2:
+    licensed:
+      declared: MIT

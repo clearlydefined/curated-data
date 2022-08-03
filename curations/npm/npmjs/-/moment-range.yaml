@@ -1,0 +1,8 @@
+coordinates:
+  name: moment-range
+  provider: npmjs
+  type: npm
+revisions:
+  2.2.0:
+    licensed:
+      declared: Unlicense

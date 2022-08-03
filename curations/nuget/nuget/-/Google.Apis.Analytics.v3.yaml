@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Apis.Analytics.v3
+  provider: nuget
+  type: nuget
+revisions:
+  1.42.0.1720:
+    licensed:
+      declared: Apache-2.0

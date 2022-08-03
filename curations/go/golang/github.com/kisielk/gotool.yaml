@@ -1,0 +1,12 @@
+coordinates:
+  name: gotool
+  namespace: github.com%2Fkisielk
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20161130080628-0de1eaf82fa3:
+    licensed:
+      declared: MIT
+  v1.0.0:
+    licensed:
+      declared: MIT

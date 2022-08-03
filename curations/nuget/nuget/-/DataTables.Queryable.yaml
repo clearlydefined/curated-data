@@ -1,0 +1,8 @@
+coordinates:
+  name: DataTables.Queryable
+  provider: nuget
+  type: nuget
+revisions:
+  1.7.3:
+    licensed:
+      declared: MIT

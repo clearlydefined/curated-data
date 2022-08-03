@@ -1,0 +1,9 @@
+coordinates:
+  name: mman-win32
+  namespace: alitrack
+  provider: github
+  type: git
+revisions:
+  2d1c576e62b99e85d99407e1a88794c6e44c3310:
+    licensed:
+      declared: MIT

@@ -108,10 +108,16 @@ revisions:
   1.11.9:
     licensed:
       declared: MIT
+  1.4.3:
+    licensed:
+      declared: MS-PL
   1.4.6:
     licensed:
       declared: MS-PL
   1.4.9:
+    licensed:
+      declared: MS-PL
+  1.4.9.3:
     licensed:
       declared: MS-PL
   1.4.9.4:

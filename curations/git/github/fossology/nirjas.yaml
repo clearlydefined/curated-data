@@ -1,0 +1,18 @@
+coordinates:
+  name: nirjas
+  namespace: fossology
+  provider: github
+  type: git
+revisions:
+  145eb84d90e398bf0c7812a3400c7e23201efaff:
+    files:
+      - license: LGPL-2.1-or-later
+        path: Dockerfile
+      - license: LGPL-2.1-or-later
+        path: MANIFEST.in
+      - license: LGPL-2.1-or-later
+        path: setup.py
+      - license: LGPL-2.1-or-later
+        path: testScript.py
+    licensed:
+      declared: LGPL-2.1-or-later

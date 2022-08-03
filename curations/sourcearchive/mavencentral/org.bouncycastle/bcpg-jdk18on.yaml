@@ -1,0 +1,24 @@
+coordinates:
+  name: bcpg-jdk18on
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  '1.71':
+    described:
+      facets:
+        dev:
+          - 'https://github.com/bcgit/bc-java/tree/master/pg/src/main/java'
+        doc:
+          - 'https://github.com/bcgit/bc-java/tree/master/docs'
+        tests:
+          - 'https://github.com/bcgit/bc-java/tree/master/pg/src/test/java'
+      sourceLocation:
+        name: bc-java
+        namespace: bcgit
+        provider: github
+        revision: 1349bb03cff0b0023ef3247690410441f33b05b0
+        type: git
+        url: 'https://github.com/bcgit/bc-java/commit/1349bb03cff0b0023ef3247690410441f33b05b0'
+    licensed:
+      declared: MIT

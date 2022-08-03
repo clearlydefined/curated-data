@@ -1,0 +1,8 @@
+coordinates:
+  name: Dbs.Signed3.Nito.Disposables
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0:
+    licensed:
+      declared: MIT

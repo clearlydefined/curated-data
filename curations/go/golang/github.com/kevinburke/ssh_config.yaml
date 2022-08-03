@@ -1,0 +1,9 @@
+coordinates:
+  name: ssh_config
+  namespace: github.com%2Fkevinburke
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190725054713-01f96b0aa0cd:
+    licensed:
+      declared: MIT

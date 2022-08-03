@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Ads.GoogleAds
+  provider: nuget
+  type: nuget
+revisions:
+  12.1.0:
+    licensed:
+      declared: Apache-2.0

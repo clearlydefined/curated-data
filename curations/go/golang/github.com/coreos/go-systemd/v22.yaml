@@ -1,0 +1,21 @@
+coordinates:
+  name: v22
+  namespace: github.com%2Fcoreos%2Fgo-systemd
+  provider: golang
+  type: go
+revisions:
+  v22.0.0:
+    licensed:
+      declared: Apache-2.0
+  v22.1.0:
+    licensed:
+      declared: Apache-2.0
+  v22.3.1:
+    licensed:
+      declared: Apache-2.0
+  v22.3.2:
+    licensed:
+      declared: Apache-2.0
+  v22.3.3-0.20220203105225-a9a7ef127534:
+    licensed:
+      declared: Apache-2.0

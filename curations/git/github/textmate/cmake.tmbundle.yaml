@@ -1,0 +1,9 @@
+coordinates:
+  name: cmake.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  1421c6ba47ba697742d615e92852cfe106e0879e:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,8 @@
+coordinates:
+  name: Intel.SGX.SDK
+  provider: nuget
+  type: nuget
+revisions:
+  2.12.103.1:
+    licensed:
+      declared: OTHER

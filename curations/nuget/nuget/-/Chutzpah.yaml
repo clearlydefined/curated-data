@@ -21,6 +21,9 @@ revisions:
   4.4.12:
     licensed:
       declared: Apache-2.0
+  4.4.13:
+    licensed:
+      declared: Apache-2.0
   4.4.8:
     licensed:
       declared: Apache-2.0

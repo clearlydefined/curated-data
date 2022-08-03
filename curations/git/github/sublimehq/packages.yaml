@@ -1,0 +1,9 @@
+coordinates:
+  name: packages
+  namespace: sublimehq
+  provider: github
+  type: git
+revisions:
+  f6f29b898b3aef89cc77d3f9c80942aa299dc466:
+    licensed:
+      declared: OTHER

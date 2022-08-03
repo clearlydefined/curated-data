@@ -1,0 +1,9 @@
+coordinates:
+  name: python.tmbundle
+  namespace: textmate
+  provider: github
+  type: git
+revisions:
+  02dbf8b59c13419181efdaf41e885b501f186a3e:
+    licensed:
+      declared: OTHER

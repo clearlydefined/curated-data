@@ -1,0 +1,9 @@
+coordinates:
+  name: api
+  namespace: k8s.io
+  provider: golang
+  type: go
+revisions:
+  v0.21.10:
+    licensed:
+      declared: Apache-2.0

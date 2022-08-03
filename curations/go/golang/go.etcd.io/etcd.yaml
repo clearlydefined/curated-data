@@ -4,19 +4,67 @@ coordinates:
   provider: golang
   type: go
 revisions:
+  v0.0.0-20190412021913-f29b1ada1971:
+    licensed:
+      declared: Apache-2.0
   v0.0.0-20190709142735-eb7dd97135a5:
     licensed:
       declared: Apache-2.0
   v0.0.0-20191023171146-3cf2f69b5738:
     licensed:
       declared: Apache-2.0
+  v0.0.0-20200401174654-e694b7bb0875:
+    licensed:
+      declared: Apache-2.0
+  v0.0.0-20200410171415-59f5fb25a533:
+    licensed:
+      declared: Apache-2.0
   v0.0.0-20200513171258-e048e166ab9c:
+    licensed:
+      declared: Apache-2.0
+  v0.0.0-20200520232829-54ba9589114f:
+    licensed:
+      declared: Apache-2.0
+  v0.5.0-alpha.5.0.20190917205325-a14579fbfb1a:
+    licensed:
+      declared: Apache-2.0
+  v0.5.0-alpha.5.0.20191023171146-3cf2f69b5738:
+    licensed:
+      declared: Apache-2.0
+  v0.5.0-alpha.5.0.20200218102753-4258cdd2efdf:
+    licensed:
+      declared: Apache-2.0
+  v0.5.0-alpha.5.0.20200306183522-221f0cc107cb:
+    licensed:
+      declared: Apache-2.0
+  v0.5.0-alpha.5.0.20200401174654-e694b7bb0875:
+    licensed:
+      declared: Apache-2.0
+  v0.5.0-alpha.5.0.20200425165423-262c93980547:
     licensed:
       declared: Apache-2.0
   v0.5.0-alpha.5.0.20200520232829-54ba9589114f:
     licensed:
       declared: Apache-2.0
+  v0.5.0-alpha.5.0.20200819165624-17cef6e3e9d5:
+    licensed:
+      declared: Apache-2.0
   v0.5.0-alpha.5.0.20200910180754-dd1b699fc489:
+    licensed:
+      declared: Apache-2.0
+  v0.5.0-alpha.5.0.20201125193152-8a03d2e9614b:
+    licensed:
+      declared: Apache-2.0
+  v0.5.0-alpha.5.0.20220506225933-5505d7a95ba0:
+    licensed:
+      declared: Apache-2.0
+  v3.3.13+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.18+incompatible:
+    licensed:
+      declared: Apache-2.0
+  v3.3.22+incompatible:
     licensed:
       declared: Apache-2.0
   v3.3.25+incompatible:

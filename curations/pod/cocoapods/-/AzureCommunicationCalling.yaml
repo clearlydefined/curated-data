@@ -1,0 +1,8 @@
+coordinates:
+  name: AzureCommunicationCalling
+  provider: cocoapods
+  type: pod
+revisions:
+  2.0.1-beta.1:
+    licensed:
+      declared: OTHER

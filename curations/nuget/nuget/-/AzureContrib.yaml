@@ -1,0 +1,8 @@
+coordinates:
+  name: AzureContrib
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.0.1:
+    licensed:
+      declared: MS-PL

@@ -1,0 +1,24 @@
+coordinates:
+  name: go-vcr
+  namespace: github.com%2Fdnaeon
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180814043457-aafff18a5cc2:
+    licensed:
+      declared: BSD-2-Clause
+  v0.0.0-20180920040454-5637cf3d8a31:
+    licensed:
+      declared: BSD-2-Clause
+  v1.0.0:
+    licensed:
+      declared: BSD-2-Clause
+  v1.0.1:
+    licensed:
+      declared: BSD-2-Clause
+  v1.1.0:
+    licensed:
+      declared: BSD-2-Clause
+  v1.2.0:
+    licensed:
+      declared: BSD-2-Clause
