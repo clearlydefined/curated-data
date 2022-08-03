@@ -27,7 +27,7 @@ revisions:
       declared: BSD-3-Clause
   0.10.9.5:
     licensed:
-      declared: 0BSD
+      declared: BSD-3-Clause
   0.8.2.1:
     licensed:
       declared: BSD-2-Clause
