@@ -1,0 +1,8 @@
+coordinates:
+  name: wsgiref
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.2:
+    licensed:
+      declared: PSF-2.0 OR ZPL-1.1
