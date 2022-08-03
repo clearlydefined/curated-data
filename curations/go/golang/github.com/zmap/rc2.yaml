@@ -1,0 +1,9 @@
+coordinates:
+  name: rc2
+  namespace: github.com%2Fzmap
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20131011165748-24b9757f5521:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: fargo
+  namespace: github.com%2Fhudl
+  provider: golang
+  type: go
+revisions:
+  v1.3.0:
+    licensed:
+      declared: MIT

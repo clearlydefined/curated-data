@@ -1,0 +1,9 @@
+coordinates:
+  name: line-protocol
+  namespace: github.com%2Finfluxdata
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180522152040-32c6aa80de5e:
+    licensed:
+      declared: MIT

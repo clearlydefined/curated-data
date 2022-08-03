@@ -1,0 +1,9 @@
+coordinates:
+  name: handy
+  namespace: github.com%2Fstreadway
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190108123426-d5acb3125c2a:
+    licensed:
+      declared: BSD-2-Clause

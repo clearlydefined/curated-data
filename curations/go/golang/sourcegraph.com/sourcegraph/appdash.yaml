@@ -1,0 +1,9 @@
+coordinates:
+  name: appdash
+  namespace: sourcegraph.com%2Fsourcegraph
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190731080439-ebfcffb1b5c0:
+    licensed:
+      declared: MIT
