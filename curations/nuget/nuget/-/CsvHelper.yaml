@@ -38,7 +38,7 @@ revisions:
       declared: MS-PL OR Apache-2.0
   2.15.0.2:
     licensed:
-      declared: MS-PL
+      declared: MS-PL OR Apache-2.0
   2.16.0:
     licensed:
       declared: MS-PL OR Apache-2.0
