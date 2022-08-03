@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-react-form
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  5.5.0:
+    licensed:
+      declared: OTHER

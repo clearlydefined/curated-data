@@ -1,0 +1,9 @@
+coordinates:
+  name: msgraph-sdk-go-core
+  namespace: github.com%2Fmicrosoftgraph
+  provider: golang
+  type: go
+revisions:
+  v0.20.0:
+    licensed:
+      declared: MIT

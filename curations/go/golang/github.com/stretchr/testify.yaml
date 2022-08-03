@@ -7,6 +7,9 @@ revisions:
   v0.0.0-20151208002404-e3a8ff8ce365:
     licensed:
       declared: MIT
+  v0.0.0-20160615092844-d77da356e56a:
+    licensed:
+      declared: MIT
   v0.0.0-20161117074351-18a02ba4a312:
     licensed:
       declared: MIT
@@ -16,7 +19,22 @@ revisions:
   v0.0.0-20180303142811-b89eecf5ca5d:
     licensed:
       declared: MIT
+  v1.1.4-0.20160524234229-8d64eb7173c7:
+    licensed:
+      declared: MIT
   v1.1.4-0.20160615092844-d77da356e56a:
+    licensed:
+      declared: MIT
+  v1.1.5-0.20160925220609-976c720a22c8:
+    licensed:
+      declared: MIT
+  v1.1.5-0.20170601210322-f6abca593680:
+    licensed:
+      declared: MIT
+  v1.2.3-0.20181014000028-04af85275a5c:
+    licensed:
+      declared: MIT
+  v1.2.3-0.20181115233458-8019298d9fa5:
     licensed:
       declared: MIT
   v1.7.1:

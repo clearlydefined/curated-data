@@ -1,0 +1,8 @@
+coordinates:
+  name: Serilog.Sinks.Logz.Io
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.0:
+    licensed:
+      declared: Apache-2.0
