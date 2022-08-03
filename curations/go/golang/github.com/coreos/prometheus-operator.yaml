@@ -7,3 +7,15 @@ revisions:
   v0.29.0:
     licensed:
       declared: Apache-2.0
+  v0.30.0:
+    licensed:
+      declared: Apache-2.0
+  v0.34.0:
+    licensed:
+      declared: Apache-2.0
+  v0.38.0:
+    licensed:
+      declared: Apache-2.0
+  v0.38.1-0.20200424145508-7e176fda06cc:
+    licensed:
+      declared: Apache-2.0
