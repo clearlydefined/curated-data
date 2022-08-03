@@ -6,4 +6,4 @@ coordinates:
 revisions:
   v0.0.0-20170609003504-e2365dfdc4a0:
     licensed:
-      declared: GPL-2.0-only
+      declared: FTL OR GPL-2.0-or-later
