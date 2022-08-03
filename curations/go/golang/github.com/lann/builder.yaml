@@ -1,0 +1,9 @@
+coordinates:
+  name: builder
+  namespace: github.com%2Flann
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20150808151131-f22ce00fd939:
+    licensed:
+      declared: MIT
