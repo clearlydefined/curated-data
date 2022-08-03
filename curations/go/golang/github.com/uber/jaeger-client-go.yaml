@@ -25,6 +25,9 @@ revisions:
   v2.27.0+incompatible:
     licensed:
       declared: Apache-2.0
+  v2.28.0+incompatible:
+    licensed:
+      declared: Apache-2.0
   v2.30.0+incompatible:
     licensed:
       declared: Apache-2.0
