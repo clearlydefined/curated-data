@@ -4,6 +4,18 @@ coordinates:
   provider: golang
   type: go
 revisions:
+  v1.2.1:
+    licensed:
+      declared: Apache-2.0
+  v1.5.0:
+    licensed:
+      declared: Apache-2.0
+  v1.5.1-0.20180615202729-a51202d6f4a7:
+    licensed:
+      declared: Apache-2.0
+  v2.0.0+incompatible:
+    licensed:
+      declared: Apache-2.0
   v2.4.1+incompatible:
     licensed:
       declared: Apache-2.0
