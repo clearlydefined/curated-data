@@ -1,0 +1,9 @@
+coordinates:
+  name: gitea
+  namespace: code.gitea.io
+  provider: golang
+  type: go
+revisions:
+  v1.9.6:
+    licensed:
+      declared: MIT
