@@ -9,6 +9,9 @@ revisions:
   2.14.1:
     licensed:
       declared: GPL-2.0-only
+  2.14.5:
+    licensed:
+      declared: GPL-2.0-or-later
   2.3.0:
     files:
       - attributions:
