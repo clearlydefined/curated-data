@@ -1,0 +1,9 @@
+coordinates:
+  name: fuse
+  namespace: bazil.org
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20160811212531-371fbbdaa898:
+    licensed:
+      declared: BSD-3-Clause
