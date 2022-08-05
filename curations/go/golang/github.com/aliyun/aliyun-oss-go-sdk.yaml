@@ -13,6 +13,9 @@ revisions:
   v0.0.0-20190125095113-2b29687e15f2:
     licensed:
       declared: MIT
+  v0.0.0-20190307165228-86c17b95fcd5:
+    licensed:
+      declared: MIT
   v2.0.4+incompatible:
     licensed:
       declared: MIT
