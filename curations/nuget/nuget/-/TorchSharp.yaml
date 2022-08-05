@@ -1,0 +1,8 @@
+coordinates:
+  name: TorchSharp
+  provider: nuget
+  type: nuget
+revisions:
+  0.96.7:
+    licensed:
+      declared: MIT
