@@ -22,3 +22,6 @@ revisions:
   v0.8.1:
     licensed:
       declared: MIT
+  v0.8.2:
+    licensed:
+      declared: MIT
