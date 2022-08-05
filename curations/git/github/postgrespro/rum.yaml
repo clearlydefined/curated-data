@@ -1,0 +1,9 @@
+coordinates:
+  name: rum
+  namespace: postgrespro
+  provider: github
+  type: git
+revisions:
+  2dd38404955b2c31195c45c733db06600f7eef9e:
+    licensed:
+      declared: MIT
