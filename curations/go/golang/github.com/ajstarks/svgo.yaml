@@ -9,7 +9,7 @@ revisions:
       declared: CC-BY-3.0
   v0.0.0-20180830174826-7338bd80e790:
     licensed:
-      declared: CC-BY-4.0
+      declared: CC-BY-3.0
   v0.0.0-20181006003313-6ce6a3bcf6cd:
     licensed:
       declared: CC-BY-3.0
@@ -21,4 +21,4 @@ revisions:
       declared: CC-BY-4.0
   v0.0.0-20211024235047-1546f124cd8b:
     licensed:
-      declared: CC-BY-3.0
+      declared: CC-BY-4.0
