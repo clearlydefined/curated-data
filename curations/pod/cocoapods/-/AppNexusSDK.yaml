@@ -1,0 +1,8 @@
+coordinates:
+  name: AppNexusSDK
+  provider: cocoapods
+  type: pod
+revisions:
+  7.22.0:
+    licensed:
+      declared: Apache-2.0
