@@ -1,0 +1,8 @@
+coordinates:
+  name: OpenXMLSDK-MOT
+  provider: nuget
+  type: nuget
+revisions:
+  2.6.0:
+    licensed:
+      declared: MIT
