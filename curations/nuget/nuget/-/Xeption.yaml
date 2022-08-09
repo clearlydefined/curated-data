@@ -1,0 +1,8 @@
+coordinates:
+  name: Xeption
+  provider: nuget
+  type: nuget
+revisions:
+  1.7.0:
+    licensed:
+      declared: MIT
