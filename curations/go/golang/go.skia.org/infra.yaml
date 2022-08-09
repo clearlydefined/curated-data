@@ -1,0 +1,261 @@
+coordinates:
+  name: infra
+  namespace: go.skia.org
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20200223052609-9e6368587a01:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200225012104-82077894b657:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200226000710-532c9d2d182b:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200227033917-1a95bf293e9f:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200228015416-23ac381019e1:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200229015409-9e1ef871a139:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200302052213-5f2f3e5ddd66:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200302224149-d77f800809f0:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200303171800-bc9b69cde77b:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200426051548-d5561681c574:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200427173615-ee504c19b426:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200428170256-e70b0c95609d:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200429221357-e24595334f06:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200430185047-3ccc19b46660:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200501203151-eb0a288b018e:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200502103800-94e8762baaf7:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200503052148-83859334b074:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200504172459-3a2f532f7f6a:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200505190403-4f948f03bc1d:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200506175242-54a7277fb8ba:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200507202525-244ffab1cfff:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200508202611-ae56b6e7b85d:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200509052705-4fef3ca31a64:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200510051916-c510af98b2e2:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200511211207-95f3089bc4cc:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200512194548-951341df22eb:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200513214741-b48b7541705b:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200514203654-68437497a177:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200515201715-a7a36bfa3904:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200517003836-a97023535be0:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200517051906-a6ca5c350a27:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200518163317-d13378041764:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200519192145-3e17804945b5:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200521012806-adfecbf4d12b:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200521174639-5a4c3706743c:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200522021524-374ac39a37f3:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200524051606-dbb4c0a8b550:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200526214647-c7b51d93a48c:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200527211736-fd92f6d87408:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200529025909-067ee0d9cae2:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200529222451-b641a303256d:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200530052006-537aafa16b0c:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200531235413-49ee856d9221:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200601172913-661352160768:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200602205122-4b2f488e41f2:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200603202721-a6e610f118bb:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200604211856-3c19627e244c:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200605163027-b867fb6b6232:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200607051952-f5b0a6c1ff19:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200616030136-5b68b7891c11:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200616185547-28019d8c7381:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200620150920-23b7fda631d5:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200624212929-6c6f866a7d58:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200701232717-f65049e8d199:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200706211051-88e733d409bf:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200708134745-fcce5bb3db4b:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200709171759-d743a7d95130:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200709211939-9acc96b0753c:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200713190753-d1daff06b038:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200716131439-4244d8caa80b:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200720192647-60abe5858d25:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200722213434-4161883552b4:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20200725035726-922d9605db0b:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201020104011-d5d53db1a256:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201020123031-a17e5c55b742:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201030163508-003d90397045:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201116224347-1e7e10cc955e:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201117202645-45feb3444957:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201119140725-137eb7f64dfc:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201121180522-93bdbc7a75f1:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201124180436-e5c4a9cfc497:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201207203943-872c83842f7f:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201208190233-5ff1df349fce:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201211124251-12d4265d9508:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201217132534-85da13d8d0c9:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201217154708-25854a97e536:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20201221193112-e9c390189fa6:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20210225173621-2d381258bc7f:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20210826161750-abfa88005ea2:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20210902145641-d491ce07b3ec:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20210907172252-301711e495a6:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20210907181340-7a7b1124f8fa:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20210907185953-86c4d2f6fc33:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20210910143316-141caab7391e:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20210913170701-f020cec45197:
+    licensed:
+      declared: BSD-3-Clause
