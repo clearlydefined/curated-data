@@ -6,6 +6,10 @@ revisions:
   2.11.5:
     licensed:
       declared: LGPL-2.1-only
+  2.11.7:
+    files:
+      - license: LGPL-2.1-or-later
+        path: astroid-2.11.7/PKG-INFO
   2.3.1:
     licensed:
       declared: LGPL-2.1-only
