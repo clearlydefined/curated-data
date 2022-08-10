@@ -5,10 +5,13 @@ coordinates:
 revisions:
   2.11.1:
     licensed:
-      declared: GPL-2.0-only
+      declared: GPL-2.0-or-later
   2.14.1:
     licensed:
-      declared: GPL-2.0-only
+      declared: GPL-2.0-or-later
+  2.14.5:
+    licensed:
+      declared: GPL-2.0-or-later
   2.3.0:
     files:
       - attributions:
