@@ -1,0 +1,9 @@
+coordinates:
+  name: go-json
+  namespace: github.com%2Fajeddeloh
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20200220154158-5ae607161559:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
