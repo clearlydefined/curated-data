@@ -1,0 +1,12 @@
+coordinates:
+  name: virtsock
+  namespace: github.com%2Flinuxkit
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180830132707-8e79449dea07:
+    licensed:
+      declared: Apache-2.0
+  v0.0.0-20201010232012-f8cee7dfc7a3:
+    licensed:
+      declared: Apache-2.0

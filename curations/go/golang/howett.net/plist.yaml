@@ -1,0 +1,12 @@
+coordinates:
+  name: plist
+  namespace: howett.net
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181124034731-591f970eefbb:
+    licensed:
+      declared: BSD-2-Clause-Views
+  v0.0.0-20201203080718-1454fab16a06:
+    licensed:
+      declared: BSD-2-Clause-Views

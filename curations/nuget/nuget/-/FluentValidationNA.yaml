@@ -1,0 +1,8 @@
+coordinates:
+  name: FluentValidationNA
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.16:
+    licensed:
+      declared: NONE

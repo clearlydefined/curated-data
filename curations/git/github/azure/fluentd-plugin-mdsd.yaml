@@ -1,0 +1,9 @@
+coordinates:
+  name: fluentd-plugin-mdsd
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  7b84ec234087e95c3903fc22477f02631c3a3e56:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: jquery-migrate
+  namespace: jquery
+  provider: github
+  type: git
+revisions:
+  e692fe75efebabc05b2354f15bae9704d747d636:
+    licensed:
+      declared: MIT

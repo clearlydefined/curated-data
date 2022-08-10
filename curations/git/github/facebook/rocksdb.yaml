@@ -10,6 +10,9 @@ revisions:
   27e593fbe10efa5a562ca79b1939ffb69d25163f:
     licensed:
       declared: Apache-2.0 OR GPL-2.0-only
+  51b540921dd7495c9cf2265eb58942dad1f2ef72:
+    licensed:
+      declared: Apache-2.0 OR GPL-2.0-only
   641fae60f63619ed5d0c9d9e4c4ea5a0ffa3e253:
     files:
       - attributions:

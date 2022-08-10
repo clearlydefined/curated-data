@@ -1,0 +1,15 @@
+coordinates:
+  name: vfsgen
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180121065927-ffb13db8def0:
+    licensed:
+      declared: MIT
+  v0.0.0-20180711163814-62bca832be04:
+    licensed:
+      declared: MIT
+  v0.0.0-20180825020608-02ddb050ef6b:
+    licensed:
+      declared: MIT

@@ -1,0 +1,12 @@
+coordinates:
+  name: grpc-opentracing
+  namespace: github.com%2Fgrpc-ecosystem
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20171214222146-0e7658f8ee99:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20180507213350-8e809c8a8645:
+    licensed:
+      declared: BSD-3-Clause AND OTHER

@@ -1,0 +1,24 @@
+coordinates:
+  name: cpuid
+  namespace: github.com%2Fklauspost
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180405133222-e7e905edc00e:
+    licensed:
+      declared: MIT
+  v1.2.0:
+    licensed:
+      declared: MIT
+  v1.2.1:
+    licensed:
+      declared: MIT
+  v1.2.3:
+    licensed:
+      declared: MIT
+  v1.2.5:
+    licensed:
+      declared: MIT
+  v1.3.1:
+    licensed:
+      declared: MIT

@@ -1,0 +1,21 @@
+coordinates:
+  name: goveralls
+  namespace: github.com%2Fmattn
+  provider: golang
+  type: go
+revisions:
+  v0.0.2:
+    licensed:
+      declared: MIT
+  v0.0.6:
+    licensed:
+      declared: MIT
+  v0.0.7:
+    licensed:
+      declared: MIT
+  v0.0.8:
+    licensed:
+      declared: MIT
+  v0.0.9:
+    licensed:
+      declared: MIT

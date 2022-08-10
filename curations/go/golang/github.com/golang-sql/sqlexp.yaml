@@ -1,0 +1,12 @@
+coordinates:
+  name: sqlexp
+  namespace: github.com%2Fgolang-sql
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170517235910-f1bb20e5a188:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.1.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
