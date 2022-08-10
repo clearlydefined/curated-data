@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  '1.14':
+    licensed:
+      declared: ISC
   '1.8':
     licensed:
       declared: ISC
