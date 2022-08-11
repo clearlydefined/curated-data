@@ -1,0 +1,9 @@
+coordinates:
+  name: msoleps
+  namespace: github.com%2Frichardlehane
+  provider: golang
+  type: go
+revisions:
+  v1.0.1:
+    licensed:
+      declared: Apache-2.0
