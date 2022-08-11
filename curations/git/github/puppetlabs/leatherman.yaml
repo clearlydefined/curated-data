@@ -1,0 +1,9 @@
+coordinates:
+  name: leatherman
+  namespace: puppetlabs
+  provider: github
+  type: git
+revisions:
+  5a63a79f8358647935a93b5fb251688df5a8bf9c:
+    licensed:
+      declared: Apache-2.0
