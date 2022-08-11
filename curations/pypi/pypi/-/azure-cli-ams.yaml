@@ -1,0 +1,8 @@
+coordinates:
+  name: azure-cli-ams
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.1:
+    licensed:
+      declared: MIT
