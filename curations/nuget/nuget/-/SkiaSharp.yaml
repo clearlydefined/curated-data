@@ -12,3 +12,6 @@ revisions:
   1.68.1:
     licensed:
       declared: MIT
+  2.88.1-preview.91:
+    licensed:
+      declared: MIT

@@ -1,11 +1,8 @@
 coordinates:
-  name: Xeption
+  name: SkiaSharp.NativeAssets.Android
   provider: nuget
   type: nuget
 revisions:
-  1.7.0:
-    licensed:
-      declared: MIT
-  2.2.0:
+  2.88.1-preview.91:
     licensed:
       declared: MIT
