@@ -1,11 +1,8 @@
 coordinates:
-  name: ADotNet
+  name: SkiaSharp.NativeAssets.iOS
   provider: nuget
   type: nuget
 revisions:
-  1.2.0:
-    licensed:
-      declared: MIT
-  2.0.5:
+  2.88.1-preview.91:
     licensed:
       declared: MIT

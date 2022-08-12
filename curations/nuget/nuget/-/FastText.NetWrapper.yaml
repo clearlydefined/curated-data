@@ -1,11 +1,8 @@
 coordinates:
-  name: ADotNet
+  name: FastText.NetWrapper
   provider: nuget
   type: nuget
 revisions:
-  1.2.0:
-    licensed:
-      declared: MIT
-  2.0.5:
+  1.2.4:
     licensed:
       declared: MIT

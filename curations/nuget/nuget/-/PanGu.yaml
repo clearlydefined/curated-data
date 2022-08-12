@@ -1,11 +1,8 @@
 coordinates:
-  name: FastText.Native.MacOs
+  name: PanGu
   provider: nuget
   type: nuget
 revisions:
-  1.0.110:
-    licensed:
-      declared: NONE
-  1.0.74:
+  2.3.1:
     licensed:
       declared: NONE
