@@ -1,0 +1,9 @@
+coordinates:
+  name: fluent-plugin-json-transform
+  namespace: mjourard
+  provider: github
+  type: git
+revisions:
+  6a05884c727a8889089cc75ef905c42a5f0dd866:
+    licensed:
+      declared: MIT
