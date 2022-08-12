@@ -1,0 +1,9 @@
+coordinates:
+  name: stapler-adjunct-timeline
+  namespace: org.kohsuke.stapler
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.5':
+    licensed:
+      declared: 0BSD
