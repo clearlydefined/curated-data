@@ -6,4 +6,4 @@ coordinates:
 revisions:
   '1.5':
     licensed:
-      declared: 0BSD
+      declared: BSD-3-Clause
