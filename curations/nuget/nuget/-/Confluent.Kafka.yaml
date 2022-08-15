@@ -92,3 +92,6 @@ revisions:
   1.8.2:
     licensed:
       declared: Apache-2.0
+  1.9.2:
+    licensed:
+      declared: Apache-2.0
