@@ -1,0 +1,8 @@
+coordinates:
+  name: openapi-core
+  provider: pypi
+  type: pypi
+revisions:
+  0.14.2:
+    licensed:
+      declared: BSD-3-Clause
