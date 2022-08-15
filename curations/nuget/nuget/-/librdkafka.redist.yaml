@@ -57,3 +57,6 @@ revisions:
   1.9.0:
     licensed:
       declared: BSD-2-Clause
+  1.9.2:
+    licensed:
+      declared: BSD-2-Clause

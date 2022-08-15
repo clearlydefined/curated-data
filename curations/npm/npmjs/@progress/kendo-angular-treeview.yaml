@@ -22,3 +22,6 @@ revisions:
   7.0.1:
     licensed:
       declared: OTHER
+  7.1.0:
+    licensed:
+      declared: OTHER

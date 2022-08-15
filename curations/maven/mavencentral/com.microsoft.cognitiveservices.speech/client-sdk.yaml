@@ -1,0 +1,9 @@
+coordinates:
+  name: client-sdk
+  namespace: com.microsoft.cognitiveservices.speech
+  provider: mavencentral
+  type: maven
+revisions:
+  1.23.0:
+    licensed:
+      declared: OTHER
