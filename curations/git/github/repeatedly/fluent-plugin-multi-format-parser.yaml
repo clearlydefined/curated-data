@@ -1,0 +1,9 @@
+coordinates:
+  name: fluent-plugin-multi-format-parser
+  namespace: repeatedly
+  provider: github
+  type: git
+revisions:
+  81b7c8a06b38c6b2c89c56e20a37afa3e4c0a6e8:
+    licensed:
+      declared: Apache-2.0
