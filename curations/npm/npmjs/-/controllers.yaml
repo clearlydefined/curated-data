@@ -1,0 +1,8 @@
+coordinates:
+  name: controllers
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.2:
+    licensed:
+      declared: MIT
