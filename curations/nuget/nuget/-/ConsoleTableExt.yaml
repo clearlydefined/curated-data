@@ -1,0 +1,8 @@
+coordinates:
+  name: ConsoleTableExt
+  provider: nuget
+  type: nuget
+revisions:
+  3.1.8:
+    licensed:
+      declared: MIT
