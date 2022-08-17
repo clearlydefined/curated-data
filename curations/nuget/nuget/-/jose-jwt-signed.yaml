@@ -1,0 +1,8 @@
+coordinates:
+  name: jose-jwt-signed
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.0:
+    licensed:
+      declared: MIT
