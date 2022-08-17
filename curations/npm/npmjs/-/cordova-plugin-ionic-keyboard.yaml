@@ -1,0 +1,8 @@
+coordinates:
+  name: cordova-plugin-ionic-keyboard
+  provider: npmjs
+  type: npm
+revisions:
+  2.2.0:
+    licensed:
+      declared: MIT
