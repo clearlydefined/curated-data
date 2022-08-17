@@ -1,0 +1,8 @@
+coordinates:
+  name: jsencrypt
+  provider: npmjs
+  type: npm
+revisions:
+  2.3.1:
+    licensed:
+      declared: MIT
