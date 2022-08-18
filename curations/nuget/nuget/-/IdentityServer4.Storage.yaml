@@ -1,0 +1,8 @@
+coordinates:
+  name: IdentityServer4.Storage
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.0:
+    licensed:
+      declared: Apache-2.0
