@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.el-api
+  namespace: jakarta.el
+  provider: mavencentral
+  type: maven
+revisions:
+  4.0.0:
+    licensed:
+      declared: EPL-2.0
