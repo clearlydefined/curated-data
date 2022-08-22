@@ -84,6 +84,9 @@ revisions:
   3.1.8:
     licensed:
       declared: OTHER
+  3.2.13:
+    licensed:
+      declared: MIT
   5.0.0-preview.3.20181.2-01:
     licensed:
       declared: OTHER
