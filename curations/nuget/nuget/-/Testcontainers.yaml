@@ -1,0 +1,8 @@
+coordinates:
+  name: Testcontainers
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.0:
+    licensed:
+      declared: MIT
