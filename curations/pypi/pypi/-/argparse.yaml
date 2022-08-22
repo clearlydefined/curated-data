@@ -8,7 +8,7 @@ revisions:
       declared: Apache-2.0
   1.2.1:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   1.4.0:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1

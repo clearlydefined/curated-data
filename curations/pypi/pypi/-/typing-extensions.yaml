@@ -5,54 +5,54 @@ coordinates:
 revisions:
   3.10.0.0:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.10.0.1:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.10.0.2:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.6.2:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.6.2.1:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.6.5:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.6.6:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.7.2:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.7.4:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.7.4.1:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.7.4.2:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.7.4.3:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   4.0.0:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   4.0.1:
     described:
       releaseDate: '2021-11-30'
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   4.1.1:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   4.2.0:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   4.3.0:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1

@@ -9,7 +9,7 @@ revisions:
       - attributions:
           - Copyright (c) 2001-2008 Python Software Foundation
           - Copyright (c) 2008-2011 Kouhei Sutou
-        license: GPL-2.0-only OR LGPL-2.1-or-later OR OTHER OR Ruby
+        license: GPL-2.0-only OR LGPL-2.1-or-later OR Python-2.0.1 OR Ruby
         path: lib/test/unit/diff.rb
       - attributions:
           - Copyright (c) 2012-2015 Kouhei Sutou <kou@clear-code.com>

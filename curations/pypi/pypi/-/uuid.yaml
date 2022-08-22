@@ -5,4 +5,4 @@ coordinates:
 revisions:
   '1.30':
     licensed:
-      declared: Python-2.0
+      declared: Python-2.0.1
