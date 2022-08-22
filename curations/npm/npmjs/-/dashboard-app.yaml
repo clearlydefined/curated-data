@@ -1,0 +1,8 @@
+coordinates:
+  name: dashboard-app
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.0:
+    licensed:
+      declared: MIT
