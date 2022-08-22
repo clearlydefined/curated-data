@@ -336,6 +336,9 @@ revisions:
   4.0.41:
     licensed:
       declared: OTHER
+  4.0.54:
+    licensed:
+      declared: MIT
   4.0.9:
     licensed:
       declared: OTHER
