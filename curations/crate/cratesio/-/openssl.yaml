@@ -1,0 +1,14 @@
+coordinates:
+  name: openssl
+  provider: cratesio
+  type: crate
+revisions:
+  0.10.41:
+    described:
+      sourceLocation:
+        name: rust-openssl
+        namespace: sfackler
+        provider: github
+        revision: 04aa578b8c8b8ba5c3f2ec87c6e28db0fa99471b
+        type: git
+        url: 'https://github.com/sfackler/rust-openssl/commit/04aa578b8c8b8ba5c3f2ec87c6e28db0fa99471b'
