@@ -5,31 +5,31 @@ coordinates:
 revisions:
   3.10.0-a7:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.11.0-a2:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.5.4:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.6.8:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.7.7:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.7.9:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.8.10:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.8.2:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.9.0-a4:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   3.9.5:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1

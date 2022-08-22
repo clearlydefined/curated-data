@@ -5,7 +5,7 @@ coordinates:
 revisions:
   2.7.10:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   2.7.11:
     described:
       sourceLocation:
@@ -16,7 +16,7 @@ revisions:
         type: git
         url: 'https://github.com/ironlanguages/ironpython2/commit/c02d86cea702fd6d253e8fb988187789f7a631b7'
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   2.7.8.1:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
