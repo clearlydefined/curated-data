@@ -1,0 +1,8 @@
+coordinates:
+  name: swr-immutable
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1:
+    licensed:
+      declared: NONE
