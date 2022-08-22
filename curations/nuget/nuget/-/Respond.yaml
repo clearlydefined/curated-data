@@ -8,11 +8,11 @@ revisions:
     files:
       - attributions:
           - '(c) 2012: Scott Jehl, Paul Irish, Nicholas Zakas'
-        license: (MIT OR OTHER) AND (MIT OR GPL-2.0-only)
+        license: (MIT OR BSD-3-Clause) AND (MIT OR GPL-2.0-only)
         path: content/Scripts/respond.js
       - attributions:
           - '(c) 2012: Scott Jehl, Paul Irish, Nicholas Zakas'
-        license: (MIT OR OTHER) AND (AND (MIT OR GPL-2.0-only)
+        license: (MIT OR BSD-3-Clause) AND (MIT OR GPL-2.0-only)
         path: content/Scripts/respond.min.js
     licensed:
       declared: MIT OR GPL-2.0-only
