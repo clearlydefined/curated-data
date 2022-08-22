@@ -1,0 +1,8 @@
+coordinates:
+  name: zerocopy
+  provider: cratesio
+  type: crate
+revisions:
+  0.6.1:
+    licensed:
+      declared: BSD-2-Clause
