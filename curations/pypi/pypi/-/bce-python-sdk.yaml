@@ -1,0 +1,8 @@
+coordinates:
+  name: bce-python-sdk
+  provider: pypi
+  type: pypi
+revisions:
+  0.8.73:
+    licensed:
+      declared: Apache-2.0
