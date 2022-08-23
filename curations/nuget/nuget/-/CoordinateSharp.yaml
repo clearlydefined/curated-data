@@ -1,0 +1,8 @@
+coordinates:
+  name: CoordinateSharp
+  provider: nuget
+  type: nuget
+revisions:
+  2.13.1.1:
+    licensed:
+      declared: GPL-3.0-only
