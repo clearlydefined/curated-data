@@ -6,7 +6,7 @@ coordinates:
 revisions:
   4f6145655b6fa35ec8dd3600041418087e399758:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   58acec3312fb8671c9d84829197e1c8150085589:
     licensed:
-      declared: OTHER
+      declared: MIT-CMU
