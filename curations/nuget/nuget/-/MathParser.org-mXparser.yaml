@@ -13,4 +13,4 @@ revisions:
         type: git
         url: 'https://github.com/mariuszgromada/mathparser.org-mxparser/commit/77b81abd88d73b83addcd0e91aeb2b9614b25dc1'
     licensed:
-      declared: BSD-2-Clause
+      declared: BSD-2-Clause-Views
