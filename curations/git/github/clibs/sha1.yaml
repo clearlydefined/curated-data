@@ -1,0 +1,9 @@
+coordinates:
+  name: sha1
+  namespace: clibs
+  provider: github
+  type: git
+revisions:
+  d5b29e11ec4871b78b370e8e00bd0cd56d798dda:
+    licensed:
+      declared: OTHER
