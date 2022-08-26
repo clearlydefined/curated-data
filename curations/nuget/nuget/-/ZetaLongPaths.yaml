@@ -1,0 +1,8 @@
+coordinates:
+  name: ZetaLongPaths
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.20:
+    licensed:
+      declared: MIT
