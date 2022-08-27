@@ -105,6 +105,9 @@ revisions:
   5.6.4:
     licensed:
       declared: PolyForm-Noncommercial-1.0.0 OR OTHER
+  5.8.3:
+    licensed:
+      declared: PolyForm-Noncommercial-1.0.0
   6.0.4:
     licensed:
       declared: PolyForm-Noncommercial-1.0.0 OR OTHER
