@@ -1,0 +1,9 @@
+coordinates:
+  name: win_pdh
+  namespace: github.com%2Fjeffashton
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20161109143554-76bb4ee9f0ab:
+    licensed:
+      declared: BSD-3-Clause
