@@ -1,0 +1,9 @@
+coordinates:
+  name: wiremock-jre8
+  namespace: com.github.tomakehurst
+  provider: mavencentral
+  type: maven
+revisions:
+  2.33.2:
+    licensed:
+      declared: Apache-2.0
