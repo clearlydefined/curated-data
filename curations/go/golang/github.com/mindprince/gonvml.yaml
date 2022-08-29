@@ -1,0 +1,9 @@
+coordinates:
+  name: gonvml
+  namespace: github.com%2Fmindprince
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190828220739-9ebdce4bb989:
+    licensed:
+      declared: Apache-2.0
