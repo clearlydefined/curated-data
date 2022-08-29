@@ -1,0 +1,9 @@
+coordinates:
+  name: go-goon
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170922171312-37c2f522c041:
+    licensed:
+      declared: MIT
