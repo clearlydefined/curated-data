@@ -1,0 +1,9 @@
+coordinates:
+  name: tyrus-client
+  namespace: org.glassfish.tyrus
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.16':
+    licensed:
+      declared: EPL-2.0
