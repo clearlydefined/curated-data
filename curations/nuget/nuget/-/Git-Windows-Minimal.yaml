@@ -51,3 +51,6 @@ revisions:
   2.37.1:
     licensed:
       declared: GPL-2.0-only
+  2.37.2.2:
+    licensed:
+      declared: GPL-2.0-only
