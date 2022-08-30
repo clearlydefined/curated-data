@@ -1,0 +1,9 @@
+coordinates:
+  name: gwt
+  namespace: gwtproject
+  provider: github
+  type: git
+revisions:
+  c32238861c4d58bc559d303ab44f91ddd4e10685:
+    licensed:
+      declared: Apache-2.0
