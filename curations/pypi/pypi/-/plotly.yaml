@@ -1,0 +1,8 @@
+coordinates:
+  name: plotly
+  provider: pypi
+  type: pypi
+revisions:
+  5.10.0:
+    licensed:
+      declared: MIT
