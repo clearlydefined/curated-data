@@ -1,0 +1,9 @@
+coordinates:
+  name: go
+  namespace: github.com%2Fcncf%2Fxds
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220314180256-7f1daf1720fc:
+    licensed:
+      declared: Apache-2.0
