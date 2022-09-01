@@ -1,0 +1,8 @@
+coordinates:
+  name: Nullable.Extended.Analyzer
+  provider: nuget
+  type: nuget
+revisions:
+  1.10.4539:
+    licensed:
+      declared: MIT
