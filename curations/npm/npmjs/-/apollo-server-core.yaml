@@ -1,0 +1,14 @@
+coordinates:
+  name: apollo-server-core
+  provider: npmjs
+  type: npm
+revisions:
+  3.10.1:
+    described:
+      sourceLocation:
+        name: apollo-server
+        namespace: apollographql
+        provider: github
+        revision: e6097d614c9ac6887b359529cf27c1bd1a5de59c
+        type: git
+        url: 'https://github.com/apollographql/apollo-server/commit/e6097d614c9ac6887b359529cf27c1bd1a5de59c'
