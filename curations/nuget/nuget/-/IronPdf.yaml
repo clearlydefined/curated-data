@@ -1,0 +1,8 @@
+coordinates:
+  name: IronPdf
+  provider: nuget
+  type: nuget
+revisions:
+  2021.12.4495:
+    licensed:
+      declared: OTHER
