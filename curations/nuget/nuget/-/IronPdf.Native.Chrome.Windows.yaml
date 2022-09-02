@@ -1,0 +1,8 @@
+coordinates:
+  name: IronPdf.Native.Chrome.Windows
+  provider: nuget
+  type: nuget
+revisions:
+  2021.12.4389:
+    licensed:
+      declared: OTHER
