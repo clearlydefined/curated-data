@@ -1,0 +1,8 @@
+coordinates:
+  name: Xam.Plugin.HtmlLabel
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.2.1:
+    licensed:
+      declared: MIT
