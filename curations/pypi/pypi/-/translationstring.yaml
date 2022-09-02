@@ -1,0 +1,8 @@
+coordinates:
+  name: translationstring
+  provider: pypi
+  type: pypi
+revisions:
+  '1.4':
+    licensed:
+      declared: ZPL-2.0
