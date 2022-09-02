@@ -18,3 +18,6 @@ revisions:
   0.22.2:
     licensed:
       declared: EPL-1.0
+  0.23.1:
+    licensed:
+      declared: EPL-1.0
