@@ -1,0 +1,8 @@
+coordinates:
+  name: Xam.Plugins.Forms.ProgressRing
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.2:
+    licensed:
+      declared: MIT
