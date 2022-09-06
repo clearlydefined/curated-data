@@ -1,0 +1,8 @@
+coordinates:
+  name: FreeSpire.Doc
+  provider: nuget
+  type: nuget
+revisions:
+  9.9.7:
+    licensed:
+      declared: NONE
