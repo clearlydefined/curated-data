@@ -1,0 +1,8 @@
+coordinates:
+  name: Prototyping_MVC
+  provider: nuget
+  type: nuget
+revisions:
+  1.3.1:
+    licensed:
+      declared: MIT
