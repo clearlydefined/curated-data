@@ -5,84 +5,87 @@ coordinates:
 revisions:
   0.1.0:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.1.1:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.1.2:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.1.3:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.1.4:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.1.5:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.1.6:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.1.7:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.1.8:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.1.9:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.2.0:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.2.1:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.2.2:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.2.3:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.2.4:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.2.5:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.2.6:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.2.7:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.2.8:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.2.9:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.2.9.post0:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.3.0:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.3.1:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.3.2:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.3.3:
     described:
       releaseDate: '2021-09-22'
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.3.4:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
   0.3.5:
     licensed:
-      declared: OTHER
+      declared: Python-2.0.1
+  0.3.6:
+    licensed:
+      declared: Python-2.0.1
