@@ -13,3 +13,6 @@ revisions:
   2.0.0-beta.1:
     licensed:
       declared: OTHER
+  2.4.0-alpha.20220829.1:
+    licensed:
+      declared: OTHER
