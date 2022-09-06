@@ -1,0 +1,9 @@
+coordinates:
+  name: ui5-webcomponents-react
+  namespace: sap
+  provider: github
+  type: git
+revisions:
+  46a0a0bc82e1d5fea86328bf40e69b35c5dbcbb3:
+    licensed:
+      declared: Apache-2.0
