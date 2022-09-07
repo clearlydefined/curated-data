@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Apis.Auth.AspNetCore3
+  provider: nuget
+  type: nuget
+revisions:
+  1.57.0:
+    licensed:
+      declared: Apache-2.0
