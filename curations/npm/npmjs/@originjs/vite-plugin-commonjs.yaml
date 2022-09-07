@@ -1,0 +1,9 @@
+coordinates:
+  name: vite-plugin-commonjs
+  namespace: '@originjs'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.3:
+    licensed:
+      declared: MulanPSL-2.0
