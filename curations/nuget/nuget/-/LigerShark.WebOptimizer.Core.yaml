@@ -15,3 +15,6 @@ revisions:
   3.0.365:
     licensed:
       declared: Apache-2.0
+  3.0.368:
+    licensed:
+      declared: Apache-2.0
