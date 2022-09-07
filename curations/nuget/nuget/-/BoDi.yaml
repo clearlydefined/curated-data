@@ -9,3 +9,12 @@ revisions:
   1.5.0:
     licensed:
       declared: Apache-2.0
+  1.5.0-alpha2:
+    described:
+      sourceLocation:
+        name: bodi
+        namespace: specflowoss
+        provider: github
+        revision: fc28a1db59d085b4eef9eadbd21abe19218876d0
+        type: git
+        url: 'https://github.com/specflowoss/bodi/commit/fc28a1db59d085b4eef9eadbd21abe19218876d0'
