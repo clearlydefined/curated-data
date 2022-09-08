@@ -1,0 +1,9 @@
+coordinates:
+  name: oci-go-sdk
+  namespace: github.com%2Foracle
+  provider: golang
+  type: go
+revisions:
+  v7.1.0+incompatible:
+    licensed:
+      declared: Apache-2.0 OR UPL-1.0
