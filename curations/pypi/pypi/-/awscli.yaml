@@ -1,0 +1,14 @@
+coordinates:
+  name: awscli
+  provider: pypi
+  type: pypi
+revisions:
+  1.18.208:
+    described:
+      sourceLocation:
+        name: aws-cli
+        namespace: aws
+        provider: github
+        revision: 356c7f6ce2e41a66719b43f9cb1b342c7b780e1d
+        type: git
+        url: 'https://github.com/aws/aws-cli/commit/356c7f6ce2e41a66719b43f9cb1b342c7b780e1d'
