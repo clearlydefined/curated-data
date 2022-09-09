@@ -7,3 +7,6 @@ revisions:
   2.7.4:
     licensed:
       declared: OTHER
+  2.7.6:
+    licensed:
+      declared: NONE
