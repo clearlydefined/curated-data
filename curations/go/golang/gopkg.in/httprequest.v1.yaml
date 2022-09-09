@@ -1,0 +1,9 @@
+coordinates:
+  name: httprequest.v1
+  namespace: gopkg.in
+  provider: golang
+  type: go
+revisions:
+  v1.1.1:
+    licensed:
+      declared: LGPL-3.0-only WITH LGPL-3.0-linking-exception
