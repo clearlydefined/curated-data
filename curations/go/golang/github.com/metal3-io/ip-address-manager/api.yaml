@@ -1,0 +1,9 @@
+coordinates:
+  name: api
+  namespace: github.com%2Fmetal3-io%2Fip-address-manager
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220321184016-0a0fc8752041:
+    licensed:
+      declared: Apache-2.0
