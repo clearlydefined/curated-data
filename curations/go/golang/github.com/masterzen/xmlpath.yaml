@@ -6,4 +6,4 @@ coordinates:
 revisions:
   v0.0.0-20140218185901-13f4951698ad:
     licensed:
-      declared: GPL-3.0-only
+      declared: LGPL-3.0-only WITH LGPL-3.0-linking-exception
