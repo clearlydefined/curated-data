@@ -1,0 +1,9 @@
+coordinates:
+  name: realm-swift
+  namespace: realm
+  provider: github
+  type: git
+revisions:
+  a107f5660b0b6067700923af7f107b6af73c546b:
+    licensed:
+      declared: Apache-2.0
