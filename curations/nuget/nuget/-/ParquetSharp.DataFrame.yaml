@@ -1,0 +1,8 @@
+coordinates:
+  name: ParquetSharp.DataFrame
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.0:
+    licensed:
+      declared: Artistic-2.0
