@@ -1,0 +1,9 @@
+coordinates:
+  name: xmlpath
+  namespace: github.com%2Fmasterzen
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20140218185901-13f4951698ad:
+    licensed:
+      declared: GPL-3.0-only
