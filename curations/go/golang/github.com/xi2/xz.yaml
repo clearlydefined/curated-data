@@ -1,0 +1,9 @@
+coordinates:
+  name: xz
+  namespace: github.com%2Fxi2
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20171230120015-48954b6210f8:
+    licensed:
+      declared: OTHER
