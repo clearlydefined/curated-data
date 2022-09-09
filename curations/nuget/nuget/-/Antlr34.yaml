@@ -1,0 +1,8 @@
+coordinates:
+  name: Antlr34
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.19004.1:
+    licensed:
+      declared: BSD-3-Clause
