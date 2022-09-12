@@ -1,0 +1,9 @@
+coordinates:
+  name: common
+  namespace: github.com%2Fprometheus
+  provider: golang
+  type: go
+revisions:
+  v0.30.1:
+    licensed:
+      declared: Apache-2.0
