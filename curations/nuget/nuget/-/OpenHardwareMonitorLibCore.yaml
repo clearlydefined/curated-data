@@ -1,0 +1,16 @@
+coordinates:
+  name: OpenHardwareMonitorLibCore
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.2:
+    described:
+      sourceLocation:
+        name: librehardwaremonitor
+        namespace: lordofdoom
+        provider: github
+        revision: 556891a8c96705781ec024fb89b0e2953ca05ea3
+        type: git
+        url: 'https://github.com/lordofdoom/librehardwaremonitor/commit/556891a8c96705781ec024fb89b0e2953ca05ea3'
+    licensed:
+      declared: MPL-2.0
