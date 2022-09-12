@@ -8,4 +8,4 @@ revisions:
       declared: AGPL-3.0-or-later OR OTHER
   7.2.3:
     licensed:
-      declared: GPL-3.0-only
+      declared: AGPL-3.0-or-later OR OTHER
