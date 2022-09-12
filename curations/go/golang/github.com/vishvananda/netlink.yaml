@@ -1,0 +1,9 @@
+coordinates:
+  name: netlink
+  namespace: github.com%2Fvishvananda
+  provider: golang
+  type: go
+revisions:
+  v1.1.1-0.20220112194529-e5fd1f8193de:
+    licensed:
+      declared: Apache-2.0
