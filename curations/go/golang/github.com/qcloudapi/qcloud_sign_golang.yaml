@@ -1,0 +1,9 @@
+coordinates:
+  name: qcloud_sign_golang
+  namespace: github.com%2Fqcloudapi
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20141224014652-e4130a326409:
+    licensed:
+      declared: Apache-2.0
