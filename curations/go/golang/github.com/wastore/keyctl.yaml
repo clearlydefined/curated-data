@@ -1,0 +1,9 @@
+coordinates:
+  name: keyctl
+  namespace: github.com%2Fwastore
+  provider: golang
+  type: go
+revisions:
+  v0.3.1:
+    licensed:
+      declared: BSD-3-Clause
