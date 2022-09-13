@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-react-notification
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  5.6.0:
+    licensed:
+      declared: OTHER
