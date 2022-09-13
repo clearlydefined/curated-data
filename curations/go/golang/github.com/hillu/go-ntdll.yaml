@@ -1,0 +1,9 @@
+coordinates:
+  name: go-ntdll
+  namespace: github.com%2Fhillu
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220217145204-be7b5318100d:
+    licensed:
+      declared: BSD-2-Clause
