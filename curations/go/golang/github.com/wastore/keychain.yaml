@@ -1,0 +1,9 @@
+coordinates:
+  name: keychain
+  namespace: github.com%2Fwastore
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180920053336-f2c902a3d807:
+    licensed:
+      declared: MIT
