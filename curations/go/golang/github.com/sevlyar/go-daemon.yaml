@@ -1,0 +1,9 @@
+coordinates:
+  name: go-daemon
+  namespace: github.com%2Fsevlyar
+  provider: golang
+  type: go
+revisions:
+  v0.1.5:
+    licensed:
+      declared: MIT
