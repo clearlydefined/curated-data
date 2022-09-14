@@ -228,6 +228,9 @@ revisions:
   3.20.1:
     licensed:
       declared: BSD-3-Clause
+  3.20.2:
+    licensed:
+      declared: Python-2.0
   3.3.0:
     licensed:
       declared: BSD-3-Clause
