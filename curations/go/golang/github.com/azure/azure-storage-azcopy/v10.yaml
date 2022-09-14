@@ -1,0 +1,9 @@
+coordinates:
+  name: v10
+  namespace: github.com%2Fazure%2Fazure-storage-azcopy
+  provider: golang
+  type: go
+revisions:
+  v10.13.1-0.20211218014522-24209b81028e:
+    licensed:
+      declared: MIT
