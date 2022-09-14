@@ -1,0 +1,8 @@
+coordinates:
+  name: BPMN.Sharp
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.7:
+    licensed:
+      declared: MIT
