@@ -1,0 +1,8 @@
+coordinates:
+  name: WPFLocalizeExtension
+  provider: nuget
+  type: nuget
+revisions:
+  3.9.4:
+    licensed:
+      declared: MS-PL
