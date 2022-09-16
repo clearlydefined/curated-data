@@ -1,0 +1,9 @@
+coordinates:
+  name: lottie-compose
+  namespace: com.airbnb.android
+  provider: mavencentral
+  type: maven
+revisions:
+  4.1.0:
+    licensed:
+      declared: MIT
