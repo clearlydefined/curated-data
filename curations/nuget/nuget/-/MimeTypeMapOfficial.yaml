@@ -1,0 +1,8 @@
+coordinates:
+  name: MimeTypeMapOfficial
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.17:
+    licensed:
+      declared: MIT
