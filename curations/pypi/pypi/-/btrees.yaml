@@ -1,0 +1,8 @@
+coordinates:
+  name: btrees
+  provider: pypi
+  type: pypi
+revisions:
+  4.10.0:
+    licensed:
+      declared: ZPL-2.1
