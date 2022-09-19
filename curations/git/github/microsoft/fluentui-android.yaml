@@ -1,0 +1,9 @@
+coordinates:
+  name: fluentui-android
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  72cb83280b88695b23cf914cb37d696eb261c90e:
+    licensed:
+      declared: MIT
