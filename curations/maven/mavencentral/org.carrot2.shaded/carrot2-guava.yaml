@@ -1,0 +1,9 @@
+coordinates:
+  name: carrot2-guava
+  namespace: org.carrot2.shaded
+  provider: mavencentral
+  type: maven
+revisions:
+  '18.0':
+    licensed:
+      declared: NONE
