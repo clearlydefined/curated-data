@@ -1,0 +1,8 @@
+coordinates:
+  name: markerjs2
+  provider: npmjs
+  type: npm
+revisions:
+  2.21.4:
+    licensed:
+      declared: OTHER
