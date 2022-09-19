@@ -1,0 +1,9 @@
+coordinates:
+  name: amcharts5
+  namespace: '@amcharts'
+  provider: npmjs
+  type: npm
+revisions:
+  5.2.21:
+    licensed:
+      declared: OTHER
