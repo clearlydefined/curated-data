@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Web.WebView2
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.1264.42:
+    licensed:
+      declared: BSD-3-Clause
