@@ -1,0 +1,9 @@
+coordinates:
+  name: helm-controller
+  namespace: fluxcd
+  provider: github
+  type: git
+revisions:
+  1758df2b5b314a9940a47e3c8cbb6b1faa45b16d:
+    licensed:
+      declared: Apache-2.0
