@@ -1,0 +1,9 @@
+coordinates:
+  name: nng
+  namespace: nanomsg
+  provider: github
+  type: git
+revisions:
+  169221da8d53b2ca4fda76f894bee8505887a7c6:
+    licensed:
+      declared: MIT
