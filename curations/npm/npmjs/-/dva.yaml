@@ -1,0 +1,14 @@
+coordinates:
+  name: dva
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.0:
+    described:
+      sourceLocation:
+        name: dva
+        namespace: dvajs
+        provider: github
+        revision: 470b68d6d1ca62bad66779446fbc851f88814d4b
+        type: git
+        url: 'https://github.com/dvajs/dva/commit/470b68d6d1ca62bad66779446fbc851f88814d4b'
