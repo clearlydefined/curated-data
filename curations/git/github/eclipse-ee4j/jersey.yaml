@@ -1,0 +1,9 @@
+coordinates:
+  name: jersey
+  namespace: eclipse-ee4j
+  provider: github
+  type: git
+revisions:
+  ecf14442b636b6c0c865291c1801c43917ed9686:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-with-classpath-exception
