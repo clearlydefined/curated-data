@@ -9,3 +9,6 @@ revisions:
   '4.5':
     licensed:
       declared: ZPL-2.1
+  '4.7':
+    licensed:
+      declared: ZPL-2.1
