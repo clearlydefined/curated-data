@@ -138,3 +138,6 @@ revisions:
   3.9.2:
     licensed:
       declared: BSD-3-Clause
+  4.0.0-rc2:
+    licensed:
+      declared: BSD-3-Clause
