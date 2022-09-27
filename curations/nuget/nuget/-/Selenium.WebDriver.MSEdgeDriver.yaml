@@ -24,6 +24,9 @@ revisions:
   104.0.1293.70:
     licensed:
       declared: OTHER
+  105.0.1343.27:
+    licensed:
+      declared: WTFPL
   85.0.564.41:
     licensed:
       declared: OTHER
