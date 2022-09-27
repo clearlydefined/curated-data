@@ -1,0 +1,8 @@
+coordinates:
+  name: Xceed.Pdf
+  provider: nuget
+  type: nuget
+revisions:
+  1.7.20371.1556:
+    licensed:
+      declared: OTHER
