@@ -1,0 +1,8 @@
+coordinates:
+  name: TestStack.Seleno
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.61:
+    licensed:
+      declared: MIT
