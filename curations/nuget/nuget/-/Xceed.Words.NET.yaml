@@ -1,0 +1,8 @@
+coordinates:
+  name: Xceed.Words.NET
+  provider: nuget
+  type: nuget
+revisions:
+  1.7.20371.1556:
+    licensed:
+      declared: CDDL-1.0
