@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  be0dc3fd0c3b0cd37e97e4614461e4f051c2fb16:
+    licensed:
+      declared: Apache-2.0 WITH LLVM-exception
   331aebc79d715d1d0036d2d32021584eefecbcc9:
     licensed:
       declared: Apache-2.0 WITH LLVM-exception
