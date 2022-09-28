@@ -12,3 +12,6 @@ revisions:
   1.48.0.2016:
     licensed:
       declared: Apache-2.0
+  1.56.0.2596:
+    licensed:
+      declared: Apache-2.0
