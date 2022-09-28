@@ -1,0 +1,8 @@
+coordinates:
+  name: punycode
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.4:
+    licensed:
+      declared: MIT OR GPL-2.0-only
