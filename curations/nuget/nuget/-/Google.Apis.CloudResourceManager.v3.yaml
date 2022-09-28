@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Apis.CloudResourceManager.v3
+  provider: nuget
+  type: nuget
+revisions:
+  1.55.0.2502:
+    licensed:
+      declared: Apache-2.0
