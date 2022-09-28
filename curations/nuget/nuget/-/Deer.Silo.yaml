@@ -1,0 +1,8 @@
+coordinates:
+  name: Deer.Silo
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.10:
+    licensed:
+      declared: NONE
