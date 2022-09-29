@@ -1,0 +1,9 @@
+coordinates:
+  name: gmavenplus
+  namespace: groovy
+  provider: github
+  type: git
+revisions:
+  6dc99d76266ccef73bba2e55f791b4c3169e764b:
+    licensed:
+      declared: Apache-2.0
