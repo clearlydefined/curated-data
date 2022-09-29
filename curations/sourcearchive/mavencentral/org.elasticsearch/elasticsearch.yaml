@@ -1,0 +1,17 @@
+coordinates:
+  name: elasticsearch
+  namespace: org.elasticsearch
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  5.6.4:
+    described:
+      sourceLocation:
+        name: elasticsearch
+        namespace: elastic
+        provider: github
+        revision: 8bbedf5fe55fa22888e107898e5c16ca7f82c636
+        type: git
+        url: 'https://github.com/elastic/elasticsearch/commit/8bbedf5fe55fa22888e107898e5c16ca7f82c636'
+    licensed:
+      declared: Apache-2.0
