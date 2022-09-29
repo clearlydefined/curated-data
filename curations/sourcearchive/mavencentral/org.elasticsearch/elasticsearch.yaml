@@ -13,3 +13,5 @@ revisions:
         revision: 8bbedf5fe55fa22888e107898e5c16ca7f82c636
         type: git
         url: 'https://github.com/elastic/elasticsearch/commit/8bbedf5fe55fa22888e107898e5c16ca7f82c636'
+    licensed:
+      declared: Apache-2.0
