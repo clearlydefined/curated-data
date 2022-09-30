@@ -1,0 +1,17 @@
+coordinates:
+  name: ZooKeeperNetEx
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.6:
+    described:
+      releaseDate: '2014-03-12'
+      sourceLocation:
+        name: zookeeper
+        namespace: shayhatsor
+        provider: github
+        revision: 601207e1151b2691112c431fc3b4130a85ac93b5
+        type: git
+        url: 'https://github.com/shayhatsor/zookeeper/commit/601207e1151b2691112c431fc3b4130a85ac93b5'
+    licensed:
+      declared: Apache-2.0
