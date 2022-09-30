@@ -13,3 +13,6 @@ revisions:
   '20180813':
     licensed:
       declared: JSON
+  '20220924':
+    licensed:
+      declared: CPL-1.0
