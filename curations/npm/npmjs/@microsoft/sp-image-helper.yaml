@@ -1,0 +1,9 @@
+coordinates:
+  name: sp-image-helper
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.15.2:
+    licensed:
+      declared: OTHER
