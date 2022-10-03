@@ -1,0 +1,9 @@
+coordinates:
+  name: aws-sdk-java
+  namespace: aws
+  provider: github
+  type: git
+revisions:
+  17780c4a3628ac93c0786a4c2fe1c1be6aaa0f84:
+    licensed:
+      declared: Apache-2.0
