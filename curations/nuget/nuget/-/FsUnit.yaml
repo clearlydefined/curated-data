@@ -3,6 +3,15 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.4.1:
+    described:
+      sourceLocation:
+        name: fsunit
+        namespace: fsprojects
+        provider: github
+        revision: 3ce6fe0e9cd7f1966c2c431ec05cfaf8d2e52b63
+        type: git
+        url: 'https://github.com/fsprojects/fsunit/commit/3ce6fe0e9cd7f1966c2c431ec05cfaf8d2e52b63'
   3.8.0:
     licensed:
       declared: BSD-3-Clause
