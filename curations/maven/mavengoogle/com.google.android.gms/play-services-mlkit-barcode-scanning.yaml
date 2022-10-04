@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-mlkit-barcode-scanning
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  18.1.0:
+    licensed:
+      declared: OTHER
