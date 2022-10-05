@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.CodeCoverage
+  provider: nuget
+  type: nuget
+revisions:
+  16.9.4:
+    licensed:
+      declared: OTHER
