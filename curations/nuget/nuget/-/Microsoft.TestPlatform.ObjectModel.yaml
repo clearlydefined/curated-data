@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.TestPlatform.ObjectModel
+  provider: nuget
+  type: nuget
+revisions:
+  17.2.0:
+    licensed:
+      declared: OTHER
