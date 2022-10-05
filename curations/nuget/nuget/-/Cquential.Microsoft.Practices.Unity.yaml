@@ -1,0 +1,8 @@
+coordinates:
+  name: Cquential.Microsoft.Practices.Unity
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.414:
+    licensed:
+      declared: OTHER
