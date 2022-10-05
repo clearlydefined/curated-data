@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.WebJobs
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.14:
+    licensed:
+      declared: OTHER
