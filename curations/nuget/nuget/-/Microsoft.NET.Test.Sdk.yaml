@@ -1,11 +1,14 @@
 coordinates:
-  name: Microsoft.Azure.WebJobs.Core
+  name: Microsoft.NET.Test.Sdk
   provider: nuget
   type: nuget
 revisions:
-  3.0.14:
+  16.9.4:
     licensed:
       declared: OTHER
-  3.0.23:
+  17.1.0:
+    licensed:
+      declared: OTHER
+  17.2.0:
     licensed:
       declared: OTHER
