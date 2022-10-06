@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.Azure.WebJobs
+  name: Microsoft.Azure.WebJobs.Core
   provider: nuget
   type: nuget
 revisions:
