@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.NET.Test.Sdk
+  name: Microsoft.CodeCoverage
   provider: nuget
   type: nuget
 revisions:
