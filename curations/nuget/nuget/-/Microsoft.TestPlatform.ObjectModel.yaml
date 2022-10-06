@@ -1,14 +1,8 @@
 coordinates:
-  name: Microsoft.NET.Test.Sdk
+  name: Microsoft.TestPlatform.ObjectModel
   provider: nuget
   type: nuget
 revisions:
-  16.11.0:
-    licensed:
-      declared: OTHER
-  16.9.4:
-    licensed:
-      declared: OTHER
   17.1.0:
     licensed:
       declared: OTHER
