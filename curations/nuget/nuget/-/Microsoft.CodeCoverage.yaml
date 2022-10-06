@@ -1,8 +1,11 @@
 coordinates:
-  name: Microsoft.TestPlatform.ObjectModel
+  name: Microsoft.CodeCoverage
   provider: nuget
   type: nuget
 revisions:
+  16.11.0:
+    licensed:
+      declared: OTHER
   16.9.4:
     licensed:
       declared: OTHER
