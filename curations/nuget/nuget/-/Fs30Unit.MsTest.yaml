@@ -1,0 +1,8 @@
+coordinates:
+  name: Fs30Unit.MsTest
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.0:
+    licensed:
+      declared: MIT

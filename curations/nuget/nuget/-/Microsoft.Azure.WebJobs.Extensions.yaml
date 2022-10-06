@@ -1,11 +1,8 @@
 coordinates:
-  name: Microsoft.CodeCoverage
+  name: Microsoft.Azure.WebJobs.Extensions
   provider: nuget
   type: nuget
 revisions:
-  17.1.0:
-    licensed:
-      declared: OTHER
-  17.2.0:
+  3.0.6:
     licensed:
       declared: OTHER
