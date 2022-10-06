@@ -1,11 +1,11 @@
 coordinates:
-  name: Microsoft.Data.SqlClient.SNI.runtime
+  name: Microsoft.TestPlatform.TestHost
   provider: nuget
   type: nuget
 revisions:
-  2.0.0:
+  17.1.0:
     licensed:
       declared: OTHER
-  2.1.1:
+  17.2.0:
     licensed:
       declared: OTHER
