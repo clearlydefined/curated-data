@@ -1,0 +1,8 @@
+coordinates:
+  name: pygithub
+  provider: pypi
+  type: pypi
+revisions:
+  1.43.7:
+    licensed:
+      declared: LGPL-3.0-or-later
