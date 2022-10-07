@@ -1,0 +1,9 @@
+coordinates:
+  name: jenkins-inheritance-plugin
+  namespace: i-m-c
+  provider: github
+  type: git
+revisions:
+  6e6233506a9aed7989cb5668a32f9e979632107a:
+    licensed:
+      declared: LGPL-3.0-only
