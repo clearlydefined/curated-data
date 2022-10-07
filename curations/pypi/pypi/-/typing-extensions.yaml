@@ -58,4 +58,4 @@ revisions:
       declared: Python-2.0.1
   4.4.0:
     licensed:
-      declared: Python-2.0.1
+      declared: MIT
