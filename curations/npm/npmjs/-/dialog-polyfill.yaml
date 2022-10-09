@@ -1,0 +1,8 @@
+coordinates:
+  name: dialog-polyfill
+  provider: npmjs
+  type: npm
+revisions:
+  0.5.6:
+    licensed:
+      declared: BSD-3-Clause
