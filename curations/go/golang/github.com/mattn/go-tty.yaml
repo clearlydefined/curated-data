@@ -1,0 +1,9 @@
+coordinates:
+  name: go-tty
+  namespace: github.com%2Fmattn
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180219170247-931426f7535a:
+    licensed:
+      declared: MIT

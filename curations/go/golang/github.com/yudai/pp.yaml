@@ -1,0 +1,9 @@
+coordinates:
+  name: pp
+  namespace: github.com%2Fyudai
+  provider: golang
+  type: go
+revisions:
+  v2.0.1+incompatible:
+    licensed:
+      declared: MIT
