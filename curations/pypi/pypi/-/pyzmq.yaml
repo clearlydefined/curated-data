@@ -9,3 +9,6 @@ revisions:
   22.0.2:
     licensed:
       declared: BSD-3-Clause
+  23.2.1:
+    licensed:
+      declared: NOASSERTION AND BSD-3-Clause
