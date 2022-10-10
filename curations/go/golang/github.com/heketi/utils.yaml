@@ -1,0 +1,9 @@
+coordinates:
+  name: utils
+  namespace: github.com%2Fheketi
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170317161834-435bc5bdfa64:
+    licensed:
+      declared: Apache-2.0
