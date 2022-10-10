@@ -1,0 +1,8 @@
+coordinates:
+  name: IIS.Microsoft.Web.Adminstration
+  provider: nuget
+  type: nuget
+revisions:
+  8.5.9600.16384:
+    licensed:
+      declared: NONE
