@@ -6,4 +6,4 @@ coordinates:
 revisions:
   v1.30.0:
     licensed:
-      declared: BSD-3-Clause
+      declared: Apache-2.0
