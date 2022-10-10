@@ -1,0 +1,8 @@
+coordinates:
+  name: VSSDK.OLE.Interop
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.4:
+    licensed:
+      declared: NONE
