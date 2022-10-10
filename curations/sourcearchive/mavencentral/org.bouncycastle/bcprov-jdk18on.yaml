@@ -22,3 +22,21 @@ revisions:
         url: 'https://github.com/bcgit/bc-java/commit/1349bb03cff0b0023ef3247690410441f33b05b0'
     licensed:
       declared: MIT
+  '1.72':
+    described:
+      facets:
+        dev:
+          - prov/src/main
+        doc:
+          - docs
+        tests:
+          - prov/src/test
+      sourceLocation:
+        name: bc-java
+        namespace: bcgit
+        provider: github
+        revision: ab485a5d2d5ad2b2f9caa000c78b69c62d0d6bb3
+        type: git
+        url: 'https://github.com/bcgit/bc-java/commit/ab485a5d2d5ad2b2f9caa000c78b69c62d0d6bb3'
+    licensed:
+      declared: MIT
