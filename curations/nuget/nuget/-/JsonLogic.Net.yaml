@@ -1,0 +1,8 @@
+coordinates:
+  name: JsonLogic.Net
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.11:
+    licensed:
+      declared: MIT
