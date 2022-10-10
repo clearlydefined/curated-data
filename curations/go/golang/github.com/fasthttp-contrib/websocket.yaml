@@ -1,0 +1,9 @@
+coordinates:
+  name: websocket
+  namespace: github.com%2Ffasthttp-contrib
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20160511215533-1f3b11f56072:
+    licensed:
+      declared: BSD-3-Clause
