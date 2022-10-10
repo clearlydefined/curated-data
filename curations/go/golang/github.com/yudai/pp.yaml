@@ -6,4 +6,4 @@ coordinates:
 revisions:
   v2.0.1+incompatible:
     licensed:
-      declared: BSD-3-Clause
+      declared: MIT
