@@ -1,0 +1,8 @@
+coordinates:
+  name: Ardalis.ListStartupServices
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.3:
+    licensed:
+      declared: MIT
