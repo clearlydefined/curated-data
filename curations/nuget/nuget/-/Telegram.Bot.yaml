@@ -1,0 +1,8 @@
+coordinates:
+  name: Telegram.Bot
+  provider: nuget
+  type: nuget
+revisions:
+  15.7.1:
+    licensed:
+      declared: MIT
