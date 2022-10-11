@@ -1,0 +1,9 @@
+coordinates:
+  name: stringup
+  namespace: github.com%2Fetgryphon
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20121020160746-31534ccd8cac:
+    licensed:
+      declared: NONE
