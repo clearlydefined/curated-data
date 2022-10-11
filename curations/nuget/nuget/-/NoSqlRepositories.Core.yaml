@@ -1,0 +1,8 @@
+coordinates:
+  name: NoSqlRepositories.Core
+  provider: nuget
+  type: nuget
+revisions:
+  2017.11204.10912.62:
+    licensed:
+      declared: MIT
