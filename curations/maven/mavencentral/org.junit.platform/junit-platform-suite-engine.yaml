@@ -1,15 +1,9 @@
 coordinates:
-  name: junit-platform-suite-api
+  name: junit-platform-suite-engine
   namespace: org.junit.platform
   provider: mavencentral
   type: maven
 revisions:
-  1.2.0:
-    licensed:
-      declared: EPL-2.0
-  1.5.2:
-    licensed:
-      declared: EPL-2.0
   1.9.0:
     licensed:
       declared: EPL-2.0

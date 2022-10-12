@@ -1,0 +1,9 @@
+coordinates:
+  name: vault-operator
+  namespace: coreos
+  provider: github
+  type: git
+revisions:
+  43a1dd73183fd9d40b40e6f1e58b465c784d11a5:
+    licensed:
+      declared: Apache-2.0

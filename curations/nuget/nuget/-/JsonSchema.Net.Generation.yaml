@@ -1,11 +1,8 @@
 coordinates:
-  name: hidlibrary
+  name: JsonSchema.Net.Generation
   provider: nuget
   type: nuget
 revisions:
-  3.2.45:
-    licensed:
-      declared: MIT
-  3.2.46:
+  3.0.3:
     licensed:
       declared: MIT

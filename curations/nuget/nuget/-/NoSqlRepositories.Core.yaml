@@ -1,11 +1,8 @@
 coordinates:
-  name: hidlibrary
+  name: NoSqlRepositories.Core
   provider: nuget
   type: nuget
 revisions:
-  3.2.45:
-    licensed:
-      declared: MIT
-  3.2.46:
+  2017.11204.10912.62:
     licensed:
       declared: MIT
