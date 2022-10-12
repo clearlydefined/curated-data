@@ -1,0 +1,8 @@
+coordinates:
+  name: Aq.ExpressionJsonSerializer
+  provider: nuget
+  type: nuget
+revisions:
+  0.18.0:
+    licensed:
+      declared: MIT
