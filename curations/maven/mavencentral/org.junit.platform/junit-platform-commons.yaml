@@ -46,3 +46,6 @@ revisions:
   1.8.2:
     licensed:
       declared: EPL-2.0
+  1.9.0:
+    licensed:
+      declared: EPL-2.0
