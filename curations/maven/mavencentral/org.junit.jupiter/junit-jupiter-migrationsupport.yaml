@@ -1,0 +1,9 @@
+coordinates:
+  name: junit-jupiter-migrationsupport
+  namespace: org.junit.jupiter
+  provider: mavencentral
+  type: maven
+revisions:
+  5.9.0:
+    licensed:
+      declared: EPL-2.0
