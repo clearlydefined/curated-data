@@ -1,0 +1,8 @@
+coordinates:
+  name: Blazorise.Material
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.3.10:
+    licensed:
+      declared: NONE
