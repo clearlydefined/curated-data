@@ -1,0 +1,8 @@
+coordinates:
+  name: Grynwald.MarkdownGenerator
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.34:
+    licensed:
+      declared: MIT
