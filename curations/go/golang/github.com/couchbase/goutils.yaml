@@ -1,0 +1,9 @@
+coordinates:
+  name: goutils
+  namespace: github.com%2Fcouchbase
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180530154633-e865a1461c8a:
+    licensed:
+      declared: OTHER
