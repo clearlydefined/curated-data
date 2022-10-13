@@ -147,6 +147,9 @@ revisions:
   0.9.3.1:
     licensed:
       declared: MIT
+  0.9.3.10:
+    licensed:
+      declared: NONE
   0.9.3.2:
     licensed:
       declared: MIT
