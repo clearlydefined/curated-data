@@ -12,3 +12,6 @@ revisions:
   16.13.1:
     licensed:
       declared: MIT
+  16.17.1:
+    licensed:
+      declared: MIT
