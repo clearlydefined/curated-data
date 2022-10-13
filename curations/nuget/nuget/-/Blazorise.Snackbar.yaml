@@ -1,0 +1,8 @@
+coordinates:
+  name: Blazorise.Snackbar
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.3.10:
+    licensed:
+      declared: NONE
