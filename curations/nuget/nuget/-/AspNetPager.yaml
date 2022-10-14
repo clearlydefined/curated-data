@@ -3,6 +3,17 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  7.4.1:
+    described:
+      sourceLocation:
+        name: aspnetpager
+        namespace: webdiyer
+        provider: github
+        revision: 9771f4d7a70947af0d62a00b994e5301282ee84f
+        type: git
+        url: 'https://github.com/webdiyer/aspnetpager/commit/9771f4d7a70947af0d62a00b994e5301282ee84f'
+    licensed:
+      declared: LGPL-3.0-only
   7.5.1:
     described:
       sourceLocation:
