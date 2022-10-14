@@ -1,0 +1,9 @@
+coordinates:
+  name: predictkube-libs
+  namespace: github.com%2Fdysnix
+  provider: golang
+  type: go
+revisions:
+  v0.0.3:
+    licensed:
+      declared: Apache-2.0
