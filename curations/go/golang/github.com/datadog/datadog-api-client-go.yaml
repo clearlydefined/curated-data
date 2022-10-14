@@ -1,0 +1,9 @@
+coordinates:
+  name: datadog-api-client-go
+  namespace: github.com%2Fdatadog
+  provider: golang
+  type: go
+revisions:
+  v1.13.0:
+    licensed:
+      declared: Apache-2.0
