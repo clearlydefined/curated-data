@@ -1,0 +1,8 @@
+coordinates:
+  name: ngrx-store-localstorage
+  provider: npmjs
+  type: npm
+revisions:
+  12.0.1:
+    licensed:
+      declared: MIT
