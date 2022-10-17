@@ -1,0 +1,9 @@
+coordinates:
+  name: linkheader
+  namespace: github.com%2Ftomnomnom
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180905144013-02ca5825eb80:
+    licensed:
+      declared: MIT
