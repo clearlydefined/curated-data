@@ -1,0 +1,9 @@
+coordinates:
+  name: v2
+  namespace: github.com%2Finfluxdata%2Finfluxdb-client-go
+  provider: golang
+  type: go
+revisions:
+  v2.8.2:
+    licensed:
+      declared: MIT
