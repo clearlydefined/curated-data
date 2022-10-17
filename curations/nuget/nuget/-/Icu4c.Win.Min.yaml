@@ -1,0 +1,8 @@
+coordinates:
+  name: Icu4c.Win.Min
+  provider: nuget
+  type: nuget
+revisions:
+  59.1.7:
+    licensed:
+      declared: ICU
