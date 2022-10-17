@@ -5,4 +5,4 @@ coordinates:
 revisions:
   0.2.9:
     licensed:
-      declared: NOASSERTION AND BSD-3-Clause
+      declared: MIT OR BSD-3-Clause
