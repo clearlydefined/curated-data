@@ -1,0 +1,9 @@
+coordinates:
+  name: pq
+  namespace: github.com%2Flib
+  provider: golang
+  type: go
+revisions:
+  v1.10.5:
+    licensed:
+      declared: MIT
