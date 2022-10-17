@@ -1,0 +1,9 @@
+coordinates:
+  name: newrelic-client-go
+  namespace: github.com%2Fnewrelic
+  provider: golang
+  type: go
+revisions:
+  v0.78.0:
+    licensed:
+      declared: Apache-2.0
