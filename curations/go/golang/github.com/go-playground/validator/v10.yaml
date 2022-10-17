@@ -1,0 +1,9 @@
+coordinates:
+  name: v10
+  namespace: github.com%2Fgo-playground%2Fvalidator
+  provider: golang
+  type: go
+revisions:
+  v10.11.0:
+    licensed:
+      declared: MIT
