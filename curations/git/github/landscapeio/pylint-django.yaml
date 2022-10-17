@@ -1,0 +1,9 @@
+coordinates:
+  name: pylint-django
+  namespace: landscapeio
+  provider: github
+  type: git
+revisions:
+  bb0153ba1388e5304d5c902efa0d260883e99d1a:
+    licensed:
+      declared: GPL-2.0-or-later
