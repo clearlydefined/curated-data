@@ -1,0 +1,8 @@
+coordinates:
+  name: almond
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.9:
+    licensed:
+      declared: NOASSERTION AND BSD-3-Clause
