@@ -1,0 +1,8 @@
+coordinates:
+  name: ansi-color
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.1:
+    licensed:
+      declared: BSD-3-Clause
