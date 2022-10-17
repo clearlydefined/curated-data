@@ -5,7 +5,7 @@ coordinates:
 revisions:
   2.1.11:
     licensed:
-      declared: NOASSERTION OR MIT
+      declared: MIT OR BSD-3-Clause
   2.1.20:
     licensed:
       declared: MIT OR BSD-3-Clause
