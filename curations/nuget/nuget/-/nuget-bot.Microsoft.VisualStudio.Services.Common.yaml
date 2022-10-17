@@ -1,0 +1,8 @@
+coordinates:
+  name: nuget-bot.Microsoft.VisualStudio.Services.Common
+  provider: nuget
+  type: nuget
+revisions:
+  12.0.21005.1:
+    licensed:
+      declared: OTHER
