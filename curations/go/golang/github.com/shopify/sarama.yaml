@@ -1,0 +1,9 @@
+coordinates:
+  name: sarama
+  namespace: github.com%2Fshopify
+  provider: golang
+  type: go
+revisions:
+  v1.32.0:
+    licensed:
+      declared: MIT
