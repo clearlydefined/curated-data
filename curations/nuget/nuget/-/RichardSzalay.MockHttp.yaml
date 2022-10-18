@@ -6,6 +6,9 @@ revisions:
   1.0.1:
     licensed:
       declared: MIT
+  1.2.2:
+    licensed:
+      declared: MPL-2.0
   1.4.1:
     licensed:
       declared: MIT
