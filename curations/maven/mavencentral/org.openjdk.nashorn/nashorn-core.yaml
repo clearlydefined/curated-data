@@ -10,3 +10,6 @@ revisions:
   '15.3':
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '15.4':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
