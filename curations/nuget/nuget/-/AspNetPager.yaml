@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  7.4.1:
+    licensed:
+      declared: LGPL-3.0-or-later
   7.5.1:
     described:
       sourceLocation:
