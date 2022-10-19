@@ -1,0 +1,8 @@
+coordinates:
+  name: check-word
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.0:
+    licensed:
+      declared: GPL-2.0-only
