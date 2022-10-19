@@ -1,0 +1,9 @@
+coordinates:
+  name: curator
+  namespace: elasticsearch
+  provider: github
+  type: git
+revisions:
+  1ce8f567dde11cf9714eb81a0abfa13d5c453033:
+    licensed:
+      declared: Apache-2.0
