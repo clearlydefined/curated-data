@@ -1,0 +1,9 @@
+coordinates:
+  name: sqlite3pp
+  namespace: iwongu
+  provider: github
+  type: git
+revisions:
+  68e6fa2fadf1aeb3f2f41f4883563748002d973a:
+    licensed:
+      declared: MIT
