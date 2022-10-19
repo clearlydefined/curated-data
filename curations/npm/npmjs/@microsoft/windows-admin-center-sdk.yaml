@@ -1,0 +1,9 @@
+coordinates:
+  name: windows-admin-center-sdk
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.381.1:
+    licensed:
+      declared: OTHER
