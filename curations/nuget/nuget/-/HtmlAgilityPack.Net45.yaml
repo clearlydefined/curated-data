@@ -1,0 +1,8 @@
+coordinates:
+  name: HtmlAgilityPack.Net45
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.20:
+    licensed:
+      declared: MS-PL
