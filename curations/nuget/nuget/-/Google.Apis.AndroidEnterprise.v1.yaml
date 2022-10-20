@@ -33,3 +33,6 @@ revisions:
   1.56.0.2395:
     licensed:
       declared: Apache-2.0
+  1.57.0.2812:
+    licensed:
+      declared: Apache-2.0
