@@ -1,0 +1,9 @@
+coordinates:
+  name: processmapr
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  6cfb3306a1b244b26432205c4f53c4d9e4e03787:
+    licensed:
+      declared: MIT
