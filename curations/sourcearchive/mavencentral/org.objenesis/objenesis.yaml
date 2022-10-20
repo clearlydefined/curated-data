@@ -1,0 +1,24 @@
+coordinates:
+  name: objenesis
+  namespace: org.objenesis
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  '3.3':
+    described:
+      facets:
+        dev:
+          - main/src/main/java/org/objenesis
+        doc:
+          - website
+        tests:
+          - main/src/test/java
+      sourceLocation:
+        name: objenesis
+        namespace: easymock
+        provider: github
+        revision: 15c04843c5aabbe31052aa5ac33c7c2c5e6dc8c6
+        type: git
+        url: 'https://github.com/easymock/objenesis/commit/15c04843c5aabbe31052aa5ac33c7c2c5e6dc8c6'
+    licensed:
+      declared: Apache-2.0
