@@ -1,0 +1,9 @@
+coordinates:
+  name: edear
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  ab9c55b276171dd0c14a446ecec62272863e8fde:
+    licensed:
+      declared: MIT
