@@ -19,3 +19,14 @@ revisions:
         url: 'https://github.com/java-native-access/jna/commit/0d4d9950fac66d40902451b5417b3b671fe1a4aa'
     licensed:
       declared: Apache-2.0 OR LGPL-2.1-or-later
+  5.12.1:
+    described:
+      sourceLocation:
+        name: jna
+        namespace: java-native-access
+        provider: github
+        revision: 3705b849892aa3c37e5608e640eff19047811a5c
+        type: git
+        url: 'https://github.com/java-native-access/jna/commit/3705b849892aa3c37e5608e640eff19047811a5c'
+    licensed:
+      declared: Apache-2.0 OR LGPL-2.1-or-later
