@@ -1,0 +1,9 @@
+coordinates:
+  name: xesreadr
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  abaff7349ece21c9569b3f7c2c2ac578fc88b8d4:
+    licensed:
+      declared: MIT
