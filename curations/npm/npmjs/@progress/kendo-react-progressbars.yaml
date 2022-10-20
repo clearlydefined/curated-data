@@ -28,3 +28,6 @@ revisions:
   5.7.0:
     licensed:
       declared: OTHER
+  5.8.0:
+    licensed:
+      declared: OTHER
