@@ -6,3 +6,6 @@ revisions:
   22.1.1:
     licensed:
       declared: Apache-2.0
+  27.2.1:
+    licensed:
+      declared: Apache-2.0
