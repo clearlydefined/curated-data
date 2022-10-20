@@ -1,0 +1,9 @@
+coordinates:
+  name: fast-quadric-mesh-simplification
+  namespace: sp4cerat
+  provider: github
+  type: git
+revisions:
+  8ce2960cf0cdd96241ee75c2d6821e057b7a650b:
+    licensed:
+      declared: MIT
