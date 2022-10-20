@@ -29,4 +29,4 @@ revisions:
         type: git
         url: 'https://github.com/java-native-access/jna/commit/3705b849892aa3c37e5608e640eff19047811a5c'
     licensed:
-      declared: Apache-2.0 OR LGPL-2.1-or-later+
+      declared: Apache-2.0 OR LGPL-2.1-or-later
