@@ -108,3 +108,6 @@ revisions:
   5.1.5:
     licensed:
       declared: OTHER
+  6.13.21:
+    licensed:
+      declared: MIT
