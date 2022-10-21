@@ -1,0 +1,9 @@
+coordinates:
+  name: jna
+  namespace: java-native-access
+  provider: github
+  type: git
+revisions:
+  f9ceb1d14caec1327746b2e23bfd1b0664cac7ed:
+    licensed:
+      declared: LGPL-2.1-or-later OR Apache-2.0
