@@ -33,7 +33,7 @@ revisions:
       declared: MIT
   84dd5fbd2fd29e8fd174d0fd074ac87eaa15c084:
     licensed:
-      declared: MIT
+      declared: GPL-2.0-only OR MIT
   8f2a9d9272d6ed7f32d3a484740ab342c02541e0:
     licensed:
       declared: MIT
