@@ -1,0 +1,13 @@
+coordinates:
+  name: eslint
+  provider: npmjs
+  type: npm
+revisions:
+  8.18.0:
+    files:
+      - license: MIT
+        path: package/package.json
+      - license: MIT
+        path: package/lib/unsupported-api.js
+      - license: NONE
+        path: package/lib/rules/prefer-object-spread.js
