@@ -1,0 +1,9 @@
+coordinates:
+  name: ts-loader
+  provider: npmjs
+  type: npm
+revisions:
+  9.3.1:
+    files:
+      - license: NONE
+        path: package/REFERENCES.md
