@@ -1,0 +1,14 @@
+coordinates:
+  name: monaco-editor
+  provider: npmjs
+  type: npm
+revisions:
+  0.34.1:
+    described:
+      sourceLocation:
+        name: monaco-editor
+        namespace: microsoft
+        provider: github
+        revision: 547870b6881302c5b4ff32173c16d06009e3588f
+        type: git
+        url: 'https://github.com/microsoft/monaco-editor/commit/547870b6881302c5b4ff32173c16d06009e3588f'
