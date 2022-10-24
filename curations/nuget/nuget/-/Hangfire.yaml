@@ -26,7 +26,7 @@ revisions:
       declared: LGPL-3.0-or-later OR OTHER
   1.7.30:
     licensed:
-      declared: Apache-2.0
+      declared: LGPL-3.0-or-later OR OTHER
   1.7.31:
     licensed:
       declared: LGPL-3.0-or-later OR OTHER
