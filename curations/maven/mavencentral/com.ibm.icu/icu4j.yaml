@@ -25,3 +25,6 @@ revisions:
   '70.1':
     licensed:
       declared: OTHER
+  '71.1':
+    licensed:
+      declared: ICU
