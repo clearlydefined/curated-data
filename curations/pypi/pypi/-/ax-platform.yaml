@@ -1,0 +1,8 @@
+coordinates:
+  name: ax-platform
+  provider: pypi
+  type: pypi
+revisions:
+  0.2.8:
+    licensed:
+      declared: MIT
