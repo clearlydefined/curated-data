@@ -1,0 +1,10 @@
+coordinates:
+  name: eslint-plugin
+  namespace: '@typescript-eslint'
+  provider: npmjs
+  type: npm
+revisions:
+  5.29.0:
+    files:
+      - license: NONE
+        path: package/dist/util/getESLintCoreRule.js
