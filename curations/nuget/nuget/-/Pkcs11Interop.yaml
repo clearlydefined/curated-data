@@ -1,0 +1,8 @@
+coordinates:
+  name: Pkcs11Interop
+  provider: nuget
+  type: nuget
+revisions:
+  5.1.2:
+    licensed:
+      declared: Apache-2.0
