@@ -10,3 +10,6 @@ revisions:
   7.5.2:
     licensed:
       declared: OTHER
+  7.5.3:
+    licensed:
+      declared: LicenseRef-scancode-unrar
