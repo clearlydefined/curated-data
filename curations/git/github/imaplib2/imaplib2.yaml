@@ -1,0 +1,9 @@
+coordinates:
+  name: imaplib2
+  namespace: imaplib2
+  provider: github
+  type: git
+revisions:
+  b66212da85dad3773c2c84380b718d6d5009318d:
+    licensed:
+      declared: MIT
