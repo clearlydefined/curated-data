@@ -1,0 +1,9 @@
+coordinates:
+  name: datadog-go
+  namespace: github.com%2Fdatadog
+  provider: golang
+  type: go
+revisions:
+  v3.7.2+incompatible:
+    licensed:
+      declared: MIT
