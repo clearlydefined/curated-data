@@ -1,0 +1,9 @@
+coordinates:
+  name: go-spin
+  namespace: github.com%2Ftj
+  provider: golang
+  type: go
+revisions:
+  v1.1.0:
+    licensed:
+      declared: MIT
