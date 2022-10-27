@@ -1,0 +1,9 @@
+coordinates:
+  name: bbloom
+  namespace: github.com%2Fandreasbriese
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190306092124-e2d15f34fcf9:
+    licensed:
+      declared: MIT
