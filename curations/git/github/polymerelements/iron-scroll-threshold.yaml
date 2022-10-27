@@ -1,0 +1,9 @@
+coordinates:
+  name: iron-scroll-threshold
+  namespace: polymerelements
+  provider: github
+  type: git
+revisions:
+  77e1c4bf204e26ed07d670374608f3a050b9206c:
+    licensed:
+      declared: BSD-3-Clause
