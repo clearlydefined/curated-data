@@ -1,0 +1,9 @@
+coordinates:
+  name: logger
+  namespace: github.com%2Fgoogle
+  provider: golang
+  type: go
+revisions:
+  v1.0.1:
+    licensed:
+      declared: Apache-2.0
