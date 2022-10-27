@@ -1,0 +1,9 @@
+coordinates:
+  name: go-retryablehttp
+  namespace: github.com%2Fopenai
+  provider: golang
+  type: go
+revisions:
+  v0.6.6-backoff-with-error:
+    licensed:
+      declared: MPL-2.0
