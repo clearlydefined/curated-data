@@ -1,0 +1,9 @@
+coordinates:
+  name: raft
+  namespace: github.com%2Fhashicorp
+  provider: golang
+  type: go
+revisions:
+  v1.0.1-0.20190409200437-d9fe23f7d472:
+    licensed:
+      declared: MPL-2.0
