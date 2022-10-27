@@ -1,0 +1,9 @@
+coordinates:
+  name: go-retryablehttp
+  namespace: github.com%2Fhashicorp
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180531211321-3b087ef2d313:
+    licensed:
+      declared: MPL-2.0
