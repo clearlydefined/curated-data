@@ -1,0 +1,9 @@
+coordinates:
+  name: copystructure
+  namespace: github.com%2Fmitchellh
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20160804032330-cdac8253d00f:
+    licensed:
+      declared: MIT
