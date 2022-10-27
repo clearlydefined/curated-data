@@ -1,12 +1,12 @@
 coordinates:
-  name: go-retryablehttp
-  namespace: github.com%2Fopenai
+  name: terraform
+  namespace: github.com%2Fhashicorp
   provider: golang
   type: go
 revisions:
-  v0.6.6-backoff-with-error:
+  v0.13.1:
     licensed:
       declared: MPL-2.0
-  v0.6.6:
+  v0.12.29:
     licensed:
       declared: MPL-2.0

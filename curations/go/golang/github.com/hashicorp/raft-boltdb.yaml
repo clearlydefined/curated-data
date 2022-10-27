@@ -1,0 +1,9 @@
+coordinates:
+  name: raft-boltdb
+  namespace: github.com%2Fhashicorp
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20150201200839-d1e82c1ec3f1:
+    licensed:
+      declared: MPL-2.0

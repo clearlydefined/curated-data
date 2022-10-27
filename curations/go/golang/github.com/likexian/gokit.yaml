@@ -1,0 +1,9 @@
+coordinates:
+  name: gokit
+  namespace: github.com%2Flikexian
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190309162924-0a377eecf7aa:
+    licensed:
+      declared: Apache-2.0
