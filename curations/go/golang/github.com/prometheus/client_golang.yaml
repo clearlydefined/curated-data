@@ -1,0 +1,9 @@
+coordinates:
+  name: client_golang
+  namespace: github.com%2Fprometheus
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180328130430-f504d69affe1:
+    licensed:
+      declared: Apache-2.0
