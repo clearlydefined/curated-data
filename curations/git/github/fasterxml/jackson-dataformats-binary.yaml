@@ -1,0 +1,9 @@
+coordinates:
+  name: jackson-dataformats-binary
+  namespace: fasterxml
+  provider: github
+  type: git
+revisions:
+  f0c1ea1ce46531922033d238923aa670e0fee3ee:
+    licensed:
+      declared: Apache-2.0
