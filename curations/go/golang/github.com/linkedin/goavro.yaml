@@ -1,15 +1,12 @@
 coordinates:
-  name: levenshtein
-  namespace: github.com%2Fagext
+  name: goavro
+  namespace: github.com%2Flinkedin
   provider: golang
   type: go
 revisions:
-  v1.2.1:
+  v2.1.0+incompatible:
     licensed:
       declared: Apache-2.0
-  v1.2.2:
-    licensed:
-      declared: Apache-2.0
-  v1.2.3:
+  v1.0.5:
     licensed:
       declared: Apache-2.0
