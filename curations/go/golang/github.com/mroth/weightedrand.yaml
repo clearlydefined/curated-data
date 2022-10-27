@@ -1,0 +1,9 @@
+coordinates:
+  name: weightedrand
+  namespace: github.com%2Fmroth
+  provider: golang
+  type: go
+revisions:
+  v0.2.2:
+    licensed:
+      declared: MIT
