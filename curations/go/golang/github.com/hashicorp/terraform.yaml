@@ -1,0 +1,9 @@
+coordinates:
+  name: terraform
+  namespace: github.com%2Fhashicorp
+  provider: golang
+  type: go
+revisions:
+  v0.13.1:
+    licensed:
+      declared: MPL-2.0
