@@ -1,0 +1,9 @@
+coordinates:
+  name: packngo
+  namespace: github.com%2Fpackethost
+  provider: golang
+  type: go
+revisions:
+  v0.1.1-0.20180711074735-b9cb5096f54c:
+    licensed:
+      declared: MIT
