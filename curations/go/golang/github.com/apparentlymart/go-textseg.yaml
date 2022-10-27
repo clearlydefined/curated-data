@@ -6,4 +6,4 @@ coordinates:
 revisions:
   v1.0.0:
     licensed:
-      declared: Apache-2.0
+      declared: MIT
