@@ -1,0 +1,9 @@
+coordinates:
+  name: confluent-kafka-go.v1
+  namespace: gopkg.in%2Fconfluentinc
+  provider: golang
+  type: go
+revisions:
+  v1.4.2:
+    licensed:
+      declared: Apache-2.0
