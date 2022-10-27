@@ -1,0 +1,9 @@
+coordinates:
+  name: vic
+  namespace: github.com%2Fhashicorp
+  provider: golang
+  type: go
+revisions:
+  v1.5.1-0.20190403131502-bbfe86ec9443:
+    licensed:
+      declared: Apache-2.0
