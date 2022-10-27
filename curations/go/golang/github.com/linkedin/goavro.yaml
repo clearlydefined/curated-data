@@ -1,0 +1,9 @@
+coordinates:
+  name: goavro
+  namespace: github.com%2Flinkedin
+  provider: golang
+  type: go
+revisions:
+  v2.1.0+incompatible:
+    licensed:
+      declared: Apache-2.0
