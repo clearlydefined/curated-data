@@ -1,0 +1,9 @@
+coordinates:
+  name: terraform-svchost
+  namespace: github.com%2Fhashicorp
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20191011084731-65d371908596:
+    licensed:
+      declared: MPL-2.0
