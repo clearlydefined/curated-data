@@ -7,3 +7,6 @@ revisions:
   v4.4.0+incompatible:
     licensed:
       declared: MIT
+  v3.7.2+incompatible:
+    licensed:
+      declared: MIT
