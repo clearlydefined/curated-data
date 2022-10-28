@@ -1,0 +1,8 @@
+coordinates:
+  name: Syncfusion.OfficeChartToImageConverter.WPF
+  provider: nuget
+  type: nuget
+revisions:
+  20.1.0.58:
+    licensed:
+      declared: MIT
