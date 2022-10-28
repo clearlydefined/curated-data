@@ -1,0 +1,8 @@
+coordinates:
+  name: pygeohash
+  provider: pypi
+  type: pypi
+revisions:
+  1.2.0:
+    licensed:
+      declared: AGPL-3.0-or-later
