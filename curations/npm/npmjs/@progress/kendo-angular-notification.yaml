@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-notification
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.5:
+    licensed:
+      declared: OTHER
