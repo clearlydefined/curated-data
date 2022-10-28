@@ -1,0 +1,9 @@
+coordinates:
+  name: html2text
+  namespace: alir3z4
+  provider: github
+  type: git
+revisions:
+  ba5e670bc676492a22a89013e0cb56a3af6531a1:
+    licensed:
+      declared: GPL-3.0-or-later
