@@ -1,0 +1,9 @@
+coordinates:
+  name: jackson-modules-base
+  namespace: fasterxml
+  provider: github
+  type: git
+revisions:
+  0d5f86f92e04860d54662ad9aa1460a669e29d29:
+    licensed:
+      declared: Apache-2.0
