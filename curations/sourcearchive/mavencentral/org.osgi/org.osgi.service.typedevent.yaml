@@ -1,0 +1,17 @@
+coordinates:
+  name: org.osgi.service.typedevent
+  namespace: org.osgi
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.0.0:
+    described:
+      sourceLocation:
+        name: osgi
+        namespace: osgi
+        provider: github
+        revision: ac877b9fdaa36e26adb939cf9dd425e77243f449
+        type: git
+        url: 'https://github.com/osgi/osgi/commit/ac877b9fdaa36e26adb939cf9dd425e77243f449'
+    licensed:
+      declared: Apache-2.0
