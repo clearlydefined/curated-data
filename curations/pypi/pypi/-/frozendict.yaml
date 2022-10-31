@@ -6,6 +6,9 @@ revisions:
   2.0.6:
     licensed:
       declared: LGPL-3.0-only
+  2.3.2:
+    licensed:
+      declared: LGPL-3.0-only
   2.3.4:
     licensed:
       declared: LGPL-3.0-only
