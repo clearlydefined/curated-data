@@ -1,0 +1,9 @@
+coordinates:
+  name: go-libnbd
+  namespace: github.com%2Fmrnold
+  provider: golang
+  type: go
+revisions:
+  v1.4.1-cdi:
+    licensed:
+      declared: LGPL-2.1-or-later
