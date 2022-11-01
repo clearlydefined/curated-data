@@ -1,0 +1,9 @@
+coordinates:
+  name: gopackages
+  namespace: github.com%2Fdave
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170318123100-46e7023ec56e:
+    licensed:
+      declared: NONE
