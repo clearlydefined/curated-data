@@ -13,3 +13,6 @@ revisions:
   2.0.2:
     licensed:
       declared: Elastic-2.0
+  2.0.5:
+    licensed:
+      declared: Elastic-2.0
