@@ -6,6 +6,9 @@ revisions:
   19.13.0:
     licensed:
       declared: OTHER
+  19.15.1:
+    licensed:
+      declared: OTHER
   19.6.0:
     licensed:
       declared: OTHER
