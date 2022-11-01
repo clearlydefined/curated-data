@@ -1,0 +1,8 @@
+coordinates:
+  name: Docker.DotNet.X509
+  provider: nuget
+  type: nuget
+revisions:
+  3.125.0:
+    licensed:
+      declared: MIT
