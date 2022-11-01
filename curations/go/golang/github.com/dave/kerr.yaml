@@ -1,0 +1,9 @@
+coordinates:
+  name: kerr
+  namespace: github.com%2Fdave
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170318121727-bc25dd6abe8e:
+    licensed:
+      declared: NONE
