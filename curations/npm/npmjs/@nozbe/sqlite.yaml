@@ -1,0 +1,9 @@
+coordinates:
+  name: sqlite
+  namespace: '@nozbe'
+  provider: npmjs
+  type: npm
+revisions:
+  3.36.0:
+    licensed:
+      declared: MIT
