@@ -1,0 +1,9 @@
+coordinates:
+  name: graph
+  namespace: github.com%2Fgonum
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170401004347-50b27dea7ebb:
+    licensed:
+      declared: BSD-3-Clause
