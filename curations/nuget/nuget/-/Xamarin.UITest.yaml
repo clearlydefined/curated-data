@@ -114,3 +114,6 @@ revisions:
   3.2.8:
     licensed:
       declared: OTHER
+  3.2.9:
+    licensed:
+      declared: MS-PL
