@@ -18,6 +18,9 @@ revisions:
   14.16.1:
     licensed:
       declared: NONE
+  14.20.0:
+    licensed:
+      declared: ISC
   16.13.2:
     licensed:
       declared: NONE
