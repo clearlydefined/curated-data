@@ -25,3 +25,6 @@ revisions:
   0.2.3:
     licensed:
       declared: OTHER
+  0.2.3-dev.202208110855:
+    licensed:
+      declared: OTHER
