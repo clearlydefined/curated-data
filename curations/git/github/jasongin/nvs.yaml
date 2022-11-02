@@ -1,0 +1,9 @@
+coordinates:
+  name: nvs
+  namespace: jasongin
+  provider: github
+  type: git
+revisions:
+  bf45ef070e82356ed36a0f4d98f8ec651c8f0d98:
+    licensed:
+      declared: MIT
