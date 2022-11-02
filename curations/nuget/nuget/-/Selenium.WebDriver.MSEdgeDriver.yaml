@@ -70,6 +70,11 @@ revisions:
     files:
       - license: OTHER
         path: license/license.txt
+  106.0.1370.30:
+    files:
+      - license: OTHER
+        path: license/license.txt
+  107.0.1402.2-pre:
     licensed:
       declared: OTHER
   80.0.361.109:
