@@ -3,52 +3,13 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
-  106.0.1363-pre:
+  100.0.1183-pre:
     licensed:
       declared: OTHER
-  106.0.1356-pre:
+  100.0.1185.36:
     licensed:
       declared: OTHER
-  105.0.1343.27:
-    licensed:
-      declared: OTHER
-  105.0.1343.10-pre:
-    licensed:
-      declared: OTHER
-  105.0.1336.2-pre:
-    licensed:
-      declared: OTHER
-  105.0.1329.1-pre:
-    licensed:
-      declared: OTHER
-  104.0.1293.70:
-    licensed:
-      declared: OTHER
-  104.0.1293.54:
-    licensed:
-      declared: OTHER
-  104.0.1293.35-pre:
-    licensed:
-      declared: OTHER
-  104.0.1293.21-pre:
-    licensed:
-      declared: OTHER
-  104.0.1293.5-pre:
-    licensed:
-      declared: OTHER
-  103.0.1264.71:
-    licensed:
-      declared: OTHER
-  103.0.1264.62:
-    licensed:
-      declared: OTHER
-  103.0.1264.37:
-    licensed:
-      declared: OTHER
-  102.0.1249:
-    licensed:
-      declared: OTHER
-  102.0.1245.14-pre:
+  100.0.1185.50:
     licensed:
       declared: OTHER
   101.0.1210.47:
@@ -57,199 +18,58 @@ revisions:
   101.0.1210.9-pre:
     licensed:
       declared: OTHER
-  100.0.1185.50:
+  102.0.1245.14-pre:
     licensed:
       declared: OTHER
-  100.0.1185.36:
+  102.0.1249:
     licensed:
       declared: OTHER
-  100.0.1183-pre:
+  103.0.1264.37:
     licensed:
       declared: OTHER
-  99.0.1153:
+  103.0.1264.62:
     licensed:
       declared: OTHER
-  99.0.1153-pre:
+  103.0.1264.71:
     licensed:
       declared: OTHER
-  99.0.1150.46:
+  104.0.1293.21-pre:
     licensed:
       declared: OTHER
-  99.0.1150.25:
+  104.0.1293.35-pre:
     licensed:
       declared: OTHER
-  99.0.1150.16-pre:
+  104.0.1293.5-pre:
     licensed:
       declared: OTHER
-  98.0.1108.62:
+  104.0.1293.54:
     licensed:
       declared: OTHER
-  98.0.1108.56:
+  104.0.1293.70:
     licensed:
       declared: OTHER
-  98.0.1108.15-pre:
+  105.0.1329.1-pre:
     licensed:
       declared: OTHER
-  98.0.1081-pre:
+  105.0.1336.2-pre:
     licensed:
       declared: OTHER
-  97.0.1072.55:
+  105.0.1343.10-pre:
     licensed:
       declared: OTHER
-  97.0.1072.8-pre:
+  105.0.1343.27:
     licensed:
       declared: OTHER
-  96.0.1054.62:
+  106.0.1356-pre:
     licensed:
       declared: OTHER
-  96.0.1054.26:
+  106.0.1363-pre:
     licensed:
       declared: OTHER
-  96.0.1037-pre:
-    licensed:
-      declared: OTHER
-  95.0.1020.30:
-    licensed:
-      declared: OTHER
-  95.0.1020.14-pre:
-    licensed:
-      declared: OTHER
-  94.0.992.38:
-    licensed:
-      declared: OTHER
-  94.0.992.19-pre:
-    licensed:
-      declared: OTHER
-  94.0.986:
-    licensed:
-      declared: OTHER
-  93.0.967:
-    licensed:
-      declared: OTHER
-  93.0.961.47:
-    licensed:
-      declared: OTHER
-  92.0.902.73:
-    licensed:
-      declared: OTHER
-  92.0.902.62:
-    licensed:
-      declared: OTHER
-  92.0.902-pre:
-    licensed:
-      declared: OTHER
-  91.0.864.37:
-    licensed:
-      declared: OTHER
-  91.0.852-pre:
-    licensed:
-      declared: OTHER
-  91.0.828-pre:
-    licensed:
-      declared: OTHER
-  90.0.818.66:
-    licensed:
-      declared: OTHER
-  90.0.818.42:
-    licensed:
-      declared: OTHER
-  90.0.818.36-pre:
-    licensed:
-      declared: OTHER
-  90.0.818.8-pre:
-    licensed:
-      declared: OTHER
-  90.0.782-pre:
-    licensed:
-      declared: OTHER
-  89.0.774.76:
-    licensed:
-      declared: OTHER
-  89.0.774.54:
-    licensed:
-      declared: OTHER
-  89.0.774.8-pre:
-    licensed:
-      declared: OTHER
-  89.0.752-pre:
-    licensed:
-      declared: OTHER
-  89.0.751-pre:
-    licensed:
-      declared: OTHER
-  89.0.750-pre:
-    licensed:
-      declared: OTHER
-  89.0.711-pre:
-    licensed:
-      declared: OTHER
-  88.0.705.56:
-    licensed:
-      declared: OTHER
-  88.0.705.29-pre:
-    licensed:
-      declared: OTHER
-  88.0.705-pre:
-    licensed:
-      declared: OTHER
-  87.0.669:
-    licensed:
-      declared: OTHER
-  87.0.666:
-    licensed:
-      declared: OTHER
-  87.0.664.47:
-    licensed:
-      declared: OTHER
-  86.0.622.38:
-    licensed:
-      declared: OTHER
-  86.0.622.38-pre:
-    licensed:
-      declared: OTHER
-  86.0.621-pre:
-    licensed:
-      declared: OTHER
-  86.0.592-pre:
-    licensed:
-      declared: OTHER
-  85.0.564.41:
-    licensed:
-      declared: OTHER
-  85.0.564.18-pre:
-    licensed:
-      declared: OTHER
-  84.0.524:
-    licensed:
-      declared: OTHER
-  84.0.524-beta:
-    licensed:
-      declared: OTHER
-  84.0.523:
-    licensed:
-      declared: OTHER
-  84.0.522.49:
-    licensed:
-      declared: OTHER
-  83.0.478.58:
-    licensed:
-      declared: OTHER
-  83.0.478.58-beta:
-    licensed:
-      declared: OTHER
-  83.0.478.37:
-    licensed:
-      declared: OTHER
-  81.0.410:
-    licensed:
-      declared: OTHER
-  81.0.410-beta:
-    licensed:
-      declared: OTHER
-  80.0.361.111:
-    licensed:
-      declared: OTHER
-  80.0.361.111-beta:
+  106.0.1370.34:
+    files:
+      - license: OTHER
+        path: license/license.txt
     licensed:
       declared: OTHER
   80.0.361.109:
@@ -258,6 +78,192 @@ revisions:
   80.0.361.109-beta:
     licensed:
       declared: OTHER
+  80.0.361.111:
+    licensed:
+      declared: OTHER
+  80.0.361.111-beta:
+    licensed:
+      declared: OTHER
   80.0.361.69-a:
+    licensed:
+      declared: OTHER
+  81.0.410:
+    licensed:
+      declared: OTHER
+  81.0.410-beta:
+    licensed:
+      declared: OTHER
+  83.0.478.37:
+    licensed:
+      declared: OTHER
+  83.0.478.58:
+    licensed:
+      declared: OTHER
+  83.0.478.58-beta:
+    licensed:
+      declared: OTHER
+  84.0.522.49:
+    licensed:
+      declared: OTHER
+  84.0.523:
+    licensed:
+      declared: OTHER
+  84.0.524:
+    licensed:
+      declared: OTHER
+  84.0.524-beta:
+    licensed:
+      declared: OTHER
+  85.0.564.18-pre:
+    licensed:
+      declared: OTHER
+  85.0.564.41:
+    licensed:
+      declared: OTHER
+  86.0.592-pre:
+    licensed:
+      declared: OTHER
+  86.0.621-pre:
+    licensed:
+      declared: OTHER
+  86.0.622.38:
+    licensed:
+      declared: OTHER
+  86.0.622.38-pre:
+    licensed:
+      declared: OTHER
+  87.0.664.47:
+    licensed:
+      declared: OTHER
+  87.0.666:
+    licensed:
+      declared: OTHER
+  87.0.669:
+    licensed:
+      declared: OTHER
+  88.0.705-pre:
+    licensed:
+      declared: OTHER
+  88.0.705.29-pre:
+    licensed:
+      declared: OTHER
+  88.0.705.56:
+    licensed:
+      declared: OTHER
+  89.0.711-pre:
+    licensed:
+      declared: OTHER
+  89.0.750-pre:
+    licensed:
+      declared: OTHER
+  89.0.751-pre:
+    licensed:
+      declared: OTHER
+  89.0.752-pre:
+    licensed:
+      declared: OTHER
+  89.0.774.54:
+    licensed:
+      declared: OTHER
+  89.0.774.76:
+    licensed:
+      declared: OTHER
+  89.0.774.8-pre:
+    licensed:
+      declared: OTHER
+  90.0.782-pre:
+    licensed:
+      declared: OTHER
+  90.0.818.36-pre:
+    licensed:
+      declared: OTHER
+  90.0.818.42:
+    licensed:
+      declared: OTHER
+  90.0.818.66:
+    licensed:
+      declared: OTHER
+  90.0.818.8-pre:
+    licensed:
+      declared: OTHER
+  91.0.828-pre:
+    licensed:
+      declared: OTHER
+  91.0.852-pre:
+    licensed:
+      declared: OTHER
+  91.0.864.37:
+    licensed:
+      declared: OTHER
+  92.0.902-pre:
+    licensed:
+      declared: OTHER
+  92.0.902.62:
+    licensed:
+      declared: OTHER
+  92.0.902.73:
+    licensed:
+      declared: OTHER
+  93.0.961.47:
+    licensed:
+      declared: OTHER
+  93.0.967:
+    licensed:
+      declared: OTHER
+  94.0.986:
+    licensed:
+      declared: OTHER
+  94.0.992.19-pre:
+    licensed:
+      declared: OTHER
+  94.0.992.38:
+    licensed:
+      declared: OTHER
+  95.0.1020.14-pre:
+    licensed:
+      declared: OTHER
+  95.0.1020.30:
+    licensed:
+      declared: OTHER
+  96.0.1037-pre:
+    licensed:
+      declared: OTHER
+  96.0.1054.26:
+    licensed:
+      declared: OTHER
+  96.0.1054.62:
+    licensed:
+      declared: OTHER
+  97.0.1072.55:
+    licensed:
+      declared: OTHER
+  97.0.1072.8-pre:
+    licensed:
+      declared: OTHER
+  98.0.1081-pre:
+    licensed:
+      declared: OTHER
+  98.0.1108.15-pre:
+    licensed:
+      declared: OTHER
+  98.0.1108.56:
+    licensed:
+      declared: OTHER
+  98.0.1108.62:
+    licensed:
+      declared: OTHER
+  99.0.1150.16-pre:
+    licensed:
+      declared: OTHER
+  99.0.1150.25:
+    licensed:
+      declared: OTHER
+  99.0.1150.46:
+    licensed:
+      declared: OTHER
+  99.0.1153:
+    licensed:
+      declared: OTHER
+  99.0.1153-pre:
     licensed:
       declared: OTHER
