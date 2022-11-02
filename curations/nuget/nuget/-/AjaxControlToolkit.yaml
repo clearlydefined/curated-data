@@ -33,3 +33,6 @@ revisions:
   4.1.51116:
     licensed:
       declared: BSD-3-Clause
+  7.1213.0:
+    licensed:
+      declared: BSD-3-Clause
