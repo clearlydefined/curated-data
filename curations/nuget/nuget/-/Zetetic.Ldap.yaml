@@ -1,0 +1,8 @@
+coordinates:
+  name: Zetetic.Ldap
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.1:
+    licensed:
+      declared: CPL-1.0
