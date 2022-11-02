@@ -1,0 +1,8 @@
+coordinates:
+  name: TTCUE.NetCore.SharepointOnline.CSOM.16.1.8029.1200
+  provider: nuget
+  type: nuget
+revisions:
+  16.1.8029.1200:
+    licensed:
+      declared: NONE
