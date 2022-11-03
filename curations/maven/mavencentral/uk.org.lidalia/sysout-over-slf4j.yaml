@@ -1,0 +1,9 @@
+coordinates:
+  name: sysout-over-slf4j
+  namespace: uk.org.lidalia
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.2:
+    licensed:
+      declared: MIT
