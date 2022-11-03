@@ -1,0 +1,8 @@
+coordinates:
+  name: HashLib
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.1:
+    licensed:
+      declared: CDDL-1.0
