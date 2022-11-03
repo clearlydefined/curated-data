@@ -60,6 +60,12 @@ revisions:
   105.0.1343.27:
     licensed:
       declared: OTHER
+  105.0.1343.53:
+    files:
+      - license: OTHER
+        path: license/license.txt
+    licensed:
+      declared: OTHER
   106.0.1356-pre:
     licensed:
       declared: OTHER
