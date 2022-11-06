@@ -22,6 +22,9 @@ revisions:
   2.6.6:
     licensed:
       declared: Apache-2.0
+  2.6.9:
+    licensed:
+      declared: Apache-2.0
   2.7.1:
     licensed:
       declared: Apache-2.0
