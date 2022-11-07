@@ -1,0 +1,9 @@
+coordinates:
+  name: dbdpg
+  namespace: bucardo
+  provider: github
+  type: git
+revisions:
+  def8ac215e23168925f0df81143977c8571c6ed5:
+    licensed:
+      declared: Artistic-1.0-Perl
