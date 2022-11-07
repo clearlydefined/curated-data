@@ -1,0 +1,8 @@
+coordinates:
+  name: Overby.Extensions.AsyncBinaryReaderWriter
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.35:
+    licensed:
+      declared: MIT
