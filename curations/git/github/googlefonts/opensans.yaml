@@ -1,0 +1,9 @@
+coordinates:
+  name: opensans
+  namespace: googlefonts
+  provider: github
+  type: git
+revisions:
+  ebedbda589fe5bd861b02325aca98c86ad845251:
+    licensed:
+      declared: OFL-1.1-no-RFN
