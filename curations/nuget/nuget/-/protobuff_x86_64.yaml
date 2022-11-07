@@ -1,0 +1,8 @@
+coordinates:
+  name: protobuff_x86_64
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0:
+    licensed:
+      declared: BSD-4-Clause
