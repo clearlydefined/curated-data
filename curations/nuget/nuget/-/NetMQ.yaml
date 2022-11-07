@@ -6,6 +6,9 @@ revisions:
   4.0.0.1:
     licensed:
       declared: OTHER
+  4.0.0.207:
+    licensed:
+      declared: GPL-3.0-only
   4.0.1.6:
     licensed:
       declared: OTHER
