@@ -1,0 +1,9 @@
+coordinates:
+  name: node_exporter
+  namespace: prometheus
+  provider: github
+  type: git
+revisions:
+  006d1c7922b765f458fe9b92ce646641bded0f52:
+    licensed:
+      declared: Apache-2.0
