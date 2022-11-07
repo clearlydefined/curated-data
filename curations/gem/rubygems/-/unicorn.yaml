@@ -5,4 +5,10 @@ coordinates:
 revisions:
   5.4.0:
     licensed:
-      declared: GPL-2.0-or-later OR OTHER
+      declared: GPL-2.0-or-later OR Ruby
+  6.0.0:
+    licensed:
+      declared: GPL-2.0-or-later OR Ruby
+  6.0.0:
+    licensed:
+      declared: GPL-2.0-or-later OR Ruby
