@@ -1,0 +1,9 @@
+coordinates:
+  name: libxcrypt
+  namespace: besser82
+  provider: github
+  type: git
+revisions:
+  4ffa4d38396c334a1e002427c22281b047a3d6a6:
+    licensed:
+      declared: LGPL-2.1-or-later
