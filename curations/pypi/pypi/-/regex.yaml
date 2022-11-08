@@ -99,6 +99,9 @@ revisions:
   2021.9.30:
     licensed:
       declared: Apache-2.0
+  2022.10.31:
+    licensed:
+      declared: Apache-2.0
   2022.3.2:
     licensed:
       declared: Apache-2.0
