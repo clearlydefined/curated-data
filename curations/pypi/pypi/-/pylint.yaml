@@ -12,6 +12,9 @@ revisions:
   2.14.5:
     licensed:
       declared: GPL-2.0-or-later
+  2.15.3:
+    licensed:
+      declared: GPL-2.0-or-later
   2.3.0:
     files:
       - attributions:
@@ -46,12 +49,12 @@ revisions:
   2.5.3:
     licensed:
       declared: GPL-2.0-only
-  2.8.2:
-    licensed:
-      declared: GPL-2.0-or-later
   2.6.0:
     licensed:
       declared: GPL-2.0-only
+  2.8.2:
+    licensed:
+      declared: GPL-2.0-or-later
   2.9.1:
     licensed:
       declared: GPL-2.0-or-later
