@@ -6,4 +6,4 @@ coordinates:
 revisions:
   def8ac215e23168925f0df81143977c8571c6ed5:
     licensed:
-      declared: Artistic-1.0-Perl
+      declared: Artistic-1.0-Perl OR GPL-2.0-only
