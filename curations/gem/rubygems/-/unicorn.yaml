@@ -9,6 +9,6 @@ revisions:
   6.0.0:
     licensed:
       declared: GPL-2.0-or-later OR Ruby
-  6.0.0:
+  6.1.0:
     licensed:
       declared: GPL-2.0-or-later OR Ruby
