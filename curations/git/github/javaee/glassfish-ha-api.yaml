@@ -1,0 +1,9 @@
+coordinates:
+  name: glassfish-ha-api
+  namespace: javaee
+  provider: github
+  type: git
+revisions:
+  93ce3d738e4e48e95b4ddf67f8cd71fc5af56813:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
