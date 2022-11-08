@@ -1,0 +1,8 @@
+coordinates:
+  name: DocWorks.Markdig
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.3:
+    licensed:
+      declared: BSD-2-Clause
