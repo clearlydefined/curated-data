@@ -1,0 +1,8 @@
+coordinates:
+  name: StrawberryShake.Core
+  provider: nuget
+  type: nuget
+revisions:
+  12.15.0:
+    licensed:
+      declared: MIT
