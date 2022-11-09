@@ -6,3 +6,9 @@ revisions:
   5.4.0:
     licensed:
       declared: GPL-2.0-or-later OR OTHER
+  6.0.0:
+    licensed:
+      declared: GPL-2.0-or-later OR OTHER
+  6.1.0:
+    licensed:
+      declared: GPL-2.0-or-later OR OTHER
