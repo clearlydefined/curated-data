@@ -9,3 +9,6 @@ revisions:
   2.8.5:
     licensed:
       declared: OTHER
+  2.9.3:
+    licensed:
+      declared: OTHER
