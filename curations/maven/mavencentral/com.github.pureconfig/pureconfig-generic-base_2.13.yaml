@@ -1,0 +1,9 @@
+coordinates:
+  name: pureconfig-generic-base_2.13
+  namespace: com.github.pureconfig
+  provider: mavencentral
+  type: maven
+revisions:
+  0.17.1:
+    licensed:
+      declared: MPL-2.0
