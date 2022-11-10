@@ -1,0 +1,9 @@
+coordinates:
+  name: go-keychain
+  namespace: github.com%2F99designs
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20191008050251-8e49817e8af4:
+    licensed:
+      declared: MIT
