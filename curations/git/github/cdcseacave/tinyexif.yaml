@@ -1,0 +1,9 @@
+coordinates:
+  name: tinyexif
+  namespace: cdcseacave
+  provider: github
+  type: git
+revisions:
+  6e56015f56ee0f387f1b8c76e50eb35ac60372da:
+    licensed:
+      declared: NONE
