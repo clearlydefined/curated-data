@@ -1,0 +1,8 @@
+coordinates:
+  name: pkg-config
+  provider: rubygems
+  type: gem
+revisions:
+  1.1.9:
+    licensed:
+      declared: GPL-2.0-only
