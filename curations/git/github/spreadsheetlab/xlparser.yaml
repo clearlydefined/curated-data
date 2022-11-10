@@ -1,0 +1,9 @@
+coordinates:
+  name: xlparser
+  namespace: spreadsheetlab
+  provider: github
+  type: git
+revisions:
+  401d8cbb04a511e2f7b45aabddd34ce201d4f9be:
+    licensed:
+      declared: MPL-2.0
