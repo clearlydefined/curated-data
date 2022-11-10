@@ -1,0 +1,15 @@
+coordinates:
+  name: org.osgi.service.feature
+  namespace: org.osgi
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.0.0:
+    described:
+      sourceLocation:
+        name: osgi
+        namespace: osgi
+        provider: github
+        revision: db39ce672917cadce15aad14a33795cbed7e8791
+        type: git
+        url: 'https://github.com/osgi/osgi/commit/db39ce672917cadce15aad14a33795cbed7e8791'
