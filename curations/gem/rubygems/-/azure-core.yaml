@@ -3,6 +3,9 @@ coordinates:
   provider: rubygems
   type: gem
 revisions:
+  0.1.12:
+    licensed:
+      declared: MIT
   0.1.14:
     licensed:
       declared: Apache-2.0
