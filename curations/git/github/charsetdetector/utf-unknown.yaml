@@ -1,0 +1,9 @@
+coordinates:
+  name: utf-unknown
+  namespace: charsetdetector
+  provider: github
+  type: git
+revisions:
+  310fd302c184284d5d8a69a533d7dd2303f8c41e:
+    licensed:
+      declared: NONE
