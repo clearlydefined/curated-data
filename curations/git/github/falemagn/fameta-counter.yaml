@@ -1,0 +1,9 @@
+coordinates:
+  name: fameta-counter
+  namespace: falemagn
+  provider: github
+  type: git
+revisions:
+  35f4421524b61eaa658c23e9c3667dc914df72fa:
+    licensed:
+      declared: Unlicense
