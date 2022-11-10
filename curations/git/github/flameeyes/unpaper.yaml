@@ -1,0 +1,15 @@
+coordinates:
+  name: unpaper
+  namespace: flameeyes
+  provider: github
+  type: git
+revisions:
+  b67b58c6179a5acc1e8909fbf39a1a3def2924be:
+    described:
+      sourceLocation:
+        name: unpaper
+        namespace: unpaper
+        provider: github
+        revision: b67b58c6179a5acc1e8909fbf39a1a3def2924be
+        type: git
+        url: 'https://github.com/unpaper/unpaper/commit/b67b58c6179a5acc1e8909fbf39a1a3def2924be'
