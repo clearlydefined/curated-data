@@ -1,0 +1,8 @@
+coordinates:
+  name: ruby-terminfo
+  provider: rubygems
+  type: gem
+revisions:
+  0.1.1:
+    licensed:
+      declared: BSD-3-Clause
