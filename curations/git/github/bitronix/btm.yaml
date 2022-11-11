@@ -1,0 +1,9 @@
+coordinates:
+  name: btm
+  namespace: bitronix
+  provider: github
+  type: git
+revisions:
+  787b99b44c2969d460348dfa72be4f9b8ae9bed8:
+    licensed:
+      declared: LGPL-3.0-only
