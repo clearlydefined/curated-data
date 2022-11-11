@@ -17,6 +17,9 @@ revisions:
         path: LICENSE
     licensed:
       declared: libpng-2.0
+  c17d164b4467f099b4484dfd4a279da0bc1dbd4a:
+    licensed:
+      declared: zlib-acknowledgement
   dbe3e0c43e549a1602286144d94b0666549b18e6:
     licensed:
       declared: libpng-2.0
