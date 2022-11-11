@@ -1,0 +1,8 @@
+coordinates:
+  name: pysubnettree
+  provider: pypi
+  type: pypi
+revisions:
+  '0.34':
+    licensed:
+      declared: BSD-3-Clause
