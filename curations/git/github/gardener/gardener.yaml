@@ -1,0 +1,9 @@
+coordinates:
+  name: gardener
+  namespace: gardener
+  provider: github
+  type: git
+revisions:
+  d682a8aa77746693dc12f4efb7210c060610b25f:
+    licensed:
+      declared: Apache-2.0
