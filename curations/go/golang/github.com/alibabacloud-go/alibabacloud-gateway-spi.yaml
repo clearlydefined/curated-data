@@ -1,0 +1,9 @@
+coordinates:
+  name: alibabacloud-gateway-spi
+  namespace: github.com%2Falibabacloud-go
+  provider: golang
+  type: go
+revisions:
+  v0.0.4:
+    licensed:
+      declared: Apache-2.0

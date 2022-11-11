@@ -1,0 +1,9 @@
+coordinates:
+  name: swagger-core
+  namespace: swagger-api
+  provider: github
+  type: git
+revisions:
+  f2de9e88e7778e84751e4c7e8a210bae5ee1752e:
+    licensed:
+      declared: Apache-2.0

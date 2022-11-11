@@ -6,3 +6,6 @@ revisions:
   0.7.10:
     licensed:
       declared: Apache-2.0
+  0.7.7:
+    licensed:
+      declared: Apache-2.0
