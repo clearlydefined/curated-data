@@ -1,0 +1,8 @@
+coordinates:
+  name: json2html
+  provider: pypi
+  type: pypi
+revisions:
+  1.2.1:
+    licensed:
+      declared: MIT
