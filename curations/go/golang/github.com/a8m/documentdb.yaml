@@ -1,0 +1,9 @@
+coordinates:
+  name: documentdb
+  namespace: github.com%2Fa8m
+  provider: golang
+  type: go
+revisions:
+  v1.3.1-0.20220405205223-5b41ba0aaeb1:
+    licensed:
+      declared: MIT
