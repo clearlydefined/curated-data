@@ -9,4 +9,4 @@ revisions:
       declared: GPL-2.0-or-later
   7.2.2:
     licensed:
-      declared: GPL-2.0-only
+      declared: GPL-2.0-or-later
