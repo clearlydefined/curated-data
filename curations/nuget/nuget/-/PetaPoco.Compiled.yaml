@@ -1,0 +1,8 @@
+coordinates:
+  name: PetaPoco.Compiled
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.480:
+    licensed:
+      declared: Apache-2.0
