@@ -1,0 +1,8 @@
+coordinates:
+  name: textsearch
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.24:
+    licensed:
+      declared: MIT
