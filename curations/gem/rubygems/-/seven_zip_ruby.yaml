@@ -1,0 +1,8 @@
+coordinates:
+  name: seven_zip_ruby
+  provider: rubygems
+  type: gem
+revisions:
+  1.2.3:
+    licensed:
+      declared: LGPL-2.0-or-later AND OTHER
