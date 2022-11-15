@@ -5,4 +5,4 @@ coordinates:
 revisions:
   2.0.2:
     licensed:
-      declared: BSD-2-Clause
+      declared: GPL-2.0-only OR Ruby
