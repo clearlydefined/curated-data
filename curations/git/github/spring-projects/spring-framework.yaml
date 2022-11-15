@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-framework
+  namespace: spring-projects
+  provider: github
+  type: git
+revisions:
+  69921b49a5836e412ffcd1ea2c7e20d41f0c0fd6:
+    licensed:
+      declared: Apache-2.0
