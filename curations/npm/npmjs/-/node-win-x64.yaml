@@ -5,22 +5,25 @@ coordinates:
 revisions:
   10.16.3:
     licensed:
-      declared: NONE
+      declared: MIT
   12.14.1:
     licensed:
-      declared: NONE
+      declared: MIT
   12.18.0:
     licensed:
-      declared: NONE
+      declared: MIT
   12.6.0:
     licensed:
-      declared: NONE
+      declared: MIT
   14.16.1:
     licensed:
-      declared: NONE
+      declared: MIT
+  14.20.0:
+    licensed:
+      declared: MIT
   16.13.2:
     licensed:
-      declared: NONE
+      declared: MIT
   16.14.2:
     licensed:
-      declared: NONE
+      declared: MIT
