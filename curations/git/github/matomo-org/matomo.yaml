@@ -1,0 +1,9 @@
+coordinates:
+  name: matomo
+  namespace: matomo-org
+  provider: github
+  type: git
+revisions:
+  f39530ac470024266db514ca8756e694a8c5ec6c:
+    licensed:
+      declared: GPL-3.0-or-later
