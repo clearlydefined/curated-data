@@ -3,6 +3,9 @@ coordinates:
   provider: cocoapods
   type: pod
 revisions:
+  7.6.0:
+    licensed:
+      declared: OTHER
   7.6.3:
     licensed:
       declared: OTHER OR BSD-Source-Code
