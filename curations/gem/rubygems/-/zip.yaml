@@ -1,0 +1,8 @@
+coordinates:
+  name: zip
+  provider: rubygems
+  type: gem
+revisions:
+  2.0.2:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
