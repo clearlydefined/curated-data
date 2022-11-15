@@ -1,0 +1,8 @@
+coordinates:
+  name: dlib
+  provider: pypi
+  type: pypi
+revisions:
+  19.24.0:
+    licensed:
+      declared: BSL-1.0
