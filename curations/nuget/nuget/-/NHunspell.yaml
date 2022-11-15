@@ -1,0 +1,8 @@
+coordinates:
+  name: NHunspell
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.5359.26126:
+    licensed:
+      declared: GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1
