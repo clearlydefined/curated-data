@@ -5,118 +5,121 @@ coordinates:
 revisions:
   6.0.2:
     licensed:
-      declared: OTHER
+      declared: NONE
   6.1.6:
     licensed:
-      declared: OTHER
+      declared: NONE
   6.1.7:
     licensed:
-      declared: OTHER
+      declared: NONE
   6.3.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   6.6.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   6.6.2:
     licensed:
-      declared: OTHER
+      declared: NONE
   6.7.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   6.8.3:
     licensed:
-      declared: OTHER
+      declared: NONE
   6.9.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.0.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.1.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.10.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.11.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.2.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.3.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.4.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.5.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.6.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.7.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.8.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.8.1:
     licensed:
-      declared: OTHER
+      declared: NONE
   7.9.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.0.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.1.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.1.1:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.10.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.11.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.12.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.13.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.14.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.2.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.3.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.4.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.5.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.6.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.7.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.8.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.9.0:
     licensed:
-      declared: OTHER
+      declared: NONE
   8.9.1:
     licensed:
-      declared: OTHER
+      declared: NONE
+  9.2.0:
+    licensed:
+      declared: NONE
