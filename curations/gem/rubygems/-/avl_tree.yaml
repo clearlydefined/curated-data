@@ -1,0 +1,8 @@
+coordinates:
+  name: avl_tree
+  provider: rubygems
+  type: gem
+revisions:
+  1.2.1:
+    licensed:
+      declared: BSD-2-Clause
