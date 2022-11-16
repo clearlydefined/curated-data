@@ -1,0 +1,9 @@
+coordinates:
+  name: assert
+  namespace: github.com%2Falecthomas
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170929043011-405dbfeb8e38:
+    licensed:
+      declared: MIT
