@@ -1,0 +1,9 @@
+coordinates:
+  name: visitor-js-server
+  namespace: '@adobe-mcid'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0:
+    licensed:
+      declared: Adobe-2006
