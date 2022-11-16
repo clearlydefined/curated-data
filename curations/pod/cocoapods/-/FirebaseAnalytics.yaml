@@ -123,3 +123,6 @@ revisions:
   8.9.1:
     licensed:
       declared: OTHER
+  9.2.0:
+    licensed:
+      declared: OTHER
