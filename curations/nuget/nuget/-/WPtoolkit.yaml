@@ -1,0 +1,8 @@
+coordinates:
+  name: WPtoolkit
+  provider: nuget
+  type: nuget
+revisions:
+  4.2013.8.16:
+    licensed:
+      declared: MS-PL
