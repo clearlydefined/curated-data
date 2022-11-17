@@ -72,14 +72,16 @@ revisions:
   106.0.1363-pre:
     licensed:
       declared: OTHER
-  106.0.1370.34:
-    files:
-      - license: OTHER
-        path: license/license.txt
   106.0.1370.30:
     files:
       - license: OTHER
         path: license/license.txt
+  106.0.1370.34:
+    files:
+      - license: OTHER
+        path: license/license.txt
+    licensed:
+      declared: NONE
   107.0.1402.2-pre:
     licensed:
       declared: OTHER
