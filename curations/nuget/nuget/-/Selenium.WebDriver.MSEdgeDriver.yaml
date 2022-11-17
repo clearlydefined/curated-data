@@ -81,7 +81,7 @@ revisions:
       - license: OTHER
         path: license/license.txt
     licensed:
-      declared: NONE
+      declared: OTHER
   107.0.1402.2-pre:
     licensed:
       declared: OTHER
