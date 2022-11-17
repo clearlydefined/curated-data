@@ -1,0 +1,8 @@
+coordinates:
+  name: sparqlwrapper
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.0:
+    licensed:
+      declared: W3C-20150513
