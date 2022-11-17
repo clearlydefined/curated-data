@@ -3,6 +3,186 @@ coordinates:
   provider: rubygems
   type: gem
 revisions:
+  2.1.0:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.1.1:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.1.2:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.2.0:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.3.0:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.3.1:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.3.2:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.4.0:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.4.1:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.4.2:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.4.3:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.4.4:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.4.5:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.4.6:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.4.7:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.4.8:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.4.9:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.5.0:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.5.1:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.5.2:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.5.3:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.5.4:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  2.5.5:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.0.0:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.0.1:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.0.2:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.0.3:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.0.4:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.0.5:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.0.6:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.0.7:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.0.8:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.0.9:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.1.0:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.1.1:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.1.2:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.1.3:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.1.4:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.1.5:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.1.6:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.1.7:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.1.8:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.1.9:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.2.0:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.2.1:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.2.2:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.2.3:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.2.4:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.2.5:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.2.6:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.2.7:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.2.8:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.2.9:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.3.0:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.3.1:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.3.2:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.3.3:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.3.4:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.3.5:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
+  3.3.6:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
   3.3.7:
     licensed:
       declared: BSD-2-Clause OR Ruby
