@@ -1,0 +1,8 @@
+coordinates:
+  name: geojson-validation
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.1:
+    licensed:
+      declared: LGPL-3.0-only
