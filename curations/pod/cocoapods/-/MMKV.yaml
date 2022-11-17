@@ -8,4 +8,4 @@ revisions:
       declared: BSD-3-Clause
   1.2.14:
     licensed:
-      declared: OpenSSL
+      declared: BSD-3-Clause
