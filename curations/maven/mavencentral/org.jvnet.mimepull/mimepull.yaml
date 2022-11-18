@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  1.9.13:
+    licensed:
+      declared: BSD-3-Clause
   1.9.15:
     licensed:
       declared: BSD-3-Clause
