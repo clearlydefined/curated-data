@@ -150,3 +150,6 @@ revisions:
   6.0.5:
     licensed:
       declared: MIT
+  6.1.4:
+    licensed:
+      declared: MIT
