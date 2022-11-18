@@ -1,0 +1,8 @@
+coordinates:
+  name: pythonnet_py35_dotnet
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.0:
+    licensed:
+      declared: MIT
