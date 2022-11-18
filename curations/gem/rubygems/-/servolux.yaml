@@ -1,0 +1,8 @@
+coordinates:
+  name: servolux
+  provider: rubygems
+  type: gem
+revisions:
+  0.13.0:
+    licensed:
+      declared: MIT
