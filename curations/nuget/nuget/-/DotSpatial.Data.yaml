@@ -1,0 +1,8 @@
+coordinates:
+  name: DotSpatial.Data
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.0:
+    licensed:
+      declared: LGPL-2.1-only
