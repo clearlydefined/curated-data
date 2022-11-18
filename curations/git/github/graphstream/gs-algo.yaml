@@ -1,0 +1,9 @@
+coordinates:
+  name: gs-algo
+  namespace: graphstream
+  provider: github
+  type: git
+revisions:
+  327b76264bb9839f48f08efdbdb9b4857b8418e3:
+    licensed:
+      declared: LGPL-3.0-or-later OR CECILL-C
