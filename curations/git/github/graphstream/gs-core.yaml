@@ -1,0 +1,9 @@
+coordinates:
+  name: gs-core
+  namespace: graphstream
+  provider: github
+  type: git
+revisions:
+  1b37f7c20475f44d5e8ad3e1a391f1b2b5fdc524:
+    licensed:
+      declared: LGPL-3.0-or-later OR CECILL-C
