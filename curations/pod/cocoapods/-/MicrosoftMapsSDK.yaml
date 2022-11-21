@@ -1,0 +1,8 @@
+coordinates:
+  name: MicrosoftMapsSDK
+  provider: cocoapods
+  type: pod
+revisions:
+  1.2.0:
+    licensed:
+      declared: OTHER
