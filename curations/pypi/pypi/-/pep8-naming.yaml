@@ -1,0 +1,8 @@
+coordinates:
+  name: pep8-naming
+  provider: pypi
+  type: pypi
+revisions:
+  0.13.0:
+    licensed:
+      declared: MIT
