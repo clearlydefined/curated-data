@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  5.2.14:
+    licensed:
+      declared: RPL-1.5
   6.0.0:
     licensed:
       declared: OTHER
