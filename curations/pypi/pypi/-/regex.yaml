@@ -44,7 +44,7 @@ revisions:
       declared: CNRI-Python
   2020.6.8:
     licensed:
-      declared: CNRI-Python
+      declared: Python-2.0
   2020.7.14:
     licensed:
       declared: Apache-2.0
