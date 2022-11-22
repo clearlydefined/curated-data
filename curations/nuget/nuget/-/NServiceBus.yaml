@@ -5,7 +5,7 @@ coordinates:
 revisions:
   5.2.14:
     licensed:
-      declared: RPL-1.5
+      declared: OTHER
   6.0.0:
     licensed:
       declared: OTHER
