@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-auth-interop
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  20.0.0:
+    licensed:
+      declared: OTHER
