@@ -1,0 +1,8 @@
+coordinates:
+  name: pysptk
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.21:
+    licensed:
+      declared: MIT
