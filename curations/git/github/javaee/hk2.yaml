@@ -1,0 +1,9 @@
+coordinates:
+  name: hk2
+  namespace: javaee
+  provider: github
+  type: git
+revisions:
+  600bd7a8ca5648bb9318bab299606a3c60ff40d0:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only
