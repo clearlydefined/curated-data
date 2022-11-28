@@ -1,0 +1,8 @@
+coordinates:
+  name: Merq.Async
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.1-alpha:
+    licensed:
+      declared: MIT
