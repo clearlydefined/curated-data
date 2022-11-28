@@ -1,0 +1,8 @@
+coordinates:
+  name: ui5-task-zipper
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.4:
+    licensed:
+      declared: Apache-2.0 OR Beerware
