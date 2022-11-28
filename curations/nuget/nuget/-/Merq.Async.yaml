@@ -1,11 +1,8 @@
 coordinates:
-  name: Ocelot
+  name: Merq.Async
   provider: nuget
   type: nuget
 revisions:
-  16.0.1:
-    licensed:
-      declared: MIT
-  18.0.0:
+  1.0.1-alpha:
     licensed:
       declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: cidrutils
+  namespace: edazdarevic
+  provider: github
+  type: git
+revisions:
+  b20614c147997bc0fb204cbba425be2d6811c0a8:
+    licensed:
+      declared: MIT
