@@ -1,0 +1,9 @@
+coordinates:
+  name: libcpuid
+  namespace: anrieff
+  provider: github
+  type: git
+revisions:
+  4e3b633bee84d8062cede42322f540627d0c558d:
+    licensed:
+      declared: BSD-2-Clause
