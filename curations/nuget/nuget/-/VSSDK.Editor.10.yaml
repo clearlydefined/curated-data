@@ -1,11 +1,8 @@
 coordinates:
-  name: VSSDK.IDE.9
+  name: VSSDK.Editor.10
   provider: nuget
   type: nuget
 revisions:
-  9.0.3:
-    licensed:
-      declared: NONE
-  9.0.4:
+  10.0.4:
     licensed:
       declared: NONE
