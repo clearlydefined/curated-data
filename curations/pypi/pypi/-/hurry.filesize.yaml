@@ -1,0 +1,8 @@
+coordinates:
+  name: hurry.filesize
+  provider: pypi
+  type: pypi
+revisions:
+  '0.9':
+    licensed:
+      declared: ZPL-2.1
