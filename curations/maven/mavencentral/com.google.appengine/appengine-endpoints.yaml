@@ -1,0 +1,9 @@
+coordinates:
+  name: appengine-endpoints
+  namespace: com.google.appengine
+  provider: mavencentral
+  type: maven
+revisions:
+  1.9.18:
+    licensed:
+      declared: NONE
