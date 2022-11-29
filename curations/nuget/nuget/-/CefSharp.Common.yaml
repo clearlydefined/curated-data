@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  103.0.120:
+    licensed:
+      declared: BSD-3-Clause
   63.0.3:
     files:
       - attributions:
