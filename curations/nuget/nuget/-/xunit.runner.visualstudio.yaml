@@ -15,6 +15,9 @@ revisions:
   2.1.0:
     licensed:
       declared: Apache-2.0
+  2.1.0-rc2-build1126:
+    licensed:
+      declared: Apache-2.0
   2.2.0:
     described:
       releaseDate: '2017-02-20'
