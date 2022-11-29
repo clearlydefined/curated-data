@@ -1,0 +1,9 @@
+coordinates:
+  name: appengine-api-1.0-sdk
+  namespace: com.google.appengine
+  provider: mavencentral
+  type: maven
+revisions:
+  1.9.18:
+    licensed:
+      declared: NONE
