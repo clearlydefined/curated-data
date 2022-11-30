@@ -1,0 +1,9 @@
+coordinates:
+  name: jooq
+  namespace: jooq
+  provider: github
+  type: git
+revisions:
+  962cfecf363fda90646c415c53c4d00a36bb1049:
+    licensed:
+      declared: Apache-2.0 OR OTHER
