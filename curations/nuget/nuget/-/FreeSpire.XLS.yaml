@@ -9,6 +9,9 @@ revisions:
   10.10.0:
     licensed:
       declared: OTHER
+  7.9.0:
+    licensed:
+      declared: OTHER
   9.10.11:
     licensed:
       declared: OTHER
