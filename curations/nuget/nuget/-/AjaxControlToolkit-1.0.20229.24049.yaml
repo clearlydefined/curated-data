@@ -1,0 +1,8 @@
+coordinates:
+  name: AjaxControlToolkit-1.0.20229.24049
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.20229.24049:
+    licensed:
+      declared: NONE
