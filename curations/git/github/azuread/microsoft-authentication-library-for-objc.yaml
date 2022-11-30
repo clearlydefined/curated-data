@@ -1,0 +1,9 @@
+coordinates:
+  name: microsoft-authentication-library-for-objc
+  namespace: azuread
+  provider: github
+  type: git
+revisions:
+  388018336872c5af694bc7fec987476ac5bc2b7b:
+    licensed:
+      declared: MIT
