@@ -1,0 +1,9 @@
+coordinates:
+  name: quartz
+  namespace: quartz-scheduler
+  provider: github
+  type: git
+revisions:
+  3533e4063644c0436ac5e873a75b647703aea6dd:
+    licensed:
+      declared: Apache-2.0
