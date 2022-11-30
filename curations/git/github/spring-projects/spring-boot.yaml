@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-boot
+  namespace: spring-projects
+  provider: github
+  type: git
+revisions:
+  c99c82a18ec0ed3051b65f1b5c25868ee4942a4e:
+    licensed:
+      declared: Apache-2.0
