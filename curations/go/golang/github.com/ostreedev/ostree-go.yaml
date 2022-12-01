@@ -1,0 +1,9 @@
+coordinates:
+  name: ostree-go
+  namespace: github.com%2Fostreedev
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190702140239-759a8c1ac913:
+    licensed:
+      declared: ISC
