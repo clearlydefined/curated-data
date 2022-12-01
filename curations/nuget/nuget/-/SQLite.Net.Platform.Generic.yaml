@@ -1,0 +1,8 @@
+coordinates:
+  name: SQLite.Net.Platform.Generic
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.1:
+    licensed:
+      declared: MIT
