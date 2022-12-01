@@ -1,0 +1,9 @@
+coordinates:
+  name: pf4j-spring
+  namespace: pf4j
+  provider: github
+  type: git
+revisions:
+  ab583fd5ff406bb7da1a7be1fcb1ccf14b55033f:
+    licensed:
+      declared: Apache-2.0
