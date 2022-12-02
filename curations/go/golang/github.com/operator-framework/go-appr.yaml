@@ -1,0 +1,9 @@
+coordinates:
+  name: go-appr
+  namespace: github.com%2Foperator-framework
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180917210448-f2aef88446f2:
+    licensed:
+      declared: Apache-2.0
