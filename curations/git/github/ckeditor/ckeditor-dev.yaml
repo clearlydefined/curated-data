@@ -1,0 +1,9 @@
+coordinates:
+  name: ckeditor-dev
+  namespace: ckeditor
+  provider: github
+  type: git
+revisions:
+  8a12b041718e05eeffb62a931d95995ac72cbe22:
+    licensed:
+      declared: GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1
