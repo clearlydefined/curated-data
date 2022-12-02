@@ -1,0 +1,9 @@
+coordinates:
+  name: v4
+  namespace: github.com%2Fpierrec%2Flz4
+  provider: golang
+  type: go
+revisions:
+  v4.1.2:
+    licensed:
+      declared: BSD-3-Clause
