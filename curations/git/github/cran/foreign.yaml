@@ -1,0 +1,9 @@
+coordinates:
+  name: foreign
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  5080dc760d666c8532e27288cc07cbaf43bc5866:
+    licensed:
+      declared: GPL-2.0-or-later
