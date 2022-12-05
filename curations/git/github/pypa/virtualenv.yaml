@@ -1,0 +1,9 @@
+coordinates:
+  name: virtualenv
+  namespace: pypa
+  provider: github
+  type: git
+revisions:
+  2db288fe1f8b6755f8df53b8a8a0667a0f71b1cf:
+    licensed:
+      declared: MIT
