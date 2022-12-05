@@ -1,0 +1,9 @@
+coordinates:
+  name: crayon
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  c1b2524e6e7d0e666e425d31424f772647ed4fab:
+    licensed:
+      declared: MIT
