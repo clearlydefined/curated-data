@@ -1,0 +1,15 @@
+coordinates:
+  name: core
+  namespace: '@dnd-kit'
+  provider: npmjs
+  type: npm
+revisions:
+  3.1.1:
+    described:
+      sourceLocation:
+        name: dnd-kit
+        namespace: clauderic
+        provider: github
+        revision: 6fdef7f073bb8d0225149e364e4b85c10855c8d3
+        type: git
+        url: 'https://github.com/clauderic/dnd-kit/commit/6fdef7f073bb8d0225149e364e4b85c10855c8d3'
