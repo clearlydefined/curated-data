@@ -1,0 +1,8 @@
+coordinates:
+  name: ngx-pagination
+  provider: npmjs
+  type: npm
+revisions:
+  6.0.2:
+    licensed:
+      declared: MIT
