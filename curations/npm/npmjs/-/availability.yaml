@@ -1,0 +1,8 @@
+coordinates:
+  name: availability
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    licensed:
+      declared: MS-PL
