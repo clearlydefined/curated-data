@@ -1,0 +1,9 @@
+coordinates:
+  name: auto-node-repair
+  namespace: gardener
+  provider: github
+  type: git
+revisions:
+  e6378f7501ae7a0077643ac8e53d4083cce35511:
+    licensed:
+      declared: Apache-2.0
