@@ -1,0 +1,8 @@
+coordinates:
+  name: windpowerlib
+  provider: pypi
+  type: pypi
+revisions:
+  0.2.1:
+    licensed:
+      declared: MIT
