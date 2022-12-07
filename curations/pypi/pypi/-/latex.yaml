@@ -1,0 +1,8 @@
+coordinates:
+  name: latex
+  provider: pypi
+  type: pypi
+revisions:
+  0.7.0:
+    licensed:
+      declared: BSD-3-Clause
