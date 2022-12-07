@@ -1,0 +1,8 @@
+coordinates:
+  name: jupyter-sphinx
+  provider: pypi
+  type: pypi
+revisions:
+  0.4.0:
+    licensed:
+      declared: BSD-3-Clause
