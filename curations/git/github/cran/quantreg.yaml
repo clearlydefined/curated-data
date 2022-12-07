@@ -1,0 +1,9 @@
+coordinates:
+  name: quantreg
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  b9eecff4551f00d609c3978c3f7bfe0b3fd615a0:
+    licensed:
+      declared: GPL-2.0-or-later
