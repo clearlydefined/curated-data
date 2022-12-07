@@ -1,0 +1,9 @@
+coordinates:
+  name: cluster-api-provider-baremetal
+  namespace: github.com%2Fopenshift
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220218121658-fc0acaaec338:
+    licensed:
+      declared: Apache-2.0
