@@ -1,0 +1,10 @@
+coordinates:
+  name: msvc-runtime
+  provider: pypi
+  type: pypi
+revisions:
+  14.29.30133:
+    described:
+      releaseDate: '2021-08-10'
+    licensed:
+      declared: OTHER
