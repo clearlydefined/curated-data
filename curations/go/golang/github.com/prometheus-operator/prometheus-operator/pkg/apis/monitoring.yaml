@@ -1,0 +1,9 @@
+coordinates:
+  name: monitoring
+  namespace: github.com%2Fprometheus-operator%2Fprometheus-operator%2Fpkg%2Fapis
+  provider: golang
+  type: go
+revisions:
+  v0.50.0:
+    licensed:
+      declared: Apache-2.0
