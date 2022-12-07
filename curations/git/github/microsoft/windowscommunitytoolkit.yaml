@@ -1,0 +1,9 @@
+coordinates:
+  name: windowscommunitytoolkit
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  a1a8d1391753487a89563795084bd76014e0ca83:
+    licensed:
+      declared: MIT
