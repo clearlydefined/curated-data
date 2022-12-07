@@ -1,0 +1,8 @@
+coordinates:
+  name: pandoc
+  provider: pypi
+  type: pypi
+revisions:
+  '2.2':
+    licensed:
+      declared: GPL-2.0-only
