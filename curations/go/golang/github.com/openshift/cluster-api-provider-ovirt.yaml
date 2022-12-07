@@ -1,0 +1,9 @@
+coordinates:
+  name: cluster-api-provider-ovirt
+  namespace: github.com%2Fopenshift
+  provider: golang
+  type: go
+revisions:
+  v0.1.1-0.20211215231458-35ce9aafee1f:
+    licensed:
+      declared: Apache-2.0
