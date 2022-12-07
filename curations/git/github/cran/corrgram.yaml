@@ -1,0 +1,9 @@
+coordinates:
+  name: corrgram
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  f4ead2702e8ac36d13221cb0256c0c1d96ac2c99:
+    licensed:
+      declared: GPL-3.0-only
