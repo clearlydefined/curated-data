@@ -1,0 +1,9 @@
+coordinates:
+  name: highlight_diff
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170515013008-09bb4053de1b:
+    licensed:
+      declared: MIT
