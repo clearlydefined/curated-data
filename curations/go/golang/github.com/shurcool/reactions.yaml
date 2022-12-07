@@ -1,0 +1,9 @@
+coordinates:
+  name: reactions
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181006231557-f2e0b4ca5b82:
+    licensed:
+      declared: MIT
