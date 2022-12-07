@@ -1,0 +1,9 @@
+coordinates:
+  name: notifications
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181007000457-627ab5aea122:
+    licensed:
+      declared: MIT
