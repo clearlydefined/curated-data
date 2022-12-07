@@ -1,0 +1,9 @@
+coordinates:
+  name: castor
+  namespace: castor-data-binding
+  provider: github
+  type: git
+revisions:
+  305916a258078810fc8afdd98506d3ac30f42783:
+    licensed:
+      declared: Apache-2.0
