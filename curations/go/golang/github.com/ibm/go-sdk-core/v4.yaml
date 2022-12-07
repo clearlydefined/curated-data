@@ -1,0 +1,9 @@
+coordinates:
+  name: v4
+  namespace: github.com%2Fibm%2Fgo-sdk-core
+  provider: golang
+  type: go
+revisions:
+  v4.5.1:
+    licensed:
+      declared: Apache-2.0
