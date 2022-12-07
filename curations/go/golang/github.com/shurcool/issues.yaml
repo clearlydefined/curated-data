@@ -1,0 +1,9 @@
+coordinates:
+  name: issues
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181008053335-6292fdc1e191:
+    licensed:
+      declared: MIT
