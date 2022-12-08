@@ -1,0 +1,9 @@
+coordinates:
+  name: component
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170202220835-f88ec8f54cc4:
+    licensed:
+      declared: MIT

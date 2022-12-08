@@ -1,12 +1,12 @@
 coordinates:
-  name: vcontext
-  namespace: github.com%2Fcoreos
+  name: api
+  namespace: github.com%2Foperator-framework
   provider: golang
   type: go
 revisions:
-  v0.0.0-20211021162308-f1dbbca7bef4:
+  v0.3.7-0.20200602203552-431198de9fc2:
     licensed:
       declared: Apache-2.0
-  v0.0.0-20220326205524-7fcaf69e7050:
+  v0.3.13:
     licensed:
       declared: Apache-2.0
