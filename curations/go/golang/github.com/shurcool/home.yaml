@@ -1,0 +1,9 @@
+coordinates:
+  name: home
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181020052607-80b7ffcb30f9:
+    licensed:
+      declared: MIT
