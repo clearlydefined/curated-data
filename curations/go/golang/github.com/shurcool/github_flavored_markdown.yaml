@@ -1,0 +1,9 @@
+coordinates:
+  name: github_flavored_markdown
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181002035957-2122de532470:
+    licensed:
+      declared: MIT
