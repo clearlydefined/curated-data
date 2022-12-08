@@ -1,0 +1,9 @@
+coordinates:
+  name: ilspy
+  namespace: icsharpcode
+  provider: github
+  type: git
+revisions:
+  3c6961a9446bca1b4d8f2ec08b82eb8c49f47de8:
+    licensed:
+      declared: MIT
