@@ -1,0 +1,9 @@
+coordinates:
+  name: highlight_go
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181028180052-98c3abbbae20:
+    licensed:
+      declared: MIT
