@@ -1,0 +1,9 @@
+coordinates:
+  name: assert
+  namespace: github.com%2Fbruth
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20130823105606-de420fa3b72e:
+    licensed:
+      declared: MIT
