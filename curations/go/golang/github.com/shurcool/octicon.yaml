@@ -1,0 +1,9 @@
+coordinates:
+  name: octicon
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181028054416-fa4f57f9efb2:
+    licensed:
+      declared: MIT
