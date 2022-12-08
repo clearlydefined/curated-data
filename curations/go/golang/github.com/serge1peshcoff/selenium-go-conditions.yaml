@@ -1,0 +1,9 @@
+coordinates:
+  name: selenium-go-conditions
+  namespace: github.com%2Fserge1peshcoff
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170824121757-5afbdb74596b:
+    licensed:
+      declared: NONE
