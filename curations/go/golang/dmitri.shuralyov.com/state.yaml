@@ -1,0 +1,9 @@
+coordinates:
+  name: state
+  namespace: dmitri.shuralyov.com
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180228185332-28bcc343414c:
+    licensed:
+      declared: BSD-3-Clause
