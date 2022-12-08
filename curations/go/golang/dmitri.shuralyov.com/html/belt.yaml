@@ -1,0 +1,9 @@
+coordinates:
+  name: belt
+  namespace: dmitri.shuralyov.com%2Fhtml
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180602232347-f7d459c86be0:
+    licensed:
+      declared: BSD-3-Clause
