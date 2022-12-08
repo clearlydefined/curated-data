@@ -1,0 +1,9 @@
+coordinates:
+  name: baremetal-operator
+  namespace: github.com%2Fopenshift
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20211201170610-92ffa60c683d:
+    licensed:
+      declared: Apache-2.0

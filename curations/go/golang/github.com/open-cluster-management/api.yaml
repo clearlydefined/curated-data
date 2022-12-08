@@ -1,0 +1,9 @@
+coordinates:
+  name: api
+  namespace: github.com%2Fopen-cluster-management
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20210527013639-a6845f2ebcb1:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: httpgzip
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180522190206-b1c53ac65af9:
+    licensed:
+      declared: MIT
