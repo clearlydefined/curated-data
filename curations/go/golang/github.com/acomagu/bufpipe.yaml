@@ -1,0 +1,9 @@
+coordinates:
+  name: bufpipe
+  namespace: github.com%2Facomagu
+  provider: golang
+  type: go
+revisions:
+  v1.0.3:
+    licensed:
+      declared: MIT

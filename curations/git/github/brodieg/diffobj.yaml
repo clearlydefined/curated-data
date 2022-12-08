@@ -1,0 +1,9 @@
+coordinates:
+  name: diffobj
+  namespace: brodieg
+  provider: github
+  type: git
+revisions:
+  a9fa81737d771a363a4117fa823a340a7f297f98:
+    licensed:
+      declared: GPL-2.0-or-later

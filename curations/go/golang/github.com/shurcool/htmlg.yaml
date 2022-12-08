@@ -1,0 +1,9 @@
+coordinates:
+  name: htmlg
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170918183704-d01228ac9e50:
+    licensed:
+      declared: MIT
