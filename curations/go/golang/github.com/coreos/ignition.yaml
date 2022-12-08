@@ -1,11 +1,12 @@
 coordinates:
-  name: mousetrap
-  provider: npmjs
-  type: npm
+  name: ignition
+  namespace: github.com%2Fcoreos
+  provider: golang
+  type: go
 revisions:
-  1.5.3:
+  v0.35.0:
     licensed:
       declared: Apache-2.0
-  1.6.0:
+  v0.33.0:
     licensed:
       declared: Apache-2.0
