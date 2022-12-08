@@ -1,0 +1,9 @@
+coordinates:
+  name: httperror
+  namespace: github.com%2Fshurcool
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20170206035902-86b7830d14cc:
+    licensed:
+      declared: MIT
