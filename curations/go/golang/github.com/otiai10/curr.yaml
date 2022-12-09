@@ -1,0 +1,9 @@
+coordinates:
+  name: curr
+  namespace: github.com%2Fotiai10
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20150429015615-9b4961190c95:
+    licensed:
+      declared: WTFPL
