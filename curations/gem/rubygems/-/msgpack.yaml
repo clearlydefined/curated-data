@@ -3,6 +3,75 @@ coordinates:
   provider: rubygems
   type: gem
 revisions:
+  0.5.0:
+    licensed:
+      declared: Apache-2.0
+  0.5.1:
+    licensed:
+      declared: Apache-2.0
+  0.5.2:
+    licensed:
+      declared: Apache-2.0
+  0.5.3:
+    licensed:
+      declared: Apache-2.0
+  0.5.4:
+    licensed:
+      declared: Apache-2.0
+  0.5.5:
+    licensed:
+      declared: Apache-2.0
+  0.5.6:
+    licensed:
+      declared: Apache-2.0
+  0.5.7:
+    licensed:
+      declared: Apache-2.0
+  0.5.8:
+    licensed:
+      declared: Apache-2.0
+  0.5.9:
+    licensed:
+      declared: Apache-2.0
+  0.5.10:
+    licensed:
+      declared: Apache-2.0
+  0.5.11:
+    licensed:
+      declared: Apache-2.0
+  0.5.12:
+    licensed:
+      declared: Apache-2.0
+  0.6.0:
+    licensed:
+      declared: Apache-2.0
+  0.6.1:
+    licensed:
+      declared: Apache-2.0
+  0.6.2:
+    licensed:
+      declared: Apache-2.0
+  0.7.0:
+    licensed:
+      declared: Apache-2.0
+  0.7.1:
+    licensed:
+      declared: Apache-2.0
+  0.7.2:
+    licensed:
+      declared: Apache-2.0
+  0.7.3:
+    licensed:
+      declared: Apache-2.0
+  0.7.4:
+    licensed:
+      declared: Apache-2.0
+  0.7.5:
+    licensed:
+      declared: Apache-2.0
+  0.7.6:
+    licensed:
+      declared: Apache-2.0
   1.0.0:
     licensed:
       declared: Apache-2.0
