@@ -11,6 +11,9 @@ revisions:
         path: Newtonsoft.Json.nuspec
     licensed:
       declared: MIT
+  10.0.1-beta1:
+    licensed:
+      declared: MIT
   10.0.2:
     licensed:
       declared: MIT
