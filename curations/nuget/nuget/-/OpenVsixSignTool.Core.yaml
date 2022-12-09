@@ -1,0 +1,8 @@
+coordinates:
+  name: OpenVsixSignTool.Core
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.2:
+    licensed:
+      declared: MIT
