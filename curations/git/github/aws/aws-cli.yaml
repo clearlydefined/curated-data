@@ -1,0 +1,9 @@
+coordinates:
+  name: aws-cli
+  namespace: aws
+  provider: github
+  type: git
+revisions:
+  7e67308d07d06f89bc7b5dd0a5d3723aca18f724:
+    licensed:
+      declared: Apache-2.0
