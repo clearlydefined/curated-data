@@ -1,0 +1,9 @@
+coordinates:
+  name: statsmodels
+  namespace: statsmodels
+  provider: github
+  type: git
+revisions:
+  a8889192d705e86397acf1473fa3f4336b0b6816:
+    licensed:
+      declared: BSD-3-Clause
