@@ -1,0 +1,9 @@
+coordinates:
+  name: exenv
+  namespace: jedwatson
+  provider: github
+  type: git
+revisions:
+  bf84d0a7782fd824a1d94ed612067b1e0d080d2e:
+    licensed:
+      declared: BSD-3-Clause
