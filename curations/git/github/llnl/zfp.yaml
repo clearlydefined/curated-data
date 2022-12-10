@@ -1,0 +1,9 @@
+coordinates:
+  name: zfp
+  namespace: llnl
+  provider: github
+  type: git
+revisions:
+  1d64a16139d0ccb13eca8cf1868cc917635d2ca4:
+    licensed:
+      declared: BSD-3-Clause
