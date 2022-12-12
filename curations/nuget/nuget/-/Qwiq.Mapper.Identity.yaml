@@ -1,0 +1,8 @@
+coordinates:
+  name: Qwiq.Mapper.Identity
+  provider: nuget
+  type: nuget
+revisions:
+  10.0.1:
+    licensed:
+      declared: MIT
