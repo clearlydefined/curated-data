@@ -1,0 +1,8 @@
+coordinates:
+  name: Qwiq.Identity.Soap
+  provider: nuget
+  type: nuget
+revisions:
+  10.0.1:
+    licensed:
+      declared: MIT
