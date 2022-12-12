@@ -1,0 +1,8 @@
+coordinates:
+  name: VSSDK.Shell.Interop.10
+  provider: nuget
+  type: nuget
+revisions:
+  10.0.4:
+    licensed:
+      declared: NONE
