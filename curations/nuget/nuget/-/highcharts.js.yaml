@@ -1,0 +1,8 @@
+coordinates:
+  name: highcharts.js
+  provider: nuget
+  type: nuget
+revisions:
+  7.1.2:
+    licensed:
+      declared: CC-BY-3.0
