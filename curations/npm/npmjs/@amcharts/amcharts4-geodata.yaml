@@ -1,0 +1,9 @@
+coordinates:
+  name: amcharts4-geodata
+  namespace: '@amcharts'
+  provider: npmjs
+  type: npm
+revisions:
+  4.1.23:
+    licensed:
+      declared: OTHER
