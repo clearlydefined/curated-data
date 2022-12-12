@@ -1,0 +1,8 @@
+coordinates:
+  name: VSSDK.GraphModel
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.4:
+    licensed:
+      declared: NONE
