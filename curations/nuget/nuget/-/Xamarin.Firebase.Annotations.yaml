@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Firebase.Annotations
+  provider: nuget
+  type: nuget
+revisions:
+  116.1.0:
+    licensed:
+      declared: MIT
