@@ -1,0 +1,8 @@
+coordinates:
+  name: Com.Airbnb.Android.Lottie
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.0.1:
+    licensed:
+      declared: Apache-2.0
