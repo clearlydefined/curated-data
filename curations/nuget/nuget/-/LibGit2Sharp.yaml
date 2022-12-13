@@ -99,6 +99,9 @@ revisions:
   0.27.0-preview-0119:
     licensed:
       declared: MIT
+  0.27.0-preview-0156:
+    licensed:
+      declared: MIT
   0.27.0-preview-0158:
     licensed:
       declared: MIT
