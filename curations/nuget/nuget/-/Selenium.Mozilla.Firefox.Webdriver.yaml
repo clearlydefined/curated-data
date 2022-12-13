@@ -1,0 +1,8 @@
+coordinates:
+  name: Selenium.Mozilla.Firefox.Webdriver
+  provider: nuget
+  type: nuget
+revisions:
+  0.6.0.1:
+    licensed:
+      declared: CC0-1.0
