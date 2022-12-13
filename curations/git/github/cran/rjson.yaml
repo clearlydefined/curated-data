@@ -1,0 +1,9 @@
+coordinates:
+  name: rjson
+  namespace: cran
+  provider: github
+  type: git
+revisions:
+  fd21925cf51564a98bb360df5c8f9efce4e8f82a:
+    licensed:
+      declared: GPL-2.0-only
