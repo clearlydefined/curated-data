@@ -1,0 +1,9 @@
+coordinates:
+  name: markdown
+  namespace: rstudio
+  provider: github
+  type: git
+revisions:
+  9537120023c89959fa06a51a4217fda891f91fad:
+    licensed:
+      declared: GPL-2.0-only
