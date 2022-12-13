@@ -6,6 +6,9 @@ revisions:
   6.2.7:
     licensed:
       declared: OTHER
+  7.1.4:
+    licensed:
+      declared: RPL-1.5
   7.2.0:
     licensed:
       declared: OTHER
