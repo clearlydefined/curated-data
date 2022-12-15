@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Forms.Design
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.26-pre:
+    licensed:
+      declared: NONE
