@@ -1,0 +1,9 @@
+coordinates:
+  name: jackson-module-scala
+  namespace: fasterxml
+  provider: github
+  type: git
+revisions:
+  d228c90c4aac4f1fc1e15224af7b5c6882c87447:
+    licensed:
+      declared: Apache-2.0
