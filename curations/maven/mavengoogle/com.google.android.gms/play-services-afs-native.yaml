@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-afs-native
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  19.0.3:
+    licensed:
+      declared: OTHER
