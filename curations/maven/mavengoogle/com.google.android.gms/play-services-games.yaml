@@ -1,0 +1,27 @@
+coordinates:
+  name: play-services-games
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.0.0:
+    licensed:
+      declared: OTHER
+  17.0.0:
+    licensed:
+      declared: OTHER
+  18.0.0:
+    licensed:
+      declared: OTHER
+  19.0.0:
+    licensed:
+      declared: OTHER
+  20.0.1:
+    licensed:
+      declared: OTHER
+  21.0.0:
+    licensed:
+      declared: OTHER
+  22.0.1:
+    licensed:
+      declared: OTHER
