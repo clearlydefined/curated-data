@@ -1,0 +1,9 @@
+coordinates:
+  name: translate
+  namespace: com.google.mlkit
+  provider: mavengoogle
+  type: maven
+revisions:
+  17.0.1:
+    licensed:
+      declared: OTHER
