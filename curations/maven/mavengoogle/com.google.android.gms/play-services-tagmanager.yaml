@@ -1,0 +1,24 @@
+coordinates:
+  name: play-services-tagmanager
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.0.4:
+    licensed:
+      declared: OTHER
+  17.0.0:
+    licensed:
+      declared: OTHER
+  17.0.1:
+    licensed:
+      declared: OTHER
+  18.0.0:
+    licensed:
+      declared: OTHER
+  18.0.1:
+    licensed:
+      declared: OTHER
+  18.0.2:
+    licensed:
+      declared: OTHER
