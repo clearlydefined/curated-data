@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-wearable
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  18.0.0:
+    licensed:
+      declared: OTHER
