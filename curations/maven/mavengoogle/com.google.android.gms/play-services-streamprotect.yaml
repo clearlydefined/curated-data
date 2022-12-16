@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-streamprotect
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.0.2:
+    licensed:
+      declared: OTHER
