@@ -6,3 +6,6 @@ revisions:
   2.8.2-preview.178:
     licensed:
       declared: MIT
+  2.8.2.3:
+    licensed:
+      declared: MIT
