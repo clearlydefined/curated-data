@@ -1,0 +1,9 @@
+coordinates:
+  name: mdadm
+  namespace: neilbrown
+  provider: github
+  type: git
+revisions:
+  20e8fe52e7190b3ffda127566852eac2eb7fa1f7:
+    licensed:
+      declared: GPL-2.0+ OR GPL-2.0-only+
