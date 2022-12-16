@@ -1,0 +1,9 @@
+coordinates:
+  name: common
+  namespace: com.google.mlkit
+  provider: mavengoogle
+  type: maven
+revisions:
+  18.5.0:
+    licensed:
+      declared: OTHER
