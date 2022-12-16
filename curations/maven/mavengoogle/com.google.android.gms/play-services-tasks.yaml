@@ -19,10 +19,19 @@ revisions:
   17.0.0:
     licensed:
       declared: OTHER
+  17.0.2:
+    licensed:
+      declared: OTHER
+  17.1.0:
+    licensed:
+      declared: OTHER
   17.2.0:
     licensed:
       declared: OTHER
   17.2.1:
+    licensed:
+      declared: OTHER
+  18.0.1:
     licensed:
       declared: OTHER
   18.0.2:
