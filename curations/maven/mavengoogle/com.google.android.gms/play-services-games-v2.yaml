@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-games-v2
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  17.0.0:
+    licensed:
+      declared: OTHER
