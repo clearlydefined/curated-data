@@ -1,0 +1,9 @@
+coordinates:
+  name: language-id-common
+  namespace: com.google.mlkit
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.1.0:
+    licensed:
+      declared: OTHER
