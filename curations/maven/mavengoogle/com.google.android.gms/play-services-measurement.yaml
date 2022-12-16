@@ -4,12 +4,57 @@ coordinates:
   provider: mavengoogle
   type: maven
 revisions:
+  16.4.0:
+    licensed:
+      declared: OTHER
   16.5.0:
+    licensed:
+      declared: OTHER
+  17.0.1:
+    licensed:
+      declared: OTHER
+  17.2.2:
+    licensed:
+      declared: OTHER
+  17.4.1:
+    licensed:
+      declared: OTHER
+  17.4.4:
+    licensed:
+      declared: OTHER
+  17.5.0:
+    licensed:
+      declared: OTHER
+  17.6.0:
+    licensed:
+      declared: OTHER
+  18.0.0:
+    licensed:
+      declared: OTHER
+  18.0.1:
     licensed:
       declared: OTHER
   18.0.2:
     licensed:
       declared: OTHER
   19.0.0:
+    licensed:
+      declared: OTHER
+  19.0.1:
+    licensed:
+      declared: OTHER
+  19.0.2:
+    licensed:
+      declared: OTHER
+  20.0.2:
+    licensed:
+      declared: OTHER
+  20.1.0:
+    licensed:
+      declared: OTHER
+  21.0.0:
+    licensed:
+      declared: OTHER
+  21.1.1:
     licensed:
       declared: OTHER
