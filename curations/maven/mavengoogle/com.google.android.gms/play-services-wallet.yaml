@@ -1,0 +1,21 @@
+coordinates:
+  name: play-services-wallet
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.0.0:
+    licensed:
+      declared: OTHER
+  17.0.0:
+    licensed:
+      declared: OTHER
+  18.0.0:
+    licensed:
+      declared: OTHER
+  18.1.2:
+    licensed:
+      declared: OTHER
+  19.1.0:
+    licensed:
+      declared: OTHER
