@@ -6,3 +6,6 @@ revisions:
   1.68.0:
     licensed:
       declared: MIT
+  2.88.1-preview.108:
+    licensed:
+      declared: MIT
