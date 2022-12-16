@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-tflite-gpu
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.0.0:
+    licensed:
+      declared: OTHER
