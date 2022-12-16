@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-tagmanager-api
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  18.0.2:
+    licensed:
+      declared: OTHER
