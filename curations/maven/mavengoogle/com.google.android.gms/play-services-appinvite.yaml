@@ -1,0 +1,15 @@
+coordinates:
+  name: play-services-appinvite
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.0.4:
+    licensed:
+      declared: OTHER
+  16.0.7:
+    licensed:
+      declared: OTHER
+  18.0.0:
+    licensed:
+      declared: OTHER
