@@ -1,0 +1,9 @@
+coordinates:
+  name: review-ktx
+  namespace: com.google.android.play
+  provider: mavengoogle
+  type: maven
+revisions:
+  2.0.0:
+    licensed:
+      declared: OTHER
