@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-auth-ktx
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  21.0.8:
+    licensed:
+      declared: OTHER
