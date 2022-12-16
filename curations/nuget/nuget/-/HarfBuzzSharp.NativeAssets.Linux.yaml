@@ -1,0 +1,8 @@
+coordinates:
+  name: HarfBuzzSharp.NativeAssets.Linux
+  provider: nuget
+  type: nuget
+revisions:
+  2.8.2.1-preview.108:
+    licensed:
+      declared: MIT
