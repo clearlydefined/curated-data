@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-mlkit-image-labeling
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.0.8:
+    licensed:
+      declared: OTHER
