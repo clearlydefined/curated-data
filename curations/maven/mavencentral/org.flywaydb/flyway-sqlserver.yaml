@@ -1,0 +1,9 @@
+coordinates:
+  name: flyway-sqlserver
+  namespace: org.flywaydb
+  provider: mavencentral
+  type: maven
+revisions:
+  8.5.13:
+    licensed:
+      declared: Apache-2.0
