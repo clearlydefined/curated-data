@@ -1,0 +1,9 @@
+coordinates:
+  name: genproto
+  namespace: google.golang.org
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220926165614-551eb538f295:
+    licensed:
+      declared: Apache-2.0
