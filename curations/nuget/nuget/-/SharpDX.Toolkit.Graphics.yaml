@@ -1,0 +1,8 @@
+coordinates:
+  name: SharpDX.Toolkit.Graphics
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.0:
+    licensed:
+      declared: MIT
