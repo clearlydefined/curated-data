@@ -39,3 +39,6 @@ revisions:
   7.1213.0:
     licensed:
       declared: BSD-3-Clause
+  7.123.0:
+    licensed:
+      declared: BSD-3-Clause
