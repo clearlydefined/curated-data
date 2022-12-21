@@ -1,0 +1,9 @@
+coordinates:
+  name: xnnpack
+  namespace: google
+  provider: github
+  type: git
+revisions:
+  003c580e696a774afdc984996ee909b7c8d8128c:
+    licensed:
+      declared: BSD-3-Clause
