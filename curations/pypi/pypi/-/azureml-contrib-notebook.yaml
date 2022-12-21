@@ -1,0 +1,8 @@
+coordinates:
+  name: azureml-contrib-notebook
+  provider: pypi
+  type: pypi
+revisions:
+  1.13.0.post1:
+    licensed:
+      declared: OTHER
