@@ -1,0 +1,9 @@
+coordinates:
+  name: stackerr
+  namespace: github.com%2Ffacebookgo
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20150612192056-c2fcf88613f4:
+    licensed:
+      declared: BSD-4-Clause
