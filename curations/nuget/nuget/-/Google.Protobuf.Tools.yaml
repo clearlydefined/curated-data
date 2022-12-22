@@ -108,6 +108,9 @@ revisions:
   3.21.8:
     licensed:
       declared: BSD-3-Clause
+  3.21.9:
+    licensed:
+      declared: BSD-3-Clause
   3.3.0:
     licensed:
       declared: BSD-3-Clause
