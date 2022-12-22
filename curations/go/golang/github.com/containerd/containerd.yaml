@@ -1,0 +1,9 @@
+coordinates:
+  name: containerd
+  namespace: github.com%2Fcontainerd
+  provider: golang
+  type: go
+revisions:
+  v1.5.11:
+    licensed:
+      declared: Apache-2.0
