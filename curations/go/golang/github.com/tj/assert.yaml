@@ -1,0 +1,9 @@
+coordinates:
+  name: assert
+  namespace: github.com%2Ftj
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20171129193455-018094318fb0:
+    licensed:
+      declared: MIT
