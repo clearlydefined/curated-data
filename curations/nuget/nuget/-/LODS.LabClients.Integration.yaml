@@ -1,0 +1,8 @@
+coordinates:
+  name: LODS.LabClients.Integration
+  provider: nuget
+  type: nuget
+revisions:
+  3.6.5601.25165:
+    licensed:
+      declared: NONE
