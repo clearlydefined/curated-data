@@ -1,0 +1,9 @@
+coordinates:
+  name: sp-top-actions
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.16.1:
+    licensed:
+      declared: OTHER
