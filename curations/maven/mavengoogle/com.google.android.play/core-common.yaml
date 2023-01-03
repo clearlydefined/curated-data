@@ -1,0 +1,9 @@
+coordinates:
+  name: core-common
+  namespace: com.google.android.play
+  provider: mavengoogle
+  type: maven
+revisions:
+  2.0.2:
+    licensed:
+      declared: OTHER
