@@ -1,0 +1,8 @@
+coordinates:
+  name: Marklio.Metadata
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.17-alpha:
+    licensed:
+      declared: MIT
