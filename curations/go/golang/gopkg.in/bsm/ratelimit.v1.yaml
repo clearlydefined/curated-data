@@ -1,0 +1,9 @@
+coordinates:
+  name: ratelimit.v1
+  namespace: gopkg.in%2Fbsm
+  provider: golang
+  type: go
+revisions:
+  v1.0.0-20160220154919-db14e161995a:
+    licensed:
+      declared: MIT
