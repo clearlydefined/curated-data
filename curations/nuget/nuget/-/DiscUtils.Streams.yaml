@@ -1,0 +1,8 @@
+coordinates:
+  name: DiscUtils.Streams
+  provider: nuget
+  type: nuget
+revisions:
+  0.14.2-alpha:
+    licensed:
+      declared: MIT
