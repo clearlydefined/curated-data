@@ -1,0 +1,8 @@
+coordinates:
+  name: zapier-platform-schema
+  provider: npmjs
+  type: npm
+revisions:
+  12.2.0:
+    licensed:
+      declared: NONE
