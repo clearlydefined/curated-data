@@ -1,0 +1,8 @@
+coordinates:
+  name: WinSCP
+  provider: nuget
+  type: nuget
+revisions:
+  5.9.5:
+    licensed:
+      declared: MPL-2.0
