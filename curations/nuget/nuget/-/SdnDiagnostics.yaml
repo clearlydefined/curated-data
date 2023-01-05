@@ -1,0 +1,8 @@
+coordinates:
+  name: SdnDiagnostics
+  provider: nuget
+  type: nuget
+revisions:
+  1.2112.155.203831:
+    licensed:
+      declared: MIT
