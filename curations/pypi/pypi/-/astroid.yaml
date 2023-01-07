@@ -15,6 +15,9 @@ revisions:
   2.12.10:
     licensed:
       declared: LGPL-2.1-or-later
+  2.12.13:
+    licensed:
+      declared: LGPL-2.1-only
   2.3.1:
     licensed:
       declared: LGPL-2.1-only
