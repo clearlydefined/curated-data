@@ -17,7 +17,7 @@ revisions:
       declared: GPL-2.0-or-later
   2.15.9:
     licensed:
-      declared: GPL-2.0-only
+      declared: GPL-2.0-or-later
   2.3.0:
     files:
       - attributions:
