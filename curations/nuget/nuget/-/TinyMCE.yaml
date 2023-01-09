@@ -39,6 +39,9 @@ revisions:
   5.10.2:
     licensed:
       declared: LGPL-2.1-only OR OTHER
+  5.10.7:
+    licensed:
+      declared: GPL-2.0-only
   5.6.2:
     licensed:
       declared: LGPL-2.1-only OR OTHER
