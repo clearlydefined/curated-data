@@ -1,0 +1,9 @@
+coordinates:
+  name: jackson-databind-nullable
+  namespace: org.openapitools
+  provider: mavencentral
+  type: maven
+revisions:
+  0.2.2:
+    licensed:
+      declared: Apache-2.0
