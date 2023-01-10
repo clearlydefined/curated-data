@@ -1,0 +1,9 @@
+coordinates:
+  name: v2
+  namespace: github.com%2Fapache%2Fbeam%2Fsdks
+  provider: golang
+  type: go
+revisions:
+  v2.0.0-20211012030016-ef4364519c94:
+    licensed:
+      declared: Apache-2.0
