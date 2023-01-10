@@ -1,0 +1,9 @@
+coordinates:
+  name: toml
+  namespace: com.electronwill.night-config
+  provider: mavencentral
+  type: maven
+revisions:
+  3.6.6:
+    licensed:
+      declared: LGPL-3.0-only
