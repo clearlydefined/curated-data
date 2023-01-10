@@ -1,0 +1,9 @@
+coordinates:
+  name: gofail
+  namespace: github.com%2Fetcd-io
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190801230047-ad7f989257ca:
+    licensed:
+      declared: Artistic-2.0
