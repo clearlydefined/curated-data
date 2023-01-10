@@ -1,0 +1,9 @@
+coordinates:
+  name: trifles
+  namespace: github.com%2Fdgryski
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20200323201526-dd97f9abfb48:
+    licensed:
+      declared: MIT
