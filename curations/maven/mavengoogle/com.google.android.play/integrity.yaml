@@ -1,0 +1,17 @@
+coordinates:
+  name: integrity
+  namespace: com.google.android.play
+  provider: mavengoogle
+  type: maven
+revisions:
+  1.0.0:
+    licensed:
+      declared: OTHER
+  1.0.1:
+    described:
+      releaseDate: '2022-09-03'
+    licensed:
+      declared: OTHER
+  1.0.2:
+    licensed:
+      declared: OTHER
