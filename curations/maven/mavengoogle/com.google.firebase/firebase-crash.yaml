@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-crash
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.2.1:
+    licensed:
+      declared: OTHER
