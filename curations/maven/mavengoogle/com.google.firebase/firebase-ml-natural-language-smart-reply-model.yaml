@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-ml-natural-language-smart-reply-model
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  20.0.8:
+    licensed:
+      declared: OTHER
