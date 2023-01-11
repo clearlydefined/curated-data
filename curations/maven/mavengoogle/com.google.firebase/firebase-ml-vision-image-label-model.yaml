@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-ml-vision-image-label-model
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  20.0.2:
+    licensed:
+      declared: OTHER
