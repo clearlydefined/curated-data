@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-ml-natural-language-translate-model
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  20.0.9:
+    licensed:
+      declared: OTHER
