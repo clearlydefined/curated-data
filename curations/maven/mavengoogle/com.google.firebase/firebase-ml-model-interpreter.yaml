@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-ml-model-interpreter
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  22.0.4:
+    licensed:
+      declared: OTHER
