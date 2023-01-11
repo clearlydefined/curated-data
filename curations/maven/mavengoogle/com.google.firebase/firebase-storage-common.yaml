@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-storage-common
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  17.0.0:
+    licensed:
+      declared: OTHER
