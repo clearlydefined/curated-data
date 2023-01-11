@@ -27,7 +27,7 @@ jobs:
         # REQUIRED 'target_repo_token' exactly like this!
         target_repo_token: ${{ secrets.GITHUB_TOKEN }}
         upstream_sync_branch: master
-        upstream_sync_repo: aormsby/Fork-Sync-With-Upstream-action
+        upstream_sync_repo: clearlydefined/curated-data
       
     # Step 3: Display a sample message based on the sync output var 'has_new_commits'
     - name: New commits found
