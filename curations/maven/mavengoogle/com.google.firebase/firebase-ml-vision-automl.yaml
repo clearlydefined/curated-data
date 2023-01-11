@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-ml-vision-automl
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  18.0.6:
+    licensed:
+      declared: OTHER
