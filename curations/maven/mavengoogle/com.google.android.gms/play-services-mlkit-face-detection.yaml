@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-mlkit-face-detection
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  17.1.0:
+    licensed:
+      declared: OTHER

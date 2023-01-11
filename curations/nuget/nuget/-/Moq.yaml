@@ -78,6 +78,9 @@ revisions:
   4.18.2:
     licensed:
       declared: BSD-3-Clause
+  4.18.3:
+    licensed:
+      declared: BSD-3-Clause
   4.2.1402.2112:
     licensed:
       declared: BSD-3-Clause
@@ -136,6 +139,9 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   4.7.10:
+    licensed:
+      declared: BSD-3-Clause
+  4.7.12:
     licensed:
       declared: BSD-3-Clause
   4.7.127:

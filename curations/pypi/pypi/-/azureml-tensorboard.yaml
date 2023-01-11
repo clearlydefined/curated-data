@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  1.13.0:
+    licensed:
+      declared: OTHER
   1.22.0:
     licensed:
       declared: OTHER

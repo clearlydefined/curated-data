@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-cast-tv
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  20.0.0:
+    licensed:
+      declared: OTHER

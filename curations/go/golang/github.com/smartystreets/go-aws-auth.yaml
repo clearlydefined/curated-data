@@ -1,0 +1,9 @@
+coordinates:
+  name: go-aws-auth
+  namespace: github.com%2Fsmartystreets
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180515143844-0c1422d1fdb9:
+    licensed:
+      declared: MIT

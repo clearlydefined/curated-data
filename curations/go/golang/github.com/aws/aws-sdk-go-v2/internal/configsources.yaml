@@ -1,0 +1,9 @@
+coordinates:
+  name: configsources
+  namespace: github.com%2Faws%2Faws-sdk-go-v2%2Finternal
+  provider: golang
+  type: go
+revisions:
+  v1.1.11:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: multidict
+  namespace: aio-libs
+  provider: github
+  type: git
+revisions:
+  47ac8a18ccfee3578c0a92a2651325fc9dd3ae72:
+    licensed:
+      declared: Apache-2.0

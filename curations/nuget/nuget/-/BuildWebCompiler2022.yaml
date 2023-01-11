@@ -1,0 +1,8 @@
+coordinates:
+  name: BuildWebCompiler2022
+  provider: nuget
+  type: nuget
+revisions:
+  1.14.9.1:
+    licensed:
+      declared: Apache-2.0

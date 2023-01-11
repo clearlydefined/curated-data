@@ -1,0 +1,9 @@
+coordinates:
+  name: go
+  namespace: github.com%2Fawslabs%2Fkinesis-aggregation
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20210630091500-54e17340d32f:
+    licensed:
+      declared: Apache-2.0

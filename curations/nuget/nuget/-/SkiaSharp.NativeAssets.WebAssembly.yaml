@@ -1,0 +1,8 @@
+coordinates:
+  name: SkiaSharp.NativeAssets.WebAssembly
+  provider: nuget
+  type: nuget
+revisions:
+  2.88.1-preview.108:
+    licensed:
+      declared: MIT

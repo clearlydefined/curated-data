@@ -1,0 +1,9 @@
+coordinates:
+  name: drupal
+  namespace: drupal
+  provider: github
+  type: git
+revisions:
+  62072493fa60368ebb9366bccaf7b5864e897eb8:
+    licensed:
+      declared: GPL-2.0-only

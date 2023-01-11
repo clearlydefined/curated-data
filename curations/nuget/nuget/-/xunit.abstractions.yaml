@@ -15,6 +15,9 @@ revisions:
         url: 'https://github.com/xunit/xunit/commit/9f4fe30892c3a62cc8aea23e1e7cef8dd08c0b0f'
     licensed:
       declared: Apache-2.0
+  2.0.0-beta-build2700:
+    licensed:
+      declared: Apache-2.0
   2.0.1:
     described:
       releaseDate: '2016-08-09'
