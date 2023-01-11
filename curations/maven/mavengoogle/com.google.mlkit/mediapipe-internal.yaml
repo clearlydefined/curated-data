@@ -1,0 +1,9 @@
+coordinates:
+  name: mediapipe-internal
+  namespace: com.google.mlkit
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.0.0:
+    licensed:
+      declared: OTHER
