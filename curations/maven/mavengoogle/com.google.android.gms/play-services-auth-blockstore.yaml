@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-auth-blockstore
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.1.0:
+    licensed:
+      declared: OTHER

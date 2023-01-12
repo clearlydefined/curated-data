@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-ml-vision-internal-vkp
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  17.0.2:
+    licensed:
+      declared: OTHER

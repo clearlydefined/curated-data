@@ -1,0 +1,9 @@
+coordinates:
+  name: user-messaging-platform
+  namespace: com.google.android.ump
+  provider: mavengoogle
+  type: maven
+revisions:
+  2.0.0:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: image-labeling-custom-common
+  namespace: com.google.mlkit
+  provider: mavengoogle
+  type: maven
+revisions:
+  17.0.0:
+    licensed:
+      declared: OTHER

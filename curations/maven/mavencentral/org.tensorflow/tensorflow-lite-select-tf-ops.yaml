@@ -1,0 +1,9 @@
+coordinates:
+  name: tensorflow-lite-select-tf-ops
+  namespace: org.tensorflow
+  provider: mavencentral
+  type: maven
+revisions:
+  2.10.0:
+    licensed:
+      declared: Apache-2.0

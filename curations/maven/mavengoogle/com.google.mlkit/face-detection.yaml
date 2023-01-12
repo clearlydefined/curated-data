@@ -1,0 +1,9 @@
+coordinates:
+  name: face-detection
+  namespace: com.google.mlkit
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.1.5:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-ml-vision-object-detection-model
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  19.0.6:
+    licensed:
+      declared: OTHER

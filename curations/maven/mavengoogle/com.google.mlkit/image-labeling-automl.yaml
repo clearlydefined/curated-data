@@ -1,0 +1,9 @@
+coordinates:
+  name: image-labeling-automl
+  namespace: com.google.mlkit
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.2.1:
+    licensed:
+      declared: OTHER
