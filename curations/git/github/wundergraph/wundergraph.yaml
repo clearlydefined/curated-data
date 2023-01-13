@@ -1,0 +1,10 @@
+coordinates:
+  name: wundergraph
+  namespace: wundergraph
+  provider: github
+  type: git
+revisions:
+  2cf3db469a0623baa0c1b69ff1bc4b7bf51c4121:
+    files:
+      - license: OTHER
+        path: docs-website/LICENSE.md
