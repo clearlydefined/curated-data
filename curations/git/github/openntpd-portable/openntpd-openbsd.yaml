@@ -1,0 +1,9 @@
+coordinates:
+  name: openntpd-openbsd
+  namespace: openntpd-portable
+  provider: github
+  type: git
+revisions:
+  aeb76e65d77c22bc58967624e64360ad81e4e1c6:
+    licensed:
+      declared: ISC
