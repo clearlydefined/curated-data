@@ -1,0 +1,8 @@
+coordinates:
+  name: boost_random-android
+  provider: nuget
+  type: nuget
+revisions:
+  1.55.0.2:
+    licensed:
+      declared: BSL-1.0
