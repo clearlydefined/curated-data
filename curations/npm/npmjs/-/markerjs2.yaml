@@ -6,3 +6,6 @@ revisions:
   2.21.4:
     licensed:
       declared: OTHER
+  2.28.1:
+    licensed:
+      declared: NONE
