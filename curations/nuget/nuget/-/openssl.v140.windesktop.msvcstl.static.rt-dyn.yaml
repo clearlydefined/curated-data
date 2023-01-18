@@ -1,0 +1,8 @@
+coordinates:
+  name: openssl.v140.windesktop.msvcstl.static.rt-dyn
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.2.1:
+    licensed:
+      declared: OpenSSL
