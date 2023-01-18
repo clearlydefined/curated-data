@@ -1,0 +1,8 @@
+coordinates:
+  name: aio.core
+  provider: pypi
+  type: pypi
+revisions:
+  0.8.2:
+    licensed:
+      declared: NONE
