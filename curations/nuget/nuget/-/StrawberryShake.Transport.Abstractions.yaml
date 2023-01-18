@@ -1,0 +1,8 @@
+coordinates:
+  name: StrawberryShake.Transport.Abstractions
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.0-preview.58:
+    licensed:
+      declared: MIT
