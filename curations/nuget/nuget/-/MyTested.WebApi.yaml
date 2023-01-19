@@ -1,0 +1,8 @@
+coordinates:
+  name: MyTested.WebApi
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.6:
+    licensed:
+      declared: Apache-2.0
