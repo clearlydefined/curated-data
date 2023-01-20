@@ -6,6 +6,9 @@ revisions:
   7.1.15:
     licensed:
       declared: AGPL-3.0-or-later OR OTHER
+  7.1.16:
+    licensed:
+      declared: OTHER
   7.1.8:
     licensed:
       declared: AGPL-3.0-only
