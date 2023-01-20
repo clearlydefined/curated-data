@@ -1,0 +1,8 @@
+coordinates:
+  name: EntityFramework.SqlServerCompact
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.8482.2:
+    licensed:
+      declared: OTHER
