@@ -1,0 +1,9 @@
+coordinates:
+  name: jsp-2.1-jetty
+  namespace: org.mortbay.jetty
+  provider: mavencentral
+  type: maven
+revisions:
+  6.1.18:
+    licensed:
+      declared: CDDL-1.0
