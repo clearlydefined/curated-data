@@ -1,0 +1,8 @@
+coordinates:
+  name: Http.fs
+  provider: nuget
+  type: nuget
+revisions:
+  5.4.0:
+    licensed:
+      declared: MIT
