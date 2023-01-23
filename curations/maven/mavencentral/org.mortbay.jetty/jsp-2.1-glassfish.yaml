@@ -1,0 +1,9 @@
+coordinates:
+  name: jsp-2.1-glassfish
+  namespace: org.mortbay.jetty
+  provider: mavencentral
+  type: maven
+revisions:
+  9.1.1.B60.25.p0:
+    licensed:
+      declared: CDDL-1.0
