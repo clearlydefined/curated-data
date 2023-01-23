@@ -28,3 +28,6 @@ revisions:
   '71.1':
     licensed:
       declared: OTHER
+  '72.1':
+    licensed:
+      declared: Unicode-DFS-2016
