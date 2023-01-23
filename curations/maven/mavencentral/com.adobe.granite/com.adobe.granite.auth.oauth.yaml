@@ -1,0 +1,9 @@
+coordinates:
+  name: com.adobe.granite.auth.oauth
+  namespace: com.adobe.granite
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0:
+    licensed:
+      declared: OTHER
