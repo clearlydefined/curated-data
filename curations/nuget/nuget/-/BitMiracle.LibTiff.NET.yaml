@@ -9,3 +9,6 @@ revisions:
   2.4.639:
     licensed:
       declared: BSD-3-Clause
+  2.4.649:
+    licensed:
+      declared: BSD-3-Clause
