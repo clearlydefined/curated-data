@@ -1,0 +1,9 @@
+coordinates:
+  name: fakescraper
+  namespace: github.com%2Fncabatoff
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20201102132415-4b37ba603d65:
+    licensed:
+      declared: NONE
