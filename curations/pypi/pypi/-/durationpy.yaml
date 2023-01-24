@@ -5,4 +5,4 @@ coordinates:
 revisions:
   '0.5':
     licensed:
-      declared: NONE
+      declared: MIT
