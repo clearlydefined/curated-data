@@ -1,11 +1,8 @@
 coordinates:
-  name: Ardalis.SmartEnum
+  name: Http.fs
   provider: nuget
   type: nuget
 revisions:
-  1.0.11:
-    licensed:
-      declared: MIT
-  2.1.0:
+  5.4.0:
     licensed:
       declared: MIT

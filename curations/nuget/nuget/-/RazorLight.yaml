@@ -21,3 +21,6 @@ revisions:
   2.0.0-rc.4:
     licensed:
       declared: Apache-2.0
+  2.3.0:
+    licensed:
+      declared: Apache-2.0
