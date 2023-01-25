@@ -5,7 +5,7 @@ coordinates:
 revisions:
   3.1.11:
     licensed:
-      declared: MS-PL
+      declared: BSD-3-Clause
   3.1.9:
     licensed:
       declared: BSD-3-Clause
