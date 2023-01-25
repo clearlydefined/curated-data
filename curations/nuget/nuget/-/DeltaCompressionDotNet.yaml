@@ -20,3 +20,6 @@ revisions:
   2.0.0:
     licensed:
       declared: MS-PL
+  2.0.1:
+    licensed:
+      declared: MS-PL
