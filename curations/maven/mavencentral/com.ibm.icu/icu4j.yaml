@@ -27,4 +27,7 @@ revisions:
       declared: OTHER
   '71.1':
     licensed:
-      declared: OTHER
+      declared: Unicode-DFS-2016
+  '72.1':
+    licensed:
+      declared: Unicode-DFS-2016
