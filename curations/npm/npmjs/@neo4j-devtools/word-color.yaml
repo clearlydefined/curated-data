@@ -1,0 +1,9 @@
+coordinates:
+  name: word-color
+  namespace: '@neo4j-devtools'
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.7:
+    licensed:
+      declared: Apache-2.0
