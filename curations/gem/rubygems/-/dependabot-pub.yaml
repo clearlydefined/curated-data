@@ -1,0 +1,8 @@
+coordinates:
+  name: dependabot-pub
+  provider: rubygems
+  type: gem
+revisions:
+  0.215.0:
+    licensed:
+      declared: NONE
