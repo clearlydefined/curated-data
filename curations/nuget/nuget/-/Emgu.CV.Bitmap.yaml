@@ -1,0 +1,8 @@
+coordinates:
+  name: Emgu.CV.Bitmap
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.0.5131:
+    licensed:
+      declared: GPL-3.0-only
