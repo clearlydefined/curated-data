@@ -1,0 +1,8 @@
+coordinates:
+  name: fst-pso
+  provider: pypi
+  type: pypi
+revisions:
+  1.8.1:
+    licensed:
+      declared: LGPL-3.0-only
