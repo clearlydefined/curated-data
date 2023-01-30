@@ -1,0 +1,8 @@
+coordinates:
+  name: vcremote-utils
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.11:
+    licensed:
+      declared: OTHER
