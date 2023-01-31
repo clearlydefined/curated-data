@@ -1,0 +1,10 @@
+- coordinates:
+    name: paramiko
+    namespace: "-"
+    provider: pypi
+    type: pypi
+  revisions:
+    2.11.0:
+      files:
+        license: LGPL-2.1-only
+        path: https://github.com/paramiko/paramiko/blob/main/LICENSE
