@@ -1,0 +1,8 @@
+coordinates:
+  name: FlatFiles
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.4:
+    licensed:
+      declared: Unlicense
