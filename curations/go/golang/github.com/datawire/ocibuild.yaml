@@ -1,0 +1,9 @@
+coordinates:
+  name: ocibuild
+  namespace: github.com%2Fdatawire
+  provider: golang
+  type: go
+revisions:
+  v0.0.3-0.20220131233601-25ee488931d1:
+    licensed:
+      declared: NONE
