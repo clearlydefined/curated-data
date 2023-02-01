@@ -1,0 +1,9 @@
+coordinates:
+  name: transform
+  namespace: github.com%2Ftenntenn%2Ftext
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20200319021203-7eef512accb3:
+    licensed:
+      declared: NONE
