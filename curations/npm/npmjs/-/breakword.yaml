@@ -1,0 +1,8 @@
+coordinates:
+  name: breakword
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.5:
+    licensed:
+      declared: MIT
