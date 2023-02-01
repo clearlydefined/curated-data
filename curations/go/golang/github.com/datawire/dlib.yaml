@@ -6,4 +6,4 @@ coordinates:
 revisions:
   v1.2.4-0.20210629021142-e221f3b9c3b8:
     licensed:
-      declared: NONE
+      declared: Apache-2.0
