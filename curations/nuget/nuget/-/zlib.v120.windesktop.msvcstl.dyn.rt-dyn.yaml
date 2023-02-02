@@ -1,0 +1,8 @@
+coordinates:
+  name: zlib.v120.windesktop.msvcstl.dyn.rt-dyn
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.8.8:
+    licensed:
+      declared: Zlib
