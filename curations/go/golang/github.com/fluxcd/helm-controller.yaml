@@ -1,0 +1,9 @@
+coordinates:
+  name: helm-controller
+  namespace: github.com%2Ffluxcd
+  provider: golang
+  type: go
+revisions:
+  v0.27.0:
+    licensed:
+      declared: Apache-2.0
