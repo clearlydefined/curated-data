@@ -18,6 +18,9 @@ revisions:
   4.5.2.4673:
     licensed:
       declared: GPL-3.0-only OR OTHER
+  4.5.5.4823:
+    licensed:
+      declared: OTHER
   4.6.0.5131:
     licensed:
       declared: GPL-3.0-only OR OTHER
