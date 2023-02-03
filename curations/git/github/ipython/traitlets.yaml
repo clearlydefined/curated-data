@@ -1,0 +1,9 @@
+coordinates:
+  name: traitlets
+  namespace: ipython
+  provider: github
+  type: git
+revisions:
+  c17eb89e8201e06791e5439585d34d05c28aefff:
+    licensed:
+      declared: BSD-3-Clause
