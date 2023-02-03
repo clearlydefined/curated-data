@@ -1,0 +1,9 @@
+coordinates:
+  name: paho.mqtt.golang
+  namespace: eclipse
+  provider: github
+  type: git
+revisions:
+  a1800d8df9a4278dd3789f466fa15fafbe1dbd9f:
+    licensed:
+      declared: EPL-2.0
