@@ -1,11 +1,8 @@
 coordinates:
-  name: StrawberryShake.Resources
+  name: StrawberryShake.Http
   provider: nuget
   type: nuget
 revisions:
-  12.12.1:
-    licensed:
-      declared: MIT
-  12.15.0:
+  11.0.0-preview.58:
     licensed:
       declared: MIT
