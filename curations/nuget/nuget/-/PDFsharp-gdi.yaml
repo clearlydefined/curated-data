@@ -1,0 +1,8 @@
+coordinates:
+  name: PDFsharp-gdi
+  provider: nuget
+  type: nuget
+revisions:
+  1.50.4845-rc2a:
+    licensed:
+      declared: MIT
