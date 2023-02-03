@@ -1,0 +1,8 @@
+coordinates:
+  name: confluent.libzstd.redist
+  provider: nuget
+  type: nuget
+revisions:
+  1.3.8-g9f9630f4-test1:
+    licensed:
+      declared: BSD-3-Clause
