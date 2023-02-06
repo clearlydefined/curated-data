@@ -6,4 +6,4 @@ coordinates:
 revisions:
   338a65a7df74e189f6b5d1d3a6315ffa911b21c2:
     licensed:
-      declared: Python-2.0 AND (BSD-3-Clause OR Apache-2.0)
+      declared: Apache-2.0 OR BSD-3-Clause
