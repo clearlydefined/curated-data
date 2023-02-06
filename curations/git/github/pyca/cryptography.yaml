@@ -1,0 +1,9 @@
+coordinates:
+  name: cryptography
+  namespace: pyca
+  provider: github
+  type: git
+revisions:
+  338a65a7df74e189f6b5d1d3a6315ffa911b21c2:
+    licensed:
+      declared: Apache-2.0 OR BSD-3-Clause
