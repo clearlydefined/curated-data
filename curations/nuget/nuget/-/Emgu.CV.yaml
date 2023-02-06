@@ -5,7 +5,7 @@ coordinates:
 revisions:
   3.2.0.2721:
     licensed:
-      declared: GPL-3.0
+      declared: GPL-3.0-only
   4.4.0.4061:
     licensed:
       declared: GPL-3.0-only OR OTHER
@@ -20,7 +20,7 @@ revisions:
       declared: GPL-3.0-only OR OTHER
   4.5.5.4823:
     licensed:
-      declared: OTHER
+      declared: GPL-3.0-only OR OTHER
   4.6.0.5131:
     licensed:
       declared: GPL-3.0-only OR OTHER
