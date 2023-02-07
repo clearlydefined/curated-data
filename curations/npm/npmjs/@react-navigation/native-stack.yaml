@@ -1,0 +1,15 @@
+coordinates:
+  name: native-stack
+  namespace: '@react-navigation'
+  provider: npmjs
+  type: npm
+revisions:
+  6.9.8:
+    described:
+      sourceLocation:
+        name: react-navigation
+        namespace: react-navigation
+        provider: github
+        revision: f93576624282c3d65e359cca2826749f56221e8c
+        type: git
+        url: 'https://github.com/react-navigation/react-navigation/commit/f93576624282c3d65e359cca2826749f56221e8c'
