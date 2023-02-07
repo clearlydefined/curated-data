@@ -64,6 +64,9 @@ revisions:
   1.7.0-beta.1:
     licensed:
       declared: OTHER
+  1.7.2-beta.1:
+    licensed:
+      declared: OTHER
   1.9.1-beta.1:
     licensed:
       declared: OTHER
