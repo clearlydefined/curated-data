@@ -1,0 +1,9 @@
+coordinates:
+  name: jgraphx
+  namespace: com.github.vlsi.mxgraph
+  provider: mavencentral
+  type: maven
+revisions:
+  4.0.0:
+    licensed:
+      declared: 0BSD
