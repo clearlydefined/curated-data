@@ -1,0 +1,8 @@
+coordinates:
+  name: CommandLine
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.7:
+    licensed:
+      declared: MIT
