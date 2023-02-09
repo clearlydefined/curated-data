@@ -1,0 +1,9 @@
+coordinates:
+  name: jna
+  namespace: com.sun.jna
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.9:
+    licensed:
+      declared: LGPL-2.1-or-later
