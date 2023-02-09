@@ -27,3 +27,6 @@ revisions:
   0.3.0:
     licensed:
       declared: BSD-3-Clause
+  0.4.0-dotnetcore0001:
+    licensed:
+      declared: BSD-3-Clause
