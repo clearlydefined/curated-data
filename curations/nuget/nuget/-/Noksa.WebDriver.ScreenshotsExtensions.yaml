@@ -1,0 +1,8 @@
+coordinates:
+  name: Noksa.WebDriver.ScreenshotsExtensions
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.5.4:
+    licensed:
+      declared: MIT
