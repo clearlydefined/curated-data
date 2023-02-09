@@ -7,6 +7,9 @@ revisions:
   06e1b32f6a7028e039c625b07cfc25fda0c17d53:
     licensed:
       declared: BSD-2-Clause
+  140bf463046071d3ca5ebbde3fb21ee0854e1951:
+    licensed:
+      declared: BSD-2-Clause
   1cdf49d9259ad83c3fbdf416e5ea223a18a28da8:
     licensed:
       declared: BSD-2-Clause
