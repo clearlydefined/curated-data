@@ -6,4 +6,4 @@ coordinates:
 revisions:
   v0.0.0-20191006012335-3fc7a47baff5:
     licensed:
-      declared: NONE
+      declared: BSD-3-Clause
