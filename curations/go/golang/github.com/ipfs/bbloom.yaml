@@ -1,0 +1,9 @@
+coordinates:
+  name: bbloom
+  namespace: github.com%2Fipfs
+  provider: golang
+  type: go
+revisions:
+  v0.0.4:
+    licensed:
+      declared: MIT
