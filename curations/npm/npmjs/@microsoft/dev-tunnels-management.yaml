@@ -1,0 +1,9 @@
+coordinates:
+  name: dev-tunnels-management
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.7302:
+    licensed:
+      declared: MIT
