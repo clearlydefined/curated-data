@@ -9,6 +9,9 @@ revisions:
   4.5.3:
     licensed:
       declared: BSD-3-Clause
+  4.6.1-beta002:
+    licensed:
+      declared: BSD-3-Clause
   4.6.4:
     licensed:
       declared: BSD-3-Clause
