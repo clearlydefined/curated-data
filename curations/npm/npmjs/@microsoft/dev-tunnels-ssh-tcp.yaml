@@ -1,0 +1,9 @@
+coordinates:
+  name: dev-tunnels-ssh-tcp
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  3.9.3:
+    licensed:
+      declared: MIT
