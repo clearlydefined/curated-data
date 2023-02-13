@@ -12,3 +12,6 @@ revisions:
   7.6.4:
     licensed:
       declared: OTHER OR BSD-Source-Code
+  7.6.5:
+    licensed:
+      declared: OTHER OR BSD-Source-Code
