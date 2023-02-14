@@ -1,0 +1,9 @@
+coordinates:
+  name: jsr105-api
+  namespace: javax.xml.crypto
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.1:
+    licensed:
+      declared: Apache-2.0
