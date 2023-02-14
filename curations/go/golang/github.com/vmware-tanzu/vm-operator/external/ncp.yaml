@@ -1,0 +1,9 @@
+coordinates:
+  name: ncp
+  namespace: github.com%2Fvmware-tanzu%2Fvm-operator%2Fexternal
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20211209213435-0f4ab286f64f:
+    licensed:
+      declared: Apache-2.0
