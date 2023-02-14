@@ -1,0 +1,9 @@
+coordinates:
+  name: charts
+  namespace: '@ant-design'
+  provider: npmjs
+  type: npm
+revisions:
+  0.9.13:
+    licensed:
+      declared: MIT
