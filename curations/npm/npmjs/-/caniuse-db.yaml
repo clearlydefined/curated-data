@@ -1,0 +1,8 @@
+coordinates:
+  name: caniuse-db
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.30000148:
+    licensed:
+      declared: CC-BY-4.0
