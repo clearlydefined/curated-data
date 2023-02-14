@@ -1,0 +1,9 @@
+coordinates:
+  name: jaxrpc-api
+  namespace: javax.xml
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: NONE
