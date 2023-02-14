@@ -22,6 +22,9 @@ revisions:
   5.12.0.202106070339-r:
     licensed:
       declared: BSD-3-Clause
+  5.13.1.202206130422-r:
+    licensed:
+      declared: EPL-1.0
   6.0.0.202111291000-r:
     licensed:
       declared: BSD-3-Clause
