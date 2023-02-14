@@ -1,0 +1,9 @@
+coordinates:
+  name: axis
+  namespace: org.apache.axis
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.4':
+    licensed:
+      declared: Apache-2.0
