@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-marshalling
+  namespace: org.jboss.marshalling
+  provider: mavencentral
+  type: maven
+revisions:
+  1.3.14.GA:
+    licensed:
+      declared: LGPL-2.1-or-later
