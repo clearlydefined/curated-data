@@ -53,6 +53,9 @@ revisions:
   3.5.1:
     licensed:
       declared: Unlicense
+  3.6.0:
+    licensed:
+      declared: Unlicense
   3.7.0:
     licensed:
       declared: Unlicense
