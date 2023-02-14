@@ -1,0 +1,8 @@
+coordinates:
+  name: SharePoint.Client.Taxonomy
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.0:
+    licensed:
+      declared: NONE
