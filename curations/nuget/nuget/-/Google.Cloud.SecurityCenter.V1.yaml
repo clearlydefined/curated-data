@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Cloud.SecurityCenter.V1
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.0:
+    licensed:
+      declared: Apache-2.0
