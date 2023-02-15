@@ -69,3 +69,6 @@ revisions:
   1.2.8-beta:
     licensed:
       declared: MIT
+  1.3.5:
+    licensed:
+      declared: MIT
