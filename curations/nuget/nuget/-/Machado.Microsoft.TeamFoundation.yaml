@@ -1,0 +1,8 @@
+coordinates:
+  name: Machado.Microsoft.TeamFoundation
+  provider: nuget
+  type: nuget
+revisions:
+  12.0.0:
+    licensed:
+      declared: NONE
