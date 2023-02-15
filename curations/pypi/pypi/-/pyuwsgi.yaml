@@ -1,0 +1,8 @@
+coordinates:
+  name: pyuwsgi
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.21:
+    licensed:
+      declared: GPL-2.0-only WITH GCC-exception-2.0
