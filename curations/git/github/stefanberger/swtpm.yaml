@@ -1,0 +1,9 @@
+coordinates:
+  name: swtpm
+  namespace: stefanberger
+  provider: github
+  type: git
+revisions:
+  f2268eebb0d1adf89bad83fa4cf91e37b4e3fa53:
+    licensed:
+      declared: BSD-3-Clause
