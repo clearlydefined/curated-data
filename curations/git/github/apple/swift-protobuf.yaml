@@ -1,0 +1,9 @@
+coordinates:
+  name: swift-protobuf
+  namespace: apple
+  provider: github
+  type: git
+revisions:
+  ab3a58b7209a17d781c0d1dbb3e1ff3da306bae8:
+    licensed:
+      declared: OTHER
