@@ -1,0 +1,9 @@
+coordinates:
+  name: protobuf.js
+  namespace: protobufjs
+  provider: github
+  type: git
+revisions:
+  b130dfd4f06b642d4b7c3ccc9f3f9fb6a6e6ed0d:
+    licensed:
+      declared: BSD-3-Clause
