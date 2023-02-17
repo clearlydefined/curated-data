@@ -1,0 +1,9 @@
+coordinates:
+  name: amf
+  namespace: gpuopen-librariesandsdks
+  provider: github
+  type: git
+revisions:
+  fbf12cd39fe1812ed902525a1c001307b94871b9:
+    licensed:
+      declared: MIT
