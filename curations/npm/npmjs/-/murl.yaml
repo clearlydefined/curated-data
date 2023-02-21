@@ -1,0 +1,8 @@
+coordinates:
+  name: murl
+  provider: npmjs
+  type: npm
+revisions:
+  0.4.1:
+    licensed:
+      declared: MIT
