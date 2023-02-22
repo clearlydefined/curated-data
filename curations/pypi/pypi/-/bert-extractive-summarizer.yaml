@@ -1,0 +1,8 @@
+coordinates:
+  name: bert-extractive-summarizer
+  provider: pypi
+  type: pypi
+revisions:
+  0.10.1:
+    licensed:
+      declared: MIT
