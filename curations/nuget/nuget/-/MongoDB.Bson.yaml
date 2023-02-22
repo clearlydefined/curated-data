@@ -102,6 +102,9 @@ revisions:
   2.18.0:
     licensed:
       declared: Apache-2.0
+  2.19.0:
+    licensed:
+      declared: Apache-2.0
   2.8.0:
     licensed:
       declared: Apache-2.0
