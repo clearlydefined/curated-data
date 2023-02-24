@@ -1,10 +1,9 @@
-- coordinates:
-    name: github.com/hhatto/gorst
-    namespace: github.com%2Fhhatto
-    provider: golang
-    type: go
-  revisions:
-    v0.0.0-20181029133204-ca9f730cac5b:
-      licensed:
-        declared:
-          - BSD-3-Clause AND (GPL-2.0-or-later OR MIT)
+coordinates:
+  name: github.com/hhatto/gorst
+  namespace: github.com%2Fhhatto
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181029133204-ca9f730cac5b:
+    licensed:
+      declared: BSD-3-Clause AND (GPL-2.0-or-later OR MIT)
