@@ -6,4 +6,9 @@ coordinates:
 revisions:
   v0.0.0-20181029133204-ca9f730cac5b:
     licensed:
-      declared: BSD-3-Clause AND (GPL-2.0-or-later OR MIT)
+      declared: GPL-2.0-or-later OR MIT
+    facets:
+      core:
+        discovered:
+          expressions:
+            - BSD-3-Clause
