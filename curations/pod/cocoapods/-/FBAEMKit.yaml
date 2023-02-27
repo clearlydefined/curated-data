@@ -1,0 +1,8 @@
+coordinates:
+  name: FBAEMKit
+  provider: cocoapods
+  type: pod
+revisions:
+  12.2.0:
+    licensed:
+      declared: OTHER
