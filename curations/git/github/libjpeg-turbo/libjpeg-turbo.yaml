@@ -13,6 +13,9 @@ revisions:
   3ff13e651bbe6de9c6f15d05235d1d4f26f63ffc:
     licensed:
       declared: BSD-3-Clause AND IJG AND Zlib
+  8162eddf041e0be26f5c671bb6528723c55fed9d:
+    licensed:
+      declared: BSD-3-Clause AND IJG AND Zlib
   ad8330af72aefe5f07f79f6922fb5aa9ed209d18:
     licensed:
       declared: BSD-3-Clause AND IJG AND Zlib
