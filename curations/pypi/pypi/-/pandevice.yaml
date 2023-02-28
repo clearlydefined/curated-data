@@ -1,0 +1,8 @@
+coordinates:
+  name: pandevice
+  provider: pypi
+  type: pypi
+revisions:
+  0.14.0:
+    licensed:
+      declared: ISC
