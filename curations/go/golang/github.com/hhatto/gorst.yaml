@@ -1,5 +1,5 @@
 coordinates:
-  name: github.com/hhatto/gorst
+  name: gorst
   namespace: github.com%2Fhhatto
   provider: golang
   type: go
