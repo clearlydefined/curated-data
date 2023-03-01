@@ -30,6 +30,17 @@ revisions:
   7.1.1:
     licensed:
       declared: MIT
+  7.12.5:
+    described:
+      sourceLocation:
+        name: odata.net
+        namespace: odata
+        provider: github
+        revision: f3bf65a74a7ed4028ff8074ccae31e4c2019772d
+        type: git
+        url: 'https://github.com/odata/odata.net/commit/f3bf65a74a7ed4028ff8074ccae31e4c2019772d'
+    licensed:
+      declared: MIT
   7.2.0:
     licensed:
       declared: MIT
