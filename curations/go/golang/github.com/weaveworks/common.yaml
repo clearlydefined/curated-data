@@ -1,0 +1,9 @@
+coordinates:
+  name: common
+  namespace: github.com%2Fweaveworks
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20210913144402-035033b78a78:
+    licensed:
+      declared: Apache-2.0
