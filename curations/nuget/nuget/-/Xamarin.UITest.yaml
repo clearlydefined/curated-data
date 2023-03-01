@@ -107,8 +107,11 @@ revisions:
       declared: OTHER
   3.1.0:
     licensed:
-      declared: MIT
+      declared: OTHER
   3.2.0:
+    licensed:
+      declared: OTHER
+  3.2.2:
     licensed:
       declared: OTHER
   3.2.3:
