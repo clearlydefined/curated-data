@@ -1,0 +1,8 @@
+coordinates:
+  name: semantic-release
+  provider: npmjs
+  type: npm
+revisions:
+  20.1.1:
+    licensed:
+      declared: MIT
