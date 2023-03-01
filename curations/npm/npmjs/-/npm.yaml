@@ -1,0 +1,8 @@
+coordinates:
+  name: npm
+  provider: npmjs
+  type: npm
+revisions:
+  9.5.1:
+    licensed:
+      declared: Artistic-2.0
