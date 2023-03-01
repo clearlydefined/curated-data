@@ -1,0 +1,8 @@
+coordinates:
+  name: hotchocolate.types.mutations
+  provider: nuget
+  type: nuget
+revisions:
+  12.18.0:
+    licensed:
+      declared: MIT
