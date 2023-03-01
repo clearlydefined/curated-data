@@ -61,3 +61,6 @@ revisions:
           - 'Copyright (c) 2013-present, Yuxi (Evan) You'
         license: MIT
         path: package/dist/vue.runtime.esm-bundler.js
+  3.2.43:
+    licensed:
+      declared: MIT
