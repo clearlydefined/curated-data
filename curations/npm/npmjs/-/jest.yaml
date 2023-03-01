@@ -1,0 +1,8 @@
+coordinates:
+  name: jest
+  provider: npmjs
+  type: npm
+revisions:
+  29.4.1:
+    licensed:
+      declared: MIT
