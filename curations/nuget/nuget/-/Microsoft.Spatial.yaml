@@ -6,6 +6,9 @@ revisions:
   6.13.0:
     licensed:
       declared: MIT
+  7.12.5:
+    licensed:
+      declared: CC-BY-3.0 AND MIT
   7.2.0:
     licensed:
       declared: MIT
