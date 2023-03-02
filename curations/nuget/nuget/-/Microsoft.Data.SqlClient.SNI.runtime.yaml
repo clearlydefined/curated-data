@@ -9,6 +9,15 @@ revisions:
   2.1.1:
     licensed:
       declared: OTHER
+  5.0.1:
+    described:
+      sourceLocation:
+        name: sqlclient
+        namespace: dotnet
+        provider: github
+        revision: 711b72cd2579dd3f84d4e2e2825229ede5fe5fbd
+        type: git
+        url: 'https://github.com/dotnet/sqlclient/commit/711b72cd2579dd3f84d4e2e2825229ede5fe5fbd'
   5.1.0:
     licensed:
       declared: OTHER
