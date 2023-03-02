@@ -1,0 +1,9 @@
+coordinates:
+  name: xml-parser
+  namespace: toddr
+  provider: github
+  type: git
+revisions:
+  cd8984de30537d988fabc34da8e9301572ffdef1:
+    licensed:
+      declared: Artistic-1.0-Perl OR GPL-1.0-or-later
