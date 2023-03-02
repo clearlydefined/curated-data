@@ -1,0 +1,8 @@
+coordinates:
+  name: release-it
+  provider: npmjs
+  type: npm
+revisions:
+  15.7.0:
+    licensed:
+      declared: MIT
