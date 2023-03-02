@@ -1,0 +1,9 @@
+coordinates:
+  name: bpmn-js
+  namespace: bpmn-io
+  provider: github
+  type: git
+revisions:
+  603fbba7f6a65a8f55e82b931bb3570b8341f437:
+    licensed:
+      declared: OTHER
