@@ -1,0 +1,8 @@
+coordinates:
+  name: tcpping
+  provider: pypi
+  type: pypi
+revisions:
+  '0.2':
+    licensed:
+      declared: MIT
