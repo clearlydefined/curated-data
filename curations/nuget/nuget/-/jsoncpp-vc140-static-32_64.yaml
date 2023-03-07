@@ -1,0 +1,8 @@
+coordinates:
+  name: jsoncpp-vc140-static-32_64
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.0:
+    licensed:
+      declared: OTHER OR MIT
