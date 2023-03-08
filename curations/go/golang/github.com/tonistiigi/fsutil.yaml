@@ -1,0 +1,9 @@
+coordinates:
+  name: fsutil
+  namespace: github.com%2Ftonistiigi
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220315205639-9ed612626da3:
+    licensed:
+      declared: MIT
