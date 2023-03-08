@@ -1,0 +1,9 @@
+coordinates:
+  name: json-canonicalization
+  namespace: github.com%2Fcyberphone
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220216171627-b6721b06b4ef:
+    licensed:
+      declared: Apache-2.0
