@@ -1,0 +1,9 @@
+coordinates:
+  name: sfml
+  namespace: sfml
+  provider: github
+  type: git
+revisions:
+  2f11710abc5aa478503a7ff3f9e654bd2078ebab:
+    licensed:
+      declared: Zlib
