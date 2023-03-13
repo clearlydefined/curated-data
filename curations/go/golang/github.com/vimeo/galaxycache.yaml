@@ -1,0 +1,9 @@
+coordinates:
+  name: galaxycache
+  namespace: github.com%2Fvimeo
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20210323154928-b7e5d71c067a:
+    licensed:
+      declared: Apache-2.0
