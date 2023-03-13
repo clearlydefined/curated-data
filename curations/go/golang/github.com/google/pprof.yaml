@@ -1,0 +1,9 @@
+coordinates:
+  name: pprof
+  namespace: github.com%2Fgoogle
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20211214055906-6f57359322fd:
+    licensed:
+      declared: Apache-2.0
