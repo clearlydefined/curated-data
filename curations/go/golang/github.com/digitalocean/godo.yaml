@@ -1,0 +1,9 @@
+coordinates:
+  name: godo
+  namespace: github.com%2Fdigitalocean
+  provider: golang
+  type: go
+revisions:
+  v1.73.0:
+    licensed:
+      declared: MIT
