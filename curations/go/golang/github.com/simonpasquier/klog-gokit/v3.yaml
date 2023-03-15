@@ -1,0 +1,9 @@
+coordinates:
+  name: v3
+  namespace: github.com%2Fsimonpasquier%2Fklog-gokit
+  provider: golang
+  type: go
+revisions:
+  v3.0.0:
+    licensed:
+      declared: Apache-2.0
