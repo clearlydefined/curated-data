@@ -138,3 +138,6 @@ revisions:
   4.0.0-preview.4:
     licensed:
       declared: MIT
+  4.11.0:
+    licensed:
+      declared: MIT
