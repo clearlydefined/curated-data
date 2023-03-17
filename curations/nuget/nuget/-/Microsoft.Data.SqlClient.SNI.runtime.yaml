@@ -9,6 +9,9 @@ revisions:
   2.1.1:
     licensed:
       declared: OTHER
+  4.0.1:
+    licensed:
+      declared: OTHER
   5.0.1:
     described:
       sourceLocation:
