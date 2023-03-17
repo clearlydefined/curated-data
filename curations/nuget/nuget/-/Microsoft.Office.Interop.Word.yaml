@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Office.Interop.Word
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.4797.1004:
+    licensed:
+      declared: NONE
