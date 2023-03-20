@@ -1,0 +1,9 @@
+coordinates:
+  name: cni
+  namespace: containernetworking
+  provider: github
+  type: git
+revisions:
+  11db36c11b015c1d84fa6f46496796d193fa8d43:
+    licensed:
+      declared: Apache-2.0
