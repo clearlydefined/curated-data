@@ -1,0 +1,9 @@
+coordinates:
+  name: errors
+  namespace: juju
+  provider: github
+  type: git
+revisions:
+  3fe23663418fc1d724868c84f21b7519bbac7441:
+    licensed:
+      declared: LGPL-3.0-only WITH LGPL-3.0-linking-exception
