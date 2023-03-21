@@ -1,0 +1,9 @@
+coordinates:
+  name: prometheus-cpp
+  namespace: jupp0r
+  provider: github
+  type: git
+revisions:
+  76470b3ec024c8214e1f4253fb1f4c0b28d3df94:
+    licensed:
+      declared: MIT
