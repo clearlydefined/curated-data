@@ -1,0 +1,9 @@
+coordinates:
+  name: mutex
+  namespace: juju
+  provider: github
+  type: git
+revisions:
+  d21b13acf4bfd8a8b0482a3a78e44d98880b40d3:
+    licensed:
+      declared: LGPL-3.0-only WITH LGPL-3.0-linking-exception
