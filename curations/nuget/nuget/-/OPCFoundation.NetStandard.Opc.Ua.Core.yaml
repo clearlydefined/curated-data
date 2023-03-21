@@ -42,3 +42,6 @@ revisions:
   1.4.370.12:
     licensed:
       declared: GPL-2.0-only OR OTHER
+  1.4.371.50:
+    licensed:
+      declared: GPL-2.0-only OR OTHER
