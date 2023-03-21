@@ -1,0 +1,8 @@
+coordinates:
+  name: win32-process
+  provider: rubygems
+  type: gem
+revisions:
+  0.8.3:
+    licensed:
+      declared: Artistic-2.0
