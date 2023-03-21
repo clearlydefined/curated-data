@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Office.Interop.Excel
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.4795.1001:
+    licensed:
+      declared: NONE
