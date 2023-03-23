@@ -1,0 +1,9 @@
+coordinates:
+  name: cnab-to-oci
+  namespace: github.com%2Fcnabio
+  provider: golang
+  type: go
+revisions:
+  v0.3.1-beta1.0.20210614060230-e4d2bd5441c8:
+    licensed:
+      declared: Apache-2.0
