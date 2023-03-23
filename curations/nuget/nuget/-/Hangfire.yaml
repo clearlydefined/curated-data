@@ -33,6 +33,9 @@ revisions:
   1.7.32:
     licensed:
       declared: LGPL-3.0-or-later OR OTHER
+  1.7.33:
+    licensed:
+      declared: OTHER
   1.7.9:
     licensed:
       declared: LGPL-3.0-or-later OR OTHER
