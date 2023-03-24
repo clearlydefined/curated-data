@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.SharePointOnline.CSOM
+  provider: nuget
+  type: nuget
+revisions:
+  16.1.23109.12000:
+    licensed:
+      declared: OTHER
