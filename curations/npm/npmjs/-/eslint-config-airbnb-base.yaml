@@ -1,0 +1,14 @@
+coordinates:
+  name: eslint-config-airbnb-base
+  provider: npmjs
+  type: npm
+revisions:
+  15.0.0:
+    described:
+      sourceLocation:
+        name: javascript
+        namespace: airbnb
+        provider: github
+        revision: 366bfa66380c08304101c6add46355696e90b348
+        type: git
+        url: 'https://github.com/airbnb/javascript/commit/366bfa66380c08304101c6add46355696e90b348'
