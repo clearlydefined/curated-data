@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.SqlServer.Assessment
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.280:
+    licensed:
+      declared: OTHER
