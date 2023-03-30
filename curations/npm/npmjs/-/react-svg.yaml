@@ -1,0 +1,8 @@
+coordinates:
+  name: react-svg
+  provider: npmjs
+  type: npm
+revisions:
+  16.1.7:
+    licensed:
+      declared: MIT
