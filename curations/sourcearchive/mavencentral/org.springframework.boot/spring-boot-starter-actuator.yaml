@@ -1,0 +1,15 @@
+coordinates:
+  name: spring-boot-starter-actuator
+  namespace: org.springframework.boot
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.7.3:
+    described:
+      sourceLocation:
+        name: spring-boot
+        namespace: spring-projects
+        provider: github
+        revision: bff9b3924ffb042c67612d8617110edd6f680917
+        type: git
+        url: 'https://github.com/spring-projects/spring-boot/commit/bff9b3924ffb042c67612d8617110edd6f680917'
