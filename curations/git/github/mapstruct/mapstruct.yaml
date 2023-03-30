@@ -1,0 +1,9 @@
+coordinates:
+  name: mapstruct
+  namespace: mapstruct
+  provider: github
+  type: git
+revisions:
+  19973ff818e20531cbd81e5048404fd48c3c7508:
+    licensed:
+      declared: Apache-2.0
