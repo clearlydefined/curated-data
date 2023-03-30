@@ -1,0 +1,8 @@
+coordinates:
+  name: highline
+  provider: rubygems
+  type: gem
+revisions:
+  2.0.3:
+    licensed:
+      declared: GPL-2.0-only OR Ruby
