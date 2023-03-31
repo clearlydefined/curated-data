@@ -1,0 +1,9 @@
+coordinates:
+  name: perks
+  namespace: github.com%2Fbmizerany
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20141205001514-d9a9656a3a4b:
+    licensed:
+      declared: BSD-2-Clause
