@@ -1,0 +1,9 @@
+coordinates:
+  name: metro-jax-ws
+  namespace: eclipse-ee4j
+  provider: github
+  type: git
+revisions:
+  7ddc91f783bd3c2d5a5365f7fd2ee1bf47c31cb0:
+    licensed:
+      declared: BSD-3-Clause
