@@ -1,0 +1,8 @@
+coordinates:
+  name: highcharts-custom-events
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.10:
+    licensed:
+      declared: CPL-1.0
