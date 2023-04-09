@@ -1,0 +1,19 @@
+coordinates:
+  name: fundamental-styles
+  namespace: sap
+  provider: github
+  type: git
+revisions:
+  f3f3162d0e908dff7d2ce65ee1ca6f587f599d93:
+    described:
+      facets:
+        data:
+          - '2023-04-08'
+        dev:
+          - fund
+        doc:
+          - score-100(Licensed)-Described-100-score
+        examples:
+          - '-'
+        tests:
+          - RAW DATA><
