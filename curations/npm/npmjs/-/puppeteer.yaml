@@ -1,0 +1,14 @@
+coordinates:
+  name: puppeteer
+  provider: npmjs
+  type: npm
+revisions:
+  19.7.5:
+    described:
+      sourceLocation:
+        name: puppeteer
+        namespace: puppeteer
+        provider: github
+        revision: 73ca94fe662ba959aef4771d1bf5d08706e1d152
+        type: git
+        url: 'https://github.com/puppeteer/puppeteer/commit/73ca94fe662ba959aef4771d1bf5d08706e1d152'
