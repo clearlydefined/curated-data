@@ -1,0 +1,9 @@
+coordinates:
+  name: jersey-json
+  namespace: com.github.pjfanning
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.20':
+    licensed:
+      declared: CDDL-1.0
