@@ -1,0 +1,15 @@
+coordinates:
+  name: msal-browser
+  namespace: '@azure'
+  provider: npmjs
+  type: npm
+revisions:
+  2.22.0:
+    described:
+      sourceLocation:
+        name: microsoft-authentication-library-for-js
+        namespace: azuread
+        provider: github
+        revision: b02ab48cf81034b0f491d04b54624731be987b7e
+        type: git
+        url: 'https://github.com/azuread/microsoft-authentication-library-for-js/commit/b02ab48cf81034b0f491d04b54624731be987b7e'
