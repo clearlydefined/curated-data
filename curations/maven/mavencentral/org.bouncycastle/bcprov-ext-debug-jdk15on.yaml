@@ -1,0 +1,9 @@
+coordinates:
+  name: bcprov-ext-debug-jdk15on
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.60':
+    licensed:
+      declared: MIT
