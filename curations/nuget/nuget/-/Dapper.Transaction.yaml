@@ -1,0 +1,8 @@
+coordinates:
+  name: Dapper.Transaction
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.123:
+    licensed:
+      declared: MIT
