@@ -1,0 +1,8 @@
+coordinates:
+  name: OPTANO.Modeling.Gurobi
+  provider: nuget
+  type: nuget
+revisions:
+  9.1.2.26:
+    licensed:
+      declared: OTHER
