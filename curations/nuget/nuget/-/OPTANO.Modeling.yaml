@@ -5,4 +5,4 @@ coordinates:
 revisions:
   3.7.0.522:
     licensed:
-      declared: OTHER
+      declared: MIT
