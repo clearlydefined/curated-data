@@ -2,8 +2,8 @@ coordinates:
   name: cassandra-unit
   namespace: org.cassandraunit
   provider: mavencentral
-  type: maven
+  type: mavenL
 revisions:
   2.0.2.2:
     licensed:
-      declared: GPL-3.0-only
+      declared: LGPL-3.0-only
