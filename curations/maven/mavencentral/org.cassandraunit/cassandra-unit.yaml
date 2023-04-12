@@ -2,7 +2,7 @@ coordinates:
   name: cassandra-unit
   namespace: org.cassandraunit
   provider: mavencentral
-  type: mavenL
+  type: maven
 revisions:
   2.0.2.2:
     licensed:
