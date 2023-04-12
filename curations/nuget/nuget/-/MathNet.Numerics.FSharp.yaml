@@ -5,7 +5,7 @@ coordinates:
 revisions:
   4.7.0:
     licensed:
-      declared: OTHER
+      declared: MIT
   4.8.1:
     licensed:
       declared: MIT
