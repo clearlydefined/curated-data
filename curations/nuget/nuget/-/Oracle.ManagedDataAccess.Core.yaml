@@ -15,6 +15,9 @@ revisions:
   2.19.110:
     licensed:
       declared: OTHER
+  2.19.180:
+    licensed:
+      declared: OTHER
   2.19.31:
     licensed:
       declared: OTHER
