@@ -6,3 +6,6 @@ revisions:
   1.0.0-rc0001:
     licensed:
       declared: AGPL-3.0-only OR OTHER
+  3.0.0:
+    licensed:
+      declared: Apache-2.0
