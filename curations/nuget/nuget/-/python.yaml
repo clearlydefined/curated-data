@@ -24,6 +24,9 @@ revisions:
   3.5.4:
     licensed:
       declared: Python-2.0.1
+  3.6.0:
+    licensed:
+      declared: PSF-2.0
   3.6.5:
     licensed:
       declared: Python-2.0.1
