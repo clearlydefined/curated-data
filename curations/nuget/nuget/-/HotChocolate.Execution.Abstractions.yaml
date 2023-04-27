@@ -1,0 +1,8 @@
+coordinates:
+  name: HotChocolate.Execution.Abstractions
+  provider: nuget
+  type: nuget
+revisions:
+  13.0.5:
+    licensed:
+      declared: MIT
