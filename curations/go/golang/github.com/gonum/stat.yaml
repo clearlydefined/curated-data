@@ -1,0 +1,9 @@
+coordinates:
+  name: stat
+  namespace: github.com%2Fgonum
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181125101827-41a0da705a5b:
+    licensed:
+      declared: BSD-3-Clause
