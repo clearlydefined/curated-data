@@ -82,6 +82,9 @@ revisions:
     licensed:
       declared: Apache-2.0
   1.60.0:
+    files:
+      - license: Apache-2.0
+        path: LICENSE
     licensed:
       declared: Apache-2.0
   1.9.0:
