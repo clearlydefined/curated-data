@@ -6,3 +6,6 @@ revisions:
   10.0.0:
     licensed:
       declared: MIT
+  11.1.0:
+    licensed:
+      declared: MIT
