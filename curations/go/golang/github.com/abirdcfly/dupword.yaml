@@ -1,0 +1,9 @@
+coordinates:
+  name: dupword
+  namespace: github.com%2fabirdcfly
+  provider: golang
+  type: go
+revisions:
+  v0.0.9:
+    licensed:
+      declared: MIT
