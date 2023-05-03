@@ -8,7 +8,7 @@ revisions:
       declared: AGPL-3.0-only OR OTHER
   3.0.0:
     licensed:
-      declared: Apache-2.0
+      declared: Apache-2.0 OR OTHER
   3.0.1:
     licensed:
       declared: LicenseRef-scancode-six-labors-split-1.0
