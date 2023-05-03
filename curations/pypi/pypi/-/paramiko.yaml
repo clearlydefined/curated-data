@@ -50,4 +50,4 @@ revisions:
       declared: LGPL-2.1-or-later
   3.0.0:
     licensed:
-      declared: LGPL-2.1-only
+      declared: LGPL-2.1-or-later
