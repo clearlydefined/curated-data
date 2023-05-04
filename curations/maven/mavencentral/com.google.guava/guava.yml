@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
-  31.1:
+  31.1-jre:
+    licensed:
+      declared: Apache-2.0
+  31.1-android:
     licensed:
       declared: Apache-2.0
