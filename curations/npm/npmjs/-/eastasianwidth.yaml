@@ -1,0 +1,14 @@
+coordinates:
+  name: eastasianwidth
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.0:
+    described:
+      sourceLocation:
+        name: eastasianwidth
+        namespace: komagata
+        provider: github
+        revision: ea4d04d889986341643e6e0d4a3b9fc0babddf85
+        type: git
+        url: 'https://github.com/komagata/eastasianwidth/commit/ea4d04d889986341643e6e0d4a3b9fc0babddf85'
