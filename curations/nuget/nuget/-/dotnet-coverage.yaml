@@ -1,0 +1,8 @@
+coordinates:
+  name: dotnet-coverage
+  provider: nuget
+  type: nuget
+revisions:
+  17.6.9:
+    licensed:
+      declared: MS-PL
