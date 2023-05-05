@@ -1,0 +1,8 @@
+coordinates:
+  name: filechunkio
+  provider: pypi
+  type: pypi
+revisions:
+  '1.8':
+    licensed:
+      declared: MIT
