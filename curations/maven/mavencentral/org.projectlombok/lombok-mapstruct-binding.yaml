@@ -1,0 +1,9 @@
+coordinates:
+  name: lombok-mapstruct-binding
+  namespace: org.projectlombok
+  provider: mavencentral
+  type: maven
+revisions:
+  0.2.0:
+    licensed:
+      declared: MIT
