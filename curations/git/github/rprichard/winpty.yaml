@@ -1,0 +1,9 @@
+coordinates:
+  name: winpty
+  namespace: rprichard
+  provider: github
+  type: git
+revisions:
+  3e1ab962d5262dd76159870c6dc0724927ca6a9d:
+    licensed:
+      declared: MIT
