@@ -8,4 +8,4 @@ revisions:
       declared: MS-PL OR Apache-2.0
   3.3.0:
     licensed:
-      declared: MS-PL
+      declared: MS-PL OR Apache-2.0
