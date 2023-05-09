@@ -9,6 +9,6 @@ revisions:
         name: eastasianwidth
         namespace: komagata
         provider: github
-        revision: ea4d04d889986341643e6e0d4a3b9fc0babddf85
+        revision: b89f04d44dc786885615e94cd6e2ba1ef7866fa4
         type: git
-        url: 'https://github.com/komagata/eastasianwidth/commit/ea4d04d889986341643e6e0d4a3b9fc0babddf85'
+        url: 'https://github.com/komagata/eastasianwidth/commit/b89f04d44dc786885615e94cd6e2ba1ef7866fa4'
