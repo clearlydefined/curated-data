@@ -1,0 +1,8 @@
+coordinates:
+  name: barman
+  provider: pypi
+  type: pypi
+revisions:
+  3.4.0:
+    described:
+      releaseDate: '2023-01-26'
