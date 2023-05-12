@@ -1,0 +1,9 @@
+coordinates:
+  name: jnr-posix
+  namespace: org.jruby.ext.posix
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.4:
+    licensed:
+      declared: CPL-1.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
