@@ -1,0 +1,9 @@
+coordinates:
+  name: clock
+  namespace: github.com%2Ftilinna
+  provider: golang
+  type: go
+revisions:
+  v1.1.0:
+    licensed:
+      declared: MIT
