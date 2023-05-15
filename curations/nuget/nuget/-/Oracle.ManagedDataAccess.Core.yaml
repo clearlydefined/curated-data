@@ -24,6 +24,9 @@ revisions:
   3.21.1:
     licensed:
       declared: OTHER
+  3.21.100:
+    licensed:
+      declared: NONE
   3.21.4:
     licensed:
       declared: OTHER
