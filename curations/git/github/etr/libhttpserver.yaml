@@ -1,0 +1,9 @@
+coordinates:
+  name: libhttpserver
+  namespace: etr
+  provider: github
+  type: git
+revisions:
+  c9746044d4b5c849f2b484087e110dd2a6e55308:
+    licensed:
+      declared: GPL-2.0-only
