@@ -1,0 +1,9 @@
+coordinates:
+  name: sap.fe.templates
+  namespace: '@sapui5'
+  provider: npmjs
+  type: npm
+revisions:
+  1.108.2:
+    licensed:
+      declared: LicenseRef-scancode-unknown-license-reference
