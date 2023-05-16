@@ -46,6 +46,9 @@ revisions:
   1.2.28:
     licensed:
       declared: OTHER
+  1.2.31:
+    licensed:
+      declared: MS-PL
   1.2.5:
     licensed:
       declared: OTHER
