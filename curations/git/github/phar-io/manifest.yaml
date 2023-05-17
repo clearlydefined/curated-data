@@ -1,0 +1,9 @@
+coordinates:
+  name: manifest
+  namespace: phar-io
+  provider: github
+  type: git
+revisions:
+  97803eca37d319dfa7826cc2437fc020857acb53:
+    licensed:
+      declared: BSD-3-Clause
