@@ -1,0 +1,9 @@
+coordinates:
+  name: milo
+  namespace: eclipse
+  provider: github
+  type: git
+revisions:
+  0795141a1c855365993354e8d5f6577bd68cb12d:
+    licensed:
+      declared: EPL-2.0
