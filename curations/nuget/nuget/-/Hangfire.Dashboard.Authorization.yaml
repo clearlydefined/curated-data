@@ -1,0 +1,8 @@
+coordinates:
+  name: Hangfire.Dashboard.Authorization
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0:
+    licensed:
+      declared: GPL-3.0-only
