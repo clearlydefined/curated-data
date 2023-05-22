@@ -1,0 +1,9 @@
+coordinates:
+  name: qpid-proton
+  namespace: apache
+  provider: github
+  type: git
+revisions:
+  da60728ebc92f40f265c13b4a4f55cb63265cd26:
+    licensed:
+      declared: Apache-2.0
