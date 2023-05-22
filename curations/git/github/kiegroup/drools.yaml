@@ -1,0 +1,9 @@
+coordinates:
+  name: drools
+  namespace: kiegroup
+  provider: github
+  type: git
+revisions:
+  0ef7b8cc77d2b27e3f6dc0b58990c9dc9e5c1ac2:
+    licensed:
+      declared: Apache-2.0
