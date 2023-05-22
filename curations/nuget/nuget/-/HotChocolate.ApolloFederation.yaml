@@ -1,0 +1,8 @@
+coordinates:
+  name: HotChocolate.ApolloFederation
+  provider: nuget
+  type: nuget
+revisions:
+  12.16.0:
+    licensed:
+      declared: MIT
