@@ -1,11 +1,8 @@
 coordinates:
-  name: OpenCover
+  name: Hangfire.Dashboard.Authorization
   provider: nuget
   type: nuget
 revisions:
-  4.5.1310:
-    licensed:
-      declared: MIT
-  4.6.519:
+  3.0.0:
     licensed:
       declared: MIT
