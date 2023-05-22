@@ -1,0 +1,9 @@
+coordinates:
+  name: prometheus-operator
+  namespace: coreos
+  provider: github
+  type: git
+revisions:
+  d8ba1c766a141cb35072ae2f2578ec8588c9efcd:
+    licensed:
+      declared: Apache-2.0

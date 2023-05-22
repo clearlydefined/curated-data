@@ -1,0 +1,9 @@
+coordinates:
+  name: activemq
+  namespace: apache
+  provider: github
+  type: git
+revisions:
+  37fb15d3b38d130800aed9d2c7aa1da0ccc47ff0:
+    licensed:
+      declared: Apache-2.0
