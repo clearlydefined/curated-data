@@ -1,0 +1,9 @@
+coordinates:
+  name: tomcat
+  namespace: apache
+  provider: github
+  type: git
+revisions:
+  55a52d8475b8b3ec8ebda739f8c6b4fdeac173d9:
+    licensed:
+      declared: Apache-2.0
