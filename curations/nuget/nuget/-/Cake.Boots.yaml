@@ -1,0 +1,8 @@
+coordinates:
+  name: Cake.Boots
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.0.712-preview2:
+    licensed:
+      declared: MIT
