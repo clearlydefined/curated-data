@@ -1,0 +1,9 @@
+coordinates:
+  name: workflow-durable-task-step-plugin
+  namespace: jenkinsci
+  provider: github
+  type: git
+revisions:
+  252ae12e846323c29f57366d08689c0d0c22682a:
+    licensed:
+      declared: MIT
