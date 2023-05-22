@@ -1,0 +1,9 @@
+coordinates:
+  name: version
+  namespace: phar-io
+  provider: github
+  type: git
+revisions:
+  4f7fd7836c6f332bb2933569e566a0d6c4cbed74:
+    licensed:
+      declared: BSD-3-Clause
