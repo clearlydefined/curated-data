@@ -1,0 +1,9 @@
+coordinates:
+  name: msgraph-sdk-java
+  namespace: microsoftgraph
+  provider: github
+  type: git
+revisions:
+  9d9ee7f0d090d1db49308434542cddc3696db159:
+    licensed:
+      declared: MIT
