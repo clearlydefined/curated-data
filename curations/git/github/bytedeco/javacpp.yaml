@@ -6,4 +6,4 @@ coordinates:
 revisions:
   be430d2e9fb46898ea3db92ccdae7d394cef9b10:
     licensed:
-      declared: Apache-2.0
+      declared: Apache-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0
