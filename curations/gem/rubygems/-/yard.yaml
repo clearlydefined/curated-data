@@ -1,0 +1,8 @@
+coordinates:
+  name: yard
+  provider: rubygems
+  type: gem
+revisions:
+  0.9.34:
+    licensed:
+      declared: MIT
