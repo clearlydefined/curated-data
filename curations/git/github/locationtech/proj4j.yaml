@@ -1,0 +1,9 @@
+coordinates:
+  name: proj4j
+  namespace: locationtech
+  provider: github
+  type: git
+revisions:
+  abd3dde5ac58bb425c71bde05aad71d6eb33fed5:
+    licensed:
+      declared: Apache-2.0
