@@ -1,11 +1,8 @@
 coordinates:
-  name: OpenCover
+  name: Cake.Boots
   provider: nuget
   type: nuget
 revisions:
-  4.5.1310:
-    licensed:
-      declared: MIT
-  4.6.519:
+  1.1.0.712-preview2:
     licensed:
       declared: MIT
