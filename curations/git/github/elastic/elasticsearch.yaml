@@ -15,7 +15,7 @@ revisions:
       declared: Apache-2.0
   78dcaaa8cee33438b91eca7f5c7f56a70fec9e80:
     licensed:
-      declared: SSPL-1.0
+      declared: SSPL-1.0 OR Elastic-2.0
   816e6f6a08be821d8ec01b51bf383544d1e341b0:
     licensed:
       declared: Apache-2.0
