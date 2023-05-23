@@ -1,0 +1,9 @@
+coordinates:
+  name: hamcrest-php
+  namespace: hamcrest
+  provider: github
+  type: git
+revisions:
+  8c3d0a3f6af734494ad8f6fbbee0ba92422859f3:
+    licensed:
+      declared: BSD-3-Clause

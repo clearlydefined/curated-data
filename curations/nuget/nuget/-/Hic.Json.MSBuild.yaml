@@ -1,11 +1,8 @@
 coordinates:
-  name: Hic.Mustache.MSBuild
+  name: Hic.Json.MSBuild
   provider: nuget
   type: nuget
 revisions:
-  0.0.62:
-    licensed:
-      declared: NONE
-  0.0.63:
+  0.0.88:
     licensed:
       declared: MIT

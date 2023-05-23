@@ -1,0 +1,9 @@
+coordinates:
+  name: jastow
+  namespace: io.undertow.jastow
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.0.Final:
+    licensed:
+      declared: LGPL-2.1-or-later

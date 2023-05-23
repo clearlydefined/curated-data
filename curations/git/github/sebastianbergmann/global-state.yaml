@@ -1,0 +1,9 @@
+coordinates:
+  name: global-state
+  namespace: sebastianbergmann
+  provider: github
+  type: git
+revisions:
+  de036ec91d55d2a9e0db2ba975b512cdb1c23921:
+    licensed:
+      declared: BSD-3-Clause

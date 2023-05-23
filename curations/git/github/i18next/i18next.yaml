@@ -1,0 +1,9 @@
+coordinates:
+  name: i18next
+  namespace: i18next
+  provider: github
+  type: git
+revisions:
+  d4229c3c1866f0cc64314b9bac7fffacac1195fe:
+    licensed:
+      declared: MIT
