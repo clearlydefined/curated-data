@@ -31,3 +31,6 @@ revisions:
   e4efcb53ec7a1f2138494c837def7c5a2aff0751:
     licensed:
       declared: Apache-2.0
+  ef48222227ee6b9e70e502f0f0daa52435ee634d:
+    licensed:
+      declared: SSPL-1.0
