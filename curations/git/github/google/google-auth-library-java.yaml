@@ -1,0 +1,9 @@
+coordinates:
+  name: google-auth-library-java
+  namespace: google
+  provider: github
+  type: git
+revisions:
+  2ceebba0107d919e598531dd49bb58347307f0e5:
+    licensed:
+      declared: BSD-3-Clause
