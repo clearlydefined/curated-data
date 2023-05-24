@@ -10,3 +10,6 @@ revisions:
   71b189101d95daff8af73d3ca0af5f7f5948d917:
     licensed:
       declared: OTHER
+  c6110878eac69902e7c5d8203aa64c4e3ea4cae6:
+    licensed:
+      declared: Apache-2.0
