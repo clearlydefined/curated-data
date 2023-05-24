@@ -1,0 +1,8 @@
+coordinates:
+  name: 7-Zip.Extra
+  provider: nuget
+  type: nuget
+revisions:
+  9.20.0:
+    licensed:
+      declared: GPL-2.0-only
