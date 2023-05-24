@@ -1,0 +1,9 @@
+coordinates:
+  name: cli
+  namespace: npm
+  provider: github
+  type: git
+revisions:
+  dc3b9b812ef666b837b413b4df27410d752d67fb:
+    licensed:
+      declared: Artistic-2.0
