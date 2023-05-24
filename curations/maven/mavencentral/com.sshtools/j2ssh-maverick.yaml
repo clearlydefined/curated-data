@@ -1,0 +1,9 @@
+coordinates:
+  name: j2ssh-maverick
+  namespace: com.sshtools
+  provider: mavencentral
+  type: maven
+revisions:
+  1.5.5:
+    licensed:
+      declared: GPL-3.0-or-later
