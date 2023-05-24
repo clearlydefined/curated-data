@@ -1,0 +1,9 @@
+coordinates:
+  name: node-re2
+  namespace: uhop
+  provider: github
+  type: git
+revisions:
+  1e5ab4af42180f25dbc71911d3351293e02534df:
+    licensed:
+      declared: BSD-3-Clause
