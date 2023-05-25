@@ -1,0 +1,8 @@
+coordinates:
+  name: graphene-django
+  provider: pypi
+  type: pypi
+revisions:
+  2.15.0:
+    licensed:
+      declared: MIT
