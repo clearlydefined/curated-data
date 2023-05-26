@@ -1,0 +1,8 @@
+coordinates:
+  name: Hellang.Middleware.ProblemDetails
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.2:
+    licensed:
+      declared: MIT
