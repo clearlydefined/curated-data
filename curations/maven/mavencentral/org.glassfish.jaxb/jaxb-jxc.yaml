@@ -1,0 +1,9 @@
+coordinates:
+  name: jaxb-jxc
+  namespace: org.glassfish.jaxb
+  provider: mavencentral
+  type: maven
+revisions:
+  2.2.11:
+    licensed:
+      declared: CDDL-1.1
