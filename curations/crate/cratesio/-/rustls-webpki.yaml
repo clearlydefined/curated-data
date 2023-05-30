@@ -1,0 +1,8 @@
+coordinates:
+  name: rustls-webpki
+  provider: cratesio
+  type: crate
+revisions:
+  0.100.1:
+    licensed:
+      declared: ISC
