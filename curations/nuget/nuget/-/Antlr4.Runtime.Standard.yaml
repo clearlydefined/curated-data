@@ -6,6 +6,17 @@ revisions:
   4.7.1:
     licensed:
       declared: BSD-3-Clause
+  4.7.1.1:
+    described:
+      sourceLocation:
+        name: antlr4
+        namespace: antlr
+        provider: github
+        revision: b9adef5878c5b84eb9b70bad2df56334fb7e1b9e
+        type: git
+        url: 'https://github.com/antlr/antlr4/commit/b9adef5878c5b84eb9b70bad2df56334fb7e1b9e'
+    licensed:
+      declared: BSD-3-Clause
   4.7.2:
     licensed:
       declared: BSD-3-Clause
