@@ -1,0 +1,9 @@
+coordinates:
+  name: v3
+  namespace: github.com%2Fmasterminds%2Fsprig
+  provider: golang
+  type: go
+revisions:
+  v3.2.3:
+    licensed:
+      declared: MIT
