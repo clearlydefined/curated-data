@@ -1,0 +1,9 @@
+coordinates:
+  name: jaxb-xjc
+  namespace: com.sun.xml.bind
+  provider: mavencentral
+  type: maven
+revisions:
+  2.2.11:
+    licensed:
+      declared: BSD-3-Clause
