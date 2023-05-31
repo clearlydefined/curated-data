@@ -1,0 +1,9 @@
+coordinates:
+  name: isorelax
+  namespace: com.sun.xml.bind.jaxb
+  provider: mavencentral
+  type: maven
+revisions:
+  '20090621':
+    licensed:
+      declared: CDDL-1.1
