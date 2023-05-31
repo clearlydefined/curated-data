@@ -1,0 +1,9 @@
+coordinates:
+  name: go-crc16
+  namespace: github.com%2Fjoaojeronimo
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20140729130949-59bd0194935e:
+    licensed:
+      declared: MIT
