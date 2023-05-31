@@ -1,0 +1,9 @@
+coordinates:
+  name: jaxb-jxc
+  namespace: com.sun.xml.bind
+  provider: mavencentral
+  type: maven
+revisions:
+  2.2.11:
+    licensed:
+      declared: CDDL-1.0
