@@ -36,3 +36,6 @@ revisions:
   2.0.123-beta:
     licensed:
       declared: MIT
+  2.14.24:
+    licensed:
+      declared: MIT
