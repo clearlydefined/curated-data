@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-kafka
+  namespace: spring-projects
+  provider: github
+  type: git
+revisions:
+  42ad4007e202bbd8f090aee714a3c0b5604d959b:
+    licensed:
+      declared: Apache-2.0
