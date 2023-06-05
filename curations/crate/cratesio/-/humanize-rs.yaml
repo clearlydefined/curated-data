@@ -1,0 +1,8 @@
+coordinates:
+  name: humanize-rs
+  provider: cratesio
+  type: crate
+revisions:
+  0.1.5:
+    licensed:
+      declared: MIT
