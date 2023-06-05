@@ -1,0 +1,8 @@
+coordinates:
+  name: JsonCpp.Windows
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.2:
+    licensed:
+      declared: MIT
