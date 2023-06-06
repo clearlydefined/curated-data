@@ -1,0 +1,8 @@
+coordinates:
+  name: empy
+  provider: pypi
+  type: pypi
+revisions:
+  3.3.4:
+    licensed:
+      declared: LGPL-2.0-or-later
