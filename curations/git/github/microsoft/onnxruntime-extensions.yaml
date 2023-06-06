@@ -1,0 +1,9 @@
+coordinates:
+  name: onnxruntime-extensions
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  0a9a3a9b2ff80e187f99c8266a89bc64ba44bc13:
+    licensed:
+      declared: MIT

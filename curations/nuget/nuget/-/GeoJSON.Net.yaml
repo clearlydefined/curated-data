@@ -1,11 +1,8 @@
 coordinates:
-  name: JsonPath.Net
+  name: GeoJSON.Net
   provider: nuget
   type: nuget
 revisions:
-  0.2.1:
-    licensed:
-      declared: MIT
-  0.3.3:
+  0.1.47:
     licensed:
       declared: MIT
