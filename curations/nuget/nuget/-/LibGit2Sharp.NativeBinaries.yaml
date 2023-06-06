@@ -72,3 +72,6 @@ revisions:
   2.0.315-alpha.0.9:
     licensed:
       declared: GPL-2.0-only WITH GCC-exception-2.0
+  2.0.320:
+    licensed:
+      declared: GPL-2.0-only WITH GCC-exception-2.0
