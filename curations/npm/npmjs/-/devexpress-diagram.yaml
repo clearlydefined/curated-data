@@ -1,0 +1,8 @@
+coordinates:
+  name: devexpress-diagram
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.45:
+    licensed:
+      declared: OTHER
