@@ -1,0 +1,8 @@
+coordinates:
+  name: FSharp.Formatting
+  provider: nuget
+  type: nuget
+revisions:
+  2.4.24:
+    licensed:
+      declared: Apache-2.0
