@@ -1,0 +1,21 @@
+coordinates:
+  name: utils
+  namespace: '@devexpress'
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.1:
+    licensed:
+      declared: OTHER
+  1.3.2:
+    licensed:
+      declared: OTHER
+  1.3.16:
+    licensed:
+      declared: OTHER
+  1.3.14:
+    licensed:
+      declared: OTHER
+  1.3.13:
+    licensed:
+      declared: OTHER
