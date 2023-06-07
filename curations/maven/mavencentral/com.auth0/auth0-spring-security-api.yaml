@@ -1,0 +1,9 @@
+coordinates:
+  name: auth0-spring-security-api
+  namespace: com.auth0
+  provider: mavencentral
+  type: maven
+revisions:
+  1.5.3:
+    licensed:
+      declared: MIT
