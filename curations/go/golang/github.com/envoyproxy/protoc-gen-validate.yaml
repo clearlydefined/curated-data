@@ -1,6 +1,6 @@
 coordinates:
   name: protoc-gen-validate
-  namespace: github.com%2Fenvoyproxy
+  namespace: github.com%2fenvoyproxy
   provider: golang
   type: go
 revisions:
@@ -8,6 +8,9 @@ revisions:
     licensed:
       declared: Apache-2.0
   v0.1.0:
+    licensed:
+      declared: Apache-2.0
+  v0.10.0:
     licensed:
       declared: Apache-2.0
   v0.3.0-java:
