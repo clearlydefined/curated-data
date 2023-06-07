@@ -1,0 +1,8 @@
+coordinates:
+  name: flatten-json
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.13:
+    licensed:
+      declared: MIT
