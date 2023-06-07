@@ -1,0 +1,8 @@
+coordinates:
+  name: GrapeCity.Documents.Imaging
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.0.715:
+    licensed:
+      declared: OTHER
