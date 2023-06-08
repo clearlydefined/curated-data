@@ -1,0 +1,9 @@
+coordinates:
+  name: runtime
+  namespace: '@devextreme'
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.11:
+    licensed:
+      declared: OTHER
