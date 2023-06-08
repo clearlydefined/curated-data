@@ -1,0 +1,8 @@
+coordinates:
+  name: devextreme
+  provider: npmjs
+  type: npm
+revisions:
+  22.2.6:
+    licensed:
+      declared: OTHER
