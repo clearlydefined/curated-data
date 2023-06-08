@@ -1,0 +1,8 @@
+coordinates:
+  name: CoreCompat.System.Drawing
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0-beta006:
+    licensed:
+      declared: NONE
