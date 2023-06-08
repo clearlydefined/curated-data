@@ -1,0 +1,8 @@
+coordinates:
+  name: Community.VisualStudio.VSCT
+  provider: nuget
+  type: nuget
+revisions:
+  16.0.29.6:
+    licensed:
+      declared: MIT
