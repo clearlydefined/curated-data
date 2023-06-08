@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.15.0:
+    licensed:
+      declared: MPL-2.0
   0.26.0:
     licensed:
       declared: Unlicense
