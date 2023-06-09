@@ -1,0 +1,8 @@
+coordinates:
+  name: beau_collector
+  provider: cratesio
+  type: crate
+revisions:
+  0.2.1:
+    licensed:
+      declared: MIT
