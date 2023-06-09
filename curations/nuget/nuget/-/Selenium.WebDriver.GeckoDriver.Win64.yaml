@@ -5,7 +5,7 @@ coordinates:
 revisions:
   0.15.0:
     licensed:
-      declared: MPL-2.0
+      declared: Unlicense
   0.26.0:
     licensed:
       declared: Unlicense
