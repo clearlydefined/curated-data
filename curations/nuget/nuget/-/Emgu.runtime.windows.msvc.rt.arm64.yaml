@@ -1,0 +1,8 @@
+coordinates:
+  name: Emgu.runtime.windows.msvc.rt.arm64
+  provider: nuget
+  type: nuget
+revisions:
+  19.33.31630:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
