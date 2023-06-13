@@ -1,0 +1,9 @@
+coordinates:
+  name: amqp091-go
+  namespace: rabbitmq
+  provider: github
+  type: git
+revisions:
+  09d223a6803ba6824f3c311c82a3f630c1b162a9:
+    licensed:
+      declared: BSD-2-Clause
