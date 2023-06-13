@@ -1,0 +1,8 @@
+coordinates:
+  name: wordninja
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.0:
+    licensed:
+      declared: MIT
