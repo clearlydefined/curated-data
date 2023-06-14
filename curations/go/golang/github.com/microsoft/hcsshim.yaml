@@ -1,0 +1,9 @@
+coordinates:
+  name: hcsshim
+  namespace: github.com%2Fmicrosoft
+  provider: golang
+  type: go
+revisions:
+  v0.8.25:
+    licensed:
+      declared: MIT
