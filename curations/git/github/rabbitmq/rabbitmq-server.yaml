@@ -1,0 +1,9 @@
+coordinates:
+  name: rabbitmq-server
+  namespace: rabbitmq
+  provider: github
+  type: git
+revisions:
+  382cb63a8b67f7d856e80aff445dec0d765db76b:
+    licensed:
+      declared: MPL-2.0
