@@ -1,0 +1,9 @@
+coordinates:
+  name: hisrc-hyperjaxb-annox-plugin
+  namespace: org.patrodyne.jvnet
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0:
+    licensed:
+      declared: BSD-3-Clause
