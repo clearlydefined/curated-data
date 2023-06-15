@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  4.0.0.12084:
+    licensed:
+      declared: MS-PL
   4.0.3.12153:
     licensed:
       declared: MS-PL
