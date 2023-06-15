@@ -33,3 +33,6 @@ revisions:
   17.5.33428.366:
     licensed:
       declared: OTHER
+  17.6.36389:
+    licensed:
+      declared: MPL-2.0
