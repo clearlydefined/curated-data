@@ -1,0 +1,8 @@
+coordinates:
+  name: lambda
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.1:
+    licensed:
+      declared: NONE
