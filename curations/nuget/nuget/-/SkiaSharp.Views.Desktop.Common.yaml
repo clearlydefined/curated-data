@@ -1,0 +1,8 @@
+coordinates:
+  name: SkiaSharp.Views.Desktop.Common
+  provider: nuget
+  type: nuget
+revisions:
+  2.88.3:
+    licensed:
+      declared: MIT
