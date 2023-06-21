@@ -9,3 +9,6 @@ revisions:
   15.0.7:
     licensed:
       declared: Apache-2.0 WITH LLVM-exception
+  16.0.6:
+    licensed:
+      declared: Apache-2.0
