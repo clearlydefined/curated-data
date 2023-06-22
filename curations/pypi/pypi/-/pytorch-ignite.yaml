@@ -1,0 +1,8 @@
+coordinates:
+  name: pytorch-ignite
+  provider: pypi
+  type: pypi
+revisions:
+  0.4.12:
+    licensed:
+      declared: BSD-3-Clause
