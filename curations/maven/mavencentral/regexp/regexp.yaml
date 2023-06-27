@@ -1,0 +1,9 @@
+coordinates:
+  name: regexp
+  namespace: regexp
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.2':
+    licensed:
+      declared: Apache-1.1
