@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-jsp-api_2.3_spec
+  namespace: org.jboss.spec.javax.servlet.jsp
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0.Final:
+    licensed:
+      declared: EPL-2.0
