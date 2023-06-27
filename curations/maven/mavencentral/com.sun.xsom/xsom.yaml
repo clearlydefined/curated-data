@@ -1,0 +1,9 @@
+coordinates:
+  name: xsom
+  namespace: com.sun.xsom
+  provider: mavencentral
+  type: maven
+revisions:
+  '20140925':
+    licensed:
+      declared: CDDL-1.1
