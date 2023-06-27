@@ -1,0 +1,9 @@
+coordinates:
+  name: yasson
+  namespace: org.eclipse
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.5:
+    licensed:
+      declared: EPL-1.0
