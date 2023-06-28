@@ -6,7 +6,7 @@ coordinates:
 revisions:
   2.0.8.Final:
     licensed:
-      declared: CC0-1.0
+      declared: LGPL-2.1-or-later
   2.1.0.Final:
     licensed:
       declared: LGPL-2.1-or-later
