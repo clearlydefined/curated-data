@@ -1,0 +1,9 @@
+coordinates:
+  name: coral-common
+  namespace: com.linkedin.coral
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.77:
+    licensed:
+      declared: BSD-2-Clause
