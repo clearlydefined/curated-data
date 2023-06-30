@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-transaction-spi
+  namespace: org.jboss
+  provider: mavencentral
+  type: maven
+revisions:
+  7.6.0.Final:
+    licensed:
+      declared: NONE
