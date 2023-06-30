@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-transaction-api_1.3_spec
+  namespace: org.jboss.spec.javax.transaction
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0.Final:
+    licensed:
+      declared: EPL-2.0
