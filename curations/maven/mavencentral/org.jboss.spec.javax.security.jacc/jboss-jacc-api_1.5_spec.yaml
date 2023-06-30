@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-jacc-api_1.5_spec
+  namespace: org.jboss.spec.javax.security.jacc
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0.Final:
+    licensed:
+      declared: EPL-2.0
