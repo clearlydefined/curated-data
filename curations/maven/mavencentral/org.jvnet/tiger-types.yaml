@@ -1,0 +1,9 @@
+coordinates:
+  name: tiger-types
+  namespace: org.jvnet
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.4':
+    licensed:
+      declared: NONE
