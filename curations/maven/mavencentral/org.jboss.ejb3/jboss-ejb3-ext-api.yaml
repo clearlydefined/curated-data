@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-ejb3-ext-api
+  namespace: org.jboss.ejb3
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.0.Final:
+    licensed:
+      declared: CC0-1.0
