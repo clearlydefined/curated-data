@@ -1,0 +1,9 @@
+coordinates:
+  name: openjdk-orb-jdk9-supplement
+  namespace: org.jboss.openjdk-orb
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.3.Final:
+    licensed:
+      declared: GPL-2.0-only
