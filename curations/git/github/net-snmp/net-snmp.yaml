@@ -1,0 +1,9 @@
+coordinates:
+  name: net-snmp
+  namespace: net-snmp
+  provider: github
+  type: git
+revisions:
+  042fd31a969905553f1d43a0f67d23d3c8b77154:
+    licensed:
+      declared: BSD-3-Clause
