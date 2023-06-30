@@ -1,0 +1,9 @@
+coordinates:
+  name: staxmapper
+  namespace: org.jboss
+  provider: mavencentral
+  type: maven
+revisions:
+  1.3.0.Final:
+    licensed:
+      declared: CC0-1.0
