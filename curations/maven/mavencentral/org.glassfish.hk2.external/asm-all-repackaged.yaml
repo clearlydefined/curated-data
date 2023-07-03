@@ -1,0 +1,9 @@
+coordinates:
+  name: asm-all-repackaged
+  namespace: org.glassfish.hk2.external
+  provider: mavencentral
+  type: maven
+revisions:
+  2.2.0-b21:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
