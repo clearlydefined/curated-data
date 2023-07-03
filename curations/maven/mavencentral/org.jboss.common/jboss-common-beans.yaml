@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-common-beans
+  namespace: org.jboss.common
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.1.Final:
+    licensed:
+      declared: LGPL-2.1-or-later
