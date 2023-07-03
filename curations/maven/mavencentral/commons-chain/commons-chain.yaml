@@ -1,0 +1,9 @@
+coordinates:
+  name: commons-chain
+  namespace: commons-chain
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: Apache-2.0
