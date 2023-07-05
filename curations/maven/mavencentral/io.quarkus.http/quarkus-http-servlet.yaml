@@ -1,0 +1,9 @@
+coordinates:
+  name: quarkus-http-servlet
+  namespace: io.quarkus.http
+  provider: mavencentral
+  type: maven
+revisions:
+  4.1.9:
+    licensed:
+      declared: Apache-2.0
