@@ -1,0 +1,9 @@
+coordinates:
+  name: runtime
+  namespace: '@grafana'
+  provider: npmjs
+  type: npm
+revisions:
+  9.1.0:
+    licensed:
+      declared: Apache-2.0
