@@ -1,0 +1,9 @@
+coordinates:
+  name: cos_api-bundle
+  namespace: com.qcloud
+  provider: mavencentral
+  type: maven
+revisions:
+  5.6.19:
+    licensed:
+      declared: Apache-2.0
