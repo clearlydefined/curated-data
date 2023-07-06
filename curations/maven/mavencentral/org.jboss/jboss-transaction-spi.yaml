@@ -6,4 +6,4 @@ coordinates:
 revisions:
   7.6.0.Final:
     licensed:
-      declared: NONE
+      declared: LGPL-2.1-or-later
