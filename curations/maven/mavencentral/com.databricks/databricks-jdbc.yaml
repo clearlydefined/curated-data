@@ -1,0 +1,9 @@
+coordinates:
+  name: databricks-jdbc
+  namespace: com.databricks
+  provider: mavencentral
+  type: maven
+revisions:
+  2.6.29:
+    licensed:
+      declared: OTHER
