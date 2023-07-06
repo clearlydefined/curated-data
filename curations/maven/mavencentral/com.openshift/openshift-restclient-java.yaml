@@ -1,0 +1,9 @@
+coordinates:
+  name: openshift-restclient-java
+  namespace: com.openshift
+  provider: mavencentral
+  type: maven
+revisions:
+  9.0.5.Final:
+    licensed:
+      declared: EPL-1.0
