@@ -1,12 +1,12 @@
 coordinates:
-  name: e2e-selectors
+  name: ui
   namespace: '@grafana'
   provider: npmjs
   type: npm
 revisions:
-  8.5.4:
+  9.1.0:
     licensed:
       declared: Apache-2.0
-  8.4.11:
+  8.5.4:
     licensed:
       declared: Apache-2.0
