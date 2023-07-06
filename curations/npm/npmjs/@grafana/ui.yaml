@@ -1,5 +1,5 @@
 coordinates:
-  name: schema
+  name: ui
   namespace: '@grafana'
   provider: npmjs
   type: npm
