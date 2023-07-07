@@ -21,3 +21,6 @@ revisions:
   1.2.1.50:
     licensed:
       declared: MIT
+  1.2.1.58:
+    licensed:
+      declared: NONE
