@@ -6,3 +6,6 @@ revisions:
   0.49.1:
     licensed:
       declared: BSD-3-Clause-LBNL
+  0.54.0:
+    licensed:
+      declared: BSD-3-Clause-LBNL

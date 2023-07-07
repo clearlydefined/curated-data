@@ -4,12 +4,12 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  2.1.7:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
   2.2.11:
     licensed:
       declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
-  2.1.7:
-    licensed:
-      declared: CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0
   2.2.3-1:
     licensed:
       declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
@@ -23,6 +23,9 @@ revisions:
     licensed:
       declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
   2.3.0:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
+  2.3.1:
     licensed:
       declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
   2.3.2:
