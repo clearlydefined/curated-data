@@ -5,13 +5,13 @@ coordinates:
 revisions:
   19.0.2:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER
   22.0.2:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER
   23.2.1:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER
   25.0.2:
     licensed:
       declared: BSD-3-Clause AND OTHER
