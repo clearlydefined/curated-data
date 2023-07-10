@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-metadata-appclient
+  namespace: org.jboss.metadata
+  provider: mavencentral
+  type: maven
+revisions:
+  13.0.0.Final:
+    licensed:
+      declared: LGPL-2.1-or-later

@@ -123,6 +123,9 @@ revisions:
   2023.3.23:
     licensed:
       declared: Apache-2.0
+  2023.5.4:
+    licensed:
+      declared: Apache-2.0
   2023.5.5:
     licensed:
       declared: Apache-2.0

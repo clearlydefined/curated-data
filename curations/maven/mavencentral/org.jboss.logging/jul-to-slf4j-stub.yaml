@@ -1,0 +1,9 @@
+coordinates:
+  name: jul-to-slf4j-stub
+  namespace: org.jboss.logging
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.1.Final:
+    licensed:
+      declared: LGPL-2.1-or-later

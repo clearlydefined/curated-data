@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-modules
+  namespace: org.jboss.modules
+  provider: mavencentral
+  type: maven
+revisions:
+  1.10.1.Final:
+    licensed:
+      declared: Apache-2.0

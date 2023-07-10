@@ -1,0 +1,12 @@
+coordinates:
+  name: jboss-metadata-common
+  namespace: org.jboss.metadata
+  provider: mavencentral
+  type: maven
+revisions:
+  13.0.0.Final:
+    licensed:
+      declared: LGPL-2.1-or-later
+  15.1.0.Final:
+    licensed:
+      declared: LGPL-2.1-or-later

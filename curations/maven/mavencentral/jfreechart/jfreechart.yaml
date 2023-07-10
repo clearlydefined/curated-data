@@ -1,0 +1,9 @@
+coordinates:
+  name: jfreechart
+  namespace: jfreechart
+  provider: mavencentral
+  type: maven
+revisions:
+  0.9.20:
+    licensed:
+      declared: NONE

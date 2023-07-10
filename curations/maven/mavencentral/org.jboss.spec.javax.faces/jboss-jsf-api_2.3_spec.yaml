@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-jsf-api_2.3_spec
+  namespace: org.jboss.spec.javax.faces
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.0.SP04:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0

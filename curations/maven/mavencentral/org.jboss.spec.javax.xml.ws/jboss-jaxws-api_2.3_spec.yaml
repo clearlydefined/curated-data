@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-jaxws-api_2.3_spec
+  namespace: org.jboss.spec.javax.xml.ws
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0.Final:
+    licensed:
+      declared: BSD-3-Clause

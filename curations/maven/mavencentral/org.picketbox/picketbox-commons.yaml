@@ -1,0 +1,9 @@
+coordinates:
+  name: picketbox-commons
+  namespace: org.picketbox
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0.final:
+    licensed:
+      declared: LGPL-2.1-or-later

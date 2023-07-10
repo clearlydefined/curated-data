@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-jaxrs-api_2.1_spec
+  namespace: org.jboss.spec.javax.ws.rs
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.1.Final:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0

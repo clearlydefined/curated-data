@@ -1,0 +1,9 @@
+coordinates:
+  name: gcc
+  namespace: gcc-mirror
+  provider: github
+  type: git
+revisions:
+  8cd3bffead2ed1d1998c190865694f920fbc93ab:
+    licensed:
+      declared: GPL-3.0-or-later WITH GCC-exception-3.1

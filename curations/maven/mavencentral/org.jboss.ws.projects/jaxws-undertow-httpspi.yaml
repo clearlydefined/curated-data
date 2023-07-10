@@ -1,0 +1,9 @@
+coordinates:
+  name: jaxws-undertow-httpspi
+  namespace: org.jboss.ws.projects
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.1.Final:
+    licensed:
+      declared: LGPL-2.1-or-later
