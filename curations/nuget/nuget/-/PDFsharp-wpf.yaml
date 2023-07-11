@@ -1,0 +1,8 @@
+coordinates:
+  name: PDFsharp-wpf
+  provider: nuget
+  type: nuget
+revisions:
+  1.51.5185-beta:
+    licensed:
+      declared: MIT
