@@ -1,0 +1,9 @@
+coordinates:
+  name: gofail
+  namespace: go.etcd.io
+  provider: golang
+  type: go
+revisions:
+  v0.1.0:
+    licensed:
+      declared: Apache-2.0
