@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  07b8803110da160b158ebfef872627da6c85cbdf:
+    licensed:
+      declared: libpng-2.0
   a40189cf881e9f0db80511c382292a5604c3c3d1:
     files:
       - attributions:
