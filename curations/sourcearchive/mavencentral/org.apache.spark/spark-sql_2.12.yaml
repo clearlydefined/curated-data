@@ -1,0 +1,9 @@
+coordinates:
+  name: spark-sql_2.12
+  namespace: org.apache.spark
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  3.3.2:
+    licensed:
+      declared: Apache-2.0
