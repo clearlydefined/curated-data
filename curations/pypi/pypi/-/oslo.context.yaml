@@ -1,0 +1,14 @@
+coordinates:
+  name: oslo.context
+  provider: pypi
+  type: pypi
+revisions:
+  3.4.0:
+    described:
+      sourceLocation:
+        name: oslo.context
+        namespace: openstack
+        provider: github
+        revision: 57a4a5f576270135336506cab3061b70ad190614
+        type: git
+        url: 'https://github.com/openstack/oslo.context/commit/57a4a5f576270135336506cab3061b70ad190614'
