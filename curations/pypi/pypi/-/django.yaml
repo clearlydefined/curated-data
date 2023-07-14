@@ -1,0 +1,8 @@
+coordinates:
+  name: django
+  provider: pypi
+  type: pypi
+revisions:
+  3.2.19:
+    licensed:
+      declared: BSD-3-Clause
