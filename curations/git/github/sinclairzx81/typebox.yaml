@@ -1,0 +1,9 @@
+coordinates:
+  name: typebox
+  namespace: sinclairzx81
+  provider: github
+  type: git
+revisions:
+  6cfcdc02cc813af2f1be57407c771fc4fadfc34a:
+    licensed:
+      declared: MIT
