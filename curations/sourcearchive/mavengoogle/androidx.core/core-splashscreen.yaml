@@ -1,0 +1,9 @@
+coordinates:
+  name: core-splashscreen
+  namespace: androidx.core
+  provider: mavengoogle
+  type: sourcearchive
+revisions:
+  1.0.1:
+    licensed:
+      declared: Apache-2.0
