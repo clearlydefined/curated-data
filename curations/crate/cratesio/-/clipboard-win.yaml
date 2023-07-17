@@ -1,0 +1,14 @@
+coordinates:
+  name: clipboard-win
+  provider: cratesio
+  type: crate
+revisions:
+  4.5.0:
+    described:
+      sourceLocation:
+        name: clipboard-win
+        namespace: doumanash
+        provider: github
+        revision: 44487b19cd12a9242f5b1991c088bf81c780f172
+        type: git
+        url: 'https://github.com/doumanash/clipboard-win/commit/44487b19cd12a9242f5b1991c088bf81c780f172'
