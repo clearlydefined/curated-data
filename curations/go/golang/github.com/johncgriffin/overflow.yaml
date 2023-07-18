@@ -1,0 +1,9 @@
+coordinates:
+  name: overflow
+  namespace: github.com%2Fjohncgriffin
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20211019200055-46fa312c352c:
+    licensed:
+      declared: MIT

@@ -340,3 +340,12 @@ revisions:
   3.6.1:
     licensed:
       declared: MIT
+  3.6.3:
+    licensed:
+      declared: MIT
+  3.6.4:
+    licensed:
+      declared: MIT
+  3.7.0:
+    licensed:
+      declared: MIT

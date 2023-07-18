@@ -1,0 +1,12 @@
+coordinates:
+  name: generator-sharepoint
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.11.0:
+    licensed:
+      declared: OTHER
+  1.16.0:
+    licensed:
+      declared: OTHER

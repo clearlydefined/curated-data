@@ -1,0 +1,9 @@
+coordinates:
+  name: clock
+  namespace: juju
+  provider: github
+  type: git
+revisions:
+  9c5c9712527c7986f012361e7d13756b4d99543d:
+    licensed:
+      declared: LGPL-3.0-only WITH LGPL-3.0-linking-exception

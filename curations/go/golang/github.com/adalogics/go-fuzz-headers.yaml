@@ -1,0 +1,9 @@
+coordinates:
+  name: go-fuzz-headers
+  namespace: github.com%2Fadalogics
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20230106234847-43070de90fa1:
+    licensed:
+      declared: Apache-2.0

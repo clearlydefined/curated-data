@@ -1,0 +1,9 @@
+coordinates:
+  name: error_prone_annotations
+  namespace: com.google.errorprone
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.2:
+    licensed:
+      declared: Apache-2.0

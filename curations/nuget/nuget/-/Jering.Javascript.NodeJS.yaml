@@ -1,0 +1,8 @@
+coordinates:
+  name: Jering.Javascript.NodeJS
+  provider: nuget
+  type: nuget
+revisions:
+  6.3.1:
+    licensed:
+      declared: Apache-2.0

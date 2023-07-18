@@ -1,0 +1,8 @@
+coordinates:
+  name: tangled-up-in-unicode
+  provider: pypi
+  type: pypi
+revisions:
+  0.2.0:
+    licensed:
+      declared: BSD-4-Clause

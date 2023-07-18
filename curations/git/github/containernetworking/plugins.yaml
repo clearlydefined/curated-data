@@ -1,0 +1,9 @@
+coordinates:
+  name: plugins
+  namespace: containernetworking
+  provider: github
+  type: git
+revisions:
+  1f33fb729ae2b8900785f896df2dc1f6fe5e8239:
+    licensed:
+      declared: Apache-2.0

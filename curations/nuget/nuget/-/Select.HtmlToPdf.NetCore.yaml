@@ -1,0 +1,8 @@
+coordinates:
+  name: Select.HtmlToPdf.NetCore
+  provider: nuget
+  type: nuget
+revisions:
+  22.2.0:
+    licensed:
+      declared: OTHER

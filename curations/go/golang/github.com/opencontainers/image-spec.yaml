@@ -1,0 +1,9 @@
+coordinates:
+  name: image-spec
+  namespace: github.com%2Fopencontainers
+  provider: golang
+  type: go
+revisions:
+  v1.1.0-rc2.0.20221005185240-3a7f492d3f1b:
+    licensed:
+      declared: Apache-2.0

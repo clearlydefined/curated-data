@@ -1,0 +1,8 @@
+coordinates:
+  name: SilverlightToolkit-Data
+  provider: nuget
+  type: nuget
+revisions:
+  4.2010.4:
+    licensed:
+      declared: MS-PL

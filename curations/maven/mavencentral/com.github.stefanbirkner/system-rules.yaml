@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  1.18.0:
+    licensed:
+      declared: CPL-1.0
   1.19.0:
     licensed:
       declared: CPL-1.0

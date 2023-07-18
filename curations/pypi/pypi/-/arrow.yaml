@@ -1,0 +1,8 @@
+coordinates:
+  name: arrow
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.2:
+    described:
+      releaseDate: '2021-03-01'

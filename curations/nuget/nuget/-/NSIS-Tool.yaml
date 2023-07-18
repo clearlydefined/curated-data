@@ -1,0 +1,8 @@
+coordinates:
+  name: NSIS-Tool
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.5:
+    licensed:
+      declared: Zlib

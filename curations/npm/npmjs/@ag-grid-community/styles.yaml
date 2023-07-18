@@ -1,0 +1,9 @@
+coordinates:
+  name: styles
+  namespace: '@ag-grid-community'
+  provider: npmjs
+  type: npm
+revisions:
+  29.0.0:
+    licensed:
+      declared: MIT

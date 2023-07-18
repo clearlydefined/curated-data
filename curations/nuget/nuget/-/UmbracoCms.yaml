@@ -1,0 +1,8 @@
+coordinates:
+  name: UmbracoCms
+  provider: nuget
+  type: nuget
+revisions:
+  6.1.6:
+    licensed:
+      declared: MIT

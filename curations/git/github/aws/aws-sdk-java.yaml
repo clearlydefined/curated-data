@@ -4,6 +4,45 @@ coordinates:
   provider: github
   type: git
 revisions:
+  043e9785a1835fa99e5cd86ed4cc3af2e45d6685:
+    licensed:
+      declared: Apache-2.0
+  09a2ea4554968c6087e3fbf1e6ebdc9ba9f2102b:
+    licensed:
+      declared: Apache-2.0
+  0d7b3fb8443499b03582620807f1f8c135165950:
+    licensed:
+      declared: Apache-2.0
   17780c4a3628ac93c0786a4c2fe1c1be6aaa0f84:
+    licensed:
+      declared: Apache-2.0
+  181108e3107b4479bf3a7c08541c4dbb726fef0a:
+    licensed:
+      declared: Apache-2.0
+  3391638bfbfb8ca14238a4e6037c0d170c0f10f7:
+    licensed:
+      declared: Apache-2.0
+  40772caa0fe16afe13f5e2a8a2d0668fe37b1c1d:
+    licensed:
+      declared: Apache-2.0
+  78693f2bd3542a64c97752535e9e6085f427cd54:
+    licensed:
+      declared: Apache-2.0
+  838fa9b2cecaa19bad33520e1254f32ca58c3ecc:
+    licensed:
+      declared: Apache-2.0
+  98c2d991085af1b8fba66c39959c6b4034df37df:
+    licensed:
+      declared: Apache-2.0
+  a09eee1e8f39077386c25362d4fe004294e7ca60:
+    licensed:
+      declared: Apache-2.0
+  a2768d6ccf30533c570f0f6b55a80defd83c29be:
+    licensed:
+      declared: Apache-2.0
+  d158c910b07b12ea0cdb362aa2ae968709cb0911:
+    licensed:
+      declared: Apache-2.0
+  d4e6d954a2c3a8622875db5a6a3820d59a435429:
     licensed:
       declared: Apache-2.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: Fuzzy
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.18:
+    licensed:
+      declared: MIT

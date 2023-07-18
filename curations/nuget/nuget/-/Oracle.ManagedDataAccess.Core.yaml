@@ -12,15 +12,27 @@ revisions:
   2.19.101:
     licensed:
       declared: OTHER
+  2.19.110:
+    licensed:
+      declared: OTHER
+  2.19.180:
+    licensed:
+      declared: OTHER
   2.19.31:
     licensed:
       declared: OTHER
   3.21.1:
     licensed:
       declared: OTHER
+  3.21.100:
+    licensed:
+      declared: OTHER
   3.21.4:
     licensed:
       declared: OTHER
   3.21.50:
+    licensed:
+      declared: OTHER
+  3.21.90:
     licensed:
       declared: OTHER

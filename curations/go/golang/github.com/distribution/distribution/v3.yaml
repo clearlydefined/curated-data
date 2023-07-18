@@ -1,0 +1,9 @@
+coordinates:
+  name: v3
+  namespace: github.com%2Fdistribution%2Fdistribution
+  provider: golang
+  type: go
+revisions:
+  v3.0.0-20210316161203-a01c71e2477e:
+    licensed:
+      declared: Apache-2.0

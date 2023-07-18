@@ -1,0 +1,9 @@
+coordinates:
+  name: mount
+  namespace: github.com%2Fmoby%2Fsys
+  provider: golang
+  type: go
+revisions:
+  v0.3.0:
+    licensed:
+      declared: Apache-2.0

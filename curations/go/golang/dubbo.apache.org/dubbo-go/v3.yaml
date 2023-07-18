@@ -1,0 +1,9 @@
+coordinates:
+  name: v3
+  namespace: dubbo.apache.org%2fdubbo-go
+  provider: golang
+  type: go
+revisions:
+  v3.0.3-0.20230118042253-4f159a2b38f3:
+    licensed:
+      declared: Apache-2.0

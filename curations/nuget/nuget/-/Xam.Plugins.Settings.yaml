@@ -32,3 +32,6 @@ revisions:
         path: Xam.Plugins.Settings.nuspec
     licensed:
       declared: MIT
+  4.0.0.7:
+    licensed:
+      declared: MIT

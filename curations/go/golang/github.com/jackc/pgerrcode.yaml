@@ -1,0 +1,9 @@
+coordinates:
+  name: pgerrcode
+  namespace: github.com%2Fjackc
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20201024163028-a0d42d470451:
+    licensed:
+      declared: MIT AND PostgreSQL

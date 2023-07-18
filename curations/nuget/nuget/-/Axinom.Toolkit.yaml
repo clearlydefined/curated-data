@@ -1,0 +1,8 @@
+coordinates:
+  name: Axinom.Toolkit
+  provider: nuget
+  type: nuget
+revisions:
+  14.2.0:
+    licensed:
+      declared: MIT

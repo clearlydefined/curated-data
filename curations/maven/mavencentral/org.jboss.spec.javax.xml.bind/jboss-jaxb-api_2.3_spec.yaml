@@ -1,0 +1,12 @@
+coordinates:
+  name: jboss-jaxb-api_2.3_spec
+  namespace: org.jboss.spec.javax.xml.bind
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0.Final:
+    licensed:
+      declared: BSD-3-Clause
+  2.0.1.Final:
+    licensed:
+      declared: BSD-3-Clause

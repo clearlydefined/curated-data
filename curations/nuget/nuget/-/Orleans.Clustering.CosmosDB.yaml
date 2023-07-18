@@ -1,0 +1,8 @@
+coordinates:
+  name: Orleans.Clustering.CosmosDB
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.4:
+    licensed:
+      declared: MIT

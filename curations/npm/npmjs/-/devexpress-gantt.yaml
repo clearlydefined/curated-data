@@ -1,0 +1,14 @@
+coordinates:
+  name: devexpress-gantt
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.3:
+    licensed:
+      declared: OTHER
+  4.0.27:
+    licensed:
+      declared: OTHER
+  4.1.43:
+    licensed:
+      declared: OTHER

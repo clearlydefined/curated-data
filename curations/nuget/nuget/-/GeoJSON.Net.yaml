@@ -1,0 +1,8 @@
+coordinates:
+  name: GeoJSON.Net
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.47:
+    licensed:
+      declared: MIT

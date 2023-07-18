@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-jms-api_2.0_spec
+  namespace: org.jboss.spec.javax.jms
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0.Final:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: synapseutils_2.12
+  namespace: com.microsoft.azure.synapse
+  provider: mavencentral
+  type: maven
+revisions:
+  1.5.1:
+    licensed:
+      declared: NONE

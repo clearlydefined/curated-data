@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.PowerPlatform.Dataverse.Client
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.1:
+    licensed:
+      declared: OTHER

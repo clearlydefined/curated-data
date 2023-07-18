@@ -60,3 +60,6 @@ revisions:
   2.38.1:
     licensed:
       declared: GPL-2.0-only
+  2.39.1:
+    licensed:
+      declared: GPL-2.0-only

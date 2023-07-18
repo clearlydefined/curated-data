@@ -1,0 +1,11 @@
+coordinates:
+  name: Microsoft.Graph.Core
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.14:
+    licensed:
+      declared: MIT
+  2.0.5:
+    licensed:
+      declared: MIT

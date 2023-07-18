@@ -1,0 +1,9 @@
+coordinates:
+  name: html-tree
+  namespace: kentfredric
+  provider: github
+  type: git
+revisions:
+  6ba11171c101895347c5584b5c3b20c4ee0161e2:
+    licensed:
+      declared: Artistic-1.0-Perl OR GPL-1.0-or-later

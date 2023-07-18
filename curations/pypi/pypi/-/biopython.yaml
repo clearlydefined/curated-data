@@ -12,3 +12,6 @@ revisions:
   '1.79':
     licensed:
       declared: OTHER
+  '1.81':
+    licensed:
+      declared: OTHER

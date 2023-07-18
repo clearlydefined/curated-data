@@ -1,0 +1,9 @@
+coordinates:
+  name: go-actions-cache
+  namespace: github.com%2Ftonistiigi
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20211202175116-9642704158ff:
+    licensed:
+      declared: MIT

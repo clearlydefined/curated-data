@@ -1,0 +1,9 @@
+coordinates:
+  name: solstice
+  namespace: dev.equo.ide
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.3:
+    licensed:
+      declared: EPL-2.0

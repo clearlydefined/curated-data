@@ -1,0 +1,9 @@
+coordinates:
+  name: bcprov-debug-jdk14
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.60':
+    licensed:
+      declared: MIT

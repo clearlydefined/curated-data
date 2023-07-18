@@ -1,0 +1,8 @@
+coordinates:
+  name: Hic.Json.MSBuild
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.88:
+    licensed:
+      declared: MIT

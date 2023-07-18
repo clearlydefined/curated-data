@@ -1,0 +1,8 @@
+coordinates:
+  name: IronSoftware.System.Drawing
+  provider: nuget
+  type: nuget
+revisions:
+  2023.2.12:
+    licensed:
+      declared: MIT OR OTHER

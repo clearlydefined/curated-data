@@ -7,6 +7,9 @@ revisions:
   2.2.11:
     licensed:
       declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
+  2.3.0:
+    licensed:
+      declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
   2.3.1:
     licensed:
       declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
@@ -14,6 +17,9 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   2.3.3:
+    licensed:
+      declared: BSD-3-Clause
+  2.3.3-b02:
     licensed:
       declared: BSD-3-Clause
   2.3.4:
@@ -28,6 +34,9 @@ revisions:
   2.3.7:
     licensed:
       declared: BSD-3-Clause
+  2.3.8:
+    licensed:
+      declared: BSD-3-Clause
   2.4.0-b180830.0438:
     licensed:
       declared: CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0
@@ -35,5 +44,8 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   4.0.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.0.2:
     licensed:
       declared: BSD-3-Clause

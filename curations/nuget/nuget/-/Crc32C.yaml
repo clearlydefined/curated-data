@@ -1,0 +1,16 @@
+coordinates:
+  name: Crc32C
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.4:
+    described:
+      sourceLocation:
+        name: crc32c-hw
+        namespace: robertvazan
+        provider: github
+        revision: 325c8d9f90da8afe1f179b972bcad258c5ff71e7
+        type: git
+        url: 'https://github.com/robertvazan/crc32c-hw/commit/325c8d9f90da8afe1f179b972bcad258c5ff71e7'
+    licensed:
+      declared: Zlib

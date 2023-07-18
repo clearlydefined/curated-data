@@ -1,0 +1,9 @@
+coordinates:
+  name: zipzap
+  namespace: pixelglow
+  provider: github
+  type: git
+revisions:
+  e6a9054e973af6ddbc2956138c9eddaa2755ce9b:
+    licensed:
+      declared: BSD-2-Clause

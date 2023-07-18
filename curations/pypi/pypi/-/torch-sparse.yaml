@@ -1,0 +1,8 @@
+coordinates:
+  name: torch-sparse
+  provider: pypi
+  type: pypi
+revisions:
+  0.6.12:
+    licensed:
+      declared: MIT

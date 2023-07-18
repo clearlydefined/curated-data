@@ -1,0 +1,9 @@
+coordinates:
+  name: yuicompressor
+  namespace: com.yahoo.platform.yui
+  provider: mavencentral
+  type: maven
+revisions:
+  2.4.8:
+    licensed:
+      declared: BSD-3-Clause

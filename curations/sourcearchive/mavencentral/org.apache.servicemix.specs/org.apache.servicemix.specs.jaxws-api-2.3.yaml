@@ -1,0 +1,17 @@
+coordinates:
+  name: org.apache.servicemix.specs.jaxws-api-2.3
+  namespace: org.apache.servicemix.specs
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  '2.3_3':
+    described:
+      sourceLocation:
+        name: servicemix-specs
+        namespace: apache
+        provider: github
+        revision: bcc5900fd72008fa24956157cf35409385bf168a
+        type: git
+        url: 'https://github.com/apache/servicemix-specs/commit/bcc5900fd72008fa24956157cf35409385bf168a'
+    licensed:
+      declared: Apache-2.0

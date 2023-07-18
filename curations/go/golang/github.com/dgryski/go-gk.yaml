@@ -1,0 +1,9 @@
+coordinates:
+  name: go-gk
+  namespace: github.com%2Fdgryski
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20140819190930-201884a44051:
+    licensed:
+      declared: MIT

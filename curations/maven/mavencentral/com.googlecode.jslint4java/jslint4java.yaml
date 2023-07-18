@@ -1,0 +1,9 @@
+coordinates:
+  name: jslint4java
+  namespace: com.googlecode.jslint4java
+  provider: mavencentral
+  type: maven
+revisions:
+  1.3.3:
+    licensed:
+      declared: BSD-3-Clause

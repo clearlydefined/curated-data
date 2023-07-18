@@ -1,0 +1,8 @@
+coordinates:
+  name: pycifrw
+  provider: pypi
+  type: pypi
+revisions:
+  4.4.5:
+    licensed:
+      declared: Python-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: buildkit
+  namespace: github.com%2Fmoby
+  provider: golang
+  type: go
+revisions:
+  v0.10.0-rc2.0.20220308185020-fdecd0ae108b:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: sbt-launch
+  namespace: org.scala-sbt
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.6:
+    licensed:
+      declared: BSD-3-Clause
