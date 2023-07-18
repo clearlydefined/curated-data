@@ -1,0 +1,9 @@
+coordinates:
+  name: yang-parser-rfc7950
+  namespace: org.opendaylight.yangtools
+  provider: mavencentral
+  type: maven
+revisions:
+  8.0.10:
+    licensed:
+      declared: EPL-1.0
