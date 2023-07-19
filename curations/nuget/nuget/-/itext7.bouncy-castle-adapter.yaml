@@ -1,0 +1,8 @@
+coordinates:
+  name: itext7.bouncy-castle-adapter
+  provider: nuget
+  type: nuget
+revisions:
+  8.0.0:
+    licensed:
+      declared: GPL-3.0-only
