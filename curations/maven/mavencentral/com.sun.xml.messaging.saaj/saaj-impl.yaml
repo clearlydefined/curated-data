@@ -1,0 +1,9 @@
+coordinates:
+  name: saaj-impl
+  namespace: com.sun.xml.messaging.saaj
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.0-b03:
+    licensed:
+      declared: CDDL-1.0
