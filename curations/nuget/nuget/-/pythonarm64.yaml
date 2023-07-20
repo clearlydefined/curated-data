@@ -6,3 +6,6 @@ revisions:
   3.11.0-a2:
     licensed:
       declared: Python-2.0.1
+  3.11.4:
+    licensed:
+      declared: PSF-2.0
