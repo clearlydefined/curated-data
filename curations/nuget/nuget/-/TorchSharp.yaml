@@ -6,6 +6,9 @@ revisions:
   0.96.7:
     licensed:
       declared: MIT
+  0.98.3:
+    licensed:
+      declared: MIT
   0.99.5:
     licensed:
       declared: MIT
