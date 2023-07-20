@@ -11,4 +11,4 @@ revisions:
       declared: AGPL-3.0-or-later OR OTHER
   8.0.0:
     licensed:
-      declared: GPL-3.0-only
+      declared: AGPL-3.0-or-later OR OTHER
