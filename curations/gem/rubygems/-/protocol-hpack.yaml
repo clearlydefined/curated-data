@@ -1,0 +1,8 @@
+coordinates:
+  name: protocol-hpack
+  provider: rubygems
+  type: gem
+revisions:
+  1.4.1:
+    licensed:
+      declared: MIT
