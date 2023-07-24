@@ -1,0 +1,9 @@
+coordinates:
+  name: threeten-extra
+  namespace: org.threeten
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.1:
+    licensed:
+      declared: BSD-3-Clause
