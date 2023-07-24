@@ -1,0 +1,8 @@
+coordinates:
+  name: swd
+  provider: rubygems
+  type: gem
+revisions:
+  1.3.0:
+    licensed:
+      declared: MIT
