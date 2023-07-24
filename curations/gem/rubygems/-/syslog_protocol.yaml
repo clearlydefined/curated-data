@@ -1,0 +1,8 @@
+coordinates:
+  name: syslog_protocol
+  provider: rubygems
+  type: gem
+revisions:
+  0.9.2:
+    licensed:
+      declared: MIT
