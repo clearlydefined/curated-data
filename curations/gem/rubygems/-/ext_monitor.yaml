@@ -1,0 +1,8 @@
+coordinates:
+  name: ext_monitor
+  provider: rubygems
+  type: gem
+revisions:
+  0.1.2:
+    licensed:
+      declared: NONE
