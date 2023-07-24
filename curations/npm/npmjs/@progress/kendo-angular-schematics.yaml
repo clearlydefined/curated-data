@@ -1,12 +1,9 @@
 coordinates:
-  name: kendo-angular-navigation
+  name: kendo-angular-schematics
   namespace: '@progress'
   provider: npmjs
   type: npm
 revisions:
-  1.1.6:
-    licensed:
-      declared: OTHER
   11.6.0:
     licensed:
       declared: OTHER
