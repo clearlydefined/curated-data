@@ -1,0 +1,9 @@
+coordinates:
+  name: charts
+  namespace: '@elastic'
+  provider: npmjs
+  type: npm
+revisions:
+  40.3.2:
+    licensed:
+      declared: SSPL-1.0
