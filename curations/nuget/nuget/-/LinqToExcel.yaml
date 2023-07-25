@@ -9,3 +9,6 @@ revisions:
   1.11.0:
     licensed:
       declared: MIT
+  2.0.0-prerelease-2:
+    licensed:
+      declared: MIT
