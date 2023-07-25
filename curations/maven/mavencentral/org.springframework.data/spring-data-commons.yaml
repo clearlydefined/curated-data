@@ -34,6 +34,9 @@ revisions:
   2.7.12:
     licensed:
       declared: Apache-2.0
+  2.7.13:
+    licensed:
+      declared: Apache-2.0
   2.7.2:
     licensed:
       declared: Apache-2.0
