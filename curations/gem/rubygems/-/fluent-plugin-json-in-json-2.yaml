@@ -1,0 +1,8 @@
+coordinates:
+  name: fluent-plugin-json-in-json-2
+  provider: rubygems
+  type: gem
+revisions:
+  1.0.2:
+    licensed:
+      declared: BSD-3-Clause
