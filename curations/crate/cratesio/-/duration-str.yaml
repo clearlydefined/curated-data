@@ -1,0 +1,8 @@
+coordinates:
+  name: duration-str
+  provider: cratesio
+  type: crate
+revisions:
+  0.5.1:
+    licensed:
+      declared: MIT OR Apache-2.0
