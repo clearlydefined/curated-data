@@ -1,0 +1,14 @@
+coordinates:
+  name: csv-core
+  provider: cratesio
+  type: crate
+revisions:
+  0.1.10:
+    described:
+      sourceLocation:
+        name: rust-csv
+        namespace: burntsushi
+        provider: github
+        revision: 70c8600b29349f9ee0501577284d8300ae9c8055
+        type: git
+        url: 'https://github.com/burntsushi/rust-csv/commit/70c8600b29349f9ee0501577284d8300ae9c8055'
