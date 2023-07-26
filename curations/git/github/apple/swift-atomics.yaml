@@ -1,0 +1,9 @@
+coordinates:
+  name: swift-atomics
+  namespace: apple
+  provider: github
+  type: git
+revisions:
+  919eb1d83e02121cdb434c7bfc1f0c66ef17febe:
+    licensed:
+      declared: Apache-2.0
