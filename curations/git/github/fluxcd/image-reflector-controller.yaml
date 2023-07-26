@@ -1,0 +1,9 @@
+coordinates:
+  name: image-reflector-controller
+  namespace: fluxcd
+  provider: github
+  type: git
+revisions:
+  48274a2651683cb78b381461f1a02c0e0cf60f0c:
+    licensed:
+      declared: Apache-2.0
