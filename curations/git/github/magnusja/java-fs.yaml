@@ -1,0 +1,9 @@
+coordinates:
+  name: java-fs
+  namespace: magnusja
+  provider: github
+  type: git
+revisions:
+  b7ca7f6062ef28b23999388695ae0ffaed534b6d:
+    licensed:
+      declared: LGPL-2.1-or-later
