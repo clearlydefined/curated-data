@@ -1,0 +1,9 @@
+coordinates:
+  name: azidentity
+  namespace: github.com%2Fazure%2Fazure-sdk-for-go%2Fsdk
+  provider: golang
+  type: go
+revisions:
+  v1.3.0-beta.3:
+    licensed:
+      declared: MIT
