@@ -6,4 +6,4 @@ coordinates:
 revisions:
   40.3.2:
     licensed:
-      declared: SSPL-1.0
+      declared: SSPL-1.0 OR Elastic-2.0
