@@ -1,0 +1,9 @@
+coordinates:
+  name: flux2
+  namespace: fluxcd
+  provider: github
+  type: git
+revisions:
+  af153ea0cf4fd480c75accacc0c0dc7a2afdad0d:
+    licensed:
+      declared: Apache-2.0
