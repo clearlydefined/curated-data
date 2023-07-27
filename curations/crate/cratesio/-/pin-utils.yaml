@@ -1,0 +1,8 @@
+coordinates:
+  name: pin-utils
+  provider: cratesio
+  type: crate
+revisions:
+  0.1.0:
+    licensed:
+      declared: Apache-2.0 OR MIT
