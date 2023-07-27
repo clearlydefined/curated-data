@@ -7,3 +7,6 @@ revisions:
   7.6.0.Final:
     licensed:
       declared: LGPL-2.1-or-later
+  8.0.0.Final:
+    licensed:
+      declared: CC0-1.0
