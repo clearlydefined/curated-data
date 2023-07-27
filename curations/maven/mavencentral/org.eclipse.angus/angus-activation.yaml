@@ -1,0 +1,9 @@
+coordinates:
+  name: angus-activation
+  namespace: org.eclipse.angus
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.1:
+    licensed:
+      declared: BSD-3-Clause
