@@ -1,0 +1,8 @@
+coordinates:
+  name: hyper-timeout
+  provider: cratesio
+  type: crate
+revisions:
+  0.4.1:
+    licensed:
+      declared: Apache-2.0 OR MIT
