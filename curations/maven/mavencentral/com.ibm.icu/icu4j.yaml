@@ -13,6 +13,9 @@ revisions:
   '61.1':
     licensed:
       declared: OTHER
+  '62.1':
+    licensed:
+      declared: OTHER
   '64.2':
     licensed:
       declared: OTHER
