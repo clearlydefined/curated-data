@@ -1,0 +1,9 @@
+coordinates:
+  name: ems-client
+  namespace: '@elastic'
+  provider: npmjs
+  type: npm
+revisions:
+  7.16.0:
+    licensed:
+      declared: Elastic-2.0
