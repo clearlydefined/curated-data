@@ -1,0 +1,8 @@
+coordinates:
+  name: Z.EntityFramework.Extensions.Classic
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.52:
+    licensed:
+      declared: OTHER
