@@ -1,0 +1,8 @@
+coordinates:
+  name: DiscUtils.Iso9660
+  provider: nuget
+  type: nuget
+revisions:
+  0.13.0-alpha:
+    licensed:
+      declared: MIT
