@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  10.0.0:
+    licensed:
+      declared: HPND
   6.0.0:
     licensed:
       declared: HPND
