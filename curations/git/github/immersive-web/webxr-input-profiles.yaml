@@ -1,0 +1,9 @@
+coordinates:
+  name: webxr-input-profiles
+  namespace: immersive-web
+  provider: github
+  type: git
+revisions:
+  21272c8a0a5512614e60dca5be26f7b1485ad6e7:
+    licensed:
+      declared: MIT
