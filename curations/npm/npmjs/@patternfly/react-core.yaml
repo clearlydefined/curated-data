@@ -19,6 +19,6 @@ revisions:
         name: patternfly-react
         namespace: patternfly
         provider: github
-        revision: 28e863a
+        revision: 28e863a7672bcbe3a4c83689c4d30580e5b61375
         type: git
-        url: 'https://github.com/patternfly/patternfly-react/commit/28e863a'
+        url: 'https://github.com/patternfly/patternfly-react/commit/28e863a7672bcbe3a4c83689c4d30580e5b61375'
