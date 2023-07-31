@@ -9,3 +9,6 @@ revisions:
   2.88.0-preview.178:
     licensed:
       declared: MIT
+  2.88.4-preview.84:
+    licensed:
+      declared: MIT
