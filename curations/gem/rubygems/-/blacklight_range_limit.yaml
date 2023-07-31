@@ -1,0 +1,8 @@
+coordinates:
+  name: blacklight_range_limit
+  provider: rubygems
+  type: gem
+revisions:
+  7.0.1:
+    licensed:
+      declared: Apache-2.0
