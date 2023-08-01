@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  5.10.0:
+    licensed:
+      declared: NONE
   5.4.0:
     licensed:
       declared: Apache-2.0
