@@ -48,3 +48,6 @@ revisions:
   1.4.371.86:
     licensed:
       declared: GPL-2.0-only OR OTHER
+  1.4.371.96:
+    licensed:
+      declared: OTHER
