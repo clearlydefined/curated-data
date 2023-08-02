@@ -1,0 +1,8 @@
+coordinates:
+  name: pysctp
+  provider: pypi
+  type: pypi
+revisions:
+  0.7.2:
+    licensed:
+      declared: LGPL-2.1-or-later
