@@ -1,0 +1,9 @@
+coordinates:
+  name: generator-powerpages
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.21.19:
+    licensed:
+      declared: OTHER
