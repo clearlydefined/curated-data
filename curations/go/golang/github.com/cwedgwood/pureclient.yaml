@@ -1,0 +1,9 @@
+coordinates:
+  name: pureclient
+  namespace: github.com%2Fcwedgwood
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20221021050110-a5638413027d:
+    licensed:
+      declared: MIT
