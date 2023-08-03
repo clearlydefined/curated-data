@@ -1,0 +1,8 @@
+coordinates:
+  name: Azure.AI.Vision.ImageAnalysis
+  provider: nuget
+  type: nuget
+revisions:
+  0.13.0-beta.1:
+    licensed:
+      declared: OTHER
