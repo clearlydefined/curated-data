@@ -1,0 +1,8 @@
+coordinates:
+  name: inteltbb.redist.win
+  provider: nuget
+  type: nuget
+revisions:
+  2021.7.0.9551:
+    licensed:
+      declared: OTHER
