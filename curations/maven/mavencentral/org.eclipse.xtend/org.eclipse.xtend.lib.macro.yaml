@@ -40,3 +40,6 @@ revisions:
   2.24.0:
     licensed:
       declared: EPL-2.0
+  2.28.0:
+    licensed:
+      declared: EPL-2.0
