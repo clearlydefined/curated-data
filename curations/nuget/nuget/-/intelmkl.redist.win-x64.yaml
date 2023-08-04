@@ -1,0 +1,8 @@
+coordinates:
+  name: intelmkl.redist.win-x64
+  provider: nuget
+  type: nuget
+revisions:
+  2022.2.0.9563:
+    licensed:
+      declared: OTHER
