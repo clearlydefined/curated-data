@@ -115,3 +115,6 @@ revisions:
   2.29.0:
     licensed:
       declared: EPL-2.0
+  2.30.0:
+    licensed:
+      declared: EPL-2.0
