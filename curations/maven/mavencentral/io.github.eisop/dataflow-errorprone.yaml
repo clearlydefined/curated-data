@@ -1,0 +1,9 @@
+coordinates:
+  name: dataflow-errorprone
+  namespace: io.github.eisop
+  provider: mavencentral
+  type: maven
+revisions:
+  3.34.0-eisop1:
+    licensed:
+      declared: GPL-2.0-only
