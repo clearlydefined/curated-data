@@ -1,0 +1,8 @@
+coordinates:
+  name: ZendeskApi.Client
+  provider: nuget
+  type: nuget
+revisions:
+  3.15.0-alpha-643:
+    licensed:
+      declared: Apache-2.0
