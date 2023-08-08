@@ -6,3 +6,12 @@ revisions:
   0.2.1:
     licensed:
       declared: LGPL-3.0-only
+  1.0.2:
+    described:
+      sourceLocation:
+        name: GeoJSON-Validation
+        namespace: mjbecze
+        provider: gitlab
+        revision: 29b986e1b3fe21c01e8c68ae246922f64b3af3b8
+        type: git
+        url: 'https://gitlab.com/mjbecze/GeoJSON-Validation/-/tree/29b986e1b3fe21c01e8c68ae246922f64b3af3b8'
