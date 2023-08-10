@@ -28,6 +28,9 @@ revisions:
   1.13.1-beta.1:
     licensed:
       declared: OTHER
+  1.14.1:
+    licensed:
+      declared: MS-PL
   1.2.0-beta.1:
     licensed:
       declared: OTHER
