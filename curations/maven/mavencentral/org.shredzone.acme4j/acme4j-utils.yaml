@@ -1,0 +1,9 @@
+coordinates:
+  name: acme4j-utils
+  namespace: org.shredzone.acme4j
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.14':
+    licensed:
+      declared: Apache-2.0
