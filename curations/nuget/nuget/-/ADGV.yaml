@@ -1,0 +1,8 @@
+coordinates:
+  name: ADGV
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.0.10:
+    licensed:
+      declared: MS-PL
