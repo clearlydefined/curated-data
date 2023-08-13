@@ -1,0 +1,9 @@
+coordinates:
+  name: openjdk-orb
+  namespace: org.jboss.openjdk-orb
+  provider: mavencentral
+  type: maven
+revisions:
+  8.1.4.Final:
+    licensed:
+      declared: GPL-2.0-only
