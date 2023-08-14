@@ -126,6 +126,9 @@ revisions:
   3.22.1:
     licensed:
       declared: BSD-3-Clause
+  3.23.1:
+    licensed:
+      declared: BSD-3-Clause
   3.3.0:
     licensed:
       declared: BSD-3-Clause
