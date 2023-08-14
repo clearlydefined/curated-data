@@ -1,0 +1,8 @@
+coordinates:
+  name: activerecord_json_validator
+  provider: rubygems
+  type: gem
+revisions:
+  2.1.3:
+    licensed:
+      declared: BSD-3-Clause
