@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-pivotgrid-common
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  0.5.1:
+    licensed:
+      declared: OTHER
