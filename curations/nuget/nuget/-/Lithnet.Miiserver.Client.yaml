@@ -1,0 +1,8 @@
+coordinates:
+  name: Lithnet.Miiserver.Client
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.6960.34214:
+    licensed:
+      declared: MIT
