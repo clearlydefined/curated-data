@@ -12,3 +12,6 @@ revisions:
   4.0.2:
     licensed:
       declared: PostgreSQL
+  4.0.3:
+    licensed:
+      declared: PostgreSQL
