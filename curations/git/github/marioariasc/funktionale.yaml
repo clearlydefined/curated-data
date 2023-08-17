@@ -1,0 +1,9 @@
+coordinates:
+  name: funktionale
+  namespace: marioariasc
+  provider: github
+  type: git
+revisions:
+  53b162f8de7a3c2702777b8f82c6bb344087edaa:
+    licensed:
+      declared: Apache-2.0
