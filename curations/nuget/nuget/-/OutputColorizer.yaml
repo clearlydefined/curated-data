@@ -1,11 +1,8 @@
 coordinates:
-  name: CommandLine.Net
+  name: OutputColorizer
   provider: nuget
   type: nuget
 revisions:
-  1.2.0:
-    licensed:
-      declared: MIT
-  1.3.0:
+  1.1.0:
     licensed:
       declared: MIT
