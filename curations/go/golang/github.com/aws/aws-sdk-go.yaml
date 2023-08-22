@@ -13,6 +13,9 @@ revisions:
   v1.38.31:
     licensed:
       declared: Apache-2.0
+  v1.39.4:
+    licensed:
+      declared: Apache-2.0
   v1.42.31:
     licensed:
       declared: Apache-2.0
