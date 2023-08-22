@@ -1,0 +1,9 @@
+coordinates:
+  name: contextcheck
+  namespace: github.com%2fkkhaike
+  provider: golang
+  type: go
+revisions:
+  v1.1.4:
+    licensed:
+      declared: Apache-2.0
