@@ -1,0 +1,8 @@
+coordinates:
+  name: PostSharp
+  provider: nuget
+  type: nuget
+revisions:
+  2023.0.4:
+    licensed:
+      declared: OTHER
