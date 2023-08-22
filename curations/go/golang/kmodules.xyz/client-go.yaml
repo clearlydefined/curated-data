@@ -1,0 +1,9 @@
+coordinates:
+  name: client-go
+  namespace: kmodules.xyz
+  provider: golang
+  type: go
+revisions:
+  v0.25.24:
+    licensed:
+      declared: Apache-2.0
