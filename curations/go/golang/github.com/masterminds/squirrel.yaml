@@ -1,6 +1,6 @@
 coordinates:
   name: squirrel
-  namespace: github.com%2Fmasterminds
+  namespace: github.com%2fmasterminds
   provider: golang
   type: go
 revisions:
@@ -23,5 +23,8 @@ revisions:
     licensed:
       declared: MIT
   v1.5.3:
+    licensed:
+      declared: MIT
+  v1.5.4:
     licensed:
       declared: MIT
