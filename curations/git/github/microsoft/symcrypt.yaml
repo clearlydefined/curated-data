@@ -1,0 +1,9 @@
+coordinates:
+  name: symcrypt
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  69dbff3352f42bd6d47112a2223145a0e3021a9e:
+    licensed:
+      declared: MIT
