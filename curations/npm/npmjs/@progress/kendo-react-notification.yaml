@@ -10,6 +10,9 @@ revisions:
   5.14.1:
     licensed:
       declared: OTHER
+  5.16.1:
+    licensed:
+      declared: CDDL-1.0
   5.6.0:
     licensed:
       declared: OTHER
