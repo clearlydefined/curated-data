@@ -1,0 +1,9 @@
+coordinates:
+  name: envoy
+  namespace: envoyproxy
+  provider: github
+  type: git
+revisions:
+  d362e791eb9e4efa8d87f6d878740e72dc8330ac:
+    licensed:
+      declared: Apache-2.0
