@@ -1,0 +1,9 @@
+coordinates:
+  name: joi
+  namespace: hapijs
+  provider: github
+  type: git
+revisions:
+  d0ea5ec5e5411eb0034ac240f2e30af4070c41a5:
+    licensed:
+      declared: BSD-3-Clause
