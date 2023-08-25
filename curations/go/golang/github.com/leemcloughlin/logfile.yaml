@@ -1,0 +1,9 @@
+coordinates:
+  name: logfile
+  namespace: github.com%2Fleemcloughlin
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20160220133042-38a861f7eb6b:
+    licensed:
+      declared: Apache-2.0
