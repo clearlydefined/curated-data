@@ -1,0 +1,9 @@
+coordinates:
+  name: stringtemplate4
+  namespace: antlr
+  provider: github
+  type: git
+revisions:
+  f6d8a529e00f3dd79c7ea459a685775b84621989:
+    licensed:
+      declared: BSD-3-Clause
