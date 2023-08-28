@@ -1,0 +1,9 @@
+coordinates:
+  name: utils
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.13:
+    licensed:
+      declared: OTHER
