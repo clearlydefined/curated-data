@@ -1,0 +1,9 @@
+coordinates:
+  name: visual-grid-client
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  15.10.1:
+    licensed:
+      declared: OTHER
