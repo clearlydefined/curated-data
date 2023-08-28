@@ -1,0 +1,9 @@
+coordinates:
+  name: eyes-cypress
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  3.25.3:
+    licensed:
+      declared: OTHER
