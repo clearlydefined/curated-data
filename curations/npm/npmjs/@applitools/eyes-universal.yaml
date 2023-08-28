@@ -1,0 +1,9 @@
+coordinates:
+  name: eyes-universal
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.1:
+    licensed:
+      declared: OTHER
