@@ -13,6 +13,9 @@ revisions:
   8f40bff2f6e715affd2abeddc8213670927f728f:
     licensed:
       declared: BSL-1.0
+  bcb2566e744a0467a980c3648d9e92b7c8ccb2bf:
+    licensed:
+      declared: BSL-1.0
   f2cc84a23c64b8a73c9b72b34799d0854d7e0787:
     licensed:
       declared: BSL-1.0
