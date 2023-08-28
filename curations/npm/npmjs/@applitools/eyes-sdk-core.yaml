@@ -379,6 +379,9 @@ revisions:
   12.9.4:
     licensed:
       declared: OTHER
+  13.1.1:
+    licensed:
+      declared: OTHER
   4.0.1:
     licensed:
       declared: OTHER
