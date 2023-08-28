@@ -1,0 +1,9 @@
+coordinates:
+  name: screenshoter
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  3.3.12:
+    licensed:
+      declared: OTHER
