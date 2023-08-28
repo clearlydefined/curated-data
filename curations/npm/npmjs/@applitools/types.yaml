@@ -1,12 +1,9 @@
 coordinates:
-  name: dom-capture
+  name: types
   namespace: '@applitools'
   provider: npmjs
   type: npm
 revisions:
-  11.1.0:
-    licensed:
-      declared: OTHER
-  8.0.1:
+  1.2.2:
     licensed:
       declared: OTHER

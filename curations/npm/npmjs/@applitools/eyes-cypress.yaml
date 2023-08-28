@@ -1,12 +1,9 @@
 coordinates:
-  name: dom-capture
+  name: eyes-cypress
   namespace: '@applitools'
   provider: npmjs
   type: npm
 revisions:
-  11.1.0:
-    licensed:
-      declared: OTHER
-  8.0.1:
+  3.25.3:
     licensed:
       declared: OTHER

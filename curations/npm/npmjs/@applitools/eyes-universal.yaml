@@ -1,12 +1,9 @@
 coordinates:
-  name: dom-capture
+  name: eyes-universal
   namespace: '@applitools'
   provider: npmjs
   type: npm
 revisions:
-  11.1.0:
-    licensed:
-      declared: OTHER
-  8.0.1:
+  2.0.1:
     licensed:
       declared: OTHER
