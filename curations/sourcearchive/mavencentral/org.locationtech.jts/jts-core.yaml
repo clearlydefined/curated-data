@@ -1,0 +1,9 @@
+coordinates:
+  name: jts-core
+  namespace: org.locationtech.jts
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  1.17.0:
+    licensed:
+      declared: EPL-2.0 OR BSD-3-Clause
