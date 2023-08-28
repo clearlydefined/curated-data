@@ -1,0 +1,9 @@
+coordinates:
+  name: types
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.2:
+    licensed:
+      declared: OTHER
