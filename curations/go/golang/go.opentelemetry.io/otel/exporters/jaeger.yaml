@@ -1,0 +1,9 @@
+coordinates:
+  name: jaeger
+  namespace: go.opentelemetry.io%2Fotel%2Fexporters
+  provider: golang
+  type: go
+revisions:
+  v1.0.1:
+    licensed:
+      declared: Apache-2.0
