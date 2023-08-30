@@ -1,0 +1,8 @@
+coordinates:
+  name: save-dev
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1-security:
+    licensed:
+      declared: MIT
