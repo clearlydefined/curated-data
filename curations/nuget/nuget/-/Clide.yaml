@@ -1,0 +1,8 @@
+coordinates:
+  name: Clide
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.8:
+    licensed:
+      declared: MIT
