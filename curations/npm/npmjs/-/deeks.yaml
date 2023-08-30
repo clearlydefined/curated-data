@@ -1,0 +1,14 @@
+coordinates:
+  name: deeks
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.1:
+    described:
+      sourceLocation:
+        name: deeks
+        namespace: mrodrig
+        provider: github
+        revision: a965d4b10d5cd8f928a85bb945db0f37af29c727
+        type: git
+        url: 'https://github.com/mrodrig/deeks/commit/a965d4b10d5cd8f928a85bb945db0f37af29c727'
