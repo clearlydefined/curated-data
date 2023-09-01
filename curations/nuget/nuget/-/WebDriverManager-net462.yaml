@@ -1,0 +1,8 @@
+coordinates:
+  name: WebDriverManager-net462
+  provider: nuget
+  type: nuget
+revisions:
+  2.9.3:
+    licensed:
+      declared: MIT
