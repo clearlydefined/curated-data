@@ -1,0 +1,8 @@
+coordinates:
+  name: scapy
+  provider: pypi
+  type: pypi
+revisions:
+  2.5.0:
+    licensed:
+      declared: GPL-2.0-only
