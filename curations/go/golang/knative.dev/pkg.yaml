@@ -1,0 +1,9 @@
+coordinates:
+  name: pkg
+  namespace: knative.dev
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20221123154742-05b694ec4d3a:
+    licensed:
+      declared: Apache-2.0
