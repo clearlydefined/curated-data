@@ -1,0 +1,9 @@
+coordinates:
+  name: go-jump
+  namespace: github.com%2Fdgryski
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20211018200510-ba001c3ffce0:
+    licensed:
+      declared: MIT
