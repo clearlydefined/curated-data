@@ -5,10 +5,13 @@ coordinates:
 revisions:
   1.0.0:
     licensed:
-      declared: MIT AND BSD-3-Clause
+      declared: MIT AND OTHER
   1.0.0-beta2:
     licensed:
-      declared: MIT AND BSD-3-Clause
+      declared: MIT AND OTHER
+  1.0.0-beta3:
+    licensed:
+      declared: MIT AND OTHER
   5.20.1-preview:
     licensed:
       declared: MIT AND OTHER
