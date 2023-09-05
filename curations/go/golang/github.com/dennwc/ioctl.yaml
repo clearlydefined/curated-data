@@ -1,0 +1,9 @@
+coordinates:
+  name: ioctl
+  namespace: github.com%2Fdennwc
+  provider: golang
+  type: go
+revisions:
+  v1.0.0:
+    licensed:
+      declared: MIT
