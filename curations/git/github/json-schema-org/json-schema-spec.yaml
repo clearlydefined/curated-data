@@ -1,0 +1,9 @@
+coordinates:
+  name: json-schema-spec
+  namespace: json-schema-org
+  provider: github
+  type: git
+revisions:
+  add836e705c9a07434c467b6b90946ba45258a73:
+    licensed:
+      declared: BSD-3-Clause
