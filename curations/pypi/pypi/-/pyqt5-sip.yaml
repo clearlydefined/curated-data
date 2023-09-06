@@ -1,0 +1,8 @@
+coordinates:
+  name: pyqt5-sip
+  provider: pypi
+  type: pypi
+revisions:
+  12.11.0:
+    licensed:
+      declared: GPL-3.0-only
