@@ -6,4 +6,4 @@ coordinates:
 revisions:
   0e08f03573753bebe2841023dd6fcc822490ea07:
     licensed:
-      declared: BSD-3-Clause
+      declared: AFL-3.0 OR BSD-3-Clause
