@@ -1,0 +1,9 @@
+coordinates:
+  name: iotdb-client-go
+  namespace: github.com%2Fapache
+  provider: golang
+  type: go
+revisions:
+  v0.12.2-0.20220722111104-cd17da295b46:
+    licensed:
+      declared: Apache-2.0
