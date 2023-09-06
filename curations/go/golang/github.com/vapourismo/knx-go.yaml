@@ -1,0 +1,9 @@
+coordinates:
+  name: knx-go
+  namespace: github.com%2fvapourismo
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220829185957-fb5458a5389d:
+    licensed:
+      declared: MIT
