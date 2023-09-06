@@ -1,0 +1,9 @@
+coordinates:
+  name: linkerd2
+  namespace: linkerd
+  provider: github
+  type: git
+revisions:
+  ec4bb714e9fed472a379618e1b9a01317b2425b6:
+    licensed:
+      declared: Apache-2.0
