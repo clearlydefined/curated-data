@@ -1,0 +1,9 @@
+coordinates:
+  name: go-sh
+  namespace: github.com%2Fcodeskyblue
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20200712050446-30169cf553fe:
+    licensed:
+      declared: Apache-2.0
