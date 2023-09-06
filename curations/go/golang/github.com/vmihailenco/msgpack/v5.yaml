@@ -1,0 +1,9 @@
+coordinates:
+  name: v5
+  namespace: github.com%2Fvmihailenco%2Fmsgpack
+  provider: golang
+  type: go
+revisions:
+  v5.3.4:
+    licensed:
+      declared: BSD-2-Clause
