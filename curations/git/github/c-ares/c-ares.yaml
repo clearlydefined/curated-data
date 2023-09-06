@@ -6,19 +6,22 @@ coordinates:
 revisions:
   2aa086f822aad5017a6f2061ef656f237a62d0ed:
     licensed:
-      declared: OTHER
+      declared: HPND
   39c73b503d9ef70a58ad1f4a4643f15b01407c66:
     licensed:
-      declared: OTHER
+      declared: HPND
   3be1924221e1326df520f8498d704a5c4c8d0cce:
     licensed:
-      declared: OTHER
+      declared: HPND
+  6360e96b5cf8e5980c887ce58ef727e53d77243a:
+    licensed:
+      declared: HPND
   9f1fdbf5dd633f81352fac0d6bc0d0c4d45be459:
     licensed:
-      declared: OTHER
+      declared: HPND
   e982924acee7f7313b4baa4ee5ec000c5e373c30:
     licensed:
-      declared: OTHER
+      declared: HPND
   fddf01938d3789e06cc1c3774e4cd0c7d2a89976:
     licensed:
-      declared: OTHER
+      declared: HPND
