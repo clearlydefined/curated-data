@@ -1,0 +1,9 @@
+coordinates:
+  name: chatgpt.js
+  namespace: KudoAI
+  provider: github
+  type: git
+revisions:
+  334470946617c2bc573058c9c1e2fda766face69:
+    licensed:
+      declared: MIT
