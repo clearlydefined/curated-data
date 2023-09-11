@@ -1,0 +1,9 @@
+coordinates:
+  name: athenz
+  namespace: github.com%2Fathenz
+  provider: golang
+  type: go
+revisions:
+  v1.10.39:
+    licensed:
+      declared: Apache-2.0
