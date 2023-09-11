@@ -6,3 +6,6 @@ revisions:
   1.0.1-alpha:
     licensed:
       declared: MIT
+  1.1.17-rc:
+    licensed:
+      declared: MIT
