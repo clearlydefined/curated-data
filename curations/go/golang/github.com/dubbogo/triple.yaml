@@ -1,0 +1,9 @@
+coordinates:
+  name: triple
+  namespace: github.com%2Fdubbogo
+  provider: golang
+  type: go
+revisions:
+  v1.1.8:
+    licensed:
+      declared: Apache-2.0
