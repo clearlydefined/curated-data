@@ -1,0 +1,8 @@
+coordinates:
+  name: Hangfire.Tags
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.5:
+    licensed:
+      declared: MIT
