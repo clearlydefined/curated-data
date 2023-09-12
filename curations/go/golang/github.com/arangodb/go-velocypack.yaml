@@ -1,0 +1,9 @@
+coordinates:
+  name: go-velocypack
+  namespace: github.com%2Farangodb
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20200318135517-5af53c29c67e:
+    licensed:
+      declared: Apache-2.0
