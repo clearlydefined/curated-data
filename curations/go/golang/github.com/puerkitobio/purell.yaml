@@ -7,3 +7,6 @@ revisions:
   v1.1.0:
     licensed:
       declared: BSD-3-Clause
+  v1.2.0:
+    licensed:
+      declared: BSD-3-Clause
