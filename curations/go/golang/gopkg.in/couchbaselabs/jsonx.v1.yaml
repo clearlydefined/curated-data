@@ -1,0 +1,9 @@
+coordinates:
+  name: jsonx.v1
+  namespace: gopkg.in%2Fcouchbaselabs
+  provider: golang
+  type: go
+revisions:
+  v1.0.1:
+    licensed:
+      declared: Apache-2.0
