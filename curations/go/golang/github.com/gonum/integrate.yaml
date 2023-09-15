@@ -1,0 +1,9 @@
+coordinates:
+  name: integrate
+  namespace: github.com%2Fgonum
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181209220457-a422b5c0fdf2:
+    licensed:
+      declared: BSD-3-Clause
