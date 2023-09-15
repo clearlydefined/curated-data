@@ -1,0 +1,9 @@
+coordinates:
+  name: hiredis
+  namespace: redis
+  provider: github
+  type: git
+revisions:
+  b731283245f3183af527237166261ad0768ba7d4:
+    licensed:
+      declared: BSD-3-Clause
