@@ -1,0 +1,8 @@
+coordinates:
+  name: HybridModelBinding
+  provider: nuget
+  type: nuget
+revisions:
+  0.18.0:
+    licensed:
+      declared: MIT
