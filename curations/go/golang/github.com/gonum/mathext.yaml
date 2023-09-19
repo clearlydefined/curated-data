@@ -1,0 +1,9 @@
+coordinates:
+  name: mathext
+  namespace: github.com%2Fgonum
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20181121095525-8a4bf007ea55:
+    licensed:
+      declared: BSD-3-Clause
