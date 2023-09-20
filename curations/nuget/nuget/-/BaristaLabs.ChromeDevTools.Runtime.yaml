@@ -1,0 +1,8 @@
+coordinates:
+  name: BaristaLabs.ChromeDevTools.Runtime
+  provider: nuget
+  type: nuget
+revisions:
+  70.0.3538.77:
+    licensed:
+      declared: MIT
