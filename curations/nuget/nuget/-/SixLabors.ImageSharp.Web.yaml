@@ -1,0 +1,8 @@
+coordinates:
+  name: SixLabors.ImageSharp.Web
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.1:
+    licensed:
+      declared: OTHER
