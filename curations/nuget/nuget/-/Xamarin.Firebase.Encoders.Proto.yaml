@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Firebase.Encoders.Proto
+  provider: nuget
+  type: nuget
+revisions:
+  116.0.0.2:
+    licensed:
+      declared: MIT
