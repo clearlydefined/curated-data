@@ -1,0 +1,8 @@
+coordinates:
+  name: Prism.Forms
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.0.396:
+    licensed:
+      declared: MIT
