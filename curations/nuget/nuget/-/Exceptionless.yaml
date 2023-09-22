@@ -1,0 +1,8 @@
+coordinates:
+  name: Exceptionless
+  provider: nuget
+  type: nuget
+revisions:
+  4.4.0:
+    licensed:
+      declared: Apache-2.0
