@@ -36,6 +36,9 @@ revisions:
   117.6.0.4:
     licensed:
       declared: MIT
+  118.1.0:
+    licensed:
+      declared: MIT
   42.1021.1:
     licensed:
       declared: MIT
