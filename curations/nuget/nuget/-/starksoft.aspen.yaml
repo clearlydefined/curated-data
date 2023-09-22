@@ -1,0 +1,8 @@
+coordinates:
+  name: starksoft.aspen
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.6:
+    licensed:
+      declared: GPL-3.0-only
