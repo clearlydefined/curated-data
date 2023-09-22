@@ -1,0 +1,9 @@
+coordinates:
+  name: qcbor
+  namespace: laurencelundblade
+  provider: github
+  type: git
+revisions:
+  92d3f89030baff4af7be8396c563e6c8ef263622:
+    licensed:
+      declared: BSD-3-Clause
