@@ -1,0 +1,8 @@
+coordinates:
+  name: NPoco.SqlServer
+  provider: nuget
+  type: nuget
+revisions:
+  5.7.1:
+    licensed:
+      declared: Apache-2.0
