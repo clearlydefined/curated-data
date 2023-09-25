@@ -1,0 +1,9 @@
+coordinates:
+  name: restruct
+  namespace: github.com%2Fgo-restruct
+  provider: golang
+  type: go
+revisions:
+  v1.2.0-alpha:
+    licensed:
+      declared: ISC
