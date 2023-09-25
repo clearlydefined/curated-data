@@ -1,0 +1,9 @@
+coordinates:
+  name: go-struct-converter
+  namespace: github.com%2fanchore
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20221118182256-c68fdcfa2092:
+    licensed:
+      declared: Apache-2.0
