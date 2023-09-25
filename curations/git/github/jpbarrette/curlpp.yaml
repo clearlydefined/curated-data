@@ -1,0 +1,9 @@
+coordinates:
+  name: curlpp
+  namespace: jpbarrette
+  provider: github
+  type: git
+revisions:
+  8810334c830faa3b38bcd94f5b1ab695a4f05eb9:
+    licensed:
+      declared: MIT
