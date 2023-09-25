@@ -1,0 +1,9 @@
+coordinates:
+  name: go-version
+  namespace: github.com%2Fanchore
+  provider: golang
+  type: go
+revisions:
+  v1.2.2-0.20200701162849-18adb9c92b9b:
+    licensed:
+      declared: MPL-2.0
