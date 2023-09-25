@@ -17,7 +17,7 @@ revisions:
       declared: MIT
   1.4.10:
     licensed:
-      declared: Apache-2.0
+      declared: MIT
   1.4.20:
     licensed:
       declared: MIT
