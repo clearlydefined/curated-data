@@ -1,0 +1,8 @@
+coordinates:
+  name: apipie-rails
+  provider: rubygems
+  type: gem
+revisions:
+  1.2.2:
+    licensed:
+      declared: MIT
