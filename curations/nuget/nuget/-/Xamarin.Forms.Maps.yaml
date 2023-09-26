@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Forms.Maps
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.0.1008975:
+    licensed:
+      declared: MIT
