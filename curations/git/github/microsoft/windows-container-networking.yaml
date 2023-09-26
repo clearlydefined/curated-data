@@ -1,0 +1,9 @@
+coordinates:
+  name: windows-container-networking
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  ae7b7cb27d53a85f4e6cda6c57c49fc9b80af4c7:
+    licensed:
+      declared: MIT
