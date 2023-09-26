@@ -1,0 +1,8 @@
+coordinates:
+  name: VtNetCore
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.30:
+    licensed:
+      declared: MIT
