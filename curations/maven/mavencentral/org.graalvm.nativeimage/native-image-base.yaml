@@ -1,0 +1,9 @@
+coordinates:
+  name: native-image-base
+  namespace: org.graalvm.nativeimage
+  provider: mavencentral
+  type: maven
+revisions:
+  22.0.0.2:
+    licensed:
+      declared: GPL-2.0-only
