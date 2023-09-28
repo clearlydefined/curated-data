@@ -25,3 +25,6 @@ revisions:
   21.0.0:
     licensed:
       declared: UPL-1.0
+  22.0.0.2:
+    licensed:
+      declared: GPL-2.0-only
