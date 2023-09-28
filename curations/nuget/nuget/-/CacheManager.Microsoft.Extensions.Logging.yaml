@@ -1,0 +1,8 @@
+coordinates:
+  name: CacheManager.Microsoft.Extensions.Logging
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.2:
+    licensed:
+      declared: Apache-2.0
