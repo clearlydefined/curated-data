@@ -12,3 +12,6 @@ revisions:
   3.0.1:
     licensed:
       declared: OTHER
+  3.0.2:
+    licensed:
+      declared: Artistic-2.0
