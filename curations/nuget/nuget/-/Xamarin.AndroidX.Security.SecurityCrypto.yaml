@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.AndroidX.Security.SecurityCrypto
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.0.1-alpha06:
+    licensed:
+      declared: MIT
