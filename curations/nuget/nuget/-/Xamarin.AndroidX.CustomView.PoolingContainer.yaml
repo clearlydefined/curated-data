@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.AndroidX.CustomView.PoolingContainer
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.5:
+    licensed:
+      declared: MIT
