@@ -44,4 +44,4 @@ revisions:
       declared: LGPL-3.0-or-later OR OTHER
   1.8.5:
     licensed:
-      declared: LGPL-3.0-only
+      declared: LGPL-3.0-or-later OR OTHER
