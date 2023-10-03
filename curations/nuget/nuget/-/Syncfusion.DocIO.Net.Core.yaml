@@ -1,0 +1,8 @@
+coordinates:
+  name: Syncfusion.DocIO.Net.Core
+  provider: nuget
+  type: nuget
+revisions:
+  20.4.0.44:
+    licensed:
+      declared: OTHER

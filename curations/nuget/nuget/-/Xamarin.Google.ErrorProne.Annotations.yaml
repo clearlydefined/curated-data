@@ -1,0 +1,11 @@
+coordinates:
+  name: Xamarin.Google.ErrorProne.Annotations
+  provider: nuget
+  type: nuget
+revisions:
+  2.20.0.1:
+    licensed:
+      declared: MIT
+  2.20.0:
+    licensed:
+      declared: MIT
