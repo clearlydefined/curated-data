@@ -1,14 +1,11 @@
 coordinates:
-  name: Xamarin.AndroidX.Navigation.Runtime
+  name: Xamarin.Google.ErrorProne.Annotations
   provider: nuget
   type: nuget
 revisions:
-  2.3.2.1:
+  2.20.0.1:
     licensed:
       declared: MIT
-  2.3.5.1:
-    licensed:
-      declared: MIT
-  2.6.0.1:
+  2.20.0:
     licensed:
       declared: MIT
