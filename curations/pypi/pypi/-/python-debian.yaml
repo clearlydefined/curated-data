@@ -1,0 +1,8 @@
+coordinates:
+  name: python-debian
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.49:
+    licensed:
+      declared: GPL-2.0-or-later
