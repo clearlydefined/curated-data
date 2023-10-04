@@ -1,0 +1,8 @@
+coordinates:
+  name: pycocotools-windows
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.0.2:
+    licensed:
+      declared: BSD-2-Clause-Views
