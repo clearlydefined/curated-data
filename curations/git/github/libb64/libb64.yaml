@@ -1,0 +1,9 @@
+coordinates:
+  name: libb64
+  namespace: libb64
+  provider: github
+  type: git
+revisions:
+  c1e3323498e1b5512e509716c5720029853846bc:
+    licensed:
+      declared: CC-PDDC
