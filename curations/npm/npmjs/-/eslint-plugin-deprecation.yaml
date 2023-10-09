@@ -1,0 +1,8 @@
+coordinates:
+  name: eslint-plugin-deprecation
+  provider: npmjs
+  type: npm
+revisions:
+  1.5.0:
+    licensed:
+      declared: LGPL-3.0-or-later
