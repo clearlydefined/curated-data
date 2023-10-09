@@ -1,0 +1,8 @@
+coordinates:
+  name: BananaCakePop.Middleware
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.4:
+    licensed:
+      declared: MIT
