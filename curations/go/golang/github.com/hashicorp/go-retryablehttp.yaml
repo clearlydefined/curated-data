@@ -7,3 +7,6 @@ revisions:
   v0.0.0-20180531211321-3b087ef2d313:
     licensed:
       declared: MPL-2.0
+  v0.5.1:
+    licensed:
+      declared: MPL-2.0
