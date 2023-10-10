@@ -1,0 +1,8 @@
+coordinates:
+  name: ChilkatNativeLib
+  provider: nuget
+  type: nuget
+revisions:
+  9.50.95:
+    licensed:
+      declared: MIT
