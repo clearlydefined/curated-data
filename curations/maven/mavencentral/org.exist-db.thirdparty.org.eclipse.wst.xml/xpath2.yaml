@@ -1,0 +1,9 @@
+coordinates:
+  name: xpath2
+  namespace: org.exist-db.thirdparty.org.eclipse.wst.xml
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.0:
+    licensed:
+      declared: EPL-1.0
