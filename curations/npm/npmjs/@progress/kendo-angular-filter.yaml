@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-filter
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  11.6.0:
+    licensed:
+      declared: OTHER
