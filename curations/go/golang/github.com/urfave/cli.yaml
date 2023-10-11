@@ -1,0 +1,9 @@
+coordinates:
+  name: cli
+  namespace: github.com%2Furfave
+  provider: golang
+  type: go
+revisions:
+  v1.19.1:
+    licensed:
+      declared: MIT
