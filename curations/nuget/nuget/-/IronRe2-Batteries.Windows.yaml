@@ -1,0 +1,8 @@
+coordinates:
+  name: IronRe2-Batteries.Windows
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.1:
+    licensed:
+      declared: MIT
