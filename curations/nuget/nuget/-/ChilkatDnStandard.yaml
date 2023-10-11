@@ -1,0 +1,8 @@
+coordinates:
+  name: ChilkatDnStandard
+  provider: nuget
+  type: nuget
+revisions:
+  9.50.95:
+    licensed:
+      declared: OTHER
