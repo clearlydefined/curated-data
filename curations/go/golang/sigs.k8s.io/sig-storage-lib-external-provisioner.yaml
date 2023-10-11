@@ -1,0 +1,9 @@
+coordinates:
+  name: sig-storage-lib-external-provisioner
+  namespace: sigs.k8s.io
+  provider: golang
+  type: go
+revisions:
+  v4.0.2-0.20200115000635-36885abbb2bd+incompatible:
+    licensed:
+      declared: Apache-2.0
