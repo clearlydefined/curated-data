@@ -1,0 +1,9 @@
+coordinates:
+  name: camerakit
+  namespace: com.snap.camerakit
+  provider: mavencentral
+  type: maven
+revisions:
+  1.24.0:
+    licensed:
+      declared: OTHER
