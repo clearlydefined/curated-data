@@ -1,0 +1,8 @@
+coordinates:
+  name: react-styled-select
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.0:
+    licensed:
+      declared: MIT
