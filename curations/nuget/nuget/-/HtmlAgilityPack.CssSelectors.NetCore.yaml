@@ -1,0 +1,8 @@
+coordinates:
+  name: HtmlAgilityPack.CssSelectors.NetCore
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT
