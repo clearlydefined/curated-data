@@ -1,0 +1,8 @@
+coordinates:
+  name: LigerShark.WebOptimizer.Sass
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.99:
+    licensed:
+      declared: Apache-2.0
