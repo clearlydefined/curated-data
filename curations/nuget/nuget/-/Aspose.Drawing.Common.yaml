@@ -1,0 +1,8 @@
+coordinates:
+  name: Aspose.Drawing.Common
+  provider: nuget
+  type: nuget
+revisions:
+  23.7.0:
+    licensed:
+      declared: OTHER
