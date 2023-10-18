@@ -10,3 +10,6 @@ revisions:
   cee7617cfa7339007172ae3f99675146ebdcf74a:
     licensed:
       declared: Apache-2.0 OR GPL-2.0-only
+  e75fb8eba8b0a85b4562b6d1d09750903e2b7238:
+    licensed:
+      declared: Apache-2.0 OR GPL-2.0-only
