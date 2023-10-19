@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-uamqp-c
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  117c8378b80fdafec639dafb6693b7c044281abc:
+    licensed:
+      declared: MIT
