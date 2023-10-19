@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.1.43:
+    licensed:
+      declared: MIT
   1.0.2:
     licensed:
       declared: MIT
