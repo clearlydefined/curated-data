@@ -1,0 +1,8 @@
+coordinates:
+  name: Aspose.BarCode
+  provider: nuget
+  type: nuget
+revisions:
+  23.8.1:
+    licensed:
+      declared: OTHER
