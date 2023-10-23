@@ -7,3 +7,6 @@ revisions:
   4.1.23:
     licensed:
       declared: OTHER
+  4.1.27:
+    licensed:
+      declared: NONE
