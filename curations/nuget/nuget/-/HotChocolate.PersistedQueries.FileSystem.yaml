@@ -1,0 +1,8 @@
+coordinates:
+  name: HotChocolate.PersistedQueries.FileSystem
+  provider: nuget
+  type: nuget
+revisions:
+  12.21.0:
+    licensed:
+      declared: MIT
