@@ -1,0 +1,8 @@
+coordinates:
+  name: psd
+  provider: npmjs
+  type: npm
+revisions:
+  3.3.0:
+    licensed:
+      declared: MIT
