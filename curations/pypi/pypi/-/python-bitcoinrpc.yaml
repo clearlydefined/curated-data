@@ -8,7 +8,7 @@ revisions:
       declared: LGPL-2.1-or-later
   '0.3':
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-or-later
   '1.0':
     licensed:
-      declared: LGPL-2.1
+      declared: LGPL-2.1-or-later
