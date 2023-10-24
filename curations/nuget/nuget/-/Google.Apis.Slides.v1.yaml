@@ -1,0 +1,16 @@
+coordinates:
+  name: Google.Apis.Slides.v1
+  provider: nuget
+  type: nuget
+revisions:
+  1.60.0.2979:
+    described:
+      sourceLocation:
+        name: google-api-dotnet-client
+        namespace: googleapis
+        provider: github
+        revision: c47aeed21fb9181ac94813c01410b6c5b6f273b0
+        type: git
+        url: 'https://github.com/googleapis/google-api-dotnet-client/commit/c47aeed21fb9181ac94813c01410b6c5b6f273b0'
+    licensed:
+      declared: Apache-2.0
