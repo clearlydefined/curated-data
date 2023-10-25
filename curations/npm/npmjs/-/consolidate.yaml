@@ -1,0 +1,8 @@
+coordinates:
+  name: consolidate
+  provider: npmjs
+  type: npm
+revisions:
+  0.10.0:
+    licensed:
+      declared: MIT
