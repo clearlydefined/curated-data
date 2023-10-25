@@ -24,3 +24,5 @@ revisions:
         revision: 755cfea7899074a17e83a248c7cfc3960d956d82
         type: git
         url: 'https://github.com/node-browser-compat/atob/commit/755cfea7899074a17e83a248c7cfc3960d956d82'
+    licensed:
+      declared: Apache-2.0 OR MIT
