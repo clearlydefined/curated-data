@@ -1,0 +1,9 @@
+coordinates:
+  name: metrics-core
+  namespace: com.yammer.metrics
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0-BETA18:
+    licensed:
+      declared: MIT
