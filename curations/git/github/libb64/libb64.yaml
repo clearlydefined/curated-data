@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  9a6546658657dbeb23245117b57f4e6cf6cdc3e6:
+    licensed:
+      declared: CC-PDDC
   c1e3323498e1b5512e509716c5720029853846bc:
     licensed:
       declared: CC-PDDC
