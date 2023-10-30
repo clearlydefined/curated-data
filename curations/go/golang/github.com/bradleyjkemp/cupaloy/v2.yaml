@@ -1,0 +1,9 @@
+coordinates:
+  name: v2
+  namespace: github.com%2Fbradleyjkemp%2Fcupaloy
+  provider: golang
+  type: go
+revisions:
+  v2.6.0:
+    licensed:
+      declared: MIT
