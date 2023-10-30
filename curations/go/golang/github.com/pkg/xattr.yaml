@@ -1,0 +1,9 @@
+coordinates:
+  name: xattr
+  namespace: github.com%2Fpkg
+  provider: golang
+  type: go
+revisions:
+  v0.4.6:
+    licensed:
+      declared: BSD-2-Clause
