@@ -7,3 +7,6 @@ revisions:
   1.7.0:
     licensed:
       declared: CPL-1.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
+  1.7.9:
+    licensed:
+      declared: EPL-1.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
