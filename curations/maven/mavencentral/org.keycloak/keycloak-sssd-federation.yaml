@@ -6,4 +6,4 @@ coordinates:
 revisions:
   22.0.3:
     licensed:
-      declared: AFL-2.1 AND LGPL-2.1-only
+      declared: AFL-2.1 OR LGPL-2.1-only
