@@ -1,0 +1,9 @@
+coordinates:
+  name: owlapi-distribution
+  namespace: net.sourceforge.owlapi
+  provider: mavencentral
+  type: maven
+revisions:
+  3.5.2:
+    licensed:
+      declared: LGPL-3.0-or-later OR Apache-2.0
