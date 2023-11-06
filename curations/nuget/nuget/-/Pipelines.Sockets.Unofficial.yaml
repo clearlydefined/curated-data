@@ -3,10 +3,127 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.2.1-alpha.62:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.63:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.65:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.66:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.68:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.69:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.70:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.72:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.73:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.75:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.76:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.77:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.79:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.80:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.81:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.83:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.84:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.85:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.86:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.87:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.88:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.90:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.91:
+    licensed:
+      declared: MIT
+  0.2.1-alpha.92:
+    licensed:
+      declared: MIT
   1.0.0:
     licensed:
       declared: MIT
+  1.0.12:
+    licensed:
+      declared: MIT
+  1.0.13:
+    licensed:
+      declared: MIT
+  1.0.14:
+    licensed:
+      declared: MIT
+  1.0.17:
+    licensed:
+      declared: MIT
+  1.0.18:
+    licensed:
+      declared: MIT
   1.0.20:
+    licensed:
+      declared: MIT
+  1.0.26:
+    licensed:
+      declared: MIT
+  1.0.28:
+    licensed:
+      declared: MIT
+  1.0.29:
+    licensed:
+      declared: MIT
+  1.0.31:
+    licensed:
+      declared: MIT
+  1.0.32:
+    licensed:
+      declared: MIT
+  1.0.33:
+    licensed:
+      declared: MIT
+  1.0.34:
+    licensed:
+      declared: MIT
+  1.0.37:
+    licensed:
+      declared: MIT
+  1.0.5:
+    licensed:
+      declared: MIT
+  1.0.53:
     licensed:
       declared: MIT
   1.0.6:
@@ -18,12 +135,69 @@ revisions:
   1.0.9:
     licensed:
       declared: MIT
+  1.1.1:
+    licensed:
+      declared: MIT
+  1.1.14:
+    licensed:
+      declared: MIT
+  1.1.23:
+    licensed:
+      declared: MIT
+  1.1.3:
+    licensed:
+      declared: MIT
+  1.9.3-gf6c121fbdb:
+    licensed:
+      declared: MIT
+  2.0.1:
+    licensed:
+      declared: MIT
+  2.0.10:
+    licensed:
+      declared: MIT
+  2.0.11:
+    licensed:
+      declared: MIT
+  2.0.13:
+    licensed:
+      declared: MIT
+  2.0.16:
+    licensed:
+      declared: MIT
   2.0.17:
+    licensed:
+      declared: MIT
+  2.0.20:
     licensed:
       declared: MIT
   2.0.22:
     licensed:
       declared: MIT
+  2.0.23-pre.23.ge2847b7fd6:
+    licensed:
+      declared: MIT
+  2.0.25:
+    licensed:
+      declared: MIT
+  2.0.30-pre.30.ga2e91d2d93:
+    licensed:
+      declared: MIT
+  2.0.31-pre.31.gf8c8025252:
+    licensed:
+      declared: MIT
+  2.0.32-pre.32.g0dd8bbd1de:
+    licensed:
+      declared: MIT
+  2.0.33-pre.33.g46a919a58a:
+    licensed:
+      declared: MIT
+  2.0.5:
+    licensed:
+      declared: MIT
   2.0.7:
+    licensed:
+      declared: MIT
+  2.0.9:
     licensed:
       declared: MIT
