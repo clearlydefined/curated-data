@@ -1,0 +1,9 @@
+coordinates:
+  name: vscode-java
+  namespace: redhat-developer
+  provider: github
+  type: git
+revisions:
+  5d224a552cf5f0f8ebccf69e43e2575ed2c13839:
+    licensed:
+      declared: EPL-2.0
