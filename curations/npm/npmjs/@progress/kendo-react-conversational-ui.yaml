@@ -10,3 +10,6 @@ revisions:
   5.14.1:
     licensed:
       declared: OTHER
+  5.18.0:
+    licensed:
+      declared: OTHER
