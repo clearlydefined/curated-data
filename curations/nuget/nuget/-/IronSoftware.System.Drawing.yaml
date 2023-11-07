@@ -5,7 +5,7 @@ coordinates:
 revisions:
   2023.11.1:
     licensed:
-      declared: OTHER
+      declared: MIT OR OTHER
   2023.2.12:
     licensed:
       declared: MIT OR OTHER
