@@ -1,0 +1,9 @@
+coordinates:
+  name: raft-grpc-transport
+  namespace: github.com%2Fjille
+  provider: golang
+  type: go
+revisions:
+  v1.4.0:
+    licensed:
+      declared: BSD-2-Clause
