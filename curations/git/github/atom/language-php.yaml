@@ -1,0 +1,9 @@
+coordinates:
+  name: language-php
+  namespace: atom
+  provider: github
+  type: git
+revisions:
+  eb28b8aea1214dcbc732f3d9b9ed20c089c648bd:
+    licensed:
+      declared: MIT
