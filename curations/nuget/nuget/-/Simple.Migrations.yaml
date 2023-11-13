@@ -1,0 +1,8 @@
+coordinates:
+  name: Simple.Migrations
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.21:
+    licensed:
+      declared: MIT
