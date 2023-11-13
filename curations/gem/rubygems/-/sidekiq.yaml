@@ -1,6 +1,5 @@
 coordinates:
   name: sidekiq
-  namespace: "-"
   provider: rubygems
   type: gem
 revisions:
