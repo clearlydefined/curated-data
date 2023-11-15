@@ -1,0 +1,9 @@
+coordinates:
+  name: azure-ai-vision-common
+  namespace: com.azure
+  provider: mavencentral
+  type: maven
+revisions:
+  0.15.1-beta.1:
+    licensed:
+      declared: OTHER
