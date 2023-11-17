@@ -1,0 +1,9 @@
+coordinates:
+  name: checker-compat-qual
+  namespace: org.checkerframework
+  provider: mavencentral
+  type: maven
+revisions:
+  2.5.5:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
