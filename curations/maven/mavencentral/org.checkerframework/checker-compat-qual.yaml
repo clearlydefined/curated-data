@@ -6,4 +6,4 @@ coordinates:
 revisions:
   2.5.5:
     licensed:
-      declared: GPL-2.0-with-classpath-exception
+      declared: GPL-2.0-only with Classpath-Exception-2.0
