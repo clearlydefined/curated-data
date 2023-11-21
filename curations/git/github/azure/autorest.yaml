@@ -1,0 +1,9 @@
+coordinates:
+  name: autorest
+  namespace: azure
+  provider: github
+  type: git
+revisions:
+  30d240dff60614c42a2bbb3f388b8b69c74586cd:
+    licensed:
+      declared: MIT
