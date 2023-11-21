@@ -1,0 +1,8 @@
+coordinates:
+  name: itext.licensing.remote
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.5:
+    licensed:
+      declared: OTHER
