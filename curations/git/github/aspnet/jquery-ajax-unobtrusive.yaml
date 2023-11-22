@@ -1,0 +1,9 @@
+coordinates:
+  name: jquery-ajax-unobtrusive
+  namespace: aspnet
+  provider: github
+  type: git
+revisions:
+  ff31f3542e75b57ed354e6ddc79d134ab2e00b78:
+    licensed:
+      declared: Apache-2.0
