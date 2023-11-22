@@ -1,0 +1,9 @@
+coordinates:
+  name: stax-utils
+  namespace: net.java.dev.stax-utils
+  provider: mavencentral
+  type: maven
+revisions:
+  '20070216':
+    licensed:
+      declared: BSD-3-Clause
