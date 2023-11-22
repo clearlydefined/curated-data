@@ -1,0 +1,9 @@
+coordinates:
+  name: jquery-validation-unobtrusive
+  namespace: aspnet
+  provider: github
+  type: git
+revisions:
+  7759a89342dfd90c8a653f08dde40ccc683accfa:
+    licensed:
+      declared: Apache-2.0
