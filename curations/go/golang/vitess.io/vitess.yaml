@@ -1,6 +1,6 @@
 coordinates:
   name: vitess
-  namespace: github.com%2vitessio
+  namespace: vitess.io
   provider: golang
   type: go
 revisions:
