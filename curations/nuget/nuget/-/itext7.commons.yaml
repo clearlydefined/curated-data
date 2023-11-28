@@ -11,7 +11,7 @@ revisions:
       declared: AGPL-3.0-or-later OR OTHER
   7.2.5:
     licensed:
-      declared: OTHER
+      declared: AGPL-3.0-or-later OR OTHER
   8.0.0:
     licensed:
       declared: AGPL-3.0-or-later OR OTHER
