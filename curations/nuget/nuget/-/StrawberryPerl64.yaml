@@ -1,0 +1,8 @@
+coordinates:
+  name: StrawberryPerl64
+  provider: nuget
+  type: nuget
+revisions:
+  5.22.2.1:
+    licensed:
+      declared: Artistic-1.0-Perl OR GPL-1.0-or-later
