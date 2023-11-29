@@ -31,3 +31,12 @@ revisions:
         revision: 63b1d08cf7c4f02d32d5473db74f6f7ac0af88af
         type: git
         url: 'https://github.com/patternfly/patternfly-react/commit/63b1d08cf7c4f02d32d5473db74f6f7ac0af88af'
+  4.278.0:
+    described:
+      sourceLocation:
+        name: patternfly-react
+        namespace: patternfly
+        provider: github
+        revision: f5feb0bf7c7dd131054c652328fbcf49a633873b
+        type: git
+        url: 'https://github.com/patternfly/patternfly-react/commit/f5feb0bf7c7dd131054c652328fbcf49a633873b'
