@@ -34,6 +34,9 @@ revisions:
   d32170dbd5b0d54436537b6b75beaf44324e0c28:
     licensed:
       declared: Apache-2.0 WITH LLVM-exception
+  d5361190993a5df779eee245a18ceb76a7947833:
+    licensed:
+      declared: Apache-2.0 WITH LLVM-exception
   d7b669b3a30345cfcdb2fde2af6f48aa4b94845d:
     licensed:
       declared: Apache-2.0 WITH LLVM-exception
