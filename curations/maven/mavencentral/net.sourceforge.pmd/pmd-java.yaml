@@ -7,3 +7,6 @@ revisions:
   5.5.2:
     licensed:
       declared: BSD-3-Clause
+  6.51.0:
+    licensed:
+      declared: 0BSD
