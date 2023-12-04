@@ -1,0 +1,8 @@
+coordinates:
+  name: nsoftware.IPWorksSNMP
+  provider: nuget
+  type: nuget
+revisions:
+  20.0.8207:
+    licensed:
+      declared: OTHER
