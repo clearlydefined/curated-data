@@ -38,6 +38,9 @@ revisions:
   5.4.0:
     licensed:
       declared: BSD-3-Clause
+  6.2.0:
+    licensed:
+      declared: BSD-3-Clause
   6.7.0:
     licensed:
-      declared: ISC
+      declared: BSD-3-Clause
