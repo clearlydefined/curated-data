@@ -1,0 +1,8 @@
+coordinates:
+  name: tas-client
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.33:
+    licensed:
+      declared: MIT
