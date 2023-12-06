@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.1.5:
+    licensed:
+      declared: CPOL-1.02
   1.1.6:
     licensed:
       declared: CPOL-1.02
