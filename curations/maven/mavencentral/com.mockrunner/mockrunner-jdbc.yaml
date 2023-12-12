@@ -1,0 +1,9 @@
+coordinates:
+  name: mockrunner-jdbc
+  namespace: com.mockrunner
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.6:
+    licensed:
+      declared: NONE
