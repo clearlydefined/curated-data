@@ -1,0 +1,9 @@
+coordinates:
+  name: codingstyle
+  namespace: edu.hm.hafner
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  3.23.0:
+    licensed:
+      declared: CC-BY-4.0 AND MIT
