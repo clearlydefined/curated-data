@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Google.MLKit.BarcodeScanning
+  provider: nuget
+  type: nuget
+revisions:
+  117.2.0.1:
+    licensed:
+      declared: MIT
