@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Google.MLKit.Common
+  provider: nuget
+  type: nuget
+revisions:
+  118.9.0.1:
+    licensed:
+      declared: MIT
