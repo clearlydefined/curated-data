@@ -1,0 +1,9 @@
+coordinates:
+  name: clamav
+  namespace: cisco-talos
+  provider: github
+  type: git
+revisions:
+  43a28da37471b2f30efa9e814d9c23bac352fb01:
+    licensed:
+      declared: GPL-2.0-only WITH cryptsetup-OpenSSL-exception
