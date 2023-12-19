@@ -6,4 +6,4 @@ coordinates:
 revisions:
   43a28da37471b2f30efa9e814d9c23bac352fb01:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-only WITH cryptsetup-OpenSSL-exception
