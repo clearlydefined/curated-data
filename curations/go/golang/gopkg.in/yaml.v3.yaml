@@ -1,0 +1,9 @@
+coordinates:
+  name: yaml.v3
+  namespace: gopkg.in
+  provider: golang
+  type: go
+revisions:
+  v3.0.0-20220521103104-8f96da9f5d5e:
+    licensed:
+      declared: MIT AND Apache-2.0
