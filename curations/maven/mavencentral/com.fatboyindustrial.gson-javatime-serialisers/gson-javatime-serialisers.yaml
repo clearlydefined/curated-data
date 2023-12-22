@@ -1,0 +1,9 @@
+coordinates:
+  name: gson-javatime-serialisers
+  namespace: com.fatboyindustrial.gson-javatime-serialisers
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.2:
+    licensed:
+      declared: MIT
