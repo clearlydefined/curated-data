@@ -7,3 +7,6 @@ revisions:
   13.0.0.Final:
     licensed:
       declared: LGPL-2.1-or-later
+  14.0.0.Final:
+    licensed:
+      declared: LGPL-2.1-or-later
