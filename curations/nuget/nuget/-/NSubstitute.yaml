@@ -17,7 +17,7 @@ revisions:
       declared: BSD-3-Clause
   1.8.0:
     licensed:
-      declared: BSD-2-Clause
+      declared: BSD-3-Clause
   1.8.1:
     licensed:
       declared: BSD-3-Clause
