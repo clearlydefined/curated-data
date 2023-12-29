@@ -42,3 +42,6 @@ revisions:
   17.7.37355:
     licensed:
       declared: OTHER
+  17.8.37221:
+    licensed:
+      declared: MS-PL
