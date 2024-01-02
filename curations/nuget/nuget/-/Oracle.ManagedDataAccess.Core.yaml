@@ -30,6 +30,9 @@ revisions:
   3.21.110:
     licensed:
       declared: OTHER
+  3.21.120:
+    licensed:
+      declared: OTHER
   3.21.4:
     licensed:
       declared: OTHER
