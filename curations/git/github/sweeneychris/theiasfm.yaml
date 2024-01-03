@@ -1,0 +1,9 @@
+coordinates:
+  name: theiasfm
+  namespace: sweeneychris
+  provider: github
+  type: git
+revisions:
+  d2112f15aa69a53dda68fe6c4bd4b0f1e2fe915b:
+    licensed:
+      declared: BSD-3-Clause
