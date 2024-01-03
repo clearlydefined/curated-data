@@ -1,0 +1,9 @@
+coordinates:
+  name: geronimo-jms_1.1_spec
+  namespace: org.apache.geronimo.specs
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: Apache-2.0
