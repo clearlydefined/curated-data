@@ -30,6 +30,9 @@ revisions:
   1.65.200121:
     licensed:
       declared: Apache-2.0
+  1.74.200615:
+    licensed:
+      declared: Apache-2.0
   1.80.200901:
     licensed:
       declared: Apache-2.0
