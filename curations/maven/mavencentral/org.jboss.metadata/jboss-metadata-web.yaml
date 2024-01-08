@@ -9,7 +9,7 @@ revisions:
       declared: LGPL-2.1-or-later
   14.0.0.Final:
     licensed:
-      declared: CC0-1.0
+      declared: LGPL-2.1-or-later
   15.1.0.Final:
     licensed:
       declared: LGPL-2.1-or-later
