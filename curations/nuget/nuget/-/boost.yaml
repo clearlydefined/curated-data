@@ -126,3 +126,6 @@ revisions:
   1.83.0:
     licensed:
       declared: BSL-1.0
+  1.84.0:
+    licensed:
+      declared: BSL-1.0
