@@ -1,0 +1,8 @@
+coordinates:
+  name: Aspose.Imaging
+  provider: nuget
+  type: nuget
+revisions:
+  23.11.0:
+    licensed:
+      declared: OTHER
