@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.jgit.ssh.apache
+  namespace: org.eclipse.jgit
+  provider: mavencentral
+  type: maven
+revisions:
+  6.6.1.202309021850-r:
+    licensed:
+      declared: BSD-3-Clause
