@@ -123,3 +123,6 @@ revisions:
   0.28.0:
     licensed:
       declared: MIT
+  0.29.0:
+    licensed:
+      declared: MIT 
