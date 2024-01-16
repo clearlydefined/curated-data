@@ -78,3 +78,6 @@ revisions:
   2.0.320:
     licensed:
       declared: GPL-2.0-only WITH GCC-exception-2.0
+  2.0.321:
+    licensed:
+      declared: GPL-2.0-only WITH GCC-exception-2.0
