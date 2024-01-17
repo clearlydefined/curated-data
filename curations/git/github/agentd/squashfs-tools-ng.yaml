@@ -1,0 +1,9 @@
+coordinates:
+  name: squashfs-tools-ng
+  namespace: agentd
+  provider: github
+  type: git
+revisions:
+  b96f0fc154feef531be76034bf6e38925636146f:
+    licensed:
+      declared: LGPL-3.0-or-later AND GPL-3.0-or-later
