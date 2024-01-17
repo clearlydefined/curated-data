@@ -1,0 +1,8 @@
+coordinates:
+  name: MicroElements.OpenApi.FluentValidation
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.0:
+    licensed:
+      declared: MIT

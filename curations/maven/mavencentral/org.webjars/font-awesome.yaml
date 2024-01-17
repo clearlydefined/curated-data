@@ -1,0 +1,9 @@
+coordinates:
+  name: font-awesome
+  namespace: org.webjars
+  provider: mavencentral
+  type: maven
+revisions:
+  6.4.2:
+    licensed:
+      declared: CC-BY-3.0
