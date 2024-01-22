@@ -1,0 +1,8 @@
+coordinates:
+  name: Rx_Experimental-Testing
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.11111:
+    licensed:
+      declared: OTHER
