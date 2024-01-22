@@ -1,0 +1,8 @@
+coordinates:
+  name: xlwings
+  provider: pypi
+  type: pypi
+revisions:
+  0.29.1:
+    licensed:
+      declared: NONE
