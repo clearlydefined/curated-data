@@ -1,6 +1,6 @@
 coordinates:
   name: v2
-  namespace: github.com%2Fklauspost%2Fcpuid
+  namespace: github.com%2fklauspost%2fcpuid
   provider: golang
   type: go
 revisions:
@@ -29,5 +29,8 @@ revisions:
     licensed:
       declared: MIT
   v2.2.5:
+    licensed:
+      declared: MIT
+  v2.2.6:
     licensed:
       declared: MIT
