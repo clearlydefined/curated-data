@@ -1,0 +1,17 @@
+coordinates:
+  name: commons-io
+  namespace: commons-io
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  2.15.0:
+    described:
+      sourceLocation:
+        name: commons-io
+        namespace: apache
+        provider: github
+        revision: 6bb8020d40f1a4b947ff26949843def5d60292d0
+        type: git
+        url: 'https://github.com/apache/commons-io/commit/6bb8020d40f1a4b947ff26949843def5d60292d0'
+    licensed:
+      declared: Apache-2.0
