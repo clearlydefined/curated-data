@@ -5,69 +5,69 @@ coordinates:
 revisions:
   3.10.0.0:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   3.10.0.1:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   3.10.0.2:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   3.6.2:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   3.6.2.1:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   3.6.5:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   3.6.6:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   3.7.2:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   3.7.4:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   3.7.4.1:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   3.7.4.2:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   3.7.4.3:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   4.0.0:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   4.0.1:
     described:
       releaseDate: '2021-11-30'
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   4.1.1:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   4.2.0:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   4.3.0:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   4.4.0:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   4.6.3:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   4.7.0:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   4.7.1:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   4.9.0:
     licensed:
       declared: PSF-2.0
