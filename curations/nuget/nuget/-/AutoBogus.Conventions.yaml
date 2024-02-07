@@ -1,0 +1,8 @@
+coordinates:
+  name: AutoBogus.Conventions
+  provider: nuget
+  type: nuget
+revisions:
+  2.13.1:
+    licensed:
+      declared: MIT

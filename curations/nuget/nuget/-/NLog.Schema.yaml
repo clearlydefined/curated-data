@@ -165,3 +165,6 @@ revisions:
   5.2.0:
     licensed:
       declared: BSD-3-Clause
+  5.2.8:
+    licensed:
+      declared: BSD-3-Clause
