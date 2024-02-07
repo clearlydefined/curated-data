@@ -1,0 +1,8 @@
+coordinates:
+  name: ZetaIpc
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.4.12:
+    licensed:
+      declared: Apache-2.0

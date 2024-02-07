@@ -1,0 +1,8 @@
+coordinates:
+  name: prettytable
+  provider: pypi
+  type: pypi
+revisions:
+  3.9.0:
+    licensed:
+      declared: BSD-3-Clause
