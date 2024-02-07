@@ -13,3 +13,6 @@ revisions:
   6.51.0:
     licensed:
       declared: OTHER
+  6.55.0:
+    licensed:
+      declared: BSD-4-Clause
