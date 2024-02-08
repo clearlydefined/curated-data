@@ -363,3 +363,6 @@ revisions:
   4.0.91:
     licensed:
       declared: OTHER
+  6.0.5:
+    licensed:
+      declared: MIT
