@@ -1,0 +1,9 @@
+coordinates:
+    type: gem
+    provider: rubygems
+    namespace: '-'
+    name: webmock
+revisions:
+    3.19.1:
+        licensed:
+            declared: MIT
