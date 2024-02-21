@@ -1,0 +1,9 @@
+coordinates:
+  name: nv-codec-headers
+  namespace: ffmpeg
+  provider: github
+  type: git
+revisions:
+  1889e62e2d35ff7aa9baca2bceb14f053785e6f1:
+    licensed:
+      declared: MIT
