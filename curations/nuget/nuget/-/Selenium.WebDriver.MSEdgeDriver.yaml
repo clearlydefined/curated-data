@@ -85,6 +85,9 @@ revisions:
   107.0.1402.2-pre:
     licensed:
       declared: OTHER
+  109.0.1518.61:
+    licensed:
+      declared: Unlicense
   80.0.361.109:
     licensed:
       declared: OTHER
