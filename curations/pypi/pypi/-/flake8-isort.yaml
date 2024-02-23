@@ -1,0 +1,8 @@
+coordinates:
+  name: flake8-isort
+  provider: pypi
+  type: pypi
+revisions:
+  6.1.1:
+    licensed:
+      declared: GPL-2.0-only
