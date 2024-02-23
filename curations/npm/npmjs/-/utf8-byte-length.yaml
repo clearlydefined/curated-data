@@ -1,0 +1,8 @@
+coordinates:
+  name: utf8-byte-length
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.4:
+    licensed:
+      declared: MIT
