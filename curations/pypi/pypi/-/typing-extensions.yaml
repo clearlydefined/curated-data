@@ -50,6 +50,9 @@ revisions:
   4.1.1:
     licensed:
       declared: Python-2.0.1
+  4.10.0:
+    licensed:
+      declared: Python-2.0.1
   4.2.0:
     licensed:
       declared: Python-2.0.1
