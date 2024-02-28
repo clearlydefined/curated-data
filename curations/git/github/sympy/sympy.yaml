@@ -1,0 +1,9 @@
+coordinates:
+  name: sympy
+  namespace: sympy
+  provider: github
+  type: git
+revisions:
+  8059df7394f648bf4be5a51752e6d343003c92e6:
+    licensed:
+      declared: BSD-3-Clause
