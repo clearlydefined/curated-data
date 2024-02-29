@@ -105,3 +105,6 @@ revisions:
   3.8.2:
     licensed:
       declared: PSF-2.0
+  3.8.3:
+    licensed:
+      declared: PSF-2.0
