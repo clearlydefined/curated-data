@@ -5,7 +5,7 @@ coordinates:
 revisions:
   5.10.0:
     licensed:
-      declared: CPL-1.0
+      declared: CC-BY-4.0 AND MIT AND OFL-1.1
   5.15.3:
     licensed:
       declared: CC-BY-4.0 AND MIT AND OFL-1.1
