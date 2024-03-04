@@ -1,0 +1,9 @@
+coordinates:
+  name: croaring
+  namespace: roaringbitmap
+  provider: github
+  type: git
+revisions:
+  3fa688d30a1bbaccbfcf95ce8c674e6d75ea0453:
+    licensed:
+      declared: MIT
