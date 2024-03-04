@@ -1,0 +1,9 @@
+coordinates:
+  name: core
+  namespace: '@ngx-translate'
+  provider: npmjs
+  type: npm
+revisions:
+  15.0.0:
+    licensed:
+      declared: MIT
