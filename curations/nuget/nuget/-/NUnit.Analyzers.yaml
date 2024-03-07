@@ -1,0 +1,8 @@
+coordinates:
+  name: NUnit.Analyzers
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.1:
+    licensed:
+      declared: MIT
