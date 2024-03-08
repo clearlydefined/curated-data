@@ -1,0 +1,9 @@
+coordinates:
+  name: v2
+  namespace: github.com%2Fjeffail%2Fgabs
+  provider: golang
+  type: go
+revisions:
+  v2.7.0:
+    licensed:
+      declared: MIT
