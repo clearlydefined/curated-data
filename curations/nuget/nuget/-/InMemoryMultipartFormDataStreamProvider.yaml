@@ -1,0 +1,8 @@
+coordinates:
+  name: InMemoryMultipartFormDataStreamProvider
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.1:
+    licensed:
+      declared: CPL-1.0
