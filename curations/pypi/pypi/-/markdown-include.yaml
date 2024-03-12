@@ -6,3 +6,6 @@ revisions:
   0.8.0:
     licensed:
       declared: GPL-3.0-only
+  0.8.1:
+    licensed:
+      declared: GPL-3.0-only
