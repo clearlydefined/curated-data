@@ -8,4 +8,4 @@ revisions:
       declared: GPL-2.0-only WITH GCC-exception-2.0
   2.0.21:
     licensed:
-      declared: GPL-2.0-with-GCC-exception
+      declared: GPL-2.0-only WITH GCC-exception-2.0
