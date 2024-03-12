@@ -1,0 +1,9 @@
+coordinates:
+  name: jericho-html
+  namespace: net.htmlparser.jericho
+  provider: mavencentral
+  type: maven
+revisions:
+  '3.4':
+    licensed:
+      declared: Apache-2.0 OR EPL-1.0
