@@ -1,5 +1,5 @@
 coordinates:
-  name: rx_experimental-main
+  name: Rx_Experimental-Main
   provider: nuget
   type: nuget
 revisions:

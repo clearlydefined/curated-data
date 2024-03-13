@@ -1,8 +1,8 @@
 coordinates:
-  name: snapshooter.xunit
+  name: ScriptSharp
   provider: nuget
   type: nuget
 revisions:
-  0.13.0:
+  0.7.5.1:
     licensed:
-      declared: MIT
+      declared: Apache-2.0

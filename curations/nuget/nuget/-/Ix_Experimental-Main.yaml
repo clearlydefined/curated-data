@@ -1,8 +1,8 @@
 coordinates:
-  name: adminlte.template
+  name: Ix_Experimental-Main
   provider: nuget
   type: nuget
 revisions:
-  0.0.2.1:
+  1.1.10823:
     licensed:
-      declared: NONE
+      declared: OTHER
