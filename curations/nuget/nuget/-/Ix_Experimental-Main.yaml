@@ -1,8 +1,8 @@
 coordinates:
-  name: workflowcore
+  name: Ix_Experimental-Main
   provider: nuget
   type: nuget
 revisions:
-  3.9.0:
+  1.1.10823:
     licensed:
-      declared: MIT
+      declared: OTHER

@@ -1,5 +1,5 @@
 coordinates:
-  name: springcomp.gppg.runtime
+  name: Springcomp.GPPG.Runtime
   provider: nuget
   type: nuget
 revisions:
