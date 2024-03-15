@@ -1,12 +1,9 @@
 coordinates:
-  name: styles
+  name: react
   namespace: '@ag-grid-community'
   provider: npmjs
   type: npm
 revisions:
-  29.0.0:
-    licensed:
-      declared: MIT
   31.1.1:
     licensed:
       declared: MIT
