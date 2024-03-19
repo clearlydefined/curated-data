@@ -1,5 +1,5 @@
 coordinates:
-  name: styles
+  name: client-side-row-model
   namespace: '@ag-grid-community'
   provider: npmjs
   type: npm
