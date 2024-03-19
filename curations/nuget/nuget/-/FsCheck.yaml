@@ -36,3 +36,6 @@ revisions:
   3.0.0-alpha4:
     licensed:
       declared: BSD-3-Clause
+  3.0.0-rc1:
+    licensed:
+      declared: BSD-3-Clause
