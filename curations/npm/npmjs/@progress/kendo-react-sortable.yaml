@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-react-sortable
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  5.19.0:
+    licensed:
+      declared: OTHER
