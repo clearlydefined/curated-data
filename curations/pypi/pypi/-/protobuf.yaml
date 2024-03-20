@@ -363,3 +363,6 @@ revisions:
   4.25.3:
     licensed:
       declared: BSD-3-Clause
+  5.26.0:
+    licensed:
+      declared: BSD-3-Clause
