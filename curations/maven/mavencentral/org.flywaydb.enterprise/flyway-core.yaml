@@ -1,0 +1,9 @@
+coordinates:
+  name: flyway-core
+  namespace: org.flywaydb.enterprise
+  provider: mavencentral
+  type: maven
+revisions:
+  7.5.1:
+    licensed:
+      declared: OTHER
