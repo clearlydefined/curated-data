@@ -7,6 +7,9 @@ revisions:
   '0.16':
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '0.17':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
   '0.2':
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
