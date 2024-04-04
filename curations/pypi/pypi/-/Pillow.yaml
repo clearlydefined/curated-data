@@ -1,7 +1,6 @@
 coordinates:
     type: pypi
     provider: pypi
-    namespace: ""
     name: Pillow
 revisions:
     5.1.0:
@@ -75,4 +74,4 @@ revisions:
             declared: HPND
     10.3.0:
         licensed:
-            declared: HPND License
+            declared: HPND
