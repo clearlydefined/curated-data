@@ -5,4 +5,4 @@ coordinates:
 revisions:
   0.17029-1_all:
     licensed:
-      declared: Artistic-1.0-Perl
+      declared: Artistic-1.0-Perl OR GPL-1.0-or-later
