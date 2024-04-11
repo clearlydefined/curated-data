@@ -351,6 +351,9 @@ revisions:
   4.22.3:
     licensed:
       declared: BSD-3-Clause
+  4.23.3:
+    licensed:
+      declared: BSD-3-Clause
   4.23.4:
     licensed:
       declared: BSD-3-Clause
