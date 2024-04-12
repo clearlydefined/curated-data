@@ -1,6 +1,6 @@
 coordinates:
   name: jsondiff
-  namespace: github.com%2fwi2l
+  namespace: github.com%2FwI2L
   provider: golang
   type: go
 revisions:
