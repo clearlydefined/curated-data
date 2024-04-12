@@ -1,0 +1,9 @@
+coordinates:
+  name: classindex-transformer
+  namespace: org.atteo.classindex
+  provider: mavencentral
+  type: maven
+revisions:
+  '3.13':
+    licensed:
+      declared: Apache-2.0
