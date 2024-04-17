@@ -1,0 +1,9 @@
+coordinates:
+  name: pmd-jsp
+  namespace: net.sourceforge.pmd
+  provider: mavencentral
+  type: maven
+revisions:
+  7.0.0:
+    licensed:
+      declared: OTHER
