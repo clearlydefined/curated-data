@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.mail-api
+  namespace: jakarta.mail
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.1:
+    licensed:
+      declared: EPL-2.0
