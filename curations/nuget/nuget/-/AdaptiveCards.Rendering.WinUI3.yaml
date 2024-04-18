@@ -1,0 +1,8 @@
+coordinates:
+  name: AdaptiveCards.Rendering.WinUI3
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0-beta:
+    licensed:
+      declared: MIT
