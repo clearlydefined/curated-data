@@ -18,3 +18,6 @@ revisions:
   '0.30':
     licensed:
       declared: Unlicense
+  '0.31':
+    licensed:
+      declared: Unlicense
