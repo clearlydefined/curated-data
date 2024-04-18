@@ -1,0 +1,24 @@
+coordinates:
+  name: chagpt.js
+  namespace: '@kudoai'
+  provider: npmjs
+  type: npm
+revisions:
+  2.6.3:
+    licensed:
+      declared: MIT
+  2.6.4:
+    licensed:
+      declared: MIT
+  2.6.5:
+    licensed:
+      declared: MIT
+  2.6.6:
+    licensed:
+      declared: MIT
+  2.6.7:
+    licensed:
+      declared: MIT
+  2.6.8:
+    licensed:
+      declared: MIT
