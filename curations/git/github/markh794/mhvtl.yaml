@@ -1,0 +1,9 @@
+coordinates:
+  name: mhvtl
+  namespace: markh794
+  provider: github
+  type: git
+revisions:
+  01e1cacd73e78caed3b82d935de0f6bb7746cf5d:
+    licensed:
+      declared: GPL-2.0-only
