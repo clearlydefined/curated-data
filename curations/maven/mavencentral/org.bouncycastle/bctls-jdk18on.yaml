@@ -6,4 +6,4 @@ coordinates:
 revisions:
   '1.77':
     licensed:
-      declared: LicenseRef-BC
+      declared: MIT
