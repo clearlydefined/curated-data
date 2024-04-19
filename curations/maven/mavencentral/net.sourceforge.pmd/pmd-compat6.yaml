@@ -1,0 +1,9 @@
+coordinates:
+  name: pmd-compat6
+  namespace: net.sourceforge.pmd
+  provider: mavencentral
+  type: maven
+revisions:
+  7.0.0:
+    licensed:
+      declared: OTHER
