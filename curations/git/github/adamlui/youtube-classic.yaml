@@ -1,0 +1,9 @@
+coordinates:
+  name: youtube-classic
+  namespace: adamlui
+  provider: github
+  type: git
+revisions:
+  67a949720b577d4a1d291ceb8f2e1dae9c881462:
+    licensed:
+      declared: MIT
