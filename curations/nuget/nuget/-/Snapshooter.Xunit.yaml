@@ -9,6 +9,9 @@ revisions:
   0.14.0:
     licensed:
       declared: MIT
+  0.14.1:
+    licensed:
+      declared: MIT
   0.5.5:
     licensed:
       declared: MIT
