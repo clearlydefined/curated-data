@@ -6,6 +6,9 @@ revisions:
   17.0.2:
     licensed:
       declared: OTHER
+  17.10.2:
+    licensed:
+      declared: NONE
   20.0.2:
     licensed:
       declared: OTHER
