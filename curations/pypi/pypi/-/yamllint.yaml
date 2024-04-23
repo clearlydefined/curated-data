@@ -6,3 +6,6 @@ revisions:
   1.18.0:
     licensed:
       declared: GPL-3.0-or-later
+  1.35.1:
+    licensed:
+      declared: GPL-3.0-or-later
