@@ -6,3 +6,6 @@ revisions:
   0.100.1:
     licensed:
       declared: ISC
+  0.100.2:
+    licensed:
+      declared: ISC AND BSD-3-Clause
