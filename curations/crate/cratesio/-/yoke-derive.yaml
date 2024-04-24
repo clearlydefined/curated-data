@@ -1,0 +1,8 @@
+coordinates:
+  name: yoke-derive
+  provider: cratesio
+  type: crate
+revisions:
+  0.7.2:
+    licensed:
+      declared: OTHER
