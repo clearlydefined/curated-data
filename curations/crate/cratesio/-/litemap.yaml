@@ -1,0 +1,8 @@
+coordinates:
+  name: litemap
+  provider: cratesio
+  type: crate
+revisions:
+  0.7.1:
+    licensed:
+      declared: OTHER
