@@ -1,0 +1,8 @@
+coordinates:
+  name: zerovec
+  provider: cratesio
+  type: crate
+revisions:
+  0.10.0:
+    licensed:
+      declared: OTHER
