@@ -1,0 +1,8 @@
+coordinates:
+  name: writeable
+  provider: cratesio
+  type: crate
+revisions:
+  0.5.3:
+    licensed:
+      declared: OTHER
