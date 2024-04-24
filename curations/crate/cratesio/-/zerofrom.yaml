@@ -1,0 +1,8 @@
+coordinates:
+  name: zerofrom
+  provider: cratesio
+  type: crate
+revisions:
+  0.1.3:
+    licensed:
+      declared: OTHER
