@@ -38,6 +38,14 @@ revisions:
     licensed:
       declared: OTHER
   1.17.0:
+    described:
+      sourceLocation:
+        name: curated-data
+        namespace: clearlydefined
+        provider: github
+        revision: 6cacfc18a8ab368babb5b5ea66dbcb52b01a611f
+        type: git
+        url: 'https://github.com/clearlydefined/curated-data/commit/6cacfc18a8ab368babb5b5ea66dbcb52b01a611f'
     licensed:
       declared: OTHER
   1.17.1:
