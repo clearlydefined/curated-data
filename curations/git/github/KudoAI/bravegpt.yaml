@@ -1,0 +1,9 @@
+coordinates:
+  name: bravegpt
+  namespace: KudoAI
+  provider: github
+  type: git
+revisions:
+  f6bb9b765516445d8de79c9967ea12c89d7bfaf5:
+    licensed:
+      declared: MIT

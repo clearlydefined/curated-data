@@ -366,3 +366,6 @@ revisions:
   6.0.5:
     licensed:
       declared: OTHER
+  6.1.0:
+    licensed:
+      declared: OTHER

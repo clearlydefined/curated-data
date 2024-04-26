@@ -1,0 +1,9 @@
+coordinates:
+  name: glassfish-corba-omgapi
+  namespace: org.glassfish.corba
+  provider: mavencentral
+  type: maven
+revisions:
+  4.2.2:
+    licensed:
+      declared: BSD-3-Clause

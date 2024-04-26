@@ -1,0 +1,9 @@
+coordinates:
+  name: generate
+  namespace: github.com%2Fajstarks%2Fdeck
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20210309230005-c3f852c02e19:
+    licensed:
+      declared: CC-BY-4.0
