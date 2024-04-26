@@ -5,13 +5,13 @@ coordinates:
 revisions:
   2.8.4:
     licensed:
-      declared: OTHER
+      declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
   2.8.5:
     licensed:
-      declared: OTHER
+      declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
   2.9.3:
     licensed:
-      declared: OTHER
+      declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
   2.9.9:
     licensed:
-      declared: OTHER
+      declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
