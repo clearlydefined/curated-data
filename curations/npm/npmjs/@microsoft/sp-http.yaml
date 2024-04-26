@@ -50,6 +50,14 @@ revisions:
     licensed:
       declared: OTHER
   1.17.0:
+    described:
+      sourceLocation:
+        name: curated-data
+        namespace: clearlydefined
+        provider: github
+        revision: 07f3fe5d010c66c33af8e5cb24f98424ec60680d
+        type: git
+        url: 'https://github.com/clearlydefined/curated-data/commit/07f3fe5d010c66c33af8e5cb24f98424ec60680d'
     licensed:
       declared: OTHER
   1.17.1:
