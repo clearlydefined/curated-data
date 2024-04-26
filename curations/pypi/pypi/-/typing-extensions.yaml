@@ -71,6 +71,9 @@ revisions:
   4.7.0:
     licensed:
       declared: Python-2.0.1
+  4.7.0rc1:
+    licensed:
+      declared: Python-2.0.1
   4.7.1:
     licensed:
       declared: Python-2.0.1

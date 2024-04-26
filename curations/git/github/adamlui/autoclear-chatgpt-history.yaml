@@ -1,0 +1,9 @@
+coordinates:
+  name: autoclear-chatgpt-history
+  namespace: adamlui
+  provider: github
+  type: git
+revisions:
+  78637ba2f4a521b5fef617076c50c51a5c54c59f:
+    licensed:
+      declared: MIT
