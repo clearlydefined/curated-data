@@ -1,0 +1,57 @@
+coordinates:
+  name: xlwings
+  provider: pypi
+  type: pypi
+revisions:
+  0.29.1:
+    files:
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/__init__.py
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/_xlcalamine.py
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/_xlremote.py
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/embedded_code.py
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/module_permissions.py
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/utils.py
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/reports/__init__.py
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/reports/filters.py
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/reports/image.py
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/reports/main.py
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/reports/markdown.py
+      - attributions:
+          - Copyright (c) Zoomer Analytics GmbH.
+        license: OTHER OR PolyForm-Noncommercial-1.0.0
+        path: xlwings-0.29.1/xlwings/pro/reports/pdf.py
+    licensed:
+      declared: BSD-3-Clause

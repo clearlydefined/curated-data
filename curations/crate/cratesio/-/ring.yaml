@@ -66,3 +66,6 @@ revisions:
   0.17.7:
     licensed:
       declared: ISC
+  0.17.8:
+    licensed:
+      declared: ISC

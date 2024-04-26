@@ -1,0 +1,9 @@
+coordinates:
+  name: core
+  namespace: '@ag-grid-community'
+  provider: npmjs
+  type: npm
+revisions:
+  31.1.1:
+    licensed:
+      declared: MIT

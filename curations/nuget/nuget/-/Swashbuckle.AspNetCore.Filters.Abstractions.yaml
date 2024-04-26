@@ -1,0 +1,8 @@
+coordinates:
+  name: Swashbuckle.AspNetCore.Filters.Abstractions
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.0:
+    licensed:
+      declared: MIT

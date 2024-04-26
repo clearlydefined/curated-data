@@ -1,0 +1,9 @@
+coordinates:
+  name: javahelp
+  namespace: javax.help
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.05:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: boost_system-vc120
+  provider: nuget
+  type: nuget
+revisions:
+  1.58.0:
+    licensed:
+      declared: BSL-1.0

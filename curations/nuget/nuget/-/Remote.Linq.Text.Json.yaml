@@ -1,0 +1,8 @@
+coordinates:
+  name: Remote.Linq.Text.Json
+  provider: nuget
+  type: nuget
+revisions:
+  7.1.0:
+    licensed:
+      declared: MIT

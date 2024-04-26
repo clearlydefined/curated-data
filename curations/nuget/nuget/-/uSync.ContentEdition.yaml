@@ -1,0 +1,8 @@
+coordinates:
+  name: uSync.ContentEdition
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.9:
+    licensed:
+      declared: MPL-2.0
