@@ -1,0 +1,9 @@
+coordinates:
+  name: dracut
+  namespace: dracutdevs
+  provider: github
+  type: git
+revisions:
+  4980bad34775da715a2639b736cba5e65a8a2604:
+    licensed:
+      declared: GPL-2.0-or-later
