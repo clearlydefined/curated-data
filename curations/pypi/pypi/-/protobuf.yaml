@@ -360,6 +360,9 @@ revisions:
   4.24.4:
     licensed:
       declared: BSD-3-Clause
+  4.25.0:
+    licensed:
+      declared: BSD-3-Clause
   4.25.1:
     licensed:
       declared: BSD-3-Clause
