@@ -1,0 +1,8 @@
+coordinates:
+  name: AvroConvert
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.3:
+    licensed:
+      declared: CPL-1.0
