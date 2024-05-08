@@ -63,3 +63,6 @@ revisions:
   1.7.0.2:
     licensed:
       declared: MIT
+  1.7.0.3:
+    licensed:
+      declared: MIT
