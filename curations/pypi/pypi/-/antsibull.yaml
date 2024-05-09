@@ -1,0 +1,8 @@
+coordinates:
+  name: antsibull
+  provider: pypi
+  type: pypi
+revisions:
+  0.58.0:
+    licensed:
+      declared: GPL-3.0-or-later
