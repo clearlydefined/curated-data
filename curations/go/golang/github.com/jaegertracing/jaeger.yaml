@@ -1,6 +1,6 @@
 coordinates:
   name: jaeger
-  namespace: github.com%2fjaegertracing
+  namespace: github.com%2Fjaegertracing
   provider: golang
   type: go
 revisions:
@@ -23,5 +23,8 @@ revisions:
     licensed:
       declared: Apache-2.0
   v1.51.0:
+    licensed:
+      declared: Apache-2.0
+  v1.53.0:
     licensed:
       declared: Apache-2.0

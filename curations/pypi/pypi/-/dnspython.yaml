@@ -99,3 +99,6 @@ revisions:
   2.1.0rc1:
     licensed:
       declared: ISC
+  2.4.2:
+    licensed:
+      declared: ISC

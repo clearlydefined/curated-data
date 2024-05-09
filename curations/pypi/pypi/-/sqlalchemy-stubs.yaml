@@ -1,0 +1,8 @@
+coordinates:
+  name: sqlalchemy-stubs
+  provider: pypi
+  type: pypi
+revisions:
+  '0.4':
+    licensed:
+      declared: Apache-2.0

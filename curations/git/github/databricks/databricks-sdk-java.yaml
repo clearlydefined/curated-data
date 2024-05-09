@@ -1,0 +1,9 @@
+coordinates:
+  name: databricks-sdk-java
+  namespace: databricks
+  provider: github
+  type: git
+revisions:
+  454d98322c183cb60e313c5bff81a54ae46f8eaa:
+    licensed:
+      declared: OTHER

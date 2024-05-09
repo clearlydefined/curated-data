@@ -1,0 +1,8 @@
+coordinates:
+  name: Bundle.Microsoft.Office.Interop
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.4569:
+    licensed:
+      declared: NONE

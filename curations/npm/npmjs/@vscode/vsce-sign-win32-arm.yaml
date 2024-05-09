@@ -1,0 +1,9 @@
+coordinates:
+  name: vsce-sign-win32-arm
+  namespace: '@vscode'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0:
+    licensed:
+      declared: OTHER

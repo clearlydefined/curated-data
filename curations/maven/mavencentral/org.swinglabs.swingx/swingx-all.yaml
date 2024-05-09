@@ -1,0 +1,9 @@
+coordinates:
+  name: swingx-all
+  namespace: org.swinglabs.swingx
+  provider: mavencentral
+  type: maven
+revisions:
+  1.6.5-1:
+    licensed:
+      declared: LGPL-2.1-or-later

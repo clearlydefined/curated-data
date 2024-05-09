@@ -1,8 +1,0 @@
-coordinates:
-  name: springcomp.gppg.runtime
-  provider: nuget
-  type: nuget
-revisions:
-  1.2.4:
-    licensed:
-      declared: BSD-2-Clause-Views

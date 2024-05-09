@@ -1,0 +1,12 @@
+coordinates:
+  name: kendo-react-upload
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  4.14.1:
+    licensed:
+      declared: OTHER
+  5.19.0:
+    licensed:
+      declared: OTHER
