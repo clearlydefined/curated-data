@@ -1,8 +1,0 @@
-coordinates:
-  name: workflowcore
-  provider: nuget
-  type: nuget
-revisions:
-  3.9.0:
-    licensed:
-      declared: MIT

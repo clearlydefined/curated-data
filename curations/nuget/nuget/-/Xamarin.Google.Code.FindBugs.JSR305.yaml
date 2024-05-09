@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Google.Code.FindBugs.JSR305
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.2.9:
+    licensed:
+      declared: MIT

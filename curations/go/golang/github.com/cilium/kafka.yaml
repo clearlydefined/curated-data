@@ -1,0 +1,9 @@
+coordinates:
+  name: kafka
+  namespace: github.com%2Fcilium
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20180809090225-01ce283b732b:
+    licensed:
+      declared: MIT

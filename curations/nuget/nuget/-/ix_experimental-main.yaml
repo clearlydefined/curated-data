@@ -1,8 +1,0 @@
-coordinates:
-  name: ix_experimental-main
-  provider: nuget
-  type: nuget
-revisions:
-  1.1.10823:
-    licensed:
-      declared: OTHER

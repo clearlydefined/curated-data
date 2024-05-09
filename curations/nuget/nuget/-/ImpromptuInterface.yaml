@@ -9,3 +9,6 @@ revisions:
   7.0.1-beta40:
     licensed:
       declared: Apache-2.0
+  8.0.4:
+    licensed:
+      declared: Apache-2.0

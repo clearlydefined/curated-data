@@ -1,8 +1,0 @@
-coordinates:
-  name: rx_experimental-main
-  provider: nuget
-  type: nuget
-revisions:
-  1.1.11111:
-    licensed:
-      declared: OTHER

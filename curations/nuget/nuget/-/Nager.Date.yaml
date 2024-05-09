@@ -1,0 +1,8 @@
+coordinates:
+  name: Nager.Date
+  provider: nuget
+  type: nuget
+revisions:
+  1.22.1:
+    licensed:
+      declared: MIT

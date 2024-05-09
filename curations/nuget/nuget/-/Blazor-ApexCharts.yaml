@@ -1,0 +1,8 @@
+coordinates:
+  name: Blazor-ApexCharts
+  provider: nuget
+  type: nuget
+revisions:
+  0.8.2-beta:
+    licensed:
+      declared: MIT

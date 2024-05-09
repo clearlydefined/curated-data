@@ -1,8 +1,0 @@
-coordinates:
-  name: adminlte.template
-  provider: nuget
-  type: nuget
-revisions:
-  0.0.2.1:
-    licensed:
-      declared: NONE

@@ -1,0 +1,36 @@
+coordinates:
+  name: jericho-html
+  namespace: net.htmlparser.jericho
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.3':
+    licensed:
+      declared: LGPL-2.1-or-later
+  '2.4':
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1-or-later
+  '2.5':
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1-or-later
+  '2.6':
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1-or-later
+  2.6.1:
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1-or-later
+  '3.0':
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1-or-later
+  '3.1':
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1-or-later
+  '3.2':
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1-or-later
+  '3.3':
+    licensed:
+      declared: EPL-1.0 OR LGPL-2.1-or-later
+  '3.4':
+    licensed:
+      declared: Apache-2.0 OR EPL-1.0 OR LGPL-2.1-or-later

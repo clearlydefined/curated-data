@@ -1,0 +1,8 @@
+coordinates:
+  name: ScratchPad.NPOI.HWPF
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.6:
+    licensed:
+      declared: Apache-2.0

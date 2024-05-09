@@ -6,7 +6,13 @@ coordinates:
 revisions:
   2.3.0:
     licensed:
-      declared: Apache-2.0
+      declared: BSD-3-Clause
   2.5.1:
+    licensed:
+      declared: BSD-3-Clause
+  2.7.0:
+    licensed:
+      declared: BSD-3-Clause
+  2.9.0:
     licensed:
       declared: BSD-3-Clause

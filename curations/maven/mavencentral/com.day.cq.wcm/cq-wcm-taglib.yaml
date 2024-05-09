@@ -1,0 +1,9 @@
+coordinates:
+  name: cq-wcm-taglib
+  namespace: com.day.cq.wcm
+  provider: mavencentral
+  type: maven
+revisions:
+  5.7.4:
+    licensed:
+      declared: OTHER

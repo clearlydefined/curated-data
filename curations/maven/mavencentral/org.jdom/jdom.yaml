@@ -7,3 +7,6 @@ revisions:
   '1.1':
     licensed:
       declared: Saxpath
+  2.0.2:
+    licensed:
+      declared: Saxpath

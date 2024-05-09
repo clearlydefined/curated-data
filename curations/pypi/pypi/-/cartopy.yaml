@@ -1,0 +1,59 @@
+coordinates:
+  name: cartopy
+  provider: pypi
+  type: pypi
+revisions:
+  0.11.0:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.12.0.4:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.12.0.5:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.13.0:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.13.1:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.14.0:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.14.2:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.15.1:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.16.0:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.17.0:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.18.0:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.20.0:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.20.1:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.20.2:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.20.3:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.21.0:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.21.1:
+    licensed:
+      declared: LGPL-3.0-or-later
+  0.22.0:
+    licensed:
+      declared: LGPL-3.0-or-later
