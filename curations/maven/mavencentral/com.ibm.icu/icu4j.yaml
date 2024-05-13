@@ -40,3 +40,6 @@ revisions:
   '73.2':
     licensed:
       declared: Unicode-DFS-2016
+  '75.1':
+    licensed:
+      declared: Unicode-TOU
