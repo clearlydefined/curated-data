@@ -10,3 +10,6 @@ revisions:
   7.14.0:
     licensed:
       declared: SSPL-1.0 OR OTHER
+  7.17.13:
+    licensed:
+      declared: SSPL-1.0
