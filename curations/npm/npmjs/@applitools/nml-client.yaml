@@ -1,0 +1,9 @@
+coordinates:
+  name: nml-client
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.3.21:
+    licensed:
+      declared: NCGL-UK-2.0
