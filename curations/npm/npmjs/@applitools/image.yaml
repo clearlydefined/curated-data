@@ -1,0 +1,9 @@
+coordinates:
+  name: image
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.22:
+    licensed:
+      declared: NCGL-UK-2.0
