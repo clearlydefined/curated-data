@@ -1,0 +1,9 @@
+coordinates:
+  name: core-base
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.24:
+    licensed:
+      declared: NCGL-UK-2.0
