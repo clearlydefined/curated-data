@@ -21,3 +21,6 @@ revisions:
   18.1.2:
     licensed:
       declared: Apache-2.0 WITH LLVM-exception
+  18.1.4:
+    licensed:
+      declared: Artistic-2.0
