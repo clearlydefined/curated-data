@@ -7,3 +7,6 @@ revisions:
   1.2.13:
     licensed:
       declared: OTHER
+  1.7.0:
+    licensed:
+      declared: NCGL-UK-2.0
