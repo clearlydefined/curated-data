@@ -1,0 +1,9 @@
+coordinates:
+  name: execution-grid-tunnel
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.8:
+    licensed:
+      declared: NCGL-UK-2.0
