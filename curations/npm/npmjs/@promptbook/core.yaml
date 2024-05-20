@@ -1,0 +1,9 @@
+coordinates:
+  name: core
+  namespace: '@promptbook'
+  provider: npmjs
+  type: npm
+revisions:
+  0.44.0-1:
+    licensed:
+      declared: CC-BY-4.0
