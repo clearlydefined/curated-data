@@ -6,6 +6,17 @@ revisions:
   2.0.22:
     licensed:
       declared: Apache-2.0
+  3.0.2:
+    described:
+      sourceLocation:
+        name: fsharp.control.asyncseq
+        namespace: fsprojects
+        provider: github
+        revision: f4f28381bff5be93dae86525bd1edb2f348cb014
+        type: git
+        url: 'https://github.com/fsprojects/fsharp.control.asyncseq/commit/f4f28381bff5be93dae86525bd1edb2f348cb014'
+    licensed:
+      declared: Apache-2.0
   3.2.1:
     described:
       sourceLocation:

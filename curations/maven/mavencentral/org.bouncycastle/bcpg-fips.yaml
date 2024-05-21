@@ -1,15 +1,9 @@
 coordinates:
-  name: bc-fips
+  name: bcpg-fips
   namespace: org.bouncycastle
   provider: mavencentral
   type: maven
 revisions:
-  1.0.2:
-    licensed:
-      declared: MIT
-  1.0.2.4:
-    licensed:
-      declared: MIT
-  1.0.2.5:
+  1.0.4:
     licensed:
       declared: MIT
