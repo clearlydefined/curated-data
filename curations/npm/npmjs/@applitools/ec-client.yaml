@@ -1,12 +1,9 @@
 coordinates:
-  name: core-base
+  name: ec-client
   namespace: '@applitools'
   provider: npmjs
   type: npm
 revisions:
-  1.1.24:
-    licensed:
-      declared: OTHER
-  1.1.32:
+  1.2.11:
     licensed:
       declared: OTHER
