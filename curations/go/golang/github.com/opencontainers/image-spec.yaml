@@ -1,7 +1,6 @@
 coordinates:
   name: image-spec
-  namespace: github.com%2F
-  opencontainers
+  namespace: github.com%2Fopencontainers
   provider: golang
   type: go
 revisions:
