@@ -1,12 +1,9 @@
 coordinates:
-  name: screenshoter
+  name: ec-client
   namespace: '@applitools'
   provider: npmjs
   type: npm
 revisions:
-  3.3.12:
-    licensed:
-      declared: OTHER
-  3.7.19:
+  1.2.11:
     licensed:
       declared: OTHER

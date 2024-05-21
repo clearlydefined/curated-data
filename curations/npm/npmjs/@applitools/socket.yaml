@@ -1,12 +1,9 @@
 coordinates:
-  name: screenshoter
+  name: socket
   namespace: '@applitools'
   provider: npmjs
   type: npm
 revisions:
-  3.3.12:
-    licensed:
-      declared: OTHER
-  3.7.19:
+  1.1.14:
     licensed:
       declared: OTHER
