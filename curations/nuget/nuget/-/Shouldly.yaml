@@ -8,7 +8,7 @@ revisions:
       declared: BSD-3-Clause
   2.5.0:
     licensed:
-      declared: BSD-2-Clause
+      declared: BSD-3-Clause
   2.7.0:
     licensed:
       declared: BSD-3-Clause
