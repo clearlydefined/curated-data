@@ -1,0 +1,8 @@
+coordinates:
+  name: zc.lockfile
+  provider: pypi
+  type: pypi
+revisions:
+  3.0.post1:
+    licensed:
+      declared: ZPL-2.1
