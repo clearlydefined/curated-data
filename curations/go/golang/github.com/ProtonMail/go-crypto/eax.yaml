@@ -1,0 +1,9 @@
+coordinates:
+  name: eax
+  namespace: github.com%2FProtonMail%2Fgo-crypto
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20210428141323-04723f9f07d7:
+    licensed:
+      declared: BSD-3-Clause
