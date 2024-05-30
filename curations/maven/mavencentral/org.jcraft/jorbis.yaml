@@ -1,0 +1,9 @@
+coordinates:
+  name: jorbis
+  namespace: org.jcraft
+  provider: mavencentral
+  type: maven
+revisions:
+  0.0.17:
+    licensed:
+      declared: LGPL-2.0-or-later
