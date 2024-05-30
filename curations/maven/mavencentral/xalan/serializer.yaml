@@ -1,0 +1,9 @@
+coordinates:
+  name: serializer
+  namespace: xalan
+  provider: mavencentral
+  type: maven
+revisions:
+  2.7.3:
+    licensed:
+      declared: Apache-2.0
