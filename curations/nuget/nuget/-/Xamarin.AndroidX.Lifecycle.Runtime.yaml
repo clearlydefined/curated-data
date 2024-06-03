@@ -62,4 +62,7 @@ revisions:
       declared: MIT
   2.6.2.2:
     licensed:
-      declared: Apache-2.0 
+      declared: MIT
+  2.6.2.3:
+    licensed:
+      declared: MIT

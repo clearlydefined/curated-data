@@ -1,0 +1,16 @@
+coordinates:
+  name: CosmoStore.TableStorage
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.1:
+    described:
+      sourceLocation:
+        name: cosmostore
+        namespace: dzoukr
+        provider: github
+        revision: baadb0b762c8f4485207cbab6e78c1ce2d02688d
+        type: git
+        url: 'https://github.com/dzoukr/cosmostore/commit/baadb0b762c8f4485207cbab6e78c1ce2d02688d'
+    licensed:
+      declared: MIT
