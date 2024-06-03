@@ -1,0 +1,9 @@
+coordinates:
+  name: ec-client
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.11:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.xml.ws-api
+  namespace: jakarta.xml.ws
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.3:
+    licensed:
+      declared: BSD-3-Clause
