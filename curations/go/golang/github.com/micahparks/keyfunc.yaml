@@ -1,0 +1,9 @@
+coordinates:
+  name: keyfunc
+  namespace: github.com%2Fmicahparks
+  provider: golang
+  type: go
+revisions:
+  v1.9.0:
+    licensed:
+      declared: Apache-2.0
