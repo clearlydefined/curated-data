@@ -1,0 +1,9 @@
+coordinates:
+  name: execution-grid-client
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.39:
+    licensed:
+      declared: OTHER
