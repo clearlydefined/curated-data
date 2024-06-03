@@ -1,0 +1,9 @@
+coordinates:
+  name: eg-socks5-proxy-server
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  0.5.6:
+    licensed:
+      declared: OTHER
