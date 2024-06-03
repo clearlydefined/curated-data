@@ -1,0 +1,9 @@
+coordinates:
+  name: streambuffer
+  namespace: com.sun.xml.stream.buffer
+  provider: mavencentral
+  type: maven
+revisions:
+  1.5.10:
+    licensed:
+      declared: BSD-3-Clause

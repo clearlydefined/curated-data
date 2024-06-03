@@ -1,0 +1,16 @@
+coordinates:
+  name: CosmoStore
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.1:
+    described:
+      sourceLocation:
+        name: cosmostore
+        namespace: dzoukr
+        provider: github
+        revision: 269da711873ca2bae69aa851e37e1d022c6e3fb8
+        type: git
+        url: 'https://github.com/dzoukr/cosmostore/commit/269da711873ca2bae69aa851e37e1d022c6e3fb8'
+    licensed:
+      declared: MIT
