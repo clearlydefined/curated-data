@@ -16,3 +16,6 @@ revisions:
   v3.5.0:
     licensed:
       declared: Apache-2.0
+  v3.6.0:
+    licensed:
+      declared: Apache-2.0
