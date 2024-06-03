@@ -70,3 +70,6 @@ revisions:
   v3.3.25+incompatible:
     licensed:
       declared: Apache-2.0
+  v3.3.27+incompatible:
+    licensed:
+      declared: Apache-2.0

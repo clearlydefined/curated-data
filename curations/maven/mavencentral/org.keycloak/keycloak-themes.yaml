@@ -1,0 +1,9 @@
+coordinates:
+  name: keycloak-themes
+  namespace: org.keycloak
+  provider: mavencentral
+  type: maven
+revisions:
+  24.0.4:
+    licensed:
+      declared: Apache-2.0

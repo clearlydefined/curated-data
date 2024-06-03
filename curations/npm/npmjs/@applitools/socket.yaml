@@ -1,0 +1,9 @@
+coordinates:
+  name: socket
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.14:
+    licensed:
+      declared: OTHER
