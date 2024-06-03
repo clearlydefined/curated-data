@@ -7,6 +7,9 @@ revisions:
   3.3.12:
     licensed:
       declared: OTHER
+  3.7.19:
+    licensed:
+      declared: OTHER
   3.7.23:
     licensed:
-      declared: NCGL-UK-2.0
+      declared: OTHER
