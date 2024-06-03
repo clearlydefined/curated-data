@@ -7,11 +7,9 @@ revisions:
   1.2.13:
     licensed:
       declared: OTHER
-<<<<<<< clearlydefinedbot_240514_073351.400 -- Incoming Change
   1.3.22:
     licensed:
-      declared: NCGL-UK-2.0
-=======
+      declared: OTHER
   1.3.30:
     licensed:
       declared: OTHER
@@ -21,4 +19,3 @@ revisions:
   1.7.0:
     licensed:
       declared: OTHER
->>>>>>> master -- Current Change
