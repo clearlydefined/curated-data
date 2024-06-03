@@ -1,0 +1,9 @@
+coordinates:
+  name: kindsys
+  namespace: github.com%2Fgrafana
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20230508162304-452481b63482:
+    licensed:
+      declared: Apache-2.0
