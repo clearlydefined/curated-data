@@ -7,6 +7,9 @@ revisions:
   1.11.20:
     licensed:
       declared: OTHER
+  1.11.26:
+    licensed:
+      declared: OTHER
   1.5.4:
     licensed:
       declared: OTHER
