@@ -6,3 +6,6 @@ revisions:
   2.15.10:
     licensed:
       declared: GPL-3.0-or-later
+  2.15.9:
+    licensed:
+      declared: GPL-3.0-or-later
