@@ -1,0 +1,9 @@
+coordinates:
+  name: libseccomp
+  namespace: seccomp
+  provider: github
+  type: git
+revisions:
+  4bf70431a339a2886ab8c82e9a45378f30c6e6c7:
+    licensed:
+      declared: LGPL-2.1-only
