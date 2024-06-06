@@ -1,0 +1,8 @@
+coordinates:
+  name: Peaky
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.83-beta:
+    licensed:
+      declared: MIT
