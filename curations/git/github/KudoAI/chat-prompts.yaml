@@ -1,0 +1,9 @@
+coordinates:
+  name: chat-prompts
+  namespace: KudoAI
+  provider: github
+  type: git
+revisions:
+  b2505f1e0834c3c7c110f786f9a0f03701eb2124:
+    licensed:
+      declared: CC0-1.0 AND MIT
