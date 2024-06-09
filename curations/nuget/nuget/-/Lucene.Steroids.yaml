@@ -1,0 +1,8 @@
+coordinates:
+  name: Lucene.Steroids
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.9:
+    licensed:
+      declared: NONE
