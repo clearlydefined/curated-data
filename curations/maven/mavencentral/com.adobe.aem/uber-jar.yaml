@@ -1,0 +1,9 @@
+coordinates:
+  name: uber-jar
+  namespace: com.adobe.aem
+  provider: mavencentral
+  type: maven
+revisions:
+  6.5.19:
+    licensed:
+      declared: CDDL-1.0
