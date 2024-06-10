@@ -15,4 +15,4 @@ revisions:
       declared: OpenSSL
   b7896b3cb86d80206af14a14d69b0717786f2729:
     licensed:
-      declared: Apache-2.0
+      declared: SSLeay-standalone
