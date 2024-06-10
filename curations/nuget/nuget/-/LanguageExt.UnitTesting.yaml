@@ -1,11 +1,8 @@
 coordinates:
-  name: log4net.Appender.Azure
+  name: LanguageExt.UnitTesting
   provider: nuget
   type: nuget
 revisions:
-  1.4.0:
-    licensed:
-      declared: MIT
-  1.4.3:
+  3.4.0:
     licensed:
       declared: MIT

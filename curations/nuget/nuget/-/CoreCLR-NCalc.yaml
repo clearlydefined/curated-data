@@ -1,11 +1,8 @@
 coordinates:
-  name: log4net.Appender.Azure
+  name: CoreCLR-NCalc
   provider: nuget
   type: nuget
 revisions:
-  1.4.0:
-    licensed:
-      declared: MIT
-  1.4.3:
+  2.2.113:
     licensed:
       declared: MIT

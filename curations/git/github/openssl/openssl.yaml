@@ -13,3 +13,6 @@ revisions:
   8b1549a153a62e9878327d05aa3b6622b416ec10:
     licensed:
       declared: OpenSSL
+  b7896b3cb86d80206af14a14d69b0717786f2729:
+    licensed:
+      declared: SSLeay-standalone
