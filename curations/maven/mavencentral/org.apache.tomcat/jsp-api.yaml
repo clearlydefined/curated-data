@@ -1,0 +1,9 @@
+coordinates:
+  name: jsp-api
+  namespace: org.apache.tomcat
+  provider: mavencentral
+  type: maven
+revisions:
+  6.0.14:
+    licensed:
+      declared: CDDL-1.0
