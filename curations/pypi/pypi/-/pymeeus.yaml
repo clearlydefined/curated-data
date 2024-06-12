@@ -1,0 +1,8 @@
+coordinates:
+  name: pymeeus
+  provider: pypi
+  type: pypi
+revisions:
+  0.5.12:
+    licensed:
+      declared: LGPL-3.0-or-later
