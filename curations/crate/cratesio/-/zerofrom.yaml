@@ -1,12 +1,12 @@
 coordinates:
-    type: crate
-    provider: cratesio
-    namespace: ""
-    name: zerofrom
+  type: crate
+  provider: cratesio
+  namespace: ""
+  name: zerofrom
 revisions:
-    0.1.3:
-        licensed:
-            declared: Unicode-3.0
-    0.1.4:
-        licensed:
-            declared: UNICODE LICENSE V3
+  0.1.3:
+    licensed:
+    declared: Unicode-3.0
+  0.1.4:
+    licensed:
+    declared: Unicode-3.0
