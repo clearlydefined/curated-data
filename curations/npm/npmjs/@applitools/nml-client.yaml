@@ -10,3 +10,6 @@ revisions:
   1.3.29:
     licensed:
       declared: OTHER
+  1.7.0:
+    licensed:
+      declared: NCGL-UK-2.0
