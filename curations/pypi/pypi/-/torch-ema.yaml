@@ -1,0 +1,8 @@
+coordinates:
+  name: torch-ema
+  provider: pypi
+  type: pypi
+revisions:
+  '0.3':
+    licensed:
+      declared: MIT
