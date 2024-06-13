@@ -1,0 +1,9 @@
+coordinates:
+  name: asset-delivery-ktx
+  namespace: com.google.android.play
+  provider: mavengoogle
+  type: maven
+revisions:
+  2.2.2:
+    licensed:
+      declared: OTHER
