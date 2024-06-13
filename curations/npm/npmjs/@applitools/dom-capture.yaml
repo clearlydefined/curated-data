@@ -13,6 +13,9 @@ revisions:
   11.2.1:
     licensed:
       declared: OTHER
+  11.2.5:
+    licensed:
+      declared: OTHER
   8.0.1:
     licensed:
       declared: OTHER

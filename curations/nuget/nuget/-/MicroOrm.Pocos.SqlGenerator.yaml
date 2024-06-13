@@ -1,11 +1,8 @@
 coordinates:
-  name: CS-Script
+  name: MicroOrm.Pocos.SqlGenerator
   provider: nuget
   type: nuget
 revisions:
-  3.29.0:
-    licensed:
-      declared: MIT
-  3.8.8:
+  1.0.0.2:
     licensed:
       declared: MIT

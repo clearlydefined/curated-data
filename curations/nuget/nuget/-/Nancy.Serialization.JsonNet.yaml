@@ -1,11 +1,8 @@
 coordinates:
-  name: CS-Script
+  name: Nancy.Serialization.JsonNet
   provider: nuget
   type: nuget
 revisions:
-  3.29.0:
-    licensed:
-      declared: MIT
-  3.8.8:
+  2.0.0-clinteastwood:
     licensed:
       declared: MIT

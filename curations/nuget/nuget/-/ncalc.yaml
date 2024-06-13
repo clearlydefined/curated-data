@@ -1,11 +1,8 @@
 coordinates:
-  name: CS-Script
+  name: ncalc
   provider: nuget
   type: nuget
 revisions:
-  3.29.0:
-    licensed:
-      declared: MIT
-  3.8.8:
+  1.3.8:
     licensed:
       declared: MIT
