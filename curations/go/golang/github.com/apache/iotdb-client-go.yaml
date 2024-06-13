@@ -1,6 +1,6 @@
 coordinates:
   name: iotdb-client-go
-  namespace: github.com%2fapache
+  namespace: github.com%2Fapache
   provider: golang
   type: go
 revisions:
