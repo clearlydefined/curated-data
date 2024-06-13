@@ -1,0 +1,9 @@
+coordinates:
+  name: jaybird
+  namespace: firebirdsql
+  provider: github
+  type: git
+revisions:
+  06691ec44ed0858e86220c6af49f037acdb2a416:
+    licensed:
+      declared: LGPL-2.1-or-later AND BSD-3-Clause
