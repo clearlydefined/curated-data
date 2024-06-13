@@ -1,0 +1,8 @@
+coordinates:
+  name: pyqt5
+  provider: pypi
+  type: pypi
+revisions:
+  5.15.10:
+    licensed:
+      declared: GPL-3.0-only
