@@ -6,4 +6,7 @@ coordinates:
 revisions:
   1.0.15:
     licensed:
-      declared: OTHER
+      declared: NONE
+  2.1.8:
+    licensed:
+      declared: NONE
