@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-jms
+  namespace: org.springframework
+  provider: mavencentral
+  type: maven
+revisions:
+  5.3.34:
+    licensed:
+      declared: Apache-2.0

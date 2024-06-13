@@ -6,3 +6,6 @@ revisions:
   12.11.0:
     licensed:
       declared: GPL-2.0-only OR GPL-3.0-only OR OTHER
+  12.13.0:
+    licensed:
+      declared: GPL-2.0-only OR GPL-3.0-only OR OTHER
