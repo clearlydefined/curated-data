@@ -1,0 +1,9 @@
+coordinates:
+  name: cq-media-articles
+  namespace: com.adobe.cq.media
+  provider: mavencentral
+  type: maven
+revisions:
+  5.6.4:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,8 @@
+coordinates:
+  name: jayrock-json
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.16530.1:
+    licensed:
+      declared: LGPL-3.0-or-later
