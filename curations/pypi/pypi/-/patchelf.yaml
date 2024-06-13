@@ -1,0 +1,8 @@
+coordinates:
+  name: patchelf
+  provider: pypi
+  type: pypi
+revisions:
+  0.18.0.0:
+    licensed:
+      declared: GPL-3.0-or-later
