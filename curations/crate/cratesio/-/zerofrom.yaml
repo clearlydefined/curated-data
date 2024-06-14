@@ -2,8 +2,6 @@ coordinates:
   name: zerofrom
   provider: cratesio
   type: crate
-  namespace: ""
-  
 revisions:
   0.1.3:
     licensed:
