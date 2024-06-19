@@ -1,0 +1,9 @@
+coordinates:
+  name: api
+  namespace: ai.djl
+  provider: mavencentral
+  type: maven
+revisions:
+  0.28.0:
+    licensed:
+      declared: Apache-2.0
