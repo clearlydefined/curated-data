@@ -10,3 +10,6 @@ revisions:
   '7.0':
     licensed:
       declared: CDDL-1.0 OR GPL-2.0-only WITH Classpath-exception-2.0
+  8.0.1:
+    licensed:
+      declared: EPL-1.0
