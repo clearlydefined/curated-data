@@ -1,0 +1,8 @@
+coordinates:
+  name: Syncfusion.Pdf.WinForms
+  provider: nuget
+  type: nuget
+revisions:
+  21.2.10:
+    licensed:
+      declared: OTHER
