@@ -54,7 +54,7 @@ revisions:
       declared: BSD-3-Clause
   0.20.0:
     licensed:
-      declared: NONE
+      declared: BSD-3-Clause
   0.7.10:
     licensed:
       declared: BSD-3-Clause
