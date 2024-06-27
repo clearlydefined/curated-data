@@ -1,12 +1,9 @@
 coordinates:
-  name: org.eclipse.equinox.app
+  name: org.eclipse.core.filesystem
   namespace: org.eclipse.platform
   provider: mavencentral
   type: maven
 revisions:
-  1.5.100:
-    licensed:
-      declared: EPL-2.0
-  1.6.200:
+  1.9.0:
     licensed:
       declared: EPL-2.0
