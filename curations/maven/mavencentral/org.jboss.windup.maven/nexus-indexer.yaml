@@ -1,0 +1,9 @@
+coordinates:
+  name: nexus-indexer
+  namespace: org.jboss.windup.maven
+  provider: mavencentral
+  type: maven
+revisions:
+  23.03.23.Final:
+    licensed:
+      declared: CPL-1.0
