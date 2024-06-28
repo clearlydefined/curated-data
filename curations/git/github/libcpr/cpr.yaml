@@ -1,0 +1,9 @@
+coordinates:
+  name: cpr
+  namespace: libcpr
+  provider: github
+  type: git
+revisions:
+  3b15fa82ea74739b574d705fea44959b58142eb8:
+    licensed:
+      declared: MIT
