@@ -22,3 +22,6 @@ revisions:
   '1.78':
     licensed:
       declared: MIT
+  1.78.1:
+    licensed:
+      declared: MIT
