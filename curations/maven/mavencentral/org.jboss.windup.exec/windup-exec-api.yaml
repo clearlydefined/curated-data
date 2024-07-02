@@ -1,0 +1,9 @@
+coordinates:
+  name: windup-exec-api
+  namespace: org.jboss.windup.exec
+  provider: mavencentral
+  type: maven
+revisions:
+  6.3.0.Final:
+    licensed:
+      declared: EPL-1.0
