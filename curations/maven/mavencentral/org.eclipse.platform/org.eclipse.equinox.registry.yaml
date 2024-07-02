@@ -7,3 +7,6 @@ revisions:
   3.10.200:
     licensed:
       declared: EPL-2.0
+  3.11.200:
+    licensed:
+      declared: EPL-2.0
