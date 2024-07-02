@@ -1,0 +1,9 @@
+coordinates:
+  name: roaster-api
+  namespace: org.jboss.forge.roaster
+  provider: mavencentral
+  type: maven
+revisions:
+  2.12.0.Final:
+    licensed:
+      declared: EPL-1.0
