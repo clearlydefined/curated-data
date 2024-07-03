@@ -1,0 +1,9 @@
+coordinates:
+  name: percolator-client
+  namespace: org.elasticsearch.plugin
+  provider: mavencentral
+  type: maven
+revisions:
+  7.17.13:
+    licensed:
+      declared: SSPL-1.0
