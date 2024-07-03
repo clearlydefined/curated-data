@@ -74,6 +74,9 @@ revisions:
   1.10.0:
     licensed:
       declared: MIT
+  1.10.1:
+    licensed:
+      declared: MIT
   1.2.0:
     licensed:
       declared: MIT
