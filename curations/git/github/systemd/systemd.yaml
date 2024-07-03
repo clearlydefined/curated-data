@@ -1,0 +1,9 @@
+coordinates:
+  name: systemd
+  namespace: systemd
+  provider: github
+  type: git
+revisions:
+  739bbc58693473b6daa5ab4302f123d2c5fd04ce:
+    licensed:
+      declared: LGPL-2.1-or-later
