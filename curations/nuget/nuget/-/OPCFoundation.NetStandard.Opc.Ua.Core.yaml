@@ -72,3 +72,6 @@ revisions:
   1.5.374.54:
     licensed:
       declared: GPL-2.0-only OR OTHER
+  1.5.374.70:
+    licensed:
+      declared: GPL-2.0-only OR OTHER
