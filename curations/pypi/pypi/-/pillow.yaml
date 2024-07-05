@@ -18,6 +18,9 @@ revisions:
   10.3.0:
     licensed:
       declared: HPND
+  10.4.0:
+    licensed:
+      declared: HPND
   6.0.0:
     licensed:
       declared: HPND
