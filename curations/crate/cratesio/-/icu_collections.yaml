@@ -1,0 +1,8 @@
+coordinates:
+  name: icu_collections
+  provider: cratesio
+  type: crate
+revisions:
+  1.5.0:
+    licensed:
+      declared: OTHER
