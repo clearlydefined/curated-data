@@ -6,3 +6,6 @@ revisions:
   0.10.0:
     licensed:
       declared: Unicode-3.0
+  0.10.4:
+    licensed:
+      declared: OTHER
