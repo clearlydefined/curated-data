@@ -1,0 +1,8 @@
+coordinates:
+  name: BuildBundlerMinifierPlus
+  provider: nuget
+  type: nuget
+revisions:
+  5.3.0:
+    licensed:
+      declared: Artistic-2.0
