@@ -1,11 +1,8 @@
 coordinates:
-  name: tinystr
+  name: icu_normalizer
   provider: cratesio
   type: crate
 revisions:
-  0.7.4:
-    licensed:
-      declared: Unicode-3.0
-  0.7.6:
+  1.5.0:
     licensed:
       declared: Unicode-3.0
