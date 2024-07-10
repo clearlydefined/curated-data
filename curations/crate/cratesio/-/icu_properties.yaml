@@ -1,0 +1,8 @@
+coordinates:
+  name: icu_properties
+  provider: cratesio
+  type: crate
+revisions:
+  1.5.0:
+    licensed:
+      declared: Unicode-3.0
