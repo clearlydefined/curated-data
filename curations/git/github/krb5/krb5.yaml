@@ -35,7 +35,7 @@ revisions:
           - 'Copyright (c) 2006-2008, Novell, Inc.'
           - 'Copyright (c) 1998 by the FundsXpress, INC.'
           - 'Copyright 1995, 2003, 2007, 2009 by the Massachusetts Institute of Technology.'
-        license: BSD-3-Clause AND HPND-export-US-modify
+        license: BSD-3-Clause AND HPND-export-US-modify AND HPND-export2-US
         path: src/kdc/kdc_preauth.c
       - attributions:
           - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
@@ -109,7 +109,7 @@ revisions:
           - 'Copyright (c) 2004-2005, Novell, Inc.'
           - 'Copyright (c) 1998 by the FundsXpress, INC.'
           - 'Copyright 1990,1991,2001, 2002, 2008 by the Massachusetts Institute of Technology.'
-        license: BSD-3-Clause AND HPND-export2-US AND HPND-sell-variant
+        license: BSD-3-Clause AND HPND-export-US-modify AND HPND-export2-US
         path: src/plugins/kdb/ldap/ldap_util/kdb5_ldap_realm.c
       - attributions:
           - 'Copyright (c) 2004-2005, Novell, Inc.'
