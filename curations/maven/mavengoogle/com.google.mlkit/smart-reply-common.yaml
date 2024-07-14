@@ -7,3 +7,8 @@ revisions:
   16.0.0:
     licensed:
       declared: OTHER
+  16.1.0:
+    described:
+      releaseDate: '2022-12-05'
+    licensed:
+      declared: OTHER
