@@ -6,4 +6,4 @@ coordinates:
 revisions:
   7d72257b0ff2aadab92d9b627beb44c36b072e52:
     licensed:
-      declared: BSD-3-Clause AND MIT
+      declared: BSD-3-Clause AND MIT AND MIT-Khronos-old
