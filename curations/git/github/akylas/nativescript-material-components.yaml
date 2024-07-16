@@ -1,0 +1,9 @@
+coordinates:
+  name: nativescript-material-components
+  namespace: akylas
+  provider: github
+  type: git
+revisions:
+  d40e55b55e332ef42cf8654889442b82f070b545:
+    licensed:
+      declared: Apache-2.0
