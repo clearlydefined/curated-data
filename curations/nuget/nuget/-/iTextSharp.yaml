@@ -5,7 +5,7 @@ coordinates:
 revisions:
   5.0.5:
     licensed:
-      declared: AGPL-3.0-only OR OTHER
+      declared: AGPL-3.0-only
   5.5.10:
     licensed:
       declared: AGPL-3.0-only OR OTHER
