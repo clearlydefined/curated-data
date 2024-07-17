@@ -76,3 +76,6 @@ revisions:
   3.2.2:
     licensed:
       declared: GPL-2.0-or-later
+  3.2.3:
+    licensed:
+      declared: GPL-2.0-or-later
