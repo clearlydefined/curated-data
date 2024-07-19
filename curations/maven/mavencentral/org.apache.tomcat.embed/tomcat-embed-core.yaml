@@ -1,0 +1,9 @@
+coordinates:
+  name: tomcat-embed-core
+  namespace: org.apache.tomcat.embed
+  provider: mavencentral
+  type: maven
+revisions:
+  9.0.91:
+    licensed:
+      declared: Apache-2.0
