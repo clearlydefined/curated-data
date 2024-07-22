@@ -6,3 +6,23 @@ revisions:
   4.0.2:
     licensed:
       declared: MIT
+  4.4.1:
+    described:
+      facets:
+        doc:
+          - 'https://github.com/WorkMaze/JUST.net/blob/master/README.md'
+        examples:
+          - 'https://github.com/WorkMaze/JUST.net/tree/master/Examples'
+          - 'https://github.com/WorkMaze/JUST.net/tree/master/Examples*'
+        tests:
+          - 'https://github.com/WorkMaze/JUST.net/tree/master/UnitTests'
+          - 'https://github.com/WorkMaze/JUST.net/tree/master/UnitTests*'
+      sourceLocation:
+        name: just.net
+        namespace: workmaze
+        provider: github
+        revision: b0d6963
+        type: git
+        url: 'https://github.com/workmaze/just.net/commit/b0d6963'
+    licensed:
+      declared: MIT
