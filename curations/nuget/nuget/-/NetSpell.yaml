@@ -1,0 +1,8 @@
+coordinates:
+  name: NetSpell
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.7:
+    licensed:
+      declared: NONE
