@@ -57,6 +57,9 @@ revisions:
   12.22.2:
     licensed:
       declared: MIT
+  12.22.4:
+    licensed:
+      declared: MIT
   12.5.0:
     licensed:
       declared: MIT
