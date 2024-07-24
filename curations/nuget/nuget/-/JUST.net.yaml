@@ -18,11 +18,11 @@ revisions:
           - 'https://github.com/WorkMaze/JUST.net/tree/master/UnitTests'
           - 'https://github.com/WorkMaze/JUST.net/tree/master/UnitTests*'
       sourceLocation:
-        name: just.net
-        namespace: workmaze
+        name: JUST.net
+        namespace: WorkMaze
         provider: github
-        revision: b0d6963
+        revision: b0d69638d5f7742c3c32f31542140872615c41d1
         type: git
-        url: 'https://github.com/workmaze/just.net/commit/b0d6963'
+        url: 'https://github.com/WorkMaze/JUST.net/commit/b0d69638d5f7742c3c32f31542140872615c41d1'
     licensed:
       declared: MIT
