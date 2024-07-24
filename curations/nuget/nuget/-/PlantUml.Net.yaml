@@ -1,0 +1,8 @@
+coordinates:
+  name: PlantUml.Net
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.80:
+    licensed:
+      declared: MIT
