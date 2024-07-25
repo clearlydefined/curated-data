@@ -1,0 +1,8 @@
+coordinates:
+  name: Google.Apis.Compute.v1
+  provider: nuget
+  type: nuget
+revisions:
+  1.55.0.2511:
+    licensed:
+      declared: Apache-2.0
