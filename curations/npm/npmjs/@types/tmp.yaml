@@ -1,0 +1,15 @@
+coordinates:
+  name: tmp
+  namespace: '@types'
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.1:
+    described:
+      sourceLocation:
+        name: node-tmp
+        namespace: raszi
+        provider: github
+        revision: 7ae22ed2d56c10d425a66e99fe8bc10c925442e6
+        type: git
+        url: 'https://github.com/raszi/node-tmp/commit/7ae22ed2d56c10d425a66e99fe8bc10c925442e6'
