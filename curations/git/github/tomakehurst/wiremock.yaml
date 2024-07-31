@@ -1,0 +1,9 @@
+coordinates:
+  name: wiremock
+  namespace: tomakehurst
+  provider: github
+  type: git
+revisions:
+  029c803964ae7624af064b297d7985a43973f9d6:
+    licensed:
+      declared: Apache-2.0
