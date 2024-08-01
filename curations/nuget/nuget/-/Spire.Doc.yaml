@@ -1,0 +1,8 @@
+coordinates:
+  name: Spire.Doc
+  provider: nuget
+  type: nuget
+revisions:
+  11.8.18:
+    licensed:
+      declared: OTHER
