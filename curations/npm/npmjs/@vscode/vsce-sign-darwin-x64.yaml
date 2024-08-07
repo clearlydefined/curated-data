@@ -7,3 +7,6 @@ revisions:
   2.0.0:
     licensed:
       declared: OTHER
+  2.0.2:
+    licensed:
+      declared: MIT
