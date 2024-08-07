@@ -1,0 +1,9 @@
+coordinates:
+  name: vsce-sign
+  namespace: '@vscode'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.4:
+    licensed:
+      declared: MIT
