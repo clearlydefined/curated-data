@@ -6,3 +6,6 @@ revisions:
   3.3.2:
     licensed:
       declared: Zlib
+  3.3.8:
+    licensed:
+      declared: Zlib
