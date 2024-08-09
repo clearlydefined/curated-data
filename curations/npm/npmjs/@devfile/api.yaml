@@ -1,0 +1,15 @@
+coordinates:
+  name: api
+  namespace: '@devfile'
+  provider: npmjs
+  type: npm
+revisions:
+  2.3.0-1721400636:
+    described:
+      sourceLocation:
+        name: api
+        namespace: devfile
+        provider: github
+        revision: c088cf36a78ddadb8a45b951a2e7214a2ef2da26
+        type: git
+        url: 'https://github.com/devfile/api/commit/c088cf36a78ddadb8a45b951a2e7214a2ef2da26'
