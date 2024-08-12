@@ -1,0 +1,9 @@
+coordinates:
+  name: wiremock-standalone
+  namespace: org.wiremock
+  provider: mavencentral
+  type: maven
+revisions:
+  3.9.1:
+    licensed:
+      declared: Apache-2.0
