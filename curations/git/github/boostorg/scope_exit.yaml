@@ -1,0 +1,9 @@
+coordinates:
+  name: scope_exit
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  60baaae454b2da887a31cf939e22015b6263c9e4:
+    licensed:
+      declared: BSL-1.0
