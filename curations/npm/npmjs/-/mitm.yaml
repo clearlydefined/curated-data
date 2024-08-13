@@ -5,4 +5,4 @@ coordinates:
 revisions:
   1.7.2:
     licensed:
-      declared: GPL-3.0-only
+      declared: AGPL-3.0-or-later WITH romic-exception
