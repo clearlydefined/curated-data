@@ -1,0 +1,8 @@
+coordinates:
+  name: mitm
+  provider: npmjs
+  type: npm
+revisions:
+  1.7.2:
+    licensed:
+      declared: AGPL-3.0-or-later WITH romic-exception
