@@ -1,0 +1,8 @@
+coordinates:
+  name: block-ui
+  provider: npmjs
+  type: npm
+revisions:
+  2.70.1:
+    licensed:
+      declared: MIT
