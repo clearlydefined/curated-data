@@ -1,0 +1,8 @@
+coordinates:
+  name: archetype
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.1.pre.6:
+    licensed:
+      declared: Apache-2.0
