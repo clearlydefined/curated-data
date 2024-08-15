@@ -123,3 +123,6 @@ revisions:
   3.9.1.post1:
     licensed:
       declared: PSF-2.0
+  3.9.2:
+    licensed:
+      declared: Python-2.0
