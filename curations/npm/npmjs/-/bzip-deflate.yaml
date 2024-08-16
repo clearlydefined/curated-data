@@ -1,0 +1,8 @@
+coordinates:
+  name: bzip-deflate
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    licensed:
+      declared: CC-BY-3.0
