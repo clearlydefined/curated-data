@@ -4,9 +4,12 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
-  9.1.0:
+  8.3.7:
     licensed:
       declared: Apache-2.0
   8.5.4:
+    licensed:
+      declared: Apache-2.0
+  9.1.0:
     licensed:
       declared: Apache-2.0
