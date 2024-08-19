@@ -1,0 +1,9 @@
+coordinates:
+  name: avro-mapred
+  namespace: org.apache.avro
+  provider: mavencentral
+  type: maven
+revisions:
+  1.8.2:
+    licensed:
+      declared: Apache-2.0
