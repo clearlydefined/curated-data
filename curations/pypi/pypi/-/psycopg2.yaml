@@ -60,6 +60,9 @@ revisions:
   '2.4':
     licensed:
       declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
+  2.4.0:
+    licensed:
+      declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
   2.4.1:
     licensed:
       declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
@@ -324,6 +327,15 @@ revisions:
   2.9.3:
     licensed:
       declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
+  2.9.5:
+    licensed:
+      declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
+  2.9.6:
+    licensed:
+      declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
   2.9.7:
+    licensed:
+      declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
+  2.9.8:
     licensed:
       declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
