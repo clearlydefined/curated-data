@@ -3,6 +3,9 @@ coordinates:
   provider: rubygems
   type: gem
 revisions:
+  0.209.0:
+    licensed:
+      declared: MIT
   0.215.0:
     licensed:
       declared: OTHER
