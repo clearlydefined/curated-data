@@ -1,6 +1,6 @@
 coordinates:
   name: azqueue
-  namespace: github.com%2Fazure%2Fazure-sdk-for-go%2Fsdk%2Fstorage
+  namespace: github.com%2FAzure%2Fazure-sdk-for-go%2Fsdk%2Fstorage
   provider: golang
   type: go
 revisions:
