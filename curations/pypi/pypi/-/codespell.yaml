@@ -1,0 +1,8 @@
+coordinates:
+  name: codespell
+  provider: pypi
+  type: pypi
+revisions:
+  2.2.6:
+    licensed:
+      declared: GPL-2.0-only
