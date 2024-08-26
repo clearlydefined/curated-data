@@ -1,0 +1,8 @@
+coordinates:
+  name: intel-mkl-src
+  provider: cratesio
+  type: crate
+revisions:
+  0.8.1:
+    licensed:
+      declared: OTHER
