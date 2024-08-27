@@ -11,7 +11,7 @@ revisions:
       declared: MIT
   6.7.0:
     licensed:
-      declared: MIT OR OTHER
+      declared: OTHER
   8.0.4:
     licensed:
       declared: OTHER
