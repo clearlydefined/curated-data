@@ -1,0 +1,8 @@
+coordinates:
+  name: aiohappyeyeballs
+  provider: pypi
+  type: pypi
+revisions:
+  2.3.2:
+    licensed:
+      declared: BSD-3-Clause
