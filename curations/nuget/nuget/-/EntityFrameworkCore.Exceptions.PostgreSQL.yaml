@@ -1,0 +1,8 @@
+coordinates:
+  name: EntityFrameworkCore.Exceptions.PostgreSQL
+  provider: nuget
+  type: nuget
+revisions:
+  8.1.2:
+    licensed:
+      declared: Apache-2.0
