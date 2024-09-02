@@ -60,3 +60,6 @@ revisions:
   3.2.1:
     licensed:
       declared: OTHER
+  3.3.0:
+    licensed:
+      declared: OTHER
