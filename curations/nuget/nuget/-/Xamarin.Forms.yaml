@@ -48,6 +48,9 @@ revisions:
   3.5.0.129452:
     licensed:
       declared: MIT
+  3.6.0.220655:
+    licensed:
+      declared: NONE
   3.6.0.264807:
     licensed:
       declared: MIT
