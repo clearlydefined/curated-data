@@ -1,6 +1,6 @@
 coordinates:
   name: dd-trace-go.v1
-  namespace: gopkg.in%2Fdatadog
+  namespace: gopkg.in%2FDataDog
   provider: golang
   type: go
 revisions:

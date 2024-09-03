@@ -1,6 +1,6 @@
 coordinates:
   name: datadog-api-client-go
-  namespace: github.com%2Fdatadog
+  namespace: github.com%2FDataDog
   provider: golang
   type: go
 revisions:
