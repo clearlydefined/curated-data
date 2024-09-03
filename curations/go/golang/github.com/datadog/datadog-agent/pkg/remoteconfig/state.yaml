@@ -1,6 +1,6 @@
 coordinates:
   name: state
-  namespace: github.com%2Fdatadog%2Fdatadog-agent%2Fpkg%2Fremoteconfig
+  namespace: github.com%2FDataDog%2Fdatadog-agent%2Fpkg%2Fremoteconfig
   provider: golang
   type: go
 revisions:
