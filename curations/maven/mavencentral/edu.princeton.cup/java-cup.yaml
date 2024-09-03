@@ -1,0 +1,9 @@
+coordinates:
+  name: java-cup
+  namespace: edu.princeton.cup
+  provider: mavencentral
+  type: maven
+revisions:
+  10k:
+    licensed:
+      declared: SMLNJ
