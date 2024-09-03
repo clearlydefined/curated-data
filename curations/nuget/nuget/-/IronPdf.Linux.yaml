@@ -1,0 +1,8 @@
+coordinates:
+  name: IronPdf.Linux
+  provider: nuget
+  type: nuget
+revisions:
+  2023.1.11416:
+    licensed:
+      declared: OTHER
