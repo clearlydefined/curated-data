@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.wst.xml.xpath2.processor
+  namespace: com.rackspace.eclipse.webtools.sourceediting
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.100:
+    licensed:
+      declared: EPL-1.0
