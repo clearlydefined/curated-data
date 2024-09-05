@@ -1,0 +1,8 @@
+coordinates:
+  name: Extensions.Data.xxHash.core20
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.2.1:
+    licensed:
+      declared: MIT
