@@ -1,0 +1,9 @@
+coordinates:
+  name: datanucleus-core
+  namespace: org.datanucleus
+  provider: mavencentral
+  type: maven
+revisions:
+  4.1.17:
+    licensed:
+      declared: Apache-2.0
