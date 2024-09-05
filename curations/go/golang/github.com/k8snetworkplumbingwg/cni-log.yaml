@@ -1,0 +1,9 @@
+coordinates:
+  name: cni-log
+  namespace: github.com%2Fk8snetworkplumbingwg
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20230801160229-b6e062c9e0f2:
+    licensed:
+      declared: Apache-2.0
