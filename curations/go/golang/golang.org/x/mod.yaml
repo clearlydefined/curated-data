@@ -13,6 +13,3 @@ revisions:
   v0.20.0:
     licensed:
       declared: BSD-3-Clause AND OTHER
-  v0.21.0:
-    licensed:
-      declared: BSD-3-Clause AND OTHER
