@@ -5,10 +5,10 @@ coordinates:
 revisions:
   1.19.4:
     licensed:
-      declared: AGPL-3.0-only
+      declared: AGPL-3.0-only OR OTHER
   1.19.6:
     licensed:
-      declared: AGPL-3.0-only
+      declared: AGPL-3.0-only OR OTHER
   1.24.9:
     licensed:
-      declared: AGPL-3.0-or-later OR OTHER
+      declared: AGPL-3.0-only OR OTHER
