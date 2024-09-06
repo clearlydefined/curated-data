@@ -1,0 +1,8 @@
+coordinates:
+  name: pymupdfb
+  provider: pypi
+  type: pypi
+revisions:
+  1.24.10:
+    licensed:
+      declared: AGPL-3.0-only OR OTHER
