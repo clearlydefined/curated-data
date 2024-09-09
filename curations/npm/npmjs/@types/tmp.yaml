@@ -7,9 +7,9 @@ revisions:
   0.2.1:
     described:
       sourceLocation:
-        name: node-tmp
-        namespace: raszi
+        name: DefinitelyTyped
+        namespace: DefinitelyTyped
         provider: github
-        revision: 7ae22ed2d56c10d425a66e99fe8bc10c925442e6
+        revision: fbec64b522edffb46124e548eae9d1a056094a9d
         type: git
-        url: 'https://github.com/raszi/node-tmp/commit/7ae22ed2d56c10d425a66e99fe8bc10c925442e6'
+        url: 'https://github.com/DefinitelyTyped/DefinitelyTyped/commit/fbec64b522edffb46124e548eae9d1a056094a9d'
