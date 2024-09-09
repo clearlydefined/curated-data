@@ -1,0 +1,15 @@
+coordinates:
+  name: tmp
+  namespace: '@types'
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.1:
+    described:
+      sourceLocation:
+        name: DefinitelyTyped
+        namespace: DefinitelyTyped
+        provider: github
+        revision: fbec64b522edffb46124e548eae9d1a056094a9d
+        type: git
+        url: 'https://github.com/DefinitelyTyped/DefinitelyTyped/commit/fbec64b522edffb46124e548eae9d1a056094a9d'
