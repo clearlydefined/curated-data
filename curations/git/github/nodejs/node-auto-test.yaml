@@ -1,0 +1,9 @@
+coordinates:
+  name: node-auto-test
+  namespace: nodejs
+  provider: github
+  type: git
+revisions:
+  3dc0e4944f88c9a644eec0c8114920da3bcfa731:
+    licensed:
+      declared: MIT
