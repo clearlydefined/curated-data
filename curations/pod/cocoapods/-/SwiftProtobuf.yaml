@@ -5,4 +5,7 @@ coordinates:
 revisions:
   1.18.0:
     licensed:
-      declared: Apache-2.0
+      declared: Apache-2.0 WITH Swift-exception
+  1.26.0:
+    licensed:
+      declared: Apache-2.0 WITH Swift-exception
