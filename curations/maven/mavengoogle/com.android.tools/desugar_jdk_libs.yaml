@@ -10,3 +10,6 @@ revisions:
   2.0.3:
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
+  2.0.4:
+    licensed:
+      declared: GPL-2.0-only
