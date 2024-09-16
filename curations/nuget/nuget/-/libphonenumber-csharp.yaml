@@ -1,0 +1,8 @@
+coordinates:
+  name: libphonenumber-csharp
+  provider: nuget
+  type: nuget
+revisions:
+  8.13.45:
+    licensed:
+      declared: Apache-2.0
