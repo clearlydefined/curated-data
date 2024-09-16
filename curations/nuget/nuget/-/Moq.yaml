@@ -99,6 +99,9 @@ revisions:
         url: 'https://github.com/moq/moq4/commit/71cf92ff113e08511512e0bf19c754d98dab218e'
     licensed:
       declared: BSD-3-Clause
+  4.20.72:
+    licensed:
+      declared: BSD-3-Clause
   4.5.10:
     licensed:
       declared: BSD-3-Clause
