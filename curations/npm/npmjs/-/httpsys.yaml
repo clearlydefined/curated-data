@@ -1,0 +1,8 @@
+coordinates:
+  name: httpsys
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.2:
+    license:
+      declared: TODO
