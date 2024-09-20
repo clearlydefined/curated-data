@@ -1,0 +1,9 @@
+coordinates:
+  name: prettier-rules
+  provider: npmjs
+  type: npm
+  namespace: '@uifabric'
+revisions:
+  1.0.2:
+    licensed:
+      declared: MIT
