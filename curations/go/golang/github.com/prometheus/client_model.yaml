@@ -19,3 +19,6 @@ revisions:
   v0.0.0-20190115171406-56726106282f:
     licensed:
       declared: Apache-2.0
+  v0.2.1-0.20210607210712-147c58e9608a:
+    licensed:
+      declared: MIT
