@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-dateinputs-common
+  provider: npmjs
+  type: npm
+  namespace: '@progress'
+revisions:
+  0.3.3:
+    licensed:
+      declared: OTHER
