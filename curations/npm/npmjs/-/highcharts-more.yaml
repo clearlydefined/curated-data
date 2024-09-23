@@ -1,0 +1,8 @@
+coordinates:
+  name: highcharts-more
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.7:
+    licensed:
+      declared: CC-BY-NC-4.0
