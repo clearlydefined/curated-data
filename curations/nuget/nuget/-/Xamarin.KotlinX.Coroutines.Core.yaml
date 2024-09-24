@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.KotlinX.Coroutines.Core
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.0.3:
+    licensed:
+      declared: Apache-2.0
