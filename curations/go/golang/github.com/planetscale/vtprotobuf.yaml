@@ -1,6 +1,6 @@
 coordinates:
   name: vtprotobuf
-  namespace: github.com%2fplanetscale
+  namespace: github.com%2Fplanetscale
   provider: golang
   type: go
 revisions:
