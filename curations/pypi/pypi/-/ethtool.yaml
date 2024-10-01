@@ -1,0 +1,8 @@
+coordinates:
+  name: ethtool
+  provider: pypi
+  type: pypi
+revisions:
+  '0.14':
+    licensed:
+      declared: GPL-2.0-only
