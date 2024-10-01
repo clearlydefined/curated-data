@@ -1,0 +1,8 @@
+coordinates:
+  name: systemd-python
+  provider: pypi
+  type: pypi
+revisions:
+  '234':
+    licensed:
+      declared: LGPL-2.1-or-later
