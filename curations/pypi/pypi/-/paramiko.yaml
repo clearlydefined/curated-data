@@ -63,3 +63,6 @@ revisions:
   3.4.1:
     licensed:
       declared: LGPL-2.1-or-later
+  3.5.0:
+    licensed:
+      declared: LGPL-2.1-or-later
