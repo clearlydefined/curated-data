@@ -1,8 +1,8 @@
 coordinates:
-  type: go
-  provider: golang
-  namespace: github.com%2Fspdx
   name: tools-golang
+  namespace: github.com%2Fspdx
+  provider: golang
+  type: go
 revisions:
   v0.5.3:
     licensed:
