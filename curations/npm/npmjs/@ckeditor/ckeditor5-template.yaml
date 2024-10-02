@@ -1,0 +1,9 @@
+coordinates:
+  name: ckeditor5-template
+  namespace: '@ckeditor'
+  provider: npmjs
+  type: npm
+revisions:
+  41.3.1:
+    licensed:
+      declared: GPL-2.0-only
