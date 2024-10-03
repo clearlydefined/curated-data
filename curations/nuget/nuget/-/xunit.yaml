@@ -74,3 +74,6 @@ revisions:
   2.4.1-pre.build.4059:
     licensed:
       declared: Apache-2.0
+  2.9.2:
+    licensed:
+      declared: Apache-2.0
