@@ -10,6 +10,9 @@ revisions:
   v0.0.0-20230224173230-c95f2b4c22f2:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  v0.0.0-20230307190834-24139beb5833:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
   v0.0.0-20231006140011-7918f672742d:
     licensed:
       declared: BSD-3-Clause AND OTHER
