@@ -6,7 +6,13 @@ revisions:
   1.10.2:
     licensed:
       declared: OTHER
+  1.7.11:
+    licensed:
+      declared: OTHER
   1.7.13:
+    licensed:
+      declared: OTHER
+  1.7.6:
     licensed:
       declared: OTHER
   1.8.2:
