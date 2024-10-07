@@ -3,7 +3,13 @@ coordinates:
   provider: cocoapods
   type: pod
 revisions:
+  1.0.1.i:
+    licensed:
+      declared: OpenSSL
   1.0.2.13:
+    licensed:
+      declared: OpenSSL
+  1.0.2.18:
     licensed:
       declared: OpenSSL
   1.0.2.19:
