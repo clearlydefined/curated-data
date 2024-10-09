@@ -1,0 +1,8 @@
+coordinates:
+  name: ZeroMQ
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.0.31:
+    licensed:
+      declared: LGPL-3.0-only
