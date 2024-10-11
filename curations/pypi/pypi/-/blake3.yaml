@@ -5,10 +5,13 @@ coordinates:
 revisions:
   0.2.0:
     licensed:
-      declared: CC0-1.0 OR Apache-2.0
+      declared: Apache-2.0 OR CC0-1.0
   0.2.1:
     licensed:
-      declared: CC0-1.0 OR Apache-2.0
+      declared: Apache-2.0 OR CC0-1.0
   0.3.1:
     licensed:
-      declared: CC0-1.0 OR Apache-2.0
+      declared: Apache-2.0 OR CC0-1.0
+  0.4.1:
+    licensed:
+      declared: Apache-2.0 OR CC0-1.0
