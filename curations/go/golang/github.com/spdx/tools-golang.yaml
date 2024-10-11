@@ -1,12 +1,15 @@
 coordinates:
-  name: tools-golang
-  namespace: github.com%2Fspdx
-  provider: golang
-  type: go
+    type: go
+    provider: golang
+    namespace: github.com%2Fspdx
+    name: tools-golang
 revisions:
-  v0.5.3:
-    licensed:
-      declared: (Apache-2.0 OR GPL-2.0-or-later) AND CC-BY-4.0
-  v0.5.4:
-    licensed:
-      declared: (Apache-2.0 OR GPL-2.0-or-later) AND CC-BY-4.0
+    v0.5.3:
+        licensed:
+            declared: (Apache-2.0 OR GPL-2.0-or-later) AND CC-BY-4.0
+    v0.5.4:
+        licensed:
+            declared: (Apache-2.0 OR GPL-2.0-or-later) AND CC-BY-4.0
+    v0.5.5:
+        licensed:
+            declared: (Apache-2.0 OR GPL-2.0-or-later) AND CC-BY-4.0
