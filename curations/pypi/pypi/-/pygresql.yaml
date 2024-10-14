@@ -13,4 +13,4 @@ revisions:
         type: git
         url: 'https://github.com/pygresql/pygresql/commit/0f9275ae861aef7e4dd159db24c3e136a4419de8'
     licensed:
-      declared: PostgreSQL
+      declared: OTHER
