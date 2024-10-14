@@ -1,6 +1,6 @@
 coordinates:
   name: gofmt
-  namespace: github.com%2fgolangci
+  namespace: github.com%2Fgolangci
   provider: golang
   type: go
 revisions:
