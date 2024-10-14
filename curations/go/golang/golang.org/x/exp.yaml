@@ -1,6 +1,6 @@
 coordinates:
   name: exp
-  namespace: golang.org%2fx
+  namespace: golang.org%2Fx
   provider: golang
   type: go
 revisions:
@@ -54,4 +54,4 @@ revisions:
       declared: BSD-3-Clause AND OTHER
   v0.0.0-20240904232852-e7e105dedf7e:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND OTHER
