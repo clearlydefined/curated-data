@@ -21,6 +21,9 @@ revisions:
   6.15.0:
     licensed:
       declared: OTHER
+  6.15.1:
+    licensed:
+      declared: OTHER
   6.2.0:
     licensed:
       declared: OTHER
