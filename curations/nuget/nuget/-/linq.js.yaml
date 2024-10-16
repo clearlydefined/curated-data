@@ -6,9 +6,7 @@ revisions:
   2.2.0.2:
     files:
       - attributions:
-          - >-
-            * created and maintained by neuecc <ils@neue.cc> * licensed under Microsoft Public License(Ms-PL) * http://neue.cc/ *
-            http://linqjs.codeplex.com/
+          - '* created and maintained by neuecc <ils@neue.cc> * licensed under Microsoft Public License(Ms-PL) * http://neue.cc/ * http://linqjs.codeplex.com/'
         license: MS-PL
         path: linq.js.nuspec
     licensed:
