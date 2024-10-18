@@ -3,6 +3,15 @@ coordinates:
   provider: cocoapods
   type: pod
 revisions:
+  0.0.18:
+    licensed:
+      declared: ISC
+  0.0.2:
+    licensed:
+      declared: ISC
+  0.0.3:
+    licensed:
+      declared: ISC
   0.0.7:
     licensed:
       declared: ISC
