@@ -1,0 +1,8 @@
+coordinates:
+  name: Salaros.ConfigParser
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.8:
+    licensed:
+      declared: MIT
