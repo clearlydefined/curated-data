@@ -3,6 +3,102 @@ coordinates:
   provider: cocoapods
   type: pod
 revisions:
+  1.0.0:
+    licensed:
+      declared: OTHER
+  1.0.0-beta.11:
+    licensed:
+      declared: OTHER
+  1.0.0-beta.12:
+    licensed:
+      declared: OTHER
+  1.0.0-beta.8:
+    licensed:
+      declared: OTHER
+  1.0.0-beta.9:
+    licensed:
+      declared: OTHER
+  1.0.1:
+    licensed:
+      declared: OTHER
+  1.1.0:
+    licensed:
+      declared: OTHER
+  2.0.0:
+    licensed:
+      declared: OTHER
+  2.0.0-beta.1:
+    licensed:
+      declared: OTHER
   2.0.1-beta.1:
+    licensed:
+      declared: OTHER
+  2.1.0-beta.1:
+    licensed:
+      declared: OTHER
+  2.10.0:
+    licensed:
+      declared: OTHER
+  2.10.0-beta.1:
+    licensed:
+      declared: OTHER
+  2.10.1:
+    licensed:
+      declared: OTHER
+  2.11.0:
+    licensed:
+      declared: OTHER
+  2.11.0-beta.1:
+    licensed:
+      declared: OTHER
+  2.12.0:
+    licensed:
+      declared: OTHER
+  2.12.0-beta.1:
+    licensed:
+      declared: OTHER
+  2.12.1:
+    licensed:
+      declared: OTHER
+  2.13.0:
+    licensed:
+      declared: OTHER
+  2.13.0-beta.2:
+    licensed:
+      declared: OTHER
+  2.14.0-beta.1:
+    licensed:
+      declared: OTHER
+  2.2.0:
+    licensed:
+      declared: OTHER
+  2.2.0-beta.1:
+    licensed:
+      declared: OTHER
+  2.2.1:
+    licensed:
+      declared: OTHER
+  2.4.1:
+    licensed:
+      declared: OTHER
+  2.5.1:
+    licensed:
+      declared: OTHER
+  2.6.0:
+    licensed:
+      declared: OTHER
+  2.6.1:
+    licensed:
+      declared: OTHER
+  2.8.0:
+    licensed:
+      declared: OTHER
+  2.8.0-beta.1:
+    licensed:
+      declared: OTHER
+  2.8.0-beta.2:
+    licensed:
+      declared: OTHER
+  2.9.0-beta.1:
     licensed:
       declared: OTHER
