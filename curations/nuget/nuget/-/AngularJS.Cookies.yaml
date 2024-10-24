@@ -1,0 +1,8 @@
+coordinates:
+  name: AngularJS.Cookies
+  provider: nuget
+  type: nuget
+revisions:
+  1.7.7:
+    licensed:
+      declared: MIT
