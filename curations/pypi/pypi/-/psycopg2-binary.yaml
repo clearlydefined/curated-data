@@ -9,6 +9,9 @@ revisions:
   2.8.5:
     licensed:
       declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
+  2.9.10:
+    licensed:
+      declared: GPL-3.0-only
   2.9.3:
     licensed:
       declared: LGPL-3.0-or-later WITH openvpn-openssl-exception
