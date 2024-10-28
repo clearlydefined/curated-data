@@ -65,6 +65,9 @@ revisions:
   '0.991':
     licensed:
       declared: MIT
+  1.0.0:
+    licensed:
+      declared: MIT
   1.0.1:
     licensed:
       declared: MIT
@@ -101,6 +104,9 @@ revisions:
   1.5.1:
     licensed:
       declared: MIT
+  1.6.0:
+    licensed:
+      declared: MIT
   1.6.1:
     licensed:
       declared: MIT
@@ -114,5 +120,11 @@ revisions:
     licensed:
       declared: MIT
   1.9.0:
+    licensed:
+      declared: MIT
+  1.12.0:
+    licensed:
+      declared: MIT
+  1.12.1:
     licensed:
       declared: MIT
