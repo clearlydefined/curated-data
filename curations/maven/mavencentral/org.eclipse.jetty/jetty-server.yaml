@@ -1,0 +1,9 @@
+coordinates:
+  name: jetty-server
+  namespace: org.eclipse.jetty
+  provider: mavencentral
+  type: maven
+revisions:
+  9.4.56.v20240826:
+    licensed:
+      declared: Apache-2.0 OR EPL-1.0
