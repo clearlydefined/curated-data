@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  29be9983a64c011eac0b9ee29895cce71e15ea77:
+    licensed:
+      declared: PostgreSQL
   34f805c8cf1bc4d54075526d3b023d9194ccd2cd:
     licensed:
       declared: PostgreSQL
