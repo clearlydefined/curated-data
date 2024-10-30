@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-cast-framework
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  21.5.0:
+    licensed:
+      declared: OTHER

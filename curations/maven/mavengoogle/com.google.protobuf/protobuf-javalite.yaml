@@ -1,0 +1,9 @@
+coordinates:
+  name: protobuf-javalite
+  namespace: com.google.protobuf
+  provider: mavengoogle
+  type: maven
+revisions:
+  4.28.3:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: jsr305
+  namespace: com.google.code.findbugs
+  provider: mavengoogle
+  type: maven
+revisions:
+  3.0.2:
+    licensed:
+      declared: Apache-2.0

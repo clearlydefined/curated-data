@@ -1,0 +1,9 @@
+coordinates:
+  name: compose-theme-adapter-3
+  namespace: com.google.android.material
+  provider: mavengoogle
+  type: maven
+revisions:
+  1.0.18:
+    licensed:
+      declared: Apache-2.0

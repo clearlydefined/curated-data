@@ -1,0 +1,9 @@
+coordinates:
+  name: guice
+  namespace: com.google.inject
+  provider: mavengoogle
+  type: maven
+revisions:
+  7.0.0:
+    licensed:
+      declared: OTHER

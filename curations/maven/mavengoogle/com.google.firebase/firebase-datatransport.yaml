@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-datatransport
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  19.0.0:
+    licensed:
+      declared: Apache-2.0

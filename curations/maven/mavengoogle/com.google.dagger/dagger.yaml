@@ -1,0 +1,9 @@
+coordinates:
+  name: dagger
+  namespace: com.google.dagger
+  provider: mavengoogle
+  type: maven
+revisions:
+  2.52:
+    licensed:
+      declared: Apache-2.0

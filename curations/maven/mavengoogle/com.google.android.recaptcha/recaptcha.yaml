@@ -1,0 +1,9 @@
+coordinates:
+  name: recaptcha
+  namespace: com.google.android.recaptcha
+  provider: mavengoogle
+  type: maven
+revisions:
+  18.6.1:
+    licensed:
+      declared: OTHER

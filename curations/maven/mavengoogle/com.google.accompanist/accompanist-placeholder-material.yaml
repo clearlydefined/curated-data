@@ -1,0 +1,9 @@
+coordinates:
+  name: accompanist-placeholder-material
+  namespace: com.google.accompanist
+  provider: mavengoogle
+  type: maven
+revisions:
+  0.36.0:
+    licensed:
+      declared: Apache-2.0

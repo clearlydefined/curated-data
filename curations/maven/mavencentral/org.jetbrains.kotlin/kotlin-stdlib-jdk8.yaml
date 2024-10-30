@@ -1,0 +1,9 @@
+coordinates:
+  name: kotlin-stdlib-jdk8
+  namespace: org.jetbrains.kotlin
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.21:
+    licensed:
+      declared: Apache-2.0

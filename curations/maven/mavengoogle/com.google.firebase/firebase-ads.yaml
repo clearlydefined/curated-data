@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-ads
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  23.4.0:
+    licensed:
+      declared: Apache-2.0

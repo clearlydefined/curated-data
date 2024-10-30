@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-dynamic-links
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  22.1.0:
+    licensed:
+      declared: Apache-2.0

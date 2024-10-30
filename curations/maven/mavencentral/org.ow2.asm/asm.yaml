@@ -42,3 +42,6 @@ revisions:
   '7.1':
     licensed:
       declared: BSD-3-Clause
+  9.7.1:
+    licensed:
+      declared: OTHER
