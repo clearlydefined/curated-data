@@ -1,0 +1,9 @@
+coordinates:
+  name: terraform-provider-azurerm-example-gen
+  namespace: github.com%2Fmagodo
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220407025246-3a3ee0ab24a8:
+    licensed:
+      declared: MPL-2.0
