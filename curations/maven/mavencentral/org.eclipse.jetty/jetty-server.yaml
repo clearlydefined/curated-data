@@ -4,6 +4,261 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  10.0.0:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.0-alpha0:
+    licensed:
+      declared: Apache-2.0 OR EPL-1.0
+  10.0.0.alpha1:
+    licensed:
+      declared: Apache-2.0 OR EPL-1.0
+  10.0.0.alpha2:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.0.beta0:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.0.beta1:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.0.beta2:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.0.beta3:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.1:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.10:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.11:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.12:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.13:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.14:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.15:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.16:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.17:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.18:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.19:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.2:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.20:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.21:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.22:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.23:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.24:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.3:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.4:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.5:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.6:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.7:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.8:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  10.0.9:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.0:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.0-alpha0:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.0.beta1:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.0.beta2:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.0.beta3:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.1:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.10:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.11:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.12:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.13:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.14:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.15:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.16:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.17:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.18:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.19:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.2:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.20:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.21:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.22:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.23:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.24:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.3:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.4:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.5:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.6:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.7:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.8:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  11.0.9:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.0:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.0.alpha0:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.0.alpha1:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.0.alpha2:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.0.alpha3:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.0.beta0:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.0.beta1:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.0.beta2:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.0.beta3:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.0.beta4:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.1:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.10:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.11:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.12:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.13:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.14:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.2:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.3:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.4:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.5:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.6:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.7:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.8:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
+  12.0.9:
+    licensed:
+      declared: Apache-2.0 OR EPL-2.0
   9.0.0.M0:
     licensed:
       declared: Apache-2.0 OR EPL-1.0
@@ -577,259 +832,3 @@ revisions:
   9.4.9.v20180320:
     licensed:
       declared: Apache-2.0 OR EPL-1.0
-  10.0.0:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.0-alpha0:
-    licensed:
-      declared: Apache-2.0 OR EPL-1.0
-  10.0.0.alpha1:
-    licensed:
-      declared: Apache-2.0 OR EPL-1.0
-  10.0.0.alpha2:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.0.beta0:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.0.beta1:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.0.beta2:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.0.beta3:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.1:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.10:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.11:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.12:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.13:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.14:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.15:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.16:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.17:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.18:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.19:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.2:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.20:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.21:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.22:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.23:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.24:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.3:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.4:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.5:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.6:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.7:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.8:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  10.0.9:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.0:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.0-alpha0:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.0.beta1:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.0.beta2:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.0.beta3:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.1:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.10:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.11:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.12:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.13:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.14:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.15:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.16:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.17:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.18:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.19:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.2:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.20:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.21:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.22:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.23:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.24:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.3:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.4:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.5:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.6:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.7:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.8:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  11.0.9:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.0:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.0.alpha0:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.0.alpha1:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.0.alpha2:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.0.alpha3:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.0.beta0:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.0.beta1:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.0.beta2:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.0.beta3:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.0.beta4:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.1:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.10:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.11:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.12:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.13:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.14:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.2:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.3:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.4:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.5:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.6:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.7:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.8:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-  12.0.9:
-    licensed:
-      declared: Apache-2.0 OR EPL-2.0
-
