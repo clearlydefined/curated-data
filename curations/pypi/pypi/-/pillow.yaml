@@ -5,43 +5,43 @@ coordinates:
 revisions:
   10.0.0:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   6.0.0:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   6.2.0:
     files:
-      - license: HPND
+      - license: MIT-CMU
         path: Pillow-6.2.0/setup.py
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   6.2.1:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   9.0.0:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   9.0.1:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   9.1.0:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   9.1.1:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   9.2.0:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   9.3.0:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   9.4.0:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   9.5.0:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
   10.0.1:
     licensed:
-      declared: HPND
+      declared: MIT-CMU
