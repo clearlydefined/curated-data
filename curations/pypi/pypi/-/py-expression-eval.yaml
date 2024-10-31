@@ -1,0 +1,8 @@
+coordinates:
+  name: py-expression-eval
+  provider: pypi
+  type: pypi
+revisions:
+  0.3.14:
+    licensed:
+      declared: MIT

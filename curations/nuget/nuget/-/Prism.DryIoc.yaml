@@ -1,0 +1,8 @@
+coordinates:
+  name: Prism.DryIoc
+  provider: nuget
+  type: nuget
+revisions:
+  8.1.97:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: maven-impl-projects
+  namespace: org.jboss.forge.addon
+  provider: mavencentral
+  type: maven
+revisions:
+  3.10.0.Final:
+    licensed:
+      declared: EPL-1.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: halo
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.31:
+    licensed:
+      declared: MIT

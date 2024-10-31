@@ -1,0 +1,9 @@
+coordinates:
+  name: github-star-history
+  namespace: adamlui
+  provider: github
+  type: git
+revisions:
+  7bf5cf9852be06d6c7afede42c5a9ff470d94444:
+    licensed:
+      declared: MIT

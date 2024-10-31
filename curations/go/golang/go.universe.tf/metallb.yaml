@@ -1,0 +1,9 @@
+coordinates:
+  name: metallb
+  namespace: go.universe.tf
+  provider: golang
+  type: go
+revisions:
+  v0.11.0:
+    licensed:
+      declared: Apache-2.0

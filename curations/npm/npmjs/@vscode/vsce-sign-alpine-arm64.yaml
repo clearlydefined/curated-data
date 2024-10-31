@@ -1,0 +1,12 @@
+coordinates:
+  name: vsce-sign-alpine-arm64
+  namespace: '@vscode'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0:
+    licensed:
+      declared: OTHER
+  2.0.2:
+    licensed:
+      declared: OTHER

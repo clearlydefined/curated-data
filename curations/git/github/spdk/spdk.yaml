@@ -1,0 +1,9 @@
+coordinates:
+  name: spdk
+  namespace: spdk
+  provider: github
+  type: git
+revisions:
+  a771524779ceac7bdae7b15058404b9cc7320085:
+    licensed:
+      declared: BSD-3-Clause

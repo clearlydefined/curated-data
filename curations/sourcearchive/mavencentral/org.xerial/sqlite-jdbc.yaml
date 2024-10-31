@@ -1,0 +1,15 @@
+coordinates:
+  name: sqlite-jdbc
+  namespace: org.xerial
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  3.27.2:
+    described:
+      sourceLocation:
+        name: sqlite-jdbc
+        namespace: xerial
+        provider: github
+        revision: 5c6a7d6b5883187c1ee65e9a39c60562c47458b3
+        type: git
+        url: 'https://github.com/xerial/sqlite-jdbc/commit/5c6a7d6b5883187c1ee65e9a39c60562c47458b3'

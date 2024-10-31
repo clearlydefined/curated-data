@@ -46,3 +46,9 @@ revisions:
   6.6.0.202305301015-r:
     licensed:
       declared: BSD-3-Clause
+  6.6.1.202309021850-r:
+    licensed:
+      declared: BSD-3-Clause
+  6.7.0.202309050840-r:
+    licensed:
+      declared: BSD-3-Clause

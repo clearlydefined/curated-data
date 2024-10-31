@@ -1,0 +1,8 @@
+coordinates:
+  name: readable-stream-clone
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.7:
+    licensed:
+      declared: MIT

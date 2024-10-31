@@ -1,0 +1,9 @@
+coordinates:
+  name: ons
+  namespace: com.oracle.database.ha
+  provider: mavencentral
+  type: maven
+revisions:
+  19.6.0.0:
+    licensed:
+      declared: OTHER

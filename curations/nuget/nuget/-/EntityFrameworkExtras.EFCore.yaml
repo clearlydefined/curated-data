@@ -1,0 +1,14 @@
+coordinates:
+  name: EntityFrameworkExtras.EFCore
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.6:
+    licensed:
+      declared: MIT
+  6.0.7:
+    licensed:
+      declared: MIT
+  8.0.7:
+    licensed:
+      declared: MIT

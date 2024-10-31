@@ -1,0 +1,8 @@
+coordinates:
+  name: WindowsAzure.MobileServices.Backend
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.303:
+    licensed:
+      declared: Apache-2.0

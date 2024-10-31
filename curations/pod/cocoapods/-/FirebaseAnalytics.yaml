@@ -3,6 +3,42 @@ coordinates:
   provider: cocoapods
   type: pod
 revisions:
+  10.11.0:
+    licensed:
+      declared: OTHER
+  10.12.0:
+    licensed:
+      declared: OTHER
+  10.17.0:
+    licensed:
+      declared: OTHER
+  10.2.0:
+    licensed:
+      declared: OTHER
+  10.20.0:
+    licensed:
+      declared: OTHER
+  10.22.0:
+    licensed:
+      declared: OTHER
+  10.23.1:
+    licensed:
+      declared: OTHER
+  10.24.0:
+    licensed:
+      declared: OTHER
+  10.29.0:
+    licensed:
+      declared: OTHER
+  10.3.0:
+    licensed:
+      declared: OTHER
+  11.0.0:
+    licensed:
+      declared: OTHER
+  11.3.0:
+    licensed:
+      declared: OTHER
   6.0.2:
     licensed:
       declared: OTHER
@@ -13,6 +49,9 @@ revisions:
     licensed:
       declared: OTHER
   6.3.0:
+    licensed:
+      declared: OTHER
+  6.5.1:
     licensed:
       declared: OTHER
   6.6.0:
@@ -124,5 +163,14 @@ revisions:
     licensed:
       declared: OTHER
   9.2.0:
+    licensed:
+      declared: OTHER
+  9.4.0:
+    licensed:
+      declared: OTHER
+  9.5.0:
+    licensed:
+      declared: OTHER
+  9.6.0:
     licensed:
       declared: OTHER

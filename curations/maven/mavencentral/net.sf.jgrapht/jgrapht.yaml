@@ -1,0 +1,9 @@
+coordinates:
+  name: jgrapht
+  namespace: net.sf.jgrapht
+  provider: mavencentral
+  type: maven
+revisions:
+  0.8.3:
+    licensed:
+      declared: LGPL-2.1-or-later

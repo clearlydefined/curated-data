@@ -1,0 +1,9 @@
+coordinates:
+  name: arquillian-furnace-core
+  namespace: org.jboss.forge.furnace.test
+  provider: mavencentral
+  type: maven
+revisions:
+  2.29.1.Final:
+    licensed:
+      declared: EPL-1.0

@@ -3,6 +3,36 @@ coordinates:
   provider: cocoapods
   type: pod
 revisions:
+  10.11.0:
+    licensed:
+      declared: NONE
+  10.12.0:
+    licensed:
+      declared: NONE
+  10.17.0:
+    licensed:
+      declared: NONE
+  10.2.0:
+    licensed:
+      declared: NONE
+  10.20.0:
+    licensed:
+      declared: NONE
+  10.22.0:
+    licensed:
+      declared: NONE
+  10.23.1:
+    licensed:
+      declared: NONE
+  10.24.0:
+    licensed:
+      declared: NONE
+  10.3.0:
+    licensed:
+      declared: NONE
+  11.0.0:
+    licensed:
+      declared: NONE
   6.0.2:
     licensed:
       declared: NONE
@@ -93,6 +123,9 @@ revisions:
   8.14.0:
     licensed:
       declared: NONE
+  8.15.0:
+    licensed:
+      declared: NONE
   8.2.0:
     licensed:
       declared: NONE
@@ -120,6 +153,18 @@ revisions:
   8.9.1:
     licensed:
       declared: NONE
+  9.0.0:
+    licensed:
+      declared: NONE
   9.2.0:
+    licensed:
+      declared: NONE
+  9.4.0:
+    licensed:
+      declared: NONE
+  9.5.0:
+    licensed:
+      declared: NONE
+  9.6.0:
     licensed:
       declared: NONE

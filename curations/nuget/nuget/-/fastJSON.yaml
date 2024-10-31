@@ -6,3 +6,6 @@ revisions:
   2.1.31:
     licensed:
       declared: CPOL-1.02
+  2.4.0.4:
+    licensed:
+      declared: MIT

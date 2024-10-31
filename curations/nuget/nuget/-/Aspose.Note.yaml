@@ -1,0 +1,8 @@
+coordinates:
+  name: Aspose.Note
+  provider: nuget
+  type: nuget
+revisions:
+  23.2.0:
+    licensed:
+      declared: OTHER

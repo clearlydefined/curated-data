@@ -1,0 +1,9 @@
+coordinates:
+  name: goproxy
+  namespace: github.com%2felazarl
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20200421181703-e76ad31c14f6:
+    licensed:
+      declared: BSD-3-Clause

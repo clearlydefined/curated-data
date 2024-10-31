@@ -1,0 +1,9 @@
+coordinates:
+  name: composable_kernel
+  namespace: rocmsoftwareplatform
+  provider: github
+  type: git
+revisions:
+  5356c4a943a35e74d7cdc69486afcb8703b9a59a:
+    licensed:
+      declared: MIT

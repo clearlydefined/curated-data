@@ -16,7 +16,13 @@ revisions:
   '1.25':
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.27':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
   '1.29':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.32':
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
   '1.33':
@@ -26,6 +32,9 @@ revisions:
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
   '1.36':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
+  '1.37':
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
   1.4.1:

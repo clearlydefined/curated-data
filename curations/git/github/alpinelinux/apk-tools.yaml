@@ -1,0 +1,9 @@
+coordinates:
+  name: apk-tools
+  namespace: alpinelinux
+  provider: github
+  type: git
+revisions:
+  ee3740fcc681b8585b3d8d363453585cae4257aa:
+    licensed:
+      declared: GPL-2.0-or-later

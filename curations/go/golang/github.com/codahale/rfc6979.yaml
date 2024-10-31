@@ -1,0 +1,9 @@
+coordinates:
+  name: rfc6979
+  namespace: github.com%2Fcodahale
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20141003034818-6a90f24967eb:
+    licensed:
+      declared: MIT

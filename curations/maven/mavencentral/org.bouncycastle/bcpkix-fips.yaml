@@ -1,0 +1,9 @@
+coordinates:
+  name: bcpkix-fips
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.7:
+    licensed:
+      declared: MIT

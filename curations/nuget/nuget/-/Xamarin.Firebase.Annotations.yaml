@@ -6,3 +6,9 @@ revisions:
   116.1.0:
     licensed:
       declared: MIT
+  116.2.0.3:
+    licensed:
+      declared: MIT
+  116.2.0.4:
+    licensed:
+      declared: MIT

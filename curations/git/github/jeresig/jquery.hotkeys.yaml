@@ -1,0 +1,9 @@
+coordinates:
+  name: jquery.hotkeys
+  namespace: jeresig
+  provider: github
+  type: git
+revisions:
+  d73131df8a3a1a9cdfd6e5e0f740d7773d46702c:
+    licensed:
+      declared: GPL-2.0-only OR MIT

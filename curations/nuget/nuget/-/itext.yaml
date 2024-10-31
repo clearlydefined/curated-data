@@ -1,0 +1,8 @@
+coordinates:
+  name: itext
+  provider: nuget
+  type: nuget
+revisions:
+  8.0.5:
+    licensed:
+      declared: AGPL-3.0-or-later OR OTHER

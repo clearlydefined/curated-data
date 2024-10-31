@@ -1,0 +1,9 @@
+coordinates:
+  name: github-widescreen
+  namespace: adamlui
+  provider: github
+  type: git
+revisions:
+  ed8c4c377f6b99dab82b23747572f5a7e6d01fd0:
+    licensed:
+      declared: MIT

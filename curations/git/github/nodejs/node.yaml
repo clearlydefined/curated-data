@@ -7,6 +7,12 @@ revisions:
   0974fc6a25c343744235331eb20d31f6412ff7e1:
     licensed:
       declared: MIT
+  22f383dcd529d6bf790856db614a35fea78e825f:
+    licensed:
+      declared: MIT
+  2e414d5d1082233c3516fca923fe351d5186c80e:
+    licensed:
+      declared: MIT
   30d9e9fdd9d4c33d3d95a129d021cd8b5b91eddb:
     files:
       - attributions:
@@ -108,6 +114,9 @@ revisions:
         license: Apache-2.0
         path: deps/v8/test/mjsunit/asm/embenchen/lua_binarytrees.js
   7e463500b2483c084d1dbc016806d6f1092ddabf:
+    licensed:
+      declared: MIT
+  8a01b3dcb7d08a48bfd3e6bf85ef49faa1454839:
     licensed:
       declared: MIT
   a94966ffc114e831d4a917a97f9958d3385ab6f7:

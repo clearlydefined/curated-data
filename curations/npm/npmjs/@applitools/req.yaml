@@ -1,0 +1,18 @@
+coordinates:
+  name: req
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.23:
+    licensed:
+      declared: OTHER
+  1.1.28:
+    licensed:
+      declared: OTHER
+  1.1.30:
+    licensed:
+      declared: OTHER
+  1.6.4:
+    licensed:
+      declared: OTHER

@@ -7,6 +7,9 @@ revisions:
   0d44201451f03ba907cdb268ddddfc3fa38a0ebd:
     licensed:
       declared: Apache-2.0 WITH LLVM-exception
+  12fcca0afeb08fbe41d79c5387cfacb249992bb4:
+    licensed:
+      declared: Apache-2.0 WITH LLVM-exception
   19a71f6bdf2dddb10764939e7f0ec2b98dba76c9:
     licensed:
       declared: NCSA
@@ -17,6 +20,9 @@ revisions:
     licensed:
       declared: Apache-2.0 WITH LLVM-exception
   75e33f71c2dae584b13a7d1186ae0a038ba98838:
+    licensed:
+      declared: Apache-2.0 WITH LLVM-exception
+  7cbf1a2591520c2491aa35339f227775f4d3adf6:
     licensed:
       declared: Apache-2.0 WITH LLVM-exception
   b359686b8dbcde0ce625e060b263d3d13c05a631:
@@ -32,6 +38,9 @@ revisions:
     licensed:
       declared: Apache-2.0 WITH LLVM-exception
   d32170dbd5b0d54436537b6b75beaf44324e0c28:
+    licensed:
+      declared: Apache-2.0 WITH LLVM-exception
+  d5361190993a5df779eee245a18ceb76a7947833:
     licensed:
       declared: Apache-2.0 WITH LLVM-exception
   d7b669b3a30345cfcdb2fde2af6f48aa4b94845d:

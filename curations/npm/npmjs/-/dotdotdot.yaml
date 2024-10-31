@@ -1,0 +1,8 @@
+coordinates:
+  name: dotdotdot
+  provider: npmjs
+  type: npm
+revisions:
+  1.7.0:
+    licensed:
+      declared: MIT

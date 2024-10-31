@@ -6,57 +6,63 @@ coordinates:
 revisions:
   0b2eb6501c94ca6f95806569d546f93aba862abd:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   135ab5cf71ed731fc9fa0653051e7d4884a3652f:
     licensed:
       declared: BSD-2-Clause
   16aec06179a2c2661be77fd9ba3b202955de0c0b:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   19bd751020a1f3c3363b2eb67a039852f139a8d3:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   273d8865e31659f69528623754c1742b2819ad26:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   4fe0b11195b7cd71f39253c44db2c9dddf6b82d4:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   6cccdc24bcb8605965c1e2497c61504cd388bde9:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   7bdf0628b1276379886c7f6dda2cef2b3b374f0b:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   9bdd1596cef1b57b9556f8bef32dc4a32322ef3e:
     files:
       - attributions:
           - 'Copyright (c) 2012 - present, Victor Zverovich'
-        license: OTHER
+        license: MIT WITH fmt-exception
         path: LICENSE.rst
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   9e8b86fd2d9806672cc73133d21780dd182bfd24:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   a30b279bad752ff4c4967c6d1bfcfc8d79c6b170:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   a33701196adfad74917046096bf5a2aa0ab0bb50:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   b6f4ceaed0a0a24ccf575fab6c56dd50ccf6f1a9:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   c4ee726532178e556d923372f29163bd206d7732:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   cc09f1a6798c085c325569ef466bcdcffdc266d4:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
   cd4af11efc9c622896a3e4cb599fa28668ca3d05:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
+  e69e5f977d458f2650bb346dadf2ad30c5320281:
+    licensed:
+      declared: MIT WITH fmt-exception
   f19b1a521ee8b606dedcadfda69fd10ddf882753:
     licensed:
-      declared: OTHER
+      declared: MIT WITH fmt-exception
+  f5e54359df4c26b6230fc61d38aa294581393084:
+    licensed:
+      declared: MIT WITH fmt-exception

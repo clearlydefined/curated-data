@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-server-sdk
+  namespace: com.google.firebase
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.3:
+    licensed:
+      declared: OTHER

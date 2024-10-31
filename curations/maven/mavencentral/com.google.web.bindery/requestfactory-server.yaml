@@ -1,0 +1,9 @@
+coordinates:
+  name: requestfactory-server
+  namespace: com.google.web.bindery
+  provider: mavencentral
+  type: maven
+revisions:
+  2.9.0:
+    licensed:
+      declared: Apache-2.0

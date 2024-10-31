@@ -18,6 +18,9 @@ revisions:
   3.0.163:
     licensed:
       declared: MIT
+  3.0.190:
+    licensed:
+      declared: MIT
   3.0.201:
     licensed:
       declared: MIT
@@ -40,5 +43,19 @@ revisions:
     licensed:
       declared: MIT
   3.0.255:
+    licensed:
+      declared: MIT
+  3.0.263:
+    licensed:
+      declared: MIT
+  3.0.271:
+    described:
+      sourceLocation:
+        name: oneof
+        namespace: mcintyre321
+        provider: github
+        revision: 6e02dbe75d0f20f198c640d4c04190a85c5ac9e6
+        type: git
+        url: 'https://github.com/mcintyre321/oneof/commit/6e02dbe75d0f20f198c640d4c04190a85c5ac9e6'
     licensed:
       declared: MIT

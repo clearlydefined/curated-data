@@ -6,18 +6,30 @@ revisions:
   1.0.0.12:
     licensed:
       declared: MIT
-  1.0.0.14:
-    licensed:
-      declared: MIT
   1.0.0.13:
     licensed:
       declared: MIT
+  1.0.0.14:
+    licensed:
+      declared: MIT
+  1.0.0.16:
+    licensed:
+      declared: MIT
+  1.0.0.17:
+    licensed:
+      declared: MIT
   1.0.0.2:
+    licensed:
+      declared: MIT
+  1.0.0.20:
     licensed:
       declared: MIT
   1.0.0.4:
     licensed:
       declared: MIT
   1.0.0.5:
+    licensed:
+      declared: MIT
+  9999.0.0:
     licensed:
       declared: MIT

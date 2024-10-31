@@ -1,0 +1,12 @@
+coordinates:
+  name: pmd-javascript
+  namespace: net.sourceforge.pmd
+  provider: mavencentral
+  type: maven
+revisions:
+  7.0.0:
+    licensed:
+      declared: OTHER
+  6.49.0:
+    licensed:
+      declared: OTHER

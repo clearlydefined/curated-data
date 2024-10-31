@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.core.runtime
+  namespace: org.eclipse.platform
+  provider: mavencentral
+  type: maven
+revisions:
+  3.26.100:
+    licensed:
+      declared: EPL-2.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: uSync.ContentMappers
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.8:
+    licensed:
+      declared: MPL-2.0

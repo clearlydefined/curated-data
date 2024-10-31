@@ -27,3 +27,6 @@ revisions:
   1.59.0:
     licensed:
       declared: LGPL-3.0-or-later
+  1.59.1:
+    licensed:
+      declared: LGPL-3.0-or-later

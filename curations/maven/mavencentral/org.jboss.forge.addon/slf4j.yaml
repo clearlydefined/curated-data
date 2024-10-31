@@ -1,0 +1,9 @@
+coordinates:
+  name: slf4j
+  namespace: org.jboss.forge.addon
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.13:
+    licensed:
+      declared: CC0-1.0

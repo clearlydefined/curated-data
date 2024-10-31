@@ -1,0 +1,8 @@
+coordinates:
+  name: MVVM-Sidekick.Core
+  provider: nuget
+  type: nuget
+revisions:
+  1.2109.1106.1916:
+    licensed:
+      declared: MS-PL

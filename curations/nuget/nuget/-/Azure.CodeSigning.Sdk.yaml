@@ -1,0 +1,8 @@
+coordinates:
+  name: Azure.CodeSigning.Sdk
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.106:
+    licensed:
+      declared: OTHER

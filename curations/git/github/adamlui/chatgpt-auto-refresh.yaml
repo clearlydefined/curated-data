@@ -1,0 +1,9 @@
+coordinates:
+  name: chatgpt-auto-refresh
+  namespace: adamlui
+  provider: github
+  type: git
+revisions:
+  a173a74da13274eb30d1afb9853dcf631fab8cc3:
+    licensed:
+      declared: MIT

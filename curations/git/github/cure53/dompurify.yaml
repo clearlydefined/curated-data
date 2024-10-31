@@ -1,0 +1,15 @@
+coordinates:
+  name: dompurify
+  namespace: cure53
+  provider: github
+  type: git
+revisions:
+  15f54ed66d99a824d8d3030f711ff82af68ad191:
+    licensed:
+      declared: Apache-2.0 OR MPL-2.0
+  79cfb378f326e6d92574e784ea19500e29dd4c38:
+    licensed:
+      declared: Apache-2.0 OR MPL-2.0
+  c96c9df61f1070146c0c13078e85b33d8fed3e51:
+    licensed:
+      declared: Apache-2.0 OR MPL-2.0

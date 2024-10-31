@@ -10,6 +10,9 @@ revisions:
   1.4.190:
     licensed:
       declared: MPL-2.0 OR EPL-1.0
+  1.4.191:
+    licensed:
+      declared: MPL-2.0 OR EPL-1.0
   1.4.192:
     licensed:
       declared: MPL-2.0 OR EPL-1.0
@@ -52,5 +55,8 @@ revisions:
     licensed:
       declared: MPL-2.0 OR EPL-1.0
   2.2.220:
+    licensed:
+      declared: MPL-2.0 OR EPL-1.0
+  2.2.224:
     licensed:
       declared: MPL-2.0 OR EPL-1.0

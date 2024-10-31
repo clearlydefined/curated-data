@@ -1,0 +1,9 @@
+coordinates:
+  name: fanotify
+  namespace: github.com%2Fs3rj1k%2Fgo-fanotify
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20210917134616-9c00a300bb7a:
+    licensed:
+      declared: MIT

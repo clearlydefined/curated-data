@@ -3,6 +3,29 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.11.0:
+    licensed:
+      declared: MIT
+  0.12.0:
+    licensed:
+      declared: MIT
+  0.13.0:
+    licensed:
+      declared: MIT
   0.6.1:
+    licensed:
+      declared: MIT
+  0.8.0:
+    described:
+      sourceLocation:
+        name: nredisstack
+        namespace: redis
+        provider: github
+        revision: d06f758b12d95f710c4b2b0ddb06a539727d253d
+        type: git
+        url: 'https://github.com/redis/nredisstack/commit/d06f758b12d95f710c4b2b0ddb06a539727d253d'
+    licensed:
+      declared: MIT
+  0.9.0:
     licensed:
       declared: MIT

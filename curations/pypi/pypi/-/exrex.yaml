@@ -1,0 +1,8 @@
+coordinates:
+  name: exrex
+  provider: pypi
+  type: pypi
+revisions:
+  0.11.0:
+    licensed:
+      declared: AGPL-3.0-or-later

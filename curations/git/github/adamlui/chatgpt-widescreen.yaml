@@ -1,0 +1,9 @@
+coordinates:
+  name: chatgpt-widescreen
+  namespace: adamlui
+  provider: github
+  type: git
+revisions:
+  f6d8f3dc61eebf0397f83b9b7a7c73a5bcbdeba7:
+    licensed:
+      declared: MIT

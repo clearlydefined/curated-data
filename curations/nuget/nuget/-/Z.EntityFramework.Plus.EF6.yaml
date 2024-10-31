@@ -9,3 +9,6 @@ revisions:
   5.1.8:
     licensed:
       declared: MIT
+  8.102.1:
+    licensed:
+      declared: MIT

@@ -1,0 +1,11 @@
+coordinates:
+  name: Cake.AzureDevOps
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.2:
+    licensed:
+      declared: MIT
+  4.0.0:
+    licensed:
+      declared: MIT

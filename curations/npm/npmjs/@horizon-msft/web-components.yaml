@@ -1,0 +1,9 @@
+coordinates:
+  name: web-components
+  namespace: '@horizon-msft'
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.10:
+    licensed:
+      declared: NONE

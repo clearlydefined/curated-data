@@ -1,0 +1,12 @@
+coordinates:
+  name: mysql-connector-j
+  namespace: com.mysql
+  provider: mavencentral
+  type: maven
+revisions:
+  8.0.31:
+    licensed:
+      declared: OTHER
+  8.3.0:
+    licensed:
+      declared: OTHER

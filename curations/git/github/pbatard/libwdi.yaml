@@ -1,0 +1,9 @@
+coordinates:
+  name: libwdi
+  namespace: pbatard
+  provider: github
+  type: git
+revisions:
+  bc2336edbf0b10341156287fc797598d090b9958:
+    licensed:
+      declared: LGPL-3.0-or-later

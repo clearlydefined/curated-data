@@ -1,0 +1,9 @@
+coordinates:
+  name: com.diffplug.osgi.extension.sun.misc
+  namespace: com.diffplug.osgi
+  provider: mavencentral
+  type: maven
+revisions:
+  0.0.0:
+    licensed:
+      declared: Unlicense

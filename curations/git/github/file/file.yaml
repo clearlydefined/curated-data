@@ -6,7 +6,7 @@ coordinates:
 revisions:
   315cef2f699da3c31a54bd3c6c6070680fbaf1f5:
     licensed:
-      declared: BSD-2-Clause
+      declared: BSD-2-Clause-Darwin
   ec41083645689a787cdd00cb3b5bf578aa79e46c:
     licensed:
-      declared: BSD-2-Clause
+      declared: BSD-2-Clause-Darwin

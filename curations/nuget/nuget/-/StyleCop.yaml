@@ -12,7 +12,13 @@ revisions:
   4.7.49:
     licensed:
       declared: MS-PL
+  4.7.55:
+    licensed:
+      declared: MS-PL
   5.0.0:
+    licensed:
+      declared: MS-PL
+  6.0.0:
     licensed:
       declared: MS-PL
   6.1.0:

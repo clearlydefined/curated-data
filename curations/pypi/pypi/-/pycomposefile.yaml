@@ -1,0 +1,8 @@
+coordinates:
+  name: pycomposefile
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.30:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: keycloak-sssd-federation
+  namespace: org.keycloak
+  provider: mavencentral
+  type: maven
+revisions:
+  22.0.3:
+    licensed:
+      declared: AFL-2.1 OR LGPL-2.1-only

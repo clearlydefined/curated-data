@@ -1,0 +1,9 @@
+coordinates:
+  name: decompiler-procyon
+  namespace: org.jboss.windup.decompiler
+  provider: mavencentral
+  type: maven
+revisions:
+  6.3.0.Final:
+    licensed:
+      declared: EPL-1.0

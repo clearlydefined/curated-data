@@ -12,3 +12,6 @@ revisions:
         revision: 04aa578b8c8b8ba5c3f2ec87c6e28db0fa99471b
         type: git
         url: 'https://github.com/sfackler/rust-openssl/commit/04aa578b8c8b8ba5c3f2ec87c6e28db0fa99471b'
+  0.10.68:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: flake8-expression-complexity
+  provider: pypi
+  type: pypi
+revisions:
+  0.0.11:
+    licensed:
+      declared: MIT

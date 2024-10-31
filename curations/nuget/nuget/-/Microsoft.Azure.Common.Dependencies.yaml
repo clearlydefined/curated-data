@@ -1,6 +1,5 @@
 coordinates:
   name: Microsoft.Azure.Common.Dependencies
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -11,8 +10,7 @@ revisions:
         provider: github
         revision: f21becea26b27c8cda588df8931849f04131589e
         type: git
-        url: >-
-          https://github.com/Azure/azure-sdk-for-net/commit/f21becea26b27c8cda588df8931849f04131589e
+        url: 'https://github.com/Azure/azure-sdk-for-net/commit/f21becea26b27c8cda588df8931849f04131589e'
         name: azure-sdk-for-net
         namespace: Azure
     licensed:

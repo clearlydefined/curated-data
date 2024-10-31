@@ -3,9 +3,18 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.78.0:
+    licensed:
+      declared: BSL-1.0
   1.79.0:
     licensed:
       declared: BSL-1.0
   1.80.0:
+    licensed:
+      declared: BSL-1.0
+  1.83.0:
+    licensed:
+      declared: BSL-1.0
+  1.84.0:
     licensed:
       declared: BSL-1.0

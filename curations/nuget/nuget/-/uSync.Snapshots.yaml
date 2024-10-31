@@ -1,0 +1,8 @@
+coordinates:
+  name: uSync.Snapshots
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.1:
+    licensed:
+      declared: MPL-2.0

@@ -12,3 +12,6 @@ revisions:
   8.1.5717:
     licensed:
       declared: Zlib
+  8.2.1:
+    licensed:
+      declared: Zlib

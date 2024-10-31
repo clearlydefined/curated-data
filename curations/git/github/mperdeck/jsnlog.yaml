@@ -1,0 +1,9 @@
+coordinates:
+  name: jsnlog
+  namespace: mperdeck
+  provider: github
+  type: git
+revisions:
+  cda8380d2470c3cc7750f482632f5d705944af3c:
+    licensed:
+      declared: MIT

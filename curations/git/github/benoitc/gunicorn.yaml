@@ -1,0 +1,9 @@
+coordinates:
+  name: gunicorn
+  namespace: benoitc
+  provider: github
+  type: git
+revisions:
+  ab9c8301cb9ae573ba597154ddeea16f0326fc15:
+    licensed:
+      declared: MIT

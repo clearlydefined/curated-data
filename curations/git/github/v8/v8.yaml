@@ -12,7 +12,7 @@ revisions:
         path: tools/testrunner/server/daemon.py
       - attributions:
           - 'Copyright (c) 1993-2004 by Sun Microsystems, Inc.'
-        license: OTHER
+        license: SunPro
         path: LICENSE.fdlibm
       - attributions:
           - Copyright 2014 the V8 project
@@ -21,7 +21,7 @@ revisions:
       - attributions:
           - Copyright 2016 the V8 project
           - 'Copyright (c) 1993 by Sun Microsystems, Inc.'
-        license: OTHER
+        license: SunPro
         path: src/base/ieee754.cc
       - license: NONE
         path: src/crankshaft/arm64/OWNERS

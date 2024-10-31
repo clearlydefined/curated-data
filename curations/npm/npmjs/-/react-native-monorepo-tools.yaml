@@ -1,0 +1,8 @@
+coordinates:
+  name: react-native-monorepo-tools
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.4:
+    licensed:
+      declared: AGPL-3.0-only

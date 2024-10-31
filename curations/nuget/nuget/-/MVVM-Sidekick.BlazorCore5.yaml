@@ -1,0 +1,8 @@
+coordinates:
+  name: MVVM-Sidekick.BlazorCore5
+  provider: nuget
+  type: nuget
+revisions:
+  0.2210.848.2809:
+    licensed:
+      declared: MS-PL

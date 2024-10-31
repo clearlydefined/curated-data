@@ -1,0 +1,14 @@
+coordinates:
+  name: zerovec-derive
+  provider: cratesio
+  type: crate
+revisions:
+  0.10.0:
+    licensed:
+      declared: Unicode-3.0
+  0.10.2:
+    licensed:
+      declared: Unicode-3.0
+  0.10.3:
+    licensed:
+      declared: Unicode-3.0

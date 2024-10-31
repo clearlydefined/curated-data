@@ -1,0 +1,23 @@
+coordinates:
+  name: OpenAI
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0:
+    licensed:
+      declared: MIT
+  2.0.0-beta.10:
+    licensed:
+      declared: MIT
+  2.0.0-beta.11:
+    licensed:
+      declared: MIT
+  2.0.0-beta.3:
+    licensed:
+      declared: MIT
+  2.0.0-beta.5:
+    licensed:
+      declared: MIT
+  2.0.0-beta.9:
+    licensed:
+      declared: MIT

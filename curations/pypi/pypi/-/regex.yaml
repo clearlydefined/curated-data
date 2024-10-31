@@ -93,6 +93,9 @@ revisions:
   2021.8.28:
     licensed:
       declared: Apache-2.0
+  2021.8.3:
+    licensed:
+      declared: Apache-2.0
   2021.9.24:
     licensed:
       declared: Apache-2.0
@@ -120,6 +123,12 @@ revisions:
   2022.9.13:
     licensed:
       declared: Apache-2.0
+  2023.10.3:
+    licensed:
+      declared: Apache-2.0
+  2023.12.25:
+    licensed:
+      declared: Apache-2.0
   2023.3.23:
     licensed:
       declared: Apache-2.0
@@ -133,5 +142,8 @@ revisions:
     licensed:
       declared: Apache-2.0
   2023.6.3:
+    licensed:
+      declared: Apache-2.0
+  2023.8.8:
     licensed:
       declared: Apache-2.0

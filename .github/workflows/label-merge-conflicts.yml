@@ -5,16 +5,16 @@ on:
       - main
   pull_request_target:
 
-
 jobs:
   main:
     runs-on: ubuntu-latest
     steps:
       - name: check if PRs have conflicts
-        uses: eps1lon/actions-label-merge-conflict@releases/2.x
+        uses: eps1lon/actions-label-merge-conflict@v3
         with:
           dirtyLabel: "merge conflict"
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
+          retryAfter: 10
           commentOnClean: |
             @${{github.actor}}
             Conflicts have been resolved. :thumbsup:

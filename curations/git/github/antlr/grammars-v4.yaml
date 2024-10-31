@@ -1,0 +1,9 @@
+coordinates:
+  name: grammars-v4
+  namespace: antlr
+  provider: github
+  type: git
+revisions:
+  48109ae71e8e3916d7063d002700fcfda19cf2b2:
+    licensed:
+      declared: OTHER

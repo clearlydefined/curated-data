@@ -1,0 +1,8 @@
+coordinates:
+  name: FsCloudInit
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.11:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: spirv-headers
+  namespace: khronosgroup
+  provider: github
+  type: git
+revisions:
+  f8bf11a0253a32375c32cad92c841237b96696c0:
+    licensed:
+      declared: MIT-Khronos-old

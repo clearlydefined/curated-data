@@ -9,3 +9,6 @@ revisions:
   4.8.0:
     licensed:
       declared: ISC
+  4.9.0:
+    licensed:
+      declared: ISC

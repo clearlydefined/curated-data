@@ -1,0 +1,9 @@
+coordinates:
+  name: lombok
+  namespace: projectlombok
+  provider: github
+  type: git
+revisions:
+  57a886bb658de455da641635c586b20ed85c9a79:
+    licensed:
+      declared: MIT

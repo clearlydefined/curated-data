@@ -1,6 +1,5 @@
 coordinates:
   name: Autofac
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -8,25 +7,26 @@ revisions:
     described:
       releaseDate: '2017-05-16'
       sourceLocation:
+        name: Autofac
+        namespace: autofac
         provider: github
         revision: a12b3ab799d23d3143faad47b50fd5cee4dbb0e2
         type: git
-        url: >-
-          https://github.com/autofac/Autofac/commit/a12b3ab799d23d3143faad47b50fd5cee4dbb0e2
-        name: Autofac
-        namespace: autofac
+        url: 'https://github.com/autofac/Autofac/commit/a12b3ab799d23d3143faad47b50fd5cee4dbb0e2'
     licensed:
       declared: MIT
   4.6.1:
     described:
       releaseDate: '2017-07-25'
       sourceLocation:
+        name: Autofac
+        namespace: autofac
         provider: github
         revision: c5e5cfb38fc5ec363b96e95917b77d86d577c03f
         type: git
-        url: >-
-          https://github.com/autofac/Autofac/commit/c5e5cfb38fc5ec363b96e95917b77d86d577c03f
-        name: Autofac
-        namespace: autofac
+        url: 'https://github.com/autofac/Autofac/commit/c5e5cfb38fc5ec363b96e95917b77d86d577c03f'
+    licensed:
+      declared: MIT
+  8.1.1:
     licensed:
       declared: MIT

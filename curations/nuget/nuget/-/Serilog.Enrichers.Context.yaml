@@ -1,0 +1,8 @@
+coordinates:
+  name: Serilog.Enrichers.Context
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.5:
+    licensed:
+      declared: Apache-2.0

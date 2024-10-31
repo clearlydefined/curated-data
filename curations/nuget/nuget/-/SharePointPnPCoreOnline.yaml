@@ -6,6 +6,9 @@ revisions:
   2.24.1803:
     licensed:
       declared: MIT
+  2.28.1807:
+    licensed:
+      declared: MIT
   3.12.1908:
     licensed:
       declared: MIT

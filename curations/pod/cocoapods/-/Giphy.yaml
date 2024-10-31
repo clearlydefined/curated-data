@@ -1,0 +1,8 @@
+coordinates:
+  name: Giphy
+  provider: cocoapods
+  type: pod
+revisions:
+  2.1.22:
+    licensed:
+      declared: OTHER

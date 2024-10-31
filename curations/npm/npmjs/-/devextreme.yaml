@@ -9,12 +9,24 @@ revisions:
   21.2.14:
     licensed:
       declared: OTHER
+  21.2.15:
+    licensed:
+      declared: OTHER
   21.2.5:
+    licensed:
+      declared: OTHER
+  22.2.10:
+    licensed:
+      declared: OTHER
+  22.2.11:
     licensed:
       declared: OTHER
   22.2.6:
     licensed:
       declared: OTHER
   22.2.8:
+    licensed:
+      declared: OTHER
+  23.1.9:
     licensed:
       declared: OTHER

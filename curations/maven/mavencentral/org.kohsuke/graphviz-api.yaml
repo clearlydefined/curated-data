@@ -6,4 +6,7 @@ coordinates:
 revisions:
   '1.0':
     licensed:
-      declared: NONE
+      declared: CPL-1.0
+  '1.1':
+    licensed:
+      declared: CPL-1.0

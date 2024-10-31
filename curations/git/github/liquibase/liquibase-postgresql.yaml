@@ -1,0 +1,9 @@
+coordinates:
+  name: liquibase-postgresql
+  namespace: liquibase
+  provider: github
+  type: git
+revisions:
+  7bee2b60585c4470baedbd3008eb134bbb201f45:
+    licensed:
+      declared: Apache-2.0

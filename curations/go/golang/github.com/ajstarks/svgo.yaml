@@ -19,6 +19,9 @@ revisions:
   v0.0.0-20200725142600-7a3c8b57fecb:
     licensed:
       declared: CC-BY-4.0
+  v0.0.0-20210923152817-c3b6e2f0c527:
+    licensed:
+      declared: CC-BY-4.0
   v0.0.0-20211024235047-1546f124cd8b:
     licensed:
       declared: CC-BY-4.0

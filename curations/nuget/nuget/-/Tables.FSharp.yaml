@@ -1,0 +1,16 @@
+coordinates:
+  name: Tables.FSharp
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.0:
+    described:
+      sourceLocation:
+        name: tables.fsharp
+        namespace: dzoukr
+        provider: github
+        revision: bef1c8df223a109d25c3ffd39215b031959f8421
+        type: git
+        url: 'https://github.com/dzoukr/tables.fsharp/commit/bef1c8df223a109d25c3ffd39215b031959f8421'
+    licensed:
+      declared: MIT

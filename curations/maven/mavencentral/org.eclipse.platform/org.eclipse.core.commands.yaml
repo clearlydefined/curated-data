@@ -1,0 +1,12 @@
+coordinates:
+  name: org.eclipse.core.commands
+  namespace: org.eclipse.platform
+  provider: mavencentral
+  type: maven
+revisions:
+  3.12.100:
+    licensed:
+      declared: EPL-2.0
+  3.9.700:
+    licensed:
+      declared: EPL-2.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: ZymLabs.NSwag.FluentValidation.AspNetCore
+  provider: nuget
+  type: nuget
+revisions:
+  0.6.2:
+    licensed:
+      declared: MIT

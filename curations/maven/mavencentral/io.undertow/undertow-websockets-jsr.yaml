@@ -754,10 +754,16 @@ revisions:
   2.2.16.Final:
     licensed:
       declared: Apache-2.0
+  2.2.19.Final:
+    licensed:
+      declared: Apache-2.0
   2.2.2.Final:
     licensed:
       declared: Apache-2.0
   2.2.20.Final:
+    licensed:
+      declared: Apache-2.0
+  2.2.28.final:
     licensed:
       declared: Apache-2.0
   2.2.3.Final:

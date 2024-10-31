@@ -1,0 +1,15 @@
+coordinates:
+  name: ojdbc11
+  namespace: com.oracle.database.jdbc
+  provider: mavencentral
+  type: maven
+revisions:
+  21.1.0.0:
+    licensed:
+      declared: OTHER
+  23.2.0.0:
+    licensed:
+      declared: OTHER
+  23.3.0.23.09:
+    licensed:
+      declared: OTHER

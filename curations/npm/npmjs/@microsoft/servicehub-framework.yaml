@@ -1,0 +1,9 @@
+coordinates:
+  name: servicehub-framework
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  4.2.99-beta:
+    licensed:
+      declared: OTHER

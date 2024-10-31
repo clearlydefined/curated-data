@@ -1,0 +1,8 @@
+coordinates:
+  name: ngx-slimscroll
+  provider: npmjs
+  type: npm
+revisions:
+  11.0.0:
+    licensed:
+      declared: MIT

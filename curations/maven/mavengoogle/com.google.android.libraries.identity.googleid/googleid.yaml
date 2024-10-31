@@ -1,0 +1,9 @@
+coordinates:
+  name: googleid
+  namespace: com.google.android.libraries.identity.googleid
+  provider: mavengoogle
+  type: maven
+revisions:
+  1.1.0:
+    licensed:
+      declared: OTHER

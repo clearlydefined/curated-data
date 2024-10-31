@@ -1,0 +1,12 @@
+coordinates:
+  name: go-tpm-tools
+  namespace: github.com%2fgoogle
+  provider: golang
+  type: go
+revisions:
+  v0.4.3:
+    licensed:
+      declared: Apache-2.0
+  v0.4.4:
+    licensed:
+      declared: Apache-2.0

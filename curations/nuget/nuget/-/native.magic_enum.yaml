@@ -1,0 +1,8 @@
+coordinates:
+  name: native.magic_enum
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.5:
+    licensed:
+      declared: MIT

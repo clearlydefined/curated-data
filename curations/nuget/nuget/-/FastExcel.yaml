@@ -1,0 +1,8 @@
+coordinates:
+  name: FastExcel
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.6:
+    licensed:
+      declared: MIT

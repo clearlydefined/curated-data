@@ -15,6 +15,9 @@ revisions:
   1.0.333:
     licensed:
       declared: MIT
+  1.0.371:
+    licensed:
+      declared: MIT
   1.0.394:
     licensed:
       declared: MIT
@@ -59,6 +62,9 @@ revisions:
         revision: 1f514259be17897c22cbe73dc7b929ade458e56d
         type: git
         url: 'https://github.com/StackExchange/StackExchange.Redis/commit/1f514259be17897c22cbe73dc7b929ade458e56d'
+    licensed:
+      declared: MIT
+  1.2.0:
     licensed:
       declared: MIT
   1.2.1:

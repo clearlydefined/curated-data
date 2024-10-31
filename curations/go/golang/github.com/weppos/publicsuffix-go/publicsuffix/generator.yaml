@@ -1,0 +1,9 @@
+coordinates:
+  name: generator
+  namespace: github.com%2Fweppos%2Fpublicsuffix-go%2Fpublicsuffix
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220927085643-dc0d00c92642:
+    licensed:
+      declared: MIT

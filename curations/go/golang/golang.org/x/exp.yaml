@@ -7,3 +7,51 @@ revisions:
   v0.0.0-20220303212507-bbda1eaf7a17:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  v0.0.0-20230224173230-c95f2b4c22f2:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20230307190834-24139beb5833:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20230425010034-47ecfdc1ba53:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20231006140011-7918f672742d:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20231108232855-2478ac86f678:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20240416160154-fe59bbe5cc7f:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20240506185415-9bf2ced13842:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20240529005216-23cca8864a10:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20240530194437-404ba88c7ed0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20240604190554-fc45aab8b7f8:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20240613232115-7f521ea00fb8:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20240707233637-46b078467d37:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20240719175910-8a7402abbf56:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20240808152545-0cdaa3abc0fa:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20240823005443-9b4947da3948:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  v0.0.0-20240904232852-e7e105dedf7e:
+    licensed:
+      declared: BSD-3-Clause AND OTHER

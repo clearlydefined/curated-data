@@ -1,0 +1,15 @@
+coordinates:
+  name: react-components
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.42.0:
+    described:
+      sourceLocation:
+        name: fluentui
+        namespace: microsoft
+        provider: github
+        revision: 16a455faaa3d82848b37a14096e4ac679359ebb9
+        type: git
+        url: 'https://github.com/microsoft/fluentui/commit/16a455faaa3d82848b37a14096e4ac679359ebb9'

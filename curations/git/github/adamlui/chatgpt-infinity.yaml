@@ -1,0 +1,9 @@
+coordinates:
+  name: chatgpt-infinity
+  namespace: adamlui
+  provider: github
+  type: git
+revisions:
+  918effc5add0642ec63cda0635dd8b6df0ca716d:
+    licensed:
+      declared: MIT

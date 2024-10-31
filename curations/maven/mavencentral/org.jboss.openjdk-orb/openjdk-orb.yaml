@@ -7,3 +7,6 @@ revisions:
   8.1.4.Final:
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
+  8.1.7.Final:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0

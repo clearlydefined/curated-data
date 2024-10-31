@@ -7,6 +7,15 @@ revisions:
   5.0.3:
     licensed:
       declared: EPL-2.0
+  5.10.0:
+    licensed:
+      declared: EPL-2.0
+  5.10.1:
+    licensed:
+      declared: EPL-2.0
+  5.10.2:
+    licensed:
+      declared: EPL-2.0
   5.2.0:
     licensed:
       declared: EPL-2.0

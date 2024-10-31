@@ -1,0 +1,8 @@
+coordinates:
+  name: DirectWindowsWinmd.Net
+  provider: nuget
+  type: nuget
+revisions:
+  10.0.15063:
+    licensed:
+      declared: NONE

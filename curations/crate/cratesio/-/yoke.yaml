@@ -1,0 +1,11 @@
+coordinates:
+  name: yoke
+  provider: cratesio
+  type: crate
+revisions:
+  0.7.2:
+    licensed:
+      declared: Unicode-3.0
+  0.7.4:
+    licensed:
+      declared: Unicode-3.0

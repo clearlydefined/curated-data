@@ -1,0 +1,9 @@
+coordinates:
+  name: alluxio-core-common
+  namespace: org.alluxio
+  provider: mavencentral
+  type: maven
+revisions:
+  '310':
+    licensed:
+      declared: Apache-2.0

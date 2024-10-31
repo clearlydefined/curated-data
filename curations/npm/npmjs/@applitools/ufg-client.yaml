@@ -1,0 +1,15 @@
+coordinates:
+  name: ufg-client
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.12:
+    licensed:
+      declared: OTHER
+  1.1.22:
+    licensed:
+      declared: OTHER
+  1.9.9:
+    licensed:
+      declared: OTHER

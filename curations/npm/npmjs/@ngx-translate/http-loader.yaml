@@ -1,0 +1,9 @@
+coordinates:
+  name: http-loader
+  namespace: '@ngx-translate'
+  provider: npmjs
+  type: npm
+revisions:
+  8.0.0:
+    licensed:
+      declared: MIT

@@ -6,4 +6,19 @@ coordinates:
 revisions:
   5.5.2:
     licensed:
-      declared: BSD-3-Clause
+      declared: OTHER
+  6.21.0:
+    licensed:
+      declared: OTHER
+  6.49.0:
+    licensed:
+      declared: OTHER
+  6.51.0:
+    licensed:
+      declared: OTHER
+  6.55.0:
+    licensed:
+      declared: OTHER
+  7.0.0:
+    licensed:
+      declared: OTHER

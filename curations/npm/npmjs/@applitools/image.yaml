@@ -1,0 +1,15 @@
+coordinates:
+  name: image
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.17:
+    licensed:
+      declared: OTHER
+  1.0.22:
+    licensed:
+      declared: OTHER
+  1.1.9:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: cleanarchitecture
+  namespace: ardalis
+  provider: github
+  type: git
+revisions:
+  5134626a733de5286a32e36a67fdc1af4671d194:
+    licensed:
+      declared: MIT

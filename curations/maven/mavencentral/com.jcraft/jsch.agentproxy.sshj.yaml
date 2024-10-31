@@ -1,0 +1,9 @@
+coordinates:
+  name: jsch.agentproxy.sshj
+  namespace: com.jcraft
+  provider: mavencentral
+  type: maven
+revisions:
+  0.0.9:
+    licensed:
+      declared: BSD-3-Clause

@@ -354,3 +354,6 @@ revisions:
   20.4.0.44:
     licensed:
       declared: OTHER
+  21.2.10:
+    licensed:
+      declared: OTHER

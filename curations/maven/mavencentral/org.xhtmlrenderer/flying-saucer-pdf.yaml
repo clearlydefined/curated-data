@@ -1,0 +1,12 @@
+coordinates:
+  name: flying-saucer-pdf
+  namespace: org.xhtmlrenderer
+  provider: mavencentral
+  type: maven
+revisions:
+  9.1.22:
+    licensed:
+      declared: LGPL-2.1-or-later
+  9.4.1:
+    licensed:
+      declared: LGPL-2.1-or-later

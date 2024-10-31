@@ -1,0 +1,8 @@
+coordinates:
+  name: SFML.Audio
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.0:
+    licensed:
+      declared: Zlib

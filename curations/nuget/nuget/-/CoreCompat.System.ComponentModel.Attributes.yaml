@@ -1,0 +1,8 @@
+coordinates:
+  name: CoreCompat.System.ComponentModel.Attributes
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.3-rg:
+    licensed:
+      declared: NONE

@@ -1,0 +1,9 @@
+coordinates:
+  name: obs-backgroundremoval
+  namespace: occ-ai
+  provider: github
+  type: git
+revisions:
+  3f8bc140e1c900903596a4769d59e966740b10c7:
+    licensed:
+      declared: GPL-2.0-only

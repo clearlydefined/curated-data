@@ -1,0 +1,9 @@
+coordinates:
+  name: minizip
+  namespace: nmoinvaz
+  provider: github
+  type: git
+revisions:
+  6d35b6b8845fae3d3cbde67bdad40e47e4623cf8:
+    licensed:
+      declared: Zlib

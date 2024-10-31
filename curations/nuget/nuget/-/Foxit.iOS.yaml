@@ -1,0 +1,8 @@
+coordinates:
+  name: Foxit.iOS
+  provider: nuget
+  type: nuget
+revisions:
+  8.4.1:
+    licensed:
+      declared: OTHER

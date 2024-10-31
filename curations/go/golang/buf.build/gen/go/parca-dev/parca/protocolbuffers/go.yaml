@@ -1,0 +1,9 @@
+coordinates:
+  name: go
+  namespace: buf.build%2Fgen%2Fgo%2Fparca-dev%2Fparca%2Fprotocolbuffers
+  provider: golang
+  type: go
+revisions:
+  v1.28.1-20221222094228-8b1d3d0f62e6.4:
+    licensed:
+      declared: Apache-2.0

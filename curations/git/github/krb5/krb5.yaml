@@ -12,143 +12,116 @@ revisions:
       - attributions:
           - 'Copyright 1992-2018 Free Software Foundation, Inc.'
           - 'Copyright (c) 2010, 2011 by the Massachusetts Institute of Technology.'
-        license: GPL-3.0-or-later AND OTHER
+        license: GPL-3.0-or-later WITH Autoconf-exception-generic-3.0
         path: src/config/config.guess
       - attributions:
           - 'Copyright 1992-2018 Free Software Foundation, Inc.'
           - 'Copyright (c) 1998 by the FundsXpress, INC.'
           - 'Copyright 1993 by OpenVision Technologies, Inc.'
-        license: GPL-3.0-or-later AND OTHER
+        license: GPL-3.0-or-later WITH Autoconf-exception-generic-3.0
         path: src/config/config.sub
-      - attributions:
-          - 'Copyright (c) 2006-2008, Novell, Inc.'
-          - 'Copyright 1993 by OpenVision Technologies, Inc.'
-        license: BSD-3-Clause AND HPND-sell-variant
-        path: src/lib/gssapi/krb5/inq_context.c
-      - attributions:
-          - Copyright (c) 2011 by the Massachusetts Institute of Technology.
-          - 'Copyright (c) 2007 Kungliga Tekniska Hogskolan (Royal Institute of Technology, Stockholm, Sweden).'
-          - 'Copyright 1993 by OpenVision Technologies, Inc.'
-        license: BSD-3-Clause AND OTHER
-        path: src/lib/crypto/krb/t_fortuna.c
-      - attributions:
-          - Copyright (c) 2011 by the Massachusetts Institute of Technology.
-          - 'Copyright (c) 1995, 1996, 1997 Kungliga Tekniska Hogskolan (Royal Institute of Technology, Stockholm, Sweden).'
-        license: BSD-3-Clause AND OTHER
-        path: src/util/support/gettimeofday.c
-      - attributions:
-          - 'Copyright (c) 2002, 2016 by the Massachusetts Institute of Technology.'
-          - 'Copyright (c) 1990, 1993, 1994 The Regents of the University of California.'
-        license: BSD-4-Clause-UC AND OTHER
-        path: src/plugins/kdb/db2/libdb2/btree/bt_seq.c
-      - attributions:
-          - 'Copyright (c) 2006-2008, Novell, Inc.'
-          - 'Copyright 1993 by OpenVision Technologies, Inc.'
-        license: BSD-3-Clause AND HPND-sell-variant
-        path: src/lib/gssapi/krb5/inq_context.c
-      - attributions:
-          - Copyright (c) 2011 by the Massachusetts Institute of Technology.
-          - 'Copyright (c) 2007 Kungliga Tekniska Hogskolan (Royal Institute of Technology, Stockholm, Sweden).'
-          - 'Copyright 1993 by OpenVision Technologies, Inc.'
-        license: BSD-3-Clause AND OTHER
-        path: src/lib/crypto/krb/t_fortuna.c
-      - attributions:
-          - Copyright (c) 2011 by the Massachusetts Institute of Technology.
-          - 'Copyright (c) 1995, 1996, 1997 Kungliga Tekniska Hogskolan (Royal Institute of Technology, Stockholm, Sweden).'
-        license: BSD-3-Clause AND OTHER
-        path: src/util/support/gettimeofday.c
-      - attributions:
-          - Copyright (c) 2011 by the Massachusetts Institute of Technology.
-          - 'Copyright (c) 2007 Kungliga Tekniska Hogskolan (Royal Institute of Technology, Stockholm, Sweden).'
-          - 'Copyright 1993 by OpenVision Technologies, Inc.'
-        license: BSD-3-Clause AND OTHER
-        path: src/lib/crypto/krb/t_fortuna.c
-      - attributions:
-          - Copyright (c) 2011 by the Massachusetts Institute of Technology.
-          - 'Copyright (c) 1995, 1996, 1997 Kungliga Tekniska Hogskolan (Royal Institute of Technology, Stockholm, Sweden).'
-        license: BSD-3-Clause AND OTHER
-        path: src/util/support/gettimeofday.c
-      - attributions:
-          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
-          - Copyright 1990 by the Massachusetts Institute of Technology.All Rights Reserved.
-        license: BSD-3-Clause AND OTHER
-        path: src/lib/krb5/krb/authdata_enc.c
-      - attributions:
-          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
-          - Copyright 1990 by the Massachusetts Institute of Technology.All Rights Reserved.
-        license: BSD-3-Clause AND OTHER
-        path: src/lib/krb5/krb/copy_auth.c
-      - attributions:
-          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
-          - Copyright 1990 by the Massachusetts Institute of Technology. All Rights Reserved.
-        license: BSD-3-Clause AND OTHER
-        path: src/lib/krb5/krb/mk_rep.c
-      - attributions:
-          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
-          - 'Copyright 1990-1998, 2009 by the Massachusetts Institute of Technology. All Rights Reserved.'
-        license: BSD-3-Clause AND OTHER
-        path: src/lib/krb5/krb/kfree.c
-      - attributions:
-          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
-          - 'Copyright 1990,1991 by the Massachusetts Institute of Technology. All Rights Reserved.'
-        license: BSD-3-Clause AND OTHER
-        path: src/lib/krb5/krb/rd_rep.c
-      - attributions:
-          - 'Copyright 2013,2014 Red Hat, Inc.'
-          - 'Copyright 1990,1991,2001,2002,2004,2005,2007,2008 by the Massachusetts Institute of Technology.'
-        license: BSD-2-Clause AND OTHER
-        path: src/lib/krb5/os/sendto_kdc.c
-      - attributions:
-          - 'Copyright (c) 2004-2005, Novell, Inc.'
-          - 'Copyright (c) 1998 by the FundsXpress, INC.'
-          - '(c) Copyright 1990,1991, 1996, 2008 by the Massachusetts Institute of Technology.'
-        license: BSD-3-Clause AND OTHER
-        path: src/plugins/kdb/ldap/ldap_util/kdb5_ldap_util.c
-      - attributions:
-          - 'Copyright (c) 2004-2005, Novell, Inc.'
-          - 'Copyright (c) 1998 by the FundsXpress, INC.'
-          - 'Copyright 1990,1991,2001, 2002, 2008 by the Massachusetts Institute of Technology.'
-        license: BSD-3-Clause AND OTHER
-        path: src/plugins/kdb/ldap/ldap_util/kdb5_ldap_realm.c
-      - attributions:
-          - 'Copyright (c) 2006-2008, Novell, Inc.'
-          - 'Copyright (c) 1998 by the FundsXpress, INC.'
-          - 'Copyright 1995, 2003, 2007, 2009 by the Massachusetts Institute of Technology.'
-        license: BSD-3-Clause AND OTHER
-        path: src/kdc/kdc_preauth.c
-      - attributions:
-          - 'Copyright 2004 Sun Microsystems, Inc. All Rights Reserved.'
-          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
-          - 'Copyright (c) 2006,2008 by the Massachusetts Institute of Technology. All Rights Reserved.'
-        license: BSD-3-Clause AND OTHER
-        path: src/lib/gssapi/spnego/spnego_mech.c
       - attributions:
           - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
           - Portions Copyright (c) 2007 Apple Inc.
           - 'Copyright 1990, 1991, 2007, 2008, 2009, 2013, 2014 by the Massachusetts Institute of Technology. All Rights Reserved.'
-        license: BSD-3-Clause AND OTHER
+        license: BSD-3-Clause AND HPND-export-US-modify
         path: src/kdc/do_as_req.c
       - attributions:
           - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
-          - 'Copyright 1990,1991,2007,2008,2009 by the Massachusetts Institute of Technology. All Rights Reserved.'
-        license: BSD-3-Clause AND OTHER
-        path: src/kdc/kdc_util.c
+          - 'Copyright 1990, 1991, 2001, 2007, 2008, 2009, 2013, 2014 by the Massachusetts Institute of Technology. All Rights Reserved.'
+        license: BSD-3-Clause AND HPND-export-US-modify
+        path: src/kdc/do_tgs_req.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc.'
+          - 'Copyright (c) 1998 by the FundsXpress, INC.'
+          - 'Copyright 1995, 2003, 2007, 2009 by the Massachusetts Institute of Technology.'
+        license: BSD-3-Clause AND HPND-export-US-modify AND HPND-export2-US
+        path: src/kdc/kdc_preauth.c
       - attributions:
           - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
-          - 'Copyright 1990, 1991, 2001, 2007, 2008, 2009, 2013, 2014 by the Massachusetts Institute of Technology. All Rights Reserved.'
-        license: BSD-3-Clause AND OTHER
-        path: src/kdc/do_tgs_req.c
+          - 'Copyright 1990,1991,2007,2008,2009 by the Massachusetts Institute of Technology. All Rights Reserved.'
+        license: BSD-3-Clause AND HPND-export-US-modify
+        path: src/kdc/kdc_util.c
       - attributions:
           - Copyright (c) 2005 Marko Kreen
           - 'Copyright (c) 2010, 2011 by the Massachusetts Institute of Technology.'
-        license: BSD-2-Clause AND OTHER
+        license: BSD-2-Clause AND HPND-export-US-modify
         path: src/lib/crypto/krb/prng_fortuna.c
+      - attributions:
+          - Copyright (c) 2011 by the Massachusetts Institute of Technology.
+          - 'Copyright (c) 2007 Kungliga Tekniska Hogskolan (Royal Institute of Technology, Stockholm, Sweden).'
+          - 'Copyright 1993 by OpenVision Technologies, Inc.'
+        license: BSD-3-Clause AND HPND-export-US-modify
+        path: src/lib/crypto/krb/t_fortuna.c
       - attributions:
           - 'Copyright (c) 2006-2008, Novell, Inc.'
           - 'Copyright (c) 1998 by the FundsXpress, INC.'
           - 'Copyright 1993 by OpenVision Technologies, Inc.'
-        license: 'HPND-sell-variant AND BSD-3-Clause AND OTHER '
+        license: BSD-3-Clause AND HPND-export2-US AND HPND-sell-variant
         path: src/lib/gssapi/krb5/gssapi_krb5.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc.'
+          - 'Copyright 1993 by OpenVision Technologies, Inc.'
+        license: BSD-3-Clause AND HPND-sell-variant
+        path: src/lib/gssapi/krb5/inq_context.c
+      - attributions:
+          - 'Copyright 2004 Sun Microsystems, Inc. All Rights Reserved.'
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - 'Copyright (c) 2006,2008 by the Massachusetts Institute of Technology. All Rights Reserved.'
+        license: BSD-3-Clause AND HPND-export-US-modify
+        path: src/lib/gssapi/spnego/spnego_mech.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - Copyright 1990 by the Massachusetts Institute of Technology.All Rights Reserved.
+        license: BSD-3-Clause AND HPND-export-US-modify
+        path: src/lib/krb5/krb/authdata_enc.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - Copyright 1990 by the Massachusetts Institute of Technology.All Rights Reserved.
+        license: BSD-3-Clause AND HPND-export-US-modify
+        path: src/lib/krb5/krb/copy_auth.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - 'Copyright 1990-1998, 2009 by the Massachusetts Institute of Technology. All Rights Reserved.'
+        license: BSD-3-Clause AND HPND-export-US-modify
+        path: src/lib/krb5/krb/kfree.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - Copyright 1990 by the Massachusetts Institute of Technology. All Rights Reserved.
+        license: BSD-3-Clause AND HPND-export-US-modify
+        path: src/lib/krb5/krb/mk_rep.c
+      - attributions:
+          - 'Copyright (c) 2006-2008, Novell, Inc. All Rights Reserved.'
+          - 'Copyright 1990,1991 by the Massachusetts Institute of Technology. All Rights Reserved.'
+        license: BSD-3-Clause AND HPND-export-US-modify
+        path: src/lib/krb5/krb/rd_rep.c
+      - attributions:
+          - 'Copyright 2013,2014 Red Hat, Inc.'
+          - 'Copyright 1990,1991,2001,2002,2004,2005,2007,2008 by the Massachusetts Institute of Technology.'
+        license: BSD-2-Clause AND HPND-export-US-modify
+        path: src/lib/krb5/os/sendto_kdc.c
+      - attributions:
+          - 'Copyright (c) 2002, 2016 by the Massachusetts Institute of Technology.'
+          - 'Copyright (c) 1990, 1993, 1994 The Regents of the University of California.'
+        license: BSD-4-Clause-UC AND HPND-export-US-modify
+        path: src/plugins/kdb/db2/libdb2/btree/bt_seq.c
+      - attributions:
+          - 'Copyright (c) 2004-2005, Novell, Inc.'
+          - 'Copyright (c) 1998 by the FundsXpress, INC.'
+          - 'Copyright 1990,1991,2001, 2002, 2008 by the Massachusetts Institute of Technology.'
+        license: BSD-3-Clause AND HPND-export-US-modify AND HPND-export2-US
+        path: src/plugins/kdb/ldap/ldap_util/kdb5_ldap_realm.c
+      - attributions:
+          - 'Copyright (c) 2004-2005, Novell, Inc.'
+          - 'Copyright (c) 1998 by the FundsXpress, INC.'
+          - '(c) Copyright 1990,1991, 1996, 2008 by the Massachusetts Institute of Technology.'
+        license: BSD-3-Clause AND HPND-export-US-modify AND HPND-export2-US
+        path: src/plugins/kdb/ldap/ldap_util/kdb5_ldap_util.c
+      - attributions:
+          - Copyright (c) 2011 by the Massachusetts Institute of Technology.
+          - 'Copyright (c) 1995, 1996, 1997 Kungliga Tekniska Hogskolan (Royal Institute of Technology, Stockholm, Sweden).'
+        license: BSD-3-Clause AND HPND-export-US-modify
+        path: src/util/support/gettimeofday.c
   a6566760ec7c5fb8eca6ae3a6f2729d5002b03e0:
     licensed:
       declared: OTHER

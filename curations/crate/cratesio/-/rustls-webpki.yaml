@@ -5,4 +5,7 @@ coordinates:
 revisions:
   0.100.1:
     licensed:
-      declared: ISC
+      declared: OTHER
+  0.100.2:
+    licensed:
+      declared: OTHER

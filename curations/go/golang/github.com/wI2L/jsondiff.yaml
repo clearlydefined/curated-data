@@ -1,0 +1,9 @@
+coordinates:
+  name: jsondiff
+  namespace: github.com%2FwI2L
+  provider: golang
+  type: go
+revisions:
+  v0.4.0:
+    licensed:
+      declared: MIT

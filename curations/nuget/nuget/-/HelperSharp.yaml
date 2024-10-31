@@ -1,0 +1,8 @@
+coordinates:
+  name: HelperSharp
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.4.1:
+    licensed:
+      declared: MIT

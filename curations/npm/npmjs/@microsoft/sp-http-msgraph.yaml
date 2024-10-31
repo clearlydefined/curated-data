@@ -10,7 +10,13 @@ revisions:
   1.16.1:
     licensed:
       declared: OTHER
+  1.17.0:
+    licensed:
+      declared: OTHER
   1.17.1:
+    licensed:
+      declared: OTHER
+  1.17.2:
     licensed:
       declared: OTHER
   1.17.3:
@@ -20,5 +26,14 @@ revisions:
     licensed:
       declared: OTHER
   1.18.0:
+    licensed:
+      declared: OTHER
+  1.18.1:
+    licensed:
+      declared: OTHER
+  1.18.2:
+    licensed:
+      declared: OTHER
+  1.19.0:
     licensed:
       declared: OTHER

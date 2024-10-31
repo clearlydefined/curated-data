@@ -1,6 +1,5 @@
 coordinates:
   name: Castle.Core
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
@@ -11,8 +10,7 @@ revisions:
         provider: github
         revision: 5a794b93a28219f03d2984355880a4d131bd1dc9
         type: git
-        url: >-
-          https://github.com/castleproject/Core/commit/5a794b93a28219f03d2984355880a4d131bd1dc9
+        url: 'https://github.com/castleproject/Core/commit/5a794b93a28219f03d2984355880a4d131bd1dc9'
         name: Core
         namespace: castleproject
     licensed:
@@ -24,8 +22,7 @@ revisions:
         provider: github
         revision: d2e45241beea3d8ceadaa3e5e247e172ba1f01e6
         type: git
-        url: >-
-          https://github.com/castleproject/Core/commit/d2e45241beea3d8ceadaa3e5e247e172ba1f01e6
+        url: 'https://github.com/castleproject/Core/commit/d2e45241beea3d8ceadaa3e5e247e172ba1f01e6'
         name: Core
         namespace: castleproject
     licensed:
@@ -37,7 +34,7 @@ revisions:
         provider: github
         revision: 1e2b33249e2e23448f68a6ef5674b8eb532d1dae
         type: git
-        url: 'https://github.com/castleproject/Core'
+        url: 'https://github.com/castleproject/Core/commit/1e2b33249e2e23448f68a6ef5674b8eb532d1dae'
         name: Core
         namespace: castleproject
     licensed:

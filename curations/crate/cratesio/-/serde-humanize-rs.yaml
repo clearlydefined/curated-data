@@ -1,0 +1,8 @@
+coordinates:
+  name: serde-humanize-rs
+  provider: cratesio
+  type: crate
+revisions:
+  0.1.1:
+    licensed:
+      declared: MIT

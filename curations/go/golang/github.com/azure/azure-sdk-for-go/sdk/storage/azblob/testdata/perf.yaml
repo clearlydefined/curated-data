@@ -1,0 +1,9 @@
+coordinates:
+  name: perf
+  namespace: github.com%2Fazure%2Fazure-sdk-for-go%2Fsdk%2Fstorage%2Fazblob%2Ftestdata
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20240208231215-981108a6de20:
+    licensed:
+      declared: MIT

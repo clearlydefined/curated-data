@@ -1,0 +1,9 @@
+coordinates:
+  name: xadisk
+  namespace: net.java.xadisk
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.2:
+    licensed:
+      declared: EPL-1.0

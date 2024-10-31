@@ -1,0 +1,12 @@
+coordinates:
+  type: go
+  provider: golang
+  namespace: github.com%2Fhashicorp
+  name: cronexpr
+revisions:
+  v1.1.1:
+    licensed:
+      declared: Apache-2.0 OR GPL-3.0-only
+  v1.1.2:
+    licensed:
+      declared: Apache-2.0 OR GPL-3.0-only

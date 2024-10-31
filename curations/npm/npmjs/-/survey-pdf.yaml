@@ -9,6 +9,9 @@ revisions:
   1.8.57:
     licensed:
       declared: OTHER
+  1.9.105:
+    licensed:
+      declared: OTHER
   1.9.36:
     licensed:
       declared: OTHER
@@ -16,6 +19,9 @@ revisions:
     licensed:
       declared: OTHER
   1.9.53:
+    licensed:
+      declared: OTHER
+  1.9.56:
     licensed:
       declared: OTHER
   1.9.88:

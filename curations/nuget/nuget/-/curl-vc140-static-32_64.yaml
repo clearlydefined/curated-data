@@ -1,0 +1,8 @@
+coordinates:
+  name: curl-vc140-static-32_64
+  provider: nuget
+  type: nuget
+revisions:
+  7.53.0:
+    licensed:
+      declared: curl

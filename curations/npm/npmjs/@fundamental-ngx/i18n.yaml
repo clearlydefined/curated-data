@@ -1,0 +1,15 @@
+coordinates:
+  name: i18n
+  namespace: '@fundamental-ngx'
+  provider: npmjs
+  type: npm
+revisions:
+  0.40.4:
+    licensed:
+      declared: Apache-2.0
+  0.47.3:
+    licensed:
+      declared: Apache-2.0
+  0.48.0-rc.23:
+    licensed:
+      declared: Apache-2.0

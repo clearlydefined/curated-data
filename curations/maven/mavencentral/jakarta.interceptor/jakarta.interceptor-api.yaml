@@ -1,0 +1,9 @@
+coordinates:
+  name: jakarta.interceptor-api
+  namespace: jakarta.interceptor
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.0:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0

@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.Google.MLKit.Vision.Interfaces
+  provider: nuget
+  type: nuget
+revisions:
+  116.2.0.3:
+    licensed:
+      declared: MIT

@@ -18,3 +18,13 @@ revisions:
   1.1.0:
     licensed:
       declared: OTHER
+  1.2.0:
+    described:
+      releaseDate: '2023-07-21'
+    licensed:
+      declared: OTHER
+  1.3.0:
+    described:
+      releaseDate: '2023-11-10'
+    licensed:
+      declared: OTHER

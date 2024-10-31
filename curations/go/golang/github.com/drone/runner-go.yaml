@@ -1,0 +1,9 @@
+coordinates:
+  name: runner-go
+  namespace: github.com%2Fdrone
+  provider: golang
+  type: go
+revisions:
+  v1.12.0:
+    licensed:
+      declared: OTHER

@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  10.9.0:
+    licensed:
+      declared: Apache-2.0
   5.2.4:
     licensed:
       declared: Apache-2.0
@@ -20,6 +23,9 @@ revisions:
     licensed:
       declared: Apache-2.0
   7.9.0:
+    licensed:
+      declared: Apache-2.0
+  9.20.0:
     licensed:
       declared: Apache-2.0
   9.4.0:

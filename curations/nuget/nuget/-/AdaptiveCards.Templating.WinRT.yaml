@@ -1,0 +1,8 @@
+coordinates:
+  name: AdaptiveCards.Templating.WinRT
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.1-beta:
+    licensed:
+      declared: OTHER

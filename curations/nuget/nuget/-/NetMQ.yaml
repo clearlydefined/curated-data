@@ -12,6 +12,12 @@ revisions:
   4.0.1.10:
     licensed:
       declared: OTHER
+  4.0.1.12:
+    licensed:
+      declared: OTHER
+  4.0.1.13:
+    licensed:
+      declared: OTHER
   4.0.1.6:
     licensed:
       declared: OTHER

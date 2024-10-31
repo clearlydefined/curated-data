@@ -1,0 +1,9 @@
+coordinates:
+  name: wasi-sdk
+  namespace: webassembly
+  provider: github
+  type: git
+revisions:
+  935fe1acd2fcd7ea4aed2d5ee4527482862b6344:
+    licensed:
+      declared: Apache-2.0 WITH LLVM-exception

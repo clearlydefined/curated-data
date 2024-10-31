@@ -1,0 +1,8 @@
+coordinates:
+  name: CoreCompat.System.ComponentModel.DataAnnotations
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.3-r7:
+    licensed:
+      declared: NONE

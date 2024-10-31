@@ -1,0 +1,9 @@
+coordinates:
+  name: hwloc
+  namespace: open-mpi
+  provider: github
+  type: git
+revisions:
+  f1a2e22aca839a41ea443d561bd2157fd3f301d0:
+    licensed:
+      declared: BSD-3-Clause

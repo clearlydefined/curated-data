@@ -1,0 +1,9 @@
+coordinates:
+  name: chatgpt-auto-continue
+  namespace: adamlui
+  provider: github
+  type: git
+revisions:
+  03727c19087ce21cf4f36b333f22f5104cb922c8:
+    licensed:
+      declared: MIT

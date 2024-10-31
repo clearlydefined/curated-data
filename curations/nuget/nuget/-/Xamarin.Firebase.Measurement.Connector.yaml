@@ -9,6 +9,9 @@ revisions:
   120.0.0:
     licensed:
       declared: MIT
+  120.0.1:
+    licensed:
+      declared: MIT
   71.1701.0:
     licensed:
       declared: MIT

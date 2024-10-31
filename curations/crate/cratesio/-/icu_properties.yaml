@@ -1,0 +1,19 @@
+coordinates:
+  name: icu_properties
+  provider: cratesio
+  type: crate
+revisions:
+  1.5.0:
+    licensed:
+      declared: Unicode-3.0
+  1.5.1:
+    licensed:
+      declared: Unicode-3.0
+    described:
+      sourceLocation:
+        name: icu4x
+        namespace: unicode-org
+        provider: github
+        revision: e1193d0f5d343317857570e9c4e8a03c87875d8b
+        type: git
+        url: 'https://github.com/unicode-org/icu4x/commit/e1193d0f5d343317857570e9c4e8a03c87875d8b'

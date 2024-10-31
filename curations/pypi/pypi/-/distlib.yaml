@@ -92,3 +92,6 @@ revisions:
   0.3.7:
     licensed:
       declared: Python-2.0.1
+  0.3.8:
+    licensed:
+      declared: Python-2.0.1

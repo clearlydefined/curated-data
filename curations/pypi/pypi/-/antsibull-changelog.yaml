@@ -1,0 +1,8 @@
+coordinates:
+  name: antsibull-changelog
+  provider: pypi
+  type: pypi
+revisions:
+  0.23.0:
+    licensed:
+      declared: GPL-3.0-or-later

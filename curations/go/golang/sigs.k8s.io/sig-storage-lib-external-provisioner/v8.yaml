@@ -1,0 +1,9 @@
+coordinates:
+  name: v8
+  namespace: sigs.k8s.io%2Fsig-storage-lib-external-provisioner
+  provider: golang
+  type: go
+revisions:
+  v8.0.0:
+    licensed:
+      declared: Apache-2.0

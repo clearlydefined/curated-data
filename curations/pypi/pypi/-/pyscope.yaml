@@ -1,0 +1,8 @@
+coordinates:
+  name: pyscope
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.6:
+    licensed:
+      declared: AGPL-3.0-or-later

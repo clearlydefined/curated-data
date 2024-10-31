@@ -13,3 +13,9 @@ revisions:
   '2.23':
     licensed:
       declared: MPL-2.0
+  2.50.0:
+    licensed:
+      declared: MPL-2.0
+  2.70.0:
+    licensed:
+      declared: MPL-2.0

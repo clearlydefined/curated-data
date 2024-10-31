@@ -1,0 +1,8 @@
+coordinates:
+  name: dhx-suite
+  provider: npmjs
+  type: npm
+revisions:
+  8.2.1:
+    licensed:
+      declared: GPL-2.0-only

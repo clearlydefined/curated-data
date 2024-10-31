@@ -1,0 +1,9 @@
+coordinates:
+  name: pcre2
+  namespace: pcre2project
+  provider: github
+  type: git
+revisions:
+  52c08847921a324c804cabf2814549f50bce1265:
+    licensed:
+      declared: BSD-3-Clause WITH PCRE2-exception

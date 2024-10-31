@@ -33,6 +33,27 @@ revisions:
   1.15.2:
     licensed:
       declared: MIT
+  1.15.3:
+    licensed:
+      declared: MIT
   1.15.4:
+    licensed:
+      declared: MIT
+  1.16.0:
+    licensed:
+      declared: MIT
+  1.16.2:
+    licensed:
+      declared: MIT
+  1.16.3:
+    licensed:
+      declared: MIT
+  1.16.5:
+    licensed:
+      declared: MIT
+  1.16.6:
+    licensed:
+      declared: MIT
+  1.16.7:
     licensed:
       declared: MIT

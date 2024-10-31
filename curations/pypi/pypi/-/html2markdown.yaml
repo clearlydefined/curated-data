@@ -1,0 +1,8 @@
+coordinates:
+  name: html2markdown
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.7:
+    licensed:
+      declared: MIT

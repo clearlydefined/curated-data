@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-treelist-react-wrapper
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  2021.3.1112:
+    licensed:
+      declared: OTHER

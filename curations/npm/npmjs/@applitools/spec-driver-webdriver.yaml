@@ -1,0 +1,9 @@
+coordinates:
+  name: spec-driver-webdriver
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.57:
+    licensed:
+      declared: OTHER

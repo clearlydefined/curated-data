@@ -18,3 +18,12 @@ revisions:
   0.22.0:
     licensed:
       declared: ISC
+  0.22.1:
+    licensed:
+      declared: ISC
+  0.22.2:
+    licensed:
+      declared: ISC
+  0.22.4:
+    licensed:
+      declared: ISC

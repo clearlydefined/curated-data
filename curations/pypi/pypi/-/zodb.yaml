@@ -9,3 +9,6 @@ revisions:
   5.7.0:
     licensed:
       declared: ZPL-2.1
+  5.8.0:
+    licensed:
+      declared: ZPL-2.1

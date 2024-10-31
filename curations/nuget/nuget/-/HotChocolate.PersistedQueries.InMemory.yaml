@@ -1,0 +1,8 @@
+coordinates:
+  name: HotChocolate.PersistedQueries.InMemory
+  provider: nuget
+  type: nuget
+revisions:
+  12.12.1:
+    licensed:
+      declared: MIT

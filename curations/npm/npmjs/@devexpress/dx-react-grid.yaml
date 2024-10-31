@@ -1,0 +1,9 @@
+coordinates:
+  name: dx-react-grid
+  namespace: '@devexpress'
+  provider: npmjs
+  type: npm
+revisions:
+  2.7.6:
+    licensed:
+      declared: OTHER

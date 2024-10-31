@@ -6,3 +6,6 @@ revisions:
   3.6.4:
     licensed:
       declared: BSD-Source-Code
+  4.0.0:
+    licensed:
+      declared: BSD-Source-Code

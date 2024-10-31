@@ -1,0 +1,9 @@
+coordinates:
+  name: state
+  namespace: github.com%2FDataDog%2Fdatadog-agent%2Fpkg%2Fremoteconfig
+  provider: golang
+  type: go
+revisions:
+  v0.48.0-devel.0.20230725154044-2549ba9058df:
+    licensed:
+      declared: Apache-2.0

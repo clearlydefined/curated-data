@@ -1,0 +1,9 @@
+coordinates:
+  name: annotations
+  namespace: com.google.code.findbugs
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.1:
+    licensed:
+      declared: LGPL-2.1-or-later

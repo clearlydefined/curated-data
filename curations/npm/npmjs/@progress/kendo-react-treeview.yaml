@@ -28,6 +28,9 @@ revisions:
   5.16.1:
     licensed:
       declared: OTHER
+  5.18.0:
+    licensed:
+      declared: OTHER
   5.19.0:
     licensed:
       declared: OTHER
@@ -47,5 +50,8 @@ revisions:
     licensed:
       declared: OTHER
   5.9.0:
+    licensed:
+      declared: OTHER
+  6.1.1:
     licensed:
       declared: OTHER

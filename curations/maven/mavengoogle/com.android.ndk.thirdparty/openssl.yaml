@@ -1,0 +1,9 @@
+coordinates:
+  name: openssl
+  namespace: com.android.ndk.thirdparty
+  provider: mavengoogle
+  type: maven
+revisions:
+  1.1.1l-beta-1:
+    licensed:
+      declared: OpenSSL

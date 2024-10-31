@@ -1,0 +1,8 @@
+coordinates:
+  name: Confluent.SchemaRegistry.Serdes.Avro
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.0:
+    licensed:
+      declared: Apache-2.0

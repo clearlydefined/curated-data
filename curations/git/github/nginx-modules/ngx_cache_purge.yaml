@@ -1,0 +1,9 @@
+coordinates:
+  name: ngx_cache_purge
+  namespace: nginx-modules
+  provider: github
+  type: git
+revisions:
+  a84b0f3f082025dec737a537a9a443bdd6d6af9d:
+    licensed:
+      declared: BSD-2-Clause

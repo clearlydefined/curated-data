@@ -1,0 +1,9 @@
+coordinates:
+  name: tunnel-client
+  namespace: '@applitools'
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.0:
+    licensed:
+      declared: OTHER

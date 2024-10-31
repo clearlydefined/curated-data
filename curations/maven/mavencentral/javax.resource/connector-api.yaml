@@ -1,0 +1,9 @@
+coordinates:
+  name: connector-api
+  namespace: javax.resource
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.5':
+    licensed:
+      declared: CDDL-1.0

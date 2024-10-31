@@ -1,0 +1,9 @@
+coordinates:
+  name: corekit
+  namespace: com.snap.corekit
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.1:
+    licensed:
+      declared: OTHER

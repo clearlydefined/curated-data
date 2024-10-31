@@ -17,7 +17,7 @@ const colors = {
 
 // @todo only load new/changed yaml - use git diff
 function getYamlFilePaths() {
-  return glob.sync('{**/*.yaml,**/*.yml}');
+  return glob.sync('{**/*.yaml,**/*.yml}').filter(path => fs.statSync(path).isFile());
 }
 
 function failure(error = 'Error') {
