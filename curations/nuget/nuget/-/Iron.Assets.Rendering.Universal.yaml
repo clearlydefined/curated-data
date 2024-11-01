@@ -1,0 +1,8 @@
+coordinates:
+  name: Iron.Assets.Rendering.Universal
+  provider: nuget
+  type: nuget
+revisions:
+  20.0.0:
+    licensed:
+      declared: OTHER
