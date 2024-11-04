@@ -1,6 +1,6 @@
 coordinates:
   name: sys
-  namespace: golang.org%2Fx
+  namespace: golang.org%2fx
   provider: golang
   type: go
 revisions:
@@ -34,6 +34,9 @@ revisions:
   v0.0.0-20220727055044-e65921a090b8:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  v0.16.0:
+    licensed:
+      declared: BSD-3-Clause
   v0.18.0:
     licensed:
       declared: BSD-3-Clause AND OTHER
