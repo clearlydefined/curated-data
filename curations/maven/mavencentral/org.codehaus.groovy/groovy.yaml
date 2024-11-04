@@ -1,0 +1,9 @@
+coordinates:
+  name: groovy
+  namespace: org.codehaus.groovy
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.7:
+    licensed:
+      declared: NONE
