@@ -1,6 +1,6 @@
 coordinates:
   name: time
-  namespace: golang.org%2fx
+  namespace: golang.org%2Fx
   provider: golang
   type: go
 revisions:
