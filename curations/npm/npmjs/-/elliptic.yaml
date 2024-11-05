@@ -1,0 +1,9 @@
+coordinates:
+    type: npm
+    provider: npmjs
+    namespace: '-'
+    name: elliptic
+revisions:
+    6.6.0:
+        licensed:
+            declared: MIT
