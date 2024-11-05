@@ -1,0 +1,9 @@
+coordinates:
+  name: jetty-util-ajax
+  namespace: org.eclipse.jetty
+  provider: mavencentral
+  type: maven
+revisions:
+  9.4.54.v20240208:
+    licensed:
+      declared: EPL-1.0 OR Apache-2.0
