@@ -19,6 +19,9 @@ revisions:
   1.10.3:
     licensed:
       declared: OTHER
+  1.11.5:
+    licensed:
+      declared: OTHER
   1.4.0:
     licensed:
       declared: OTHER
