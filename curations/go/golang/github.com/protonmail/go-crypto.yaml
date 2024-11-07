@@ -25,6 +25,9 @@ revisions:
   v0.0.0-20220407094043-a94812496cf5:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  v1.1.0-alpha.2:
+    licensed:
+      declared: BSD-3-Clause
   v1.1.0-alpha.5-proton:
     licensed:
       declared: BSD-3-Clause AND OTHER
