@@ -1,0 +1,9 @@
+coordinates:
+    type: go
+    provider: golang
+    namespace: code.cloudfoundry.org
+    name: clock
+revisions:
+    v1.17.0:
+        licensed:
+            declared: It's Apache-2.0
