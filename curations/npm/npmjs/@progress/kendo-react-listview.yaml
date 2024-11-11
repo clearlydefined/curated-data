@@ -40,3 +40,6 @@ revisions:
   7.2.3:
     licensed:
       declared: OTHER
+  8.3.0:
+    licensed:
+      declared: OTHER
