@@ -1,0 +1,9 @@
+coordinates:
+  name: backgroundsync
+  namespace: wicg
+  provider: github
+  type: git
+revisions:
+  10778afe95b5d46c99f7a77565328b7108091510:
+    licensed:
+      declared: Apache-2.0

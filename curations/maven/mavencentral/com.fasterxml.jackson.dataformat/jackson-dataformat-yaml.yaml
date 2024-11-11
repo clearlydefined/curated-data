@@ -1,0 +1,9 @@
+coordinates:
+  name: jackson-dataformat-yaml
+  namespace: com.fasterxml.jackson.dataformat
+  provider: mavencentral
+  type: maven
+revisions:
+  2.18.0:
+    licensed:
+      declared: Apache-2.0
