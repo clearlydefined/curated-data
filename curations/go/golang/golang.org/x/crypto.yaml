@@ -1,6 +1,6 @@
 coordinates:
   name: crypto
-  namespace: golang.org%2Fx
+  namespace: golang.org%2fx
   provider: golang
   type: go
 revisions:
@@ -37,3 +37,6 @@ revisions:
   v0.28.0:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  v0.29.0:
+    licensed:
+      declared: BSD-3-Clause
