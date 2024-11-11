@@ -1,6 +1,6 @@
 coordinates:
   name: text
-  namespace: golang.org%2Fx
+  namespace: golang.org%2fx
   provider: golang
   type: go
 revisions:
@@ -25,6 +25,9 @@ revisions:
   v0.2.0:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  v0.20.0:
+    licensed:
+      declared: BSD-3-Clause
   v0.3.0:
     licensed:
       declared: BSD-3-Clause AND OTHER
