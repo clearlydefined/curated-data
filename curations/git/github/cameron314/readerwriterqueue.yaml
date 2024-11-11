@@ -1,0 +1,9 @@
+coordinates:
+  name: readerwriterqueue
+  namespace: cameron314
+  provider: github
+  type: git
+revisions:
+  8e7627d18c2108aca178888d88514179899a044f:
+    licensed:
+      declared: BSD-2-Clause
