@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-security-oauth2-jose
+  namespace: org.springframework.security
+  provider: mavencentral
+  type: maven
+revisions:
+  6.3.4:
+    licensed:
+      declared: Apache-2.0
