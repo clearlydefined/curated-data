@@ -9,4 +9,4 @@ revisions:
       declared: NCSA or MIT
   78d6a7767ed57b50122a161b91f59f19c9bd0d19:
     licensed:
-      declared: Apache-2.0
+      declared: Apache-2.0 WITH LLVM-exception
