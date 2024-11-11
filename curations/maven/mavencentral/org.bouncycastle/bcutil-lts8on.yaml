@@ -1,12 +1,9 @@
 coordinates:
-  name: bcpkix-lts8on
+  name: bcutil-lts8on
   namespace: org.bouncycastle
   provider: mavencentral
   type: maven
 revisions:
-  2.73.3:
-    licensed:
-      declared: MIT
   2.73.6:
     licensed:
       declared: MIT
