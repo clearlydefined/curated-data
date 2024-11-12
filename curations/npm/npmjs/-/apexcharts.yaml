@@ -1,0 +1,9 @@
+coordinates:
+    type: npm
+    provider: npmjs
+    namespace: '-'
+    name: apexcharts
+revisions:
+    3.54.1:
+        licensed:
+            declared: MIT
