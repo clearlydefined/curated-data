@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.AndroidX.DataBinding.ViewBinding
+  provider: nuget
+  type: nuget
+revisions:
+  7.2.1.1:
+    licensed:
+      declared: MIT
