@@ -1,6 +1,6 @@
 coordinates:
   name: net
-  namespace: golang.org%2Fx
+  namespace: golang.org%2fx
   provider: golang
   type: go
 revisions:
