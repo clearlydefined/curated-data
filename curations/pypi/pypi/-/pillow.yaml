@@ -36,6 +36,9 @@ revisions:
   6.2.1:
     licensed:
       declared: MIT-CMU
+  8.3.1:
+    licensed:
+      declared: MIT
   9.0.0:
     licensed:
       declared: MIT-CMU
