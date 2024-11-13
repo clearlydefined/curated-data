@@ -85,3 +85,6 @@ revisions:
   v1.34.2:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  v1.35.1:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
