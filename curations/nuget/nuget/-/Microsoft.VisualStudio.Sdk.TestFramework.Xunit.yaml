@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Sdk.TestFramework.Xunit
+  provider: nuget
+  type: nuget
+revisions:
+  17.11.8:
+    licensed:
+      declared: MIT
