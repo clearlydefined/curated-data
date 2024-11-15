@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Functions.Worker.Extensions.ServiceBus
+  provider: nuget
+  type: nuget
+revisions:
+  5.22.0:
+    licensed:
+      declared: MIT
