@@ -99,3 +99,6 @@ revisions:
   2.4.1:
     licensed:
       declared: Apache-2.0
+  3.2.45:
+    licensed:
+      declared: Apache-2.0
