@@ -1,0 +1,8 @@
+coordinates:
+  name: VS.Redist.Common.NetCore.SharedFramework.x64.2.1
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.30-servicing-30411-01:
+    licensed:
+      declared: MS-PL
