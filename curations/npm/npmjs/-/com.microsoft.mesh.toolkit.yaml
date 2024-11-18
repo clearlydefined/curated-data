@@ -1,0 +1,8 @@
+coordinates:
+  name: com.microsoft.mesh.toolkit
+  provider: npmjs
+  type: npm
+revisions:
+  5.2413.154:
+    licensed:
+      declared: MIT
