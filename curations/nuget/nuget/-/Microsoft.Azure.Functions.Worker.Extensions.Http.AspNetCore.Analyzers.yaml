@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore.Analyzers
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.3:
+    licensed:
+      declared: MIT

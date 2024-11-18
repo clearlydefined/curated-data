@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Functions.Worker.Extensions.SignalRService
+  provider: nuget
+  type: nuget
+revisions:
+  1.14.1:
+    licensed:
+      declared: MIT

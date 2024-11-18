@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Functions.Worker.Extensions.CosmosDB
+  provider: nuget
+  type: nuget
+revisions:
+  4.11.0:
+    licensed:
+      declared: MIT

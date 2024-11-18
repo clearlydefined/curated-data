@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Azure.Functions.Worker.Extensions.Storage.Blobs
+  provider: nuget
+  type: nuget
+revisions:
+  6.6.0:
+    licensed:
+      declared: MIT
