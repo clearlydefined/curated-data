@@ -1,0 +1,9 @@
+coordinates:
+  name: cli
+  namespace: '@tauri-apps'
+  provider: npmjs
+  type: npm
+revisions:
+  1.6.3:
+    licensed:
+      declared: Apache-2.0 OR MIT
