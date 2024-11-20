@@ -1,0 +1,9 @@
+coordinates:
+  name: tika-parsers
+  namespace: org.apache.tika
+  provider: mavencentral
+  type: maven
+revisions:
+  1.28.4:
+    licensed:
+      declared: Apache-2.0
