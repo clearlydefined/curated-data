@@ -49,3 +49,6 @@ revisions:
   18.1.0:
     licensed:
       declared: OTHER
+  18.5.0:
+    licensed:
+      declared: LicenseRef-scancode-android-sdk-license
