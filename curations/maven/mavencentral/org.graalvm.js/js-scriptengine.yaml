@@ -22,3 +22,6 @@ revisions:
   22.0.0.2:
     licensed:
       declared: UPL-1.0
+  22.3.5:
+    licensed:
+      declared: UPL-1.0
