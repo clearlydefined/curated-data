@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-test
+  namespace: org.springframework
+  provider: mavencentral
+  type: maven
+revisions:
+  5.3.39:
+    licensed:
+      declared: Apache-2.0
