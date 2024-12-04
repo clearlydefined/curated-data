@@ -97,7 +97,7 @@ revisions:
       declared: MIT
   1.13.0:
     licensed:
-      declared: MIT AND Python-2.0
+      declared: MIT
   1.2.0:
     licensed:
       declared: MIT
