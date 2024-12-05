@@ -1,0 +1,8 @@
+coordinates:
+  name: flores
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.7:
+    licensed:
+      declared: AGPL-3.0-or-later
