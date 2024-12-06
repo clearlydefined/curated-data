@@ -6,7 +6,7 @@ coordinates:
 revisions:
   e278ce4445b993cc2f035b7993f12a3de7529cd4:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-facebook-patent-rights-2
   f9e41e3a519f12cfdc3207e1df44e0d2d9602df9:
     files:
       - attributions:
