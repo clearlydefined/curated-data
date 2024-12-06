@@ -6,76 +6,76 @@ coordinates:
 revisions:
   04defd469f4e290175cd2fb95a0e5f235f9bf173:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   0714010a04edd230e18075cd951dd826f04b1e11:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   0ba52f642ac2f9371a88bfdde41f4b4e195a37c0:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   1e06a53dbb7e2ed46e91183f219db23c6943c532:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   2871e0cb64e47e47ba7466fad6e11562caf99563:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   3673e40ba22529d22c3fd7c93e97b0ce50fa7bdd:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   37e1c6afe02340126705deced573a85ab75209d7:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   3a22650c66bd7f4fb6d1e8072ffd7b75c8a27898:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   3b0461eec859c4b73bb64fdc8285971fd33e3938:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   4876518f9e71663000c348837735820161a42df7:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   69a78807bb2bb6d1599c68698c6b009505012083:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   59133d7f0dd7cb4ec46ee7b17b1b71cff79e0309:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   69e39bad7dc2bbb411fa35755c46020969029fa7:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   7fd8e65b642006927f6cec5cb4241df7f98a2210:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   8a410e7b638dca158bf9e766925842f6651ff828:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   978cfadd31cf6299758dbb5165d451ce91989f1a:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   a5a99cb37ef4b68617775ab669177656090ab396:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   ab34263943818b32f575efc978a3d24e80b04bd7:
     files:
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: PATENTS
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   c89045814202410a2d67ec20ecf177ec77ceae7f:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   cdfb69ac37fc6fa907650654115ebebb3aae2087:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   d523dce5a7f4b994f7ed0531dbe44cd8fd803e26:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   d8887717615a059821345a5c23649351b52a1c0b:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   e18ecbb051101a46fc263334b127c89bc7bff7ea:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   eb5bcb51f2a31c7d5141d810b70815c05d9c9146:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang

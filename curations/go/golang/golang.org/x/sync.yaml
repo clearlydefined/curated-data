@@ -6,22 +6,22 @@ coordinates:
 revisions:
   v0.0.0-20201020160332-67f06af15bc9:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.0.0-20220722155255-886fb9371eb4:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.1.0:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.3.0:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.6.0:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.7.0:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.8.0:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
