@@ -1,0 +1,9 @@
+coordinates:
+  name: atomicfu
+  namespace: org.jetbrains.kotlinx
+  provider: mavencentral
+  type: maven
+revisions:
+  0.26.0:
+    licensed:
+      declared: Apache-2.0

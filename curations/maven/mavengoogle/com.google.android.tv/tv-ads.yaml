@@ -1,0 +1,9 @@
+coordinates:
+  name: tv-ads
+  namespace: com.google.android.tv
+  provider: mavengoogle
+  type: maven
+revisions:
+  1.0.0:
+    licensed:
+      declared: OTHER

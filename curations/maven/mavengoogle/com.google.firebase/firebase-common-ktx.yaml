@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-common-ktx
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  21.0.0:
+    licensed:
+      declared: Apache-2.0

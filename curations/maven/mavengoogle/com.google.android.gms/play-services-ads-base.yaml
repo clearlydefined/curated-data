@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-ads-base
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  23.4.0:
+    licensed:
+      declared: OTHER
