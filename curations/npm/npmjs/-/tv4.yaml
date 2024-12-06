@@ -5,4 +5,4 @@ coordinates:
 revisions:
   1.3.0:
     licensed:
-      declared: LicenseRef-scancode-public-domain OR MIT
+      declared: MIT OR LicenseRef-scancode-public-domain
