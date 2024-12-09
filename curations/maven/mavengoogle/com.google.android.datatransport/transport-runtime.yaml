@@ -1,0 +1,9 @@
+coordinates:
+  name: transport-runtime
+  namespace: com.google.android.datatransport
+  provider: mavengoogle
+  type: maven
+revisions:
+  4.0.0:
+    licensed:
+      declared: Apache-2.0

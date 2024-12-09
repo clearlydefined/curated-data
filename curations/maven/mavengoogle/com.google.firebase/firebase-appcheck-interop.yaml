@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-appcheck-interop
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  17.1.0:
+    licensed:
+      declared: Apache-2.0
