@@ -1,0 +1,9 @@
+coordinates:
+  name: widgets
+  namespace: com.google.assistant.appactions
+  provider: mavengoogle
+  type: maven
+revisions:
+  0.0.1:
+    licensed:
+      declared: OTHER

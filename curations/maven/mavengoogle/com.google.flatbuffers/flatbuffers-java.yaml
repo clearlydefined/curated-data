@@ -1,0 +1,9 @@
+coordinates:
+  name: flatbuffers-java
+  namespace: com.google.flatbuffers
+  provider: mavengoogle
+  type: maven
+revisions:
+  24.3.25:
+    licensed:
+      declared: OTHER

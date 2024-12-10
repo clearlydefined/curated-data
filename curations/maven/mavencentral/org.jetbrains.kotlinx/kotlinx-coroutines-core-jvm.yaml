@@ -1,0 +1,9 @@
+coordinates:
+  name: kotlinx-coroutines-core-jvm
+  namespace: org.jetbrains.kotlinx
+  provider: mavencentral
+  type: maven
+revisions:
+  1.9.0:
+    licensed:
+      declared: Apache-2.0

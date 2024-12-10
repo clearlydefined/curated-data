@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-appcheck-safetynet
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.1.2:
+    licensed:
+      declared: Apache-2.0

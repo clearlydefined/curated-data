@@ -1,0 +1,9 @@
+coordinates:
+  name: places-compat
+  namespace: com.google.android.libraries.places
+  provider: mavengoogle
+  type: maven
+revisions:
+  2.6.0:
+    licensed:
+      declared: OTHER

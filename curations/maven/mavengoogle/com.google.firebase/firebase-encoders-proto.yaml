@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-encoders-proto
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.0.0:
+    licensed:
+      declared: Apache-2.0
