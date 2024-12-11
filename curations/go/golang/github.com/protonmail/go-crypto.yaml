@@ -1,6 +1,6 @@
 coordinates:
   name: go-crypto
-  namespace: github.com%2Fprotonmail
+  namespace: github.com%2fprotonmail
   provider: golang
   type: go
 revisions:
@@ -28,6 +28,9 @@ revisions:
   v0.0.0-20230217124315-7d5c6f04bbb8:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  v0.0.0-20230828082145-3c4c8a2d2371:
+    licensed:
+      declared: BSD-3-Clause
   v1.0.0:
     licensed:
       declared: BSD-3-Clause AND OTHER
