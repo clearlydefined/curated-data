@@ -1,0 +1,9 @@
+coordinates:
+  name: ncurses
+  namespace: mirror
+  provider: github
+  type: git
+revisions:
+  87c2c84cbd2332d6d94b12a1dcaf12ad1a51a938:
+    licensed:
+      declared: NONE
