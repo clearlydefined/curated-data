@@ -1,6 +1,6 @@
 coordinates:
   name: v3
-  namespace: github.com%2fcoreos%2Fgo-oidc
+  namespace: github.com%2Fcoreos%2Fgo-oidc
   provider: golang
   type: go
 revisions:
