@@ -1,6 +1,6 @@
 coordinates:
   name: exp
-  namespace: golang.org%2fx
+  namespace: golang.org%2Fx
   provider: golang
   type: go
 revisions:
@@ -72,4 +72,4 @@ revisions:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.0.0-20241009180824-f66d83c29e7c:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
