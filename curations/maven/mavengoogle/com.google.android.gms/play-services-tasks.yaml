@@ -33,10 +33,10 @@ revisions:
       declared: OTHER
   18.0.1:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   18.0.2:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   18.2.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
