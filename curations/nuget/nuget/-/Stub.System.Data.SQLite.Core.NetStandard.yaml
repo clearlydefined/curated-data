@@ -24,3 +24,6 @@ revisions:
   1.0.118:
     licensed:
       declared: OTHER
+  1.0.119:
+    licensed:
+      declared: NONE
