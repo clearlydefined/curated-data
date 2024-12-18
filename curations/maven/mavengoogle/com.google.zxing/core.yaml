@@ -1,0 +1,9 @@
+coordinates:
+  name: core
+  namespace: com.google.zxing
+  provider: mavengoogle
+  type: maven
+revisions:
+  3.5.3:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: interactivemedia
+  namespace: com.google.ads.interactivemedia.v3
+  provider: mavengoogle
+  type: maven
+revisions:
+  3.35.1:
+    licensed:
+      declared: OTHER

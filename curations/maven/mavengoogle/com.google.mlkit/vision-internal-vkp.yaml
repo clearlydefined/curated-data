@@ -1,0 +1,9 @@
+coordinates:
+  name: vision-internal-vkp
+  namespace: com.google.mlkit
+  provider: mavengoogle
+  type: maven
+revisions:
+  18.2.3:
+    licensed:
+      declared: OTHER

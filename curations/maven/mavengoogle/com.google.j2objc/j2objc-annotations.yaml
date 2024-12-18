@@ -1,0 +1,9 @@
+coordinates:
+  name: j2objc-annotations
+  namespace: com.google.j2objc
+  provider: mavengoogle
+  type: maven
+revisions:
+  3.0.0:
+    licensed:
+      declared: Apache-2.0

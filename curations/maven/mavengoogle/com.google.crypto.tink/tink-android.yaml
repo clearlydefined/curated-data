@@ -1,0 +1,9 @@
+coordinates:
+  name: tink-android
+  namespace: com.google.crypto.tink
+  provider: mavengoogle
+  type: maven
+revisions:
+  1.15.0:
+    licensed:
+      declared: Apache-2.0

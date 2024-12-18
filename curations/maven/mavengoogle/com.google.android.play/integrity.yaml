@@ -28,3 +28,6 @@ revisions:
       releaseDate: '2023-11-10'
     licensed:
       declared: OTHER
+  1.4.0:
+    licensed:
+      declared: OTHER

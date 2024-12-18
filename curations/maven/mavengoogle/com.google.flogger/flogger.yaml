@@ -1,0 +1,9 @@
+coordinates:
+  name: flogger
+  namespace: com.google.flogger
+  provider: mavengoogle
+  type: maven
+revisions:
+  0.8:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: firebase-perf
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  21.0.2:
+    licensed:
+      declared: Apache-2.0
