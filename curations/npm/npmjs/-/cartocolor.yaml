@@ -1,0 +1,8 @@
+coordinates:
+  name: cartocolor
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.2:
+    licensed:
+      declared: CC-BY-3.0-US
