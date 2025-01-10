@@ -4,6 +4,12 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  9.1.0:
+    licensed:
+      declared: OTHER
+  9.0.0:
+    licensed:
+      declared: OTHER
   8.0.31:
     licensed:
       declared: OTHER
