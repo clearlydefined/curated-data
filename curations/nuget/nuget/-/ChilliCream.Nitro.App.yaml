@@ -1,0 +1,8 @@
+coordinates:
+  name: ChilliCream.Nitro.App
+  provider: nuget
+  type: nuget
+revisions:
+  20.0.2:
+    licensed:
+      declared: OTHER
