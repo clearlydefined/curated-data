@@ -1,0 +1,8 @@
+coordinates:
+  name: charset-normalizer
+  provider: pypi
+  type: pypi
+revisions:
+  3.4.1:
+    licensed:
+      declared: MIT
