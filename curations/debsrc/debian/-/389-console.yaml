@@ -1,0 +1,8 @@
+coordinates:
+  name: 389-console
+  provider: debian
+  type: debsrc
+revisions:
+  1.1.7-2:
+    licensed:
+      declared: 0BSD
