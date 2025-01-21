@@ -19,6 +19,9 @@ revisions:
   v0.0.0-20221116044647-bc3834ca7abd:
     licensed:
       declared: Apache-2.0
+  v0.0.0-20241010143419-9aa6b5e7a4b3:
+    licensed:
+      declared: Apache-2.0
   v0.0.0-20241014173422-cfa47c3a1cc8:
     licensed:
-      declared: BSD-3-Clause
+      declared: Apache-2.0

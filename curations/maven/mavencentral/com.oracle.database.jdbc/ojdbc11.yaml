@@ -6,10 +6,10 @@ coordinates:
 revisions:
   21.1.0.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-oracle-free-2018
   23.2.0.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-oracle-free-2018
   23.3.0.23.09:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-oracle-free-2018
