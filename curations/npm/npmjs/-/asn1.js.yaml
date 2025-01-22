@@ -1,0 +1,8 @@
+coordinates:
+  name: asn1.js
+  provider: npmjs
+  type: npm
+revisions:
+  4.10.1:
+    licensed:
+      declared: MIT
