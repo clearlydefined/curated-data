@@ -1,0 +1,9 @@
+coordinates:
+  name: cronexpr
+  namespace: gorhill
+  provider: github
+  type: git
+revisions:
+  88b0669f7d75f171bd612b874e52b95c190218df:
+    licensed:
+      declared: Apache-2.0 OR GPL-3.0-only
