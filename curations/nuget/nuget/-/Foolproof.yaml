@@ -1,0 +1,8 @@
+coordinates:
+  name: Foolproof
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.4518:
+    licensed:
+      declared: MS-PL
