@@ -1,0 +1,9 @@
+coordinates:
+  name: bcprov-jdk18on
+  namespace: bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.70':
+    licensed:
+      declared: MIT
