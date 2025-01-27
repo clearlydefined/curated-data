@@ -6,6 +6,9 @@ revisions:
   14.0.79-master7f49a4e3:
     licensed:
       declared: OTHER
+  16.3.56:
+    licensed:
+      declared: OTHER
   16.3.73:
     licensed:
       declared: OTHER
