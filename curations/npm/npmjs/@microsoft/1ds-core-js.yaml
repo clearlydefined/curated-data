@@ -1,0 +1,9 @@
+coordinates:
+  name: 1ds-core-js
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  4.3.4:
+    licensed:
+      declared: MIT
