@@ -1,0 +1,9 @@
+coordinates:
+  name: react
+  namespace: '@primer'
+  provider: npmjs
+  type: npm
+revisions:
+  37.12.0-rc.dbd08ffd8:
+    licensed:
+      declared: MIT OR MIT
