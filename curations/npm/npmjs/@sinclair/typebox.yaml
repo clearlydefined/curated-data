@@ -1,0 +1,9 @@
+coordinates:
+  name: typebox
+  namespace: '@sinclair'
+  provider: npmjs
+  type: npm
+revisions:
+  0.27.8:
+    licensed:
+      declared: MIT
