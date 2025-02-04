@@ -1,8 +1,9 @@
 coordinates:
-  name: katex
-  provider: npmjs
-  type: npm
+    type: npm
+    provider: npmjs
+    namespace: ""
+    name: katex
 revisions:
-  0.16.21:
-    licensed:
-      declared: MIT
+    0.16.21:
+        licensed:
+            declared: MIT
