@@ -1,6 +1,6 @@
 coordinates:
   name: sys
-  namespace: golang.org%2fx
+  namespace: golang.org%2Fx
   provider: golang
   type: go
 revisions:
@@ -14,6 +14,9 @@ revisions:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.0.0-20220319134239-a9b59b0215f8:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.0.0-20220520151302-bc2c85ada10a:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.0.0-20220610221304-9f5ed59c137d:
