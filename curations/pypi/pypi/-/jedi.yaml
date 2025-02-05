@@ -1,0 +1,9 @@
+coordinates:
+    type: pypi
+    provider: pypi
+    namespace: '-'
+    name: jedi
+revisions:
+    0.19.2:
+        licensed:
+            declared: MIT
