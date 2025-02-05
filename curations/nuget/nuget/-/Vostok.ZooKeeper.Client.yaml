@@ -1,0 +1,8 @@
+coordinates:
+  name: Vostok.ZooKeeper.Client
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.14:
+    licensed:
+      declared: MIT
