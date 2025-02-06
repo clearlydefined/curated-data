@@ -1,0 +1,9 @@
+coordinates:
+  name: jsqlparser
+  namespace: com.github.jsqlparser
+  provider: mavencentral
+  type: maven
+revisions:
+  '4.9':
+    licensed:
+      declared: Apache-2.0 OR LGPL-2.1-only
