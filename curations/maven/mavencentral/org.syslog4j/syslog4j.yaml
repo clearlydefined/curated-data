@@ -1,0 +1,9 @@
+coordinates:
+  name: syslog4j
+  namespace: org.syslog4j
+  provider: mavencentral
+  type: maven
+revisions:
+  0.9.30:
+    licensed:
+      declared: LGPL-2.1-only
