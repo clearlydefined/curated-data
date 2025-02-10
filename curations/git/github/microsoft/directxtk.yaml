@@ -1,0 +1,9 @@
+coordinates:
+  name: directxtk
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  2d61ee111975da5103313f9cde3b3f156044684d:
+    licensed:
+      declared: MIT
