@@ -1,0 +1,9 @@
+coordinates:
+  name: zlib-ng
+  namespace: zlib-ng
+  provider: github
+  type: git
+revisions:
+  4a090adef8c773087ec8916ad3c2236ef560df27:
+    licensed:
+      declared: Zlib
