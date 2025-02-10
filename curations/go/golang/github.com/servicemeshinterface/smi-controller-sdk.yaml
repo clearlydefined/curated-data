@@ -1,0 +1,9 @@
+coordinates:
+  name: smi-controller-sdk
+  namespace: github.com%2fservicemeshinterface
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20220429210008-4cbed06a6789:
+    licensed:
+      declared: Apache-2.0
