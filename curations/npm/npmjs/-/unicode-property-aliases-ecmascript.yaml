@@ -1,0 +1,9 @@
+coordinates:
+    type: npm
+    provider: npmjs
+    namespace: '-'
+    name: unicode-property-aliases-ecmascript
+revisions:
+    2.1.0:
+        licensed:
+            declared: MIT
