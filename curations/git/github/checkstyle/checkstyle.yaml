@@ -6,7 +6,7 @@ coordinates:
 revisions:
   197b10f55038049ef21685cc9ec92a36764950da:
     licensed:
-      declared: Apache-2.0 AND LGPL-2.1-or-later
+      declared: LGPL-2.1-or-later
   5f62e6406680bb91ef505b9a1932e398bf42532d:
     files:
       - attributions:
