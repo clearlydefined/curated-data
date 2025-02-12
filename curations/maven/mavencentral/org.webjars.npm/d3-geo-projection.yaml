@@ -1,0 +1,9 @@
+coordinates:
+  name: d3-geo-projection
+  namespace: org.webjars.npm
+  provider: mavencentral
+  type: maven
+revisions:
+  2.5.1:
+    licensed:
+      declared: BSD-3-Clause
