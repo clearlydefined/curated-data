@@ -1,0 +1,9 @@
+coordinates:
+  name: directxtex
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  92881b7438cd1a306e370d52080ac8197afed50d:
+    licensed:
+      declared: MS-PL
