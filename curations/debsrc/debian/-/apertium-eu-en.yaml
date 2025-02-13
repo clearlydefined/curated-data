@@ -1,0 +1,10 @@
+coordinates:
+  name: apertium-eu-en
+  provider: debian
+  type: debsrc
+revisions:
+  0.3.1~r56205-2:
+    described:
+      releaseDate: '2011-12-28'
+    licensed:
+      declared: GPL-2.0-only
