@@ -1,0 +1,9 @@
+coordinates:
+  name: communication-signaling
+  namespace: '@azure'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0-beta.29:
+    licensed:
+      declared: MIT
