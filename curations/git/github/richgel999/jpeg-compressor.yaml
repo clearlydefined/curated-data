@@ -1,0 +1,9 @@
+coordinates:
+  name: jpeg-compressor
+  namespace: richgel999
+  provider: github
+  type: git
+revisions:
+  884da384cd84bfd54cb0929a2fa520fae3c8b594:
+    licensed:
+      declared: LicenseRef-scancode-public-domain
