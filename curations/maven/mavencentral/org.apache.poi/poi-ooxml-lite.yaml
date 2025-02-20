@@ -1,0 +1,9 @@
+coordinates:
+  name: poi-ooxml-lite
+  namespace: org.apache.poi
+  provider: mavencentral
+  type: maven
+revisions:
+  5.2.2:
+    licensed:
+      declared: Apache-2.0
