@@ -1,0 +1,9 @@
+coordinates:
+  name: co
+  namespace: idealvin
+  provider: github
+  type: git
+revisions:
+  f6071567cc2fde062d63f24f92c20c8e427dae43:
+    licensed:
+      declared: MIT
