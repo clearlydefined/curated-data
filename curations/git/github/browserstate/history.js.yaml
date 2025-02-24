@@ -1,0 +1,9 @@
+coordinates:
+  name: history.js
+  namespace: browserstate
+  provider: github
+  type: git
+revisions:
+  6c6c8b951b03fa725adb11b1087d73b0b6f0ac82:
+    licensed:
+      declared: BSD-3-Clause
