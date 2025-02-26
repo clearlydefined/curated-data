@@ -1,0 +1,9 @@
+coordinates:
+  name: calcite-colors
+  namespace: '@esri'
+  provider: npmjs
+  type: npm
+revisions:
+  6.0.0:
+    licensed:
+      declared: OTHER
