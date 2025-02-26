@@ -1,0 +1,9 @@
+coordinates:
+  name: babel-preset-default
+  namespace: '@10up'
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.1:
+    licensed:
+      declared: GPL-2.0-or-later
