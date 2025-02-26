@@ -1,0 +1,8 @@
+coordinates:
+  name: SixLabors.ImageSharp.Web.Providers.AWS
+  provider: nuget
+  type: nuget
+revisions:
+  3.1.3:
+    licensed:
+      declared: LicenseRef-scancode-six-labors-split-1.0
