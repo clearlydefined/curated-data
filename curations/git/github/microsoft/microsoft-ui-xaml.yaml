@@ -1,0 +1,9 @@
+coordinates:
+  name: microsoft-ui-xaml
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  c4e32a2727e2cdcbf3bdf14f8dfe38282dcecd4f:
+    licensed:
+      declared: MIT
