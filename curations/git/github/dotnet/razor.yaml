@@ -1,0 +1,9 @@
+coordinates:
+  name: razor
+  namespace: dotnet
+  provider: github
+  type: git
+revisions:
+  9b1e979b6c3fe7cfbe30f595b9b0994d20bd482c:
+    licensed:
+      declared: MIT
