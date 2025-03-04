@@ -1,0 +1,9 @@
+coordinates:
+  name: unitygltf
+  namespace: khronosgroup
+  provider: github
+  type: git
+revisions:
+  f92ce098109810f3496f1d153d5c68881f30fdfa:
+    licensed:
+      declared: MIT
