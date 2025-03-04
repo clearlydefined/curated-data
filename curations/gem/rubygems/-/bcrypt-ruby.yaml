@@ -1,0 +1,14 @@
+coordinates:
+  name: bcrypt-ruby
+  provider: rubygems
+  type: gem
+revisions:
+  3.1.5:
+    described:
+      sourceLocation:
+        name: bcrypt-ruby
+        namespace: codahale
+        provider: github
+        revision: a5b7bfbf21bc41838902b4a798f90ec25c09630e
+        type: git
+        url: 'https://github.com/codahale/bcrypt-ruby/tree/a5b7bfbf21bc41838902b4a798f90ec25c09630e'
