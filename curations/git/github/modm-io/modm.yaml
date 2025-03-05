@@ -1,0 +1,9 @@
+coordinates:
+  name: modm
+  namespace: modm-io
+  provider: github
+  type: git
+revisions:
+  6c4e0f5d84cff9456aea34114ec56ca052b2a4b4:
+    licensed:
+      declared: MPL-2.0
