@@ -1,0 +1,9 @@
+coordinates:
+  name: jdk8u_hotspot
+  namespace: jetbrains
+  provider: github
+  type: git
+revisions:
+  12d02c91b0b4c63d04daff4e36a79bb6045b2c7f:
+    licensed:
+      declared: GPL-2.0-only
