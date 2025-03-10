@@ -16,6 +16,9 @@ revisions:
   a536e7eec55c538c94639cefe295aa672996bf9b:
     licensed:
       declared: MIT AND OTHER
+  bbcbd76a52cef2acf6802eb3d7a2cecfe366df47:
+    licensed:
+      declared: MIT
   c716068d1df2ed82e16b4d22a73397d753f8186f:
     licensed:
       declared: MIT AND OTHER
