@@ -1,0 +1,9 @@
+coordinates:
+  name: anyrtc-rtmp-opensource
+  namespace: anyrtcio-community
+  provider: github
+  type: git
+revisions:
+  2db8c3534876c22606d40ef49861d4593c5fbeac:
+    licensed:
+      declared: GPL-3.0-or-later
