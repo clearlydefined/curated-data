@@ -13,6 +13,9 @@ revisions:
   5cb2e3488d8e6040a3652e82f54962da468a2e23:
     licensed:
       declared: MIT AND LicenseRef-scancode-ms-patent-promise
+  718443a10dbd456b6c8f08ee594a92cfbf2ef8db:
+    licensed:
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   8321c729934c0f8be754953439b88e6e1c120c24:
     licensed:
       declared: MIT AND LicenseRef-scancode-ms-patent-promise
