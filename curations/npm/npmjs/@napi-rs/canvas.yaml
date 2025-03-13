@@ -1,11 +1,9 @@
 coordinates:
-  name: katex
+  name: canvas
+  namespace: '@napi-rs'
   provider: npmjs
   type: npm
 revisions:
-  0.16.19:
-    licensed:
-      declared: MIT
-  0.16.21:
+  0.1.65:
     licensed:
       declared: MIT

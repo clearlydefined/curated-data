@@ -6,16 +6,19 @@ coordinates:
 revisions:
   1ed7226e39b7214807318d2cc8ff37492527ffa1:
     licensed:
-      declared: MIT AND OTHER
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   36f70fa4be4bd37d4d76d06dd2cc433ff46351bd:
     licensed:
-      declared: MIT AND OTHER
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   52da57d20af6c453d85e4ae05a74255485f44eee:
     licensed:
-      declared: MIT AND OTHER
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   a536e7eec55c538c94639cefe295aa672996bf9b:
     licensed:
-      declared: MIT AND OTHER
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
+  bbcbd76a52cef2acf6802eb3d7a2cecfe366df47:
+    licensed:
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   c716068d1df2ed82e16b4d22a73397d753f8186f:
     licensed:
-      declared: MIT AND OTHER
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
