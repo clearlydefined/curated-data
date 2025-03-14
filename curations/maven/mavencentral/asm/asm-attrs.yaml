@@ -1,0 +1,9 @@
+coordinates:
+  name: asm-attrs
+  namespace: asm
+  provider: mavencentral
+  type: maven
+revisions:
+  1.5.3:
+    licensed:
+      declared: BSD-3-Clause
