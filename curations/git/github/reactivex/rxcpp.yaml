@@ -1,0 +1,9 @@
+coordinates:
+  name: rxcpp
+  namespace: reactivex
+  provider: github
+  type: git
+revisions:
+  5c9f907c5d6726027612221e3f71e3d46c1af92a:
+    licensed:
+      declared: MS-PL
