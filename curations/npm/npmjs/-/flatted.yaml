@@ -1,0 +1,8 @@
+coordinates:
+  name: flatted
+  provider: npmjs
+  type: npm
+revisions:
+  3.3.3:
+    licensed:
+      declared: ISC
