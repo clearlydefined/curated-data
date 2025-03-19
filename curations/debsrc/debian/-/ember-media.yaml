@@ -5,4 +5,4 @@ coordinates:
 revisions:
   0.7.2.1-1:
     licensed:
-      declared: OTHER
+      declared: GPL-2.0-or-later OR GFDL-1.1-no-invariants-or-later
