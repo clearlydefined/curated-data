@@ -1,0 +1,8 @@
+coordinates:
+  name: unicode-canonical-property-names-ecmascript
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.1:
+    licensed:
+      declared: MIT
