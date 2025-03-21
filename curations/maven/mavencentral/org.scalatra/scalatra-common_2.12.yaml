@@ -1,0 +1,9 @@
+coordinates:
+  name: scalatra-common_2.12
+  namespace: org.scalatra
+  provider: mavencentral
+  type: maven
+revisions:
+  2.6.5:
+    licensed:
+      declared: BSD-2-Clause
