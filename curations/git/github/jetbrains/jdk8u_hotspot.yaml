@@ -6,4 +6,4 @@ coordinates:
 revisions:
   12d02c91b0b4c63d04daff4e36a79bb6045b2c7f:
     licensed:
-      declared: GPL-2.0-only
+      declared: GPL-2.0-only WITH OpenJDK-assembly-exception-1.0
