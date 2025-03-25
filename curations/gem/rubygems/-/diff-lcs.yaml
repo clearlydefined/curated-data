@@ -6,4 +6,4 @@ coordinates:
 revisions:
     1.6.1:
         licensed:
-            declared: (GPL-2.0-or-later OR Artistic-2.0 OR MIT)
+            declared: GPL-2.0-or-later OR Artistic-2.0 OR MIT
