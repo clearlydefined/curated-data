@@ -1,0 +1,9 @@
+coordinates:
+    type: gem
+    provider: rubygems
+    namespace: '-'
+    name: diff-lcs
+revisions:
+    1.6.1:
+        licensed:
+            declared: (GPL-2.0-or-later OR Artistic-2.0 OR MIT)
