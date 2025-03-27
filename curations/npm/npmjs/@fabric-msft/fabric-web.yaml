@@ -1,0 +1,9 @@
+coordinates:
+  name: fabric-web
+  namespace: '@fabric-msft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0-beta:
+    licensed:
+      declared: MIT
