@@ -1,0 +1,8 @@
+coordinates:
+  name: vcremote-lib
+  provider: npmjs
+  type: npm
+revisions:
+  2.3.20:
+    licensed:
+      declared: OTHER
