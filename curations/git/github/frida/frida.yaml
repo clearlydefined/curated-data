@@ -6,4 +6,4 @@ coordinates:
 revisions:
   8cee881a901e2a5e6ff632b660eacff2082da2fe:
     licensed:
-      declared: wxWindows
+      declared: GPL-2.0-or-later WITH WxWindows-exception-3.1
