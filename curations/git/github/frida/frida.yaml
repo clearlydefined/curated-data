@@ -1,0 +1,9 @@
+coordinates:
+  name: frida
+  namespace: frida
+  provider: github
+  type: git
+revisions:
+  8cee881a901e2a5e6ff632b660eacff2082da2fe:
+    licensed:
+      declared: wxWindows
