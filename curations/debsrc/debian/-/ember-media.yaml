@@ -5,4 +5,136 @@ coordinates:
 revisions:
   0.7.2.1-1:
     licensed:
-      declared: GPL-2.0-or-later OR GFDL-1.1-no-invariants-or-later
+      declared: (GPL-2+ OR GFDL-1.1+) AND GPL-2+ AND GFDL-1.1+ AND MIT AND Bitstream License AND LGPL-3+.  
+
+Source:  https://salsa.debian.org/games-team/ember-media/-/blob/master/debian/copyright?ref_type=heads from https://packages.debian.org/source/buster/ember-media
+and https://salsa.debian.org/games-team/ember-media/-/blob/master/debian/copyright?ref_type=heads
+
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Ember
+Upstream-Contact: general@mail.worldforge.org
+Source: https://sourceforge.net/projects/worldforge/
+
+Files: *
+Copyright: Copyright 2000-2014 The WorldForge project
+License: GPL-2+ or GFDL-NIV-1.1+
+Comment: As a courtesy, we request that you license any derivative works
+ under this same dual license.
+
+Files: media/shared/common/resources/ogre/ogre_scripts/*
+Copyright: 2000-2009 Torus Knot Software Ltd
+License: Expat
+
+Files: media/shared/common/resources/ogre/ogre_scripts/scripts/Bloom2.material
+Copyright: 2007-2008 Dark Sylinc
+License: Expat
+
+Files: debian/*
+Copyright: 2009, Michael Koch <konqueror@gmx.de>
+           2012-2013, Stephen M. Webb <stephen.webb@bregmasoft.ca>
+           2015-2021, Olek Wojnar <olek@debian.org>
+License: GPL-2+
+
+Files: media/shared/common/resources/ogre/caelum/core/*.cg
+Copyright: 2008 Caelum team.
+License: LGPL-3+
+ Caelum is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License as published
+ by the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ Caelum is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU Lesser General Public License
+ along with Caelum. If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU Lesser General Public
+ License version 3 can be found in the file `/usr/share/common-licenses/LGPL-3'.
+
+Files: media/shared/common/resources/ogre/scripts/programs/LightingVp.glsl
+       media/shared/common/resources/ogre/scripts/programs/SplatFp.glsl
+       media/shared/common/resources/ogre/scripts/programs/LightingFp.glsl
+Copyright: 2009  Alexey Torkhov
+License: GPL-2+
+
+Files: media/*/DejaVuSans*.ttf
+Copyright: 2003 Bitstream, Inc
+License: Bitstream
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of the fonts accompanying this license ("Fonts") and associated
+ documentation files (the "Font Software"), to reproduce and distribute the
+ Font Software, including without limitation the rights to use, copy, merge,
+ publish, distribute, and/or sell copies of the Font Software, and to permit
+ persons to whom the Font Software is furnished to do so, subject to the
+ following conditions:
+ .
+ The above copyright and trademark notices and this permission notice shall
+ be included in all copies of one or more of the Font Software typefaces.
+ .
+ The Font Software may be modified, altered, or added to, and in particular
+ the designs of glyphs or characters in the Fonts may be modified and
+ additional glyphs or characters may be added to the Fonts, only if the fonts
+ are renamed to names not containing either the words "Bitstream" or the word
+ "Vera".
+ .
+ This License becomes null and void to the extent applicable to Fonts or Font
+ Software that has been modified and is distributed under the "Bitstream
+ Vera" names.
+ .
+ The Font Software may be sold as part of a larger software package but no
+ copy of one or more of the Font Software typefaces may be sold by itself.
+ .
+ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+ OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,
+ TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME
+ FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING
+ ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+ THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE
+ FONT SOFTWARE.
+
+License: Expat
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.
+
+License: GPL-2+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+License: GFDL-NIV-1.1+
+ Permission is granted to copy, distribute and/or modify
+ this document under the terms of the GNU Free Documentation License,
+ Version 1.1 or any later version published by the Free Software Foundation;
+ with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+ .
+ On Debian systems, the full text of the current version of the GNU Free
+ Documentation License may be found in the file '/usr/share/common-licenses/GFDL'.
