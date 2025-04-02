@@ -9,6 +9,9 @@ revisions:
   16.9.4:
     licensed:
       declared: OTHER
+  17.0.0:
+    licensed:
+      declared: OTHER
   17.1.0:
     licensed:
       declared: OTHER
@@ -16,5 +19,11 @@ revisions:
     licensed:
       declared: OTHER
   17.3.2:
+    licensed:
+      declared: OTHER
+  17.4.0:
+    licensed:
+      declared: OTHER
+  17.5.0:
     licensed:
       declared: OTHER
