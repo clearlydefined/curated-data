@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Windows.WDK.Win32Metadata
+  provider: nuget
+  type: nuget
+revisions:
+  0.12.8-experimental:
+    licensed:
+      declared: OTHER
