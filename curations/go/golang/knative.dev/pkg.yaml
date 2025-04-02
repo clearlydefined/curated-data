@@ -4,9 +4,9 @@ coordinates:
   provider: golang
   type: go
 revisions:
-v0.0.0-20221123154742-05b694ec4d3a:
-  licensed:
-    declared: Apache-2.0
-v0.0.0-20230612155445-74c4be5e935e:
-  licensed:
-    declared: Apache-2.0
+  v0.0.0-20221123154742-05b694ec4d3a:
+    licensed:
+      declared: Apache-2.0
+  v0.0.0-20230612155445-74c4be5e935e:
+    licensed:
+      declared: Apache-2.0
