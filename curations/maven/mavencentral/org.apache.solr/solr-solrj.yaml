@@ -1,0 +1,9 @@
+coordinates:
+  name: solr-solrj
+  namespace: org.apache.solr
+  provider: mavencentral
+  type: maven
+revisions:
+  8.11.2:
+    licensed:
+      declared: Apache-2.0

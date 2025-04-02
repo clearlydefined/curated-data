@@ -1,0 +1,8 @@
+coordinates:
+  name: ember-media
+  provider: debian
+  type: debsrc
+revisions:
+  0.7.2.1-1:
+    licensed:
+      declared: GPL-2.0-or-later OR GFDL-1.1-no-invariants-or-later

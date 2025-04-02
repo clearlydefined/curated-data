@@ -1,0 +1,9 @@
+coordinates:
+  name: struts-el
+  namespace: struts
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.9:
+    licensed:
+      declared: Apache-2.0

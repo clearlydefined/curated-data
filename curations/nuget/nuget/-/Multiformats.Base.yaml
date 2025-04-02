@@ -1,0 +1,8 @@
+coordinates:
+  name: Multiformats.Base
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.2:
+    licensed:
+      declared: MIT
