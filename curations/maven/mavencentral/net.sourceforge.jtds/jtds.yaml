@@ -1,0 +1,9 @@
+coordinates:
+  name: jtds
+  namespace: net.sourceforge.jtds
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.2:
+    licensed:
+      declared: LGPL-2.1-or-later
