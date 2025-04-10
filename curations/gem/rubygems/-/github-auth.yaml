@@ -6,3 +6,9 @@ revisions:
   3.0.0:
     licensed:
       declared: MIT
+    files:
+      - attributions:
+           - 'Copyright (c) 2013 Chris Hunt'
+        license:  MIT
+        path: https://github.com/chrishunt/github-auth/blob/master/LICENSE.txt
+      
