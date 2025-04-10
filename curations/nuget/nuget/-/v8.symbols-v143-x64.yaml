@@ -1,0 +1,8 @@
+coordinates:
+  name: v8.symbols-v143-x64
+  provider: nuget
+  type: nuget
+revisions:
+  11.9.169.4:
+    licensed:
+      declared: BSD-3-Clause-Clear
