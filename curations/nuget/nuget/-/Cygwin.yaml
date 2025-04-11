@@ -1,0 +1,8 @@
+coordinates:
+  name: Cygwin
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.1.1:
+    licensed:
+      declared: GPL-3.0-only
