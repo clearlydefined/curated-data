@@ -1,0 +1,9 @@
+coordinates:
+  name: jgroups
+  namespace: jgroups
+  provider: mavencentral
+  type: maven
+revisions:
+  2.8.0.GA:
+    licensed:
+      declared: LGPL-2.1-only

@@ -9,6 +9,12 @@ revisions:
   1.0.2849.39:
     licensed:
       declared: BSD-3-Clause
+  1.0.2903.40:
+    licensed:
+      declared: BSD-3-Clause
+  1.0.3065.39:
+    licensed:
+      declared: BSD-3-Clause
   1.0.864.35:
     licensed:
       declared: BSD-3-Clause

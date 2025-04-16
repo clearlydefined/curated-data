@@ -33,3 +33,6 @@ revisions:
   15.8.209:
     licensed:
       declared: MIT
+  17.12.19:
+    licensed:
+      declared: MIT

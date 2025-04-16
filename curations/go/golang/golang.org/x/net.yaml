@@ -1,6 +1,6 @@
 coordinates:
   name: net
-  namespace: golang.org%2Fx
+  namespace: golang.org%2fx
   provider: golang
   type: go
 revisions:
@@ -16,10 +16,19 @@ revisions:
   v0.12.1-0.20240412193743-ef58d90fdfc5:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.17.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.21.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.23.0:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.24.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.25.0:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.26.0:

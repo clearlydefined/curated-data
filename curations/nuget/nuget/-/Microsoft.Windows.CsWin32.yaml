@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Windows.CsWin32
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.162:
+    licensed:
+      declared: MIT

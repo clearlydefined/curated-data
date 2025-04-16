@@ -5,13 +5,13 @@ coordinates:
 revisions:
   '1.76':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-biopython
   '1.78':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-biopython
   '1.79':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-biopython
   '1.81':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-biopython

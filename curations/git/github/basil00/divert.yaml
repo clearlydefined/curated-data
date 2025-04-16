@@ -1,0 +1,9 @@
+coordinates:
+  name: divert
+  namespace: basil00
+  provider: github
+  type: git
+revisions:
+  8bda0aff7b4a71dc1a3b6ad784aa42c3026e92e9:
+    licensed:
+      declared: GPL-2.0-or-later OR LGPL-3.0-or-later

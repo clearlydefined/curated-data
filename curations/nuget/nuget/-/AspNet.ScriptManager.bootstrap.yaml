@@ -5,22 +5,25 @@ coordinates:
 revisions:
   3.0.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
+  3.3.6:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   3.3.7:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   3.4.1:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   4.1.1:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   4.3.1:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   4.6.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   5.2.3:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06

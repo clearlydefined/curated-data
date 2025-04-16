@@ -1,0 +1,11 @@
+coordinates:
+  name: Microsoft.Windows.CsWinRT
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.5:
+    licensed:
+      declared: MIT
+  2.2.0:
+    licensed:
+      declared: MIT

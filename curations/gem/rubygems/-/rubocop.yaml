@@ -1,11 +1,14 @@
 coordinates:
-  name: rubocop
-  provider: rubygems
   type: gem
+  provider: rubygems
+  name: rubocop
 revisions:
   1.38.0:
     licensed:
       declared: MIT
   1.39.0:
+    licensed:
+      declared: MIT
+  1.69.0:
     licensed:
       declared: MIT

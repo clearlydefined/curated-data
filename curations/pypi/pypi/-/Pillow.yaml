@@ -81,3 +81,7 @@ revisions:
   10.1.0:
     licensed:
       declared: MIT-CMU
+  10.3.0:
+    licensed:
+      declared: MIT-CMU
+      

@@ -1,0 +1,12 @@
+coordinates:
+  name: 1ds-post-js
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  4.3.4:
+    licensed:
+      declared: MIT
+  4.3.5:
+    licensed:
+      declared: MIT

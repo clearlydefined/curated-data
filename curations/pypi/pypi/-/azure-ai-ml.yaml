@@ -1,0 +1,8 @@
+coordinates:
+  name: azure-ai-ml
+  provider: pypi
+  type: pypi
+revisions:
+  1.21.1:
+    licensed:
+      declared: MIT

@@ -1,0 +1,11 @@
+coordinates:
+  name: EFCore.BulkExtensions.Sqlite
+  provider: nuget
+  type: nuget
+revisions:
+  8.1.0:
+    licensed:
+      declared: OTHER
+  8.1.1:
+    licensed:
+      declared: OTHER

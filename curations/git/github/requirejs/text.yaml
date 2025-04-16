@@ -1,0 +1,9 @@
+coordinates:
+  name: text
+  namespace: requirejs
+  provider: github
+  type: git
+revisions:
+  3f9d4c19b3a1a3c6f35650c5788cbea1db93197a:
+    licensed:
+      declared: MIT

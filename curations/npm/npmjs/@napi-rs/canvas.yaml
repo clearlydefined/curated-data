@@ -1,0 +1,9 @@
+coordinates:
+  name: canvas
+  namespace: '@napi-rs'
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.65:
+    licensed:
+      declared: MIT

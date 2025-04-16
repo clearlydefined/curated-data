@@ -10,10 +10,16 @@ revisions:
           - 'Copyright (c) 2002-2020 Pivotal, Inc.'
         license: ''
         path: META-INF/notice.txt
+  5.3.23:
+    licensed:
+      declared: Apache-2.0
   5.3.27:
     licensed:
       declared: Apache-2.0
   5.3.31:
+    licensed:
+      declared: Apache-2.0
+  5.3.33:
     licensed:
       declared: Apache-2.0
   5.3.34:

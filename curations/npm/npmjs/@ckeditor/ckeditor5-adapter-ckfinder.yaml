@@ -1,0 +1,9 @@
+coordinates:
+  name: ckeditor5-adapter-ckfinder
+  namespace: '@ckeditor'
+  provider: npmjs
+  type: npm
+revisions:
+  44.2.0:
+    licensed:
+      declared: GPL-2.0-or-later OR OTHER

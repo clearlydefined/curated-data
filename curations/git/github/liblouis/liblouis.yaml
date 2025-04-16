@@ -1,0 +1,9 @@
+coordinates:
+  name: liblouis
+  namespace: liblouis
+  provider: github
+  type: git
+revisions:
+  10f66b2735b7d1e3e44d98f6dedbb859d197ea57:
+    licensed:
+      declared: GPL-3.0-or-later AND LGPL-2.1-or-later

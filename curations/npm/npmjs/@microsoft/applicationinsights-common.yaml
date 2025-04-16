@@ -1,0 +1,12 @@
+coordinates:
+  type: npm
+  provider: npmjs
+  namespace: '@microsoft'
+  name: applicationinsights-common
+revisions:
+  3.3.4:
+    licensed:
+      declared: MIT
+  3.3.5:
+    licensed:
+      declared: MIT

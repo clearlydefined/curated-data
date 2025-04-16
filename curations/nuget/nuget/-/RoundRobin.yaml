@@ -1,0 +1,11 @@
+coordinates:
+  name: RoundRobin
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.1:
+    licensed:
+      declared: MIT
+  2.3.0:
+    licensed:
+      declared: MIT

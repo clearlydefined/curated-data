@@ -1,0 +1,8 @@
+coordinates:
+  name: runtime.win-x86.Microsoft.NETCore.Jit
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.8:
+    licensed:
+      declared: MIT

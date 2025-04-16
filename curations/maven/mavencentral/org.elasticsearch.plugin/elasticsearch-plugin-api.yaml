@@ -1,0 +1,9 @@
+coordinates:
+  name: elasticsearch-plugin-api
+  namespace: org.elasticsearch.plugin
+  provider: mavencentral
+  type: maven
+revisions:
+  8.14.1:
+    licensed:
+      declared: Elastic-2.0 OR SSPL-1.0
