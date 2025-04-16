@@ -5,22 +5,22 @@ coordinates:
 revisions:
   1.0.0:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-webm
   1.1.0:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-webm
   1.2.0:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-webm
   1.2.1:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-webm
   1.2.3:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-webm
   1.2.4:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-webm
   1.3.2:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-webm

@@ -5,19 +5,19 @@ coordinates:
 revisions:
   19.0.2:
     licensed:
-      declared: BSD-3-Clause AND LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0
+      declared: BSD-3-Clause AND (LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0)
   22.0.2:
     licensed:
-      declared: BSD-3-Clause AND LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0
+      declared: BSD-3-Clause AND (LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0)
   23.2.0:
     licensed:
-      declared: BSD-3-Clause AND LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0      
+      declared: BSD-3-Clause AND (LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0)      
   23.2.1:
     licensed:
-      declared: BSD-3-Clause AND LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0
+      declared: BSD-3-Clause AND (LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0)
   25.0.2:
     licensed:
-      declared: BSD-3-Clause AND LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0
+      declared: BSD-3-Clause AND (LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0)
   25.1.0:
     licensed:
-      declared: BSD-3-Clause AND LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0
+      declared: BSD-3-Clause AND (LGPL-3.0-or-later WITH LicenseRef-scancode-zeromq-exception-lgpl-3.0)
