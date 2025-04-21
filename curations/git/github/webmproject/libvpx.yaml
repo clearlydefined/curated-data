@@ -1,0 +1,9 @@
+coordinates:
+  name: libvpx
+  namespace: webmproject
+  provider: github
+  type: git
+revisions:
+  6516e974f8c40d0e49b19a4b55b1c98e7432edbb:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-webm
