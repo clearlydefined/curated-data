@@ -1,0 +1,8 @@
+coordinates:
+  name: ag-charts-enterprise
+  provider: npmjs
+  type: npm
+revisions:
+  11.0.3:
+    licensed:
+      declared: OTHER
