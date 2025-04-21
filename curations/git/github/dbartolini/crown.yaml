@@ -1,0 +1,9 @@
+coordinates:
+  name: crown
+  namespace: dbartolini
+  provider: github
+  type: git
+revisions:
+  405060f92bcce7a738eb1ae4cefa326e7a672f77:
+    licensed:
+      declared: MIT
