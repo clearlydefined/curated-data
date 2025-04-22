@@ -6,6 +6,9 @@ revisions:
   3.0.0:
     licensed:
       declared: LicenseRef-scancode-ms-net-library-2019-06
+  3.3.5:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   3.3.6:
     licensed:
       declared: LicenseRef-scancode-ms-net-library-2019-06
