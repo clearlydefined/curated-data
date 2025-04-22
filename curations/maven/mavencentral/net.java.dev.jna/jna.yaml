@@ -15,7 +15,7 @@ revisions:
       declared: Apache-2.0 OR LGPL-2.1-or-later
   5.12.1:
     licensed:
-      declared: LGPL-2.1-or-later OR Apache-2.0
+      declared: Apache-2.0 OR LGPL-2.1-or-later
   5.14.0:
     licensed:
       declared: Apache-2.0 OR LGPL-2.1-or-later
