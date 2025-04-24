@@ -1,0 +1,9 @@
+coordinates:
+  name: utfpp
+  namespace: alexhuszagh
+  provider: github
+  type: git
+revisions:
+  bd99a5e4f3fbfb3bc86c1d7af5cf5edf2f00e1a7:
+    licensed:
+      declared: OTHER
