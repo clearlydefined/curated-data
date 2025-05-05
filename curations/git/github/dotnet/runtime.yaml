@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  101667696659492d5cfbc662ffb05f54eb4dbc48:
+    licensed:
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   236cb21e3c1992c8cee6935ce67e2125ac4687e8:
     licensed:
       declared: MIT AND LicenseRef-scancode-ms-patent-promise
