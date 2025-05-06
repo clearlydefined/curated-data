@@ -6,43 +6,43 @@ coordinates:
 revisions:
   3c32dca89214c03b107cc9d1c468000cff3f8127:
     licensed:
-      declared: MIT OR OTHER
+      declared: LicenseRef-scancode-public-domain OR MIT
   5defb4ed1a4293b8e2bf641e16b156fb9de498cc:
     licensed:
-      declared: MIT OR OTHER
+      declared: LicenseRef-scancode-public-domain OR MIT
   645250b6690785be60ab6780ce4b58698d884d11:
     licensed:
-      declared: MIT OR OTHER
+      declared: LicenseRef-scancode-public-domain OR MIT
   678d65e7ad4596f521c1b56638c7bf5a6b79e490:
     licensed:
-      declared: MIT OR OTHER
+      declared: LicenseRef-scancode-public-domain OR MIT
   6aba23f4a8628d599a9ef7fa4811c4ff6e4070e2:
     files:
       - attributions:
           - Copyright (c) 2007-2010 Baptiste Lepilleur and The JsonCpp Authors
           - Copyright (c) 2007-2010 by Baptiste Lepilleur and The JsonCpp Authors
-        license: MIT OR OTHER
+        license: LicenseRef-scancode-public-domain OR MIT
         path: LICENSE
     licensed:
-      declared: MIT OR OTHER
+      declared: LicenseRef-scancode-public-domain OR MIT
   9059f5cad030ba11d37818847443a53918c327b1:
     licensed:
-      declared: MIT OR OTHER
+      declared: LicenseRef-scancode-public-domain OR MIT
   9be589598595963f94ba264d7b416d0533421106:
     licensed:
-      declared: MIT OR OTHER
+      declared: LicenseRef-scancode-public-domain OR MIT
   d2e6a971f4544c55b8e3b25cf96db266971b778f:
     licensed:
-      declared: MIT OR OTHER
+      declared: LicenseRef-scancode-public-domain OR MIT
   d84702c9036505d0906b2f3d222ce5498ec65bc6:
     licensed:
-      declared: MIT OR OTHER
+      declared: LicenseRef-scancode-public-domain OR MIT
   ddabf50f72cf369bf652a95c4d9fe31a1865a781:
     licensed:
-      declared: MIT OR OTHER
+      declared: LicenseRef-scancode-public-domain OR MIT
   f572e8e42e22cfcf5ab0aea26574f408943edfa4:
     licensed:
-      declared: MIT
+      declared: LicenseRef-scancode-public-domain OR MIT
   f700fe455940d4d325c088b9174a173e130e0fa8:
     licensed:
-      declared: MIT OR OTHER
+      declared: LicenseRef-scancode-public-domain OR MIT
