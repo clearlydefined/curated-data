@@ -1,0 +1,8 @@
+coordinates:
+  name: NetStorageKit.Standard
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.5:
+    licensed:
+      declared: Apache-2.0
