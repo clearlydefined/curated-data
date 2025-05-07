@@ -10,5 +10,5 @@ revisions:
       - attributions:
            - 'Copyright (c) 2013 Chris Hunt'
         license:  MIT
-        path: https://github.com/chrishunt/github-auth/blob/master/LICENSE.txt
+        path: LICENSE.txt
       
