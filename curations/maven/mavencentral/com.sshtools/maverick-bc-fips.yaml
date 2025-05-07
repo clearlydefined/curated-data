@@ -1,0 +1,9 @@
+coordinates:
+  name: maverick-bc-fips
+  namespace: com.sshtools
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.10:
+    licensed:
+      declared: GPL-2.0-only
