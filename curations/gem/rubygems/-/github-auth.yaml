@@ -9,6 +9,5 @@ revisions:
     files:
       - attributions:
            - 'Copyright (c) 2013 Chris Hunt'
-        license:  MIT
+        license: MIT
         path: LICENSE.txt
-      
