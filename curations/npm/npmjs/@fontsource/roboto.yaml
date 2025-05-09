@@ -1,0 +1,9 @@
+coordinates:
+  name: roboto
+  namespace: '@fontsource'
+  provider: npmjs
+  type: npm
+revisions:
+  5.2.5:
+    licensed:
+      declared: OFL-1.1
