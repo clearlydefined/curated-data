@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Windows.SDK.Win32Docs
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.42-alpha:
+    licensed:
+      declared: OTHER
