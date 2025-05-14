@@ -1,0 +1,8 @@
+coordinates:
+  name: renovate
+  provider: npmjs
+  type: npm
+revisions:
+  38.71.0:
+    licensed:
+      declared: AGPL-3.0-only
