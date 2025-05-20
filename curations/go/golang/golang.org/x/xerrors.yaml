@@ -18,7 +18,7 @@ revisions:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.0.0-20220411194840-2f41105eb62f:
     licensed:
-      declared: Apache-2.0
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.0.0-20220609144429-65e65417b02f:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
