@@ -1,0 +1,8 @@
+coordinates:
+  name: pycountry
+  provider: pypi
+  type: pypi
+revisions:
+  24.6.1:
+    licensed:
+      declared: LGPL-2.1-only
