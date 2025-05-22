@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.JavaScript.Hermes
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.0-2505.2001-0e4bc3b9:
+    licensed:
+      declared: MIT
