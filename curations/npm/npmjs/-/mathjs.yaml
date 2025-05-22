@@ -1,0 +1,8 @@
+coordinates:
+  name: mathjs
+  provider: npmjs
+  type: npm
+revisions:
+  14.4.0:
+    licensed:
+      declared: Apache-2.0
