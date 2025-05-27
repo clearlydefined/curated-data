@@ -9,6 +9,9 @@ revisions:
   2.5.0:
     licensed:
       declared: MIT OR GPL-3.0-only
+  3.10.1:
+    licensed:
+      declared: GPL-3.0-or-later OR MIT
   3.2.0:
     files:
       - license: MIT
