@@ -1,0 +1,8 @@
+coordinates:
+  name: lage
+  provider: npmjs
+  type: npm
+revisions:
+  2.7.21:
+    licensed:
+      declared: MIT
