@@ -1,0 +1,8 @@
+coordinates:
+  name: strtok3
+  provider: npmjs
+  type: npm
+revisions:
+  10.2.2:
+    licensed:
+      declared: MIT
