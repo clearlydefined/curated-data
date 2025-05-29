@@ -1,6 +1,6 @@
 coordinates:
   name: mod
-  namespace: golang.org%2fx
+  namespace: golang.org%2Fx
   provider: golang
   type: go
 revisions:
@@ -40,3 +40,6 @@ revisions:
   v0.8.0:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.9.0:
+    licensed:
+      declared: BSD-3-Clause
