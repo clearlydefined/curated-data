@@ -1,0 +1,9 @@
+coordinates:
+  name: veracrypt
+  namespace: veracrypt
+  provider: github
+  type: git
+revisions:
+  3d655ca2a3cd88eb15a021678bfa2bc474e8bfec:
+    licensed:
+      declared: GPL-3.0-only
