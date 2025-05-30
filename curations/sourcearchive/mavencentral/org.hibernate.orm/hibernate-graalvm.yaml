@@ -1,0 +1,9 @@
+coordinates:
+  name: hibernate-graalvm
+  namespace: org.hibernate.orm
+  provider: mavencentral
+  type: sourcearchive
+revisions:
+  6.6.14.Final:
+    licensed:
+      declared: LGPL-2.1-or-later

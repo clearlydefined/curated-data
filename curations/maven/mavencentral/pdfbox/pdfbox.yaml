@@ -1,0 +1,9 @@
+coordinates:
+  name: pdfbox
+  namespace: pdfbox
+  provider: mavencentral
+  type: maven
+revisions:
+  0.7.3:
+    licensed:
+      declared: BSD-3-Clause
