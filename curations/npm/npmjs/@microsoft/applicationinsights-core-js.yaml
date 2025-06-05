@@ -1,12 +1,15 @@
 coordinates:
-  type: npm
-  provider: npmjs
-  namespace: '@microsoft'
-  name: applicationinsights-core-js
+    type: npm
+    provider: npmjs
+    namespace: '@microsoft'
+    name: applicationinsights-core-js
 revisions:
-  3.3.4:
-    licensed:
-      declared: MIT
-  3.3.5:
-    licensed:
-      declared: MIT
+    2.8.18:
+        licensed:
+            declared: MIT
+    3.3.4:
+        licensed:
+            declared: MIT
+    3.3.5:
+        licensed:
+            declared: MIT
