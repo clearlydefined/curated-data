@@ -1,9 +1,9 @@
 coordinates:
-    type: npm
-    provider: npmjs
-    namespace: '@microsoft'
-    name: applicationinsights-shims
+  name: applicationinsights-shims
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
 revisions:
-    2.0.2:
-        licensed:
-            declared: MIT
+  2.0.2:
+    licensed:
+      declared: MIT

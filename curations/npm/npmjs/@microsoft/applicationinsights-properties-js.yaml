@@ -1,9 +1,9 @@
 coordinates:
-    type: npm
-    provider: npmjs
-    namespace: '@microsoft'
-    name: applicationinsights-properties-js
+  name: applicationinsights-properties-js
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
 revisions:
-    2.8.18:
-        licensed:
-            declared: MIT
+  2.8.18:
+    licensed:
+      declared: MIT

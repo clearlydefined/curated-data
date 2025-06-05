@@ -1,15 +1,15 @@
 coordinates:
-    type: npm
-    provider: npmjs
-    namespace: '@microsoft'
-    name: applicationinsights-channel-js
+  name: applicationinsights-channel-js
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
 revisions:
-    2.8.18:
-        licensed:
-            declared: MIT
-    3.3.4:
-        licensed:
-            declared: MIT
-    3.3.5:
-        licensed:
-            declared: MIT
+  2.8.18:
+    licensed:
+      declared: MIT
+  3.3.4:
+    licensed:
+      declared: MIT
+  3.3.5:
+    licensed:
+      declared: MIT
