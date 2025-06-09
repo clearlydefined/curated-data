@@ -1,8 +1,12 @@
 coordinates:
-  name: oauth2
-  provider: rubygems
-  type: gem
+    type: gem
+    provider: rubygems
+    namespace: ""
+    name: oauth2
 revisions:
-  2.0.10:
-    licensed:
-      declared: MIT
+    2.0.10:
+        licensed:
+            declared: MIT
+    2.0.12:
+        licensed:
+            declared: MIT
