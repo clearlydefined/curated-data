@@ -1,0 +1,9 @@
+coordinates:
+  name: timsort.net
+  namespace: miloszkrajewski
+  provider: github
+  type: git
+revisions:
+  4181a144883aeffa1066e00b3e75921ecfd70b1d:
+    licensed:
+      declared: Apache-2.0
