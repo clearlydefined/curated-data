@@ -1,0 +1,9 @@
+coordinates:
+  name: fingerprintjs
+  namespace: '@fingerprintjs'
+  provider: npmjs
+  type: npm
+revisions:
+  3.4.2:
+    licensed:
+      declared: MIT OR OTHER
