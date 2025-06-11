@@ -7,3 +7,6 @@ revisions:
   8.11.2:
     licensed:
       declared: Apache-2.0
+  8.11.3:
+    licensed:
+      declared: Apache-2.0
