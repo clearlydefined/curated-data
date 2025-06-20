@@ -1,0 +1,9 @@
+coordinates:
+  name: adjust-android-signature
+  namespace: com.adjust.signature
+  provider: mavencentral
+  type: maven
+revisions:
+  3.35.2:
+    licensed:
+      declared: OTHER
