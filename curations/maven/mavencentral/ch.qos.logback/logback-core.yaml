@@ -28,3 +28,6 @@ revisions:
   1.4.6:
     licensed:
       declared: EPL-1.0 OR LGPL-2.1-only
+  1.5.17:
+    licensed:
+      declared: EPL-1.0
