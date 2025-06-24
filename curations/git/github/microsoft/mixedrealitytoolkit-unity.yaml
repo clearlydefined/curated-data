@@ -1,0 +1,15 @@
+coordinates:
+  name: mixedrealitytoolkit-unity
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  25acfd3536543867f8cc38aca53f564c99c1ec20:
+    licensed:
+      declared: MIT
+  e7493cf545afce860356ecc6644c81340c3d5e8f:
+    licensed:
+      declared: MIT
+  ed5fb9ebc8ba4205099dbfa394ed9c1b9919b522:
+    licensed:
+      declared: MIT
