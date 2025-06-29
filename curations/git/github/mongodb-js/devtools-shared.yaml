@@ -1,0 +1,9 @@
+coordinates:
+  name: devtools-shared
+  namespace: mongodb-js
+  provider: github
+  type: git
+revisions:
+  005f6263e3a329d916f6936c9adcf35db47cfe9f:
+    licensed:
+      declared: MIT
