@@ -56,6 +56,45 @@ revisions:
   4.11.0rc1:
     licensed:
       declared: Python-2.0.1
+  4.11.0:
+    licensed:
+      declared: Python-2.0.1
+  4.12.0a1:
+    licensed:
+      declared: Python-2.0.1
+  4.12.0a2:
+    licensed:
+      declared: Python-2.0.1
+  4.12.0rc1:
+    licensed:
+      declared: Python-2.0.1
+  4.12.0:
+    licensed:
+      declared: Python-2.0.1
+  4.12.1:
+    licensed:
+      declared: Python-2.0.1
+  4.12.2:
+    licensed:
+      declared: Python-2.0.1
+  4.13.0rc1:
+    licensed:
+      declared: Python-2.0.1
+  4.13.0:
+    licensed:
+      declared: Python-2.0.1
+  4.13.1:
+    licensed:
+      declared: Python-2.0.1
+  4.13.2:
+    licensed:
+      declared: Python-2.0.1
+  4.14.0rc1:
+    licensed:
+      declared: Python-2.0.1
+  4.14.0:
+    licensed:
+      declared: Python-2.0.1
   4.2.0:
     licensed:
       declared: Python-2.0.1
