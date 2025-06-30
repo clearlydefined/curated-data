@@ -1,0 +1,9 @@
+coordinates:
+  name: docusaurus
+  namespace: facebook
+  provider: github
+  type: git
+revisions:
+  fa8ae13e668fcbc0481ce10c0a734e2a5b397293:
+    licensed:
+      declared: MIT
