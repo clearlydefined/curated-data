@@ -1,8 +1,0 @@
-coordinates:
-  name: memuse
-  provider: cratesio
-  type: crate
-revisions:
-  0.2.2:
-    licensed:
-      declared: MIT OR Apache-2.0
