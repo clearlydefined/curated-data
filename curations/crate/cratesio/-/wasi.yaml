@@ -3,6 +3,24 @@ coordinates:
   provider: cratesio
   type: crate
 revisions:
+  0.14.2+wasi-0.2.4:
+    described:
+      sourceLocation:
+        name: wasi
+        namespace: bytecodealliance
+        provider: github
+        revision: 039c272625c2ad09ca3b0b63c41b5f79657482d0
+        type: git
+        url: 'https://github.com/bytecodealliance/wasi/commit/039c272625c2ad09ca3b0b63c41b5f79657482d0'
+  0.11.0+wasi-snapshot-preview1:
+    described:
+      sourceLocation:
+        name: wasi
+        namespace: bytecodealliance
+        provider: github
+        revision: 9ec04a7d8ebb1bbb9e3291503425cee1ec38a560
+        type: git
+        url: 'https://github.com/bytecodealliance/wasi/commit/9ec04a7d8ebb1bbb9e3291503425cee1ec38a560'
   0.10.0+wasi-snapshot-preview1:
     described:
       sourceLocation:

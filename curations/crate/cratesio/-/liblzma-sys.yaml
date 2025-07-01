@@ -1,0 +1,8 @@
+coordinates:
+  name: liblzma-sys
+  provider: cratesio
+  type: crate
+revisions:
+  0.4.3:
+    licensed:
+      declared: MIT OR Apache-2.0

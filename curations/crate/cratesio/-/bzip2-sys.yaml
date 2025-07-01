@@ -1,0 +1,8 @@
+coordinates:
+  name: bzip2-sys
+  provider: cratesio
+  type: crate
+revisions:
+  0.1.13+1.0.8:
+    licensed:
+      declared: MIT OR Apache-2.0
