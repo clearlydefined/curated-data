@@ -1,8 +1,0 @@
-coordinates:
-  name: cc
-  provider: cratesio
-  type: crate
-revisions:
-  1.2.25:
-    licensed:
-      declared: MIT OR Apache-2.0
