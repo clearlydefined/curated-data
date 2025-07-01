@@ -1,0 +1,9 @@
+coordinates:
+    type: gem
+    provider: rubygems
+    namespace: '-'
+    name: factory_bot_rails
+revisions:
+    6.5.0:
+        licensed:
+            declared: MIT
