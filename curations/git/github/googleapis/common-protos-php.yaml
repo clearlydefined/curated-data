@@ -1,0 +1,9 @@
+coordinates:
+  name: common-protos-php
+  namespace: googleapis
+  provider: github
+  type: git
+revisions:
+  96f6873c65fb0289fcdb6ac3d5239f9c9e5750b0:
+    licensed:
+      declared: Apache-2.0
