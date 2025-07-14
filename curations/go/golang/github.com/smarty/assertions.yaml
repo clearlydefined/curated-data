@@ -1,0 +1,9 @@
+coordinates:
+  name: assertions
+  namespace: github.com%2Fsmarty
+  provider: golang
+  type: go
+revisions:
+  v1.16.0:
+    licensed:
+      declared: Apache-2.0
