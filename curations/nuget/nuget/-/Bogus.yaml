@@ -72,6 +72,9 @@ revisions:
   35.4.0:
     licensed:
       declared: MIT
+  35.4.1:
+    licensed:
+      declared: MIT
   35.5.0:
     licensed:
       declared: MIT
