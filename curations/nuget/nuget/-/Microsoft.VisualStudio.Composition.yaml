@@ -1,9 +1,11 @@
 coordinates:
   name: Microsoft.VisualStudio.Composition
-  namespace: null
   provider: nuget
   type: nuget
 revisions:
   15.6.36:
+    licensed:
+      declared: MIT
+  17.12.20:
     licensed:
       declared: MIT
