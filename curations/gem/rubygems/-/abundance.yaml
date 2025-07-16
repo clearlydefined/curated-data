@@ -1,0 +1,10 @@
+coordinates:
+  name: abundance
+  provider: rubygems
+  type: gem
+revisions:
+  1.0.5:
+    described:
+      releaseDate: '2008-12-05'
+    licensed:
+      declared: MIT
