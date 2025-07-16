@@ -1,0 +1,8 @@
+coordinates:
+  name: jfractionlab
+  provider: debian
+  type: debsrc
+revisions:
+  0.91-3:
+    licensed:
+      declared: GPL-3.0-only
