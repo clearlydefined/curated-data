@@ -10,4 +10,4 @@ revisions:
       declared: MIT
     - attributions:  
       - Copyright:: 2008 Louis-Philippe Perron
-    - path: data.tar/data/lib/abundance.rb  
+    - path: data/lib/abundance.rb  
