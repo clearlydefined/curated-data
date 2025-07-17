@@ -11,4 +11,4 @@ revisions:
     files:
      - attributions:  
        - Copyright:: 2008 Louis-Philippe Perron    
-       - path: data/lib/abundance.rb  
+     - path: data/lib/abundance.rb  
