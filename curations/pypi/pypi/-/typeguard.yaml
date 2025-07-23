@@ -1,0 +1,8 @@
+coordinates:
+  name: typeguard
+  provider: pypi
+  type: pypi
+revisions:
+  4.4.4:
+    licensed:
+      declared: MIT
