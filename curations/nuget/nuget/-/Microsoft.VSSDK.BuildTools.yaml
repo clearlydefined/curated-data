@@ -11,6 +11,10 @@ revisions:
     licensed:
       declared: OTHER    
 revisions:
+  17.2.2130-preview2:
+    licensed:
+      declared: OTHER
+revisions:
   17.3.2093:
     licensed:
       declared: OTHER 
