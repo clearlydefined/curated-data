@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Windows.SDK.Win32Docs.yaml
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.42-alpha:
+    licensed: LicenseRef-scancode-ms-windows-sdk-win10-net-6
+      declared: OTHER
