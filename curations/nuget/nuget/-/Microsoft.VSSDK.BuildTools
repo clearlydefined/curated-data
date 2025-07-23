@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.VSSDK.BuildTools
+  name: Microsoft.VSSDK.BuildTools.yaml
   provider: nuget
   type: nuget
 revisions:
