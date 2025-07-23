@@ -3,7 +3,7 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
-  17.12.2069:
+  17.2.2130-preview2:
     licensed:
       declared: OTHER
 revisions:
@@ -12,5 +12,9 @@ revisions:
       declared: OTHER
 revisions:
   17.5.4074:
+    licensed:
+      declared: OTHER
+revisions:
+  17.12.2069:
     licensed:
       declared: OTHER
