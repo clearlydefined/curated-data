@@ -1,5 +1,5 @@
 coordinates:
-  name: Basic.CompilerLog.Util
+  name: Basic.CompilerLog.Util.yaml
   provider: nuget
   type: nuget
 revisions:
