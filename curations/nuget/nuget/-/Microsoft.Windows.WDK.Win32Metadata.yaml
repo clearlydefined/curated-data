@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Windows.WDK.Win32Metadata.yaml
+  provider: nuget
+  type: nuget
+revisions:
+  0.12.8-experimental:
+    licensed:
+      declared: LicenseRef-scancode-ms-windows-sdk-win10-net-6
