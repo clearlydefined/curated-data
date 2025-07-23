@@ -4,5 +4,5 @@ coordinates:
   type: nuget
 revisions:
   0.1.42-alpha:
-    licensed: LicenseRef-scancode-ms-windows-sdk-win10-net-6
-      declared: OTHER
+    licensed: 
+      declared: LicenseRef-scancode-ms-windows-sdk-win10-net-6
