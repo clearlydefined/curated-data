@@ -1,8 +1,0 @@
-coordinates:
-  name: LicenseRef-scancode-ms-windows-sdk-win10-net-6.yaml
-  provider: nuget
-  type: nuget
-revisions:
-  0.12.8-experimental:
-    licensed:
-      declared: OTHER
