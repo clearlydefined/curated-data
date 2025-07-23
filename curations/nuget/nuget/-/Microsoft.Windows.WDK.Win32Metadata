@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.Windows.WDK.Win32Metadata
+  name: LicenseRef-scancode-ms-windows-sdk-win10-net-6.yaml
   provider: nuget
   type: nuget
 revisions:
