@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.Windows.WDK.Win32Metadata.yaml
+  name: Microsoft.Windows.WDK.Win32Metadata
   provider: nuget
   type: nuget
 revisions:
