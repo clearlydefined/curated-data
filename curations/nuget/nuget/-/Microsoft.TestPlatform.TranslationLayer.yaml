@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.TestPlatform.TranslationLayer.yaml
+  provider: nuget
+  type: nuget
+revisions:
+  17.5.0:
+    licensed:
+      declared: MIT

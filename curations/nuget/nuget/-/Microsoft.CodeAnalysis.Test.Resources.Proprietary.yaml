@@ -1,8 +1,8 @@
 coordinates:
-  name: Basic.CompilerLog.Util
+  name: Microsoft.CodeAnalysis.Test.Resources.Proprietary.yaml
   provider: nuget
   type: nuget
 revisions:
-  0.6.1:
+  2.0.0-pre-20160714:
     licensed:
       declared: MIT
