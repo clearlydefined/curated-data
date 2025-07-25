@@ -1,9 +1,12 @@
 coordinates:
-  name: applicationinsights-web-basic
-  namespace: '@microsoft'
-  provider: npmjs
-  type: npm
+    type: npm
+    provider: npmjs
+    namespace: '@microsoft'
+    name: applicationinsights-web-basic
 revisions:
-  3.3.5:
-    licensed:
-      declared: MIT
+    3.3.5:
+        licensed:
+            declared: MIT
+    3.3.6:
+        licensed:
+            declared: MIT
