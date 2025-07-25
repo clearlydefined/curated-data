@@ -1,0 +1,9 @@
+coordinates:
+    type: pypi
+    provider: pypi
+    namespace: '-'
+    name: sqlalchemy
+revisions:
+    "":
+        licensed:
+            declared: MIT
