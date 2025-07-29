@@ -27,3 +27,6 @@ revisions:
   17.5.0:
     licensed:
       declared: OTHER
+  17.4.0-preview-20220707-01:
+    licensed:
+      declared: OTHER

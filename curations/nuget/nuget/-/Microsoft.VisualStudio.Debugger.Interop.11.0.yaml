@@ -1,12 +1,12 @@
 coordinates:
-  name: Microsoft.TeamFoundationServer.Client
+  name: Microsoft.VisualStudio.Debugger.Interop.11.0.yaml
   provider: nuget
   type: nuget
 revisions:
-  16.153.0:
+  17.0.31902.203:
     licensed:
       declared: OTHER
 revisions:
-  19.232.0-preview:
+  17.0.32112.339:
     licensed:
       declared: OTHER
