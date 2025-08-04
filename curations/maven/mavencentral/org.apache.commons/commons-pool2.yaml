@@ -1,0 +1,9 @@
+coordinates:
+  name: commons-pool2
+  namespace: org.apache.commons
+  provider: mavencentral
+  type: maven
+revisions:
+  2.12.1:
+    licensed:
+      declared: Apache-2.0
