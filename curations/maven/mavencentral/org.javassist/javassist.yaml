@@ -10,3 +10,6 @@ revisions:
   3.27.0-GA:
     licensed:
       declared: MPL-1.1 OR LGPL-2.1-or-later OR Apache-2.0
+  3.28.0-GA:
+    licensed:
+      declared: Apache-2.0 OR LGPL-2.1-or-later
