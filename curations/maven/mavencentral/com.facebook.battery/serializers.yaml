@@ -1,0 +1,9 @@
+coordinates:
+  name: serializers
+  namespace: com.facebook.battery
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0:
+    licensed:
+      declared: 0BSD
