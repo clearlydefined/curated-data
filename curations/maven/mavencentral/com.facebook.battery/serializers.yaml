@@ -1,0 +1,9 @@
+coordinates:
+  name: serializers
+  namespace: com.facebook.battery
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-facebook-patent-rights-2
