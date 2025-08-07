@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.VisualStudio.Data.Services.yaml
+  name: Microsoft.VisualStudio.Data.Services
   provider: nuget
   type: nuget
 revisions:
