@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.Debugging.TargetModel.SDK.yaml
+  name: Microsoft.Debugging.TargetModel.SDK
   provider: nuget
   type: nuget
 revisions:
