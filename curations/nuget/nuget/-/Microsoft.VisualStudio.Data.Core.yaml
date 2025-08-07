@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.VisualStudio.Data.Core.yaml
+  name: Microsoft.VisualStudio.Data.Core
   provider: nuget
   type: nuget
 revisions:
