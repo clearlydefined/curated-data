@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.VisualStudio.ComponentModelHost.yaml
+  name: Microsoft.VisualStudio.ComponentModelHost
   provider: nuget
   type: nuget
 revisions:
