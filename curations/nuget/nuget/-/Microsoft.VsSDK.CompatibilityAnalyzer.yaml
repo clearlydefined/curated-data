@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.VsSDK.CompatibilityAnalyzer.yaml
+  name: Microsoft.VsSDK.CompatibilityAnalyzer
   provider: nuget
   type: nuget
 revisions:
