@@ -1,5 +1,5 @@
 coordinates:
-  name: MyAwesomeLibrary.yaml
+  name: MyAwesomeLibrary
   provider: nuget
   type: nuget
 revisions:

@@ -1,8 +1,8 @@
 coordinates:
-  name: Reactive.AzureStorage.Table
+  name: AsmResolver.PE
   provider: nuget
   type: nuget
 revisions:
-  1.0.0:
+  5.5.1:
     licensed:
-      declared: OTHER
+      declared: MIT

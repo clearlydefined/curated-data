@@ -5,28 +5,28 @@ coordinates:
 revisions:
   16.11.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   16.9.4:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   17.0.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   17.1.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   17.2.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   17.3.2:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   17.4.0:
     licensed:
-      declared: OTHER
-  17.5.0:
-    licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   17.4.0-preview-20220707-01:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library-2019-06
+  17.5.0:
     licensed:
       declared: LicenseRef-scancode-ms-net-library-2019-06
