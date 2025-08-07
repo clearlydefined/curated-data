@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.CodeAnalysis.Test.Resources.Proprietary.yaml
+  name: Microsoft.CodeAnalysis.Test.Resources.Proprietary
   provider: nuget
   type: nuget
 revisions:
