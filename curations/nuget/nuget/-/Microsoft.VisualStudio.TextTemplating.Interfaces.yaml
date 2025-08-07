@@ -1,5 +1,5 @@
 coordinates:
-  name: Microsoft.VisualStudio.TextTemplating.Interfaces.yaml
+  name: Microsoft.VisualStudio.TextTemplating.Interfaces
   provider: nuget
   type: nuget
 revisions:
