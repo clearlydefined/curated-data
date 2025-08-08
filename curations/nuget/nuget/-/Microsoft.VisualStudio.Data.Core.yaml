@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Data.Core
+  provider: nuget
+  type: nuget
+revisions:
+  17.0.32112.339:
+    licensed:
+      declared: OTHER

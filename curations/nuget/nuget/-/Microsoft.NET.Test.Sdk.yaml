@@ -24,6 +24,9 @@ revisions:
   17.4.0:
     licensed:
       declared: LicenseRef-scancode-ms-net-library-2019-06
+  17.4.0-preview-20220707-01:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library-2019-06
   17.5.0:
     licensed:
       declared: LicenseRef-scancode-ms-net-library-2019-06

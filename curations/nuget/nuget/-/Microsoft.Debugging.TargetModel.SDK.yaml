@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.Debugging.TargetModel.SDK
+  provider: nuget
+  type: nuget
+revisions:
+  20240223.1323.0:
+    licensed:
+      declared: OTHER

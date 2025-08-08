@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.TestPlatform.TranslationLayer
+  provider: nuget
+  type: nuget
+revisions:
+  17.5.0:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library-2019-06
