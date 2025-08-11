@@ -1,12 +1,12 @@
 coordinates:
-  name: Microsoft.VisualStudio.Composition
+  name: Microsoft.VisualStudio.Composition.Analyzers
   provider: nuget
   type: nuget
 revisions:
   15.6.36:
     licensed:
       declared: MIT
-  17.10.37:
+  17.11.13:
     licensed:
       declared: MIT
   17.12.18:
