@@ -3,6 +3,12 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.7.3-experimental:
+    licensed:
+      declared: LicenseRef-scancode-ms-windows-sdk-win10-net-6
+  0.9.9-experimental:
+    licensed:
+      declared: LicenseRef-scancode-ms-windows-sdk-win10-net-6
   0.12.8-experimental:
     licensed:
       declared: LicenseRef-scancode-ms-windows-sdk-win10-net-6
