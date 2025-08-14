@@ -1,4 +1,4 @@
-coordinates:
+coordinates: 
   name: cairosvg
   provider: pypi
   type: pypi

@@ -1,4 +1,4 @@
-coordinates:
+coordinates: 
   name: fmpy
   provider: pypi
   type: pypi
