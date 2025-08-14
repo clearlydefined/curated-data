@@ -1,8 +1,8 @@
 coordinates:
-  name: Resource
+  name: pulp
   provider: pypi
   type: pypi
 revisions:
-  0.2.1:
+  1.6.9:
     licensed:
       declared: MIT

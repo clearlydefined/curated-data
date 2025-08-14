@@ -1,8 +1,8 @@
 coordinates:
-  name: PyGithub
+  name: cairosvg
   provider: pypi
   type: pypi
 revisions:
-  '1.55':
+  2.4.2:
     licensed:
       declared: LGPL-3.0-or-later

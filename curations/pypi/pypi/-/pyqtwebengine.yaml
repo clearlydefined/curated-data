@@ -1,5 +1,5 @@
 coordinates:
-  name: PyQtWebEngine
+  name: pyqtwebengine
   provider: pypi
   type: pypi
 revisions:

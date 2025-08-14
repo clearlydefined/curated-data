@@ -3,6 +3,28 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  1.0.23:
+    described:
+      sourceLocation:
+        name: unidecode
+        namespace: avian2
+        provider: github
+        revision: e3c730e5830f15c613f65f1764258165f4e5f52f
+        type: git
+        url: 'https://github.com/avian2/unidecode/commit/e3c730e5830f15c613f65f1764258165f4e5f52f'
+    files:
+      - license: ''
+        path: Unidecode-1.0.23/setup.py
+      - license: GPL-2.0-or-later
+        path: Unidecode-1.0.23/ChangeLog
+    licensed:
+      declared: GPL-2.0-or-later
+  1.1.1:
+    licensed:
+      declared: GPL-2.0-or-later
+  1.2.0:
+    licensed:
+      declared: GPL-2.0-or-later
   1.3.4:
     licensed:
       declared: GPL-2.0-or-later

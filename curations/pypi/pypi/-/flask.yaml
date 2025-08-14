@@ -1,11 +1,8 @@
 coordinates:
-  name: PySocks
+  name: flask
   provider: pypi
   type: pypi
 revisions:
-  1.7.0:
-    licensed:
-      declared: BSD-3-Clause
-  1.7.1:
+  0.10.1:
     licensed:
       declared: BSD-3-Clause

@@ -1,8 +1,8 @@
 coordinates:
-  name: Twisted
+  name: pyaudio
   provider: pypi
   type: pypi
 revisions:
-  20.3.0:
+  0.2.11:
     licensed:
       declared: MIT
