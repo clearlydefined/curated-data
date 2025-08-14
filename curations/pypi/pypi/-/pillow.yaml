@@ -1,4 +1,4 @@
-coordinates: 
+coordinates:
   name: pillow
   provider: pypi
   type: pypi
@@ -101,7 +101,7 @@ revisions:
       declared: MIT-CMU
   8.4.0:
     licensed:
-      declared: MIT-CMU
+      declared: MIT-CM
   9.0.0:
     licensed:
       declared: MIT-CMU

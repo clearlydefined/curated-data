@@ -1,8 +1,8 @@
-coordinates: 
+coordinates:
   name: eel
   provider: pypi
   type: pypi
 revisions:
   0.12.4:
     licensed:
-      declared: MIT
+      declared: MI

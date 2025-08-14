@@ -1,4 +1,4 @@
-coordinates: 
+coordinates:
   name: pygithub
   provider: pypi
   type: pypi
