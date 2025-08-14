@@ -1,0 +1,9 @@
+coordinates:
+    type: gem
+    provider: rubygems
+    namespace: '-'
+    name: crowdin-api
+revisions:
+    1.12.0:
+        licensed:
+            declared: MIT
