@@ -1,4 +1,4 @@
-coordinates: 
+coordinates:
   name: unidecode
   provider: pypi
   type: pypi
@@ -13,7 +13,7 @@ revisions:
         type: git
         url: 'https://github.com/avian2/unidecode/commit/e3c730e5830f15c613f65f1764258165f4e5f52f'
     files:
-      - license: ''
+      - license: GPL-2.0-or-later
         path: Unidecode-1.0.23/setup.py
       - license: GPL-2.0-or-later
         path: Unidecode-1.0.23/ChangeLog

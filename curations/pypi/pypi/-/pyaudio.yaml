@@ -1,4 +1,4 @@
-coordinates: 
+coordinates:
   name: pyaudio
   provider: pypi
   type: pypi

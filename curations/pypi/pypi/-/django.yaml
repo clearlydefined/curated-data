@@ -1,4 +1,4 @@
-coordinates: 
+coordinates:
   name: django
   provider: pypi
   type: pypi

@@ -1,4 +1,4 @@
-coordinates: 
+coordinates:
   name: pyinstaller
   provider: pypi
   type: pypi

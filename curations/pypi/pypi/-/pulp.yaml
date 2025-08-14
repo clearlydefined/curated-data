@@ -1,4 +1,4 @@
-coordinates: 
+coordinates:
   name: pulp
   provider: pypi
   type: pypi

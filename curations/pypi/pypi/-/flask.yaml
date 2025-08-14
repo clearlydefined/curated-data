@@ -1,4 +1,4 @@
-coordinates: 
+coordinates:
   name: flask
   provider: pypi
   type: pypi
