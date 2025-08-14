@@ -1,4 +1,4 @@
-coordinates:
+coordinates: 
   name: eel
   provider: pypi
   type: pypi

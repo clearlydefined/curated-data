@@ -1,4 +1,4 @@
-coordinates:
+coordinates: 
   name: pysocks
   provider: pypi
   type: pypi
