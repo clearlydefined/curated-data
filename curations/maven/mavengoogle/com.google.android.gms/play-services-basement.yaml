@@ -70,3 +70,6 @@ revisions:
   18.4.0:
     licensed:
       declared: OTHER
+  18.5.0:
+    licensed:
+      declared: Apache-2.0
