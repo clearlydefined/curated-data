@@ -1,0 +1,9 @@
+coordinates:
+  name: live-share
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0-internal.11:
+    licensed:
+      declared: OTHER
