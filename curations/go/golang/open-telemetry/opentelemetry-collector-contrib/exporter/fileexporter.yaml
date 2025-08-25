@@ -1,0 +1,9 @@
+coordinates:
+  name: fileexporter
+  namespace: github.com%2Fopen-telemetry%2Fopentelemetry-collector-contrib%2Fexporter
+  provider: golang
+  type: go
+revisions:
+  v0.131.0:
+    licensed:
+      declared: Apache-2.0

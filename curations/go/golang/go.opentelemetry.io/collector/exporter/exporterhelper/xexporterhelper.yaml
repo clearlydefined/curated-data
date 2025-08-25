@@ -1,0 +1,9 @@
+coordinates:
+  name: xexporterhelper
+  namespace: go.opentelemetry.io%2Fcollector%2Fexporter%2Fexporterhelper
+  provider: golang
+  type: go
+revisions:
+  v0.131.0:
+    licensed:
+      declared: Apache-2.0
