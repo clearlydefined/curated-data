@@ -6,7 +6,7 @@ coordinates:
 revisions:
   0.12.11:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-amazon-sl
     described:
       sourceLocation:
         name: amazon-kinesis-producer
@@ -18,59 +18,59 @@ revisions:
     files:
       - attributions:
           - 'Copyright 2015 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/DaemonException.java
       - attributions:
           - 'Copyright 2015 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/Metric.java
       - attributions:
           - 'Copyright 2015 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/KinesisProducer.java
       - attributions:
           - 'Copyright 2015 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/UserRecordFailedException.java
       - attributions:
           - 'Copyright 2015 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/KinesisProducerConfiguration.java
       - attributions:
           - 'Copyright 2015 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/_ConfigTemplate.java
       - attributions:
           - 'Copyright 2018 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/HashedFileCopier.java
       - attributions:
           - 'Copyright 2015 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/Attempt.java
       - attributions:
           - 'Copyright 2015 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/IrrecoverableError.java
       - attributions:
           - 'Copyright 2015 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/UserRecordResult.java
       - attributions:
           - 'Copyright 2016 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/FileAgeManager.java
       - attributions:
           - 'Copyright 2015 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/Daemon.java
       - attributions:
           - 'Copyright 2017 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/CertificateExtractor.java
       - attributions:
           - 'Copyright 2017 Amazon.com, Inc.'
-        license: OTHER
+        license: LicenseRef-scancode-amazon-sl
         path: com/amazonaws/services/kinesis/producer/LogInputStreamReader.java
-      - license: OTHER
+      - license: LicenseRef-scancode-amazon-sl
         path: META-INF/LICENSE
