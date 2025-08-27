@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.VisualStudio.Debugger.Interop.17.0
+  provider: nuget
+  type: nuget
+revisions:
+  17.10.40170:
+    licensed:
+      declared: OTHER

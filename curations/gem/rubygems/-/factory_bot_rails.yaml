@@ -1,0 +1,8 @@
+coordinates:
+  name: factory_bot_rails
+  provider: rubygems
+  type: gem
+revisions:
+  6.5.0:
+    licensed:
+      declared: MIT

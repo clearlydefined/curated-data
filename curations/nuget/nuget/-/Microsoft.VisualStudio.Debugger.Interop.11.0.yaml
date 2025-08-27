@@ -1,0 +1,11 @@
+coordinates:
+  name: Microsoft.VisualStudio.Debugger.Interop.11.0
+  provider: nuget
+  type: nuget
+revisions:
+  17.0.31902.203:
+    licensed:
+      declared: OTHER
+  17.0.32112.339:
+    licensed:
+      declared: OTHER

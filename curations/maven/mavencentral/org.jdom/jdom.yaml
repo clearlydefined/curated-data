@@ -6,7 +6,10 @@ coordinates:
 revisions:
   '1.1':
     licensed:
-      declared: Saxpath
+      declared: LicenseRef-scancode-jdom
+  1.1.3:
+    licensed:
+      declared: LicenseRef-scancode-jdom
   2.0.2:
     licensed:
-      declared: Saxpath
+      declared: LicenseRef-scancode-jdom

@@ -1,0 +1,9 @@
+coordinates:
+  name: play-services-tflite-java
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.4.0:
+    licensed:
+      declared: LicenseRef-scancode-android-sdk-2021

@@ -1,0 +1,8 @@
+coordinates:
+  name: hastscript
+  provider: npmjs
+  type: npm
+revisions:
+  9.0.1:
+    licensed:
+      declared: MIT

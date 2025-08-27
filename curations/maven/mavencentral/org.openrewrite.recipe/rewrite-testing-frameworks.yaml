@@ -1,0 +1,9 @@
+coordinates:
+  name: rewrite-testing-frameworks
+  namespace: org.openrewrite.recipe
+  provider: mavencentral
+  type: maven
+revisions:
+  3.4.0:
+    licensed:
+      declared: OTHER

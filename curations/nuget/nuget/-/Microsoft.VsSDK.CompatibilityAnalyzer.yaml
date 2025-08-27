@@ -1,0 +1,20 @@
+coordinates:
+  name: Microsoft.VsSDK.CompatibilityAnalyzer
+  provider: nuget
+  type: nuget
+revisions:
+  17.2.2130-preview2:
+    licensed:
+      declared: OTHER
+  17.3.2092:
+    licensed:
+      declared: OTHER
+  17.4.2116-g6e8e6d14:
+    licensed:
+      declared: OTHER
+  17.5.4074:
+    licensed:
+      declared: OTHER
+  17.12.2069:
+    licensed:
+      declared: OTHER

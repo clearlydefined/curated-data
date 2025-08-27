@@ -6,4 +6,4 @@ coordinates:
 revisions:
   v0.0.0-20201102132415-4b37ba603d65:
     licensed:
-      declared: NONE
+      declared: MIT
