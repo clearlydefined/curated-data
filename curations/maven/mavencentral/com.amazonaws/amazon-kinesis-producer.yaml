@@ -6,10 +6,10 @@ coordinates:
 revisions:
   0.12.11:
     files:
-      - license: OTHER
+      - license: LicenseRef-scancode-amazon-sl
         path: META-INF/LICENSE
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-amazon-sl
   0.12.8:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-amazon-sl

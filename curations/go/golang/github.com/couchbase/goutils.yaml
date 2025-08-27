@@ -6,4 +6,4 @@ coordinates:
 revisions:
   v0.0.0-20180530154633-e865a1461c8a:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-couchbase-community
