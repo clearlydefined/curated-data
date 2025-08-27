@@ -6,10 +6,10 @@ coordinates:
 revisions:
   '1.1':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   '2.1':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   '2.2':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
