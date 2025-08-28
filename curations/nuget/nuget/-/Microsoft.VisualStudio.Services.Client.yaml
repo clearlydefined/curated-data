@@ -15,3 +15,6 @@ revisions:
   19.232.0-preview:
     licensed:
       declared: LicenseRef-scancode-ms-net-library-2018-11
+  19.243.0-preview:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library-2018-11
