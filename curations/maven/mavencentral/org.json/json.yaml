@@ -15,19 +15,19 @@ revisions:
       declared: JSON
   '20220924':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-public-domain
   '20230227':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-public-domain
   '20230618':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-public-domain
   '20231013':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-public-domain
   '20240205':
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-public-domain
   '20240303':
     licensed:
-      declared: NONE
+      declared: LicenseRef-scancode-public-domain
