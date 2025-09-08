@@ -1,0 +1,10 @@
+coordinates:
+  name: a-gem
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.2:
+    described:
+      releaseDate: '2011-05-30'
+    licensed:
+      declared: MIT
