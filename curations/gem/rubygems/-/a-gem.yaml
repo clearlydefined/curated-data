@@ -4,5 +4,7 @@ coordinates:
   type: gem
 revisions:
   0.0.2:
+    described:
+      releaseDate: '2011-07-06'
     licensed:
       declared: MIT
