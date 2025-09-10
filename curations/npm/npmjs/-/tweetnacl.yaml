@@ -5,10 +5,10 @@ coordinates:
 revisions:
   0.14.1:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-public-domain
   0.14.3:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-public-domain
   0.14.4:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-public-domain

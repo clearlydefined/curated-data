@@ -35,4 +35,4 @@ revisions:
       declared: BSD-3-Clause
   2.10.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-mapbox-tos-2021
