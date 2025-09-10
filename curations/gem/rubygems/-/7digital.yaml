@@ -1,0 +1,8 @@
+coordinates:
+  name: 7digital
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.2:
+    licensed:
+      declared: MIT
