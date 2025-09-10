@@ -5,13 +5,13 @@ coordinates:
 revisions:
   0.10.0:
     licensed:
-      declared: BSD-2-Clause AND OTHER
+      declared: BSD-2-Clause AND LicenseRef-scancode-facebook-patent-rights-2
   0.10.1:
     licensed:
-      declared: BSD-2-Clause AND OTHER
+      declared: BSD-2-Clause AND LicenseRef-scancode-facebook-patent-rights-2
   0.9.11:
     licensed:
-      declared: BSD-2-Clause AND OTHER
+      declared: BSD-2-Clause AND LicenseRef-scancode-facebook-patent-rights-2
   0.9.8:
     licensed:
-      declared: BSD-2-Clause AND OTHER
+      declared: BSD-2-Clause AND LicenseRef-scancode-facebook-patent-rights-2
