@@ -1,0 +1,9 @@
+coordinates:
+  name: rest-api-spec
+  namespace: '@figma'
+  provider: npmjs
+  type: npm
+revisions:
+  0.24.0:
+    licensed:
+      declared: MIT
