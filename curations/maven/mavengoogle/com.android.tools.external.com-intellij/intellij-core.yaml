@@ -1,0 +1,9 @@
+coordinates:
+  name: intellij-core
+  namespace: com.android.tools.external.com-intellij
+  provider: mavengoogle
+  type: maven
+revisions:
+  31.8.2:
+    licensed:
+      declared: Apache-2.0
