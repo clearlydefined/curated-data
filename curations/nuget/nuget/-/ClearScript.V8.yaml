@@ -12,6 +12,9 @@ revisions:
   5.4.5:
     licensed:
       declared: MS-PL
+  5.4.6:
+    licensed:
+      declared: NONE
   5.5.1:
     licensed:
       declared: MIT
