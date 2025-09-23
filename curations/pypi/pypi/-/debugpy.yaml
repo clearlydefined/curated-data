@@ -30,9 +30,6 @@ revisions:
   1.6.7:
     licensed:
       declared: MIT
-  1.6.7.post1:
-    licensed:
-      declared: MIT
   1.7.0:
     licensed:
       declared: MIT
