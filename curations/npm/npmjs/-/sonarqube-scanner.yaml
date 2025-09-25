@@ -1,0 +1,8 @@
+coordinates:
+  name: sonarqube-scanner
+  provider: npmjs
+  type: npm
+revisions:
+  2.9.1:
+    licensed:
+      declared: LGPL-3.0-only
