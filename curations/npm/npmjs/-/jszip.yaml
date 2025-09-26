@@ -9,6 +9,17 @@ revisions:
   2.5.0:
     licensed:
       declared: GPL-3.0-only OR MIT
+  3.1.5:
+    files:
+      - license: ''
+        path: package/README.markdown
+      - license: GPL-3.0-only OR MIT
+        path: package/package.json
+      - attributions:
+          - 'Copyright (c) 2007 Free Software Foundation, Inc. http://fsf.org/'
+          - 'Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, Antonio Afonso'
+        license: GPL-3.0-only OR MIT
+        path: package/LICENSE.markdown
   3.10.1:
     licensed:
       declared: GPL-3.0-only OR MIT
