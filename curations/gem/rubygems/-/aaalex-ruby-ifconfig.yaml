@@ -1,0 +1,8 @@
+coordinates:
+  name: aaalex-ruby-ifconfig
+  provider: rubygems
+  type: gem
+revisions:
+  1.2.3:
+    licensed:
+      declared: GPL-2.0 AND GPL-2.0-only
