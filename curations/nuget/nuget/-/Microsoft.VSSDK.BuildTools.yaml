@@ -1,0 +1,29 @@
+coordinates:
+  name: Microsoft.VSSDK.BuildTools
+  provider: nuget
+  type: nuget
+revisions:
+  16.7.3069:
+    licensed:
+      declared: OTHER
+  17.0.2122-preview2:
+    licensed:
+      declared: OTHER
+  17.2.2130-preview2:
+    licensed:
+      declared: OTHER
+  17.3.2092:
+    licensed:
+      declared: OTHER
+  17.3.2093:
+    licensed:
+      declared: OTHER
+  17.4.2116:
+    licensed:
+      declared: OTHER
+  17.5.4074:
+    licensed:
+      declared: OTHER
+  17.12.2069:
+    licensed:
+      declared: OTHER

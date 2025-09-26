@@ -8,7 +8,7 @@ revisions:
     files:
       - attributions:
           - Copyright (c) Microsoft Corporation
-        license: OTHER
+        license: BSD-2-Clause
         path: LICENSE
     licensed:
-      declared: OTHER
+      declared: BSD-2-Clause

@@ -5,10 +5,10 @@ coordinates:
 revisions:
   0.13.0:
     licensed:
-      declared: OTHER
+      declared: CryptoSwift
   1.0.0:
     licensed:
-      declared: OTHER
+      declared: CryptoSwift
   1.4.0:
     licensed:
-      declared: OTHER
+      declared: CryptoSwift

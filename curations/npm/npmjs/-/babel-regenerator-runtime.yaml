@@ -5,4 +5,4 @@ coordinates:
 revisions:
   6.5.0:
     licensed:
-      declared: BSD-2-Clause AND OTHER
+      declared: BSD-2-Clause AND LicenseRef-scancode-facebook-patent-rights-2

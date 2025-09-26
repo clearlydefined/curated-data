@@ -6,4 +6,4 @@ coordinates:
 revisions:
   '2.2':
     licensed:
-      declared: OTHER
+      declared: BSD-3-Clause

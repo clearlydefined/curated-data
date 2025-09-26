@@ -40,3 +40,6 @@ revisions:
   '1.80':
     licensed:
       declared: MIT
+  '1.81':
+    licensed:
+      declared: MIT

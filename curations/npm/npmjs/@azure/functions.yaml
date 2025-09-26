@@ -1,0 +1,9 @@
+coordinates:
+  name: functions
+  namespace: '@azure'
+  provider: npmjs
+  type: npm
+revisions:
+  3.5.1:
+    licensed:
+      declared: MIT

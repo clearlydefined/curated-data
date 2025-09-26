@@ -42,9 +42,24 @@ revisions:
   2.14.24:
     licensed:
       declared: MIT
+  2.18.48:
+    licensed:
+      declared: MIT
+  2.20.17:
+    licensed:
+      declared: MIT
   2.20.20:
     licensed:
       declared: MIT
+  2.21.10:
+    licensed:
+      declared: MIT
   2.21.69:
+    licensed:
+      declared: MIT
+  2.22.11:
+    licensed:
+      declared: MIT
+  2.23.32-alpha:
     licensed:
       declared: MIT

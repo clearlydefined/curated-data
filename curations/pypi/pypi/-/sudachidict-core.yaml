@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  20201223.post1:
+    licensed:
+      declared: Apache-2.0
   '20211220':
     licensed:
       declared: Apache-2.0

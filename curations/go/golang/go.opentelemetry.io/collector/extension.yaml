@@ -1,0 +1,9 @@
+coordinates:
+  name: extension
+  namespace: go.opentelemetry.io%2Fcollector
+  provider: golang
+  type: go
+revisions:
+  v1.37.0:
+    licensed:
+      declared: Apache-2.0

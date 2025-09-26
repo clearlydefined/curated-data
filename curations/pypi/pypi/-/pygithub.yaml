@@ -18,6 +18,9 @@ revisions:
   '1.53':
     licensed:
       declared: LGPL-3.0-or-later
+  '1.55':
+    licensed:
+      declared: LGPL-3.0-or-later
   '1.56':
     licensed:
       declared: LGPL-3.0-or-later
@@ -28,5 +31,8 @@ revisions:
     licensed:
       declared: LGPL-3.0-or-later
   1.59.1:
+    licensed:
+      declared: LGPL-3.0-or-later
+  2.7.0:
     licensed:
       declared: LGPL-3.0-or-later

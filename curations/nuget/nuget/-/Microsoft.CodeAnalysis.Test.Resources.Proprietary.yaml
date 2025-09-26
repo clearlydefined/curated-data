@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.CodeAnalysis.Test.Resources.Proprietary
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0-pre-20160714:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library-2020-09

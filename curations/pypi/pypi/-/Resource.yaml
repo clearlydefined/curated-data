@@ -1,8 +1,0 @@
-coordinates:
-  name: Resource
-  provider: pypi
-  type: pypi
-revisions:
-  0.2.1:
-    licensed:
-      declared: MIT

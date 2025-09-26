@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft.ServiceHub.Framework.Testing
+  provider: nuget
+  type: nuget
+revisions:
+  4.4.22:
+    licensed:
+      declared: MIT

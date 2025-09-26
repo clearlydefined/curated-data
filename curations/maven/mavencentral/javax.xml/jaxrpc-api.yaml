@@ -6,4 +6,4 @@ coordinates:
 revisions:
   '1.1':
     licensed:
-      declared: NONE
+      declared: LicenseRef-scancode-sun-java-web-services-dev-1.6

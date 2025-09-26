@@ -1,0 +1,10 @@
+coordinates:
+  name: aargvark
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.15:
+    described:
+      releaseDate: '2009-05-21'
+    licensed:
+      declared: GPL-3.0-or-later

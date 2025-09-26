@@ -51,22 +51,25 @@ revisions:
       declared: OTHER
   18.0.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   18.0.1:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   18.0.2:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   18.1.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   18.2.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   18.3.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   18.4.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
+  18.5.0:
+    licensed:
+      declared: LicenseRef-scancode-android-sdk-2021

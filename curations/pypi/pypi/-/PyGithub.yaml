@@ -1,8 +1,0 @@
-coordinates:
-  name: PyGithub
-  provider: pypi
-  type: pypi
-revisions:
-  '1.55':
-    licensed:
-      declared: LGPL-3.0-or-later
