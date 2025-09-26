@@ -1,0 +1,37 @@
+```json
+{
+  "contributionInfo": 
+  {
+    "summary": "abiquo-etk 0.4.32 missing",
+    "details": "Add license information, release date and attributions for abiquo-etk 0.4.32",
+    "resolution": "https://index.rubygems.org/gems/abiquo-etk/versions/0.4.32",
+    "type": "Missing"
+  },
+  "patches": 
+  [
+  {
+      "coordinates":
+    {
+      "type": "npm",
+      "provider": "npmjs",
+      "name": "jszip"
+    },
+    "revisions": 
+    {
+      "0.4.32": 
+      {
+        "files": 
+        [
+          {
+            "path": "gems/abiquo-etk/versions/0.4.32",
+            "releaseDate": "2010-11-03"
+            "license": "MIT"
+            "attributions": "Copyright (c) 2010 Sergio Rubio"
+          },
+       ]
+      }
+    }
+  }
+  ]
+}
+```
