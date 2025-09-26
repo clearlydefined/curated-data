@@ -1,0 +1,9 @@
+coordinates:
+  name: aaalex-detect_mobiles
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.2:
+    files:
+      - license: MIT
+        path: MIT-LICENSE
