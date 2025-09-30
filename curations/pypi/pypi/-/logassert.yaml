@@ -5,25 +5,25 @@ coordinates:
 revisions:
   '7':
     licensed:
-      declared: LGPL-3.0
+      declared: LGPL-3.0-only
   '8':
     licensed:
-      declared: LGPL-3.0
+      declared: LGPL-3.0-only
   '8.1':
     licensed:
-      declared: LGPL-3.0
+      declared: LGPL-3.0-only
   '8.2':
     licensed:
-      declared: LGPL-3.0
+      declared: LGPL-3.0-only
   '8.3':
     licensed:
-      declared: LGPL-3.0
+      declared: LGPL-3.0-only
   '8.4':
     licensed:
-      declared: LGPL-3.0
+      declared: LGPL-3.0-only
   '8.5':
     licensed:
-      declared: LGPL-3.0
+      declared: LGPL-3.0-only
   '8.6':
     licensed:
-      declared: LGPL-3.0
+      declared: LGPL-3.0-only
