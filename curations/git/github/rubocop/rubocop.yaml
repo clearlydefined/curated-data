@@ -1,0 +1,9 @@
+coordinates:
+  name: rubocop
+  namespace: rubocop
+  provider: github
+  type: git
+revisions:
+  db5883191090a395e2eb777c65e6f6e37485e5ac:
+    licensed:
+      declared: MIT
