@@ -1,7 +1,7 @@
 coordinates:
-  type: gem
-  provider: rubygems
   name: rubocop
+  provider: rubygems
+  type: gem
 revisions:
   1.38.0:
     licensed:
@@ -10,5 +10,8 @@ revisions:
     licensed:
       declared: MIT
   1.69.0:
+    licensed:
+      declared: MIT
+  1.81.0:
     licensed:
       declared: MIT
