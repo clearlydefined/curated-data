@@ -1,0 +1,14 @@
+coordinates:
+  name: CSCWithCompilerIntrinsics
+  provider: nuget
+  type: nuget
+revisions:
+  2.8.2:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library-2020-09
+  2.8.2.1:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library-2020-09
+  2.8.2.2:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library-2020-09

@@ -1,0 +1,11 @@
+coordinates:
+  name: AspNetRazor.Core
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.20505:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library
+  2.0.20710:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library
