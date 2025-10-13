@@ -36,6 +36,9 @@ revisions:
   3.11.8:
     licensed:
       declared: OTHER
+  3.11.9:
+    licensed:
+      declared: Python-2.0
   3.12.7:
     licensed:
       declared: OTHER
