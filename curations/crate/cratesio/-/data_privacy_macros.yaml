@@ -1,0 +1,8 @@
+coordinates:
+  name: data_privacy_macros
+  provider: cratesio
+  type: crate
+revisions:
+  0.3.0:
+    licensed:
+      declared: MIT
