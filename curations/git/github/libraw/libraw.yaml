@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  9646d776c7c61976080a8f2be67928df0750493e:
+    licensed:
+      declared: CDDL-1.0 OR LGPL-2.1-only
   d4f05dd1b9b2d44c8f7e82043cbad3c724db2416:
     licensed:
       declared: CDDL-1.0 OR LGPL-2.1-only
