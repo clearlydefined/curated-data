@@ -1,0 +1,9 @@
+coordinates:
+  name: dompurify
+  namespace: org.webjars.npm
+  provider: mavencentral
+  type: maven
+revisions:
+  3.2.6:
+    licensed:
+      declared: Apache-2.0 OR MPL-2.0
