@@ -47,7 +47,7 @@ revisions:
       declared: MIT
   3.52.0:
     licensed:
-      declared: BSD-3-Clause AND MIT
+      declared: MIT
   3.53.0:
     licensed:
       declared: MIT
