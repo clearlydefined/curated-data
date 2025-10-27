@@ -1,0 +1,9 @@
+coordinates:
+  name: react
+  namespace: '@xyflow'
+  provider: npmjs
+  type: npm
+revisions:
+  12.8.6:
+    licensed:
+      declared: MIT
