@@ -1,0 +1,9 @@
+coordinates:
+  name: jaeger-ui-rest
+  namespace: github.com%2ftonistiigi
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20250211190051-7d4944a45bb6:
+    licensed:
+      declared: MIT
