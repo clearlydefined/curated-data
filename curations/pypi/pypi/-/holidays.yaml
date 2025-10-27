@@ -1,0 +1,8 @@
+coordinates:
+  name: holidays
+  provider: pypi
+  type: pypi
+revisions:
+  '0.82':
+    licensed:
+      declared: MIT
