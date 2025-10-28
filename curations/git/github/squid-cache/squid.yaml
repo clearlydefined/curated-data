@@ -1,0 +1,9 @@
+coordinates:
+  name: squid
+  namespace: squid-cache
+  provider: github
+  type: git
+revisions:
+  e071b58dfccdf8805fd32b7e4cce239ee12182d9:
+    licensed:
+      declared: GPL-2.0-or-later
