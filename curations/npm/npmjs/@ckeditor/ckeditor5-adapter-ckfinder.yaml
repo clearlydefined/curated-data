@@ -7,3 +7,6 @@ revisions:
   44.2.0:
     licensed:
       declared: GPL-2.0-or-later OR OTHER
+  47.0.0:
+    licensed:
+      declared: GPL-2.0-only
