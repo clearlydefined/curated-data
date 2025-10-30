@@ -5,4 +5,19 @@ coordinates:
 revisions:
   0.2.3:
     licensed:
-      declared: GPL-2.0-only
+      declared: GPL-2.0-or-later
+  0.2.4:
+    licensed:
+      declared: GPL-2.0-or-later
+  0.2.5:
+    licensed:
+      declared: GPL-2.0-or-later
+  0.2.6:
+    licensed:
+      declared: GPL-2.0-or-later
+  0.2.7:
+    licensed:
+      declared: GPL-2.0-or-later
+  0.3.0:
+    licensed:
+      declared: GPL-2.0-or-later
