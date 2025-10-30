@@ -1,12 +1,9 @@
 coordinates:
-  name: ckeditor5-adapter-ckfinder
+  name: ckeditor5-autoformat
   namespace: '@ckeditor'
   provider: npmjs
   type: npm
 revisions:
-  44.2.0:
-    licensed:
-      declared: GPL-2.0-or-later OR OTHER
   47.0.0:
     licensed:
       declared: GPL-2.0-or-later OR OTHER
