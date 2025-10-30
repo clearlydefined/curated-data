@@ -1,0 +1,8 @@
+coordinates:
+  name: archipelago
+  provider: rubygems
+  type: gem
+revisions:
+  0.2.4:
+    licensed:
+      declared: GPL-2.0-only
