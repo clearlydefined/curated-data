@@ -68,7 +68,7 @@ revisions:
         license: BSD-3-Clause AND MIT
         path: ThirdPartyNotice.txt
     licensed:
-      declared: BSD-3-Clause AND MIT
+      declared: MIT
   3.8.0:
     licensed:
       declared: MIT
