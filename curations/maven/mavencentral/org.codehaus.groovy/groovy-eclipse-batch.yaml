@@ -1,0 +1,9 @@
+coordinates:
+  name: groovy-eclipse-batch
+  namespace: org.codehaus.groovy
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.8-01:
+    licensed:
+      declared: Apache-2.0 AND EPL-1.0
