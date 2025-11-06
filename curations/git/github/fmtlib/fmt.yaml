@@ -9,7 +9,7 @@ revisions:
       declared: MIT WITH fmt-exception
   0c9fce2ffefecfdce794e1859584e25877b7b592:
     licensed:
-      declared: MIT
+      declared: MIT WITH fmt-exception
   123913715afeb8a437e6388b4473fcc4753e1c9a:
     licensed:
       declared: MIT WITH fmt-exception
