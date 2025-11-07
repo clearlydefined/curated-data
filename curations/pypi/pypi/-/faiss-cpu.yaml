@@ -1,0 +1,8 @@
+coordinates:
+  name: faiss-cpu
+  provider: pypi
+  type: pypi
+revisions:
+  1.12.0:
+    licensed:
+      declared: MIT
