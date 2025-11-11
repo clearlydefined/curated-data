@@ -9,3 +9,6 @@ revisions:
   4.10.3:
     licensed:
       declared: MPL-2.0
+  4.11.0:
+    licensed:
+      declared: MPL-2.0
