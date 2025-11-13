@@ -1,0 +1,9 @@
+coordinates:
+  type: go
+  provider: golang
+  namespace: github.com%2fanchore
+  name: syft
+revisions:
+  v1.37.0:
+    licensed:
+      declared: Apache-2.0 license
