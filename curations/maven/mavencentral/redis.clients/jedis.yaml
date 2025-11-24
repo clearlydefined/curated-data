@@ -1,0 +1,9 @@
+coordinates:
+  name: jedis
+  namespace: redis.clients
+  provider: mavencentral
+  type: maven
+revisions:
+  6.2.0:
+    licensed:
+      declared: MIT

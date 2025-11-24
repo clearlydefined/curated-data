@@ -6,6 +6,9 @@ revisions:
   10.4.5:
     licensed:
       declared: ISC
+  10.5.0:
+    licensed:
+      declared: ISC
   11.0.1:
     licensed:
       declared: ISC
