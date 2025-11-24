@@ -1,0 +1,9 @@
+coordinates:
+  type: npm
+  provider: npmjs
+  namespace: '-'
+  name: applicationinsights
+revisions:
+  2.9.8:
+    licensed:
+      declared: MIT
