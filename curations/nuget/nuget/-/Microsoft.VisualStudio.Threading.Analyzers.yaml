@@ -15,6 +15,9 @@ revisions:
   17.12.19:
     licensed:
       declared: MIT
+  17.13.2:
+    licensed:
+      declared: MIT
   17.13.61:
     licensed:
       declared: MIT
