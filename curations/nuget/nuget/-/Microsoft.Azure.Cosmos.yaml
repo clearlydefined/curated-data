@@ -72,6 +72,9 @@ revisions:
   3.54.0-preview.1:
     licensed:
       declared: MIT
+  3.55.0-preview.1:
+    licensed:
+      declared: MIT
   3.8.0:
     licensed:
       declared: MIT
