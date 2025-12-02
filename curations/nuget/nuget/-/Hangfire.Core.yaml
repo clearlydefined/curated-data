@@ -38,4 +38,4 @@ revisions:
       declared: LGPL-3.0-or-later OR OTHER
   1.8.21:
     licensed:
-      declared: GPL-3.0-only
+      declared: LGPL-3.0-or-later OR OTHER
