@@ -1,0 +1,8 @@
+coordinates:
+  name: GMap.NET.WindowsForms
+  provider: nuget
+  type: nuget
+revisions:
+  1.7.5:
+    licensed:
+      declared: MIT
