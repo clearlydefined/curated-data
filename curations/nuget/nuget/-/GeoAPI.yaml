@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.6.0:
+    licensed:
+      declared: LGPL-2.1-only
   1.7.5:
     licensed:
       declared: BSD-3-Clause
