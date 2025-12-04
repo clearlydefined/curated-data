@@ -1,0 +1,11 @@
+coordinates:
+  name: AAD.Suave
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.46:
+    licensed:
+      declared: MIT
+  6.1.66:
+    licensed:
+      declared: MIT
