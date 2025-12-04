@@ -1,0 +1,11 @@
+coordinates:
+  name: Antlr3.StringTemplate
+  provider: nuget
+  type: nuget
+revisions:
+  3.4.1.9004:
+    licensed:
+      declared: BSD-3-Clause
+  3.4.1.9005:
+    licensed:
+      declared: BSD-3-Clause
