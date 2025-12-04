@@ -1,0 +1,8 @@
+coordinates:
+  name: angular-ui-date
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.8:
+    licensed:
+      declared: MIT
