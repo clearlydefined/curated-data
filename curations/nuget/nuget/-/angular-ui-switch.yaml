@@ -1,0 +1,8 @@
+coordinates:
+  name: angular-ui-switch
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.1:
+    licensed:
+      declared: NONE
