@@ -1,0 +1,8 @@
+coordinates:
+  name: Manifold.autofac
+  provider: nuget
+  type: nuget
+revisions:
+  0.8.4.214:
+    licensed:
+      declared: NONE
