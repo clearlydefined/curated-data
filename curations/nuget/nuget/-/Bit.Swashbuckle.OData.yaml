@@ -1,0 +1,8 @@
+coordinates:
+  name: Bit.Swashbuckle.OData
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.9:
+    licensed:
+      declared: MIT
