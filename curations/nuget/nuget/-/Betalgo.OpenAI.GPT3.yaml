@@ -1,0 +1,8 @@
+coordinates:
+  name: Betalgo.OpenAI.GPT3
+  provider: nuget
+  type: nuget
+revisions:
+  6.8.4:
+    licensed:
+      declared: MIT
