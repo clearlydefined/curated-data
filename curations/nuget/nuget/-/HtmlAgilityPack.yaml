@@ -12,7 +12,13 @@ revisions:
   1.11.1:
     licensed:
       declared: MIT
+  1.11.11:
+    licensed:
+      declared: MIT
   1.11.12:
+    licensed:
+      declared: MIT
+  1.11.15:
     licensed:
       declared: MIT
   1.11.16:
@@ -132,6 +138,9 @@ revisions:
   1.11.55:
     licensed:
       declared: MIT
+  1.11.56:
+    licensed:
+      declared: MIT
   1.11.57:
     licensed:
       declared: MIT
@@ -156,7 +165,16 @@ revisions:
   1.3.0:
     licensed:
       declared: MS-PL
+  1.4.0:
+    licensed:
+      declared: MS-PL
   1.4.3:
+    licensed:
+      declared: MS-PL
+  1.4.4:
+    licensed:
+      declared: MS-PL
+  1.4.5:
     licensed:
       declared: MS-PL
   1.4.6:
@@ -180,6 +198,9 @@ revisions:
   1.5.1:
     licensed:
       declared: MIT
+  1.5.2-beta6:
+    licensed:
+      declared: MIT
   1.5.4:
     licensed:
       declared: MIT
@@ -187,6 +208,9 @@ revisions:
     licensed:
       declared: MIT
   1.6.0:
+    licensed:
+      declared: MIT
+  1.6.1:
     licensed:
       declared: MIT
   1.6.10:
