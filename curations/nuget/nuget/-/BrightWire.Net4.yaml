@@ -1,0 +1,8 @@
+coordinates:
+  name: BrightWire.Net4
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.2:
+    licensed:
+      declared: MIT

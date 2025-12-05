@@ -1,0 +1,8 @@
+coordinates:
+  name: BlazorStrap.V5
+  provider: nuget
+  type: nuget
+revisions:
+  5.1.102.51723:
+    licensed:
+      declared: Unlicense
