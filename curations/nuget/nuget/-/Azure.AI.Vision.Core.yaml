@@ -1,0 +1,8 @@
+coordinates:
+  name: Azure.AI.Vision.Core
+  provider: nuget
+  type: nuget
+revisions:
+  0.9.0-beta.1:
+    licensed:
+      declared: OTHER
