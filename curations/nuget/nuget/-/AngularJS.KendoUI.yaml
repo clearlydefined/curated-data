@@ -1,11 +1,8 @@
 coordinates:
-  name: AngularJS.Cookies
+  name: AngularJS.KendoUI
   provider: nuget
   type: nuget
 revisions:
-  1.4.4:
-    licensed:
-      declared: MIT
-  1.7.7:
+  1.0.3:
     licensed:
       declared: MIT
