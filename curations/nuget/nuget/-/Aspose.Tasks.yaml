@@ -1,0 +1,8 @@
+coordinates:
+  name: Aspose.Tasks
+  provider: nuget
+  type: nuget
+revisions:
+  23.7.0:
+    licensed:
+      declared: OTHER
