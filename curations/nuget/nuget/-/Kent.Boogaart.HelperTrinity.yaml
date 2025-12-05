@@ -1,0 +1,8 @@
+coordinates:
+  name: Kent.Boogaart.HelperTrinity
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.1:
+    licensed:
+      declared: MS-PL

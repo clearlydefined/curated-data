@@ -1,0 +1,8 @@
+coordinates:
+  name: HtmlToOpenXml.dll
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.0:
+    licensed:
+      declared: MS-PL
