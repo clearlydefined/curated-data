@@ -1,0 +1,8 @@
+coordinates:
+  name: UnityWCF
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.5849.32640:
+    licensed:
+      declared: MIT
