@@ -6,6 +6,9 @@ revisions:
   1.1.0.118:
     licensed:
       declared: MIT
+  15.1.0:
+    licensed:
+      declared: RPL-1.5
   2.1.265:
     licensed:
       declared: MIT
