@@ -1,0 +1,8 @@
+coordinates:
+  name: SmartComponents.LocalEmbeddings
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.0-preview10148:
+    licensed:
+      declared: MIT
