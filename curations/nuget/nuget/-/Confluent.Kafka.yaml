@@ -29,6 +29,9 @@ revisions:
   0.11.6:
     licensed:
       declared: Apache-2.0
+  0.9.4:
+    licensed:
+      declared: Apache-2.0
   0.9.5:
     licensed:
       declared: Apache-2.0
@@ -48,6 +51,9 @@ revisions:
     licensed:
       declared: Apache-2.0
   1.0.0-rc4:
+    licensed:
+      declared: Apache-2.0
+  1.0.0-rc7:
     licensed:
       declared: Apache-2.0
   1.0.1.1:
@@ -110,6 +116,9 @@ revisions:
   2.0.2:
     licensed:
       declared: Apache-2.0
+  2.1.0:
+    licensed:
+      declared: Apache-2.0
   2.1.1:
     licensed:
       declared: Apache-2.0
@@ -120,5 +129,11 @@ revisions:
     licensed:
       declared: Apache-2.0
   2.4.0:
+    licensed:
+      declared: Apache-2.0
+  2.5.0:
+    licensed:
+      declared: Apache-2.0
+  2.5.1:
     licensed:
       declared: Apache-2.0
