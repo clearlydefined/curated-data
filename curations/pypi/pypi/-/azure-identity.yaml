@@ -1,0 +1,8 @@
+coordinates:
+  name: azure-identity
+  provider: pypi
+  type: pypi
+revisions:
+  1.25.1:
+    licensed:
+      declared: MIT
