@@ -5,13 +5,13 @@ coordinates:
 revisions:
   19.0.2:
     licensed:
-      declared: MIT
+      declared: LicenseRef-scancode-android-sdk-2012
   21.0.3:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2012
   23.1.1.1:
     licensed:
-      declared: MIT
+      declared: OTHER
   23.3.0:
     licensed:
       declared: OTHER
