@@ -1,0 +1,8 @@
+coordinates:
+  name: azure-core
+  provider: pypi
+  type: pypi
+revisions:
+  1.36.0:
+    licensed:
+      declared: MIT
