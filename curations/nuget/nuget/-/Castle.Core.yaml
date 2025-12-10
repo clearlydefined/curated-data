@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  1.2.0:
+    licensed:
+      declared: Apache-2.0
   2.5.1:
     licensed:
       declared: Apache-2.0
@@ -10,36 +13,36 @@ revisions:
     described:
       releaseDate: '2014-11-06'
       sourceLocation:
+        name: Core
+        namespace: castleproject
         provider: github
         revision: 5a794b93a28219f03d2984355880a4d131bd1dc9
         type: git
         url: 'https://github.com/castleproject/Core/commit/5a794b93a28219f03d2984355880a4d131bd1dc9'
-        name: Core
-        namespace: castleproject
     licensed:
       declared: Apache-2.0
   4.0.0:
     described:
       releaseDate: '2017-01-24'
       sourceLocation:
+        name: Core
+        namespace: castleproject
         provider: github
         revision: d2e45241beea3d8ceadaa3e5e247e172ba1f01e6
         type: git
         url: 'https://github.com/castleproject/Core/commit/d2e45241beea3d8ceadaa3e5e247e172ba1f01e6'
-        name: Core
-        namespace: castleproject
     licensed:
       declared: Apache-2.0
   4.1.1:
     described:
       releaseDate: '2017-07-12'
       sourceLocation:
+        name: Core
+        namespace: castleproject
         provider: github
         revision: 1e2b33249e2e23448f68a6ef5674b8eb532d1dae
         type: git
         url: 'https://github.com/castleproject/Core/commit/1e2b33249e2e23448f68a6ef5674b8eb532d1dae'
-        name: Core
-        namespace: castleproject
     licensed:
       declared: Apache-2.0
   4.2.1:
