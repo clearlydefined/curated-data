@@ -1,0 +1,8 @@
+coordinates:
+  name: CodeMirror.NuGet
+  provider: nuget
+  type: nuget
+revisions:
+  3.20.1:
+    licensed:
+      declared: MIT
