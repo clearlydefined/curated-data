@@ -1,11 +1,8 @@
 coordinates:
-  name: VSSDK.GraphModel
+  name: VSSDK.ExtensionManager
   provider: nuget
   type: nuget
 revisions:
-  11.0.4:
-    licensed:
-      declared: NONE
-  12.0.4:
+  11.0.0:
     licensed:
       declared: NONE

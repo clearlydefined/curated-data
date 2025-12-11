@@ -3,12 +3,24 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  10.3.0:
+    licensed:
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
+  10.7.2:
+    licensed:
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   2.0.7:
     licensed:
-      declared: MIT
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   3.0.0:
     licensed:
-      declared: MIT
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
+  4.0.0:
+    licensed:
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   5.0.0:
     licensed:
-      declared: MIT AND OTHER
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
+  7.0.0:
+    licensed:
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise

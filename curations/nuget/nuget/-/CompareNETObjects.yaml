@@ -21,6 +21,9 @@ revisions:
   3.6.0:
     licensed:
       declared: MS-PL
+  3.9.0:
+    licensed:
+      declared: MS-PL
   4.3.0:
     licensed:
       declared: MS-PL
@@ -33,6 +36,9 @@ revisions:
   4.62.0:
     licensed:
       declared: MS-PL
+  4.63.0:
+    licensed:
+      declared: MS-PL
   4.64.0:
     licensed:
       declared: MS-PL
@@ -43,6 +49,9 @@ revisions:
     licensed:
       declared: MS-PL
   4.67.0:
+    licensed:
+      declared: MS-PL
+  4.69.0:
     licensed:
       declared: MS-PL
   4.70.0:

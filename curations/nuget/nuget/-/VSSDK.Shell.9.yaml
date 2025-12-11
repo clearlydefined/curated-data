@@ -1,11 +1,8 @@
 coordinates:
-  name: VSSDK.GraphModel
+  name: VSSDK.Shell.9
   provider: nuget
   type: nuget
 revisions:
-  11.0.4:
-    licensed:
-      declared: NONE
-  12.0.4:
+  9.0.4:
     licensed:
       declared: NONE
