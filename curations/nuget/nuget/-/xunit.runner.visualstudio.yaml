@@ -9,10 +9,16 @@ revisions:
   2.0.0:
     licensed:
       declared: Apache-2.0
+  2.0.0-rc1-build1030:
+    licensed:
+      declared: Apache-2.0
   2.0.1:
     licensed:
       declared: Apache-2.0
   2.1.0:
+    licensed:
+      declared: Apache-2.0
+  2.1.0-beta4-build1109:
     licensed:
       declared: Apache-2.0
   2.1.0-rc2-build1126:

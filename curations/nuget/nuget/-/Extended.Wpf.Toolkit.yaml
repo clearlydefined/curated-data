@@ -29,6 +29,12 @@ revisions:
         url: 'https://github.com/xceedsoftware/wpftoolkit/commit/015d89f201800a275feacf8eccedfd58fb1a59ca'
     licensed:
       declared: MS-PL
+  3.2.0:
+    licensed:
+      declared: MS-PL
+  3.4.0:
+    licensed:
+      declared: MS-PL
   3.7.0:
     licensed:
       declared: OTHER
@@ -37,4 +43,4 @@ revisions:
       declared: OTHER
   4.6.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-xceed-community-2021
