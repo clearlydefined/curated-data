@@ -1,0 +1,8 @@
+coordinates:
+  name: CometD.NetCore2
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.8:
+    licensed:
+      declared: MIT
