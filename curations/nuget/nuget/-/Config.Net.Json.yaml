@@ -1,0 +1,8 @@
+coordinates:
+  name: Config.Net.Json
+  provider: nuget
+  type: nuget
+revisions:
+  4.13.7:
+    licensed:
+      declared: MIT
