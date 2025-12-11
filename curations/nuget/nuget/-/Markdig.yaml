@@ -15,6 +15,9 @@ revisions:
   0.12.4:
     licensed:
       declared: BSD-2-Clause
+  0.14.9:
+    licensed:
+      declared: BSD-2-Clause
   0.15.0:
     licensed:
       declared: BSD-2-Clause

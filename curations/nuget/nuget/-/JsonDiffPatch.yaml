@@ -12,3 +12,6 @@ revisions:
   2.0.55:
     licensed:
       declared: Apache-2.0
+  2.0.61:
+    licensed:
+      declared: Apache-2.0

@@ -6,6 +6,9 @@ revisions:
   3.8.0:
     licensed:
       declared: NCSA
+  4.0.1:
+    licensed:
+      declared: NCSA
   5.1.0:
     licensed:
       declared: MIT
