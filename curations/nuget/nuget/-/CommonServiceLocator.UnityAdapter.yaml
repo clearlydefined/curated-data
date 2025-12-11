@@ -1,0 +1,8 @@
+coordinates:
+  name: CommonServiceLocator.UnityAdapter
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.41670:
+    licensed:
+      declared: NONE

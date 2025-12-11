@@ -1,0 +1,8 @@
+coordinates:
+  name: ComputerInfo
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.0-prerelease:
+    licensed:
+      declared: MIT
