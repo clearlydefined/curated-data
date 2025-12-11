@@ -9,3 +9,6 @@ revisions:
   8.1.17:
     licensed:
       declared: MIT
+  9.3.0:
+    licensed:
+      declared: MIT
