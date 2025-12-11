@@ -6,3 +6,6 @@ revisions:
   2.1.1.5:
     licensed:
       declared: MPL-2.0
+  2.1.2:
+    licensed:
+      declared: MPL-2.0

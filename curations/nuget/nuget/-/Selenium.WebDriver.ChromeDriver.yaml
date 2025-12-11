@@ -99,6 +99,9 @@ revisions:
   2.46.0:
     licensed:
       declared: Unlicense
+  2.9.0:
+    licensed:
+      declared: Unlicense
   71.0.3578.137:
     licensed:
       declared: Unlicense

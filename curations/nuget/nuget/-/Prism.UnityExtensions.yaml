@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  4.1.0:
+    licensed:
+      declared: LicenseRef-scancode-msppl
   5.0.1:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-msppl
