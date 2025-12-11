@@ -1,0 +1,8 @@
+coordinates:
+  name: Dapper.ParameterExtensions
+  provider: nuget
+  type: nuget
+revisions:
+  2018.12.7.1:
+    licensed:
+      declared: MIT
