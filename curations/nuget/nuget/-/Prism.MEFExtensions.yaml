@@ -5,4 +5,7 @@ coordinates:
 revisions:
   4.1.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-msppl
+  5.0.0:
+    licensed:
+      declared: LicenseRef-scancode-msppl
