@@ -19,3 +19,6 @@ revisions:
   fd123bf023882f07bfacf51c39111be2f946d8f8:
     licensed:
       declared: LicenseRef-scancode-unicode-v3
+  ff3514f257ea10afe7e710e9f946f68d256704b1:
+    licensed:
+      declared: Unicode-DFS-2016
