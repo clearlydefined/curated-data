@@ -1,11 +1,8 @@
 coordinates:
-  name: CloudMemoryCache
+  name: CodeContracts.MSBuild
   provider: nuget
   type: nuget
 revisions:
-  1.0.0:
-    licensed:
-      declared: OTHER
-  1.0.3:
+  1.9.10714.2:
     licensed:
       declared: MIT
