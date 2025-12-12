@@ -21,3 +21,9 @@ revisions:
   0.16.25:
     licensed:
       declared: MIT
+  0.16.27:
+    files:
+      - license: MIT
+        path: package/README.md
+    licensed:
+      declared: MIT
