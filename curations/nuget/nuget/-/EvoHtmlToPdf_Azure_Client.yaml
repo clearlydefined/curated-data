@@ -1,0 +1,8 @@
+coordinates:
+  name: EvoHtmlToPdf_Azure_Client
+  provider: nuget
+  type: nuget
+revisions:
+  6.16.0:
+    licensed:
+      declared: OTHER
