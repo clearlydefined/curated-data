@@ -1,0 +1,8 @@
+coordinates:
+  name: Excel-DNA.Interop
+  provider: nuget
+  type: nuget
+revisions:
+  14.0.1:
+    licensed:
+      declared: Zlib

@@ -1,0 +1,8 @@
+coordinates:
+  name: EvoPdf
+  provider: nuget
+  type: nuget
+revisions:
+  8.0.0:
+    licensed:
+      declared: OTHER
