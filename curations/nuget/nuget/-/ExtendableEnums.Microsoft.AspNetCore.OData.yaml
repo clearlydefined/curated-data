@@ -1,0 +1,8 @@
+coordinates:
+  name: ExtendableEnums.Microsoft.AspNetCore.OData
+  provider: nuget
+  type: nuget
+revisions:
+  9.1.13:
+    licensed:
+      declared: MIT
