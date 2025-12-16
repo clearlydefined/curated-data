@@ -1,11 +1,8 @@
 coordinates:
-  name: fmdev.ResX
+  name: graphiql
   provider: nuget
   type: nuget
 revisions:
-  0.2.0:
-    licensed:
-      declared: MIT
-  0.3.2:
+  1.2.0:
     licensed:
       declared: MIT

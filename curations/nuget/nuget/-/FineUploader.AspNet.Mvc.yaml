@@ -1,0 +1,8 @@
+coordinates:
+  name: FineUploader.AspNet.Mvc
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0-beta2:
+    licensed:
+      declared: GPL-2.0-or-later OR LGPL-2.0-or-later OR MIT
