@@ -1,0 +1,8 @@
+coordinates:
+  name: HDF5DotNet.x64
+  provider: nuget
+  type: nuget
+revisions:
+  1.8.9:
+    licensed:
+      declared: LicenseRef-scancode-hdf4
