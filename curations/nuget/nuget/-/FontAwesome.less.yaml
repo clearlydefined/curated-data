@@ -1,0 +1,8 @@
+coordinates:
+  name: FontAwesome.less
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.1:
+    licensed:
+      declared: MIT AND OFL-1.1
