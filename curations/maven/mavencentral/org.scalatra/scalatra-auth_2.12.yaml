@@ -1,5 +1,5 @@
 coordinates:
-  name: scalatra_2.12
+  name: scalatra-auth_2.12
   namespace: org.scalatra
   provider: mavencentral
   type: maven
