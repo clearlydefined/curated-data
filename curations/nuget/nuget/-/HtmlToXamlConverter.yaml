@@ -1,0 +1,8 @@
+coordinates:
+  name: HtmlToXamlConverter
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.5727.24510:
+    licensed:
+      declared: NONE
