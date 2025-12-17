@@ -1,0 +1,8 @@
+coordinates:
+  name: IKVM.MSBuild.Tools.runtime.osx-x64
+  provider: nuget
+  type: nuget
+revisions:
+  8.10.3:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0 AND Zlib
