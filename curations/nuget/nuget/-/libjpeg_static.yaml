@@ -1,0 +1,8 @@
+coordinates:
+  name: libjpeg_static
+  provider: nuget
+  type: nuget
+revisions:
+  6.1.1.9:
+    licensed:
+      declared: LicenseRef-scancode-ijg-2020
