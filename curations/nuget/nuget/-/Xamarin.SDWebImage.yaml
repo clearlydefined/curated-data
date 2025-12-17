@@ -1,0 +1,8 @@
+coordinates:
+  name: Xamarin.SDWebImage
+  provider: nuget
+  type: nuget
+revisions:
+  3.7.5:
+    licensed:
+      declared: MIT
