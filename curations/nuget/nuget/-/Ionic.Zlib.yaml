@@ -1,0 +1,8 @@
+coordinates:
+  name: Ionic.Zlib
+  provider: nuget
+  type: nuget
+revisions:
+  1.9.1.5:
+    licensed:
+      declared: NONE
