@@ -1,0 +1,8 @@
+coordinates:
+  name: KubernetesCRDModelGen.Models
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0-alpha.92:
+    licensed:
+      declared: NONE
