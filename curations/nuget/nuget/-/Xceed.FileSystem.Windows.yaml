@@ -1,0 +1,8 @@
+coordinates:
+  name: Xceed.FileSystem.Windows
+  provider: nuget
+  type: nuget
+revisions:
+  6.8.20412.1505:
+    licensed:
+      declared: OTHER
