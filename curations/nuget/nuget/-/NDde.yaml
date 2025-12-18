@@ -1,0 +1,8 @@
+coordinates:
+  name: NDde
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.563:
+    licensed:
+      declared: OTHER

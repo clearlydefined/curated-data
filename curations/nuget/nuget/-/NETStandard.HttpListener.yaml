@@ -1,0 +1,8 @@
+coordinates:
+  name: NETStandard.HttpListener
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.3.5:
+    licensed:
+      declared: MIT
