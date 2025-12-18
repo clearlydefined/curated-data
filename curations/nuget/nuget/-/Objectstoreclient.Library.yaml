@@ -1,0 +1,8 @@
+coordinates:
+  name: Objectstoreclient.Library
+  provider: nuget
+  type: nuget
+revisions:
+  7.24.5358133.88:
+    licensed:
+      declared: NONE
