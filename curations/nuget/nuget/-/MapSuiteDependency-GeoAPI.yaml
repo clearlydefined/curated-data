@@ -1,0 +1,8 @@
+coordinates:
+  name: MapSuiteDependency-GeoAPI
+  provider: nuget
+  type: nuget
+revisions:
+  10.6.0:
+    licensed:
+      declared: LGPL-2.0-or-later
