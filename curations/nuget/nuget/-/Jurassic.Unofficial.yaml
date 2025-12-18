@@ -1,0 +1,8 @@
+coordinates:
+  name: Jurassic.Unofficial
+  provider: nuget
+  type: nuget
+revisions:
+  2018.2.24:
+    licensed:
+      declared: MIT
