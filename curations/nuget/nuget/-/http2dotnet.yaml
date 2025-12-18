@@ -1,0 +1,8 @@
+coordinates:
+  name: http2dotnet
+  provider: nuget
+  type: nuget
+revisions:
+  0.8.0:
+    licensed:
+      declared: MIT
