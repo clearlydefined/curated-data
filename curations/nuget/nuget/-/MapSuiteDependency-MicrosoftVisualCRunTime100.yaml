@@ -1,0 +1,8 @@
+coordinates:
+  name: MapSuiteDependency-MicrosoftVisualCRunTime100
+  provider: nuget
+  type: nuget
+revisions:
+  10.6.0:
+    licensed:
+      declared: LicenseRef-scancode-ms-visual-2010-runtime
