@@ -1,0 +1,8 @@
+coordinates:
+  name: MvcBreadCrumbs
+  provider: nuget
+  type: nuget
+revisions:
+  0.69.0:
+    licensed:
+      declared: GPL-3.0-only
