@@ -1,0 +1,8 @@
+coordinates:
+  name: NPOI.Extend
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.3:
+    licensed:
+      declared: NONE
