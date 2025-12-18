@@ -1,0 +1,8 @@
+coordinates:
+  name: METAR.NET.Portable
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.0:
+    licensed:
+      declared: LGPL-2.1-only
