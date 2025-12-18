@@ -1,0 +1,8 @@
+coordinates:
+  name: XArch.EventSourcing.Core
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.7991.1:
+    licensed:
+      declared: NONE
