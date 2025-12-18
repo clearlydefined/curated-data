@@ -1,0 +1,8 @@
+coordinates:
+  name: Azure.Messaging.ServiceBus
+  provider: nuget
+  type: nuget
+revisions:
+  7.20.1:
+    licensed:
+      declared: MIT
