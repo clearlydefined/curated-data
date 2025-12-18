@@ -1,0 +1,8 @@
+coordinates:
+  name: MediaInfoDotNet
+  provider: nuget
+  type: nuget
+revisions:
+  0.7.79.40925:
+    licensed:
+      declared: BSD-2-Clause
