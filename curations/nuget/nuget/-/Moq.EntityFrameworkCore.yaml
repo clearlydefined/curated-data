@@ -1,0 +1,8 @@
+coordinates:
+  name: Moq.EntityFrameworkCore
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.0.1:
+    licensed:
+      declared: MIT
