@@ -1,0 +1,8 @@
+coordinates:
+  name: nsoftware.InSpreadsheet
+  provider: nuget
+  type: nuget
+revisions:
+  16.0.6868:
+    licensed:
+      declared: OTHER

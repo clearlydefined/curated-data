@@ -1,0 +1,8 @@
+coordinates:
+  name: NuGetPackageFolderOverride
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.0.1:
+    licensed:
+      declared: NONE
