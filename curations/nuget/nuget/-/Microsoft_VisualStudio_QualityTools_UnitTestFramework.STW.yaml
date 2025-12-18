@@ -1,0 +1,8 @@
+coordinates:
+  name: Microsoft_VisualStudio_QualityTools_UnitTestFramework.STW
+  provider: nuget
+  type: nuget
+revisions:
+  12.0.21005.1:
+    licensed:
+      declared: NONE
