@@ -1,0 +1,8 @@
+coordinates:
+  name: NewRelic.Agent.Api
+  provider: nuget
+  type: nuget
+revisions:
+  8.0.0:
+    licensed:
+      declared: Apache-2.0
