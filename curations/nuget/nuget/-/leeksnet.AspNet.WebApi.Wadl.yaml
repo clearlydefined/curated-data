@@ -1,0 +1,8 @@
+coordinates:
+  name: leeksnet.AspNet.WebApi.Wadl
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.1:
+    licensed:
+      declared: NONE

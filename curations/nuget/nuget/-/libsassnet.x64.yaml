@@ -1,0 +1,8 @@
+coordinates:
+  name: libsassnet.x64
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.5.1:
+    licensed:
+      declared: MIT

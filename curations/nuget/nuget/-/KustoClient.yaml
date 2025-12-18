@@ -1,0 +1,8 @@
+coordinates:
+  name: KustoClient
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.1:
+    licensed:
+      declared: NONE
