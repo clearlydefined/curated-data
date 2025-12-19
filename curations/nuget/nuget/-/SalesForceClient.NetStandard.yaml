@@ -1,0 +1,8 @@
+coordinates:
+  name: SalesForceClient.NetStandard
+  provider: nuget
+  type: nuget
+revisions:
+  1.3.2:
+    licensed:
+      declared: BSD-3-Clause
