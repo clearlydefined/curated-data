@@ -1,0 +1,8 @@
+coordinates:
+  name: Spire.PDF
+  provider: nuget
+  type: nuget
+revisions:
+  7.11.1:
+    licensed:
+      declared: OTHER
