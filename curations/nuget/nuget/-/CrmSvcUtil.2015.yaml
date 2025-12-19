@@ -1,0 +1,8 @@
+coordinates:
+  name: CrmSvcUtil.2015
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.1:
+    licensed:
+      declared: NONE
