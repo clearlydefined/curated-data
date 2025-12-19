@@ -1,0 +1,8 @@
+coordinates:
+  name: WebApi.Enhancements
+  provider: nuget
+  type: nuget
+revisions:
+  0.6.0:
+    licensed:
+      declared: OTHER
