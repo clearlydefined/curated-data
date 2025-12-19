@@ -1,0 +1,8 @@
+coordinates:
+  name: spdlog-native
+  provider: nuget
+  type: nuget
+revisions:
+  0.17.0:
+    licensed:
+      declared: MIT
