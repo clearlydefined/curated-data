@@ -1,0 +1,8 @@
+coordinates:
+  name: RSA.Archer.Api.Client
+  provider: nuget
+  type: nuget
+revisions:
+  0.7.0-beta:
+    licensed:
+      declared: NONE
