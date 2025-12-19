@@ -1,0 +1,8 @@
+coordinates:
+  name: Pingo.FluentCommandLineParser
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.25:
+    licensed:
+      declared: BSD-2-Clause
