@@ -1,0 +1,8 @@
+coordinates:
+  name: sharpconfig
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.8:
+    licensed:
+      declared: MIT
