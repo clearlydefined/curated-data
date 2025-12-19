@@ -1,0 +1,8 @@
+coordinates:
+  name: Unofficial.Microsoft.TextTemplating.BuildTasks
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.0:
+    licensed:
+      declared: NONE
