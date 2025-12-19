@@ -1,0 +1,8 @@
+coordinates:
+  name: Umbrella.Extensions.Logging.ApplicationInsights
+  provider: nuget
+  type: nuget
+revisions:
+  2.9.9:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: Typemock.Isolator
+  provider: nuget
+  type: nuget
+revisions:
+  9.3.6:
+    licensed:
+      declared: OTHER

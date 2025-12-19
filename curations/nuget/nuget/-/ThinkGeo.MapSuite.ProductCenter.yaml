@@ -1,0 +1,8 @@
+coordinates:
+  name: ThinkGeo.MapSuite.ProductCenter
+  provider: nuget
+  type: nuget
+revisions:
+  10.6.6:
+    licensed:
+      declared: OTHER
