@@ -1,0 +1,8 @@
+coordinates:
+  name: Pop3Client
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.6474.16527:
+    licensed:
+      declared: NONE
