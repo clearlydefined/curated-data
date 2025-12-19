@@ -1,0 +1,8 @@
+coordinates:
+  name: vm.Aspects.Security.Cryptography.Ciphers
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.4:
+    licensed:
+      declared: MIT
