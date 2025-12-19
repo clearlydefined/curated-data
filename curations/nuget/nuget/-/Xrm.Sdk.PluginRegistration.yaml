@@ -1,0 +1,8 @@
+coordinates:
+  name: Xrm.Sdk.PluginRegistration
+  provider: nuget
+  type: nuget
+revisions:
+  3.2021.6.1:
+    licensed:
+      declared: NONE
