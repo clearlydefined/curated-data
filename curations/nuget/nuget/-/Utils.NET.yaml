@@ -1,0 +1,8 @@
+coordinates:
+  name: Utils.NET
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.26.1:
+    licensed:
+      declared: MIT

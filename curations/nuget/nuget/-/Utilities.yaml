@@ -1,0 +1,8 @@
+coordinates:
+  name: Utilities
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.0.2:
+    licensed:
+      declared: NONE
