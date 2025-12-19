@@ -1,0 +1,8 @@
+coordinates:
+  name: PhoneNumbers
+  provider: nuget
+  type: nuget
+revisions:
+  4.4.0.1:
+    licensed:
+      declared: NONE
