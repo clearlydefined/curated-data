@@ -1,0 +1,8 @@
+coordinates:
+  name: trxparser
+  provider: nuget
+  type: nuget
+revisions:
+  0.5.0:
+    licensed:
+      declared: Apache-2.0
