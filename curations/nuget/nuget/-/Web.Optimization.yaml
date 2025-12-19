@@ -1,0 +1,8 @@
+coordinates:
+  name: Web.Optimization
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.8:
+    licensed:
+      declared: MIT
