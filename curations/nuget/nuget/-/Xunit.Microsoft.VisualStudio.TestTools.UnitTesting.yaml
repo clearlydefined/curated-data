@@ -1,0 +1,8 @@
+coordinates:
+  name: Xunit.Microsoft.VisualStudio.TestTools.UnitTesting
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0-beta-1011:
+    licensed:
+      declared: MIT

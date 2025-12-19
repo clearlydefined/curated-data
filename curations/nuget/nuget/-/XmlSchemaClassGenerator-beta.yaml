@@ -1,0 +1,8 @@
+coordinates:
+  name: XmlSchemaClassGenerator-beta
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.1057:
+    licensed:
+      declared: Apache-2.0

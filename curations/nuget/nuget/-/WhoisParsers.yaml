@@ -1,0 +1,11 @@
+coordinates:
+  name: WhoisParsers
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.9:
+    licensed:
+      declared: MIT
+  0.2.2:
+    licensed:
+      declared: MIT
