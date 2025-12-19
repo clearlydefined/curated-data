@@ -1,0 +1,8 @@
+coordinates:
+  name: ThinkGeo.MapSuite
+  provider: nuget
+  type: nuget
+revisions:
+  10.6.15:
+    licensed:
+      declared: OTHER
