@@ -1,0 +1,8 @@
+coordinates:
+  name: TeamFoundation.11
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.50727.1:
+    licensed:
+      declared: NONE
