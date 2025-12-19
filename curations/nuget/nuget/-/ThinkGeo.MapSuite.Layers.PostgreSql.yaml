@@ -1,0 +1,8 @@
+coordinates:
+  name: ThinkGeo.MapSuite.Layers.PostgreSql
+  provider: nuget
+  type: nuget
+revisions:
+  10.6.4:
+    licensed:
+      declared: OTHER
