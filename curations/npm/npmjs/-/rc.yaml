@@ -1,0 +1,8 @@
+coordinates:
+  name: rc
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.5:
+    licensed:
+      declared: BSD-2-Clause OR MIT OR Apache-2.0
