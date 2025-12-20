@@ -1,0 +1,8 @@
+coordinates:
+  name: xamarin.android.support.v7.appcompat
+  provider: nuget
+  type: nuget
+revisions:
+  23.0.1.3:
+    licensed:
+      declared: MIT
