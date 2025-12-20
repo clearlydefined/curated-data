@@ -1,0 +1,9 @@
+coordinates:
+  name: browserstack-java-sdk
+  namespace: com.browserstack
+  provider: mavencentral
+  type: maven
+revisions:
+  1.30.2:
+    licensed:
+      declared: MIT
