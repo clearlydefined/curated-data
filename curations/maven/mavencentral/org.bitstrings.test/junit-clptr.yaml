@@ -1,0 +1,9 @@
+coordinates:
+  name: junit-clptr
+  namespace: org.bitstrings.test
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.2:
+    licensed:
+      declared: Apache-2.0
