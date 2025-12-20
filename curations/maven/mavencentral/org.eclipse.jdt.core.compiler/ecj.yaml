@@ -10,3 +10,6 @@ revisions:
   4.6.1:
     licensed:
       declared: EPL-1.0
+  P20140317-1600:
+    licensed:
+      declared: EPL-2.0
