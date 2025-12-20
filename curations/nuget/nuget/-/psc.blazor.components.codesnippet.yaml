@@ -1,0 +1,8 @@
+coordinates:
+  name: psc.blazor.components.codesnippet
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.3:
+    licensed:
+      declared: MIT
