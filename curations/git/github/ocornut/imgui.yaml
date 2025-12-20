@@ -1,0 +1,9 @@
+coordinates:
+  name: imgui
+  namespace: ocornut
+  provider: github
+  type: git
+revisions:
+  5e1caaaef3953091b5395cbeb17c67548d542801:
+    licensed:
+      declared: MIT
