@@ -60,3 +60,6 @@ revisions:
   2.2.224:
     licensed:
       declared: MPL-2.0 OR EPL-1.0
+  2.3.232:
+    licensed:
+      declared: EPL-1.0 OR MPL-2.0
