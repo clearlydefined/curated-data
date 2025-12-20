@@ -1,0 +1,9 @@
+coordinates:
+  name: java-cup-runtime
+  namespace: com.github.vbmacher
+  provider: mavencentral
+  type: maven
+revisions:
+  11b-20160615:
+    licensed:
+      declared: MIT
