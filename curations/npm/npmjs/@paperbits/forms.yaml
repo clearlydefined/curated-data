@@ -1,0 +1,9 @@
+coordinates:
+  name: forms
+  namespace: '@paperbits'
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.660:
+    licensed:
+      declared: MIT
