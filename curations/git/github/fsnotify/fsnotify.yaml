@@ -1,0 +1,9 @@
+coordinates:
+  name: fsnotify
+  namespace: fsnotify
+  provider: github
+  type: git
+revisions:
+  4da3e2cfbabc9f751898f250b49f2439785783a1:
+    licensed:
+      declared: BSD-3-Clause
