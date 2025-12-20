@@ -1,0 +1,9 @@
+coordinates:
+  name: oauth2_proxy
+  namespace: bitly
+  provider: github
+  type: git
+revisions:
+  e87c3eee131d56c9f08cda7071d267279cdb9c80:
+    licensed:
+      declared: MIT
