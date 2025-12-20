@@ -1,0 +1,9 @@
+coordinates:
+  name: purell
+  namespace: puerkitobio
+  provider: github
+  type: git
+revisions:
+  fd18e053af8a4ff11039269006e8037ff374ce0e:
+    licensed:
+      declared: BSD-3-Clause
