@@ -1,0 +1,8 @@
+coordinates:
+  name: nuglify
+  provider: nuget
+  type: nuget
+revisions:
+  1.21.4:
+    licensed:
+      declared: BSD-2-Clause
