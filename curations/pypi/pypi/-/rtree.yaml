@@ -1,0 +1,8 @@
+coordinates:
+  name: rtree
+  provider: pypi
+  type: pypi
+revisions:
+  1.4.1:
+    licensed:
+      declared: MIT
