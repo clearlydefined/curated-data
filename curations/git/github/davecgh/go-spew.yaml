@@ -1,0 +1,9 @@
+coordinates:
+  name: go-spew
+  namespace: davecgh
+  provider: github
+  type: git
+revisions:
+  6d212800a42e8ab5c146b8ace3490ee17e5225f9:
+    licensed:
+      declared: ISC
