@@ -1,0 +1,9 @@
+coordinates:
+  name: ssi
+  namespace: hcmlab
+  provider: github
+  type: git
+revisions:
+  5161ff2c257a0a6f122024552e57df080a47c3fa:
+    licensed:
+      declared: LGPL-3.0-only
