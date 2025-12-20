@@ -1,0 +1,9 @@
+coordinates:
+  name: taskpool
+  namespace: github.com%2Falexeldeib
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20200212083954-ae162f10ba49:
+    licensed:
+      declared: MIT
