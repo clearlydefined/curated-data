@@ -1,0 +1,8 @@
+coordinates:
+  name: bitrium.http.extensions
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.0:
+    licensed:
+      declared: MIT
