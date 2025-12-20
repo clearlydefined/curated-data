@@ -1,0 +1,8 @@
+coordinates:
+  name: metar.net.portable
+  provider: nuget
+  type: nuget
+revisions:
+  2.5.0:
+    licensed:
+      declared: MIT
