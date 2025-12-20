@@ -1,0 +1,8 @@
+coordinates:
+  name: prompty.core
+  provider: nuget
+  type: nuget
+revisions:
+  0.2.3-beta:
+    licensed:
+      declared: MIT
