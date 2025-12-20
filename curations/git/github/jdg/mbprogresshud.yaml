@@ -1,0 +1,9 @@
+coordinates:
+  name: mbprogresshud
+  namespace: jdg
+  provider: github
+  type: git
+revisions:
+  dffe0e276342a7294796441b0678f8870554c489:
+    licensed:
+      declared: MIT
