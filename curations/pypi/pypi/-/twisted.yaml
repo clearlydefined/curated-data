@@ -9,6 +9,9 @@ revisions:
   21.7.0:
     licensed:
       declared: MI
+  22.1.0:
+    licensed:
+      declared: MIT
   22.2.0:
     licensed:
       declared: MI
