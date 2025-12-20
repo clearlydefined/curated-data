@@ -1,0 +1,9 @@
+coordinates:
+  name: auth0
+  namespace: com.auth0
+  provider: mavencentral
+  type: maven
+revisions:
+  1.7.0:
+    licensed:
+      declared: MIT
