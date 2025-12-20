@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-ws-test
+  namespace: net.javacrumbs
+  provider: mavencentral
+  type: maven
+revisions:
+  '0.22':
+    licensed:
+      declared: Apache-2.0
