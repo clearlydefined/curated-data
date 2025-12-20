@@ -1,0 +1,9 @@
+coordinates:
+  name: easymock
+  namespace: org.easymock
+  provider: mavencentral
+  type: maven
+revisions:
+  '3.5':
+    licensed:
+      declared: Apache-2.0
