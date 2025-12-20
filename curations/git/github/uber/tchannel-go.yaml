@@ -1,0 +1,9 @@
+coordinates:
+  name: tchannel-go
+  namespace: uber
+  provider: github
+  type: git
+revisions:
+  b99c1d7cecb0fdc882bed0098e7cae6ec7459059:
+    licensed:
+      declared: MIT
