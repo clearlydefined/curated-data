@@ -1,0 +1,8 @@
+coordinates:
+  name: darkloop.azure.functions.authorization.isolated
+  provider: nuget
+  type: nuget
+revisions:
+  4.2.1:
+    licensed:
+      declared: MIT
