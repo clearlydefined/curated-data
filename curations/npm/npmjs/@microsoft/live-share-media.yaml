@@ -1,0 +1,9 @@
+coordinates:
+  name: live-share-media
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0-internal.6:
+    licensed:
+      declared: MIT
