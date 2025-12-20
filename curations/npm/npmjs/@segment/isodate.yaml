@@ -1,0 +1,9 @@
+coordinates:
+  name: isodate
+  namespace: '@segment'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.3:
+    licensed:
+      declared: MIT
