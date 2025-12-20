@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.xtext.xtext.generator
+  namespace: org.eclipse.xtext
+  provider: mavencentral
+  type: maven
+revisions:
+  2.25.0:
+    licensed:
+      declared: EPL-2.0
