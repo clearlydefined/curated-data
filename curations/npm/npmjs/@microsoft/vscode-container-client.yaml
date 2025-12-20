@@ -1,0 +1,9 @@
+coordinates:
+  name: vscode-container-client
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.1:
+    licensed:
+      declared: MIT
