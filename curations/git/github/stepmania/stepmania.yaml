@@ -1,0 +1,9 @@
+coordinates:
+  name: stepmania
+  namespace: stepmania
+  provider: github
+  type: git
+revisions:
+  45e0787a7457c1b9071522463aa902d59ae3a2ee:
+    licensed:
+      declared: MIT
