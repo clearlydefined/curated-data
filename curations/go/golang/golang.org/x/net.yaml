@@ -4,6 +4,9 @@ coordinates:
   provider: golang
   type: go
 revisions:
+  v0.0.0-20190724013045-ca1201d0de80:
+    licensed:
+      declared: BSD-3-Clause
   v0.0.0-20210405180319-a5a99cb37ef4:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
