@@ -1,0 +1,8 @@
+coordinates:
+  name: xamarin.testcloud.agent
+  provider: nuget
+  type: nuget
+revisions:
+  0.17.1:
+    licensed:
+      declared: MIT
