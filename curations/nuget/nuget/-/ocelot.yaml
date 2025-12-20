@@ -1,0 +1,8 @@
+coordinates:
+  name: ocelot
+  provider: nuget
+  type: nuget
+revisions:
+  13.8.5:
+    licensed:
+      declared: MIT
