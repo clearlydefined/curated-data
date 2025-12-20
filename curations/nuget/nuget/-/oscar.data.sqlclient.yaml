@@ -1,0 +1,8 @@
+coordinates:
+  name: oscar.data.sqlclient
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.4:
+    licensed:
+      declared: MIT
