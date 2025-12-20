@@ -1,0 +1,8 @@
+coordinates:
+  name: dotnetwindowsregsitry
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.0-alpha1:
+    licensed:
+      declared: MIT
