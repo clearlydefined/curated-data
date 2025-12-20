@@ -1,0 +1,8 @@
+coordinates:
+  name: ikvm.image.runtime.linux-musl-arm
+  provider: nuget
+  type: nuget
+revisions:
+  8.10.3:
+    licensed:
+      declared: BSD-3-Clause
