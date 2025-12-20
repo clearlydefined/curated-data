@@ -1,0 +1,9 @@
+coordinates:
+  name: polaris-tokens
+  namespace: '@shopify'
+  provider: npmjs
+  type: npm
+revisions:
+  8.10.0:
+    licensed:
+      declared: MIT
