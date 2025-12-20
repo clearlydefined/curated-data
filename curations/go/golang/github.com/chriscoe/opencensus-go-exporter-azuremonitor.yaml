@@ -1,0 +1,9 @@
+coordinates:
+  name: opencensus-go-exporter-azuremonitor
+  namespace: github.com%2Fchriscoe
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20190729080708-927f6d285646:
+    licensed:
+      declared: MIT
