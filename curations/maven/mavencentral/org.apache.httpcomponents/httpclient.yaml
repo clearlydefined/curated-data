@@ -10,6 +10,9 @@ revisions:
   4.3.3:
     licensed:
       declared: Apache-2.0
+  4.3.4:
+    licensed:
+      declared: Apache-2.0
   4.5.11:
     files:
       - attributions:
