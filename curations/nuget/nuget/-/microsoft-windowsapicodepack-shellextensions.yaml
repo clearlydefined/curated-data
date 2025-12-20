@@ -1,0 +1,8 @@
+coordinates:
+  name: microsoft-windowsapicodepack-shellextensions
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.5:
+    licensed:
+      declared: MS-PL
