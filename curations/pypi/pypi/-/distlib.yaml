@@ -88,7 +88,7 @@ revisions:
       declared: Python-2.0.1
   0.3.6:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   0.3.7:
     licensed:
       declared: Python-2.0.1
