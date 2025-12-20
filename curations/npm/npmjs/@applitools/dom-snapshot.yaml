@@ -19,3 +19,6 @@ revisions:
   4.7.3:
     licensed:
       declared: OTHER
+  4.7.9:
+    licensed:
+      declared: Apache-2.0
