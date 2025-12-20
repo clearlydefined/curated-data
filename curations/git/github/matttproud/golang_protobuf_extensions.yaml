@@ -1,0 +1,9 @@
+coordinates:
+  name: golang_protobuf_extensions
+  namespace: matttproud
+  provider: github
+  type: git
+revisions:
+  fc2b8d3a73c4867e51861bbdd5ae3c1f0869dd6a:
+    licensed:
+      declared: Apache-2.0
