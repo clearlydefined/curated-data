@@ -1,0 +1,8 @@
+coordinates:
+  name: mvcbreadcrumbs
+  provider: nuget
+  type: nuget
+revisions:
+  0.69.0:
+    licensed:
+      declared: Apache-2.0
