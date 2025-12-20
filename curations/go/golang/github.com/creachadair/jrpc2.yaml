@@ -1,0 +1,9 @@
+coordinates:
+  name: jrpc2
+  namespace: github.com%2Fcreachadair
+  provider: golang
+  type: go
+revisions:
+  v0.32.0:
+    licensed:
+      declared: MIT
