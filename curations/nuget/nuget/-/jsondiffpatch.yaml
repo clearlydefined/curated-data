@@ -1,0 +1,8 @@
+coordinates:
+  name: jsondiffpatch
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.61:
+    licensed:
+      declared: MIT
