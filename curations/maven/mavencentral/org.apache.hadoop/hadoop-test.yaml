@@ -1,0 +1,9 @@
+coordinates:
+  name: hadoop-test
+  namespace: org.apache.hadoop
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.3:
+    licensed:
+      declared: Apache-2.0
