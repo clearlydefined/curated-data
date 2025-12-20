@@ -1,0 +1,9 @@
+coordinates:
+  name: jetty-all
+  namespace: org.eclipse.jetty.aggregate
+  provider: mavencentral
+  type: maven
+revisions:
+  7.6.0.v20120127:
+    licensed:
+      declared: Apache-2.0 OR EPL-1.0
