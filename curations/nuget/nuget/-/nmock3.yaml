@@ -1,0 +1,8 @@
+coordinates:
+  name: nmock3
+  provider: nuget
+  type: nuget
+revisions:
+  3.5.44:
+    licensed:
+      declared: Apache-2.0
