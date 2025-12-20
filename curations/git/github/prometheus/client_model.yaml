@@ -1,0 +1,9 @@
+coordinates:
+  name: client_model
+  namespace: prometheus
+  provider: github
+  type: git
+revisions:
+  fa8ad6fec33561be4280a8f0514318c79d7f6cb6:
+    licensed:
+      declared: Apache-2.0
