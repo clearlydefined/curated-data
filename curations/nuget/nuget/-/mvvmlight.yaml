@@ -1,0 +1,8 @@
+coordinates:
+  name: mvvmlight
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.23:
+    licensed:
+      declared: MIT
