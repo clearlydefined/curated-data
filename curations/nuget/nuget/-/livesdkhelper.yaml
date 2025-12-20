@@ -1,0 +1,8 @@
+coordinates:
+  name: livesdkhelper
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.0.8:
+    licensed:
+      declared: MS-PL
