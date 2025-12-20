@@ -1,0 +1,9 @@
+coordinates:
+  name: vault
+  namespace: hashicorp
+  provider: github
+  type: git
+revisions:
+  f627c01df8d7bebb403cf899ca1beb24f5fc84cd:
+    licensed:
+      declared: MPL-2.0
