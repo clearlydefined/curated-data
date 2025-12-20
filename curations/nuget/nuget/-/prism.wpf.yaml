@@ -1,0 +1,8 @@
+coordinates:
+  name: prism.wpf
+  provider: nuget
+  type: nuget
+revisions:
+  9.0.537:
+    licensed:
+      declared: MIT
