@@ -1,0 +1,9 @@
+coordinates:
+  name: aws-java-sdk-sts
+  namespace: com.amazonaws
+  provider: mavencentral
+  type: maven
+revisions:
+  1.12.777:
+    licensed:
+      declared: Apache-2.0
