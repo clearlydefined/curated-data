@@ -1,0 +1,9 @@
+coordinates:
+  name: duration
+  namespace: '@date-vir'
+  provider: npmjs
+  type: npm
+revisions:
+  7.3.1:
+    licensed:
+      declared: MIT
