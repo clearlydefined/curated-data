@@ -25,6 +25,9 @@ revisions:
   273d8865e31659f69528623754c1742b2819ad26:
     licensed:
       declared: MIT WITH fmt-exception
+  407c905e45ad75fc29bf0f9bb7c5c2fd3475976f:
+    licensed:
+      declared: MIT
   4fe0b11195b7cd71f39253c44db2c9dddf6b82d4:
     licensed:
       declared: MIT WITH fmt-exception
