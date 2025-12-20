@@ -1,0 +1,8 @@
+coordinates:
+  name: ndde
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.563:
+    licensed:
+      declared: MIT
