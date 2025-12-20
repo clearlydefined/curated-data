@@ -1,0 +1,9 @@
+coordinates:
+  name: pg_repack
+  namespace: reorg
+  provider: github
+  type: git
+revisions:
+  24938098b3edf091a69e267076c1061dd6fedeb4:
+    licensed:
+      declared: BSD-3-Clause
