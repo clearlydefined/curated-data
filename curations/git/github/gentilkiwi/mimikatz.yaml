@@ -1,0 +1,9 @@
+coordinates:
+  name: mimikatz
+  namespace: gentilkiwi
+  provider: github
+  type: git
+revisions:
+  fe6a853ec3e7ff50d79dd608dbed5e05cfab3322:
+    licensed:
+      declared: CC-BY-4.0
