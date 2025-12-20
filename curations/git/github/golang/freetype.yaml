@@ -1,0 +1,9 @@
+coordinates:
+  name: freetype
+  namespace: golang
+  provider: github
+  type: git
+revisions:
+  38b4c392adc5eed94207994c4848fff99f4ac234:
+    licensed:
+      declared: BSD-3-Clause OR FTL
