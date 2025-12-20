@@ -1,12 +1,15 @@
 coordinates:
   name: tools
-  namespace: golang.org%2fx
+  namespace: golang.org%2Fx
   provider: golang
   type: go
 revisions:
   v0.0.0-20200619180055-7c47624df98f:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.0.0-20201124115921-2c860bdd6e78:
+    licensed:
+      declared: BSD-3-Clause
   v0.0.0-20210106214847-113979e3529a:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
