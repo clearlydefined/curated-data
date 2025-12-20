@@ -1,0 +1,8 @@
+coordinates:
+  name: linqtoquerystring.webapi2
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.1.14:
+    licensed:
+      declared: MIT
