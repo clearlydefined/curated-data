@@ -1,0 +1,8 @@
+coordinates:
+  name: hotchocolate.language.visitors
+  provider: nuget
+  type: nuget
+revisions:
+  12.13.2:
+    licensed:
+      declared: MIT
