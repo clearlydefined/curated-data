@@ -1,0 +1,9 @@
+coordinates:
+  name: ps
+  namespace: lann
+  provider: github
+  type: git
+revisions:
+  62de8c46ede02a7675c4c79c84883eb164cb71e3:
+    licensed:
+      declared: MIT
