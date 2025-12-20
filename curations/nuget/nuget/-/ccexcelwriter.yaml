@@ -1,0 +1,8 @@
+coordinates:
+  name: ccexcelwriter
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.0:
+    licensed:
+      declared: MIT
