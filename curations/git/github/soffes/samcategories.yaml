@@ -1,0 +1,9 @@
+coordinates:
+  name: samcategories
+  namespace: soffes
+  provider: github
+  type: git
+revisions:
+  2d6ea048e6d510c2e5e60c0817c66db9358b000a:
+    licensed:
+      declared: MIT
