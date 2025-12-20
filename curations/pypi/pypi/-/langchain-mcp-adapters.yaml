@@ -1,0 +1,8 @@
+coordinates:
+  name: langchain-mcp-adapters
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.9:
+    licensed:
+      declared: MIT
