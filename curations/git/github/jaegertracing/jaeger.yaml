@@ -1,0 +1,9 @@
+coordinates:
+  name: jaeger
+  namespace: jaegertracing
+  provider: github
+  type: git
+revisions:
+  d1c2da6d771c9d574f873c0b116aea0614bc82d0:
+    licensed:
+      declared: Apache-2.0
