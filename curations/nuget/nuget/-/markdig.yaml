@@ -1,0 +1,8 @@
+coordinates:
+  name: markdig
+  provider: nuget
+  type: nuget
+revisions:
+  0.14.9:
+    licensed:
+      declared: BSD-2-Clause
