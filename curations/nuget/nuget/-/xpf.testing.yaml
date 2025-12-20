@@ -1,0 +1,8 @@
+coordinates:
+  name: xpf.testing
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.11:
+    licensed:
+      declared: MIT
