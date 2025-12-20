@@ -1,0 +1,8 @@
+coordinates:
+  name: unofficial.microsoft.texttemplating.buildtasks
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.0:
+    licensed:
+      declared: MIT
