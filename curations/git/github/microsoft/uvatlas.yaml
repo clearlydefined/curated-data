@@ -1,0 +1,9 @@
+coordinates:
+  name: uvatlas
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  2eb5648aeb0538cf8d241b2f03b15eb23a611764:
+    licensed:
+      declared: MIT
