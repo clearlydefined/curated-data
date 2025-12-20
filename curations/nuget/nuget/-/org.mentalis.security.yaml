@@ -1,0 +1,8 @@
+coordinates:
+  name: org.mentalis.security
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: BSD-3-Clause
