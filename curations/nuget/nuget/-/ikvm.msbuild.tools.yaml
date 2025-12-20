@@ -1,0 +1,8 @@
+coordinates:
+  name: ikvm.msbuild.tools
+  provider: nuget
+  type: nuget
+revisions:
+  8.10.3:
+    licensed:
+      declared: BSD-3-Clause
