@@ -1,0 +1,9 @@
+coordinates:
+  name: builder
+  namespace: lann
+  provider: github
+  type: git
+revisions:
+  f22ce00fd9394014049dad11c244859432bd6820:
+    licensed:
+      declared: MIT
