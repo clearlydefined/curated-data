@@ -1,0 +1,9 @@
+coordinates:
+  name: hmacauth
+  namespace: mbland
+  provider: github
+  type: git
+revisions:
+  44256dfd4bfa7594cfa73587a464ca890e85971a:
+    licensed:
+      declared: ISC
