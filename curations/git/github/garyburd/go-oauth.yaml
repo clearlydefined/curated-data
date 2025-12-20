@@ -1,0 +1,9 @@
+coordinates:
+  name: go-oauth
+  namespace: garyburd
+  provider: github
+  type: git
+revisions:
+  3131beb69b81ff119923bdefbf029318f1f53794:
+    licensed:
+      declared: Apache-2.0
