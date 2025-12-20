@@ -1,0 +1,8 @@
+coordinates:
+  name: medienstudio.azure.data.tables.csv
+  provider: nuget
+  type: nuget
+revisions:
+  1.3.1:
+    licensed:
+      declared: MIT
