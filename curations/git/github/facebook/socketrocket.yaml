@@ -1,0 +1,9 @@
+coordinates:
+  name: socketrocket
+  namespace: facebook
+  provider: github
+  type: git
+revisions:
+  36e68c11ab131747c401728e79b110e98d98a70f:
+    licensed:
+      declared: BSD-3-Clause
