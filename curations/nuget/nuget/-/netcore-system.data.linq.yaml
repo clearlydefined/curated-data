@@ -1,0 +1,8 @@
+coordinates:
+  name: netcore-system.data.linq
+  provider: nuget
+  type: nuget
+revisions:
+  8.0.1:
+    licensed:
+      declared: MIT
