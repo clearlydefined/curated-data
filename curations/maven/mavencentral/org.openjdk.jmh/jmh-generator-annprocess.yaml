@@ -16,6 +16,9 @@ revisions:
   '1.22':
     licensed:
       declared: GPL-2.0-only WITH LicenseRef-scancode-oracle-openjdk-exception-2.0
+  '1.23':
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
   '1.25':
     licensed:
       declared: GPL-2.0-only WITH LicenseRef-scancode-oracle-openjdk-exception-2.0
