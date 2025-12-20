@@ -1,0 +1,8 @@
+coordinates:
+  name: graphqlinq.client
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.0-beta:
+    licensed:
+      declared: MIT
