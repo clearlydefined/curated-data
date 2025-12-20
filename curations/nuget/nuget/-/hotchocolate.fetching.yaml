@@ -1,0 +1,8 @@
+coordinates:
+  name: hotchocolate.fetching
+  provider: nuget
+  type: nuget
+revisions:
+  12.13.2:
+    licensed:
+      declared: MIT
