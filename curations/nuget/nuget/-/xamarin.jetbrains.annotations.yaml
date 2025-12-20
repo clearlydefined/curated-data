@@ -1,0 +1,8 @@
+coordinates:
+  name: xamarin.jetbrains.annotations
+  provider: nuget
+  type: nuget
+revisions:
+  24.0.0.1:
+    licensed:
+      declared: MIT
