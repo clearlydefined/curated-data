@@ -1,0 +1,8 @@
+coordinates:
+  name: ionic.zlib.core
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: MS-PL
