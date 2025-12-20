@@ -1,0 +1,8 @@
+coordinates:
+  name: protractortestadapter
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0.13:
+    licensed:
+      declared: MIT
