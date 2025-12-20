@@ -1,0 +1,8 @@
+coordinates:
+  name: networkx
+  provider: pypi
+  type: pypi
+revisions:
+  '3.6':
+    licensed:
+      declared: BSD-3-Clause
