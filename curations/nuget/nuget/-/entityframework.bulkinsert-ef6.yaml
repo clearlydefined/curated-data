@@ -1,0 +1,8 @@
+coordinates:
+  name: entityframework.bulkinsert-ef6
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.2.7:
+    licensed:
+      declared: MIT
