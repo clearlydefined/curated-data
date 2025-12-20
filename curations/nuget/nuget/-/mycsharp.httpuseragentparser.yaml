@@ -1,0 +1,8 @@
+coordinates:
+  name: mycsharp.httpuseragentparser
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.28:
+    licensed:
+      declared: MIT
