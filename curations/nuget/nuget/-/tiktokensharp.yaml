@@ -1,0 +1,8 @@
+coordinates:
+  name: tiktokensharp
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.8:
+    licensed:
+      declared: MIT
