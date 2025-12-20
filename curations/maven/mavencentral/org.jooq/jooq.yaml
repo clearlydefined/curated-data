@@ -1,0 +1,9 @@
+coordinates:
+  name: jooq
+  namespace: org.jooq
+  provider: mavencentral
+  type: maven
+revisions:
+  3.19.24:
+    licensed:
+      declared: Apache-2.0
