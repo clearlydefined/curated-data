@@ -1,0 +1,8 @@
+coordinates:
+  name: restclient
+  provider: nuget
+  type: nuget
+revisions:
+  3.446.20952:
+    licensed:
+      declared: Apache-2.0
