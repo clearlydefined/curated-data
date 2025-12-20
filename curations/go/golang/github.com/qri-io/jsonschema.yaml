@@ -1,0 +1,9 @@
+coordinates:
+  name: jsonschema
+  namespace: github.com%2Fqri-io
+  provider: golang
+  type: go
+revisions:
+  v0.2.2-0.20210723092138-2eb22ee8115f:
+    licensed:
+      declared: MIT
