@@ -1,0 +1,8 @@
+coordinates:
+  name: sharepoint.client.search.applications
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.0:
+    licensed:
+      declared: MS-PL
