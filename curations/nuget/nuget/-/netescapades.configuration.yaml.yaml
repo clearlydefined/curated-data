@@ -1,0 +1,8 @@
+coordinates:
+  name: netescapades.configuration.yaml
+  provider: nuget
+  type: nuget
+revisions:
+  1.6.0:
+    licensed:
+      declared: MIT
