@@ -1,0 +1,8 @@
+coordinates:
+  name: opentelemetry-exporter-otlp-proto-grpc
+  provider: pypi
+  type: pypi
+revisions:
+  1.37.0:
+    licensed:
+      declared: Apache-2.0
