@@ -1,0 +1,8 @@
+coordinates:
+  name: nswag.aspnetcore
+  provider: nuget
+  type: nuget
+revisions:
+  11.20.1:
+    licensed:
+      declared: MIT
