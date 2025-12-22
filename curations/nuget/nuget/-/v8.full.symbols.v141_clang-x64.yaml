@@ -1,0 +1,8 @@
+coordinates:
+  name: v8.full.symbols.v141_clang-x64
+  provider: nuget
+  type: nuget
+revisions:
+  7.6.303.29:
+    licensed:
+      declared: BSD-3-Clause
