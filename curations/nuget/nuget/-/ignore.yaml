@@ -1,0 +1,8 @@
+coordinates:
+  name: ignore
+  provider: nuget
+  type: nuget
+revisions:
+  0.1.50:
+    licensed:
+      declared: MIT
