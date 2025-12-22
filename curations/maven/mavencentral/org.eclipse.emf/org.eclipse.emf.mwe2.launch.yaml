@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.emf.mwe2.launch
+  namespace: org.eclipse.emf
+  provider: mavencentral
+  type: maven
+revisions:
+  2.12.1:
+    licensed:
+      declared: EPL-2.0
