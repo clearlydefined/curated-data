@@ -1,0 +1,9 @@
+coordinates:
+  name: jsf-impl
+  namespace: com.sun.faces
+  provider: mavencentral
+  type: maven
+revisions:
+  2.2.14:
+    licensed:
+      declared: GPL-2.0 WITH Classpath-exception-2.0
