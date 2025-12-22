@@ -1,0 +1,9 @@
+coordinates:
+  name: python-ecdsa
+  namespace: tlsfuzzer
+  provider: github
+  type: git
+revisions:
+  5aa87c52c25a476f691b570be3577ff71cd01982:
+    licensed:
+      declared: MIT
