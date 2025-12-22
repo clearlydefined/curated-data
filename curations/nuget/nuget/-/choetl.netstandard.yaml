@@ -1,0 +1,8 @@
+coordinates:
+  name: choetl.netstandard
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.1.15:
+    licensed:
+      declared: MIT
