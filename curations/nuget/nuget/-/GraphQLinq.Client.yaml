@@ -1,8 +1,8 @@
 coordinates:
-  name: graphqlinq.client
+  name: GraphQLinq.Client
   provider: nuget
   type: nuget
 revisions:
   1.1.0-beta:
     licensed:
-      declared: MIT
+      declared: Apache-2.0
