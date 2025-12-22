@@ -1,0 +1,8 @@
+coordinates:
+  name: sharepoint.client.userprofiles
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.0:
+    licensed:
+      declared: MS-PL
