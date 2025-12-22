@@ -1,0 +1,9 @@
+coordinates:
+  name: x-data-grid-generator
+  namespace: '@mui'
+  provider: npmjs
+  type: npm
+revisions:
+  6.20.5:
+    licensed:
+      declared: MIT
