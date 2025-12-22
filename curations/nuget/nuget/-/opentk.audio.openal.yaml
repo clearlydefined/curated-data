@@ -1,0 +1,8 @@
+coordinates:
+  name: opentk.audio.openal
+  provider: nuget
+  type: nuget
+revisions:
+  4.8.2:
+    licensed:
+      declared: MIT
