@@ -1,0 +1,8 @@
+coordinates:
+  name: ewsoftware.shfb.netframework
+  provider: nuget
+  type: nuget
+revisions:
+  4.6.2:
+    licensed:
+      declared: MIT
