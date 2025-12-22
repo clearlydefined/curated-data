@@ -1,0 +1,8 @@
+coordinates:
+  name: selenium.chrome.webdriver
+  provider: nuget
+  type: nuget
+revisions:
+  2.35.0:
+    licensed:
+      declared: Unlicense
