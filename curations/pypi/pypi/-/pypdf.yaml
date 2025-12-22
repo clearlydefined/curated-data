@@ -1,0 +1,8 @@
+coordinates:
+  name: pypdf
+  provider: pypi
+  type: pypi
+revisions:
+  5.9.0:
+    licensed:
+      declared: BSD-3-Clause
