@@ -1,0 +1,9 @@
+coordinates:
+  name: perks
+  namespace: beorn7
+  provider: github
+  type: git
+revisions:
+  b965b613227fddccbfffe13eae360ed3fa822f8d:
+    licensed:
+      declared: MIT
