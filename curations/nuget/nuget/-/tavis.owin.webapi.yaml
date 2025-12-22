@@ -1,0 +1,8 @@
+coordinates:
+  name: tavis.owin.webapi
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.1.24052:
+    licensed:
+      declared: MIT
