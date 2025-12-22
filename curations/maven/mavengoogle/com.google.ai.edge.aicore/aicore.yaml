@@ -1,0 +1,9 @@
+coordinates:
+  name: aicore
+  namespace: com.google.ai.edge.aicore
+  provider: mavengoogle
+  type: maven
+revisions:
+  0.0.1-exp02:
+    licensed:
+      declared: Apache-2.0
