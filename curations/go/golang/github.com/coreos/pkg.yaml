@@ -19,3 +19,6 @@ revisions:
   v0.0.0-20220810130054-c7d1c02cb6cf:
     licensed:
       declared: Apache-2.0
+  v0.0.0-20240122114842-bbd7aa9bf6fb:
+    licensed:
+      declared: Apache-2.0
