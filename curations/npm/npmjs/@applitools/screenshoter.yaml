@@ -13,6 +13,15 @@ revisions:
   3.7.23:
     licensed:
       declared: OTHER
+  3.7.38:
+    licensed:
+      declared: OTHER
   3.8.23:
+    licensed:
+      declared: OTHER
+  3.8.36:
+    licensed:
+      declared: OTHER
+  3.8.37:
     licensed:
       declared: OTHER
