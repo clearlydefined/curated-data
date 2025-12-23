@@ -1,0 +1,9 @@
+coordinates:
+  name: thrift
+  namespace: apache
+  provider: github
+  type: git
+revisions:
+  0e9fed1e12ed066865e46c6903782b2ef95f4650:
+    licensed:
+      declared: Apache-2.0
