@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  17ff2d5776d28fa6ba2280c1053f7adf8d32eea6:
+    licensed:
+      declared: BSD-3-Clause
   23ae387dee1f90d29a23c0e87ee0b46038fbed0e:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
