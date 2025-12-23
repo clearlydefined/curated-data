@@ -1,0 +1,9 @@
+coordinates:
+  name: csharp
+  namespace: '@autorest'
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.0-beta.20250303.3:
+    licensed:
+      declared: MIT
