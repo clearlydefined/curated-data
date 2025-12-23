@@ -1,0 +1,9 @@
+coordinates:
+  name: skylark
+  namespace: google
+  provider: github
+  type: git
+revisions:
+  e70ab63d2b010f3d059d8ab0ed37b8e48615e9a7:
+    licensed:
+      declared: BSD-3-Clause
