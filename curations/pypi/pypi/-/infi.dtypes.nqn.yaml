@@ -1,0 +1,8 @@
+coordinates:
+  name: infi.dtypes.nqn
+  provider: pypi
+  type: pypi
+revisions:
+  0.1.0:
+    licensed:
+      declared: BSD-3-Clause
