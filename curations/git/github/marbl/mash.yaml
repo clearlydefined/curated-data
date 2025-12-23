@@ -1,0 +1,9 @@
+coordinates:
+  name: mash
+  namespace: marbl
+  provider: github
+  type: git
+revisions:
+  41ddc6145d35344194777dda9861f4751ed1b04e:
+    licensed:
+      declared: BSD-3-Clause
