@@ -1,0 +1,9 @@
+coordinates:
+  name: snmp4j
+  namespace: org.snmp4j
+  provider: mavencentral
+  type: maven
+revisions:
+  1.10.1:
+    licensed:
+      declared: Apache-2.0
