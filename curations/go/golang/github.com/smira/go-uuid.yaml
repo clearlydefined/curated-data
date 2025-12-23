@@ -1,0 +1,9 @@
+coordinates:
+  name: go-uuid
+  namespace: github.com%2Fsmira
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20141202165402-ed3ca8a15a93:
+    licensed:
+      declared: MIT
