@@ -1,0 +1,9 @@
+coordinates:
+  name: x-telemetry
+  namespace: '@mui'
+  provider: npmjs
+  type: npm
+revisions:
+  8.4.0:
+    licensed:
+      declared: MIT
