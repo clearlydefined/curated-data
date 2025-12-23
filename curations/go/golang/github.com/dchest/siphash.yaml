@@ -1,0 +1,9 @@
+coordinates:
+  name: siphash
+  namespace: github.com%2Fdchest
+  provider: golang
+  type: go
+revisions:
+  v1.2.1:
+    licensed:
+      declared: CC0-1.0
