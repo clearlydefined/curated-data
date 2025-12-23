@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  1.11.1:
+    licensed:
+      declared: GPL-2.0 WITH Classpath-exception-2.0
   '1.19':
     licensed:
       declared: GPL-2.0-only WITH LicenseRef-scancode-oracle-openjdk-exception-2.0
