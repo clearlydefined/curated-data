@@ -1,0 +1,8 @@
+coordinates:
+  name: angularjs.resource
+  provider: nuget
+  type: nuget
+revisions:
+  1.5.9:
+    licensed:
+      declared: MIT
