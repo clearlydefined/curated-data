@@ -1,0 +1,8 @@
+coordinates:
+  name: types-pytz
+  provider: pypi
+  type: pypi
+revisions:
+  2025.2.0.20250809:
+    licensed:
+      declared: Apache-2.0
