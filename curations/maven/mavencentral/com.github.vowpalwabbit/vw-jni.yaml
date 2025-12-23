@@ -1,0 +1,9 @@
+coordinates:
+  name: vw-jni
+  namespace: com.github.vowpalwabbit
+  provider: mavencentral
+  type: maven
+revisions:
+  9.3.0:
+    licensed:
+      declared: BSD-3-Clause
