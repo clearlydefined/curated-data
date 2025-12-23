@@ -1,0 +1,9 @@
+coordinates:
+  name: wrapper
+  namespace: tanukisoft
+  provider: mavencentral
+  type: maven
+revisions:
+  3.2.3:
+    licensed:
+      declared: GPL-2.0-only OR GPL-3.0-only
