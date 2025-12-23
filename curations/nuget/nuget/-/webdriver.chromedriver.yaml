@@ -1,0 +1,8 @@
+coordinates:
+  name: webdriver.chromedriver
+  provider: nuget
+  type: nuget
+revisions:
+  26.14.313457.1:
+    licensed:
+      declared: Unlicense
