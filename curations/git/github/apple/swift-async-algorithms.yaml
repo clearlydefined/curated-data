@@ -1,0 +1,9 @@
+coordinates:
+  name: swift-async-algorithms
+  namespace: apple
+  provider: github
+  type: git
+revisions:
+  042e1c4d9d19748c9c228f8d4ebc97bb1e339b0b:
+    licensed:
+      declared: Apache-2.0
