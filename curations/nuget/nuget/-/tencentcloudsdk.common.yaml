@@ -1,0 +1,8 @@
+coordinates:
+  name: tencentcloudsdk.common
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.402:
+    licensed:
+      declared: Apache-2.0
