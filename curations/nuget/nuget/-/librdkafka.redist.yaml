@@ -18,6 +18,9 @@ revisions:
   1.0.0:
     licensed:
       declared: BSD-2-Clause
+  1.0.0-pre1:
+    licensed:
+      declared: BSD-2-Clause
   1.0.1:
     licensed:
       declared: BSD-2-Clause
