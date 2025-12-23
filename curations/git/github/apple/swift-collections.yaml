@@ -1,0 +1,9 @@
+coordinates:
+  name: swift-collections
+  namespace: apple
+  provider: github
+  type: git
+revisions:
+  c1805596154bb3a265fd91b8ac0c4433b4348fb0:
+    licensed:
+      declared: Apache-2.0
