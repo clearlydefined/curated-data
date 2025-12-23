@@ -1,0 +1,8 @@
+coordinates:
+  name: FileReader
+  provider: npmjs
+  type: npm
+revisions:
+  0.10.2:
+    licensed:
+      declared: MIT
