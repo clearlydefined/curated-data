@@ -1,0 +1,9 @@
+coordinates:
+  name: go
+  namespace: buf.build%2Fgen%2Fgo%2Fservice-hub%2Floggable%2Fprotocolbuffers
+  provider: golang
+  type: go
+revisions:
+  v1.32.0-20231012175355-a349f6324a7e.1:
+    licensed:
+      declared: Apache-2.0
