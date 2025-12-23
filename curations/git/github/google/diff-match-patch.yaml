@@ -1,0 +1,9 @@
+coordinates:
+  name: diff-match-patch
+  namespace: google
+  provider: github
+  type: git
+revisions:
+  0ae308daa77aeddb089cd6b7b0a443fca026266e:
+    licensed:
+      declared: Apache-2.0
