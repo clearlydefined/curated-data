@@ -1,0 +1,8 @@
+coordinates:
+  name: logger
+  provider: pypi
+  type: pypi
+revisions:
+  '1.4':
+    licensed:
+      declared: MIT
