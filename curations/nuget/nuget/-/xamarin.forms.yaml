@@ -1,0 +1,8 @@
+coordinates:
+  name: xamarin.forms
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.4.270:
+    licensed:
+      declared: MIT
