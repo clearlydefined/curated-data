@@ -1,0 +1,8 @@
+coordinates:
+  name: mumboe-soap4r
+  provider: rubygems
+  type: gem
+revisions:
+  1.5.8.7:
+    licensed:
+      declared: Ruby
