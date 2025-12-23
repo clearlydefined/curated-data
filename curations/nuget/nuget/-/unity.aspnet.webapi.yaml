@@ -1,0 +1,8 @@
+coordinates:
+  name: unity.aspnet.webapi
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.4:
+    licensed:
+      declared: Apache-2.0
