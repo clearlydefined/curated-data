@@ -1,0 +1,9 @@
+coordinates:
+  name: cronet-shared
+  namespace: org.chromium.net
+  provider: mavengoogle
+  type: maven
+revisions:
+  141.7340.3:
+    licensed:
+      declared: BSD-3-Clause
