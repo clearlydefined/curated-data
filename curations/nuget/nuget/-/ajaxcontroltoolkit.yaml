@@ -1,0 +1,8 @@
+coordinates:
+  name: ajaxcontroltoolkit
+  provider: nuget
+  type: nuget
+revisions:
+  4.1.50508:
+    licensed:
+      declared: BSD-3-Clause
