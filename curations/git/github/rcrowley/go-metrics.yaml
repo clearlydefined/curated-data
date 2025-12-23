@@ -7,3 +7,6 @@ revisions:
   3113b8401b8a98917cde58f8bbd42a1b1c03b1fd:
     licensed:
       declared: BSD-2-Clause
+  ab2277b1c5d15c3cba104e9cbddbdfc622df5ad8:
+    licensed:
+      declared: BSD-2-Clause-FreeBSD
