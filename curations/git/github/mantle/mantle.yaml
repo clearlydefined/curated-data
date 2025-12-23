@@ -1,0 +1,9 @@
+coordinates:
+  name: mantle
+  namespace: mantle
+  provider: github
+  type: git
+revisions:
+  78d3966b3c331292ea29ec38661b25df0a245948:
+    licensed:
+      declared: MIT
