@@ -1,12 +1,12 @@
 coordinates:
-  name: groovy
-  namespace: org.codehaus.groovy
+  name: spring-hateoas
+  namespace: org.springframework.hateoas
   provider: mavencentral
   type: maven
 revisions:
-  3.0.7:
+  1.5.5:
     licensed:
       declared: Apache-2.0
-  3.0.9:
+  2.0.0:
     licensed:
       declared: Apache-2.0
