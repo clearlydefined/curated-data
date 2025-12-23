@@ -1,0 +1,9 @@
+coordinates:
+  name: go-proto
+  namespace: github.com%2Frootless-containers%2Fproto
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20210921234734-69430b6543fb:
+    licensed:
+      declared: Apache-2.0
