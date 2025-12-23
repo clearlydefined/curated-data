@@ -1,0 +1,9 @@
+coordinates:
+  name: bioperl-live
+  namespace: bioperl
+  provider: github
+  type: git
+revisions:
+  ce6da0217007ddf444399bc33a5455dbb32a66a0:
+    licensed:
+      declared: Artistic-1.0-Perl OR GPL-1.0-or-later
