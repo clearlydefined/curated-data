@@ -53,10 +53,13 @@ revisions:
   4.10.0:
     licensed:
       declared: Python-2.0.1
+  4.11.0:
+    licensed:
+      declared: Python-2.0.1
   4.11.0rc1:
     licensed:
       declared: Python-2.0.1
-  4.11.0:
+  4.12.0:
     licensed:
       declared: Python-2.0.1
   4.12.0a1:
@@ -68,19 +71,16 @@ revisions:
   4.12.0rc1:
     licensed:
       declared: Python-2.0.1
-  4.12.0:
-    licensed:
-      declared: Python-2.0.1
   4.12.1:
     licensed:
       declared: Python-2.0.1
   4.12.2:
     licensed:
       declared: Python-2.0.1
-  4.13.0rc1:
+  4.13.0:
     licensed:
       declared: Python-2.0.1
-  4.13.0:
+  4.13.0rc1:
     licensed:
       declared: Python-2.0.1
   4.13.1:
@@ -89,10 +89,10 @@ revisions:
   4.13.2:
     licensed:
       declared: Python-2.0.1
-  4.14.0rc1:
+  4.14.0:
     licensed:
       declared: Python-2.0.1
-  4.14.0:
+  4.14.0rc1:
     licensed:
       declared: Python-2.0.1
   4.2.0:
@@ -118,7 +118,7 @@ revisions:
       declared: Python-2.0.1
   4.8.0:
     licensed:
-      declared: Python-2.0.1
+      declared: PSF-2.0
   4.9.0:
     licensed:
       declared: Python-2.0.1
