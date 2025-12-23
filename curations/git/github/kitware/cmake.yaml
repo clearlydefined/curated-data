@@ -46,6 +46,9 @@ revisions:
         path: Utilities/cmlibuv/src/unix/tty.c
     licensed:
       declared: BSD-3-Clause
+  4be24f031a4829db75b85062cc67125035d8831e:
+    licensed:
+      declared: BSD-3-Clause
   5e984bb35232116a54de7db39788cb162ca7c263:
     licensed:
       declared: BSD-3-Clause
