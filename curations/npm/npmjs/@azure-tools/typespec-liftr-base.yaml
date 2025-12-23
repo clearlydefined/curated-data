@@ -1,0 +1,9 @@
+coordinates:
+  name: typespec-liftr-base
+  namespace: '@azure-tools'
+  provider: npmjs
+  type: npm
+revisions:
+  0.8.0:
+    licensed:
+      declared: MIT
