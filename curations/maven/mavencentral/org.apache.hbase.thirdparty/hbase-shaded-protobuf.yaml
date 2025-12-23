@@ -1,0 +1,9 @@
+coordinates:
+  name: hbase-shaded-protobuf
+  namespace: org.apache.hbase.thirdparty
+  provider: mavencentral
+  type: maven
+revisions:
+  3.3.0:
+    licensed:
+      declared: Apache-2.0
