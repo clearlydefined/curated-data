@@ -1,0 +1,9 @@
+coordinates:
+  name: truffle-nfi
+  namespace: org.graalvm.truffle
+  provider: mavencentral
+  type: maven
+revisions:
+  19.3.6:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
