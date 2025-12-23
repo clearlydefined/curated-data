@@ -1,0 +1,9 @@
+coordinates:
+  name: cli
+  namespace: '@ast-grep'
+  provider: npmjs
+  type: npm
+revisions:
+  0.37.0:
+    licensed:
+      declared: MIT
