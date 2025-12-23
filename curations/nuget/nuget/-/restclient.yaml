@@ -1,0 +1,8 @@
+coordinates:
+  name: restclient
+  provider: nuget
+  type: nuget
+revisions:
+  3.1024.23771:
+    licensed:
+      declared: MIT
