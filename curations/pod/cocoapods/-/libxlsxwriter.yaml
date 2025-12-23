@@ -1,0 +1,8 @@
+coordinates:
+  name: libxlsxwriter
+  provider: cocoapods
+  type: pod
+revisions:
+  1.1.4:
+    licensed:
+      declared: BSD-2-Clause
