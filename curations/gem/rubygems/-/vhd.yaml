@@ -1,0 +1,8 @@
+coordinates:
+  name: vhd
+  provider: rubygems
+  type: gem
+revisions:
+  0.0.4:
+    licensed:
+      declared: MIT
