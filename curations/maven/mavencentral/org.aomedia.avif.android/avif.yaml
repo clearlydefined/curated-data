@@ -1,0 +1,9 @@
+coordinates:
+  name: avif
+  namespace: org.aomedia.avif.android
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.1.14d8e3c4:
+    licensed:
+      declared: BSD-2-Clause
