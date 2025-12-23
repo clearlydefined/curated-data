@@ -1,0 +1,9 @@
+coordinates:
+  name: reflectivedllinjection
+  namespace: stephenfewer
+  provider: github
+  type: git
+revisions:
+  178ba2a6a9feee0a9d9757dcaa65168ced588c12:
+    licensed:
+      declared: BSD-3-Clause
