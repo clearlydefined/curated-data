@@ -1,0 +1,9 @@
+coordinates:
+  name: jstl
+  namespace: javax.servlet
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.2:
+    licensed:
+      declared: CDDL-1.0
