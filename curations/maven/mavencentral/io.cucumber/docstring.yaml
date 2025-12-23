@@ -1,0 +1,9 @@
+coordinates:
+  name: docstring
+  namespace: io.cucumber
+  provider: mavencentral
+  type: maven
+revisions:
+  7.20.0:
+    licensed:
+      declared: MIT
