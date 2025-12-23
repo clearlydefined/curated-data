@@ -1,0 +1,9 @@
+coordinates:
+  name: edk2
+  namespace: tianocore
+  provider: github
+  type: git
+revisions:
+  324a4c9d7d512f3bf78fe782803d3a8a09c69f73:
+    licensed:
+      declared: BSD-2-Clause-Patent
