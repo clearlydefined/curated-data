@@ -1,0 +1,8 @@
+coordinates:
+  name: cryptohelper.strongname
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.1.1:
+    licensed:
+      declared: MIT
