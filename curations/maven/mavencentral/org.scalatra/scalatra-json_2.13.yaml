@@ -1,0 +1,9 @@
+coordinates:
+  name: scalatra-json_2.13
+  namespace: org.scalatra
+  provider: mavencentral
+  type: maven
+revisions:
+  2.8.4:
+    licensed:
+      declared: BSD-3-Clause
