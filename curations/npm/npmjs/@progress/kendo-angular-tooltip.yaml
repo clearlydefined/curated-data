@@ -12,7 +12,7 @@ revisions:
       declared: OTHER
   18.0.0:
     licensed:
-      declared: OTHER
+      declared: Apache-2.0
   3.0.0:
     licensed:
       declared: OTHER
