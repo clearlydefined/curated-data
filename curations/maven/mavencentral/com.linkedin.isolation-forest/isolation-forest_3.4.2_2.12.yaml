@@ -1,0 +1,9 @@
+coordinates:
+  name: isolation-forest_3.4.2_2.12
+  namespace: com.linkedin.isolation-forest
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.4:
+    licensed:
+      declared: BSD-2-Clause
