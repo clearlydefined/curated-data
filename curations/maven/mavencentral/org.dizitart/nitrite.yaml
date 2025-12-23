@@ -1,0 +1,9 @@
+coordinates:
+  name: nitrite
+  namespace: org.dizitart
+  provider: mavencentral
+  type: maven
+revisions:
+  3.4.4:
+    licensed:
+      declared: Apache-2.0
