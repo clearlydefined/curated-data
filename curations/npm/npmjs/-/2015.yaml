@@ -1,0 +1,8 @@
+coordinates:
+  name: '2015'
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1:
+    licensed:
+      declared: ISC
