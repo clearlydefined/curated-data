@@ -1,0 +1,9 @@
+coordinates:
+  name: lucene-core
+  namespace: org.apache.lucene
+  provider: mavencentral
+  type: maven
+revisions:
+  3.5.0:
+    licensed:
+      declared: Apache-2.0
