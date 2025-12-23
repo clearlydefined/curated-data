@@ -10,3 +10,6 @@ revisions:
   3.7.2:
     licensed:
       declared: OTHER
+  3.8.4:
+    licensed:
+      declared: Apache-2.0
