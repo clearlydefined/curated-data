@@ -1,0 +1,9 @@
+coordinates:
+  name: gtree
+  namespace: github.com%2Fddddddo
+  provider: golang
+  type: go
+revisions:
+  v1.10.7:
+    licensed:
+      declared: BSD-2-Clause
