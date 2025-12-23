@@ -1,0 +1,8 @@
+coordinates:
+  name: azure-servicebus
+  provider: pypi
+  type: pypi
+revisions:
+  7.14.3:
+    licensed:
+      declared: MIT
