@@ -1,0 +1,9 @@
+coordinates:
+  name: jdk7
+  namespace: org.checkerframework
+  provider: mavencentral
+  type: maven
+revisions:
+  1.9.1:
+    licensed:
+      declared: MIT
