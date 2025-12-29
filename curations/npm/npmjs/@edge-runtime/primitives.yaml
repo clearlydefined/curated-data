@@ -1,0 +1,9 @@
+coordinates:
+  name: primitives
+  namespace: '@edge-runtime'
+  provider: npmjs
+  type: npm
+revisions:
+  6.0.0:
+    licensed:
+      declared: MIT
