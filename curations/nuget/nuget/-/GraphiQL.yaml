@@ -1,5 +1,5 @@
 coordinates:
-  name: graphiql
+  name: GraphiQL
   provider: nuget
   type: nuget
 revisions:
