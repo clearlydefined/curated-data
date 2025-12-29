@@ -43,3 +43,6 @@ revisions:
   1.19.0:
     licensed:
       declared: OTHER
+  1.21.1:
+    licensed:
+      declared: OTHER
