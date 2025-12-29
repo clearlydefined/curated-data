@@ -18,7 +18,7 @@ revisions:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
   21.3.2:
     licensed:
-      declared: GPL-2.0 WITH Classpath-exception-2.0
+      declared: UPL-1.0
   23.0.5:
     licensed:
       declared: UPL-1.0
