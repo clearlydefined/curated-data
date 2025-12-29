@@ -61,6 +61,9 @@ revisions:
   1.9.7.M3:
     licensed:
       declared: EPL-1.0
+  1.9.9.1:
+    licensed:
+      declared: EPL-2.0
   1.9.8.RC1:
     licensed:
       declared: EPL-2.0
