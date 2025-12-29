@@ -1,0 +1,8 @@
+coordinates:
+  name: pdfplumber
+  provider: pypi
+  type: pypi
+revisions:
+  0.11.8:
+    licensed:
+      declared: MIT
