@@ -13,6 +13,9 @@ revisions:
   1.7.7.2:
     licensed:
       declared: MPL-2.0
+  1.7R3:
+    licensed:
+      declared: MPL-2.0
   1.7R4:
     licensed:
       declared: MPL-2.0
