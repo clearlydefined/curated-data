@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  9.0-801.jdbc4:
+    licensed:
+      declared: BSD-2-Clause
   9.1-901.jdbc4:
     licensed:
       declared: BSD-2-Clause
