@@ -7,6 +7,9 @@ revisions:
   '1.64':
     licensed:
       declared: MIT
+  '1.69':
+    licensed:
+      declared: MIT
   '1.72':
     licensed:
       declared: MIT
@@ -29,5 +32,8 @@ revisions:
     licensed:
       declared: MIT
   '1.79':
+    licensed:
+      declared: MIT
+  '1.82':
     licensed:
       declared: MIT

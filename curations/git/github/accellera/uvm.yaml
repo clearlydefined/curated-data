@@ -1,0 +1,9 @@
+coordinates:
+  name: uvm
+  namespace: accellera
+  provider: github
+  type: git
+revisions:
+  248128fcc9ac9534ca47bc66aaaffbda71eca3ed:
+    licensed:
+      declared: Apache-2.0
