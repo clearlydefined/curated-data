@@ -9,13 +9,13 @@ revisions:
       declared: OTHER
   18.0.2:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   19.0.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   21.1.1:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-android-sdk-2021
   23.0.0:
     licensed:
-      declared: Apache-2.0
+      declared: LicenseRef-scancode-android-sdk-2021
