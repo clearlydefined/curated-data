@@ -6,4 +6,4 @@ coordinates:
 revisions:
   3.2.3:
     licensed:
-      declared: LicenseRef-scancode-tanuki-community-sla-1.3 OR (LicenseRef-scancode-tanuki-development AND LicenseRef-scancode-tanuki-maintenance) OR OTHER
+      declared: LicenseRef-scancode-tanuki-community-sla-1.3 OR LicenseRef-scancode-tanuki-development AND LicenseRef-scancode-tanuki-maintenance OR OTHER
