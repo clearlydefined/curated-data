@@ -1,0 +1,8 @@
+coordinates:
+  name: NotAClue.DynamicData.CustomFilters
+  provider: nuget
+  type: nuget
+revisions:
+  1.2.1.2:
+    licensed:
+      declared: MIT
