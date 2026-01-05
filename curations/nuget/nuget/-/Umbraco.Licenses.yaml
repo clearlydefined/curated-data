@@ -1,0 +1,8 @@
+coordinates:
+  name: Umbraco.Licenses
+  provider: nuget
+  type: nuget
+revisions:
+  13.3.2:
+    licensed:
+      declared: MIT
