@@ -1,0 +1,12 @@
+coordinates:
+  name: rate-limiter
+  namespace: github.com%2Fazure
+  provider: golang
+  type: go
+revisions:
+  v0.0.9-alpha:
+    licensed:
+      declared: MIT
+  v1.0.4:
+    licensed:
+      declared: MIT
