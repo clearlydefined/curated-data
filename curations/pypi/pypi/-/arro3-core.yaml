@@ -1,0 +1,8 @@
+coordinates:
+  name: arro3-core
+  provider: pypi
+  type: pypi
+revisions:
+  0.6.5:
+    licensed:
+      declared: Apache-2.0 OR MIT
