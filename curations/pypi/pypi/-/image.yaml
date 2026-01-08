@@ -1,0 +1,8 @@
+coordinates:
+  name: image
+  provider: pypi
+  type: pypi
+revisions:
+  1.5.33:
+    licensed:
+      declared: BSD-3-Clause

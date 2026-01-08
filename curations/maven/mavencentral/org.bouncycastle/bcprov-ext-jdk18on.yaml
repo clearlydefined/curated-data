@@ -1,0 +1,9 @@
+coordinates:
+  name: bcprov-ext-jdk18on
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.76':
+    licensed:
+      declared: MIT
