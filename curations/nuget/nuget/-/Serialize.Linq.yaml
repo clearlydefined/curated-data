@@ -5,7 +5,7 @@ coordinates:
 revisions:
   1.1.4:
     licensed:
-      declared: MIT
+      declared: LGPL-3.0-only
   1.3.0:
     licensed:
       declared: LGPL-3.0-only
