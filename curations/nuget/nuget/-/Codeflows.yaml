@@ -1,0 +1,8 @@
+coordinates:
+  name: Codeflows
+  provider: nuget
+  type: nuget
+revisions:
+  0.7.1.45:
+    licensed:
+      declared: MIT

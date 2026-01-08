@@ -10,6 +10,18 @@ revisions:
   1.4.6:
     licensed:
       declared: OTHER
+  2.5.3-legacy.1:
+    licensed:
+      declared: OTHER
+  4.18.2:
+    licensed:
+      declared: OTHER
+  4.19.0:
+    licensed:
+      declared: OTHER
+  4.44.2:
+    licensed:
+      declared: OTHER
   4.8.0:
     licensed:
       declared: OTHER

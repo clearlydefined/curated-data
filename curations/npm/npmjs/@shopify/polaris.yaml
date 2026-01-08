@@ -6,7 +6,10 @@ coordinates:
 revisions:
   11.26.0:
     licensed:
-      declared: MIT
+      declared: OTHER
+  12.27.0:
+    licensed:
+      declared: OTHER
   9.2.3:
     licensed:
       declared: OTHER
