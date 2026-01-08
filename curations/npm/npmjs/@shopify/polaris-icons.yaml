@@ -7,3 +7,9 @@ revisions:
   4.19.0:
     licensed:
       declared: OTHER
+  7.13.0:
+    licensed:
+      declared: OTHER
+  8.11.1:
+    licensed:
+      declared: OTHER
