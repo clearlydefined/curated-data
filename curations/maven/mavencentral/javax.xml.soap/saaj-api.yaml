@@ -1,0 +1,9 @@
+coordinates:
+  name: saaj-api
+  namespace: javax.xml.soap
+  provider: mavencentral
+  type: maven
+revisions:
+  1.3.1:
+    licensed:
+      declared: CDDL-1.0
