@@ -1,0 +1,9 @@
+coordinates:
+  name: esapi
+  namespace: org.owasp.esapi
+  provider: mavencentral
+  type: maven
+revisions:
+  2.5.2.0:
+    licensed:
+      declared: BSD-3-Clause
