@@ -1,0 +1,8 @@
+coordinates:
+  name: ng2-currency-mask
+  provider: npmjs
+  type: npm
+revisions:
+  13.0.3:
+    licensed:
+      declared: MIT
