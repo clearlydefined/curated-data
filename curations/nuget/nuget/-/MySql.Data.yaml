@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  8.0.11:
+    licensed:
+      declared: GPL-2.0-only
   8.0.16:
     licensed:
       declared: OTHER

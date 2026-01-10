@@ -6,6 +6,9 @@ revisions:
   0.1.6:
     licensed:
       declared: MIT
+  1.0.1.12:
+    licensed:
+      declared: Apache-2.0
   1.0.1.37:
     licensed:
       declared: MIT
