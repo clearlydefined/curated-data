@@ -1,0 +1,9 @@
+coordinates:
+  name: circos
+  namespace: vigsterkr
+  provider: github
+  type: git
+revisions:
+  194035b386ee75bec981f85ed7811b40cba56d89:
+    licensed:
+      declared: GPL-2.0-or-later
