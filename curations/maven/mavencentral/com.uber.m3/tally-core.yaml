@@ -1,0 +1,9 @@
+coordinates:
+  name: tally-core
+  namespace: com.uber.m3
+  provider: mavencentral
+  type: maven
+revisions:
+  0.13.0:
+    licensed:
+      declared: MIT
