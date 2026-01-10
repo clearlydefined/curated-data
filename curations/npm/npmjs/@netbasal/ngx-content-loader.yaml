@@ -1,0 +1,9 @@
+coordinates:
+  name: ngx-content-loader
+  namespace: '@netbasal'
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.0:
+    licensed:
+      declared: MIT
