@@ -1,0 +1,9 @@
+coordinates:
+  name: google-cloud-nio
+  namespace: com.google.cloud
+  provider: mavencentral
+  type: maven
+revisions:
+  0.32.0-alpha:
+    licensed:
+      declared: Apache-2.0
