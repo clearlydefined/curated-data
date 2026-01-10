@@ -1,0 +1,9 @@
+coordinates:
+  name: k-means
+  namespace: goldsborough
+  provider: github
+  type: git
+revisions:
+  3ca19f3d9d5604c95e2079e0541deda85fa62a21:
+    licensed:
+      declared: MIT
