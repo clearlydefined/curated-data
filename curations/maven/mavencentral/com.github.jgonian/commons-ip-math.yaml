@@ -1,0 +1,9 @@
+coordinates:
+  name: commons-ip-math
+  namespace: com.github.jgonian
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.32':
+    licensed:
+      declared: Apache-2.0
