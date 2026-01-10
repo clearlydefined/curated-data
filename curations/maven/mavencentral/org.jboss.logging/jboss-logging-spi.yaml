@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-logging-spi
+  namespace: org.jboss.logging
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.2.GA:
+    licensed:
+      declared: LGPL-2.1-or-later
