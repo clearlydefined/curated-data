@@ -1,0 +1,9 @@
+coordinates:
+  name: bolts-android
+  namespace: boltsframework
+  provider: github
+  type: git
+revisions:
+  3def0de57eb06ea09056251be93e397ea28e34c1:
+    licensed:
+      declared: BSD-3-Clause
