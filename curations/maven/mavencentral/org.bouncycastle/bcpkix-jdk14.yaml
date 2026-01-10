@@ -1,0 +1,9 @@
+coordinates:
+  name: bcpkix-jdk14
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.74':
+    licensed:
+      declared: MIT
