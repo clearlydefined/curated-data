@@ -1,8 +1,8 @@
 coordinates:
-  name: UpgradeServerAPI
+  name: Umbraco.Licenses
   provider: nuget
   type: nuget
 revisions:
-  1.0.39:
+  13.3.2:
     licensed:
       declared: MIT
