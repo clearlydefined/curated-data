@@ -1,0 +1,9 @@
+coordinates:
+  name: copilot-api
+  namespace: '@vscode'
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.5:
+    licensed:
+      declared: MIT
