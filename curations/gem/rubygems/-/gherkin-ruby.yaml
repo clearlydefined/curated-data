@@ -1,0 +1,8 @@
+coordinates:
+  name: gherkin-ruby
+  provider: rubygems
+  type: gem
+revisions:
+  0.3.0:
+    licensed:
+      declared: MIT
