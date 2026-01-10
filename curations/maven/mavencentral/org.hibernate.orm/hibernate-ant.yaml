@@ -1,0 +1,9 @@
+coordinates:
+  name: hibernate-ant
+  namespace: org.hibernate.orm
+  provider: mavencentral
+  type: maven
+revisions:
+  6.5.3.Final:
+    licensed:
+      declared: LGPL-2.1-or-later
