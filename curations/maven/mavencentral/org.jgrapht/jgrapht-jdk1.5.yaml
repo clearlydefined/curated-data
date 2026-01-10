@@ -1,0 +1,9 @@
+coordinates:
+  name: jgrapht-jdk1.5
+  namespace: org.jgrapht
+  provider: mavencentral
+  type: maven
+revisions:
+  0.7.3:
+    licensed:
+      declared: LGPL-2.1-or-later
