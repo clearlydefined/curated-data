@@ -46,3 +46,6 @@ revisions:
   '1.82':
     licensed:
       declared: MIT
+  '1.83':
+    licensed:
+      declared: MIT
