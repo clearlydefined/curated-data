@@ -1,0 +1,9 @@
+coordinates:
+  name: python-rsa
+  namespace: sybrenstuvel
+  provider: github
+  type: git
+revisions:
+  b6cebd53fcafd3088fc8361f6d3466166f75410b:
+    licensed:
+      declared: Apache-2.0
