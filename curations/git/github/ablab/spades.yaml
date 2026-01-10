@@ -1,0 +1,9 @@
+coordinates:
+  name: spades
+  namespace: ablab
+  provider: github
+  type: git
+revisions:
+  3a754192b88540524ce6fb69eef5ea9273a38465:
+    licensed:
+      declared: GPL-2.0-only
