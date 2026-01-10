@@ -4,15 +4,18 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
-  9.1.0:
-    licensed:
-      declared: OTHER
-  9.0.0:
-    licensed:
-      declared: OTHER
   8.0.31:
     licensed:
       declared: OTHER
   8.3.0:
     licensed:
       declared: OTHER
+  9.0.0:
+    licensed:
+      declared: OTHER
+  9.1.0:
+    licensed:
+      declared: OTHER
+  9.2.0:
+    licensed:
+      declared: GPL-2.0 WITH Universal-FOSS-exception-1.0
