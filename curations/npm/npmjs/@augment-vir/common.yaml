@@ -1,0 +1,9 @@
+coordinates:
+  name: common
+  namespace: '@augment-vir'
+  provider: npmjs
+  type: npm
+revisions:
+  31.24.1:
+    licensed:
+      declared: MIT
