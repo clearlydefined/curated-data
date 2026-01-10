@@ -1,0 +1,9 @@
+coordinates:
+  name: java-dogstatsd-client
+  namespace: com.datadoghq
+  provider: mavencentral
+  type: maven
+revisions:
+  4.4.5:
+    licensed:
+      declared: MIT
