@@ -6,4 +6,4 @@ coordinates:
 revisions:
   c1805596154bb3a265fd91b8ac0c4433b4348fb0:
     licensed:
-      declared: Apache-2.0
+      declared: Apache-2.0 WITH Swift-exception
