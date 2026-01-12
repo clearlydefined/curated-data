@@ -1,0 +1,9 @@
+coordinates:
+  name: bugsnag-android
+  namespace: bugsnag
+  provider: github
+  type: git
+revisions:
+  f9f54131b7a8a2c469bf9e25c80468948a988249:
+    licensed:
+      declared: MIT
