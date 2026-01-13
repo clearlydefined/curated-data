@@ -1,5 +1,5 @@
 coordinates:
-  name: jackson-dataformat-cbor
+  name: jackson-dataformat-toml
   namespace: com.fasterxml.jackson.dataformat
   provider: mavencentral
   type: maven
@@ -7,3 +7,4 @@ revisions:
   '2.20.1':
     licensed:
       declared: Apache-2.0
+
