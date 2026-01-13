@@ -1,6 +1,6 @@
 coordinates:
   name: jackson-dataformats-cbor
-  namespace: fasterxml
+  namespace: com.fasterxml.jackson.dataformat
   provider: mavencentral
   type: maven
 revisions:
