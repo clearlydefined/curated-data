@@ -17,7 +17,7 @@ revisions:
       declared: MIT AND LicenseRef-scancode-ms-patent-promise
   3.0.2:
     licensed:
-      declared: Apache-2.0
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   4.0.0:
     licensed:
       declared: MIT AND LicenseRef-scancode-ms-patent-promise
