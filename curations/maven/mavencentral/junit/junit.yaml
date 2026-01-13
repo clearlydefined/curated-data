@@ -15,7 +15,7 @@ revisions:
       declared: CPL-1.0
   '4.2':
     licensed:
-      declared: EPL-1.0
+      declared: CPL-1.0
   '4.4':
     licensed:
       declared: CPL-1.0
