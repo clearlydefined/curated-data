@@ -6,7 +6,7 @@ coordinates:
 revisions:
   0e7b4428866f3133b4abba2d932ee3faa708db1d:
     licensed:
-      declared: Unicode-3.0
+      declared: LicenseRef-scancode-unicode-v3
   125e29d54990e74845e1546851b5afa3efab06ce:
     licensed:
       declared: LicenseRef-scancode-unicode-v3
