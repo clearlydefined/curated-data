@@ -1,0 +1,9 @@
+coordinates:
+  name: jackson-dataformats-cbor
+  namespace: fasterxml
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.20.1':
+    licensed:
+      declared: Apache-2.0
