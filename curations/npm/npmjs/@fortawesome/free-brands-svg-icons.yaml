@@ -1,0 +1,9 @@
+coordinates:
+  name: free-brands-svg-icons
+  namespace: '@fortawesome'
+  provider: npmjs
+  type: npm
+revisions:
+  5.1.1:
+    licensed:
+      declared: CC-BY-4.0 AND MIT
