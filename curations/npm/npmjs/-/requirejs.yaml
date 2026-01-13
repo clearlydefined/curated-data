@@ -5,13 +5,16 @@ coordinates:
 revisions:
   2.1.0:
     licensed:
-      declared: MIT OR BSD-3-Clause
+      declared: BSD-3-Clause OR MIT
+  2.1.10:
+    licensed:
+      declared: BSD-3-Clause OR MIT
   2.1.11:
     licensed:
-      declared: MIT OR BSD-3-Clause
+      declared: BSD-3-Clause OR MIT
   2.1.20:
     licensed:
-      declared: MIT OR BSD-3-Clause
+      declared: BSD-3-Clause OR MIT
   2.1.22:
     licensed:
-      declared: MIT OR BSD-3-Clause
+      declared: BSD-3-Clause OR MIT
