@@ -5,4 +5,4 @@ coordinates:
 revisions:
   1.17.3:
     licensed:
-      declared: BSD-3-Clause
+      declared: AFL-2.1 OR BSD-3-Clause
