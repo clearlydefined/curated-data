@@ -1,0 +1,8 @@
+coordinates:
+  name: selenium
+  provider: npmjs
+  type: npm
+revisions:
+  2.20.0:
+    licensed:
+      declared: MIT
