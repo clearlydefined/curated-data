@@ -1,0 +1,9 @@
+coordinates:
+  name: fitnesse
+  namespace: org.fitnesse
+  provider: mavencentral
+  type: maven
+revisions:
+  '20151230':
+    licensed:
+      declared: CPL-1.0
