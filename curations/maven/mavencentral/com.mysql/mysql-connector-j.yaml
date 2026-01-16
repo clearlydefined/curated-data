@@ -16,9 +16,12 @@ revisions:
   9.1.0:
     licensed:
       declared: OTHER
+  9.2.0:
+    licensed:
+      declared: OTHER
   9.3.0:
     licensed:
       declared: OTHER
-  9.2.0:
+  9.4.0:
     licensed:
       declared: OTHER
