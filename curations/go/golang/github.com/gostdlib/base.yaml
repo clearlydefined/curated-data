@@ -1,0 +1,9 @@
+coordinates:
+  name: base
+  namespace: github.com%2Fgostdlib
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20250813052742-79964ba11c6b:
+    licensed:
+      declared: MIT

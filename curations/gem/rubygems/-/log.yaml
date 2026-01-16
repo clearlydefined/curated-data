@@ -1,0 +1,8 @@
+coordinates:
+  name: log
+  provider: rubygems
+  type: gem
+revisions:
+  1.1.0:
+    licensed:
+      declared: NONE

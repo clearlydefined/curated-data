@@ -1,0 +1,9 @@
+coordinates:
+  name: flann
+  namespace: mariusmuja
+  provider: github
+  type: git
+revisions:
+  06a49513138009d19a1f4e0ace67fbff13270c69:
+    licensed:
+      declared: BSD-3-Clause

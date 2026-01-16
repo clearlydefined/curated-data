@@ -1,0 +1,9 @@
+coordinates:
+  name: hdrhistogram-metrics-reservoir
+  namespace: org.mpierce.metrics.reservoir
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.3:
+    licensed:
+      declared: COIL-1.0

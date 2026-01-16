@@ -1,0 +1,8 @@
+coordinates:
+  name: dojo-util
+  provider: npmjs
+  type: npm
+revisions:
+  1.17.3:
+    licensed:
+      declared: AFL-2.1 OR BSD-3-Clause

@@ -6,31 +6,31 @@ coordinates:
 revisions:
   1.3.166:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   1.4.190:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   1.4.191:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   1.4.192:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   1.4.193:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   1.4.195:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   1.4.196:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   1.4.197:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   1.4.199:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   1.4.200:
     described:
       sourceLocation:
@@ -41,22 +41,25 @@ revisions:
         type: git
         url: 'https://github.com/h2database/h2database/commit/e1bcf3b6ba8927ff640299c879011f2df0750ef9'
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   2.0.206:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   2.1.210:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   2.1.212:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   2.1.214:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   2.2.220:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
   2.2.224:
     licensed:
-      declared: MPL-2.0 OR EPL-1.0
+      declared: EPL-1.0 OR MPL-2.0
+  2.3.232:
+    licensed:
+      declared: EPL-1.0 OR MPL-2.0

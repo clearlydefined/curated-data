@@ -1,0 +1,9 @@
+coordinates:
+  name: krona
+  namespace: marbl
+  provider: github
+  type: git
+revisions:
+  106dedb36b6c80445c6bacbd53d745a2388de273:
+    licensed:
+      declared: BSD-3-Clause

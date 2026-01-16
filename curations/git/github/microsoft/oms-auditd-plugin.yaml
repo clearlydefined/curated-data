@@ -1,0 +1,9 @@
+coordinates:
+  name: oms-auditd-plugin
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  a6b35d06e5fb0675f5ee16d8c600b0d7963a9198:
+    licensed:
+      declared: MIT

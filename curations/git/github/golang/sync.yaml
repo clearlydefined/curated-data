@@ -16,9 +16,15 @@ revisions:
   1d60e4601c6fd243af51cc01ddf169918a5407ca:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  316e794f7b5e3df4e95175a45a5fb8b12f85cb4f:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   37e7f081c4d4c64e13b10787722085407fe5d15f:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   42b317875d0fa942474b76e1b46a6060d720ae6e:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  6e8e738ad208923de99951fe0b48239bfd864f28:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang

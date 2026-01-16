@@ -1,0 +1,10 @@
+coordinates:
+  name: jackson-datatype-joda
+  namespace: com.fasterxml.jackson.datatype
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.20.1':
+    licensed:
+      declared: Apache-2.0
+

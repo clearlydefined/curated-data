@@ -1,0 +1,9 @@
+coordinates:
+  name: jmock
+  namespace: jmock
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.0:
+    licensed:
+      declared: BSD-3-Clause

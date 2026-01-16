@@ -1,0 +1,8 @@
+coordinates:
+  name: msx-platform-services
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.15:
+    licensed:
+      declared: NONE
