@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '1.1':
+    licensed:
+      declared: CDDL-1.0
   1.5.10:
     licensed:
       declared: BSD-3-Clause
