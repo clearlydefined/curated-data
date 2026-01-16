@@ -1,0 +1,9 @@
+coordinates:
+  name: dataflow-shaded
+  namespace: org.checkerframework
+  provider: mavencentral
+  type: maven
+revisions:
+  3.11.0:
+    licensed:
+      declared: GPL-2.0-only WITH LicenseRef-scancode-oracle-openjdk-exception-2.0

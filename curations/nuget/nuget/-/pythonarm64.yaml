@@ -15,3 +15,6 @@ revisions:
   3.11.4:
     licensed:
       declared: OTHER
+  3.11.9:
+    licensed:
+      declared: OTHER

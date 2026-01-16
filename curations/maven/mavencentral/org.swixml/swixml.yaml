@@ -1,0 +1,9 @@
+coordinates:
+  name: swixml
+  namespace: org.swixml
+  provider: mavencentral
+  type: maven
+revisions:
+  1.5.144:
+    licensed:
+      declared: OTHER

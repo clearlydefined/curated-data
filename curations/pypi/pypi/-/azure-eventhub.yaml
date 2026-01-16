@@ -1,0 +1,8 @@
+coordinates:
+  name: azure-eventhub
+  provider: pypi
+  type: pypi
+revisions:
+  5.15.1:
+    licensed:
+      declared: MIT

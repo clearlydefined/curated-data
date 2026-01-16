@@ -1,0 +1,8 @@
+coordinates:
+  name: react-scripts
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-facebook-patent-rights-2

@@ -1,0 +1,9 @@
+coordinates:
+  name: jaxp-ri
+  namespace: com.sun.xml.parsers
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.5:
+    licensed:
+      declared: EPL-2.0 OR GPL-2.0-only WITH LicenseRef-scancode-oracle-openjdk-exception-2.0

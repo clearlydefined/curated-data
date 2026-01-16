@@ -1,0 +1,9 @@
+coordinates:
+  name: slf4j-api
+  namespace: org.slf4j
+  provider: mavencentral
+  type: maven
+revisions:
+  1.3.1:
+    licensed:
+      declared: MIT

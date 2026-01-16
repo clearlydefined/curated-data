@@ -151,6 +151,9 @@ revisions:
   1.3.2-beta.1:
     licensed:
       declared: OTHER
+  1.34.1:
+    licensed:
+      declared: OTHER
   1.38.1:
     licensed:
       declared: OTHER
