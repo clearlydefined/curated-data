@@ -5,13 +5,13 @@ coordinates:
 revisions:
   3.10.11:
     licensed:
-      declared: PSF-2.0
+      declared: OTHER
   3.11.0-a2:
     licensed:
-      declared: Python-2.0.1
+      declared: OTHER
   3.11.3:
     licensed:
-      declared: Python-2.0.1
+      declared: OTHER
   3.11.4:
     licensed:
-      declared: Python-2.0.1
+      declared: OTHER
