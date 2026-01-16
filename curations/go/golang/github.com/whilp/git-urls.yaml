@@ -1,0 +1,9 @@
+coordinates:
+  name: git-urls
+  namespace: github.com%2Fwhilp
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20191001220047-6db9661140c0:
+    licensed:
+      declared: MIT

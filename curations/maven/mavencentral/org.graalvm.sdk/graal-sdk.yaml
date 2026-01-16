@@ -61,6 +61,9 @@ revisions:
   19.3.1:
     licensed:
       declared: UPL-1.0
+  19.3.6:
+    licensed:
+      declared: UPL-1.0
   20.0.0:
     licensed:
       declared: UPL-1.0
@@ -85,6 +88,9 @@ revisions:
   21.3.1:
     licensed:
       declared: UPL-1.0
+  21.3.2:
+    licensed:
+      declared: UPL-1.0
   22.0.0.2:
     licensed:
       declared: UPL-1.0
@@ -98,5 +104,11 @@ revisions:
     licensed:
       declared: UPL-1.0
   23.0.5:
+    licensed:
+      declared: UPL-1.0
+  24.1.1:
+    licensed:
+      declared: UPL-1.0
+  24.2.1:
     licensed:
       declared: UPL-1.0

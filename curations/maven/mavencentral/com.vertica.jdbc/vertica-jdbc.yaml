@@ -1,0 +1,9 @@
+coordinates:
+  name: vertica-jdbc
+  namespace: com.vertica.jdbc
+  provider: mavencentral
+  type: maven
+revisions:
+  10.0.1-0:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: jcharts
+  namespace: jcharts
+  provider: mavencentral
+  type: maven
+revisions:
+  0.7.5:
+    licensed:
+      declared: Apache-1.1

@@ -1,0 +1,9 @@
+coordinates:
+  name: imageio-metadata
+  namespace: com.twelvemonkeys.imageio
+  provider: mavencentral
+  type: maven
+revisions:
+  3.7.1:
+    licensed:
+      declared: BSD-3-Clause

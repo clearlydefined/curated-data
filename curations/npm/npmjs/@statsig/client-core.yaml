@@ -1,0 +1,9 @@
+coordinates:
+  name: client-core
+  namespace: '@statsig'
+  provider: npmjs
+  type: npm
+revisions:
+  3.11.0:
+    licensed:
+      declared: ISC

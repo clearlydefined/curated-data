@@ -6,6 +6,9 @@ revisions:
   3.2.0.2721:
     licensed:
       declared: GPL-3.0-only
+  4.12.0.5764:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
   4.4.0.4061:
     licensed:
       declared: GPL-3.0-only OR OTHER

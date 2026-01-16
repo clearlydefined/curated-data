@@ -1,0 +1,12 @@
+coordinates:
+  name: slick_2.12
+  namespace: com.typesafe.slick
+  provider: mavencentral
+  type: maven
+revisions:
+  3.3.0:
+    licensed:
+      declared: BSD-2-Clause
+  3.3.2:
+    licensed:
+      declared: BSD-2-Clause

@@ -1,0 +1,9 @@
+coordinates:
+  name: markdown4j
+  namespace: org.commonjava.googlecode.markdown4j
+  provider: mavencentral
+  type: maven
+revisions:
+  2.2-cj-1.0:
+    licensed:
+      declared: Apache-2.0

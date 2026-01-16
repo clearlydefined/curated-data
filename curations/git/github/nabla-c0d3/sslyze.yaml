@@ -1,0 +1,9 @@
+coordinates:
+  name: sslyze
+  namespace: nabla-c0d3
+  provider: github
+  type: git
+revisions:
+  e8a60f6371921ffb1387ce4cf3b03c0cbb82d2bd:
+    licensed:
+      declared: AGPL-3.0-only

@@ -1,0 +1,9 @@
+coordinates:
+  name: go-rendezvous
+  namespace: github.com%2Fstuartnelson3
+  provider: golang
+  type: go
+revisions:
+  v0.2.0:
+    licensed:
+      declared: NONE

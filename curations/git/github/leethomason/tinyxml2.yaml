@@ -1,0 +1,9 @@
+coordinates:
+  name: tinyxml2
+  namespace: leethomason
+  provider: github
+  type: git
+revisions:
+  c1424ee4e1c1ed8129d9147ccc920ab92dd9ef86:
+    licensed:
+      declared: Zlib

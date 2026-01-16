@@ -1,0 +1,9 @@
+coordinates:
+  name: mobilessi
+  namespace: vitastark
+  provider: github
+  type: git
+revisions:
+  c810b376c4968e537394b92fe2ae7f2e2fcbd111:
+    licensed:
+      declared: LGPL-3.0-or-later
