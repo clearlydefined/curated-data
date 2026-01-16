@@ -15,7 +15,7 @@ revisions:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
   17.0.2:
     licensed:
-      declared: GPL-2.0 WITH Classpath-exception-2.0
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
   18.0.1:
     licensed:
       declared: GPL-2.0-only WITH Classpath-exception-2.0
