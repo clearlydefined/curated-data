@@ -1,0 +1,9 @@
+coordinates:
+  name: oss-parent
+  namespace: org.sonatype.oss
+  provider: mavencentral
+  type: maven
+revisions:
+  '7':
+    licensed:
+      declared: Apache-2.0
