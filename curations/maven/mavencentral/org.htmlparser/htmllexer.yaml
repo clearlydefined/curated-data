@@ -1,0 +1,9 @@
+coordinates:
+  name: htmllexer
+  namespace: org.htmlparser
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.1':
+    licensed:
+      declared: CPL-1.0
