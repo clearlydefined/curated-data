@@ -1,0 +1,9 @@
+coordinates:
+  name: rake
+  namespace: ruby
+  provider: github
+  type: git
+revisions:
+  f0001c3eeada8220f2976170876c75d21ed0626f:
+    licensed:
+      declared: MIT
