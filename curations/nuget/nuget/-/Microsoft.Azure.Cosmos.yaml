@@ -78,6 +78,15 @@ revisions:
   3.54.1:
     licensed:
       declared: MIT
+  3.55.0:
+    files:
+      - attributions:
+          - Copyright (c) 2012-2017 The ANTLR Project
+          - 'Copyright Mathias Bynens <https://mathiasbynens.be/>'
+        license: MIT
+        path: ThirdPartyNotice.txt
+    licensed:
+      declared: MIT
   3.55.0-preview.1:
     licensed:
       declared: MIT
