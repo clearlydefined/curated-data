@@ -9,4 +9,4 @@ revisions:
       declared: LicenseRef-scancode-ogc
   3.0.2:
     licensed:
-      declared: Apache-2.0
+      declared: LicenseRef-scancode-ogc
