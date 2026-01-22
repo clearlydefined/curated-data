@@ -1,0 +1,9 @@
+coordinates:
+  name: jmock-junit5
+  namespace: org.jmock
+  provider: mavencentral
+  type: maven
+revisions:
+  2.13.1:
+    licensed:
+      declared: BSD-3-Clause

@@ -10,6 +10,9 @@ revisions:
   7.2.2:
     licensed:
       declared: GPL-2.0-or-later
+  7.4.2:
+    licensed:
+      declared: GPL-2.0-or-later
   7.6.1:
     licensed:
       declared: GPL-2.0-or-later

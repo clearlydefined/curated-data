@@ -1,0 +1,9 @@
+coordinates:
+  name: sharp-wasm32
+  namespace: '@img'
+  provider: npmjs
+  type: npm
+revisions:
+  0.34.5:
+    licensed:
+      declared: Apache-2.0

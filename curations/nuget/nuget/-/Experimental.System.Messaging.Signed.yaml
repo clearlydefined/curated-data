@@ -1,0 +1,8 @@
+coordinates:
+  name: Experimental.System.Messaging.Signed
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: LicenseRef-scancode-ms-rsl

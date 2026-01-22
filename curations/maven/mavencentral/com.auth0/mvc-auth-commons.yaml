@@ -1,0 +1,9 @@
+coordinates:
+  name: mvc-auth-commons
+  namespace: com.auth0
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT

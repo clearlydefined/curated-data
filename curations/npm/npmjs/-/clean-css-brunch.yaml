@@ -1,0 +1,8 @@
+coordinates:
+  name: clean-css-brunch
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.0:
+    licensed:
+      declared: MIT

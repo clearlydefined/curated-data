@@ -3,6 +3,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  0.3.3:
+    licensed:
+      declared: AFL-2.1 OR BSD-3-Clause
   0.3.6:
     licensed:
       declared: AFL-2.1 OR BSD-3-Clause

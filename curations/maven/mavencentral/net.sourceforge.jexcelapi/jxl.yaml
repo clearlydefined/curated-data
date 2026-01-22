@@ -1,0 +1,9 @@
+coordinates:
+  name: jxl
+  namespace: net.sourceforge.jexcelapi
+  provider: mavencentral
+  type: maven
+revisions:
+  2.6.10:
+    licensed:
+      declared: LGPL-2.1-or-later

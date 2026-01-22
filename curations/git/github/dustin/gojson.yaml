@@ -1,0 +1,9 @@
+coordinates:
+  name: gojson
+  namespace: dustin
+  provider: github
+  type: git
+revisions:
+  af16e0e771e2ed110f2785564ae33931de8829e4:
+    licensed:
+      declared: BSD-3-Clause

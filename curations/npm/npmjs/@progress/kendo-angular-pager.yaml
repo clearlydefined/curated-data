@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-pager
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  18.5.2:
+    licensed:
+      declared: OTHER

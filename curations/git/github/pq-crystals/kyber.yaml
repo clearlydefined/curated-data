@@ -1,0 +1,9 @@
+coordinates:
+  name: kyber
+  namespace: pq-crystals
+  provider: github
+  type: git
+revisions:
+  844057468e69527bd15b17fbe03f4b61f9a22065:
+    licensed:
+      declared: CC0-1.0

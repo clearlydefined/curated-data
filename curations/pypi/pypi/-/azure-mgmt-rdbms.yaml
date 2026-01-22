@@ -1,0 +1,8 @@
+coordinates:
+  name: azure-mgmt-rdbms
+  provider: pypi
+  type: pypi
+revisions:
+  10.1.1:
+    licensed:
+      declared: MIT

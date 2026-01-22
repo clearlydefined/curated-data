@@ -1,0 +1,9 @@
+coordinates:
+  name: dnsjava
+  namespace: dnsjava
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.8:
+    licensed:
+      declared: BSD-3-Clause
