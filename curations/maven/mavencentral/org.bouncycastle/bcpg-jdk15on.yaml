@@ -1,0 +1,9 @@
+coordinates:
+  name: bcpg-jdk15on
+  namespace: org.bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.51':
+    licensed:
+      declared: MIT
