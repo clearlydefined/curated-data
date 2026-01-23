@@ -1,0 +1,12 @@
+coordinates:
+  name: play-services-ads-lite
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  23.5.0:
+    licensed:
+      declared: LicenseRef-scancode-android-sdk-2021
+  24.0.0:
+    licensed:
+      declared: LicenseRef-scancode-android-sdk-2021
