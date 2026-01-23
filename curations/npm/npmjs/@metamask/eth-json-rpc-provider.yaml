@@ -1,0 +1,9 @@
+coordinates:
+  name: eth-json-rpc-provider
+  namespace: '@metamask'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.1:
+    licensed:
+      declared: ISC
