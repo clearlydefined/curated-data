@@ -1,15 +1,9 @@
 coordinates:
-  name: bcpkix-lts8on
+  name: bcmail-jdk14
   namespace: org.bouncycastle
   provider: mavencentral
   type: maven
 revisions:
-  2.73.3:
-    licensed:
-      declared: MIT
-  2.73.6:
-    licensed:
-      declared: MIT
-  2.73.8:
+  '1.74':
     licensed:
       declared: MIT
