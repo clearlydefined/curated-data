@@ -1,0 +1,12 @@
+coordinates:
+  name: play-services-threadnetwork
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.2.1:
+    licensed:
+      declared: LicenseRef-scancode-android-sdk-2021
+  16.3.0:
+    licensed:
+      declared: LicenseRef-scancode-android-sdk-2021
