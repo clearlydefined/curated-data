@@ -1,0 +1,8 @@
+coordinates:
+  name: mandrill-api
+  provider: rubygems
+  type: gem
+revisions:
+  1.0.53:
+    licensed:
+      declared: Apache-2.0
