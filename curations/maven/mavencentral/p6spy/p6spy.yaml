@@ -1,0 +1,9 @@
+coordinates:
+  name: p6spy
+  namespace: p6spy
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.3':
+    licensed:
+      declared: OTHER
