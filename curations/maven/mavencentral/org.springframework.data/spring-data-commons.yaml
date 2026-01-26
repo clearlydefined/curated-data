@@ -73,6 +73,12 @@ revisions:
   3.0.0:
     licensed:
       declared: Apache-2.0
+  3.0.1:
+    licensed:
+      declared: Apache-2.0
+  3.0.10:
+    licensed:
+      declared: Apache-2.0
   3.0.12:
     licensed:
       declared: Apache-2.0
