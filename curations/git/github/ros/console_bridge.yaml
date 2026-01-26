@@ -1,0 +1,9 @@
+coordinates:
+  name: console_bridge
+  namespace: ros
+  provider: github
+  type: git
+revisions:
+  c227ae01ce16d73facb477644d9c25a5ddb166fa:
+    licensed:
+      declared: BSD-3-Clause
