@@ -1,0 +1,9 @@
+coordinates:
+  name: sitemesh
+  namespace: opensymphony
+  provider: mavencentral
+  type: maven
+revisions:
+  2.5.0:
+    licensed:
+      declared: Apache-1.1
