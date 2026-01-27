@@ -1,0 +1,9 @@
+coordinates:
+  name: parsers_2.12
+  namespace: org.scalameta
+  provider: mavencentral
+  type: maven
+revisions:
+  4.8.14:
+    licensed:
+      declared: BSD-3-Clause
