@@ -1,0 +1,9 @@
+coordinates:
+  name: apicurio-registry-protobuf-schema-utilities
+  namespace: io.apicurio
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.0.M2:
+    licensed:
+      declared: Apache-2.0
