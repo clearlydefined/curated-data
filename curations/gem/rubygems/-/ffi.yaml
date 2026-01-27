@@ -1,0 +1,17 @@
+coordinates:
+  name: ffi
+  provider: rubygems
+  type: gem
+revisions:
+  1.10.0:
+    licensed:
+      declared: BSD-3-Clause
+  1.9.18:
+    licensed:
+      declared: BSD-3-Clause
+  1.9.25:
+    licensed:
+      declared: BSD-3-Clause
+  1.9.3:
+    licensed:
+      declared: BSD-3-Clause
