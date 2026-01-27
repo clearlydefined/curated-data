@@ -6,4 +6,4 @@ coordinates:
 revisions:
   2.2.14:
     licensed:
-      declared: GPL-2.0 WITH Classpath-exception-2.0
+      declared: GPL-2.0-only WITH LicenseRef-scancode-oracle-openjdk-exception-2.0
