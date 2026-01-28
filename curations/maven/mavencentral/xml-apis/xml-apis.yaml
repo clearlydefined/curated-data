@@ -1,0 +1,9 @@
+coordinates:
+  name: xml-apis
+  namespace: xml-apis
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.2:
+    licensed:
+      declared: Apache-2.0
