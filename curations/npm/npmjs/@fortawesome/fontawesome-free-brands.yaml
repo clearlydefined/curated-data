@@ -1,0 +1,9 @@
+coordinates:
+  name: fontawesome-free-brands
+  namespace: '@fortawesome'
+  provider: npmjs
+  type: npm
+revisions:
+  5.0.13:
+    licensed:
+      declared: CC-BY-4.0
