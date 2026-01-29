@@ -1,0 +1,9 @@
+coordinates:
+  name: cert-manager-util
+  namespace: kmodules.xyz
+  provider: golang
+  type: go
+revisions:
+  v0.29.0:
+    licensed:
+      declared: Apache-2.0
