@@ -6,3 +6,6 @@ revisions:
   120.4.2:
     licensed:
       declared: MIT
+  120.4.2.1:
+    licensed:
+      declared: MIT
