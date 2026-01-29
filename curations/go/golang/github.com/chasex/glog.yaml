@@ -1,0 +1,9 @@
+coordinates:
+  name: glog
+  namespace: github.com%2Fchasex
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20160217080310-c62392af379c:
+    licensed:
+      declared: NONE

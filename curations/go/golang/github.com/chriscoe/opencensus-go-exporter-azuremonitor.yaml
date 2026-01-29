@@ -4,6 +4,18 @@ coordinates:
   provider: golang
   type: go
 revisions:
+  v0.0.0-20190711010340-edbc0f606ea3:
+    licensed:
+      declared: NONE
+  v0.0.0-20190711061722-23dcf9852277:
+    licensed:
+      declared: NONE
+  v0.0.0-20190711134204-144fed1d6221:
+    licensed:
+      declared: NONE
+  v0.0.0-20190711172825-09f39f7ce008:
+    licensed:
+      declared: NONE
   v0.0.0-20190729080708-927f6d285646:
     licensed:
       declared: NONE

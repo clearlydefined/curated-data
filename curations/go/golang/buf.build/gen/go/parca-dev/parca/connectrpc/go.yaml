@@ -1,0 +1,9 @@
+coordinates:
+  name: go
+  namespace: buf.build%2Fgen%2Fgo%2Fparca-dev%2Fparca%2Fconnectrpc
+  provider: golang
+  type: go
+revisions:
+  v1.17.0-20240902100956-02fd72488966.1:
+    licensed:
+      declared: Apache-2.0
