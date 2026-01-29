@@ -1,6 +1,6 @@
 coordinates:
   name: gofmt
-  namespace: github.com%2fgolangci
+  namespace: github.com%2Fgolangci
   provider: golang
   type: go
 revisions:
@@ -20,5 +20,8 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   v0.0.0-20250106114630-d62b90e6713d:
+    licensed:
+      declared: BSD-3-Clause
+  v0.0.0-20250413222143-f2e10e00591b:
     licensed:
       declared: BSD-3-Clause
