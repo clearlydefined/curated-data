@@ -1,0 +1,9 @@
+coordinates:
+  name: template
+  namespace: github.com%2Fgo-task
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20240602015157-960e6f576656:
+    licensed:
+      declared: BSD-3-Clause
