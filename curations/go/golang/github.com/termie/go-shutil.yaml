@@ -1,0 +1,9 @@
+coordinates:
+  name: go-shutil
+  namespace: github.com%2Ftermie
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20140729215957-bcacb06fecae:
+    licensed:
+      declared: MIT OR Python-2.0.1
