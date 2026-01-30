@@ -6,7 +6,7 @@ coordinates:
 revisions:
   5.1.49:
     licensed:
-      declared: GPL-2.0-only WITH LicenseRef-scancode-oracle-mysql-foss-exception2.0
+      declared: GPL-2.0-only WITH LicenseRef-scancode-oracle-mysql-foss-exception-2.0
   8.0.11:
     licensed:
       declared: OTHER
