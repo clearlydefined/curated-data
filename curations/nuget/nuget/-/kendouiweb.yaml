@@ -1,0 +1,8 @@
+coordinates:
+  name: kendouiweb
+  provider: nuget
+  type: nuget
+revisions:
+  2013.3.1119:
+    licensed:
+      declared: GPL-3.0-only OR OTHER
