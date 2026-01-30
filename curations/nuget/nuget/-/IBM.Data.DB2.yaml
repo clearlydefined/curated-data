@@ -1,0 +1,8 @@
+coordinates:
+  name: IBM.Data.DB2
+  provider: nuget
+  type: nuget
+revisions:
+  10.0.5.5:
+    licensed:
+      declared: NONE
