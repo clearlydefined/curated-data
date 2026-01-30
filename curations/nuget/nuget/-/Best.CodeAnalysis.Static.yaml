@@ -1,0 +1,8 @@
+coordinates:
+  name: Best.CodeAnalysis.Static
+  provider: nuget
+  type: nuget
+revisions:
+  0.7.5:
+    licensed:
+      declared: NONE
