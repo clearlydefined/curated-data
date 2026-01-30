@@ -1,11 +1,8 @@
 coordinates:
-  name: Tracer.Fody
+  name: Typescript.Compiler
   provider: nuget
   type: nuget
 revisions:
-  3.2.2:
-    licensed:
-      declared: Apache-2.0
-  3.3.1:
+  2.0.0:
     licensed:
       declared: Apache-2.0
