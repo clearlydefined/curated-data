@@ -5,19 +5,19 @@ coordinates:
 revisions:
   10.0.0:
     licensed:
-      declared: OTHER
+      declared: OTHER OR OTHER
   11.1.0:
     licensed:
-      declared: OTHER
+      declared: OTHER OR OTHER
   12.0.1:
     licensed:
-      declared: OTHER
+      declared: OTHER OR OTHER
   12.2.0:
     licensed:
-      declared: OTHER
+      declared: OTHER OR OTHER
   12.4.0:
     licensed:
-      declared: OTHER
+      declared: OTHER OR OTHER
   16.2.0:
     licensed:
       declared: OTHER OR OTHER
