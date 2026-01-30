@@ -1,11 +1,8 @@
 coordinates:
-  name: cheerio
+  name: framework
   provider: npmjs
   type: npm
 revisions:
-  0.10.3:
-    licensed:
-      declared: MIT
-  0.12.4:
+  0.0.0:
     licensed:
       declared: MIT

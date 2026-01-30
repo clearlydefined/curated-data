@@ -1,11 +1,8 @@
 coordinates:
-  name: cheerio
+  name: dom-testing-library
   provider: npmjs
   type: npm
 revisions:
-  0.10.3:
-    licensed:
-      declared: MIT
-  0.12.4:
+  5.0.0:
     licensed:
       declared: MIT
