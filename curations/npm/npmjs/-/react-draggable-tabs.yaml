@@ -1,0 +1,8 @@
+coordinates:
+  name: react-draggable-tabs
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.8:
+    licensed:
+      declared: MIT
