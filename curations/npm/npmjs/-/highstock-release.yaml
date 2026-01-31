@@ -1,11 +1,8 @@
 coordinates:
-  name: highcharts-release
+  name: highstock-release
   provider: npmjs
   type: npm
 revisions:
-  4.1.8:
-    licensed:
-      declared: CC-BY-NC-3.0 OR OTHER
-  4.1.9:
+  2.1.10:
     licensed:
       declared: CC-BY-NC-3.0 OR OTHER
