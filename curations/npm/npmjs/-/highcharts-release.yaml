@@ -6,3 +6,6 @@ revisions:
   4.1.8:
     licensed:
       declared: OTHER
+  4.1.9:
+    licensed:
+      declared: CC-BY-NC-3.0 OR OTHER
