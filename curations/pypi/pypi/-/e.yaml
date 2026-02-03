@@ -1,0 +1,8 @@
+coordinates:
+  name: e
+  provider: pypi
+  type: pypi
+revisions:
+  1.4.5:
+    licensed:
+      declared: LicenseRef-scancode-public-domain
