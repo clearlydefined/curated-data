@@ -1,0 +1,8 @@
+coordinates:
+  name: browser-use-sdk
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.12:
+    licensed:
+      declared: NONE
