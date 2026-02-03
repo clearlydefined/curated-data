@@ -33,6 +33,9 @@ revisions:
   11.0.0:
     licensed:
       declared: NONE
+  11.11.0:
+    licensed:
+      declared: NONE
   6.0.2:
     licensed:
       declared: NONE
