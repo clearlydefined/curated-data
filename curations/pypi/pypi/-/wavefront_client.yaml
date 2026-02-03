@@ -1,0 +1,8 @@
+coordinates:
+  name: wavefront_client
+  provider: pypi
+  type: pypi
+revisions:
+  '0.0':
+    licensed:
+      declared: NONE
