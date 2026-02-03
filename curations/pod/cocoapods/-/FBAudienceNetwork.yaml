@@ -30,6 +30,9 @@ revisions:
   6.2.1:
     licensed:
       declared: OTHER
+  6.20.1:
+    licensed:
+      declared: LicenseRef-scancode-facebook-software-license
   6.5.0:
     licensed:
       declared: OTHER
