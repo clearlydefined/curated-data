@@ -1,0 +1,8 @@
+coordinates:
+  name: guestfs
+  provider: cratesio
+  type: crate
+revisions:
+  0.1.0-compat1.40.0:
+    licensed:
+      declared: GPL-2.0-or-later
