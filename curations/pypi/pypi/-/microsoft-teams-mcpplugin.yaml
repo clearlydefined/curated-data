@@ -1,0 +1,8 @@
+coordinates:
+  name: microsoft-teams-mcpplugin
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.0a8:
+    licensed:
+      declared: MIT
