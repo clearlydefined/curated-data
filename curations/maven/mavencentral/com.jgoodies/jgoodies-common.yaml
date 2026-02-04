@@ -1,0 +1,9 @@
+coordinates:
+  name: jgoodies-common
+  namespace: com.jgoodies
+  provider: mavencentral
+  type: maven
+revisions:
+  1.8.1:
+    licensed:
+      declared: BSD-3-Clause
