@@ -1,0 +1,9 @@
+coordinates:
+  name: oscache
+  namespace: opensymphony
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.4':
+    licensed:
+      declared: Apache-1.1

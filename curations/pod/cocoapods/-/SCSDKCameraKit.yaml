@@ -1,0 +1,11 @@
+coordinates:
+  name: SCSDKCameraKit
+  provider: cocoapods
+  type: pod
+revisions:
+  1.25.0:
+    licensed:
+      declared: OTHER
+  1.26.1:
+    licensed:
+      declared: OTHER

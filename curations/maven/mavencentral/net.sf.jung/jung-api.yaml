@@ -1,0 +1,9 @@
+coordinates:
+  name: jung-api
+  namespace: net.sf.jung
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.1:
+    licensed:
+      declared: BSD-3-Clause

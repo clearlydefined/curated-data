@@ -1,0 +1,8 @@
+coordinates:
+  name: aiotask-context
+  provider: pypi
+  type: pypi
+revisions:
+  0.5.0:
+    licensed:
+      declared: NONE

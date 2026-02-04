@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-interceptor-api
+  namespace: org.jboss.interceptor
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.1':
+    licensed:
+      declared: LGPL-2.1-or-later

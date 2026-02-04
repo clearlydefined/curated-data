@@ -1,0 +1,9 @@
+coordinates:
+  name: proxy
+  namespace: github.com%2Fcilium
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20250526114940-b80199397e8a:
+    licensed:
+      declared: Apache-2.0

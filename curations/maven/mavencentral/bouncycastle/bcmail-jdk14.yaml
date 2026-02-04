@@ -1,0 +1,9 @@
+coordinates:
+  name: bcmail-jdk14
+  namespace: bouncycastle
+  provider: mavencentral
+  type: maven
+revisions:
+  '136':
+    licensed:
+      declared: MIT

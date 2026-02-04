@@ -1,0 +1,9 @@
+coordinates:
+  name: lttng-tools
+  namespace: lttng
+  provider: github
+  type: git
+revisions:
+  283fd0a6a8dc80a42b46babd7551aa98e436ec33:
+    licensed:
+      declared: GPL-2.0-only

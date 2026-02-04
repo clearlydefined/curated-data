@@ -1,0 +1,15 @@
+coordinates:
+  name: imageio-core
+  namespace: com.twelvemonkeys.imageio
+  provider: mavencentral
+  type: maven
+revisions:
+  3.1.1:
+    licensed:
+      declared: BSD-3-Clause
+  3.10.1:
+    licensed:
+      declared: BSD-3-Clause
+  '3.5':
+    licensed:
+      declared: BSD-3-Clause

@@ -1,0 +1,9 @@
+coordinates:
+  name: fluent-bit
+  namespace: fluent
+  provider: github
+  type: git
+revisions:
+  b3adad27582ed7db0338b699391ecc6bd3779c1f:
+    licensed:
+      declared: Apache-2.0

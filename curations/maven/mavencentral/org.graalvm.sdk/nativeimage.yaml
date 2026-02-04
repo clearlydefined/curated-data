@@ -1,0 +1,9 @@
+coordinates:
+  name: nativeimage
+  namespace: org.graalvm.sdk
+  provider: mavencentral
+  type: maven
+revisions:
+  24.2.1:
+    licensed:
+      declared: UPL-1.0

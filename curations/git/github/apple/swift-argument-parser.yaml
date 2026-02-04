@@ -1,0 +1,9 @@
+coordinates:
+  name: swift-argument-parser
+  namespace: apple
+  provider: github
+  type: git
+revisions:
+  309a47b2b1d9b5e991f36961c983ecec72275be3:
+    licensed:
+      declared: Apache-2.0 WITH Swift-exception

@@ -1,0 +1,9 @@
+coordinates:
+  name: plistcs
+  namespace: animetrics
+  provider: github
+  type: git
+revisions:
+  0fc69e74c4e12fa9734ec830af5d615337749fa3:
+    licensed:
+      declared: MIT

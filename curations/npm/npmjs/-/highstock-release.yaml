@@ -1,0 +1,8 @@
+coordinates:
+  name: highstock-release
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.10:
+    licensed:
+      declared: CC-BY-NC-3.0 OR OTHER

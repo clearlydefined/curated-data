@@ -1,0 +1,9 @@
+coordinates:
+  name: json-unit
+  namespace: net.javacrumbs.json-unit
+  provider: mavencentral
+  type: maven
+revisions:
+  1.25.1:
+    licensed:
+      declared: Apache-2.0

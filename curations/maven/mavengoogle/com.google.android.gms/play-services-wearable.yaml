@@ -7,3 +7,6 @@ revisions:
   18.0.0:
     licensed:
       declared: OTHER
+  19.0.0:
+    licensed:
+      declared: LicenseRef-scancode-android-sdk-2021

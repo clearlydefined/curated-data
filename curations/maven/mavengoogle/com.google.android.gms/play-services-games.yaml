@@ -28,3 +28,6 @@ revisions:
   23.0.0:
     licensed:
       declared: OTHER
+  24.0.0:
+    licensed:
+      declared: LicenseRef-scancode-android-sdk-2021

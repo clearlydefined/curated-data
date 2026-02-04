@@ -1,0 +1,8 @@
+coordinates:
+  name: ClangFormat.Exe
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.0:
+    licensed:
+      declared: NCSA

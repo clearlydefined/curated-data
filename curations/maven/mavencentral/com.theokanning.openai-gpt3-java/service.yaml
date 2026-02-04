@@ -1,0 +1,9 @@
+coordinates:
+  name: service
+  namespace: com.theokanning.openai-gpt3-java
+  provider: mavencentral
+  type: maven
+revisions:
+  0.12.0:
+    licensed:
+      declared: MIT

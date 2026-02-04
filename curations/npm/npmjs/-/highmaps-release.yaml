@@ -1,0 +1,8 @@
+coordinates:
+  name: highmaps-release
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.10:
+    licensed:
+      declared: CC-BY-NC-3.0 OR OTHER

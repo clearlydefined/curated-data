@@ -4,6 +4,9 @@ coordinates:
   provider: github
   type: git
 revisions:
+  3d2dc41a01f9e49d84f0a3925fb858bed64f702d:
+    licensed:
+      declared: Apache-2.0 WITH Swift-exception
   c1805596154bb3a265fd91b8ac0c4433b4348fb0:
     licensed:
       declared: Apache-2.0 WITH Swift-exception

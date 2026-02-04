@@ -1,0 +1,11 @@
+coordinates:
+  name: gojs-angular
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.9:
+    licensed:
+      declared: LicenseRef-scancode-northwoods-sla-2024
+  2.1.2:
+    licensed:
+      declared: LicenseRef-scancode-northwoods-sla-2024

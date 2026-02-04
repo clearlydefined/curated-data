@@ -1,0 +1,8 @@
+coordinates:
+  name: Z.EntityFramework.Plus.BatchDelete.EF6
+  provider: nuget
+  type: nuget
+revisions:
+  1.7.6:
+    licensed:
+      declared: MIT OR OTHER

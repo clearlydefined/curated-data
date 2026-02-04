@@ -1,0 +1,8 @@
+coordinates:
+  name: log4r
+  provider: rubygems
+  type: gem
+revisions:
+  1.1.10:
+    licensed:
+      declared: OTHER
