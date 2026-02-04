@@ -1,0 +1,9 @@
+coordinates:
+  name: xdb
+  namespace: com.oracle.database.xml
+  provider: mavencentral
+  type: maven
+revisions:
+  21.9.0.0:
+    licensed:
+      declared: LicenseRef-scancode-oracle-free-2018
