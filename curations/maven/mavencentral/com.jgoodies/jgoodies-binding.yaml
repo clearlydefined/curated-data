@@ -1,0 +1,9 @@
+coordinates:
+  name: jgoodies-binding
+  namespace: com.jgoodies
+  provider: mavencentral
+  type: maven
+revisions:
+  2.13.0:
+    licensed:
+      declared: BSD-3-Clause
