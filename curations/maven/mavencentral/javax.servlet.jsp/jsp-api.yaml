@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '2.0':
+    licensed:
+      declared: CDDL-1.0
   '2.1':
     licensed:
       declared: CDDL-1.0 AND Apache-1.1 AND Apache-2.0
