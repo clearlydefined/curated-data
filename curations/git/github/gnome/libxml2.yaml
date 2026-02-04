@@ -7,6 +7,9 @@ revisions:
   0815302dee2b78139832c2080348086a0564836b:
     licensed:
       declared: MIT
+  41a34e1f4ffae2ce401600dbb5fe43f8fe402641:
+    licensed:
+      declared: MIT
   4c2e7c651f6c2f0d1a74f350cbda95f7df3e7017:
     licensed:
       declared: X11
