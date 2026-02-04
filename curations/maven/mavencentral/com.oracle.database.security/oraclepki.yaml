@@ -1,0 +1,9 @@
+coordinates:
+  name: oraclepki
+  namespace: com.oracle.database.security
+  provider: mavencentral
+  type: maven
+revisions:
+  21.9.0.0:
+    licensed:
+      declared: LicenseRef-scancode-oracle-free-2018

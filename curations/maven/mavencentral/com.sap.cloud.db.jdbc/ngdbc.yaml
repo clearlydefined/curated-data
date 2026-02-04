@@ -1,0 +1,9 @@
+coordinates:
+  name: ngdbc
+  namespace: com.sap.cloud.db.jdbc
+  provider: mavencentral
+  type: maven
+revisions:
+  2.4.56:
+    licensed:
+      declared: OTHER
