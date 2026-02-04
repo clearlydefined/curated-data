@@ -7,3 +7,6 @@ revisions:
   19.6.0.0:
     licensed:
       declared: OTHER
+  21.9.0.0:
+    licensed:
+      declared: LicenseRef-scancode-oracle-free-2018
