@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  '2.2':
+    licensed:
+      declared: CC-PDDC
   '3.1':
     licensed:
       declared: CC-PDDC

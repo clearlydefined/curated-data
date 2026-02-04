@@ -1,0 +1,9 @@
+coordinates:
+  name: metrics-influxdb
+  namespace: com.github.davidb
+  provider: mavencentral
+  type: maven
+revisions:
+  0.9.3:
+    licensed:
+      declared: CC0-1.0

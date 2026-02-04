@@ -1,0 +1,9 @@
+coordinates:
+  name: hutool-all
+  namespace: cn.hutool
+  provider: mavencentral
+  type: maven
+revisions:
+  5.4.5:
+    licensed:
+      declared: MulanPSL-2.0
