@@ -172,6 +172,9 @@ revisions:
   v0.0.0-20240808152545-0cdaa3abc0fa:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.0.0-20240822175202-778ce7bba035:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.0.0-20240823005443-9b4947da3948:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
