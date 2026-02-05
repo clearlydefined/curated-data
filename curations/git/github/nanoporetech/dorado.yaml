@@ -1,0 +1,9 @@
+coordinates:
+  name: dorado
+  namespace: nanoporetech
+  provider: github
+  type: git
+revisions:
+  bb8c5ee62dc76ec675900bac564844454251a8ba:
+    licensed:
+      declared: LicenseRef-scancode-nanoporetech-public-1.0
