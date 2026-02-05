@@ -1,0 +1,9 @@
+coordinates:
+  name: functionaljava
+  namespace: org.functionaljava
+  provider: mavencentral
+  type: maven
+revisions:
+  '5.0':
+    licensed:
+      declared: BSD-3-Clause
