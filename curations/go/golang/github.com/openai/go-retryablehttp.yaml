@@ -4,9 +4,12 @@ coordinates:
   provider: golang
   type: go
 revisions:
+  v0.6.6:
+    licensed:
+      declared: MPL-2.0
   v0.6.6-backoff-with-error:
     licensed:
       declared: MPL-2.0
-  v0.6.6:
+  v0.6.7-0.20230304175625-85b712821a79:
     licensed:
       declared: MPL-2.0
