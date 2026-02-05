@@ -1,0 +1,9 @@
+coordinates:
+  name: cleartk-util
+  namespace: org.cleartk
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.0:
+    licensed:
+      declared: BSD-3-Clause
