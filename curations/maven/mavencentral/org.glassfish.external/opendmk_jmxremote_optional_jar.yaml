@@ -1,0 +1,9 @@
+coordinates:
+  name: opendmk_jmxremote_optional_jar
+  namespace: org.glassfish.external
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0-b01-ea:
+    licensed:
+      declared: CDDL-1.0 OR GPL-2.0-only WITH LicenseRef-scancode-oracle-openjdk-exception-2.0
