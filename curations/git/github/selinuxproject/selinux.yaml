@@ -1,0 +1,9 @@
+coordinates:
+  name: selinux
+  namespace: selinuxproject
+  provider: github
+  type: git
+revisions:
+  7f600c40bc18d8180993edcd54daf45124736776:
+    licensed:
+      declared: libselinux-1.0
