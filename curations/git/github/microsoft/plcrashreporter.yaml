@@ -7,6 +7,9 @@ revisions:
   185468951ea1fd1f104930c0c56f12034b4e4644:
     licensed:
       declared: MIT
+  1aed8f7dc79ce8e674c61e430ef51ca3db18cea9:
+    licensed:
+      declared: Apache-2.0
   1edf9be2c83172e7f9e3c72ffe42f07c41106f02:
     licensed:
       declared: MIT
