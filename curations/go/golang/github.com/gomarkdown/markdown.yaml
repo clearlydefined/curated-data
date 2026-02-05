@@ -1,0 +1,9 @@
+coordinates:
+  name: markdown
+  namespace: github.com%2Fgomarkdown
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20241105142532-d03b89096d81:
+    licensed:
+      declared: BSD-2-Clause

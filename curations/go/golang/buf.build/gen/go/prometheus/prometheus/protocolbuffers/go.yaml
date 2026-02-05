@@ -1,0 +1,9 @@
+coordinates:
+  name: go
+  namespace: buf.build%2Fgen%2Fgo%2Fprometheus%2Fprometheus%2Fprotocolbuffers
+  provider: golang
+  type: go
+revisions:
+  v1.36.1-20240802094132-5b212ab78fb7.1:
+    licensed:
+      declared: NONE
