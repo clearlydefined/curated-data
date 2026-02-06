@@ -1,0 +1,9 @@
+coordinates:
+  name: pull-parser
+  namespace: pull-parser
+  provider: mavencentral
+  type: maven
+revisions:
+  2.1.10:
+    licensed:
+      declared: xpp
