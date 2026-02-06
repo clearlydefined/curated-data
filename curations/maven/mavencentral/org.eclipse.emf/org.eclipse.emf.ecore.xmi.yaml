@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.emf.ecore.xmi
+  namespace: org.eclipse.emf
+  provider: mavencentral
+  type: maven
+revisions:
+  2.15.0:
+    licensed:
+      declared: EPL-1.0
