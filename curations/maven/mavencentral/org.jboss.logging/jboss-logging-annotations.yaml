@@ -1,0 +1,9 @@
+coordinates:
+  name: jboss-logging-annotations
+  namespace: org.jboss.logging
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.0.beta1:
+    licensed:
+      declared: LGPL-2.1-or-later

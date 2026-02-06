@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.core.jobs
+  namespace: org.eclipse.core
+  provider: mavencentral
+  type: maven
+revisions:
+  3.5.100:
+    licensed:
+      declared: EPL-1.0
