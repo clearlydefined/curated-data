@@ -1,0 +1,9 @@
+coordinates:
+  name: portable-scala-reflect_2.12
+  namespace: org.portable-scala
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0:
+    licensed:
+      declared: BSD-3-Clause
