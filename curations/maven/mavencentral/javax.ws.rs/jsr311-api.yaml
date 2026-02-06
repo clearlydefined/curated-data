@@ -7,6 +7,9 @@ revisions:
   '0.11':
     licensed:
       declared: CDDL-1.0
+  '1.0':
+    licensed:
+      declared: CDDL-1.0
   1.1.1:
     licensed:
       declared: CDDL-1.0
