@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.equinox.common
+  namespace: org.eclipse.equinox
+  provider: mavencentral
+  type: maven
+revisions:
+  3.6.0:
+    licensed:
+      declared: EPL-1.0
