@@ -1,0 +1,9 @@
+coordinates:
+  name: quickfixj-core
+  namespace: org.quickfixj
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.1:
+    licensed:
+      declared: LicenseRef-scancode-quickfix-1.0
