@@ -7,3 +7,19 @@ revisions:
   '1.51':
     licensed:
       declared: MIT
+  '1.69':
+    files:
+      - license: Apache-2.0
+        path: org/bouncycastle/apache/bzip2/BZip2Constants.class
+      - license: Apache-2.0
+        path: org/bouncycastle/apache/bzip2/CBZip2InputStream.class
+      - license: Apache-2.0
+        path: org/bouncycastle/apache/bzip2/CBZip2OutputStream$1.class
+      - license: Apache-2.0
+        path: org/bouncycastle/apache/bzip2/CBZip2OutputStream$StackElem.class
+      - license: Apache-2.0
+        path: org/bouncycastle/apache/bzip2/CBZip2OutputStream.class
+      - license: Apache-2.0
+        path: org/bouncycastle/apache/bzip2/CRC.class
+    licensed:
+      declared: MIT
