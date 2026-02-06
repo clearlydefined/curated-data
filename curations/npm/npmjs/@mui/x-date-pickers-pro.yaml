@@ -1,0 +1,9 @@
+coordinates:
+  name: x-date-pickers-pro
+  namespace: '@mui'
+  provider: npmjs
+  type: npm
+revisions:
+  6.4.0:
+    licensed:
+      declared: OTHER
