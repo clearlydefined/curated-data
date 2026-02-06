@@ -1,0 +1,9 @@
+coordinates:
+  name: aerospike-query-engine
+  namespace: com.aerospike
+  provider: mavencentral
+  type: maven
+revisions:
+  4.4.10:
+    licensed:
+      declared: Apache-2.0
