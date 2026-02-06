@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  6.5.18:
+    licensed:
+      declared: OTHER
   6.5.19:
     licensed:
       declared: OTHER
