@@ -1,0 +1,9 @@
+coordinates:
+  name: trang
+  namespace: org.relaxng
+  provider: mavencentral
+  type: maven
+revisions:
+  '20220510':
+    licensed:
+      declared: BSD-3-Clause
