@@ -1,0 +1,9 @@
+coordinates:
+  name: hazelcast-azure
+  namespace: com.hazelcast
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.0':
+    licensed:
+      declared: LicenseRef-scancode-hazelcast-community-1.0
