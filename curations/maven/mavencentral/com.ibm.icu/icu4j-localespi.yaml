@@ -7,3 +7,6 @@ revisions:
   '60.2':
     licensed:
       declared: OTHER
+  '75.1':
+    licensed:
+      declared: Unicode-3.0
