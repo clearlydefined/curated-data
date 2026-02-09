@@ -1,0 +1,9 @@
+coordinates:
+  name: terajdbc
+  namespace: com.teradata.jdbc
+  provider: mavencentral
+  type: maven
+revisions:
+  20.00.00.39:
+    licensed:
+      declared: OTHER
