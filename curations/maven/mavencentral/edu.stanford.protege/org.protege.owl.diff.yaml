@@ -1,0 +1,9 @@
+coordinates:
+  name: org.protege.owl.diff
+  namespace: edu.stanford.protege
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.1:
+    licensed:
+      declared: BSD-2-Clause
