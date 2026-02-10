@@ -1,0 +1,9 @@
+coordinates:
+  name: keplerscript-turbomodule-api
+  namespace: '@amazon-devices'
+  provider: npmjs
+  type: npm
+revisions:
+  1.2.5:
+    licensed:
+      declared: LicenseRef-scancode-pml-2020
