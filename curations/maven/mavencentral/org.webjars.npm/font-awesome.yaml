@@ -1,0 +1,9 @@
+coordinates:
+  name: font-awesome
+  namespace: org.webjars.npm
+  provider: mavencentral
+  type: maven
+revisions:
+  4.7.0:
+    licensed:
+      declared: OFL-1.1
