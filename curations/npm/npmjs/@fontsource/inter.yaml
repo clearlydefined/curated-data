@@ -1,0 +1,9 @@
+coordinates:
+  name: inter
+  namespace: '@fontsource'
+  provider: npmjs
+  type: npm
+revisions:
+  5.1.1:
+    licensed:
+      declared: OFL-1.1
