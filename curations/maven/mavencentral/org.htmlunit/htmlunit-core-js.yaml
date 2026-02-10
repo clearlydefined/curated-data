@@ -1,0 +1,9 @@
+coordinates:
+  name: htmlunit-core-js
+  namespace: org.htmlunit
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.0:
+    licensed:
+      declared: MPL-2.0
