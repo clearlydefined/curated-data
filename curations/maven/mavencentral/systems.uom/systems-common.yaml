@@ -1,0 +1,9 @@
+coordinates:
+  name: systems-common
+  namespace: systems.uom
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.1:
+    licensed:
+      declared: BSD-3-Clause

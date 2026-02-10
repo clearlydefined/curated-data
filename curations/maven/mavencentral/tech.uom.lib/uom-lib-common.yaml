@@ -1,0 +1,9 @@
+coordinates:
+  name: uom-lib-common
+  namespace: tech.uom.lib
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.0':
+    licensed:
+      declared: BSD-3-Clause
