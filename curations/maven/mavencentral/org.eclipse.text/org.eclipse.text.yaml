@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.text
+  namespace: org.eclipse.text
+  provider: mavencentral
+  type: maven
+revisions:
+  3.5.101:
+    licensed:
+      declared: EPL-1.0
