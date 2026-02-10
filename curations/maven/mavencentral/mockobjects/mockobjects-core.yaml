@@ -1,0 +1,9 @@
+coordinates:
+  name: mockobjects-core
+  namespace: mockobjects
+  provider: mavencentral
+  type: maven
+revisions:
+  '0.09':
+    licensed:
+      declared: NONE
