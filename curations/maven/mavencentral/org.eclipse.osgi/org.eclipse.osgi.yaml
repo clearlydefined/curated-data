@@ -1,0 +1,9 @@
+coordinates:
+  name: org.eclipse.osgi
+  namespace: org.eclipse.osgi
+  provider: mavencentral
+  type: maven
+revisions:
+  3.7.1:
+    licensed:
+      declared: EPL-1.0
