@@ -1,0 +1,9 @@
+coordinates:
+  name: mockobjects-jdk1.4-j2ee1.3
+  namespace: mockobjects
+  provider: mavencentral
+  type: maven
+revisions:
+  '0.09':
+    licensed:
+      declared: NONE
