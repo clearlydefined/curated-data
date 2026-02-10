@@ -1,0 +1,9 @@
+coordinates:
+  name: react-native-kepler
+  namespace: '@amazon-devices'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.1758683737:
+    licensed:
+      declared: LicenseRef-scancode-pml-2020
