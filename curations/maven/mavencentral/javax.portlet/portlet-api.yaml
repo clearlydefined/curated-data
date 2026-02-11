@@ -1,0 +1,9 @@
+coordinates:
+  name: portlet-api
+  namespace: javax.portlet
+  provider: mavencentral
+  type: maven
+revisions:
+  '1.0':
+    licensed:
+      declared: Apache-2.0

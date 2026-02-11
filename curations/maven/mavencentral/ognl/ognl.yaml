@@ -1,0 +1,9 @@
+coordinates:
+  name: ognl
+  namespace: ognl
+  provider: mavencentral
+  type: maven
+revisions:
+  '3.0':
+    licensed:
+      declared: Apache-1.1

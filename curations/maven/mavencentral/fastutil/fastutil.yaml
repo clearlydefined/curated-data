@@ -1,0 +1,9 @@
+coordinates:
+  name: fastutil
+  namespace: fastutil
+  provider: mavencentral
+  type: maven
+revisions:
+  5.0.9:
+    licensed:
+      declared: LGPL-2.1-or-later
