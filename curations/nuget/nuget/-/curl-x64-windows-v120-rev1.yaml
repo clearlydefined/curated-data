@@ -1,0 +1,8 @@
+coordinates:
+  name: curl-x64-windows-v120-rev1
+  provider: nuget
+  type: nuget
+revisions:
+  7.61.1:
+    licensed:
+      declared: MIT
