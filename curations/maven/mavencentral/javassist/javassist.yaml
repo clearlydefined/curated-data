@@ -7,3 +7,6 @@ revisions:
   3.11.0.GA:
     licensed:
       declared: MPL-1.1 OR LGPL-2.1-or-later
+  3.4.GA:
+    licensed:
+      declared: LGPL-2.1-or-later
