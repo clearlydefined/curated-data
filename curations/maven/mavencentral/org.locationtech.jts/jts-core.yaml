@@ -13,6 +13,9 @@ revisions:
   1.17.0:
     licensed:
       declared: BSD-3-Clause OR EPL-2.0
+  1.18.1:
+    licensed:
+      declared: BSD-3-Clause OR EPL-2.0
   1.19.0:
     licensed:
       declared: BSD-3-Clause OR EPL-2.0
