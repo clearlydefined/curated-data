@@ -4,9 +4,12 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  2.3.16:
+    licensed:
+      declared: LicenseRef-scancode-freemarker
   2.3.19:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-freemarker
   2.3.20:
     licensed:
       declared: Apache-2.0
