@@ -1,0 +1,9 @@
+coordinates:
+  name: bgmprovider
+  namespace: org.openeuler
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.7:
+    licensed:
+      declared: GPL-2.0-only WITH LicenseRef-scancode-oracle-openjdk-exception-2.0

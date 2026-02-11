@@ -1,0 +1,9 @@
+coordinates:
+  name: openspml
+  namespace: org.openspml
+  provider: mavencentral
+  type: maven
+revisions:
+  '0.5':
+    licensed:
+      declared: OTHER
