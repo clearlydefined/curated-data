@@ -9,7 +9,7 @@ revisions:
       declared: GPL-2.0-only WITH LicenseRef-scancode-oracle-openjdk-exception-2.0
   '12':
     licensed:
-      declared: GPL-2.0-only AND LicenseRef-scancode-oracle-openjdk-exception-2.0
+      declared: GPL-2.0-only WITH LicenseRef-scancode-oracle-openjdk-exception-2.0
   '15':
     licensed:
       declared: GPL-2.0-only WITH LicenseRef-scancode-oracle-openjdk-exception-2.0
