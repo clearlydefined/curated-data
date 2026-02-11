@@ -1,5 +1,5 @@
 coordinates:
-  name: EvoPdf
+  name: evopdf
   provider: nuget
   type: nuget
 revisions:
