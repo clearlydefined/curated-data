@@ -12,6 +12,9 @@ revisions:
   '0.27':
     licensed:
       declared: Unlicense
+  '0.28':
+    licensed:
+      declared: Unlicense
   '0.29':
     licensed:
       declared: Unlicense
