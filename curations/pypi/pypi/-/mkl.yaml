@@ -15,3 +15,6 @@ revisions:
   '2019.3':
     licensed:
       declared: OTHER
+  2021.4.0:
+    licensed:
+      declared: OTHER
