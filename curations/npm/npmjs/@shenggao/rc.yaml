@@ -1,0 +1,9 @@
+coordinates:
+  name: rc
+  namespace: '@shenggao'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.1:
+    licensed:
+      declared: NONE
