@@ -1,0 +1,8 @@
+coordinates:
+  name: json-server
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0-alpha.23:
+    licensed:
+      declared: LicenseRef-scancode-fair-source-0.9
