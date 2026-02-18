@@ -1,0 +1,9 @@
+coordinates:
+  name: isomorphic-unfetch
+  namespace: '@seiry'
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.0:
+    licensed:
+      declared: MIT
