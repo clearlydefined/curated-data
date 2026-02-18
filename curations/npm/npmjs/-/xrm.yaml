@@ -1,0 +1,8 @@
+coordinates:
+  name: xrm
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.1-beta:
+    licensed:
+      declared: NONE
