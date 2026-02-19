@@ -3,9 +3,6 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
-  4.1.10311:
-    licensed:
-      declared: LicenseRef-scancode-ms-entity-framework-4.1
   4.1.10331:
     licensed:
       declared: LicenseRef-scancode-ms-net-library
