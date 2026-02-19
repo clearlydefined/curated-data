@@ -1,0 +1,8 @@
+coordinates:
+  name: Maikebing.System.Windows.Forms.DataVisualization
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.1:
+    licensed:
+      declared: NONE
