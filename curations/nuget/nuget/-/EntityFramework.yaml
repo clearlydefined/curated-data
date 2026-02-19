@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  4.1.10331:
+    licensed:
+      declared: LicenseRef-scancode-ms-net-library
   4.1.10715:
     licensed:
       declared: LicenseRef-scancode-ms-net-library
