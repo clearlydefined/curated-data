@@ -1,0 +1,8 @@
+coordinates:
+  name: Prism.StoreApps
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0:
+    licensed:
+      declared: LicenseRef-scancode-msppl

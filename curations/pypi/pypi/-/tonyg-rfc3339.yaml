@@ -1,0 +1,8 @@
+coordinates:
+  name: tonyg-rfc3339
+  provider: pypi
+  type: pypi
+revisions:
+  '0.1':
+    licensed:
+      declared: MIT
