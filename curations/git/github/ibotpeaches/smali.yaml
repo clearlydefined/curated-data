@@ -1,0 +1,9 @@
+coordinates:
+  name: smali
+  namespace: ibotpeaches
+  provider: github
+  type: git
+revisions:
+  403e90375ef74ffdc2db3e9335043ed7607b6fe3:
+    licensed:
+      declared: BSD-3-Clause
