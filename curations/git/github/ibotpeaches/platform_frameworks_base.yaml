@@ -1,0 +1,9 @@
+coordinates:
+  name: platform_frameworks_base
+  namespace: ibotpeaches
+  provider: github
+  type: git
+revisions:
+  0a8449e0f0ab176bd83a05467d43766418b528b2:
+    licensed:
+      declared: Apache-2.0
