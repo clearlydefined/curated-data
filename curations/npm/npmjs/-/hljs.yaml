@@ -1,0 +1,8 @@
+coordinates:
+  name: hljs
+  provider: npmjs
+  type: npm
+revisions:
+  6.2.3:
+    licensed:
+      declared: NONE
