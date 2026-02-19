@@ -1,0 +1,9 @@
+coordinates:
+  name: picocontainer
+  namespace: org.picocontainer
+  provider: mavencentral
+  type: maven
+revisions:
+  '2.15':
+    licensed:
+      declared: BSD-3-Clause
