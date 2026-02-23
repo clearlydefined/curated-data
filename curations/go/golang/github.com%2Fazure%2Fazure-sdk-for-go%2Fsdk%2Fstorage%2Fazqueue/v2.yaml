@@ -1,0 +1,9 @@
+coordinates:
+  name: v2
+  namespace: github.com%2Fazure%2Fazure-sdk-for-go%2Fsdk%2Fstorage%2Fazqueue
+  provider: golang
+  type: go
+revisions:
+  v2.0.0-beta.1:
+    licensed:
+      declared: MIT
