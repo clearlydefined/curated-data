@@ -1,0 +1,9 @@
+coordinates:
+  name: libsodium
+  namespace: jedisct1
+  provider: github
+  type: git
+revisions:
+  9511c982fb1d046470a8b42aa36556cdb7da15de:
+    licensed:
+      declared: ISC
