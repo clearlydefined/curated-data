@@ -1,0 +1,9 @@
+coordinates:
+  name: charts
+  namespace: github.com%2fcilium
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20260108163354-7662fc5e6efa:
+    licensed:
+      declared: Apache-2.0
