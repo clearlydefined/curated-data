@@ -1,0 +1,12 @@
+coordinates:
+  name: controller-tools
+  namespace: github.com%2Fcilium
+  provider: golang
+  type: go
+revisions:
+  v0.16.5-1:
+    licensed:
+      declared: Apache-2.0
+  v0.6.2:
+    licensed:
+      declared: Apache-2.0
