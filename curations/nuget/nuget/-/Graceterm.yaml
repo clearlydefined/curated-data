@@ -6,3 +6,6 @@ revisions:
   1.0.7:
     licensed:
       declared: GPL-3.0-only
+  2.0.0:
+    licensed:
+      declared: MIT
