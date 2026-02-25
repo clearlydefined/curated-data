@@ -1,0 +1,9 @@
+coordinates:
+  name: go-datastructures
+  namespace: github.com%2Fworkiva
+  provider: golang
+  type: go
+revisions:
+  v1.1.5:
+    licensed:
+      declared: Apache-2.0
