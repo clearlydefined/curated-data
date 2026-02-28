@@ -1,0 +1,8 @@
+coordinates:
+  name: zstd-sys
+  provider: cratesio
+  type: crate
+revisions:
+  1.6.1+zstd.1.5.0:
+    licensed:
+      declared: (MIT OR Apache-2.0) AND (GPL-2.0-only OR BSD-3-Clause)
