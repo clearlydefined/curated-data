@@ -15,6 +15,9 @@ revisions:
   0.13.2:
     licensed:
       declared: MIT
+  0.6.0:
+    licensed:
+      declared: MIT
   0.6.1:
     licensed:
       declared: MIT
@@ -26,7 +29,7 @@ revisions:
         provider: github
         revision: d06f758b12d95f710c4b2b0ddb06a539727d253d
         type: git
-        url: 'https://github.com/redis/nredisstack/commit/d06f758b12d95f710c4b2b0ddb06a539727d253d'
+        url: https://github.com/redis/nredisstack/commit/d06f758b12d95f710c4b2b0ddb06a539727d253d
     licensed:
       declared: MIT
   0.9.0:
