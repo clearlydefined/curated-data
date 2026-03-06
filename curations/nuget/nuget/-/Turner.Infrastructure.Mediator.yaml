@@ -1,0 +1,8 @@
+coordinates:
+  name: Turner.Infrastructure.Mediator
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.19:
+    licensed:
+      declared: NONE
