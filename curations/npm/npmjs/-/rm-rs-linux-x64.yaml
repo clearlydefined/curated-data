@@ -1,0 +1,8 @@
+coordinates:
+  name: rm-rs-linux-x64
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.3:
+    licensed:
+      declared: NONE
