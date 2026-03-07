@@ -1,11 +1,8 @@
 coordinates:
-  name: msx-platform-services
+  name: omori
   provider: npmjs
   type: npm
 revisions:
-  1.0.14:
-    licensed:
-      declared: NONE
-  1.0.15:
+  1.0.0:
     licensed:
       declared: NONE
