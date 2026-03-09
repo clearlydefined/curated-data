@@ -1,0 +1,8 @@
+coordinates:
+  name: Westwind.AspNetCore.Markdown
+  provider: nuget
+  type: nuget
+revisions:
+  3.12.0:
+    licensed:
+      declared: MIT
