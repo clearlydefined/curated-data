@@ -1,0 +1,8 @@
+coordinates:
+  name: EasyReproLatest
+  provider: nuget
+  type: nuget
+revisions:
+  12.2.21111.116-rw2-preview:
+    licensed:
+      declared: NONE
