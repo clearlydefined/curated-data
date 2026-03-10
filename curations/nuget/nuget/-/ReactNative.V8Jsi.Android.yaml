@@ -1,11 +1,8 @@
 coordinates:
-  name: OpenTK.Compute
+  name: ReactNative.V8Jsi.Android
   provider: nuget
   type: nuget
 revisions:
-  4.3.0:
-    licensed:
-      declared: MIT
-  4.8.2:
+  0.68.0-stable-v1:
     licensed:
       declared: MIT
