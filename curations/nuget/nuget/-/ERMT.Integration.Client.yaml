@@ -1,0 +1,8 @@
+coordinates:
+  name: ERMT.Integration.Client
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.0:
+    licensed:
+      declared: NONE
