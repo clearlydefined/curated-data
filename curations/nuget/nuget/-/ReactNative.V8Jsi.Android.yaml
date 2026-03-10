@@ -1,0 +1,8 @@
+coordinates:
+  name: ReactNative.V8Jsi.Android
+  provider: nuget
+  type: nuget
+revisions:
+  0.68.0-stable-v1:
+    licensed:
+      declared: MIT
