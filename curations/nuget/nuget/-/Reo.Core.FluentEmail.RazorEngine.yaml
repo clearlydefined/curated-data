@@ -1,0 +1,8 @@
+coordinates:
+  name: Reo.Core.FluentEmail.RazorEngine
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.18088:
+    licensed:
+      declared: NONE
