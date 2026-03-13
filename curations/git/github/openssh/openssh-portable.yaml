@@ -10,6 +10,9 @@ revisions:
   cce8cbe0ed7d1ba3a575310e0b63c193326ae616:
     licensed:
       declared: SSH-OpenSSH
+  dba7099ffcba3ca07b3946f017ba6a4c3158d9b1:
+    licensed:
+      declared: SSH-OpenSSH
   e86968280e358e62649d268d41f698d64d0dc9fa:
     licensed:
       declared: SSH-OpenSSH

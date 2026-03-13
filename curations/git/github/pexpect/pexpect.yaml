@@ -1,0 +1,9 @@
+coordinates:
+  name: pexpect
+  namespace: pexpect
+  provider: github
+  type: git
+revisions:
+  5eed1a31a2853a09b7367c59fbd1a4a0b53341df:
+    licensed:
+      declared: ISC

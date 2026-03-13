@@ -1,0 +1,9 @@
+coordinates:
+  name: sgxdatacenterattestationprimitives
+  namespace: intel
+  provider: github
+  type: git
+revisions:
+  71557c7d1d869b6bd6f95566c051cbd098549509:
+    licensed:
+      declared: BSD-3-Clause

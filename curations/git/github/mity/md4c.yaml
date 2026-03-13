@@ -1,0 +1,9 @@
+coordinates:
+  name: md4c
+  namespace: mity
+  provider: github
+  type: git
+revisions:
+  c3340b480e5232711858108be07460a9836c8ab5:
+    licensed:
+      declared: MIT
