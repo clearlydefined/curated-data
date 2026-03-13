@@ -1,0 +1,9 @@
+coordinates:
+  name: argtable3
+  namespace: argtable
+  provider: github
+  type: git
+revisions:
+  30d6805297a8b2f98b3e006c2c86160416624bbe:
+    licensed:
+      declared: BSD-3-Clause
