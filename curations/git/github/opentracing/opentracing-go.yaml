@@ -1,0 +1,9 @@
+coordinates:
+  name: opentracing-go
+  namespace: opentracing
+  provider: github
+  type: git
+revisions:
+  06f47b42c792fef2796e9681353e1d908c417827:
+    licensed:
+      declared: MIT
