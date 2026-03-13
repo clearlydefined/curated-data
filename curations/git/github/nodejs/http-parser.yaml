@@ -1,0 +1,9 @@
+coordinates:
+  name: http-parser
+  namespace: nodejs
+  provider: github
+  type: git
+revisions:
+  39c2c1e5733eb2cb7397a370cf50508ea1214bf7:
+    licensed:
+      declared: MIT
