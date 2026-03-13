@@ -1,0 +1,9 @@
+coordinates:
+  name: libexecinfo
+  namespace: ronchaine
+  provider: github
+  type: git
+revisions:
+  d15ae4ca2e5e3b56d9abb2c7de03cb38078db474:
+    licensed:
+      declared: BSD-2-Clause
