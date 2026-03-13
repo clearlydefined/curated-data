@@ -1,0 +1,9 @@
+coordinates:
+  name: linux-sgx
+  namespace: intel
+  provider: github
+  type: git
+revisions:
+  1efe23c20e37f868498f8287921eedfbcecdc216:
+    licensed:
+      declared: BSD-3-Clause
