@@ -1,0 +1,9 @@
+coordinates:
+  name: ior
+  namespace: hpc
+  provider: github
+  type: git
+revisions:
+  9959a615fb7ca400a5b21b93be76f466cbb42b95:
+    licensed:
+      declared: OTHER
