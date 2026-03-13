@@ -1,0 +1,9 @@
+coordinates:
+  name: rasterizer
+  namespace: rawrunprotected
+  provider: github
+  type: git
+revisions:
+  50a1c132c24e85aaa7ef00a6337610ffc04c403e:
+    licensed:
+      declared: CC0-1.0

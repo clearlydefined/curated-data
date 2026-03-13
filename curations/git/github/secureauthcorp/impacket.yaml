@@ -1,0 +1,9 @@
+coordinates:
+  name: impacket
+  namespace: secureauthcorp
+  provider: github
+  type: git
+revisions:
+  24a0ae6f7298a8245560e1144788b6fc49928a41:
+    licensed:
+      declared: Apache-1.1

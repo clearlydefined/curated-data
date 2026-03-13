@@ -1,0 +1,9 @@
+coordinates:
+  name: sparkle
+  namespace: sparkle-project
+  provider: github
+  type: git
+revisions:
+  87e4fcbac39912f9cdb9a9acf205cad60e1ca3bc:
+    licensed:
+      declared: Zlib

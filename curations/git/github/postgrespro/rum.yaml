@@ -7,3 +7,6 @@ revisions:
   2dd38404955b2c31195c45c733db06600f7eef9e:
     licensed:
       declared: PostgreSQL
+  e6facb10caa1fb41faa8139f2116c282a6dfdde9:
+    licensed:
+      declared: PostgreSQL
