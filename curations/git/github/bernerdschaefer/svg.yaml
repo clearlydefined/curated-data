@@ -1,0 +1,9 @@
+coordinates:
+  name: svg
+  namespace: bernerdschaefer
+  provider: github
+  type: git
+revisions:
+  5f66e6fd247ea5df672c0f38fd5fd9599f792c92:
+    licensed:
+      declared: NONE
