@@ -1,0 +1,9 @@
+coordinates:
+  name: attack-stix-data
+  namespace: mitre-attack
+  provider: github
+  type: git
+revisions:
+  b95e977437c89ca0f686e14edcf5f5a34daaf06b:
+    licensed:
+      declared: OTHER
