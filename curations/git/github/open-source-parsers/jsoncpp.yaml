@@ -16,6 +16,9 @@ revisions:
   678d65e7ad4596f521c1b56638c7bf5a6b79e490:
     licensed:
       declared: LicenseRef-scancode-public-domain OR MIT
+  69098a18b9af0c47549d9a271c054d13ca92b006:
+    licensed:
+      declared: LicenseRef-scancode-public-domain OR MIT
   6aba23f4a8628d599a9ef7fa4811c4ff6e4070e2:
     files:
       - attributions:
