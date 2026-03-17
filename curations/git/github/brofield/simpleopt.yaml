@@ -1,0 +1,9 @@
+coordinates:
+  name: simpleopt
+  namespace: brofield
+  provider: github
+  type: git
+revisions:
+  a52efbec38d7c4973a657a5c3ab1354a73725e32:
+    licensed:
+      declared: MIT

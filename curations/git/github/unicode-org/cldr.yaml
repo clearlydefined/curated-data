@@ -1,0 +1,9 @@
+coordinates:
+  name: cldr
+  namespace: unicode-org
+  provider: github
+  type: git
+revisions:
+  f800890ea86482c2eb5f73224897f4a8bc0b653a:
+    licensed:
+      declared: Unicode-DFS-2016

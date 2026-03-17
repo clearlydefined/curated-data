@@ -1,0 +1,9 @@
+coordinates:
+  name: llvm-project
+  namespace: rust-lang
+  provider: github
+  type: git
+revisions:
+  00d23d10dc48c6bb9d57ba96d4a748d85d77d0c7:
+    licensed:
+      declared: Apache-2.0 WITH LLVM-exception
