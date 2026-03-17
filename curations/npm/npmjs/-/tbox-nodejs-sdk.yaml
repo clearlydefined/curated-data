@@ -1,0 +1,8 @@
+coordinates:
+  name: tbox-nodejs-sdk
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.13:
+    licensed:
+      declared: MIT
