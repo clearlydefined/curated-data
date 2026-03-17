@@ -1,12 +1,9 @@
 coordinates:
-  name: x-data-grid-generator
+  name: x-data-grid-pro
   namespace: '@mui'
   provider: npmjs
   type: npm
 revisions:
   6.18.5:
     licensed:
-      declared: NONE
-  6.20.4:
-    licensed:
-      declared: NONE
+      declared: OTHER

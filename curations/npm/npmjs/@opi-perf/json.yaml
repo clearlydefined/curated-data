@@ -1,0 +1,9 @@
+coordinates:
+  name: json
+  namespace: '@opi-perf'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0-alpha10:
+    licensed:
+      declared: NONE
