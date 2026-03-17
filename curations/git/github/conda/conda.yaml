@@ -1,0 +1,9 @@
+coordinates:
+  name: conda
+  namespace: conda
+  provider: github
+  type: git
+revisions:
+  a8784fad6a510aa14ca9da8d7372db5b562cd734:
+    licensed:
+      declared: BSD-3-Clause
