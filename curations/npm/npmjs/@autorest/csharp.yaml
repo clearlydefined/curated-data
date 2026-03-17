@@ -15,7 +15,7 @@ revisions:
       declared: MIT
   3.0.0-beta.20240207.2:
     licensed:
-      declared: NONE
+      declared: MIT
   3.0.0-beta.20240408.3:
     licensed:
       declared: MIT
@@ -24,13 +24,13 @@ revisions:
       declared: MIT
   3.0.0-beta.20240925.3:
     licensed:
-      declared: NONE
+      declared: MIT
   3.0.0-beta.20240927.1:
     licensed:
-      declared: NONE
+      declared: MIT
   3.0.0-beta.20250104.1:
     licensed:
-      declared: NONE
+      declared: MIT
   3.0.0-beta.20250109.1:
     licensed:
       declared: MIT
@@ -42,7 +42,7 @@ revisions:
       declared: MIT
   3.0.0-beta.20250410.1:
     licensed:
-      declared: NONE
+      declared: MIT
   3.0.0-beta.20250901.1:
     licensed:
-      declared: NONE
+      declared: MIT
