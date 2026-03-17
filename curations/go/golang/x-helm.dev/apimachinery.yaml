@@ -1,0 +1,9 @@
+coordinates:
+  name: apimachinery
+  namespace: x-helm.dev
+  provider: golang
+  type: go
+revisions:
+  v0.0.16:
+    licensed:
+      declared: Apache-2.0
