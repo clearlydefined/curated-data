@@ -1,0 +1,9 @@
+coordinates:
+  name: x-data-grid-pro
+  namespace: '@mui'
+  provider: npmjs
+  type: npm
+revisions:
+  6.18.5:
+    licensed:
+      declared: OTHER
