@@ -1,0 +1,9 @@
+coordinates:
+  name: copilot-language-server
+  namespace: '@github'
+  provider: npmjs
+  type: npm
+revisions:
+  1.239.0:
+    licensed:
+      declared: MIT
