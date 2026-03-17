@@ -1,0 +1,8 @@
+coordinates:
+  name: pry-reload
+  provider: rubygems
+  type: gem
+revisions:
+  '0.3':
+    licensed:
+      declared: NONE
