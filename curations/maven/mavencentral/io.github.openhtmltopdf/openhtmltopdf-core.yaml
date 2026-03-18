@@ -1,0 +1,9 @@
+coordinates:
+  name: openhtmltopdf-core
+  namespace: io.github.openhtmltopdf
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.29:
+    licensed:
+      declared: LGPL-2.1-or-later
