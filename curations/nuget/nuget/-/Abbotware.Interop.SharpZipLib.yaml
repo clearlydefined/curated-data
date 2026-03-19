@@ -1,0 +1,8 @@
+coordinates:
+  name: Abbotware.Interop.SharpZipLib
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.267:
+    licensed:
+      declared: NONE

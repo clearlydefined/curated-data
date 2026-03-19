@@ -1,0 +1,8 @@
+coordinates:
+  name: 51Degrees.mobi-core
+  provider: nuget
+  type: nuget
+revisions:
+  3.2.19.2:
+    licensed:
+      declared: MPL-2.0
