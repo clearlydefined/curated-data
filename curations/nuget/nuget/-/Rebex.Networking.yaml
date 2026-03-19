@@ -1,0 +1,8 @@
+coordinates:
+  name: Rebex.Networking
+  provider: nuget
+  type: nuget
+revisions:
+  5.0.7620:
+    licensed:
+      declared: OTHER
