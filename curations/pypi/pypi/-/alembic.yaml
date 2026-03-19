@@ -1,0 +1,8 @@
+coordinates:
+  name: alembic
+  provider: pypi
+  type: pypi
+revisions:
+  1.17.1:
+    licensed:
+      declared: MIT
