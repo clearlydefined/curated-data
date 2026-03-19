@@ -1,0 +1,8 @@
+coordinates:
+  name: PDFSharp.Standard.Charting
+  provider: nuget
+  type: nuget
+revisions:
+  1.51.15:
+    licensed:
+      declared: MIT

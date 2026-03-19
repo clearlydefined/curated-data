@@ -1,0 +1,8 @@
+coordinates:
+  name: commercetools.Base.Serialization
+  provider: nuget
+  type: nuget
+revisions:
+  11.14.0:
+    licensed:
+      declared: Apache-2.0
