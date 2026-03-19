@@ -1,0 +1,8 @@
+coordinates:
+  name: Umbraco.Workflow.Web
+  provider: nuget
+  type: nuget
+revisions:
+  13.4.3:
+    licensed:
+      declared: OTHER
