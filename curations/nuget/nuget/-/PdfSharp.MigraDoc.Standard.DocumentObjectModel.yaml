@@ -1,0 +1,8 @@
+coordinates:
+  name: PdfSharp.MigraDoc.Standard.DocumentObjectModel
+  provider: nuget
+  type: nuget
+revisions:
+  1.51.15:
+    licensed:
+      declared: MIT
