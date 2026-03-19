@@ -1,0 +1,14 @@
+coordinates:
+  name: Bitmovin.Api.Sdk
+  provider: nuget
+  type: nuget
+revisions:
+  1.195.0:
+    licensed:
+      declared: MIT
+  1.196.1:
+    licensed:
+      declared: MIT
+  1.197.0:
+    licensed:
+      declared: MIT
