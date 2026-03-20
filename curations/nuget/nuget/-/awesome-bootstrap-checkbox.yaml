@@ -1,11 +1,8 @@
 coordinates:
-  name: OpenTK.Input
+  name: awesome-bootstrap-checkbox
   provider: nuget
   type: nuget
 revisions:
-  4.3.0:
-    licensed:
-      declared: MIT
-  4.8.2:
+  0.3.4.1:
     licensed:
       declared: MIT

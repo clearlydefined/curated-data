@@ -1,11 +1,8 @@
 coordinates:
-  name: OpenTK.Input
+  name: AutoFake
   provider: nuget
   type: nuget
 revisions:
-  4.3.0:
-    licensed:
-      declared: MIT
-  4.8.2:
+  0.4.3.9:
     licensed:
       declared: MIT
