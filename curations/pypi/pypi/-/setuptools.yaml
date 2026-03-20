@@ -1,0 +1,8 @@
+coordinates:
+  name: setuptools
+  provider: pypi
+  type: pypi
+revisions:
+  80.3.1:
+    licensed:
+      declared: MIT
