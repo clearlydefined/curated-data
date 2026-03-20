@@ -1,0 +1,9 @@
+coordinates:
+  name: bsh
+  namespace: org.beanshell
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0b5:
+    licensed:
+      declared: Apache-2.0
