@@ -1,0 +1,8 @@
+coordinates:
+  name: ExcentOne.Extensions.Reflection
+  provider: nuget
+  type: nuget
+revisions:
+  7.0.1:
+    licensed:
+      declared: NONE
