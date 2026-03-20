@@ -1,0 +1,8 @@
+coordinates:
+  name: types-decorator
+  provider: pypi
+  type: pypi
+revisions:
+  5.2.0.20251101:
+    licensed:
+      declared: Apache-2.0

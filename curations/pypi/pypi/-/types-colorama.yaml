@@ -1,0 +1,8 @@
+coordinates:
+  name: types-colorama
+  provider: pypi
+  type: pypi
+revisions:
+  0.4.15.20250801:
+    licensed:
+      declared: Apache-2.0

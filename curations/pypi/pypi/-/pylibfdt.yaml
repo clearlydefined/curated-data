@@ -1,0 +1,8 @@
+coordinates:
+  name: pylibfdt
+  provider: pypi
+  type: pypi
+revisions:
+  1.7.2.post1:
+    licensed:
+      declared: BSD-2-Clause OR GPL-2.0-or-later
