@@ -1,11 +1,8 @@
 coordinates:
-  name: OpenTK.Mathematics
+  name: SmartComponents.AspNetCore.Components
   provider: nuget
   type: nuget
 revisions:
-  4.3.0:
-    licensed:
-      declared: MIT
-  4.8.2:
+  0.1.0-preview10148:
     licensed:
       declared: MIT
