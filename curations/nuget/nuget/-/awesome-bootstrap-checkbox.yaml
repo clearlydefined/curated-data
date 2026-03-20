@@ -1,0 +1,8 @@
+coordinates:
+  name: awesome-bootstrap-checkbox
+  provider: nuget
+  type: nuget
+revisions:
+  0.3.4.1:
+    licensed:
+      declared: MIT
