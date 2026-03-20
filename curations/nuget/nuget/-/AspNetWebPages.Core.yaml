@@ -1,0 +1,8 @@
+coordinates:
+  name: AspNetWebPages.Core
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.20105.408:
+    licensed:
+      declared: OTHER
