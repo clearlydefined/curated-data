@@ -1,0 +1,8 @@
+coordinates:
+  name: shelves
+  provider: pypi
+  type: pypi
+revisions:
+  0.3.8:
+    licensed:
+      declared: NONE
