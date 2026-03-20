@@ -1,0 +1,8 @@
+coordinates:
+  name: AutoFake
+  provider: nuget
+  type: nuget
+revisions:
+  0.4.3.9:
+    licensed:
+      declared: MIT
