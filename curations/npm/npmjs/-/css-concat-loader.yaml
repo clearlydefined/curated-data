@@ -1,0 +1,8 @@
+coordinates:
+  name: css-concat-loader
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.6:
+    licensed:
+      declared: NONE
