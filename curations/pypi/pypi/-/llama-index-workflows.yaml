@@ -1,0 +1,8 @@
+coordinates:
+  name: llama-index-workflows
+  provider: pypi
+  type: pypi
+revisions:
+  2.11.5:
+    licensed:
+      declared: MIT
