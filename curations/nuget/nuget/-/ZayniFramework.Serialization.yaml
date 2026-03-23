@@ -1,0 +1,8 @@
+coordinates:
+  name: ZayniFramework.Serialization
+  provider: nuget
+  type: nuget
+revisions:
+  2.15.126:
+    licensed:
+      declared: MIT
