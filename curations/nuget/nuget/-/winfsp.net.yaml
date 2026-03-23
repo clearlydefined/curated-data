@@ -1,0 +1,8 @@
+coordinates:
+  name: winfsp.net
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.23075:
+    licensed:
+      declared: NONE
