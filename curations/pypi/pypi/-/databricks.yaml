@@ -1,0 +1,8 @@
+coordinates:
+  name: databricks
+  provider: pypi
+  type: pypi
+revisions:
+  '0.2':
+    licensed:
+      declared: NONE
