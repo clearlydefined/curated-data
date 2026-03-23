@@ -1,0 +1,9 @@
+coordinates:
+  name: xmlsec
+  namespace: org.apache.santuario
+  provider: mavencentral
+  type: maven
+revisions:
+  2.3.0:
+    licensed:
+      declared: Apache-2.0
