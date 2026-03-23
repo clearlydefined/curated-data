@@ -1,0 +1,8 @@
+coordinates:
+  name: microsoft-teams-openai
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.0a9:
+    licensed:
+      declared: MIT

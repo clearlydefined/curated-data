@@ -1,0 +1,8 @@
+coordinates:
+  name: hnsw
+  provider: pypi
+  type: pypi
+revisions:
+  66.0.2:
+    licensed:
+      declared: NONE
