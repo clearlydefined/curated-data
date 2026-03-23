@@ -1,0 +1,8 @@
+coordinates:
+  name: VC2012Redist
+  provider: nuget
+  type: nuget
+revisions:
+  14.29.30133:
+    licensed:
+      declared: NONE

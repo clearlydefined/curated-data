@@ -1,0 +1,8 @@
+coordinates:
+  name: TSQLLint.Common
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.3:
+    licensed:
+      declared: NONE
