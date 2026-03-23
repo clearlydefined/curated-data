@@ -1,0 +1,8 @@
+coordinates:
+  name: opentelemetry-exporter-prometheus
+  provider: pypi
+  type: pypi
+revisions:
+  0.58b0:
+    licensed:
+      declared: Apache-2.0
