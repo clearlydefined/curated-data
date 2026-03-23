@@ -1,0 +1,8 @@
+coordinates:
+  name: Bandwidth.Sdk
+  provider: nuget
+  type: nuget
+revisions:
+  10.2.0:
+    licensed:
+      declared: NONE
