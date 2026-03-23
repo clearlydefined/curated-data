@@ -1,0 +1,8 @@
+coordinates:
+  name: Xbox-GDK-Samples.ComputeParticles.Assets
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: NONE
