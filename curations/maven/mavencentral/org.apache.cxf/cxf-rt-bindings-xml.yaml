@@ -1,0 +1,9 @@
+coordinates:
+  name: cxf-rt-bindings-xml
+  namespace: org.apache.cxf
+  provider: mavencentral
+  type: maven
+revisions:
+  3.5.11:
+    licensed:
+      declared: Apache-2.0
