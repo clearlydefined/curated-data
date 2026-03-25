@@ -1,11 +1,8 @@
 coordinates:
-  name: Dropbox.Api
+  name: CSVReader
   provider: nuget
   type: nuget
 revisions:
-  4.10.0:
-    licensed:
-      declared: MIT
-  7.0.0:
+  3.8.1:
     licensed:
       declared: MIT

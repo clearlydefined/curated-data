@@ -26,7 +26,7 @@ revisions:
         provider: github
         revision: 015d89f201800a275feacf8eccedfd58fb1a59ca
         type: git
-        url: 'https://github.com/xceedsoftware/wpftoolkit/commit/015d89f201800a275feacf8eccedfd58fb1a59ca'
+        url: https://github.com/xceedsoftware/wpftoolkit/commit/015d89f201800a275feacf8eccedfd58fb1a59ca
     licensed:
       declared: MS-PL
   3.2.0:
@@ -44,3 +44,6 @@ revisions:
   4.6.0:
     licensed:
       declared: LicenseRef-scancode-xceed-community-2021
+  4.6.24151.1544:
+    licensed:
+      declared: OTHER

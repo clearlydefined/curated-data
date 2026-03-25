@@ -1,0 +1,8 @@
+coordinates:
+  name: Esri.ArcGISRuntime.iOS
+  provider: nuget
+  type: nuget
+revisions:
+  200.5.0:
+    licensed:
+      declared: OTHER
