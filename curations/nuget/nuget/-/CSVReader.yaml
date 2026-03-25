@@ -1,0 +1,8 @@
+coordinates:
+  name: CSVReader
+  provider: nuget
+  type: nuget
+revisions:
+  3.8.1:
+    licensed:
+      declared: MIT
