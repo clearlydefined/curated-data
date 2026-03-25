@@ -1,0 +1,8 @@
+coordinates:
+  name: FS.Abp.AspNetCore.Mvc.JsonSubTypes.Contracts
+  provider: nuget
+  type: nuget
+revisions:
+  422.0.3:
+    licensed:
+      declared: NONE
