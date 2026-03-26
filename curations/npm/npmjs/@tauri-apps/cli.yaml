@@ -12,4 +12,4 @@ revisions:
       declared: Apache-2.0 OR MIT
   2.8.4:
     licensed:
-      declared: MIT OR Apache-2.0 AND MIT
+      declared: Apache-2.0 OR MIT
