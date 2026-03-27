@@ -1,0 +1,8 @@
+coordinates:
+  name: Jumoo.Processing
+  provider: nuget
+  type: nuget
+revisions:
+  17.0.0:
+    licensed:
+      declared: NONE
