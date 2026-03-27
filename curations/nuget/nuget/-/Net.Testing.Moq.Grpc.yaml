@@ -1,0 +1,8 @@
+coordinates:
+  name: Net.Testing.Moq.Grpc
+  provider: nuget
+  type: nuget
+revisions:
+  1.1.1:
+    licensed:
+      declared: MIT
