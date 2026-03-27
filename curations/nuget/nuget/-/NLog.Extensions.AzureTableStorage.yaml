@@ -6,3 +6,6 @@ revisions:
   1.1.4:
     licensed:
       declared: GPL-2.0-only
+  1.2.0-rc1:
+    licensed:
+      declared: GPL-2.0-only
