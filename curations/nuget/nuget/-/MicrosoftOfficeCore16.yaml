@@ -1,0 +1,8 @@
+coordinates:
+  name: MicrosoftOfficeCore16
+  provider: nuget
+  type: nuget
+revisions:
+  16.0.16626.20000:
+    licensed:
+      declared: NONE
