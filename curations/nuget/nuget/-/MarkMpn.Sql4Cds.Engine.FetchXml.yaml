@@ -1,0 +1,8 @@
+coordinates:
+  name: MarkMpn.Sql4Cds.Engine.FetchXml
+  provider: nuget
+  type: nuget
+revisions:
+  2.3.0:
+    licensed:
+      declared: MIT
