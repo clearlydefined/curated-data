@@ -3,27 +3,30 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  12.1.2400:
+    licensed:
+      declared: LicenseRef-scancode-otnla-2016-11-30
   19.10.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-otnla-2016-11-30
   19.13.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-otnla-2016-11-30
   19.15.1:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-oracle-free-2018
   19.18.0:
     licensed:
       declared: OTHER
   19.6.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-otnla-2016-11-30
   19.9.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-otnla-2016-11-30
   21.4.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-oracle-free-2018
   21.9.0:
     licensed:
       declared: OTHER
