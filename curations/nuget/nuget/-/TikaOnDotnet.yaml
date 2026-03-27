@@ -1,5 +1,5 @@
 coordinates:
-  name: TikaOnDotNet
+  name: TikaOnDotnet
   provider: nuget
   type: nuget
 revisions:
