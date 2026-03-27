@@ -6,3 +6,6 @@ revisions:
   1.9.1:
     licensed:
       declared: OTHER
+  2.0.0-rc2:
+    licensed:
+      declared: LicenseRef-scancode-paypal-sdk-2013-2016
