@@ -3,21 +3,6 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
-  10.0.0:
-    licensed:
-      declared: OTHER
-  10.0.1:
-    licensed:
-      declared: OTHER
-  10.1.0:
-    licensed:
-      declared: OTHER
-  11.0.0:
-    licensed:
-      declared: OTHER
-  12.0.0:
-    licensed:
-      declared: OTHER
   13.0.1:
     licensed:
       declared: OTHER
@@ -160,6 +145,9 @@ revisions:
     licensed:
       declared: OTHER
   24.1.0:
+    licensed:
+      declared: OTHER
+  28.2.1:
     licensed:
       declared: OTHER
   9.1.0:
