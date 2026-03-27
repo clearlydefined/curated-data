@@ -1,0 +1,8 @@
+coordinates:
+  name: node-cmd
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.0:
+    licensed:
+      declared: LicenseRef-scancode-dbad-1.1
