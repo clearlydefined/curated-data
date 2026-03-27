@@ -1,0 +1,8 @@
+coordinates:
+  name: VisualCppRedist
+  provider: nuget
+  type: nuget
+revisions:
+  14.50.35710:
+    licensed:
+      declared: OTHER
