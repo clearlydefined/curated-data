@@ -1,11 +1,8 @@
 coordinates:
-  name: MarkedNet
+  name: Lithnet.ResourceManagement.Client
   provider: nuget
   type: nuget
 revisions:
-  1.0.5:
-    licensed:
-      declared: MIT
-  2.1.4:
+  1.0.6993.23628:
     licensed:
       declared: MIT

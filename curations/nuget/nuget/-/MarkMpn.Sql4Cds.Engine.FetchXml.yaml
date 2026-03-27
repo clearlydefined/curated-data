@@ -1,11 +1,8 @@
 coordinates:
-  name: MarkedNet
+  name: MarkMpn.Sql4Cds.Engine.FetchXml
   provider: nuget
   type: nuget
 revisions:
-  1.0.5:
-    licensed:
-      declared: MIT
-  2.1.4:
+  2.3.0:
     licensed:
       declared: MIT
