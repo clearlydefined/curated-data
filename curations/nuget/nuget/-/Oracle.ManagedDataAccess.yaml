@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  12.1.2400:
+    licensed:
+      declared: LicenseRef-scancode-otnla-2016-11-30
   19.10.0:
     licensed:
       declared: OTHER
