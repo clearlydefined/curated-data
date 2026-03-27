@@ -5,10 +5,10 @@ coordinates:
 revisions:
   1.0.10621:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-reactive-extensions-eula
   1.0.11226:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-ms-reactive-extensions-eula
   2.0.21114:
     licensed:
       declared: Apache-2.0
