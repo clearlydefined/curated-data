@@ -16,7 +16,7 @@ revisions:
         path: src/Microsoft.Azure.Relay/Common/UriScheme.cs
       - attributions:
           - Copyright (c) Microsoft.
-        license: OTHER
+        license: LicenseRef-scancode-ms-rsl
         path: src/Microsoft.Azure.Relay/System/Net/HttpStatusDescription.cs
       - attributions:
           - Copyright (c) .NET Foundation and Contributors
