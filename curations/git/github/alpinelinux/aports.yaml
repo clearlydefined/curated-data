@@ -22,10 +22,10 @@ revisions:
       - attributions:
           - Copyright (c) 1996-1999 by Internet Software Consortium.
           - 'Portions Copyright (c) 1995 by International Business Machines, Inc.'
-        license: ISC AND OTHER
+        license: ISC AND LicenseRef-scancode-ibm-dhcp
         path: main/netcat-openbsd/base64.c
       - attributions:
           - 'Copyright (c) 2012 Digia Plc and/or its subsidiary(-ies). + Contact http://www.qt-project.org/legal'
           - 'Copyright (c) 2012, 2013 Digia Plc and/or its subsidiary(-ies). + Contact http://www.qt-project.org/legal'
-        license: (GPL-3.0-only OR LGPL-2.1-only WITH Qt-LGPL-exception-1.1) OR OTHER
+        license: GPL-3.0-only OR LGPL-2.1-only WITH Qt-LGPL-exception-1.1 OR OTHER
         path: main/qt/qt-aarch64.patch

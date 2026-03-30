@@ -8,8 +8,66 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   420da6a57a3ecaeab481b993dd590eeec8fe0c52:
+    files:
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/lib/OpenEXR/ImfDwaCompressor.cpp
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/lib/OpenEXR/ImfDwaCompressor.h
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/lib/OpenEXR/ImfDwaCompressorSimd.h
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/test/OpenEXRTest/compareDwa.cpp
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/test/OpenEXRTest/compareDwa.h
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/test/OpenEXRTest/testDwaCompressorSimd.cpp
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/test/OpenEXRTest/testDwaCompressorSimd.h
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause
   68d9e1e17620cef00e59b43fa42c97fbcf90e72b:
+    files:
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/lib/OpenEXR/ImfDwaCompressor.cpp
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/lib/OpenEXR/ImfDwaCompressor.h
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/lib/OpenEXR/ImfDwaCompressorSimd.h
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/test/OpenEXRTest/compareDwa.cpp
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/test/OpenEXRTest/compareDwa.h
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/test/OpenEXRTest/testDwaCompressorSimd.cpp
+    - attributions:
+        - Copyright (c) DreamWorks Animation LLC and Contributors of the OpenEXR Project
+      license: BSD-3-Clause AND OTHER OR Apache-2.0
+      path: src/test/OpenEXRTest/testDwaCompressorSimd.h
     licensed:
       declared: BSD-3-Clause
