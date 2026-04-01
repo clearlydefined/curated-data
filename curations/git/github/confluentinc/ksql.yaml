@@ -6,4 +6,4 @@ coordinates:
 revisions:
   07dc42506990e5c13019b10a7db433f8d1c78f86:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-confluent-community-1.0

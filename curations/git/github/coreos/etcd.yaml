@@ -10,15 +10,15 @@ revisions:
           - 'Copyright (c) 2004, 2006 The Linux Foundation and its contributors.'
         license: NONE
         path: DCO
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: cmd/vendor/golang.org/x/crypto/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: cmd/vendor/golang.org/x/net/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: cmd/vendor/golang.org/x/sys/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: cmd/vendor/golang.org/x/time/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: cmd/vendor/google.golang.org/grpc/PATENTS
       - attributions:
           - Copyright (c) 2011-2014 - Canonical Inc.
