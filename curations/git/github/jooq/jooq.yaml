@@ -6,4 +6,6 @@ coordinates:
 revisions:
   962cfecf363fda90646c415c53c4d00a36bb1049:
     licensed:
+      # OTHER for commerical license
+      # https://web.archive.org/web/20190711002348/http://www.jooq.org/legal/180607_jOOQ_License_and_Maintenance_Agreement.pdf
       declared: Apache-2.0 OR OTHER

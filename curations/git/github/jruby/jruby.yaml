@@ -30,13 +30,13 @@ revisions:
           - Copyright (c) 2002-2004 Jan Arne Petersen <jpetersen@uni-bonn.de>
         license: EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
         path: core/src/main/java/org/jruby/internal/runtime/methods/NullMethod.java
-      - license: OTHER
+      - license: LicenseRef-scancode-public-domain
         path: core/src/main/java/org/jruby/util/MurmurHash.java
       - license: (EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND OTHER
         path: core/src/main/java/org/jruby/util/collections/ConcurrentWeakHashMap.java
       - license: OTHER
         path: core/src/main/java/org/jruby/util/collections/NonBlockingHashMapLong.java
-      - license: OTHER
+      - license: LicenseRef-scancode-public-domain
         path: core/src/test/java/org/jruby/util/MurmurHashTest.java
       - attributions:
           - Copyright (c) 2008-2010 Wayne Meissner
@@ -81,7 +81,6 @@ revisions:
         path: maven/jruby/src/templates/osgi_all_inclusive/src/test/java/org/jruby/embed/osgi/test/JRubyOsgiEmbedTest.java
       - license: CPL-1.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later
         path: maven/jruby-complete/src/templates/osgi_many_bundles_with_embedded_gems/test/src/test/java/org/jruby/embed/osgi/test/JRubyOsgiEmbedTest.java
-
     licensed:
       declared: EPL-2.0 OR GPL-2.0 OR LGPL-2.1
 

@@ -6,15 +6,15 @@ coordinates:
 revisions:
   12d98582e72927b6cd0123e2b4e819f9341ce62c:
     files:
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: vendor/golang.org/x/crypto/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: vendor/golang.org/x/net/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: vendor/golang.org/x/sys/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: vendor/golang.org/x/text/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: vendor/golang.org/x/time/PATENTS
   8348079b5c466abd1eabac09d01cd194fe6602af:
     licensed:

@@ -17,7 +17,7 @@ revisions:
         path: lib/main/build-site.js
       - license: NONE
         path: .github/CONTRIBUTING.md
-      - license: OTHER
+      - license: LicenseRef-scancode-json-pd
         path: vendor/json-js/json2.js
       - license: NONE
         path: vendor/firebug-lite/skin/xp/shadowAlpha.png
