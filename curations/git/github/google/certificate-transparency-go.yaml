@@ -26,13 +26,13 @@ revisions:
           - Copyright 2014 Oleku Konko
         license: MIT
         path: vendor/github.com/coreos/etcd/cmd/vendor/github.com/olekukonko/tablewriter/wrap.go
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: vendor/github.com/coreos/etcd/cmd/vendor/golang.org/x/crypto/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: vendor/github.com/coreos/etcd/cmd/vendor/golang.org/x/net/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: vendor/github.com/coreos/etcd/cmd/vendor/golang.org/x/sys/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: vendor/github.com/coreos/etcd/cmd/vendor/golang.org/x/time/PATENTS
-      - license: OTHER
+      - license: LicenseRef-scancode-google-patent-license-golang
         path: vendor/github.com/coreos/etcd/cmd/vendor/google.golang.org/grpc/PATENTS

@@ -6,7 +6,7 @@ coordinates:
 revisions:
   40d24000786643a012e23f67ffeb4402fa2b4821:
     licensed:
-      declared: OTHER
+      declared: BSD-2-Clause AND LicenseRef-scancode-generic-export-compliance AND CC-BY-3.0
   97e3c42b2a89a2ec60eb93d3f974769e3e3cbdc5:
     files:
       - attributions:
@@ -124,4 +124,4 @@ revisions:
         path: src/util/support/gettimeofday.c
   a6566760ec7c5fb8eca6ae3a6f2729d5002b03e0:
     licensed:
-      declared: OTHER
+      declared: BSD-2-Clause AND LicenseRef-scancode-generic-export-compliance AND CC-BY-3.0
