@@ -29,7 +29,7 @@ revisions:
           - (c) 1995-2013 Jean-loup Gailly and Mark Adler
           - (c) 2014-2017 Vitaly Puzrin and Andrey Tupitsin
           - (c) 2009-2016 Stuart Knightley <stuart at stuartk.com>
-        license: (MIT OR GPL-3.0) AND MIT AND ZLIB
+        license: (MIT OR GPL-3.0-only) AND MIT AND Zlib
         path: dist/jszip.js
       - license: MIT OR GPL-3.0-only
         path: README.markdown
