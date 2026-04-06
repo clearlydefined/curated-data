@@ -6,4 +6,4 @@ coordinates:
 revisions:
   f3f380e8a1d58bf0cdcf3143202c924d239c2699:
     licensed:
-      declared: OTHER
+      declared: mpich2

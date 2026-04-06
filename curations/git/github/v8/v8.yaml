@@ -16,7 +16,7 @@ revisions:
         path: LICENSE.fdlibm
       - attributions:
           - Copyright 2014 the V8 project
-        license: BSD-3-Clause AND OTHER
+        license: BSD-3-Clause AND LicenseRef-scancode-public-domain
         path: src/base/functional.cc
       - attributions:
           - Copyright 2016 the V8 project
