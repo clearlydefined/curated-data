@@ -6,7 +6,7 @@ coordinates:
 revisions:
   11.2.0:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-facebook-software-license
   5.11.2:
     licensed:
-      declared: OTHER
+      declared: LicenseRef-scancode-facebook-software-license
