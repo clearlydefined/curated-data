@@ -60,6 +60,9 @@ revisions:
   2.22.11:
     licensed:
       declared: MIT
+  2.22.23:
+    licensed:
+      declared: MIT
   2.23.32-alpha:
     licensed:
       declared: MIT
