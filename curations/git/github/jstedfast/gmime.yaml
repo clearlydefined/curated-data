@@ -1,0 +1,9 @@
+coordinates:
+  name: gmime
+  namespace: jstedfast
+  provider: github
+  type: git
+revisions:
+  76aee730fedc41dc09e1819d85bf0800bdbc0a2d:
+    licensed:
+      declared: LGPL-2.1-or-later
