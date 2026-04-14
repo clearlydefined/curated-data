@@ -1,0 +1,8 @@
+coordinates:
+  name: webview2-microsoft.web.webview2.core
+  provider: pypi
+  type: pypi
+revisions:
+  3.2.1:
+    licensed:
+      declared: MIT
