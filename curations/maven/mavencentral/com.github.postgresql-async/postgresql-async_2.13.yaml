@@ -1,0 +1,9 @@
+coordinates:
+  name: postgresql-async_2.13
+  namespace: com.github.postgresql-async
+  provider: mavencentral
+  type: maven
+revisions:
+  0.3.0:
+    licensed:
+      declared: MIT-0
