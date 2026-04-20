@@ -1,0 +1,8 @@
+coordinates:
+  name: wrapt
+  provider: pypi
+  type: pypi
+revisions:
+  2.1.2:
+    licensed:
+      declared: BSD-2-Clause
