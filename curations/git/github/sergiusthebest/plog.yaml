@@ -1,0 +1,9 @@
+coordinates:
+  name: plog
+  namespace: sergiusthebest
+  provider: github
+  type: git
+revisions:
+  41e300110575df470cf211458870b3541272bad8:
+    licensed:
+      declared: MPL-2.0
