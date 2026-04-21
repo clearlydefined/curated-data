@@ -19,6 +19,9 @@ revisions:
   v0.0.0-20190306152737-a1d7652674e8:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.0.0-20190312203227-4b39c73a6495:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
   v0.0.0-20190510132918-efd6b22b2522:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
