@@ -1,0 +1,9 @@
+coordinates:
+  name: zlog
+  namespace: github.com%2Fquay
+  provider: golang
+  type: go
+revisions:
+  v1.1.8:
+    licensed:
+      declared: Apache-2.0
