@@ -1,0 +1,9 @@
+coordinates:
+  name: darwin-arm64
+  namespace: '@ffmpeg-installer'
+  provider: npmjs
+  type: npm
+revisions:
+  4.1.5:
+    licensed:
+      declared: LGPL-2.1-or-later
