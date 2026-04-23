@@ -1,0 +1,9 @@
+coordinates:
+  name: rubix-bookkeeper
+  namespace: com.qubole.rubix
+  provider: mavencentral
+  type: maven
+revisions:
+  0.3.0:
+    licensed:
+      declared: Apache-2.0
