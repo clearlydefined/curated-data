@@ -1,0 +1,9 @@
+coordinates:
+  name: wildfly-openssl-windows-x86_64
+  namespace: org.wildfly.openssl
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.7.final:
+    licensed:
+      declared: Apache-2.0
