@@ -1,8 +1,12 @@
 coordinates:
-  name: tqdm
-  provider: pypi
   type: pypi
+  provider: pypi
+  namespace: ""
+  name: tqdm
 revisions:
+  "":
+    licensed:
+      declared: MIT AND MPL-2.0
   4.66.4:
     licensed:
       declared: MPL-2.0
