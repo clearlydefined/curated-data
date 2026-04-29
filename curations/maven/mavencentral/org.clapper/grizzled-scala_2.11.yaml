@@ -1,0 +1,9 @@
+coordinates:
+  name: grizzled-scala_2.11
+  namespace: org.clapper
+  provider: mavencentral
+  type: maven
+revisions:
+  4.2.0:
+    licensed:
+      declared: BSD-3-Clause
