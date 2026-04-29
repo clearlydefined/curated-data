@@ -1,0 +1,9 @@
+coordinates:
+  name: classutil_2.11
+  namespace: org.clapper
+  provider: mavencentral
+  type: maven
+revisions:
+  1.1.2:
+    licensed:
+      declared: BSD-3-Clause
