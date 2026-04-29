@@ -1,0 +1,9 @@
+coordinates:
+  name: adaptivecards-android
+  namespace: io.adaptivecards
+  provider: mavencentral
+  type: maven
+revisions:
+  3.3.1:
+    licensed:
+      declared: OTHER
