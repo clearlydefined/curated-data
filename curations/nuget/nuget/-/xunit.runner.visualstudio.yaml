@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.99.2:
+    licensed:
+      declared: Apache-2.0
   0.99.9-build1021:
     licensed:
       declared: Apache-2.0
@@ -33,7 +36,7 @@ revisions:
         provider: github
         revision: 35a05d52eec887e4f9c809fe991ef1640519f213
         type: git
-        url: 'https://github.com/xunit/xunit/commit/35a05d52eec887e4f9c809fe991ef1640519f213'
+        url: https://github.com/xunit/xunit/commit/35a05d52eec887e4f9c809fe991ef1640519f213
     licensed:
       declared: Apache-2.0
   2.2.0-beta1-build1144:
