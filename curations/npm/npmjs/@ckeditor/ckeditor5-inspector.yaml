@@ -1,0 +1,9 @@
+coordinates:
+  name: ckeditor5-inspector
+  namespace: '@ckeditor'
+  provider: npmjs
+  type: npm
+revisions:
+  5.0.0:
+    licensed:
+      declared: GPL-2.0 OR OTHER
