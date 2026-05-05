@@ -1,0 +1,8 @@
+coordinates:
+  name: levenshtein
+  provider: pypi
+  type: pypi
+revisions:
+  0.27.3:
+    licensed:
+      declared: GPL-2.0-or-later
