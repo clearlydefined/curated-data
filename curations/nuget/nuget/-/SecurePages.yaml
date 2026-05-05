@@ -1,0 +1,8 @@
+coordinates:
+  name: SecurePages
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.5109.19597:
+    licensed:
+      declared: Apache-2.0
