@@ -1,0 +1,9 @@
+coordinates:
+  name: bsh
+  namespace: org.beanshell
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0b5:
+    licensed:
+      declared: SPL-1.0 OR LGPL-2.1-or-later
