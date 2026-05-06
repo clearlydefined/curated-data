@@ -1,0 +1,8 @@
+coordinates:
+  name: jsoncpp
+  provider: nuget
+  type: nuget
+revisions:
+  0.6.0.1:
+    licensed:
+      declared: LicenseRef-scancode-public-domain OR MIT
