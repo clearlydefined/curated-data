@@ -1,0 +1,9 @@
+coordinates:
+  name: jaxb-plugins-runtime
+  namespace: org.jvnet.jaxb
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.2:
+    licensed:
+      declared: BSD-2-Clause-Views
