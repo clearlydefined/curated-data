@@ -1,0 +1,6 @@
+coordinates:
+  name: 23.8.0.25.04
+  namespace: com.oracle.database.security
+  provider: mavencentral
+  type: maven
+revisions: {}
