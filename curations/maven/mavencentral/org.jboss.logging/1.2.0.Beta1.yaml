@@ -1,0 +1,6 @@
+coordinates:
+  name: 1.2.0.Beta1
+  namespace: org.jboss.logging
+  provider: mavencentral
+  type: maven
+revisions: {}
