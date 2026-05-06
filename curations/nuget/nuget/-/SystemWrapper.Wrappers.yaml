@@ -15,3 +15,6 @@ revisions:
   0.25.0.186:
     licensed:
       declared: MS-PL
+  0.6.0:
+    licensed:
+      declared: MS-PL
