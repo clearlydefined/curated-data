@@ -1,0 +1,6 @@
+coordinates:
+  name: 3.0.2
+  namespace: org.jvnet.jaxb
+  provider: mavencentral
+  type: maven
+revisions: {}
