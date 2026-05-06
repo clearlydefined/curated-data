@@ -10,3 +10,6 @@ revisions:
   23.7.0.25.01:
     licensed:
       declared: LicenseRef-scancode-oracle-free-2018
+  23.8.0.25.04:
+    licensed:
+      declared: LicenseRef-scancode-oracle-free-2018
