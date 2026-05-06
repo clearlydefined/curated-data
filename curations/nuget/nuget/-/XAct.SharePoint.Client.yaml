@@ -1,0 +1,8 @@
+coordinates:
+  name: XAct.SharePoint.Client
+  provider: nuget
+  type: nuget
+revisions:
+  0.0.1410.903:
+    licensed:
+      declared: NONE
