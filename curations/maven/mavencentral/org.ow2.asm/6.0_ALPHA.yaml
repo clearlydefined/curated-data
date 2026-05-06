@@ -1,0 +1,6 @@
+coordinates:
+  name: 6.0_ALPHA
+  namespace: org.ow2.asm
+  provider: mavencentral
+  type: maven
+revisions: {}
