@@ -1,0 +1,8 @@
+coordinates:
+  name: MouseKeyboardActivityMonitor
+  provider: nuget
+  type: nuget
+revisions:
+  4.0.5150.10665:
+    licensed:
+      declared: BSD-3-Clause
