@@ -1,0 +1,9 @@
+coordinates:
+  name: claude-code
+  namespace: '@anthropic-ai'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.128:
+    licensed:
+      declared: LicenseRef-scancode-anthropic-commercial-tos-2025
