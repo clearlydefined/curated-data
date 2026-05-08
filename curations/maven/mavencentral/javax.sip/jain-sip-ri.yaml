@@ -7,3 +7,6 @@ revisions:
   1.2.344:
     licensed:
       declared: OTHER
+  1.3.0-91:
+    licensed:
+      declared: LicenseRef-scancode-public-domain
