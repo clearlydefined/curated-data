@@ -24,3 +24,6 @@ revisions:
   1.78.1:
     licensed:
       declared: Apache-2.0
+  1.80.0:
+    licensed:
+      declared: Apache-2.0
