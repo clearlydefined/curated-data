@@ -1,0 +1,8 @@
+coordinates:
+  name: fNbt-netcore
+  provider: nuget
+  type: nuget
+revisions:
+  0.6.5:
+    licensed:
+      declared: MIT
