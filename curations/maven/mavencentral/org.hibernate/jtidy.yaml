@@ -1,0 +1,9 @@
+coordinates:
+  name: jtidy
+  namespace: org.hibernate
+  provider: mavencentral
+  type: maven
+revisions:
+  r8-20060801:
+    licensed:
+      declared: HTMLTIDY
