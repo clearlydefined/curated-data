@@ -7,3 +7,6 @@ revisions:
   2.5.0:
     licensed:
       declared: Apache-1.1
+  2.7.0-m1:
+    licensed:
+      declared: Apache-1.1
