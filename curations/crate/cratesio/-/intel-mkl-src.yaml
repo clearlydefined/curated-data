@@ -5,4 +5,4 @@ coordinates:
 revisions:
   0.8.1:
     licensed:
-      declared: OTHER
+      declared: MIT AND LicenseRef-scancode-issl-2018
