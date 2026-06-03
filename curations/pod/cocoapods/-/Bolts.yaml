@@ -5,7 +5,7 @@ coordinates:
 revisions:
   1.9.0:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND LicenseRef-scancode-facebook-patent-rights-2
   1.9.1:
     licensed:
-      declared: BSD-3-Clause AND OTHER
+      declared: BSD-3-Clause AND LicenseRef-scancode-facebook-patent-rights-2
