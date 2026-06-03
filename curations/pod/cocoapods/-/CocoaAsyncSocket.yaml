@@ -5,13 +5,13 @@ coordinates:
 revisions:
   7.6.0:
     licensed:
-      declared: OTHER OR BSD-Source-Code
+      declared: LicenseRef-scancode-public-domain OR BSD-Source-Code
   7.6.3:
     licensed:
-      declared: OTHER OR BSD-Source-Code
+      declared: LicenseRef-scancode-public-domain OR BSD-Source-Code
   7.6.4:
     licensed:
-      declared: OTHER OR BSD-Source-Code
+      declared: LicenseRef-scancode-public-domain OR BSD-Source-Code
   7.6.5:
     licensed:
-      declared: OTHER OR BSD-Source-Code
+      declared: LicenseRef-scancode-public-domain OR BSD-Source-Code
