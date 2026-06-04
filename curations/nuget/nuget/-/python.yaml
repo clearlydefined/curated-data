@@ -59,7 +59,7 @@ revisions:
       declared: Python-2.0.1 AND OTHER
   3.12.4:
     licensed:
-      declared: Python-2.0
+      declared: Python-2.0.1 AND OTHER
   3.12.6:
     licensed:
       declared: Python-2.0.1 AND OTHER
