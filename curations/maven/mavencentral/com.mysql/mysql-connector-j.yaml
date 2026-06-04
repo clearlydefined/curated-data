@@ -6,31 +6,31 @@ coordinates:
 revisions:
   8.0.31:
     licensed:
-      declared: GPL-2.0-only WITH OTHER AND GPL-2.0-only WITH Universal-FOSS-exception-1.0
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
   8.3.0:
     licensed:
-      declared: GPL-2.0-only WITH OTHER AND GPL-2.0-only WITH Universal-FOSS-exception-1.0
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
   8.4.0:
     licensed:
-      declared: GPL-2.0-only WITH OTHER AND GPL-2.0-only WITH Universal-FOSS-exception-1.0
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
   9.0.0:
     licensed:
-      declared: GPL-2.0-only WITH OTHER AND GPL-2.0-only WITH Universal-FOSS-exception-1.0
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
   9.1.0:
     licensed:
-      declared: GPL-2.0-only WITH OTHER AND GPL-2.0-only WITH Universal-FOSS-exception-1.0
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
   9.2.0:
     licensed:
-      declared: GPL-2.0-only WITH OTHER AND GPL-2.0-only WITH Universal-FOSS-exception-1.0
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
   9.3.0:
     licensed:
-      declared: GPL-2.0-only WITH OTHER AND GPL-2.0-only WITH Universal-FOSS-exception-1.0
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
   9.4.0:
     licensed:
-      declared: GPL-2.0-only WITH OTHER AND GPL-2.0-only WITH Universal-FOSS-exception-1.0
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
   9.5.0:
     licensed:
-      declared: GPL-2.0-only WITH OTHER AND GPL-2.0-only WITH Universal-FOSS-exception-1.0
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
   9.6.0:
     licensed:
-      declared: GPL-2.0-only WITH OTHER AND GPL-2.0-only WITH Universal-FOSS-exception-1.0
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
