@@ -6,7 +6,7 @@ coordinates:
 revisions:
   '6.12':
     licensed:
-      declared: LGPL-2.1-only
+      declared: LGPL-2.1-or-later
   '6.18':
     licensed:
       declared: LGPL-2.1-or-later
@@ -14,6 +14,9 @@ revisions:
     licensed:
       declared: LGPL-2.1-or-later
   '6.9':
+    licensed:
+      declared: LGPL-2.1-or-later
+  '7.3':
     licensed:
       declared: LGPL-2.1-or-later
   '8.29':
