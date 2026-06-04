@@ -9,9 +9,9 @@ revisions:
         path: fonts/emoji-icon-font.ttf
       - attributions:
           - Copyright 2011 Canonical Ltd.
-        license: NONE
+        license: Ubuntu-font-1.0
         path: fonts/Ubuntu-Light.ttf
-      - license: NONE
+      - license: Ubuntu-font-1.0
         path: fonts/UFL.txt
     licensed:
       declared: MIT OR Apache-2.0
