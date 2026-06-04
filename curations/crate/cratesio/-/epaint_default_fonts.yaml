@@ -1,0 +1,8 @@
+coordinates:
+  name: epaint_default_fonts
+  provider: cratesio
+  type: crate
+revisions:
+  0.31.0:
+    licensed:
+      declared: MIT OR Apache-2.0
