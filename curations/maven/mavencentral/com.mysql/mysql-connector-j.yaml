@@ -34,3 +34,6 @@ revisions:
   9.6.0:
     licensed:
       declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
+  9.7.0:
+    licensed:
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
