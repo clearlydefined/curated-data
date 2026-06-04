@@ -1,0 +1,8 @@
+coordinates:
+  name: IronSoftware.Common
+  provider: nuget
+  type: nuget
+revisions:
+  2025.11.2:
+    licensed:
+      declared: OTHER
