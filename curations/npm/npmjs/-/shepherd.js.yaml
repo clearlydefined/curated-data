@@ -1,0 +1,8 @@
+coordinates:
+  name: shepherd.js
+  provider: npmjs
+  type: npm
+revisions:
+  14.5.1:
+    licensed:
+      declared: AGPL-3.0-only OR OTHER
