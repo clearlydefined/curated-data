@@ -31,3 +31,6 @@ revisions:
   '20240303':
     licensed:
       declared: LicenseRef-scancode-public-domain
+  '20260522':
+    licensed:
+      declared: LicenseRef-scancode-public-domain
