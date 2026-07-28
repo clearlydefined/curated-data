@@ -1,0 +1,9 @@
+coordinates:
+  name: ebt
+  namespace: '@elastic'
+  provider: npmjs
+  type: npm
+revisions:
+  1.4.1:
+    licensed:
+      declared: Elastic-2.0 OR SSPL-1.0
