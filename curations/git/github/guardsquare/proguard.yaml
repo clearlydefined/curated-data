@@ -6,4 +6,4 @@ coordinates:
 revisions:
   ebe9000c9baa36a53dc63902b96956c9525ab052:
     licensed:
-      declared: GPL-2.0-or-later AND OTHER
+      declared: GPL-2.0-or-later AND OTHER # https://github.com/Guardsquare/proguard/blob/ebe9000c9baa36a53dc63902b96956c9525ab052/LICENSE_exception.md

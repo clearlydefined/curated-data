@@ -32,9 +32,9 @@ revisions:
         path: core/src/main/java/org/jruby/internal/runtime/methods/NullMethod.java
       - license: LicenseRef-scancode-public-domain
         path: core/src/main/java/org/jruby/util/MurmurHash.java
-      - license: (EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND OTHER
+      - license: (EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND CC-PDDC
         path: core/src/main/java/org/jruby/util/collections/ConcurrentWeakHashMap.java
-      - license: OTHER
+      - license: CC-PDDC
         path: core/src/main/java/org/jruby/util/collections/NonBlockingHashMapLong.java
       - license: LicenseRef-scancode-public-domain
         path: core/src/test/java/org/jruby/util/MurmurHashTest.java

@@ -5,4 +5,4 @@ coordinates:
 revisions:
   0.2.3:
     licensed:
-      declared: MIT AND OTHER
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise-mono
