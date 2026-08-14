@@ -5,10 +5,10 @@ coordinates:
 revisions:
   1.1.0:
     licensed:
-      declared: MIT
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   1.2.0:
     licensed:
-      declared: MIT
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
   1.3.0:
     licensed:
-      declared: MIT AND OTHER
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
