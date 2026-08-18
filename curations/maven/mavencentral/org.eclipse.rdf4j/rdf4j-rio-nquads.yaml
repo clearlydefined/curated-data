@@ -1,0 +1,9 @@
+coordinates:
+  name: rdf4j-rio-nquads
+  namespace: org.eclipse.rdf4j
+  provider: mavencentral
+  type: maven
+revisions:
+  3.7.7:
+    licensed:
+      declared: BSD-3-Clause
