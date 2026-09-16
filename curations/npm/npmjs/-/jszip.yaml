@@ -5,28 +5,31 @@ coordinates:
 revisions:
   2.4.0:
     licensed:
-      declared: GPL-3.0-only OR MIT
+      declared: GPL-3.0-or-later OR MIT
   2.5.0:
     licensed:
-      declared: GPL-3.0-only OR MIT
+      declared: GPL-3.0-or-later OR MIT
   3.10.1:
     licensed:
-      declared: GPL-3.0-only OR MIT
+      declared: GPL-3.0-or-later OR MIT
   3.2.0:
     files:
       - license: MIT
         path: package/vendor/FileSaver.js
       - attributions:
-          - '(c) 2009-2016 Stuart Knightley <stuart [at] stuartk.com>'
-        license: GPL-3.0-only OR MIT
+          - (c) 2009-2016 Stuart Knightley <stuart [at] stuartk.com>
+        license: GPL-3.0-or-later OR MIT
         path: package/lib/license_header.js
       - license: NONE
         path: package/lib/zipEntry.js
       - attributions:
-          - 'Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, Antonio Afonso'
-        license: GPL-3.0-only OR MIT
+          - Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, Antonio Afonso
+        license: GPL-3.0-or-later OR MIT
         path: package/LICENSE.markdown
-      - license: GPL-3.0-only OR MIT
+      - license: GPL-3.0-or-later OR MIT
         path: package/README.markdown
     licensed:
-      declared: GPL-3.0-only OR MIT
+      declared: GPL-3.0-or-later OR MIT
+  3.9.1:
+    licensed:
+      declared: GPL-3.0-or-later OR MIT
