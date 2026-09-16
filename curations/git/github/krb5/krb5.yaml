@@ -10,6 +10,11 @@ revisions:
   97e3c42b2a89a2ec60eb93d3f974769e3e3cbdc5:
     files:
       - attributions:
+          - Copyright 1992-2018 Free Software Foundation, Inc.
+          - Copyright (c) 2010, 2011 by the Massachusetts Institute of Technology.
+        license: GPL-3.0-or-later WITH Autoconf-exception-generic-3.0
+        path: src/config/config.guess
+      - attributions:
           - Copyright (c) 2001, Dr Brian Gladman <brg@gladman.uk.net> , Worcester, UK.
           - Copyright (c) 2010, 2011 by the Massachusetts Institute of Technology.
         license: Brian-Gladman-3-Clause-no-conversion
