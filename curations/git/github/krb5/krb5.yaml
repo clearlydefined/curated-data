@@ -12,7 +12,7 @@ revisions:
       - attributions:
           - Copyright (c) 2001, Dr Brian Gladman <brg@gladman.uk.net> , Worcester, UK.
           - Copyright (c) 2010, 2011 by the Massachusetts Institute of Technology.
-        license: Brian-Gladman-3-Clause
+        license: Brian-Gladman-3-Clause-no-conversion
         path: src/lib/crypto/builtin/aes/aesopt.h
       - attributions:
           - Copyright 1992-2018 Free Software Foundation, Inc.
