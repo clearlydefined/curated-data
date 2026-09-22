@@ -1,0 +1,8 @@
+coordinates:
+  name: WixToolset.WixStandardBootstrapperApplicationFunctionApi
+  provider: nuget
+  type: nuget
+revisions:
+  6.0.2:
+    licensed:
+      declared: LicenseRef-scancode-os-maintenance-fee-eula
