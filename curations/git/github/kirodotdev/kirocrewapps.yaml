@@ -1,0 +1,9 @@
+coordinates:
+  name: kirocrewapps
+  namespace: kirodotdev
+  provider: github
+  type: git
+revisions:
+  a3822e0ca74b5ac848663eefba9b8f7b874a15a7:
+    licensed:
+      declared: Apache-2.0
