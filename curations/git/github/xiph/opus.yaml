@@ -12,7 +12,7 @@ revisions:
       declared: BSD-3-Clause AND LicenseRef-scancode-broadcom-opus-patent AND LicenseRef-scancode-ms-opus-patent-2012 AND LicenseRef-scancode-xiph-patent
   82ac57d9f1aaf575800cf17373348e45b7ce6c0d:
     licensed:
-      declared: BSD-3-Clause
+      declared: BSD-3-Clause AND LicenseRef-scancode-broadcom-opus-patent AND LicenseRef-scancode-ms-opus-patent-2012 AND LicenseRef-scancode-xiph-patent
   aa32042a50f2cbe0ff9d339948cb4712f5cc3d6e:
     licensed:
       declared: BSD-3-Clause AND LicenseRef-scancode-broadcom-opus-patent AND LicenseRef-scancode-ms-opus-patent-2012 AND LicenseRef-scancode-xiph-patent
