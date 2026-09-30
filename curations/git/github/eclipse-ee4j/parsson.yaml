@@ -6,4 +6,4 @@ coordinates:
 revisions:
   f7204e83adb07bfe9f722bbd914dc680b1071114:
     licensed:
-      declared: EPL-2.0 OR GPL-2.0-with-classpath-exception
+      declared: EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0
