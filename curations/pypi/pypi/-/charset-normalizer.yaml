@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  2.1.0:
+    licensed:
+      declared: MIT
   3.3.2:
     licensed:
       declared: MIT
@@ -18,10 +21,16 @@ revisions:
   3.4.4:
     licensed:
       declared: MIT
+  3.4.5:
+    licensed:
+      declared: MIT
   3.4.6:
     licensed:
       declared: MIT
   3.4.7:
+    licensed:
+      declared: MIT
+  3.4.8:
     licensed:
       declared: MIT
   3.4.9:
