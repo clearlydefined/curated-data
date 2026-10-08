@@ -1,0 +1,105 @@
+coordinates:
+  name: text
+  namespace: golang.org%2Fx
+  provider: golang
+  type: go
+revisions:
+  v0.0.0-20160702143019-ce78b075c2fb:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.0.0-20160726164857-2910a502d2bf:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.0.0-20170915032832-14c0d48ead0c:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.1.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.10.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.11.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.12.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.13.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.14.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.15.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.16.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.17.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.18.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.19.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.2.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.20.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.1:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.1-0.20180807135948-17ff2d5776d2:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.1-0.20181227161524-e6919f6577db:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.2:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.3:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.4:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.5:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.6:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.7:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.7-0.20210503195748-5c7c50ebbd4f:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.8:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.3.8-0.20211105212822-18b340fc7af2:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.5.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.7.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.8.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
+  v0.9.0:
+    licensed:
+      declared: BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang
