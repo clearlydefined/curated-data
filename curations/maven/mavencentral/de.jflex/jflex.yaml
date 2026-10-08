@@ -1,0 +1,9 @@
+coordinates:
+  name: jflex
+  namespace: de.jflex
+  provider: mavencentral
+  type: maven
+revisions:
+  1.4.3:
+    licensed:
+      declared: OTHER
