@@ -7,3 +7,6 @@ revisions:
   0687f71944021d616d34d922343dcef086855920:
     licensed:
       declared: Apache-2.0 WITH Swift-exception
+  cb53fa1bd3219b0b23ded7dfdd3b2baff266fd25:
+    licensed:
+      declared: Apache-2.0 WITH Swift-exception
