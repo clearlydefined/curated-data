@@ -7,6 +7,18 @@ revisions:
   309a47b2b1d9b5e991f36961c983ecec72275be3:
     licensed:
       declared: Apache-2.0 WITH Swift-exception
+  41982a3656a71c768319979febd796c6fd111d5c:
+    licensed:
+      declared: Apache-2.0 WITH Swift-exception
   46989693916f56d1186bd59ac15124caef896560:
+    licensed:
+      declared: Apache-2.0 WITH Swift-exception
+  9f39744e025c7d377987f30b03770805dcb0bcd1:
+    licensed:
+      declared: Apache-2.0 WITH Swift-exception
+  cdd0ef3755280949551dc26dee5de9ddeda89f54:
+    licensed:
+      declared: Apache-2.0 WITH Swift-exception
+  fddd1c00396eed152c45a46bea9f47b98e59301d:
     licensed:
       declared: Apache-2.0 WITH Swift-exception
