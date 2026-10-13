@@ -1,9 +1,12 @@
 coordinates:
   name: mysql
-  namespace: github.com%2fgo-sql-driver
+  namespace: github.com%2Fgo-sql-driver
   provider: golang
   type: go
 revisions:
+  v1.10.0:
+    licensed:
+      declared: MPL-2.0
   v1.9.2:
     licensed:
       declared: MPL-2.0
