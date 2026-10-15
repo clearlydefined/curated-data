@@ -253,6 +253,15 @@ revisions:
   1.64.0-sp.1:
     licensed:
       declared: BSD-3-Clause
+  2.18.1:
+    licensed:
+      declared: BSD-3-Clause
+  2.19.0:
+    licensed:
+      declared: BSD-3-Clause
   2.23.2:
+    licensed:
+      declared: BSD-3-Clause
+  2.7.1:
     licensed:
       declared: BSD-3-Clause
