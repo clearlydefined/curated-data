@@ -1,0 +1,9 @@
+coordinates:
+  name: beam-sdks-java-core
+  namespace: org.apache.beam
+  provider: mavencentral
+  type: maven
+revisions:
+  2.55.1:
+    licensed:
+      declared: Apache-2.0
