@@ -1,0 +1,9 @@
+coordinates:
+  name: scalatra-common-jakarta_2.13
+  namespace: org.scalatra
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.0:
+    licensed:
+      declared: BSD-2-Clause
