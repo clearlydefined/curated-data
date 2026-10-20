@@ -1,0 +1,8 @@
+coordinates:
+  name: jsoncpp.redist
+  provider: nuget
+  type: nuget
+revisions:
+  0.6.0.1:
+    licensed:
+      declared: MIT OR LicenseRef-scancode-public-domain
