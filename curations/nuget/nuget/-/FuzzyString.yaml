@@ -1,0 +1,8 @@
+coordinates:
+  name: FuzzyString
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: EPL-1.0
