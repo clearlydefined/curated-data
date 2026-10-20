@@ -9,3 +9,6 @@ revisions:
   3.4.3.3016:
     licensed:
       declared: GPL-3.0
+  4.1.0.3420:
+    licensed:
+      declared: GPL-3.0-only
