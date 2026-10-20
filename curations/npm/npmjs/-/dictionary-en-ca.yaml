@@ -1,0 +1,8 @@
+coordinates:
+  name: dictionary-en-ca
+  provider: npmjs
+  type: npm
+revisions:
+  3.0.0:
+    licensed:
+      declared: MIT
