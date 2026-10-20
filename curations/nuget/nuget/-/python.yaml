@@ -129,6 +129,9 @@ revisions:
   3.9.0-a4:
     licensed:
       declared: Python-2.0.1 AND OTHER
+  3.9.3:
+    licensed:
+      declared: Python-2.0.1 AND OTHER
   3.9.4:
     licensed:
       declared: Python-2.0.1 AND OTHER
