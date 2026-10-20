@@ -1,0 +1,8 @@
+coordinates:
+  name: runtime.win-x86.Microsoft.NETCore.ILDAsm
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.3:
+    licensed:
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
