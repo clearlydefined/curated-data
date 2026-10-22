@@ -252,7 +252,46 @@ revisions:
   4.0.4:
     licensed:
       declared: BSD-2-Clause
+  4.0.5:
+    licensed:
+      declared: ISC
+  4.0.6:
+    licensed:
+      declared: ISC
+  4.1.2:
+    licensed:
+      declared: ISC
+  4.1.2-beta:
+    licensed:
+      declared: ISC
+  4.1.3:
+    licensed:
+      declared: ISC
+  4.1.4:
+    licensed:
+      declared: ISC
+  4.1.5:
+    licensed:
+      declared: ISC
+  4.1.6:
+    licensed:
+      declared: ISC
+  4.2.0:
+    licensed:
+      declared: ISC
+  4.2.1:
+    licensed:
+      declared: ISC
+  4.2.2:
+    licensed:
+      declared: ISC
   7.1.3:
+    licensed:
+      declared: ISC
+  7.1.4:
+    licensed:
+      declared: ISC
+  7.1.5:
     licensed:
       declared: ISC
   7.1.6:
@@ -261,9 +300,66 @@ revisions:
   7.1.7:
     licensed:
       declared: ISC
+  7.2.0:
+    licensed:
+      declared: ISC
+  7.2.2:
+    licensed:
+      declared: ISC
   7.2.3:
     licensed:
       declared: ISC
+  8.0.1:
+    licensed:
+      declared: ISC
+  8.0.2:
+    licensed:
+      declared: ISC
+  8.0.3:
+    licensed:
+      declared: ISC
   8.1.0:
+    licensed:
+      declared: ISC
+  9.0.0:
+    licensed:
+      declared: ISC
+  9.0.1:
+    licensed:
+      declared: ISC
+  9.0.2:
+    licensed:
+      declared: ISC
+  9.1.0:
+    licensed:
+      declared: ISC
+  9.1.1:
+    licensed:
+      declared: ISC
+  9.1.2:
+    licensed:
+      declared: ISC
+  9.2.0:
+    licensed:
+      declared: ISC
+  9.2.1:
+    licensed:
+      declared: ISC
+  9.3.0:
+    licensed:
+      declared: ISC
+  9.3.1:
+    licensed:
+      declared: ISC
+  9.3.2:
+    licensed:
+      declared: ISC
+  9.3.3:
+    licensed:
+      declared: ISC
+  9.3.4:
+    licensed:
+      declared: ISC
+  9.3.5:
     licensed:
       declared: ISC
