@@ -1,0 +1,9 @@
+coordinates:
+  name: compiler-bridge_2.12
+  namespace: org.scala-sbt
+  provider: mavencentral
+  type: maven
+revisions:
+  1.2.5:
+    licensed:
+      declared: BSD-3-Clause
