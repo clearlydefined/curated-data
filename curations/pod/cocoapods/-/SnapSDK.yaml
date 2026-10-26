@@ -1,0 +1,8 @@
+coordinates:
+  name: SnapSDK
+  provider: cocoapods
+  type: pod
+revisions:
+  2.5.0:
+    licensed:
+      declared: OTHER
