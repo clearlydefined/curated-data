@@ -1,0 +1,9 @@
+coordinates:
+  name: flamegraph
+  namespace: brendangregg
+  provider: github
+  type: git
+revisions:
+  a258e78f17abdf2ce21c2515cfe8306a44774e2a:
+    licensed:
+      declared: CDDL-1.0
