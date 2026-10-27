@@ -1,0 +1,9 @@
+coordinates:
+  name: core
+  namespace: '@react-editor-js'
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.0:
+    licensed:
+      declared: MIT
