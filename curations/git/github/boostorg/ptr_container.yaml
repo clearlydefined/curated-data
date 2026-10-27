@@ -1,0 +1,9 @@
+coordinates:
+  name: ptr_container
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  b95caec2762fd9835fd6ffb4e477e9cd5d5c4d87:
+    licensed:
+      declared: BSL-1.0

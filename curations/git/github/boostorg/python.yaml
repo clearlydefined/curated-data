@@ -1,0 +1,9 @@
+coordinates:
+  name: python
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  99022d2eb8fab7a433321b8b67249b87bacc44fb:
+    licensed:
+      declared: BSL-1.0

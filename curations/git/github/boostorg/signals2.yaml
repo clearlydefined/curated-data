@@ -1,0 +1,9 @@
+coordinates:
+  name: signals2
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  45efa525ce791f38756072eee931f3a20cf87841:
+    licensed:
+      declared: BSL-1.0
