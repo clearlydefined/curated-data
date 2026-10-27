@@ -1,0 +1,9 @@
+coordinates:
+  name: graph_parallel
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  5e4479facfa4eb5afe68f34b6307ea0d327c9027:
+    licensed:
+      declared: BSL-1.0
