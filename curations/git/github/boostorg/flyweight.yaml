@@ -1,0 +1,9 @@
+coordinates:
+  name: flyweight
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  3a5bcd22f0944b43f40ce9451740e0d50f8235ba:
+    licensed:
+      declared: BSL-1.0
