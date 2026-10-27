@@ -1,0 +1,9 @@
+coordinates:
+  name: 7zip
+  namespace: ip7z
+  provider: github
+  type: git
+revisions:
+  93be7d4abfd4233228f58ee1fbbcd76d91be66a4:
+    licensed:
+      declared: LGPL-2.1-or-later
