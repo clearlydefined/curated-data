@@ -1,0 +1,9 @@
+coordinates:
+  name: afdko
+  namespace: adobe-type-tools
+  provider: github
+  type: git
+revisions:
+  dc6b8475a1247402477376e479dfe3e418976b90:
+    licensed:
+      declared: Apache-2.0
