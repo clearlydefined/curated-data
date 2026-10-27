@@ -1,0 +1,9 @@
+coordinates:
+  name: heap
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  0b89b24aa9a3c661b81287554a4ebdbf3946f94a:
+    licensed:
+      declared: BSL-1.0

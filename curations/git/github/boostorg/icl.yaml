@@ -1,0 +1,9 @@
+coordinates:
+  name: icl
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  818cfd99641d02c0986229a72f46d50b0ea2ac86:
+    licensed:
+      declared: BSL-1.0
