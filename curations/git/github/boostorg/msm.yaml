@@ -1,0 +1,9 @@
+coordinates:
+  name: msm
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  f1bce7c479e487b4821e10dfcd79bae96290d540:
+    licensed:
+      declared: BSL-1.0
