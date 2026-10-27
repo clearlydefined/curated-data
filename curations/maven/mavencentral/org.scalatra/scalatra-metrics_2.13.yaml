@@ -7,6 +7,6 @@ revisions:
   2.8.4:
     licensed:
       declared: BSD-2-Clause
-  3.0.0-m1:
+  3.0.0-M1:
     licensed:
       declared: BSD-2-Clause
