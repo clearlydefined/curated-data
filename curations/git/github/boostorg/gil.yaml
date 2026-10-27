@@ -1,0 +1,9 @@
+coordinates:
+  name: gil
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  85fb44d6eb4fde45160856a4de41bc098e7339f8:
+    licensed:
+      declared: BSL-1.0
