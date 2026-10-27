@@ -1,0 +1,9 @@
+coordinates:
+  name: jfx
+  namespace: openjdk
+  provider: github
+  type: git
+revisions:
+  86e71094b54901487b93c53eb5bcaf6bf9bee92b:
+    licensed:
+      declared: GPL-2.0-only WITH Classpath-exception-2.0
