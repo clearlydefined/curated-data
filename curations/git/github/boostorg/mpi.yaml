@@ -1,0 +1,9 @@
+coordinates:
+  name: mpi
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  772337fa4749d5de7699842b6dae603f83d70db5:
+    licensed:
+      declared: BSL-1.0
