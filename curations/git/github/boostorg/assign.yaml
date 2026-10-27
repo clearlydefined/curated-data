@@ -1,0 +1,9 @@
+coordinates:
+  name: assign
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  92c14dace9ed011128eebc3b52bb64f46081cb30:
+    licensed:
+      declared: BSL-1.0
