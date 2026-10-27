@@ -1,0 +1,9 @@
+coordinates:
+  name: type_erasure
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  931bdd3456dbf5d8055578eb6a236910a5cede5e:
+    licensed:
+      declared: BSL-1.0

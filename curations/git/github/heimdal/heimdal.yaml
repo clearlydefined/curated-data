@@ -1,0 +1,9 @@
+coordinates:
+  name: heimdal
+  namespace: heimdal
+  provider: github
+  type: git
+revisions:
+  1521f7c134b586a1fe1880253962621ec1f37d37:
+    licensed:
+      declared: BSD-3-Clause
