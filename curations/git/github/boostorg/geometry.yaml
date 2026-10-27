@@ -1,0 +1,9 @@
+coordinates:
+  name: geometry
+  namespace: boostorg
+  provider: github
+  type: git
+revisions:
+  2140e5cd3d984de99f037e59602b4e2c0f2b6c66:
+    licensed:
+      declared: BSL-1.0
