@@ -27,3 +27,6 @@ revisions:
   7.0.0:
     licensed:
       declared: MIT AND LicenseRef-scancode-ms-patent-promise
+  9.1.0:
+    licensed:
+      declared: MIT AND LicenseRef-scancode-ms-patent-promise
