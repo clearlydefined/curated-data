@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  10.0.7:
+    licensed:
+      declared: LicenseRef-scancode-chillicream-1.0
   13.0.0:
     licensed:
       declared: LicenseRef-scancode-chillicream-1.0
