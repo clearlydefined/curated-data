@@ -1,5 +1,5 @@
 coordinates:
-  name: json
+  name: JSON
   provider: npmjs
   type: npm
 revisions:
