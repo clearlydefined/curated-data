@@ -1,0 +1,8 @@
+coordinates:
+  name: MSBuild.Microsoft.VisualStudio.Tools.Office.targets
+  provider: nuget
+  type: nuget
+revisions:
+  15.0.1:
+    licensed:
+      declared: NONE

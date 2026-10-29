@@ -1,0 +1,8 @@
+coordinates:
+  name: Hangfire.AzureCosmosDB
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.8:
+    licensed:
+      declared: MIT
