@@ -12,3 +12,6 @@ revisions:
   0.8.1:
     licensed:
       declared: MIT
+  3.0.2:
+    licensed:
+      declared: LicenseRef-scancode-os-maintenance-fee-eula
