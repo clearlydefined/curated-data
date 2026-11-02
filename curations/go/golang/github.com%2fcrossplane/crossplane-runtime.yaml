@@ -4,14 +4,6 @@ coordinates:
   provider: golang
   type: go
 revisions:
-  v0.16.1:
-    files:
-      - attributions:
-          - Copyright (c) 2004, 2006 The Linux Foundation and its contributors
-        license: LicenseRef-scancode-dco-1.1
-        path: github.com/crossplane/crossplane-runtime@v0.16.1/DCO
-    licensed:
-      declared: Apache-2.0
   v0.19.2:
     licensed:
       declared: Apache-2.0
