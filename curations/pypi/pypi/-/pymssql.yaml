@@ -6,3 +6,6 @@ revisions:
   2.1.4:
     licensed:
       declared: LGPL-2.1-or-later
+  2.3.13:
+    licensed:
+      declared: LGPL-2.1-or-later
