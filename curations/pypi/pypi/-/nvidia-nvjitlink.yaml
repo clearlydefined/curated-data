@@ -1,0 +1,8 @@
+coordinates:
+  name: nvidia-nvjitlink
+  provider: pypi
+  type: pypi
+revisions:
+  13.5.37:
+    licensed:
+      declared: OTHER

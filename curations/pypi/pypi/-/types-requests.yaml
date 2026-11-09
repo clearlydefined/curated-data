@@ -1,0 +1,8 @@
+coordinates:
+  name: types-requests
+  provider: pypi
+  type: pypi
+revisions:
+  2.33.0.20261006:
+    licensed:
+      declared: Apache-2.0

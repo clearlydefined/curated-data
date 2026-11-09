@@ -1,0 +1,9 @@
+coordinates:
+  name: react-spinbutton
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.6.8:
+    licensed:
+      declared: MIT

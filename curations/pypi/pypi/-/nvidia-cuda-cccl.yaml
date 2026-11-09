@@ -1,0 +1,8 @@
+coordinates:
+  name: nvidia-cuda-cccl
+  provider: pypi
+  type: pypi
+revisions:
+  13.3.5.0.6:
+    licensed:
+      declared: OTHER

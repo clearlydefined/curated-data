@@ -1,0 +1,8 @@
+coordinates:
+  name: keyborg
+  provider: npmjs
+  type: npm
+revisions:
+  3.498.0:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: react-select
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.5.7:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: react-toast
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.8.5:
+    licensed:
+      declared: MIT

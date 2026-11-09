@@ -1,0 +1,8 @@
+coordinates:
+  name: pydantic-core
+  provider: pypi
+  type: pypi
+revisions:
+  2.50.2:
+    licensed:
+      declared: MIT

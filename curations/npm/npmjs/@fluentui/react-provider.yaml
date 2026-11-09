@@ -1,0 +1,9 @@
+coordinates:
+  name: react-provider
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.22.23:
+    licensed:
+      declared: MIT

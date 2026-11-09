@@ -1,0 +1,9 @@
+coordinates:
+  name: react-infolabel
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.4.28:
+    licensed:
+      declared: MIT

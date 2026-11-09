@@ -1,0 +1,8 @@
+coordinates:
+  name: azure-storage-blob
+  provider: pypi
+  type: pypi
+revisions:
+  12.31.1:
+    licensed:
+      declared: MIT

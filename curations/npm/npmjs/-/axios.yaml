@@ -1,0 +1,8 @@
+coordinates:
+  name: axios
+  provider: npmjs
+  type: npm
+revisions:
+  1.21.0:
+    licensed:
+      declared: MIT

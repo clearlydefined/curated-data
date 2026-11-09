@@ -1,0 +1,9 @@
+coordinates:
+  name: react-tooltip
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.10.8:
+    licensed:
+      declared: MIT

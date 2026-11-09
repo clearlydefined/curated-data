@@ -1,0 +1,8 @@
+coordinates:
+  name: notebook
+  provider: pypi
+  type: pypi
+revisions:
+  7.6.3:
+    licensed:
+      declared: BSD-3-Clause

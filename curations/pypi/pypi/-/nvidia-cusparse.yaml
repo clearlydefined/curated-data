@@ -1,0 +1,8 @@
+coordinates:
+  name: nvidia-cusparse
+  provider: pypi
+  type: pypi
+revisions:
+  12.7.10.12:
+    licensed:
+      declared: OTHER

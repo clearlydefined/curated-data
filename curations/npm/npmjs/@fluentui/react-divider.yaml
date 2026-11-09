@@ -1,0 +1,9 @@
+coordinates:
+  name: react-divider
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.7.6:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: react-motion-components-preview
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  0.15.10:
+    licensed:
+      declared: MIT

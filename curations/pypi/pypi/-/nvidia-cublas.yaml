@@ -1,0 +1,8 @@
+coordinates:
+  name: nvidia-cublas
+  provider: pypi
+  type: pypi
+revisions:
+  13.4.1.3:
+    licensed:
+      declared: OTHER

@@ -1,0 +1,9 @@
+coordinates:
+  name: react-card
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.7.4:
+    licensed:
+      declared: MIT

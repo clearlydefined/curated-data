@@ -1,0 +1,8 @@
+coordinates:
+  name: websockets
+  provider: pypi
+  type: pypi
+revisions:
+  '17.4':
+    licensed:
+      declared: BSD-3-Clause

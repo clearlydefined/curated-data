@@ -13,3 +13,6 @@ revisions:
         revision: 16a455faaa3d82848b37a14096e4ac679359ebb9
         type: git
         url: 'https://github.com/microsoft/fluentui/commit/16a455faaa3d82848b37a14096e4ac679359ebb9'
+  9.75.0:
+    licensed:
+      declared: MIT

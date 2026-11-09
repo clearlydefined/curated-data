@@ -1,0 +1,8 @@
+coordinates:
+  name: cuda-pathfinder
+  provider: pypi
+  type: pypi
+revisions:
+  1.5.5:
+    licensed:
+      declared: Apache-2.0

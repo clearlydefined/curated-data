@@ -1,0 +1,8 @@
+coordinates:
+  name: types-pyyaml
+  provider: pypi
+  type: pypi
+revisions:
+  6.0.12.20261030:
+    licensed:
+      declared: Apache-2.0

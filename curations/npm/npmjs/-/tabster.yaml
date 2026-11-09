@@ -1,0 +1,8 @@
+coordinates:
+  name: tabster
+  provider: npmjs
+  type: npm
+revisions:
+  8.8.1:
+    licensed:
+      declared: MIT

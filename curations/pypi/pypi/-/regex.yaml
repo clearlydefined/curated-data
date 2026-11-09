@@ -147,3 +147,6 @@ revisions:
   2023.8.8:
     licensed:
       declared: Apache-2.0
+  2026.9.29:
+    licensed:
+      declared: Apache-2.0 AND CNRI-Python

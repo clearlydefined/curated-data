@@ -1,0 +1,8 @@
+coordinates:
+  name: follow-redirects
+  provider: npmjs
+  type: npm
+revisions:
+  1.16.2:
+    licensed:
+      declared: MIT

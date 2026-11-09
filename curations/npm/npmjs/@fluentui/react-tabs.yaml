@@ -1,0 +1,9 @@
+coordinates:
+  name: react-tabs
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.12.6:
+    licensed:
+      declared: MIT

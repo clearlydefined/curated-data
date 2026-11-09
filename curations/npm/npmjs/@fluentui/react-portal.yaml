@@ -1,0 +1,9 @@
+coordinates:
+  name: react-portal
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.8.17:
+    licensed:
+      declared: MIT

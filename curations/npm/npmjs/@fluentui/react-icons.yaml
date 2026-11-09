@@ -1,0 +1,9 @@
+coordinates:
+  name: react-icons
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.344:
+    licensed:
+      declared: MIT

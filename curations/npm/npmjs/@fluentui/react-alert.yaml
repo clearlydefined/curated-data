@@ -1,0 +1,9 @@
+coordinates:
+  name: react-alert
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.0.2-beta.1:
+    licensed:
+      declared: MIT

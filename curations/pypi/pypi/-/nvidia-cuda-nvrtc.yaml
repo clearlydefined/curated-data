@@ -1,0 +1,8 @@
+coordinates:
+  name: nvidia-cuda-nvrtc
+  provider: pypi
+  type: pypi
+revisions:
+  13.2.86:
+    licensed:
+      declared: OTHER

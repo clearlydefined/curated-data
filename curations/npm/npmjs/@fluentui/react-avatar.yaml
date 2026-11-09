@@ -1,0 +1,9 @@
+coordinates:
+  name: react-avatar
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.11.9:
+    licensed:
+      declared: MIT

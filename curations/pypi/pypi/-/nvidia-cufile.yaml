@@ -1,0 +1,8 @@
+coordinates:
+  name: nvidia-cufile
+  provider: pypi
+  type: pypi
+revisions:
+  1.17.1.22:
+    licensed:
+      declared: OTHER

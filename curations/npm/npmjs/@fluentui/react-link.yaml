@@ -1,0 +1,9 @@
+coordinates:
+  name: react-link
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.8.6:
+    licensed:
+      declared: MIT

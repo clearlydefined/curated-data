@@ -1,0 +1,9 @@
+coordinates:
+  name: react-skeleton
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.7.7:
+    licensed:
+      declared: MIT

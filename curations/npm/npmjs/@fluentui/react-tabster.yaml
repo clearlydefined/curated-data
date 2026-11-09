@@ -1,0 +1,9 @@
+coordinates:
+  name: react-tabster
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.26.19:
+    licensed:
+      declared: MIT

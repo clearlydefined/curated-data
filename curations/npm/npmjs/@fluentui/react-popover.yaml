@@ -1,0 +1,9 @@
+coordinates:
+  name: react-popover
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.14.10:
+    licensed:
+      declared: MIT

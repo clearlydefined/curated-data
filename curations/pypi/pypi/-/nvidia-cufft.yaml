@@ -1,0 +1,8 @@
+coordinates:
+  name: nvidia-cufft
+  provider: pypi
+  type: pypi
+revisions:
+  12.2.0.57:
+    licensed:
+      declared: OTHER

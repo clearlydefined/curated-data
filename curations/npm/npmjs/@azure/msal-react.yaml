@@ -1,0 +1,9 @@
+coordinates:
+  name: msal-react
+  namespace: '@azure'
+  provider: npmjs
+  type: npm
+revisions:
+  5.7.4:
+    licensed:
+      declared: MIT

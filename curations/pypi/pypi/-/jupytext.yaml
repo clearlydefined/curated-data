@@ -1,0 +1,8 @@
+coordinates:
+  name: jupytext
+  provider: pypi
+  type: pypi
+revisions:
+  1.19.6:
+    licensed:
+      declared: MIT

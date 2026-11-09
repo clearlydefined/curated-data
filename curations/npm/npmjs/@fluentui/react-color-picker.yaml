@@ -1,0 +1,9 @@
+coordinates:
+  name: react-color-picker
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.3.3:
+    licensed:
+      declared: MIT

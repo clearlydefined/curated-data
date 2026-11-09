@@ -1,0 +1,9 @@
+coordinates:
+  name: react-image
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.4.6:
+    licensed:
+      declared: MIT

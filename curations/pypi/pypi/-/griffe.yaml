@@ -1,0 +1,8 @@
+coordinates:
+  name: griffe
+  provider: pypi
+  type: pypi
+revisions:
+  2.4.1:
+    licensed:
+      declared: ISC

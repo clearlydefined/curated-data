@@ -13,3 +13,6 @@ revisions:
         revision: b02ab48cf81034b0f491d04b54624731be987b7e
         type: git
         url: 'https://github.com/azuread/microsoft-authentication-library-for-js/commit/b02ab48cf81034b0f491d04b54624731be987b7e'
+  5.27.0:
+    licensed:
+      declared: MIT

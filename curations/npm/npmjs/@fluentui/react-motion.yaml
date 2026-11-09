@@ -1,0 +1,9 @@
+coordinates:
+  name: react-motion
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.16.5:
+    licensed:
+      declared: MIT

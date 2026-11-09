@@ -1,0 +1,8 @@
+coordinates:
+  name: pyasn1
+  provider: pypi
+  type: pypi
+revisions:
+  0.6.5:
+    licensed:
+      declared: BSD-2-Clause

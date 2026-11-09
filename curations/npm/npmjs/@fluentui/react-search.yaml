@@ -1,0 +1,9 @@
+coordinates:
+  name: react-search
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.4.8:
+    licensed:
+      declared: MIT

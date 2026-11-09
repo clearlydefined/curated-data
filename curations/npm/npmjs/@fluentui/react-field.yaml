@@ -1,0 +1,9 @@
+coordinates:
+  name: react-field
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.5.6:
+    licensed:
+      declared: MIT

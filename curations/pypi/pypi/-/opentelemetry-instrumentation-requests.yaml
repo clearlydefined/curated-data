@@ -1,0 +1,8 @@
+coordinates:
+  name: opentelemetry-instrumentation-requests
+  provider: pypi
+  type: pypi
+revisions:
+  0.66b2:
+    licensed:
+      declared: Apache-2.0

@@ -1,0 +1,9 @@
+coordinates:
+  name: react-positioning
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.23.4:
+    licensed:
+      declared: MIT

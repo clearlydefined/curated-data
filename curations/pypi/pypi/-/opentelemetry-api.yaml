@@ -1,0 +1,8 @@
+coordinates:
+  name: opentelemetry-api
+  provider: pypi
+  type: pypi
+revisions:
+  1.45.2:
+    licensed:
+      declared: Apache-2.0

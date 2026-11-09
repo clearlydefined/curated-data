@@ -1,0 +1,9 @@
+coordinates:
+  name: react-carousel
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.9.16:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: pyjwt
+  provider: pypi
+  type: pypi
+revisions:
+  2.15.1:
+    licensed:
+      declared: MIT

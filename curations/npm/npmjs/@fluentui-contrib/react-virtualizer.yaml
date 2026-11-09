@@ -1,0 +1,9 @@
+coordinates:
+  name: react-virtualizer
+  namespace: '@fluentui-contrib'
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.0:
+    licensed:
+      declared: MIT

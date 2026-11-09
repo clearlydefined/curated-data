@@ -1,0 +1,9 @@
+coordinates:
+  name: react-swatch-picker
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.6.3:
+    licensed:
+      declared: MIT

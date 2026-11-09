@@ -1,0 +1,9 @@
+coordinates:
+  name: react-checkbox
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.6.6:
+    licensed:
+      declared: MIT

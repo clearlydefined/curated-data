@@ -1,0 +1,9 @@
+coordinates:
+  name: react-tree
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.16.10:
+    licensed:
+      declared: MIT

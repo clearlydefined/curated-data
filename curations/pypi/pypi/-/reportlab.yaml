@@ -1,0 +1,8 @@
+coordinates:
+  name: reportlab
+  provider: pypi
+  type: pypi
+revisions:
+  5.1.0:
+    licensed:
+      declared: BSD-3-Clause

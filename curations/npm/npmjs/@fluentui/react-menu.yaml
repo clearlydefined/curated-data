@@ -1,0 +1,9 @@
+coordinates:
+  name: react-menu
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.25.8:
+    licensed:
+      declared: MIT

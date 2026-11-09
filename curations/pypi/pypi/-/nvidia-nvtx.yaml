@@ -1,0 +1,8 @@
+coordinates:
+  name: nvidia-nvtx
+  provider: pypi
+  type: pypi
+revisions:
+  13.2.86:
+    licensed:
+      declared: Apache-2.0

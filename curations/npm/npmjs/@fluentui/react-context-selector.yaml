@@ -1,0 +1,9 @@
+coordinates:
+  name: react-context-selector
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.2.21:
+    licensed:
+      declared: MIT

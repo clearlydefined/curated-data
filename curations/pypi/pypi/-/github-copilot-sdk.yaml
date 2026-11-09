@@ -1,0 +1,8 @@
+coordinates:
+  name: github-copilot-sdk
+  provider: pypi
+  type: pypi
+revisions:
+  1.0.22:
+    licensed:
+      declared: MIT

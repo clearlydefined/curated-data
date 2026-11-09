@@ -1,0 +1,8 @@
+coordinates:
+  name: nvidia-nvshmem-cu13
+  provider: pypi
+  type: pypi
+revisions:
+  3.7.2:
+    licensed:
+      declared: OTHER

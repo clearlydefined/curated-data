@@ -12,3 +12,6 @@ revisions:
   3.6.0:
     licensed:
       declared: Unlicense
+  4.2.1:
+    licensed:
+      declared: MIT

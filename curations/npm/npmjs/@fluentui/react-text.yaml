@@ -1,0 +1,9 @@
+coordinates:
+  name: react-text
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.6.21:
+    licensed:
+      declared: MIT

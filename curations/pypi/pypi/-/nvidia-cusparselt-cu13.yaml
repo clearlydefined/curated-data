@@ -1,0 +1,8 @@
+coordinates:
+  name: nvidia-cusparselt-cu13
+  provider: pypi
+  type: pypi
+revisions:
+  0.8.1:
+    licensed:
+      declared: OTHER

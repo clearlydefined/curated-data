@@ -1,0 +1,8 @@
+coordinates:
+  name: ollama
+  provider: pypi
+  type: pypi
+revisions:
+  0.6.3:
+    licensed:
+      declared: MIT

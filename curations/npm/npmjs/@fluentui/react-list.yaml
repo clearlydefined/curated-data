@@ -1,0 +1,9 @@
+coordinates:
+  name: react-list
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.7.0:
+    licensed:
+      declared: MIT

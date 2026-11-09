@@ -1,0 +1,8 @@
+coordinates:
+  name: botocore
+  provider: pypi
+  type: pypi
+revisions:
+  1.43.120:
+    licensed:
+      declared: Apache-2.0

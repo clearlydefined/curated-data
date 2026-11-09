@@ -12,3 +12,6 @@ revisions:
         revision: 1569fac603d9a50022e1474b494eebf970a2a3af
         type: git
         url: 'https://github.com/pytest-dev/pytest/commit/1569fac603d9a50022e1474b494eebf970a2a3af'
+  9.2.0:
+    licensed:
+      declared: MIT

@@ -1,0 +1,9 @@
+coordinates:
+  name: react-tag-picker
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.10.6:
+    licensed:
+      declared: MIT

@@ -1,0 +1,8 @@
+coordinates:
+  name: virtualenv
+  provider: pypi
+  type: pypi
+revisions:
+  21.14.13:
+    licensed:
+      declared: MIT

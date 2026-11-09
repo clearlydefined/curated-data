@@ -1,0 +1,8 @@
+coordinates:
+  name: types-aiofiles
+  provider: pypi
+  type: pypi
+revisions:
+  25.1.0.20260518:
+    licensed:
+      declared: Apache-2.0

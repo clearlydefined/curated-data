@@ -129,3 +129,6 @@ revisions:
   9.5.0:
     licensed:
       declared: MIT-CMU
+  13.0.0:
+    licensed:
+      declared: MIT-CMU

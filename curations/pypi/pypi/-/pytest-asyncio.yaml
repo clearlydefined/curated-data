@@ -1,0 +1,8 @@
+coordinates:
+  name: pytest-asyncio
+  provider: pypi
+  type: pypi
+revisions:
+  1.4.1.post1:
+    licensed:
+      declared: Apache-2.0

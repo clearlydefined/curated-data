@@ -1,0 +1,9 @@
+coordinates:
+  name: react-table
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.19.23:
+    licensed:
+      declared: MIT

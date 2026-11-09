@@ -1,0 +1,8 @@
+coordinates:
+  name: ruff
+  provider: pypi
+  type: pypi
+revisions:
+  0.17.3:
+    licensed:
+      declared: MIT

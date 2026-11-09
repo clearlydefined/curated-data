@@ -1,0 +1,9 @@
+coordinates:
+  name: react-teaching-popover
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.7.9:
+    licensed:
+      declared: MIT

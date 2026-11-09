@@ -1,0 +1,8 @@
+coordinates:
+  name: spacy
+  provider: pypi
+  type: pypi
+revisions:
+  3.8.18:
+    licensed:
+      declared: MIT

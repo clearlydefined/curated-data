@@ -1,0 +1,8 @@
+coordinates:
+  name: nvidia-cudnn-cu13
+  provider: pypi
+  type: pypi
+revisions:
+  9.26.0.51:
+    licensed:
+      declared: OTHER

@@ -135,3 +135,6 @@ revisions:
   3.9.2:
     licensed:
       declared: PSF-2.0
+  3.11.2:
+    licensed:
+      declared: OTHER

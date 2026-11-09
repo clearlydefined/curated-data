@@ -1,0 +1,9 @@
+coordinates:
+  name: msal-common
+  namespace: '@azure'
+  provider: npmjs
+  type: npm
+revisions:
+  16.15.0:
+    licensed:
+      declared: MIT

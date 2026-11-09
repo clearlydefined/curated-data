@@ -1,0 +1,9 @@
+coordinates:
+  name: react-dialog
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.18.6:
+    licensed:
+      declared: MIT

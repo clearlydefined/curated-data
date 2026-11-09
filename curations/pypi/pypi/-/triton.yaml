@@ -1,0 +1,8 @@
+coordinates:
+  name: triton
+  provider: pypi
+  type: pypi
+revisions:
+  3.9.0:
+    licensed:
+      declared: MIT

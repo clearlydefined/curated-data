@@ -1,0 +1,8 @@
+coordinates:
+  name: react-joyride
+  provider: npmjs
+  type: npm
+revisions:
+  3.2.0:
+    licensed:
+      declared: MIT

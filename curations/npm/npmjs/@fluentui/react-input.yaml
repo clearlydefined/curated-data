@@ -1,0 +1,9 @@
+coordinates:
+  name: react-input
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.8.8:
+    licensed:
+      declared: MIT

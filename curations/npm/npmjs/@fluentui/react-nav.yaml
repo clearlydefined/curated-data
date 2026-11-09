@@ -1,0 +1,9 @@
+coordinates:
+  name: react-nav
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.4.9:
+    licensed:
+      declared: MIT

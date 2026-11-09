@@ -1,0 +1,9 @@
+coordinates:
+  name: react-shared-contexts
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.26.4:
+    licensed:
+      declared: MIT

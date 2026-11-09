@@ -1,0 +1,9 @@
+coordinates:
+  name: react-aria
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.17.16:
+    licensed:
+      declared: MIT

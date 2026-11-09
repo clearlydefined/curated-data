@@ -1,0 +1,9 @@
+coordinates:
+  name: react-accordion
+  namespace: '@fluentui'
+  provider: npmjs
+  type: npm
+revisions:
+  9.12.5:
+    licensed:
+      declared: MIT
