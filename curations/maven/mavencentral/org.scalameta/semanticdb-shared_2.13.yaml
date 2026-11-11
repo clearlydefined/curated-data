@@ -1,0 +1,9 @@
+coordinates:
+  name: semanticdb-shared_2.13
+  namespace: org.scalameta
+  provider: mavencentral
+  type: maven
+revisions:
+  4.13.1.1:
+    licensed:
+      declared: BSD-3-Clause
