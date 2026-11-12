@@ -1,0 +1,8 @@
+coordinates:
+  name: appscript
+  provider: pypi
+  type: pypi
+revisions:
+  1.3.0:
+    licensed:
+      declared: LicenseRef-scancode-public-domain
