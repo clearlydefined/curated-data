@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  0.1.9-alpha001-patch1:
+    licensed:
+      declared: NONE
   1.7.0-custom-5:
     licensed:
       declared: NONE
