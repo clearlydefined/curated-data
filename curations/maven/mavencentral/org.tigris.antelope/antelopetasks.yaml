@@ -1,0 +1,9 @@
+coordinates:
+  name: antelopetasks
+  namespace: org.tigris.antelope
+  provider: mavencentral
+  type: maven
+revisions:
+  3.2.10:
+    licensed:
+      declared: NONE
