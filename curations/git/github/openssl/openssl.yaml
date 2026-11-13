@@ -4,6 +4,39 @@ coordinates:
   provider: github
   type: git
 revisions:
+  005563bbce6e66b9c481fd39574b0ffcd2a34292:
+    licensed:
+      declared: OpenSSL
+  00a7e5ea1e51f58180cd7aa4028e998949a36d66:
+    licensed:
+      declared: Apache-2.0
+  01c09f9fde5793e0b3712d602b02e2aed4908e8d:
+    licensed:
+      declared: OpenSSL
+  01d5e2318405362b4de5e670c90d9b40a351d053:
+    licensed:
+      declared: Apache-2.0
+  036f8e71e39a9005cf55cd1f832dd7aafc06ae84:
+    licensed:
+      declared: Apache-2.0
+  03b8620d6e9b7b4d5701865edb6ad86101fe5517:
+    licensed:
+      declared: Apache-2.0
+  045a158e616abfaf949449f8e96fda6742951692:
+    licensed:
+      declared: Apache-2.0
+  05f360d9e849a1b277db628f1f13083a7f8dd04f:
+    licensed:
+      declared: Apache-2.0
+  05feb0a0f1fecb6839888bb7590fb92be70d8d3c:
+    licensed:
+      declared: Apache-2.0
+  07e727d304746edb49a98ee8f6ab00256e1f012b:
+    licensed:
+      declared: Apache-2.0
+  0893a62353583343eb712adef6debdfbe597c227:
+    licensed:
+      declared: Apache-2.0
   3ce7bc40a3c48da1c96c2d04c10045bd797c6aa3:
     licensed:
       declared: OpenSSL
@@ -13,6 +46,9 @@ revisions:
   8b1549a153a62e9878327d05aa3b6622b416ec10:
     licensed:
       declared: OpenSSL
+  aea7aaf2abb04789f5868cbabec406ea43aa84bf:
+    licensed:
+      declared: Apache-2.0
   b7896b3cb86d80206af14a14d69b0717786f2729:
     licensed:
       declared: SSLeay-standalone
