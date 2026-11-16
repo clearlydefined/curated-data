@@ -343,9 +343,150 @@ revisions:
   8b8226e582c0d465a0304af97c4a41fb07d3d65c:
     licensed:
       declared: Apache-2.0
+  8d1e59d307af4628de32459a36a868ddf159dbfc:
+    licensed:
+      declared: Apache-2.0
+  8f395e0f4d678d82cb0de45b80e0b2ae9b57a58a:
+    licensed:
+      declared: OpenSSL
+  8fabfd81094d1d9f8890df4bee083aa6f77d769d:
+    licensed:
+      declared: Apache-2.0
+  8ffa005476942fc89d247448f95077c104efadf1:
+    licensed:
+      declared: Apache-2.0
+  9010cc0eeec6c80cc04ce09985bdcc69f4b8317b:
+    licensed:
+      declared: Apache-2.0
+  9043e50a396fab5b58435a1fb77f84ce9a8432b1:
+    licensed:
+      declared: Apache-2.0
+  958ada0d0827875db78bcdf0a98b83043b30fff1:
+    licensed:
+      declared: Apache-2.0
+  97c0959f27b294fe1eb10b547145ebef2524b896:
+    licensed:
+      declared: OpenSSL
+  98acb6b02839c609ef5b837794e08d906d965335:
+    licensed:
+      declared: Apache-2.0
+  99e6624ebb8a5943ab9699ed4ab221e8b29a31dd:
+    licensed:
+      declared: Apache-2.0
+  9bd2dde42f59d60dfec149a28f8c91b6fb2cf717:
+    licensed:
+      declared: OpenSSL
+  9cff14fd97814baf8a9a07d8447960a64d616ada:
+    licensed:
+      declared: Apache-2.0
+  9d4f44f3e72e3c45385a8b64161a57ff9f6a54bf:
+    licensed:
+      declared: Apache-2.0
+  9e8604b891483e2d06bb994460ca18b93011fdde:
+    licensed:
+      declared: Apache-2.0
+  9f551541e84eead1d42604b7d5e61885e8e34be0:
+    licensed:
+      declared: Apache-2.0
+  9fa506681c842bf9b27ddf4ea8579c4695be3bfa:
+    licensed:
+      declared: OpenSSL
+  a0f8d282d728a3584f08ecb5f8321c37bb06dd28:
+    licensed:
+      declared: OpenSSL
+  a167e8efc2082b617ef9ccda8c34d2d57e5ecb4d:
+    licensed:
+      declared: Apache-2.0
+  a22063cd69a077cc68bb4c10e9f351f75899b194:
+    licensed:
+      declared: Apache-2.0
+  a26d85337dbdcd33c971f38eb3fa5150e75cea87:
+    licensed:
+      declared: Apache-2.0
+  a3b54f0f5de1ad17889fd23aee7c230eefc300cd:
+    licensed:
+      declared: OpenSSL
+  a7e992847de83aa36be0c399c89db3fb827b0be2:
+    licensed:
+      declared: Apache-2.0
+  a910a9e98f08c48c4ea24651a29872e71748f969:
+    licensed:
+      declared: OpenSSL
+  a92271e03a8d0dee507b6f1e7f49512568b2c7ad:
+    licensed:
+      declared: Apache-2.0
+  abd30777cc72029e8a44e4b67201cae8ed3d19c1:
+    licensed:
+      declared: OpenSSL
+  ac2c44c6289f9716de4c4beeb284a818eacde517:
+    licensed:
+      declared: OpenSSL
+  ac3b44faf3bb51592e5d7904168801bc72ae3556:
+    licensed:
+      declared: Apache-2.0
+  ad4910fad22d57c6d685b0ca83bdb7b2bf69d8fd:
+    licensed:
+      declared: Apache-2.0
   aea7aaf2abb04789f5868cbabec406ea43aa84bf:
+    licensed:
+      declared: Apache-2.0
+  b07412ef80ebbcdb8ce2c9fbf714802288fc7ee4:
+    licensed:
+      declared: Apache-2.0
+  b0ee17ad475c97f068c7314efafdd8a53d92af54:
+    licensed:
+      declared: OpenSSL
+  b2758a2292aceda93e9f44c219b94fe21bb9a650:
+    licensed:
+      declared: OpenSSL
+  b467d394eb11ac94500d9f003426f5fa75d60c3c:
+    licensed:
+      declared: Apache-2.0
+  b4e83ed7cd99c12d27e0e220c3afa1745a68f921:
     licensed:
       declared: Apache-2.0
   b7896b3cb86d80206af14a14d69b0717786f2729:
     licensed:
       declared: SSLeay-standalone
+  bb08637ec0f94917ef05eb149b5f4497a387a102:
+    licensed:
+      declared: Apache-2.0
+  bd31d02e412f80f53073a1eb776dffe06ac91746:
+    licensed:
+      declared: OpenSSL
+  be2df12a349eae53805dd3cb19aa18e3d022acd7:
+    licensed:
+      declared: OpenSSL
+  c08128acc2dc5c4c8c1083f0f2bded2e1f097a0d:
+    licensed:
+      declared: OpenSSL
+  c10e643222ce5a185f2980d7352d545afacb0fed:
+    licensed:
+      declared: Apache-2.0
+  c1a0d1e0597ecab7a6f90e6c55c5346b3cca5b27:
+    licensed:
+      declared: Apache-2.0
+  c1eeb9406b6142148f267594197d853403d10208:
+    licensed:
+      declared: Apache-2.0
+  c2bbf058736b8cb5b32e78a50d1410fa34cc8284:
+    licensed:
+      declared: OpenSSL
+  c3cc0f1386b0544383a61244a4beeb762b67498f:
+    licensed:
+      declared: Apache-2.0
+  c4da9ac23de497ce039a102e6715381047899447:
+    licensed:
+      declared: Apache-2.0
+  c523121f902fde2929909dc7f76b13ceb4961efe:
+    licensed:
+      declared: Apache-2.0
+  c809b02206999a4d1db27d91b357b59c16a73cff:
+    licensed:
+      declared: Apache-2.0
+  c8bd5a57108599ac650bbae77fcabe3109dab2e8:
+    licensed:
+      declared: Apache-2.0
+  c9a9e5b10105ad850b6e4d1122c645c67767c341:
+    licensed:
+      declared: Apache-2.0
