@@ -1,0 +1,8 @@
+coordinates:
+  name: Viki.LoadRunner
+  provider: nuget
+  type: nuget
+revisions:
+  0.8.80-beta:
+    licensed:
+      declared: GPL-3.0-only
