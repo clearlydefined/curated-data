@@ -1,0 +1,33 @@
+coordinates:
+  name: arcore-android-sdk
+  namespace: google-ar
+  provider: github
+  type: git
+revisions:
+  98cb803de5482fb2b36effe8be3b5a0d3b726976:
+    files:
+      - attributions:
+          - Copyright (c) 1996-1997 Andreas Dilger
+          - Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc.
+          - Copyright (c) 2013, Thomas G. Lane, Guido Vollbeding Caution
+          - Copyright (c) 1998-2002,2004,2006-2015 Glenn Randers-Pehrson
+        license: OTHER
+        path: tools/arcoreimg/linux/arcoreimg
+      - attributions:
+          - copyright Keep Copy
+          - Copyright 1995-2013 Mark Adler
+          - Copyright (c) 1996-1997 Andreas Dilger
+          - Copyright 1995-2013 Jean-loup Gailly and Mark Adler
+          - Copyright (c) 2013, Thomas G. Lane, Guido Vollbeding
+          - Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc.
+          - Copyright (c) 1998-2002,2004,2006-2015 Glenn Randers-Pehrson
+        license: OTHER
+        path: tools/arcoreimg/macos/arcoreimg
+      - attributions:
+          - Copyright 1995-2013 Mark Adler
+          - Copyright (c) 2013, Thomas G. Lane, Guido Vollbeding
+          - Copyright 1995-2013 Jean-loup Gailly and Mark Adler Qkkbal MGiI
+        license: OTHER
+        path: tools/arcoreimg/windows/arcoreimg.exe
+    licensed:
+      declared: Apache-2.0
