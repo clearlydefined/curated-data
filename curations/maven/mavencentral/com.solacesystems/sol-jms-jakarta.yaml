@@ -1,0 +1,9 @@
+coordinates:
+  name: sol-jms-jakarta
+  namespace: com.solacesystems
+  provider: mavencentral
+  type: maven
+revisions:
+  10.29.0:
+    licensed:
+      declared: OTHER
