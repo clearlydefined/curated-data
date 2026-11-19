@@ -1,0 +1,9 @@
+coordinates:
+  name: player
+  namespace: '@remotion'
+  provider: npmjs
+  type: npm
+revisions:
+  4.1.0-alpha9:
+    licensed:
+      declared: OTHER

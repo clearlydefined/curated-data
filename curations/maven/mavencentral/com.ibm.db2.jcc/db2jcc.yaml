@@ -1,0 +1,9 @@
+coordinates:
+  name: db2jcc
+  namespace: com.ibm.db2.jcc
+  provider: mavencentral
+  type: maven
+revisions:
+  db2jcc4:
+    licensed:
+      declared: OTHER
