@@ -1,0 +1,8 @@
+coordinates:
+  name: flake8-pep3101
+  provider: pypi
+  type: pypi
+revisions:
+  3.0.0:
+    licensed:
+      declared: GPL-2.0-only
