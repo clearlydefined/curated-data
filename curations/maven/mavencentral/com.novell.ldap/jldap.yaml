@@ -1,0 +1,9 @@
+coordinates:
+  name: jldap
+  namespace: com.novell.ldap
+  provider: mavencentral
+  type: maven
+revisions:
+  '2009-10-07':
+    licensed:
+      declared: OLDAP-2.8
