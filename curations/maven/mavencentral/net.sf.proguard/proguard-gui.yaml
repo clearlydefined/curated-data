@@ -1,0 +1,9 @@
+coordinates:
+  name: proguard-gui
+  namespace: net.sf.proguard
+  provider: mavencentral
+  type: maven
+revisions:
+  '5.1':
+    licensed:
+      declared: GPL-2.0-or-later

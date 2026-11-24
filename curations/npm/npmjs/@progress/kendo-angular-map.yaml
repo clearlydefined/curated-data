@@ -1,0 +1,9 @@
+coordinates:
+  name: kendo-angular-map
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  12.1.0:
+    licensed:
+      declared: OTHER
