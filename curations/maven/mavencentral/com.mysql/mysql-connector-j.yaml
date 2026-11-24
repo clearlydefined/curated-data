@@ -4,6 +4,9 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  26.7.0:
+    licensed:
+      declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
   8.0.31:
     licensed:
       declared: GPL-2.0-only WITH Universal-FOSS-exception-1.0 AND OTHER
