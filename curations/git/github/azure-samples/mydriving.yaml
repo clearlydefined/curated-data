@@ -1,0 +1,9 @@
+coordinates:
+  name: mydriving
+  namespace: azure-samples
+  provider: github
+  type: git
+revisions:
+  118b1deda2a8af04615ef2604ca6c5eee33d4023:
+    licensed:
+      declared: MIT
