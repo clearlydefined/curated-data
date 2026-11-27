@@ -1,0 +1,16 @@
+coordinates:
+  name: repo-standards
+  provider: pypi
+  type: pypi
+revisions:
+  8.22.0:
+    described:
+      sourceLocation:
+        name: repo-standards
+        namespace: sarj-ai
+        provider: github
+        revision: 825c85dd45833c51aeda472bda3e7d4e7ddd9925
+        type: git
+        url: https://github.com/sarj-ai/repo-standards/commit/825c85dd45833c51aeda472bda3e7d4e7ddd9925
+    licensed:
+      declared: MIT
