@@ -1,0 +1,16 @@
+coordinates:
+  name: code-standards
+  provider: pypi
+  type: pypi
+revisions:
+  9.155.1:
+    described:
+      sourceLocation:
+        name: code-standards
+        namespace: sarj-ai
+        provider: github
+        revision: 3dcd81482ae08e225553b715b4e8880dc58588ce
+        type: git
+        url: https://github.com/sarj-ai/code-standards/commit/3dcd81482ae08e225553b715b4e8880dc58588ce
+    licensed:
+      declared: MIT
